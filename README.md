@@ -4,9 +4,9 @@ A comprehensive collection of flag SVGs and metadata for countries, subdivisions
 
 ## Repository Structure
 
-Each flag is represented by two files with matching base names:
-- `{id}.svg` - The flag image in SVG format
-- `{id}.json` - Metadata about the flag
+Each flag is represented by two files with matching base names in the `data/` directory:
+- `data/{id}.svg` - The flag image in SVG format
+- `data/{id}.json` - Metadata about the flag
 
 ## File Naming Convention
 
@@ -168,7 +168,7 @@ Each JSON file contains the following fields:
 ## Usage
 
 The consistent naming structure allows for easy programmatic access:
-- Given an ID like "US-TX", both `US-TX.svg` and `US-TX.json` can be reliably located
+- Given an ID like "US-TX", both `data/US-TX.svg` and `data/US-TX.json` can be reliably located
 - The hierarchical naming reflects real-world administrative relationships
 - Historical flags are clearly distinguished by time periods in their IDs
 
