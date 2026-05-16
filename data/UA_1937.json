@@ -1,0 +1,43 @@
+{
+  "id": "UA_1937",
+  "name": "Ukrainian SSR (1929–1937)",
+  "type": ["historical", "country"],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q161734"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "red", "symbolism": "the revolutionary struggle of the working class" },
+    { "color": "gold", "symbolism": "the Cyrillic abbreviation in gold" }
+  ],
+  "description": "A red field with the gold Cyrillic letters У.С.Р.Р. (UkrSSR) in the upper hoist, surrounded by a gold border.",
+  "history": "Adopted in 1929 with a redesigned acronym using the Ukrainian-language transcription У.С.Р.Р. (Ukrainska Sotsialistychna Radianska Respublika). A gold border was added to the field. Replaced in 1937.",
+  "variant": ["civil", "state"],
+  "periods": [
+    { "start": "1929", "end": "1937" }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Ukrainian_Soviet_Socialist_Republic",
+    "https://en.wikipedia.org/wiki/Ukrainian_Soviet_Socialist_Republic"
+  ],
+  "features": [
+    {
+      "type": "bordure",
+      "field": "red",
+      "border": "gold"
+    },
+    {
+      "type": "glyph",
+      "color": "gold",
+      "position": "upper-hoist",
+      "role": "Cyrillic letters У.С.Р.Р. (the Ukrainian-language acronym for the Ukrainian Soviet Socialist Republic)"
+    }
+  ]
+}

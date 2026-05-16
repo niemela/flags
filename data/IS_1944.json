@@ -1,0 +1,35 @@
+{
+  "id": "IS_1944",
+  "name": "Iceland (1944–1991)",
+  "type": ["country"],
+  "codes": {
+    "iso_3166_1_alpha2": "IS",
+    "wikidata": "Q189"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics"
+  ],
+  "aspect_ratio": "18:25",
+  "colors": [
+    { "color": "blue", "symbolism": "the Atlantic Ocean and the mountains" },
+    { "color": "white", "symbolism": "ice and snow" },
+    { "color": "red", "symbolism": "volcanic fire" }
+  ],
+  "description": "The 1944–1991 civil flag of Iceland — a deep cobalt-blue field bearing a white-fimbriated red Nordic cross. Identical in pattern to the current flag but with the original (un-standardized) shade of blue.",
+  "history": "When Iceland became a republic on 17 June 1944, the kingdom-era flag (adopted 1915, made the state flag in 1918) was retained. The exact colours were not legally standardized until 1991, when the blue was officially set to a darker shade.",
+  "variant": ["civil"],
+  "periods": [{ "start": "1944-06-17", "end": "1991" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Iceland"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "blue",
+      "cross": "red",
+      "fimbriation": { "color": "white", "around": "cross" }
+    }
+  ]
+}
