@@ -1,0 +1,45 @@
+{
+  "id": "LY-cyrenaica",
+  "name": "Cyrenaica (Libya)",
+  "type": ["subdivision"],
+  "parent": "LY",
+  "codes": {
+    "wikidata": "Q1057"
+  },
+  "region": [
+    "Africa",
+    "Northern Africa",
+    "Maghreb",
+    "MENA",
+    "Arab World"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "black", "symbolism": "the field" },
+    { "color": "white", "symbolism": "the star and crescent" }
+  ],
+  "description": "A black field charged with a white crescent and five-pointed star at the centre.",
+  "history": "The flag of the Emirate of Cyrenaica (1949–1951) under Idris al-Senussi. After Libyan independence in 1951, the Cyrenaican flag became the central black stripe of the new Libyan flag. Following the 2011 Libyan civil war, autonomist movements in eastern Libya have revived its use.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyrenaica",
+    "https://en.wikipedia.org/wiki/Emirate_of_Cyrenaica"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "black"
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "center"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center"
+    }
+  ]
+}
