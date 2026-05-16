@@ -1,8 +1,54 @@
 {
   "id": "NL-NH",
-  "title": "North Holland (Netherlands)",
-  "iso": "NL-NH",
+  "name": "North Holland (Netherlands)",
   "type": [
     "subdivision"
+  ],
+  "parent": "NL",
+  "codes": {
+    "iso_3166_2": "NL-NH",
+    "wikidata": "Q701"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "shared between the West Frisian and Holland traditions"
+    },
+    {
+      "color": "red",
+      "symbolism": "from the historic colours of Holland"
+    },
+    {
+      "color": "blue",
+      "symbolism": "from the historic colours of West Friesland"
+    }
+  ],
+  "description": "Three equal horizontal bands of yellow (top), red, and blue.",
+  "history": "Adopted by the provincial council on 22 October 1958. The flag merges the colour traditions of West Friesland and Holland, the two regions whose union forms the modern province.",
+  "periods": [
+    {
+      "start": "1958-10-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_North_Holland"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "blue"
+      ],
+      "count": 3,
+      "symbolism": "the colours combine West Frisian (blue and yellow) and Holland (red and yellow) traditions, reflecting the province's two historical components"
+    }
   ]
 }

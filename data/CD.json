@@ -1,8 +1,66 @@
 {
   "id": "CD",
-  "title": "Congo-Kinshasa",
-  "iso": "CD",
+  "name": "Democratic Republic of the Congo",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "CD",
+    "iso_3166_1_alpha3": "COD",
+    "fifa": "COD",
+    "ioc": "COD",
+    "wikidata": "Q974"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Middle Africa",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "peace"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood of the country's martyrs"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the country's wealth (gold and minerals); the fimbriations and the star"
+    }
+  ],
+  "description": "A sky-blue field crossed by a red diagonal stripe running from lower-hoist to upper-fly, fimbriated on each side by a narrow yellow stripe. A single yellow five-pointed star is placed in the upper-hoist quarter, above the diagonal.",
+  "history": "Adopted on 20 February 2006 with the new constitution following the end of the Second Congo War. The design closely resembles the flag of the 1963–1971 Republic of the Congo (Léopoldville), with the colour of the field changed from a darker blue to a lighter sky blue. Between 1971 and 1997 the country (then Zaire under Mobutu Sese Seko) flew a green flag with a yellow disc bearing a hand holding a torch; between 1997 and 2003 it flew a near-identical predecessor of the current flag with darker blue.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "2006-02-20"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Democratic_Republic_of_the_Congo"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "a sky-blue field crossed by a single red diagonal stripe (yellow-fimbriated) from upper-fly to lower-hoist, with a yellow star in the upper-hoist quadrant; blue for peace, red for the blood of the country's martyrs, yellow for the country's wealth"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "yellow five-pointed star",
+      "symbolism": "a radiant future for the country; unity of the nation"
+    }
   ]
 }

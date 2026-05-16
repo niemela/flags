@@ -1,8 +1,75 @@
 {
   "id": "SI",
-  "title": "Slovenia",
-  "iso": "SI",
+  "name": "Slovenia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "SI",
+    "iso_3166_1_alpha3": "SVN",
+    "fifa": "SVN",
+    "ioc": "SLO",
+    "wikidata": "Q215"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union",
+    "Slavic",
+    "Balkans"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "pan-Slavic; also from the silver of the Carniolan eagle's field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "pan-Slavic; also from the azure of the Carniolan eagle and the sea/sky"
+    },
+    {
+      "color": "red",
+      "symbolism": "pan-Slavic; also from the gules of the Carniolan crescent"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "from the gold of three six-pointed stars on the coat of arms"
+    }
+  ],
+  "description": "Three equal horizontal stripes — white, blue and red from top to bottom — with the national coat of arms placed in the upper hoist quarter, straddling the white and blue stripes.",
+  "history": "The white-blue-red tricolour has been a Slovenian national symbol since 1848, when it was raised in Ljubljana on 7 April during the Spring of Nations as a deliberate alternative to the Austrian black-and-yellow. The colours derive from the medieval arms of the Duchy of Carniola (silver, blue, gold) and were also chosen to express Slavic solidarity. The current flag with the new coat of arms was adopted on 27 June 1991, two days after Slovenia's declaration of independence from Yugoslavia, replacing the SR Slovenia tricolour with red star.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1991-06-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Slovenia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "the pan-Slavic colours; also derived from the medieval arms of the Duchy of Carniola (a blue eagle on a silver shield, with a red-and-gold crescent), the historic core of Slovenia"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "upper-hoist",
+      "role": "Coat of arms of Slovenia",
+      "symbolism": "a blue shield with a stylised white representation of Mount Triglav (the country's highest peak) above two wavy blue lines (the rivers and the Adriatic), surmounted by three gold six-pointed stars arranged in an inverted triangle (taken from the historic arms of the Counts of Celje, an important medieval Slovenian noble family). Triglav, the rivers and the stars together represent the geography and history of the Slovenian nation"
+    }
   ]
 }

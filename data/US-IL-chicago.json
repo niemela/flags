@@ -1,7 +1,76 @@
 {
   "id": "US-IL-chicago",
-  "title": "Chicago, IL (United States)",
+  "name": "Chicago (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-IL",
+  "codes": {
+    "wikidata": "Q1297"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the three sides of the city — North Side, West Side, and South Side"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "Lake Michigan and the North Branch of the Chicago River (top stripe); the South Branch of the Chicago River and 'the great canal' (bottom stripe)"
+    },
+    {
+      "color": "red",
+      "symbolism": "the four red six-pointed stars, each commemorating a major event in Chicago's history"
+    }
+  ],
+  "description": "Three white horizontal stripes separated by two narrow light-blue stripes, with four red six-pointed stars arranged in a horizontal row across the central white stripe.",
+  "history": "Designed by Wallace Rice as the result of a public competition held by the Chicago City Council and adopted on 4 April 1917 with two stars. A third star was added in 1933 for the Century of Progress Exposition, and a fourth in 1939 for Fort Dearborn (with the existing stars subsequently re-assigned to other historical events). The flag is one of the most-recognised and best-regarded municipal flags in the United States.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1939"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Chicago"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "light-blue",
+        "white",
+        "light-blue",
+        "white"
+      ],
+      "count": 5,
+      "widths": [
+        3,
+        1,
+        4,
+        1,
+        3
+      ],
+      "symbolism": "The two light-blue stripes represent the North and South branches of the Chicago River and Lake Michigan; the three white stripes represent the North, West, and South sides of the city."
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 6,
+      "color": "red",
+      "arrangement": "row",
+      "position": "center",
+      "role": "four six-pointed stars on the central white stripe",
+      "symbolism": "Each red six-pointed star commemorates a major event: Fort Dearborn (1803/1812), the Great Chicago Fire (1871), the World's Columbian Exposition (1893), and the Century of Progress Exposition (1933). The six points of each star carry their own symbolic meanings (transportation, labour, commerce, finance, populousness, salubrity, etc.)."
+    }
   ]
 }

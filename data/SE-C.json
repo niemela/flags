@@ -1,8 +1,50 @@
 {
   "id": "SE-C",
-  "title": "Uppsala (Sweden)",
-  "iso": "SE-C",
+  "name": "Uppsala County (Sweden)",
   "type": [
     "subdivision"
+  ],
+  "parent": "SE",
+  "codes": {
+    "iso_3166_2": "SE-C",
+    "wikidata": "Q104926"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field of the Uppland arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the orb (riksäpple)"
+    }
+  ],
+  "description": "Square red flag charged at centre with the golden royal orb (riksäpple) surmounted by a cross.",
+  "history": "The flag is the heraldic banner of the arms of Uppsala County, derived from the medieval coat of arms of the historic province of Uppland.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Uppsala_County"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the gules field of the historic Uppland provincial arms"
+    },
+    {
+      "type": "circle",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "the riksäpple (royal orb), surmounted by a cross",
+      "symbolism": "the historic emblem of the province of Uppland; the orb represents the royal authority associated with Uppsala"
+    }
   ]
 }

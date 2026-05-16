@@ -1,8 +1,57 @@
 {
   "id": "SE",
-  "title": "Sweden",
-  "iso": "SE",
+  "name": "Sweden",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "SE",
+    "iso_3166_1_alpha3": "SWE",
+    "fifa": "SWE",
+    "ioc": "SWE",
+    "wikidata": "Q34"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "derived from the blue field of the Swedish coat of arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "derived from the gold cross of the Swedish coat of arms"
+    }
+  ],
+  "description": "A blue field charged with a yellow Nordic cross extending to the edges; the vertical arm is shifted toward the hoist. Horizontal proportions 5:2:9, vertical 4:2:4.",
+  "history": "The blue-and-yellow scheme derives from the royal coat of arms attested from at least 1275 (Magnus III); the Three Crowns emblem on a blue field is documented from 1336. The earliest legal description of the cross flag is in a royal warrant of 19 April 1562. The triple-tailed war ensign was regulated on 6 November 1663. Following the dissolution of the union with Norway in 1905, the current civil flag was codified in the Flag Law of 22 June 1906, which established the proportions (5:8) and the lighter shades of blue and yellow used today.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1906-06-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Sweden",
+    "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1982269-om-sveriges-flagga_sfs-1982-269"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "blue",
+      "cross": "yellow",
+      "symbolism": "Christianity; affinity with the other Nordic nations whose flags share the off-center cross"
+    }
   ]
 }

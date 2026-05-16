@@ -1,7 +1,57 @@
 {
   "id": "NO-01",
-  "title": "Østfold (Norway, 1958-2020)",
+  "name": "Østfold (Norway, 1958–2019)",
   "type": [
+    "historical",
     "subdivision"
+  ],
+  "parent": "NO",
+  "codes": {
+    "iso_3166_2": "NO-01",
+    "wikidata": "Q50633"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia"
+  ],
+  "aspect_ratio": "20:21",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field of the county arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "gold (Or) representing the rocky coast"
+    }
+  ],
+  "description": "A red field charged with a stylised gold rocky coastal outline running across the field.",
+  "history": "Granted to Ostfold county on 23 May 1958. The county was abolished on 1 January 2020 when it was merged with Akershus and Buskerud into the new Viken county; following Viken's dissolution, Ostfold was re-established on 1 January 2024 with new arms and flag.",
+  "status": "historical",
+  "periods": [
+    {
+      "start": "1958-05-23",
+      "end": "2019-12-31"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%98stfold",
+    "https://no.wikipedia.org/wiki/%C3%98stfolds_v%C3%A5pen"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "heraldic banner of the county arms: a gold (Or) outline of the rocky coastal landscape of Ostfold on a red field, suggesting the bedrock and skerries of the region"
+    },
+    {
+      "type": "map",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "stylised rocky coastal outline",
+      "symbolism": "the characteristic skerried coast and bedrock of Ostfold"
+    }
   ]
 }

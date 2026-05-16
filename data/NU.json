@@ -1,8 +1,88 @@
 {
   "id": "NU",
-  "title": "Niue",
-  "iso": "NU",
+  "name": "Niue",
   "type": [
     "country"
+  ],
+  "parent": "NZ",
+  "codes": {
+    "iso_3166_1_alpha2": "NU",
+    "iso_3166_1_alpha3": "NIU",
+    "wikidata": "Q34020"
+  },
+  "region": [
+    "Oceania",
+    "Polynesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the bright sunshine of Niue and the warm friendship between Niue and New Zealand"
+    },
+    {
+      "color": "navy",
+      "symbolism": "the dark blue of the Union Flag canton"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross of St George and the saltire of St Patrick within the Union Flag"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltire and cross fimbriations of the Union Flag, and the four small stars of the Southern Cross added on the canton"
+    }
+  ],
+  "symbolism": null,
+  "description": "A yellow field bearing the Union Flag in the upper-hoist canton; on the canton's centre is a large yellow five-pointed star and four smaller yellow stars of the Southern Cross around it.",
+  "history": "Adopted on 15 October 1975, just before Niue achieved self-government in free association with New Zealand on 19 October 1974. The flag's distinctive bright yellow field is unusual among Commonwealth-derived flags; the addition of yellow stars onto the Union Flag canton (rather than placing them on the field) is also unique.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1975-10-15"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Niue"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow",
+      "symbolism": "a deep golden-yellow field said to symbolise the bright sunshine of Niue and the warmth of the Niuean people's affection towards New Zealand and its people"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "role": "Union Flag with five yellow stars added",
+      "symbolism": "the Union Flag denotes Niue's continuing constitutional ties to the British Crown through New Zealand; the additional stars are unique to Niue's flag",
+      "features": [
+        {
+          "type": "star",
+          "count": 1,
+          "points": 5,
+          "color": "yellow",
+          "position": "center",
+          "role": "central yellow star",
+          "symbolism": "Niue itself, self-governing within its free association with New Zealand"
+        },
+        {
+          "type": "star",
+          "count": 4,
+          "points": 5,
+          "color": "yellow",
+          "size": "small",
+          "arrangement": "southern-cross",
+          "role": "four smaller yellow stars in the form of the Southern Cross",
+          "symbolism": "the Southern Cross, recalling Niue's place in the Southern Hemisphere and its links with New Zealand"
+        }
+      ]
+    }
   ]
 }

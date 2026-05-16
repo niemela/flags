@@ -1,8 +1,55 @@
 {
   "id": "NO-15",
-  "title": "Møre and Romsdal (Norway)",
-  "iso": "NO-15",
+  "name": "Møre og Romsdal (Norway)",
   "type": [
     "subdivision"
+  ],
+  "parent": "NO",
+  "codes": {
+    "iso_3166_2": "NO-15",
+    "wikidata": "Q50607"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field of the county arms"
+    },
+    {
+      "color": "gold",
+      "symbolism": "for the three figures, evoking the three districts"
+    }
+  ],
+  "description": "A blue field charged with three identical stylised gold heraldic figures in a horizontal arrangement.",
+  "history": "Adopted by More og Romsdal county in 1978. The three identical figures stand for the three districts of the county: Sunnmore, Romsdal, and Nordmore. More og Romsdal survived the 2020 county reorganisation and continues unchanged.",
+  "periods": [
+    {
+      "start": "1978"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/M%C3%B8re_og_Romsdal",
+    "https://no.wikipedia.org/wiki/M%C3%B8re_og_Romsdal_fylkesv%C3%A5pen"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "heraldic banner of the county arms: three gold figures on a blue field, taken from Viking Age artifacts found in the region; the three figures represent the three traditional districts of Sunnmore, Romsdal, and Nordmore"
+    },
+    {
+      "type": "tool",
+      "count": 3,
+      "color": "gold",
+      "arrangement": "row",
+      "position": "center",
+      "role": "three district emblems",
+      "symbolism": "the three traditional districts: Sunnmore, Romsdal, and Nordmore"
+    }
   ]
 }

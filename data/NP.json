@@ -1,8 +1,76 @@
 {
   "id": "NP",
-  "title": "Nepal",
-  "iso": "NP",
+  "name": "Nepal",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "NP",
+    "iso_3166_1_alpha3": "NPL",
+    "fifa": "NEP",
+    "ioc": "NEP",
+    "wikidata": "Q837"
+  },
+  "region": [
+    "Asia",
+    "Southern Asia"
+  ],
+  "shape": "double-pennant",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the rhododendron (the national flower); bravery; victory"
+    },
+    {
+      "color": "blue",
+      "symbolism": "peace and harmony"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity"
+    }
+  ],
+  "description": "A non-rectangular flag composed of two stacked right-triangular pennons sharing a common hoist. A crimson-red field is bordered on all free edges with a deep blue fimbriation. The upper, smaller pennon bears a white crescent moon with rays in its centre; the lower, larger pennon bears a stylised white sun with twelve rays.",
+  "history": "Nepal is the only sovereign nation whose flag is not rectangular or square. The two pennants were originally the separate banners of the Rana dynasty (the lower triangle) and the Shah kings (the upper triangle); they were joined into a single double-pennon flag in the 19th century. The flag's modern form, with the human faces removed from the moon and sun and exact mathematical proportions specified, was adopted on 16 December 1962 and is laid out in detail in Schedule 1 of the Constitution of Nepal — the most precise geometric construction in any national flag specification.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1962-12-16"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Nepal",
+    "https://www.crwflags.com/fotw/flags/np.html",
+    "https://en.wikipedia.org/wiki/Constitution_of_Nepal"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "field": "red",
+      "fimbriation": {
+        "color": "blue",
+        "around": "all-edges"
+      },
+      "symbolism": "Crimson red is the colour of the rhododendron, the national flower, and a symbol of bravery; the blue border represents peace and harmony. The two stacked triangular pennons recall the twin peaks of the Himalaya and originate as the separate pennants of two ruling houses (the Shah kings and the Rana prime ministers) joined into a single banner."
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "upper-hoist",
+      "rays": 8,
+      "role": "moon (chandra)",
+      "symbolism": "the cool, calm temperament of the Nepali people; the royal house of the Shah dynasty; the hope that Nepal will endure as long as the moon"
+    },
+    {
+      "type": "sun",
+      "color": "white",
+      "position": "lower-hoist",
+      "rays": 12,
+      "role": "sun (surya)",
+      "symbolism": "the fierce resolve of the Nepali people; the Rana family of prime ministers; the hope that Nepal will endure as long as the sun"
+    }
   ]
 }

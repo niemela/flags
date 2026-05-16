@@ -1,8 +1,71 @@
 {
   "id": "LA",
-  "title": "Laos",
-  "iso": "LA",
+  "name": "Laos",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "LA",
+    "iso_3166_1_alpha3": "LAO",
+    "fifa": "LAO",
+    "ioc": "LAO",
+    "wikidata": "Q819"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the blood shed by the Lao people in their struggle for freedom"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the Mekong River and the prosperity of the nation"
+    },
+    {
+      "color": "white",
+      "symbolism": "the full moon over the Mekong; also the unity of the people under the government"
+    }
+  ],
+  "description": "Three horizontal stripes of red, dark blue and red in a 1:2:1 ratio, with a large white disc centred on the wider blue band.",
+  "history": "Designed by Maha Sila Viravong in 1945 and used by the Lao Issara independence movement and later the Pathet Lao. It was adopted as the national flag of the Lao People's Democratic Republic on 2 December 1975, replacing the red flag with a white three-headed elephant of the Kingdom of Laos.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1975-12-02"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Laos"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ],
+      "symbolism": "the red bands represent the blood shed by the Lao people for independence; the broad blue band represents the wealth of the country and the Mekong River"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center",
+      "role": "white disc on the blue band",
+      "symbolism": "the full moon over the Mekong River; the unity of the people and the bright future of the country"
+    }
   ]
 }

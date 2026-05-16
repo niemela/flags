@@ -1,8 +1,96 @@
 {
   "id": "BR-SP",
-  "title": "São Paulo (Brazil)",
-  "iso": "BR-SP",
+  "name": "Sao Paulo state (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-SP",
+    "wikidata": "Q175"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the day; peace"
+    },
+    {
+      "color": "black",
+      "symbolism": "the night, recalling the bandeirantes who marched by night"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed for the homeland; appears on the canton"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the riches of the state, represented by the four golden stars on the canton"
+    },
+    {
+      "color": "blue",
+      "symbolism": "appears on the map of Brazil within the canton"
+    }
+  ],
+  "description": "Thirteen alternating horizontal stripes of black and white, with a red canton in the upper hoist charged with four yellow five-pointed stars surrounding a white disc bearing a blue map of Brazil.",
+  "history": "Designed by the poet Julio Ribeiro and originally proposed in 1888 as a possible national flag for the Republic; rejected at federal level but later adopted as the flag of the State of Sao Paulo. Confirmed by State Law No. 145 of 3 September 1948.",
+  "periods": [
+    {
+      "start": "1948-09-03"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_S%C3%A3o_Paulo_(state)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "white"
+      ],
+      "count": 13,
+      "symbolism": "Black and white were the colours of the bandeirantes, the 17th-century Sao Paulo expeditions that explored the interior of Brazil."
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "position": "upper-hoist",
+      "symbolism": "Red canton with four yellow stars and a central white disc charged with a blue map of Brazil; recalls the standard of the bandeirantes",
+      "features": [
+        {
+          "type": "star",
+          "count": 4,
+          "points": 5,
+          "color": "yellow",
+          "arrangement": "grid",
+          "rows": [
+            2,
+            2
+          ],
+          "role": "the four corners of the state"
+        },
+        {
+          "type": "disc",
+          "color": "white",
+          "position": "center",
+          "role": "white roundel bearing a map of Brazil in blue"
+        },
+        {
+          "type": "map",
+          "color": "blue",
+          "position": "center",
+          "role": "map of Brazil",
+          "symbolism": "Sao Paulo's role as a driver and protagonist of the Brazilian nation"
+        }
+      ]
+    }
   ]
 }

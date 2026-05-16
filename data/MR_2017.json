@@ -1,8 +1,75 @@
 {
-  "id": "MR_1959-2017",
-  "title": "Mauritania (1959-2017)",
+  "id": "MR_2017",
+  "name": "Mauritania (1959-2017)",
   "type": [
     "historical",
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q1009091"
+  },
+  "region": [
+    "Africa",
+    "Northern Africa",
+    "Western Africa",
+    "Maghreb",
+    "Arab World",
+    "MENA",
+    "Sahel"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "Islam, prosperity, and hope"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the sands of the Sahara"
+    }
+  ],
+  "description": "A green field charged in the centre with a horizontal gold crescent (opening upward) topped by a gold five-pointed star.",
+  "history": "Adopted on 1 April 1959 by decree of Prime Minister Moktar Ould Daddah, ahead of independence from France on 28 November 1960. Designed to mark Mauritania's identity as an Islamic Arab-African nation, with the gold crescent and star on a green field signifying Islam and the desert. This flag remained in use for nearly six decades until 5 August 2017, when a constitutional referendum approved adding two horizontal red stripes (top and bottom) to symbolise 'the blood shed by the defenders of the homeland.' The new design replaced this flag on 28 November 2017.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1959-04-01",
+      "end": "2017-11-28"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Mauritania",
+    "https://en.wikipedia.org/wiki/2017_Mauritanian_constitutional_referendum"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green",
+      "symbolism": "Islam and the verdant hopes of the people of Mauritania"
+    },
+    {
+      "type": "crescent",
+      "count": 1,
+      "color": "gold",
+      "position": "center",
+      "rotation": 90,
+      "role": "Crescent",
+      "symbolism": "Islam"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "gold",
+      "position": "center",
+      "role": "Five-pointed star above the crescent",
+      "symbolism": "Islam, in conjunction with the crescent"
+    }
   ]
 }

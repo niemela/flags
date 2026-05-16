@@ -1,8 +1,77 @@
 {
   "id": "KZ",
-  "title": "Kazakhstan",
-  "iso": "KZ",
+  "name": "Kazakhstan",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "KZ",
+    "iso_3166_1_alpha3": "KAZ",
+    "fifa": "KAZ",
+    "ioc": "KAZ",
+    "wikidata": "Q232"
+  },
+  "region": [
+    "Asia",
+    "Central Asia",
+    "Turkic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the eternal blue sky (Tengri); peace, tranquillity, and the unity of the peoples of Kazakhstan"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wealth of the steppe, the dawn of a new era, and a peaceful and prosperous future"
+    }
+  ],
+  "description": "A sky-blue field bearing in the centre a yellow sun of thirty-two rays above a golden steppe eagle with wings outspread. Along the hoist runs a vertical band of yellow national ornament.",
+  "history": "Adopted on 4 June 1992, replacing the flag of the Kazakh SSR after independence. Designed by Shaken Niyazbekov; chosen from over a thousand entries in a national competition. The blue field consciously evokes the colour of the banners of the medieval Turkic khanates and the sky-god Tengri; the eagle and sun are pre-Soviet motifs of nomadic Kazakh heraldry.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1992-06-04"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Kazakhstan"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue",
+      "symbolism": "the endless blue sky — Tengri, the eternal sky-god of the Turkic peoples — and well-being, peace, and the cultural and ethnic unity of all peoples living in Kazakhstan"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 32,
+      "color": "yellow",
+      "position": "center",
+      "role": "sun with thirty-two rays above an eagle",
+      "symbolism": "the source of life and energy; wealth and abundance; the rays are shaped like grain to recall the steppes and Kazakhstan's status as a major grain-producing nation"
+    },
+    {
+      "type": "eagle",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "steppe eagle (golden eagle) with outstretched wings",
+      "symbolism": "the steppe eagle (berkut), a totem of nomadic Kazakh culture; freedom, sovereignty, and the lofty aspirations of the Kazakh people; the open wings express generosity and protection"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "national ornament along the hoist",
+      "symbolism": "a vertical band of traditional Kazakh ornament (koshkar-muiz, 'ram's horns') along the hoist, representing the art and culture of the Kazakh people"
+    }
   ]
 }

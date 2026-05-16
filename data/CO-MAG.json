@@ -1,8 +1,52 @@
 {
   "id": "CO-MAG",
-  "title": "Magdalena (Colombia)",
-  "iso": "CO-MAG",
+  "name": "Magdalena (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-MAG",
+    "wikidata": "Q121126"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the Caribbean Sea and the Magdalena River"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood of the patriots of independence"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace and the snow-capped peaks of the Sierra Nevada"
+    }
+  ],
+  "description": "A blue field with three equally spaced red horizontal stripes, charged with thirty white five-pointed stars arranged in a star-shaped constellation across the centre.",
+  "history": "Magdalena Department traces its origins to the Sovereign State of Magdalena of the United States of Colombia (1857-1886), and was reconstituted as a department in 1910. Its territory takes in the Caribbean coast, the Sierra Nevada de Santa Marta, and the lower Magdalena River basin.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Magdalena_Department"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "blue field crossed by three red horizontal bars and charged with white stars"
+    },
+    {
+      "type": "star",
+      "count": 30,
+      "points": 5,
+      "color": "white",
+      "arrangement": "constellation-other",
+      "symbolism": "stars arranged in a stellated pattern over the field"
+    }
   ]
 }

@@ -1,8 +1,52 @@
 {
   "id": "FI-02",
-  "title": "Etelä-Karjala (Finland)",
-  "iso": "FI-02",
+  "name": "South Karelia (Finland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FI",
+  "codes": {
+    "iso_3166_2": "FI-02",
+    "wikidata": "Q5691"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the gules field of the historic Karelian arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden arms of the Karelian sword-bearing knight"
+    },
+    {
+      "color": "black",
+      "symbolism": "the heraldic outlining of the arms"
+    }
+  ],
+  "description": "A square red flag charged centrally with the gold-armoured Karelian arms: two crowned hands grasping a sword and a scimitar that meet point-to-point above the red field.",
+  "history": "South Karelia (Etelä-Karjala) is one of the regions established in Finland's 1997 reform; its banner is the heraldic flag of the regional coat of arms, which itself draws on the historic provincial arms of Karelia documented from the late sixteenth century.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/South_Karelia",
+    "https://fi.wikipedia.org/wiki/Etel%C3%A4-Karjalan_lippu"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "arms of Karelia",
+      "symbolism": "two crowned arms emerging hoist and fly: the upper bearing a curved Western-style sword, the lower a Russian-style scimitar, in pale on the red field. The motif derives from the historic provincial arms of Karelia and symbolises the long contest between the Western and Eastern Christian spheres over the region."
+    }
   ]
 }

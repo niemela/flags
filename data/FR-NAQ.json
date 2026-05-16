@@ -1,8 +1,52 @@
 {
   "id": "FR-NAQ",
-  "title": "Nouvelle-Aquitaine (France)",
-  "iso": "FR-NAQ",
+  "name": "Nouvelle-Aquitaine (France)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FR",
+  "codes": {
+    "iso_3166_2": "FR-NAQ",
+    "wikidata": "Q18599604"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the principal colour of the regional logo"
+    },
+    {
+      "color": "red",
+      "symbolism": "the secondary colour of the regional logo"
+    }
+  ],
+  "description": "A white field bearing the institutional logo of the Region Nouvelle-Aquitaine in blue and red.",
+  "history": "Nouvelle-Aquitaine is a French region created by the territorial reform of 2016, merging Aquitaine, Limousin, and Poitou-Charentes. France traditionally does not promote regional flags, and the regional council uses an institutional logo flag in a de-facto capacity rather than an officially adopted heraldic banner.",
+  "status": "de-facto",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nouvelle-Aquitaine"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white",
+      "symbolism": "A white field bearing the institutional logo of the Nouvelle-Aquitaine region in blue and red."
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "the institutional logo of the Region Nouvelle-Aquitaine, a stylised abstract device in blue and red",
+      "symbolism": "The logo of the Region Nouvelle-Aquitaine, used by the regional council since the 2016 territorial reform that merged Aquitaine, Limousin, and Poitou-Charentes."
+    }
   ]
 }

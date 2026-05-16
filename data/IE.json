@@ -1,8 +1,64 @@
 {
   "id": "IE",
-  "title": "Ireland",
-  "iso": "IE",
+  "name": "Ireland",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "IE",
+    "iso_3166_1_alpha3": "IRL",
+    "fifa": "IRL",
+    "ioc": "IRL",
+    "wikidata": "Q27"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "European Union",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the Gaelic Irish tradition and Roman Catholic majority"
+    },
+    {
+      "color": "white",
+      "symbolism": "lasting peace and reconciliation between the two communities"
+    },
+    {
+      "color": "orange",
+      "symbolism": "the Protestant minority, drawn from the dynastic colour of William of Orange"
+    }
+  ],
+  "description": "Three equal vertical stripes — green at the hoist, white in the centre, orange at the fly.",
+  "history": "First flown by the nationalist leader Thomas Francis Meagher in March 1848, who had received it from a group of French sympathisers; the design consciously echoed the French tricolour. It came to popular national prominence during the Easter Rising of 1916, when it was raised over the General Post Office in Dublin, and was officially adopted by the Irish Free State in 1922. The flag's status was confirmed in Article 7 of the 1937 Constitution of Ireland (Bunreacht na hÉireann).",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1937-12-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Ireland"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "orange"
+      ],
+      "count": 3,
+      "symbolism": "the green hoist stands for the Gaelic and Catholic tradition of Ireland; the orange fly for the followers of William of Orange (Protestant unionist tradition); the white centre for the lasting peace and brotherhood between the two"
+    }
   ]
 }

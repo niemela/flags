@@ -1,8 +1,68 @@
 {
   "id": "US-FL",
-  "title": "Florida (United States)",
-  "iso": "US-FL",
+  "name": "Florida (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-FL",
+    "fips_state": "12",
+    "wikidata": "Q812"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "A white field charged with a red saltire (diagonal cross). The Great Seal of Florida — circular, with a Seminole woman, a sabal palmetto, a steamboat and a rising sun — is centered over the saltire's intersection.",
+  "history": "Florida's first post-Reconstruction state flag, adopted in 1868, showed the state seal on a plain white field. Governor Francis P. Fleming proposed adding the red saltire in the 1890s to prevent the flag from resembling a flag of surrender or truce when hanging limp; the diagonal cross was approved by referendum on 6 November 1900. The seal has been redesigned several times — most notably in 1985, when the Seminole woman's headdress and other details were corrected.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1900-11-06"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Florida"
+  ],
+  "features": [
+    {
+      "type": "saltire",
+      "field": "white",
+      "saltire": "red",
+      "symbolism": "the red saltire (Cross of Burgundy) was added in 1900 to evoke Florida's Spanish heritage and to keep the flag from looking like a flag of truce when limp"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "the Great Seal of Florida",
+      "symbolism": "depicts a Seminole woman scattering hibiscus flowers, a steamboat, a sabal palmetto (the state tree) and the sun's rays over a coastline; encircled by the words 'GREAT SEAL OF THE STATE OF FLORIDA' and 'IN GOD WE TRUST'"
+    }
   ]
 }

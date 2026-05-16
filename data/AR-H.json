@@ -1,8 +1,69 @@
 {
   "id": "AR-H",
-  "title": "Chaco (Argentina)",
-  "iso": "AR-H",
+  "name": "Chaco (Argentina)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AR",
+  "codes": {
+    "iso_3166_2": "AR-H",
+    "wikidata": "Q44529"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the great forests of El Impenetrable and the agricultural wealth of the province"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity; the central stripe of the Argentine national flag"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the rivers Parana and Paraguay that bound the province; the colours of the Argentine flag"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the Sun of May"
+    }
+  ],
+  "description": "A vertical triband of green, white and light blue with a yellow Sun of May centred on the white stripe.",
+  "history": "Adopted by provincial law 4937 on 17 May 2007 after a public competition. The flag was designed by Mariela Beatriz Aguilar; the colours represent the Chaco landscape — the great forests of El Impenetrable in green, the rivers Parana and Paraguay in light blue, and the white-and-blue link to the Argentine nation — while the central Sun of May ties the province to the May Revolution.",
+  "periods": [
+    {
+      "start": "2007-05-17"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Chaco_Province",
+    "https://es.wikipedia.org/wiki/Bandera_de_la_provincia_del_Chaco"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "light-blue"
+      ],
+      "count": 3,
+      "symbolism": "green for the dense forests of El Impenetrable; white for the Argentine national flag; light blue for the rivers Parana and Paraguay that border the province"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 16,
+      "color": "yellow",
+      "position": "center",
+      "role": "Sun of May",
+      "symbolism": "shared with the national flag of Argentina; commemorates the May Revolution of 1810"
+    }
   ]
 }

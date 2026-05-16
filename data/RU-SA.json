@@ -1,8 +1,74 @@
 {
   "id": "RU-SA",
-  "title": "Sakha (Russia)",
-  "iso": "RU-SA",
+  "name": "Sakha (Yakutia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-SA",
+    "wikidata": "Q6605"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the clear skies, the cold winters, and the spirit of the Sakha (Yakut) people"
+    },
+    {
+      "color": "white",
+      "symbolism": "the long northern winter, snow, and purity"
+    },
+    {
+      "color": "red",
+      "symbolism": "courage, beauty and the friendship of the peoples of Sakha"
+    },
+    {
+      "color": "green",
+      "symbolism": "the taiga, summer pastures, and the renewal of nature"
+    }
+  ],
+  "description": "A horizontal banner with a broad blue field above three narrow stripes -- white, red and green -- in approximate proportions 12:1:1:2. A large white disc is centred on the blue field, representing the sun.",
+  "history": "The flag of the Sakha Republic (Yakutia) was adopted on 14 October 1992 by the Supreme Soviet of the Republic, designed by a team led by Mikhail Starostin. The white sun on the blue field is taken from the republic's coat of arms.",
+  "periods": [
+    {
+      "start": "1992-10-14"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Sakha_Republic",
+    "https://en.wikipedia.org/wiki/Sakha_Republic"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "red",
+        "green"
+      ],
+      "count": 4,
+      "widths": [
+        12,
+        1,
+        1,
+        2
+      ],
+      "symbolism": "the broad blue field stands for the clear skies and the colour of the Sakha people; the narrow stripes evoke the snowy purity, hardiness and friendship of peoples (white), faith and resilience (red), and the taiga forests of Yakutia (green)."
+    },
+    {
+      "type": "circle",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "white sun",
+      "symbolism": "a white disc on the blue stripe representing the sun and warmth in the cold north; an emblem of life, light, and the prosperity of the Sakha people."
+    }
   ]
 }

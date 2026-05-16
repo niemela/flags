@@ -1,8 +1,55 @@
 {
   "id": "SE-N",
-  "title": "Halland (Sweden)",
-  "iso": "SE-N",
+  "name": "Halland County (Sweden)",
   "type": [
     "subdivision"
+  ],
+  "parent": "SE",
+  "codes": {
+    "iso_3166_2": "SE-N",
+    "wikidata": "Q104240"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the azure field of the Halland arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver lion"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lion's tongue, claws, and the hearts"
+    }
+  ],
+  "description": "A square blue flag charged centrally with a silver rampant lion, armed and langued red, on a field strewn with red hearts; the historic emblem of Halland.",
+  "history": "The flag is the heraldic banner of the arms of Halland County, derived from the coat of arms of the historic province of Halland; the lion and hearts derive from the medieval Danish royal arms (Halland was a Danish province until ceded to Sweden in 1645).",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Halland_County",
+    "https://sv.wikipedia.org/wiki/Hallands_l%C3%A4ns_vapen"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the azure field of the historic Halland provincial arms"
+    },
+    {
+      "type": "lion",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "rampant silver lion of Halland",
+      "symbolism": "a silver lion rampant, armed and langued red, on a blue field strewn with red hearts; the historic emblem of the province of Halland, derived from the Danish royal arms (Halland was Danish until 1645)."
+    }
   ]
 }

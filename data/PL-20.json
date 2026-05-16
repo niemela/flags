@@ -1,8 +1,60 @@
 {
   "id": "PL-20",
-  "title": "Podlaskie (Poland)",
-  "iso": "PL-20",
+  "name": "Podlaskie Voivodeship (Poland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "PL",
+  "codes": {
+    "iso_3166_2": "PL-20",
+    "wikidata": "Q54163"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "from the regional heraldry"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "from the regional heraldry"
+    },
+    {
+      "color": "red",
+      "symbolism": "the historic colour of Podlachia, edging the stripes"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the lower fimbriation, drawn from the regional arms"
+    }
+  ],
+  "description": "Two horizontal stripes — white over yellow — separated by a thin red line and bordered along the bottom edge with a thin blue line.",
+  "history": "Adopted by the Podlaskie Voivodeship after its creation in 1999.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Podlaskie_Voivodeship"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "yellow"
+      ],
+      "count": 2,
+      "fimbriation": {
+        "color": "red",
+        "around": "stripes"
+      },
+      "symbolism": "white-yellow stripes drawn from the regional coat of arms, separated and edged with the historic red of the Podlachian land"
+    }
   ]
 }

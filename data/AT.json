@@ -1,8 +1,60 @@
 {
   "id": "AT",
-  "title": "Austria",
-  "iso": "AT",
+  "name": "Austria",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "AT",
+    "iso_3166_1_alpha3": "AUT",
+    "fifa": "AUT",
+    "ioc": "AUT",
+    "wikidata": "Q40"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "from the field of the Babenberg / Austrian coat of arms; popularly associated with a legend of Duke Leopold V at the Siege of Acre (1191), whose white surcoat was drenched in blood except where his belt had covered it, leaving a red-white-red pattern"
+    },
+    {
+      "color": "white",
+      "symbolism": "from the silver fess of the Babenberg / Austrian coat of arms"
+    }
+  ],
+  "description": "Three equal horizontal stripes of red, white, and red.",
+  "history": "One of the oldest national flags still in use, the red-white-red triband originated as the arms of the Babenberg dukes and is first documented on a seal of Duke Frederick II 'the Quarrelsome' issued on 30 November 1230. The colours passed to the Habsburgs after 1278 and identified the Hereditary Lands of Austria within the Habsburg Monarchy, while the dynastic black-yellow served as the imperial flag. The triband was adopted as the national flag of the rump state of German Austria after the dissolution of Austria-Hungary in 1918, formally re-adopted by the Second Republic on 1 May 1945, and the present shade of red was specified as Pantone 186 C by ministerial regulation on 14 May 2018.",
+  "variant": [
+    "civil",
+    "civil-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1230",
+      "end": "1918"
+    },
+    {
+      "start": "1945-05-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Austria"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "the historic colours of the Babenberg dynasty, derived from the red field with silver fess (Gules a fess Argent) of the medieval coat of arms of the Duchy of Austria"
+    }
   ]
 }

@@ -1,7 +1,74 @@
 {
-  "id": "arab-leauge",
-  "title": "Arab League",
+  "id": "arab-league",
+  "name": "Arab League",
   "type": [
-    "organization"
+    "intergovernmental"
+  ],
+  "codes": {
+    "wikidata": "Q7172"
+  },
+  "region": [
+    "Africa",
+    "Northern Africa",
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "MENA",
+    "Arab World"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "Islam; the traditional colour of pan-Arab and Muslim symbolism"
+    },
+    {
+      "color": "white",
+      "symbolism": "the crescent and the Arabic inscription"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the chain of unity surrounding the emblem"
+    }
+  ],
+  "description": "A green field charged with the central emblem of the Arab League: a white crescent (opening upward) enclosing a white Arabic inscription reading 'League of Arab States' (جامعة الدول العربية), the whole encircled by a gold chain of links symbolising the member states.",
+  "history": "The Arab League was founded on 22 March 1945 by Egypt, Iraq, Transjordan, Lebanon, Saudi Arabia, Syria, and Yemen. The flag was adopted on 8 March 1945 with a green field and the seal of the League. The chain originally bore a different number of links matching the founding membership; the 22-link version reflects the membership level at the flag's later standardization. Earlier variants used red or black chains and gold or black script; the modern design with white crescent, white inscription and gold chain on green is the version in current use.",
+  "periods": [
+    {
+      "start": "1945-03-08"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Arab_League",
+    "https://en.wikipedia.org/wiki/Arab_League"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green",
+      "symbolism": "Islam and the colour traditionally associated with Arab and Muslim civilization"
+    },
+    {
+      "type": "seal",
+      "color": "gold",
+      "position": "center",
+      "role": "Seal of the Arab League (gold chain of links)",
+      "symbolism": "the union of Arab states, with the chain's twenty-two links representing the member states at the time of the flag's adoption"
+    },
+    {
+      "type": "crescent",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "symbolism": "Islam; cultural and religious heritage of the Arab world"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Arabic inscription",
+      "symbolism": "Reads جامعة الدول العربية ('League of Arab States') within the crescent"
+    }
   ]
 }

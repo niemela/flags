@@ -1,8 +1,52 @@
 {
   "id": "DE-BW",
-  "title": "Baden-Württemberg (Germany)",
-  "iso": "DE-BW",
+  "name": "Baden-Wuerttemberg (Germany)",
   "type": [
     "subdivision"
+  ],
+  "parent": "DE",
+  "codes": {
+    "iso_3166_2": "DE-BW",
+    "wikidata": "Q985"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the historic colours of Swabia and the Hohenstaufen"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the historic gold of Swabia"
+    }
+  ],
+  "description": "Two equal horizontal stripes of black over gold (yellow).",
+  "history": "Adopted with the formation of Baden-Wuerttemberg in 1952, by merger of Wuerttemberg-Baden, Wuerttemberg-Hohenzollern, and Baden. The colours derive from the arms of the medieval Duchy of Swabia.",
+  "variant": [
+    "civil"
+  ],
+  "periods": [
+    {
+      "start": "1953"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Baden-W%C3%BCrttemberg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "yellow"
+      ],
+      "count": 2,
+      "symbolism": "Black and gold are the historic colours of the Hohenstaufen dukes of Swabia, taken into the arms of the modern state."
+    }
   ]
 }

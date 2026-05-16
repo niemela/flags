@@ -1,8 +1,64 @@
 {
   "id": "SE-H",
-  "title": "Kalmar (Sweden)",
-  "iso": "SE-H",
+  "name": "Kalmar County (Sweden)",
   "type": [
     "subdivision"
+  ],
+  "parent": "SE",
+  "codes": {
+    "iso_3166_2": "SE-H",
+    "wikidata": "Q104236"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the gules field of the Smaland-derived arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold star and crossbow"
+    },
+    {
+      "color": "blue",
+      "symbolism": "heraldic detailing"
+    },
+    {
+      "color": "white",
+      "symbolism": "silver detailing on the charges"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlining of the charges"
+    }
+  ],
+  "description": "A square red flag charged centrally with a gold six-pointed star, the historic emblem of Kalmar.",
+  "history": "The flag is the heraldic banner of the arms of Kalmar County, derived from the medieval arms of the city of Kalmar combined with elements from the historic province of Smaland.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kalmar_County",
+    "https://sv.wikipedia.org/wiki/Kalmar_l%C3%A4ns_vapen"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the gules field of the historic Smaland provincial arms, on which the Kalmar charges are set"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "yellow",
+      "position": "center",
+      "role": "six-pointed star of Kalmar",
+      "symbolism": "a gold six-pointed star on a red field, the historic emblem of Kalmar from the city's medieval arms."
+    }
   ]
 }

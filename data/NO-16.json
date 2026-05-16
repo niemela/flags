@@ -1,7 +1,57 @@
 {
   "id": "NO-16",
-  "title": "Sør-Trøndelag (Norway, 1983-2018)",
+  "name": "Sør-Trøndelag (Norway, 1983–2017)",
   "type": [
+    "historical",
     "subdivision"
+  ],
+  "parent": "NO",
+  "codes": {
+    "iso_3166_2": "NO-16",
+    "wikidata": "Q50613"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "gold (Or) for the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "for the Saint Olav axes"
+    }
+  ],
+  "description": "A gold field charged with two red Saint Olav axes crossed in saltire.",
+  "history": "Granted to Sor-Trondelag county on 17 June 1983. The county was abolished on 1 January 2018 when it was merged with Nord-Trondelag into the (re-united) Trondelag county.",
+  "status": "historical",
+  "periods": [
+    {
+      "start": "1983-06-17",
+      "end": "2017-12-31"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/S%C3%B8r-Tr%C3%B8ndelag",
+    "https://no.wikipedia.org/wiki/S%C3%B8r-Tr%C3%B8ndelag_fylkesv%C3%A5pen"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "heraldic banner of the county arms: red Saint Olav axes on a gold field, alluding to King and Saint Olav Haraldsson, who fell at the Battle of Stiklestad and is closely associated with the Trondelag region"
+    },
+    {
+      "type": "axe",
+      "count": 2,
+      "color": "red",
+      "position": "center",
+      "role": "Saint Olav's axes",
+      "symbolism": "two crossed axes after the attribute of Saint Olav, patron of Norway and especially of Trondelag"
+    }
   ]
 }

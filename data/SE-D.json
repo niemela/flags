@@ -1,8 +1,55 @@
 {
   "id": "SE-D",
-  "title": "Södermanland (Sweden)",
-  "iso": "SE-D",
+  "name": "Sodermanland County (Sweden)",
   "type": [
     "subdivision"
+  ],
+  "parent": "SE",
+  "codes": {
+    "iso_3166_2": "SE-D",
+    "wikidata": "Q104232"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the gold field of the Sodermanland arms"
+    },
+    {
+      "color": "black",
+      "symbolism": "the sable griffin"
+    },
+    {
+      "color": "red",
+      "symbolism": "armed and langued gules detailing on the griffin"
+    }
+  ],
+  "description": "A square gold flag charged centrally with a black griffin rampant, armed and langued red.",
+  "history": "The flag is the heraldic banner of the arms of Sodermanland County, derived from the medieval coat of arms of the historic province of Sodermanland.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/S%C3%B6dermanland_County",
+    "https://sv.wikipedia.org/wiki/S%C3%B6dermanlands_l%C3%A4ns_vapen"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow",
+      "symbolism": "the gold field of the historic Sodermanland provincial arms"
+    },
+    {
+      "type": "mythical-creature",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "rampant griffin of Sodermanland",
+      "symbolism": "a black griffin rampant on a gold field, the historic emblem of the province of Sodermanland."
+    }
   ]
 }

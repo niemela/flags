@@ -1,8 +1,76 @@
 {
   "id": "CA-ON",
-  "title": "Ontario (Canada)",
-  "iso": "CA-ON",
+  "name": "Ontario (Canada)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CA",
+  "codes": {
+    "iso_3166_2": "CA-ON",
+    "wikidata": "Q1904"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field of the British Red Ensign"
+    },
+    {
+      "color": "white",
+      "symbolism": "appears in the Union Jack canton and the provincial shield"
+    },
+    {
+      "color": "blue",
+      "symbolism": "appears in the Union Jack canton"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the Saint George's Cross border on the shield"
+    },
+    {
+      "color": "green",
+      "symbolism": "the maple leaves on the provincial shield"
+    }
+  ],
+  "description": "A red field with the Union Jack in the canton and the shield of arms of Ontario centred in the fly half; the shield bears the Cross of Saint George above three gold maple leaves on green.",
+  "history": "Adopted on 21 May 1965, weeks after Canada replaced the Canadian Red Ensign with the new Maple Leaf flag. The Ontario flag preserves the design of the Canadian Red Ensign with the Ontario shield in place of the Canadian arms, expressing the province's continued attachment to British heritage.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1965-05-21"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Ontario"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "Based on the British Red Ensign, retained by Ontario after Canada adopted the Maple Leaf flag in 1965."
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Jack, retained from the British Red Ensign and signifying ties to the United Kingdom"
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "color": "white",
+      "position": "center-fly",
+      "role": "shield of arms of Ontario (Saint George's Cross above three gold maple leaves on green)",
+      "symbolism": "Ontario's coat of arms, granted by Queen Victoria in 1868: a red Saint George's Cross on white in chief (recalling England's patron saint) above three gold maple leaves on a green field (a Canadian symbol)."
+    }
   ]
 }

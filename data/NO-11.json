@@ -1,8 +1,54 @@
 {
   "id": "NO-11",
-  "title": "Rogaland (Norway)",
-  "iso": "NO-11",
+  "name": "Rogaland (Norway)",
   "type": [
     "subdivision"
+  ],
+  "parent": "NO",
+  "codes": {
+    "iso_3166_2": "NO-11",
+    "wikidata": "Q50609"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field of the county arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "silver (argent) for the cross"
+    }
+  ],
+  "description": "A blue field charged with a stylised silver eight-armed cross derived from a Viking Age stone cross.",
+  "history": "Adopted by Rogaland county on 19 March 1987. Rogaland survived the 2020 county reorganisation and continues unchanged today.",
+  "periods": [
+    {
+      "start": "1987-03-19"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rogaland",
+    "https://no.wikipedia.org/wiki/Rogaland_fylkesv%C3%A5pen"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "heraldic banner of the county arms: a silver eight-armed cross on a blue field, derived from a Viking Age stone cross found at Tjora in Rogaland"
+    },
+    {
+      "type": "greek-cross",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Viking-Age eight-armed cross",
+      "symbolism": "drawn from an Iron Age / Viking Age stone cross at Tjora; symbolises Rogaland's deep history"
+    }
   ]
 }

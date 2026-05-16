@@ -1,8 +1,69 @@
 {
   "id": "ES-PV",
-  "title": "Basque Country (Spain)",
-  "iso": "ES-PV",
+  "name": "Basque Country (Spain)",
   "type": [
     "subdivision"
+  ],
+  "parent": "ES",
+  "codes": {
+    "iso_3166_2": "ES-PV",
+    "wikidata": "Q3837"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Iberian Peninsula",
+    "European Union"
+  ],
+  "aspect_ratio": "14:25",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field, representing the Basque people (and historically the Carlist tradition)"
+    },
+    {
+      "color": "green",
+      "symbolism": "the saltire, representing the Oak of Gernika and the historic fueros (laws)"
+    },
+    {
+      "color": "white",
+      "symbolism": "the Greek cross, representing Christianity"
+    }
+  ],
+  "description": "A red field charged with a green saltire (Cross of Saint Andrew) overlaid by a white upright Greek cross.",
+  "history": "Designed by the brothers Sabino and Luis Arana in 1894 as the flag of the city of Bilbao and adopted as the flag of the Basque Nationalist Party (PNV); it was used briefly as the flag of the autonomous Basque Government during the Second Republic, banned under Franco, and made the official flag of the Autonomous Community of the Basque Country by the 1979 Statute of Autonomy (Article 5).",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1979"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ikurri%C3%B1a"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "Modelled on the British Union Jack: a red field charged with a green saltire and overlaid with a white Greek cross. Red represents the Basque people, green the Tree of Gernika and the laws (fueros) it stands for, and white the Christian faith."
+    },
+    {
+      "type": "saltire",
+      "count": 1,
+      "color": "green",
+      "position": "center",
+      "role": "Cross of Saint Andrew",
+      "symbolism": "the green saltire, evoking the Oak of Gernika and the Basque fueros"
+    },
+    {
+      "type": "greek-cross",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Greek cross overlaying the saltire",
+      "symbolism": "the white Greek cross, representing the Christian faith of the Basques"
+    }
   ]
 }

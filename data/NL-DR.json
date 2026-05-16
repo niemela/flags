@@ -1,8 +1,67 @@
 {
   "id": "NL-DR",
-  "title": "Drenthe (Netherlands)",
-  "iso": "NL-DR",
+  "name": "Drenthe (Netherlands)",
   "type": [
     "subdivision"
+  ],
+  "parent": "NL",
+  "codes": {
+    "iso_3166_2": "NL-DR",
+    "wikidata": "Q772"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field of the historic arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "the colour of the six stars representing the dingspelen"
+    },
+    {
+      "color": "black",
+      "symbolism": "the colour of the castle, the historic seat of the prefect"
+    }
+  ],
+  "description": "A white field charged in the centre with a black castle keep surrounded by six red six-pointed stars in a circle.",
+  "history": "Adopted by the provincial states on 19 February 1947. The charges are taken directly from the historic arms of Drenthe: the castle representing the prefect's seat and the six stars the six dingspelen of the province.",
+  "periods": [
+    {
+      "start": "1947-02-19"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Drenthe"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white",
+      "symbolism": "the white field provides a clear ground for the heraldic charges drawn from the historic provincial arms"
+    },
+    {
+      "type": "star",
+      "count": 6,
+      "points": 6,
+      "color": "red",
+      "arrangement": "circle",
+      "position": "center",
+      "role": "the six dingspelen",
+      "symbolism": "the six historic Drenthe dingspelen (administrative regions): Noordenveld, Oostermoer, Zuidenveld, Beilerdingspel, Dieverderdingspel and Rolderdingspel"
+    },
+    {
+      "type": "building",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "the castle of the prefect",
+      "symbolism": "the castle (keep) representing the seat of the prefect of Drenthe"
+    }
   ]
 }

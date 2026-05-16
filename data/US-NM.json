@@ -1,8 +1,60 @@
 {
   "id": "US-NM",
-  "title": "New Mexico (United States)",
-  "iso": "US-NM",
+  "name": "New Mexico (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-NM",
+    "fips_state": "35",
+    "wikidata": "Q1522"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the Spanish conquistadors and the colors of old Spain"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood of the Spanish conquistadors and the colors of old Spain"
+    }
+  ],
+  "description": "A solid yellow field charged in the center with a red Zia sun symbol — a circle from which radiate four groups of four straight rays in the cardinal directions.",
+  "history": "Adopted on 15 March 1925 from a design by Dr. Harry Mera, a Santa Fe physician and archaeologist whose wife Reba sewed the prototype. Mera based the central emblem on a sun design found on a late-19th-century water jar from Zia Pueblo. The colors recall the banner of Castile carried by Spanish conquistadors. The flag has consistently been ranked one of the best-designed U.S. state flags by the North American Vexillological Association.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1925-03-15"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_New_Mexico"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow",
+      "symbolism": "the red and yellow of old Spain, recalling New Mexico's heritage as part of the Spanish Empire and later Mexico"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 16,
+      "color": "red",
+      "position": "center",
+      "arrangement": "single",
+      "role": "the Zia sun symbol",
+      "symbolism": "an ancient sun sign of the Zia Pueblo: four groups of four rays in the cardinal directions, representing the four directions, the four seasons, the four times of day, and the four stages of life — bound together by the sacred number four and the circle of life"
+    }
   ]
 }

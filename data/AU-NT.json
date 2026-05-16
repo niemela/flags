@@ -1,8 +1,88 @@
 {
   "id": "AU-NT",
-  "title": "Northern Territory (Australia)",
-  "iso": "AU-NT",
+  "name": "Northern Territory (Australia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AU",
+  "codes": {
+    "iso_3166_2": "AU-NT",
+    "wikidata": "Q3235"
+  },
+  "region": [
+    "Oceania",
+    "Australia and New Zealand",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the territorial colour at the hoist"
+    },
+    {
+      "color": "orange",
+      "symbolism": "the ochre colour of the territorial fly, evoking the desert and the soil"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stars of the Southern Cross and the petals of the desert rose"
+    }
+  ],
+  "description": "A vertical bicolour with a black panel at the hoist (one third) bearing the white stars of the Southern Cross, and an ochre panel at the fly (two thirds) bearing a stylised Sturt's desert rose with seven white petals around a black seven-pointed star.",
+  "history": "Adopted on 1 July 1978, the date the Northern Territory achieved self-government. Designed by artist Robert Ingpen, who was commissioned by the territorial government to create a flag using the official colours of black, white and ochre.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1978-07-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Northern_Territory"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black",
+        "orange"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "symbolism": "black and ochre are the official territorial colours, with white added; the colours represent the Outback landscape and identity of the Territory"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "color": "white",
+      "arrangement": "southern-cross",
+      "position": "hoist",
+      "role": "the Southern Cross constellation on the black panel",
+      "symbolism": "the constellation Crux, visible in the southern sky"
+    },
+    {
+      "type": "flower",
+      "count": 1,
+      "color": "white",
+      "position": "fly",
+      "role": "stylised Sturt's desert rose with seven petals on the ochre panel",
+      "symbolism": "Sturt's desert rose, the floral emblem of the Northern Territory; its seven petals surround a black seven-pointed star representing the six Australian states and the Territory itself"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 7,
+      "color": "black",
+      "position": "fly",
+      "role": "seven-pointed star at the centre of the desert rose",
+      "symbolism": "the six Australian states and the Northern Territory united in the Commonwealth"
+    }
   ]
 }

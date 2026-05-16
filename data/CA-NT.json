@@ -1,8 +1,83 @@
 {
   "id": "CA-NT",
-  "title": "Northwest Territories (Canada)",
-  "iso": "CA-NT",
+  "name": "Northwest Territories (Canada)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CA",
+  "codes": {
+    "iso_3166_2": "CA-NT",
+    "wikidata": "Q2007"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the territory's lakes and many bodies of water"
+    },
+    {
+      "color": "white",
+      "symbolism": "the snow and ice of the Arctic"
+    },
+    {
+      "color": "green",
+      "symbolism": "the forests of the southern part of the territory; on the shield, the boreal forest"
+    },
+    {
+      "color": "red",
+      "symbolism": "the tundra of the north on the shield; minerals on the shield base"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "wavy gold lines on the shield representing the Northwest Passage; mineral wealth"
+    },
+    {
+      "color": "white",
+      "symbolism": "the polar bear's head on the shield"
+    }
+  ],
+  "description": "A vertical triband of blue, white, and blue (1:2:1 widths) with the territorial shield centred on the white panel.",
+  "history": "Adopted by the Council of the Northwest Territories on 1 January 1969 following a flag design competition won by Robert Bessant of Margaret, Manitoba. The design uses the territorial colours and centres the shield from the territorial arms granted in 1956.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1969-01-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Northwest_Territories"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ],
+      "symbolism": "the blue panels represent the lakes and waters of the territory; the white centre represents the snow and ice of the Canadian Arctic"
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "position": "center",
+      "role": "shield from the arms of the Northwest Territories, granted in 1956",
+      "symbolism": "the territorial shield: a wavy white-and-blue chief representing the Northwest Passage; below, a green pile (representing the boreal forest) on a red ground (the tundra), with two gold rectangles (mineral wealth) and a polar bear's head."
+    }
   ]
 }

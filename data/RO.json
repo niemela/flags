@@ -1,8 +1,67 @@
 {
   "id": "RO",
-  "title": "Romania",
-  "iso": "RO",
+  "name": "Romania",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "RO",
+    "iso_3166_1_alpha3": "ROU",
+    "fifa": "ROU",
+    "ioc": "ROU",
+    "wikidata": "Q218"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Balkans",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "Liberty (sky-blue); also the historic blue of Wallachian and Moldavian banners"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "Justice (the field of gold); also the heraldic gold of the historic principalities"
+    },
+    {
+      "color": "red",
+      "symbolism": "Fraternity (blood red); also the historic red of Wallachian banners"
+    }
+  ],
+  "description": "Three equal vertical stripes of cobalt blue (hoist), chrome yellow, and vermilion red.",
+  "history": "Blue, yellow and red appear together as Romanian colours from the 14th century in the arms and flags of the Wallachian and Moldavian principalities. The first documented tricolour was submitted by Wallachian domnitor Alexandru II Ghica in 1834; the colours were adopted with the motto 'Dreptate, Fratie' (Justice, Fraternity) by the 1848 Wallachian Revolution. Decree no. 252 of 13/25 July 1848 fixed the vertical layout (after the French model), and the order — blue at the hoist, yellow centre, red fly — was finalised by the Romanian Assembly of Deputies on 26 March 1867, four months after Article 124 of the 1866 Constitution had defined the national colours. Under the People's Republic and Socialist Republic of Romania (1948–1989) the flag bore the communist coat of arms; protesters during the December 1989 revolution cut it out, producing the famous 'flag with a hole'. The plain 1867 tricolour was officially restored on 27 December 1989 by the National Salvation Front and codified by Law no. 75/1994; the 2023 revision of the law set exact Pantone, CMYK and RGB shades.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1867-03-26",
+      "end": "1948"
+    },
+    {
+      "start": "1989-12-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Romania"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "the Tricolorul: blue, yellow and red have appeared together on Romanian-inhabited lands' flags and arms since the 14th century; combined under the 1848 revolutionary motto 'Liberty, Justice, Fraternity'"
+    }
   ]
 }

@@ -1,8 +1,62 @@
 {
   "id": "RU-ZAB",
-  "title": "Zabaykalsky Krai (Russia)",
-  "iso": "RU-ZAB",
+  "name": "Zabaykalsky Krai (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-ZAB",
+    "wikidata": "Q3551"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the taiga forests of Transbaikal"
+    },
+    {
+      "color": "red",
+      "symbolism": "the courage of the inhabitants of Transbaikal and the Cossack heritage of the region"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the sun and the krai's mineral wealth"
+    }
+  ],
+  "description": "A field horizontally divided green over red with a yellow isoceles triangle along the hoist whose apex reaches the centre of the fly side.",
+  "history": "Adopted on 19 December 2008 by the Legislative Assembly of Zabaykalsky Krai shortly after the krai was formed (1 March 2008) by the merger of Chita Oblast and the Agin-Buryat Autonomous Okrug.",
+  "periods": [
+    {
+      "start": "2008-12-19"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Zabaykalsky_Krai",
+    "https://en.wikipedia.org/wiki/Zabaykalsky_Krai"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "red"
+      ],
+      "count": 2,
+      "symbolism": "A horizontally divided field, green over red, with a yellow hoist triangle running the full height"
+    },
+    {
+      "type": "triangle",
+      "count": 1,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "yellow hoist triangle",
+      "symbolism": "the rising sun over Transbaikal; the gold also recalls the historic Transbaikal Cossack Host"
+    }
   ]
 }

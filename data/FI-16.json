@@ -1,8 +1,52 @@
 {
   "id": "FI-16",
-  "title": "Päijät-Häme (Finland)",
-  "iso": "FI-16",
+  "name": "Päijänne Tavastia (Finland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FI",
+  "codes": {
+    "iso_3166_2": "FI-16",
+    "wikidata": "Q5791"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "European Union"
+  ],
+  "shape": "rectangular",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the gules field of the historic Tavastian arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden charges of the arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "silver detailing in the arms"
+    }
+  ],
+  "description": "A banner-format red flag charged centrally with the gold and silver provincial arms of Päijänne Tavastia.",
+  "history": "Päijänne Tavastia (Päijät-Häme) became a region under Finland's 1997 administrative reform; its banner is the heraldic flag of the regional coat of arms, drawing on the historic arms of the Häme province.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/P%C3%A4ij%C3%A4nne_Tavastia",
+    "https://fi.wikipedia.org/wiki/P%C3%A4ij%C3%A4t-H%C3%A4meen_lippu"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "arms of Päijänne Tavastia",
+      "symbolism": "a heraldic composition derived from the historic Häme arms, with elements specific to the lakeland region around Lake Päijänne; gold and silver charges on a red field."
+    }
   ]
 }

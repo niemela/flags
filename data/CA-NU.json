@@ -1,8 +1,79 @@
 {
   "id": "CA-NU",
-  "title": "Nunavut (Canada)",
-  "iso": "CA-NU",
+  "name": "Nunavut (Canada)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CA",
+  "codes": {
+    "iso_3166_2": "CA-NU",
+    "wikidata": "Q2003"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "5:9",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the riches of the land, sea, and sky of Nunavut"
+    },
+    {
+      "color": "white",
+      "symbolism": "the snow and ice of the Arctic; the snowfields of the territory"
+    },
+    {
+      "color": "red",
+      "symbolism": "the inuksuk, an Inuit stone landmark; resilience of the people of Nunavut"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the niqirtsuituq (North Star), guide of generations and symbol of the leadership of the elders"
+    }
+  ],
+  "description": "A vertical bicolour of yellow (hoist) and white (fly) with a red inuksuk in the centre; in the upper fly, a blue five-pointed star representing the North Star (niqirtsuituq).",
+  "history": "Designed in consultation with Inuit elders and adopted on 1 April 1999, the day Nunavut was created as Canada's newest and largest territory by separation from the Northwest Territories. The colours and symbols draw from the Inuit visual tradition, with the inuksuk and the North Star prominent.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1999-04-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Nunavut"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "white"
+      ],
+      "count": 2,
+      "symbolism": "yellow at the hoist for the riches of land, sea, and sky; white at the fly for the snow and ice of the Arctic"
+    },
+    {
+      "type": "human-figure",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "inuksuk (Inuit stone landmark in human form)",
+      "symbolism": "the inuksuk, a traditional Inuit stone marker built to guide travellers, mark sacred places, and serve as a navigation aid; emblem of the territory."
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "blue",
+      "position": "upper-fly",
+      "role": "Niqirtsuituq, the North Star",
+      "symbolism": "the North Star (niqirtsuituq), unchanging guide of travellers and symbol of the leadership of community elders."
+    }
   ]
 }

@@ -1,8 +1,83 @@
 {
   "id": "US-MO",
-  "title": "Missouri (United States)",
-  "iso": "US-MO",
+  "name": "Missouri (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-MO",
+    "fips_state": "29",
+    "wikidata": "Q1581"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "7:12",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "valour"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity"
+    },
+    {
+      "color": "blue",
+      "symbolism": "vigilance, permanency and justice"
+    }
+  ],
+  "description": "Three equal horizontal stripes — red on top, white in the middle, blue on the bottom. Centred on the white stripe is a blue ring set with twenty-four white five-pointed stars, enclosing the Great Seal of Missouri (two grizzly bears flanking a divided shield, with a crescent and bear, and the U.S. coat of arms).",
+  "history": "Designed by Marie Elizabeth Watkins Oliver, the wife of state senator Robert Burett Oliver, working from 1908 onwards; adopted by the Missouri General Assembly and signed by Governor Elliott W. Major on 22 March 1913. The horizontal tricolour echoes the French flag — recalling that Missouri was once part of French Louisiana — while also matching the colours of the United States flag.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1913-03-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Missouri"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "symbolism": "the colours of the United States flag; red for valour, white for purity, blue for vigilance, permanency and justice"
+    },
+    {
+      "type": "circle",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "blue ring at the centre of the white stripe encircling the state seal"
+    },
+    {
+      "type": "star",
+      "count": 24,
+      "points": 5,
+      "color": "white",
+      "arrangement": "circle",
+      "position": "center",
+      "role": "twenty-four white stars set in the blue ring around the seal",
+      "symbolism": "Missouri's admission as the 24th state of the Union"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "Great Seal of Missouri inside the ring",
+      "symbolism": "depicts two grizzly bears supporting a shield divided per pale: dexter, the United States arms; sinister, a crescent moon and a grizzly bear; below the shield, the motto 'SALUS POPULI SUPREMA LEX ESTO'"
+    }
   ]
 }

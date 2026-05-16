@@ -1,8 +1,71 @@
 {
   "id": "GL",
-  "title": "Greenland",
-  "iso": "GL",
+  "name": "Greenland (Denmark)",
   "type": [
     "subdivision"
+  ],
+  "parent": "DK",
+  "codes": {
+    "iso_3166_1_alpha2": "GL",
+    "iso_3166_1_alpha3": "GRL",
+    "fifa": "GRL",
+    "wikidata": "Q223"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Nordics"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the ice cap, the glaciers and the snow that cover most of Greenland"
+    },
+    {
+      "color": "red",
+      "symbolism": "the sun, the ocean, the fjords and the country's ties to Denmark (whose flag is also red and white)"
+    }
+  ],
+  "description": "Two equal horizontal bands — white above red — with a large disc straddling the boundary, offset toward the hoist; the disc's upper half is red against the white band, and its lower half is white against the red band.",
+  "history": "Designed by Greenlandic artist Thue Christiansen, the flag was selected from over 555 submissions in a 1985 competition and adopted on 21 June 1985 (the summer solstice). It is called Erfalasorput ('our flag'). It is the only flag of a Nordic country that does not feature a Nordic cross.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1985-06-21"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Greenland"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "symbolism": "the white upper half represents the ice cap and glaciers; the red lower half represents the ocean, the fjords, and the setting sun reflected on the sea"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "red",
+      "position": "center-hoist",
+      "role": "lower (red) half of a disc on the white field",
+      "symbolism": "the setting sun half-submerged in the sea; the disc straddles the dividing line, its upper half red on white and its lower half white on red"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "white",
+      "position": "center-hoist",
+      "role": "upper (white) half of the disc on the red field",
+      "symbolism": "the iceberg or the sun rising/setting over the sea, with the colours reversed against the red lower band"
+    }
   ]
 }

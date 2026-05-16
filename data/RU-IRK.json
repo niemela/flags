@@ -1,8 +1,85 @@
 {
   "id": "RU-IRK",
-  "title": "Irkutsk Oblast (Russia)",
-  "iso": "RU-IRK",
+  "name": "Irkutsk Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-IRK",
+    "wikidata": "Q6585"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the rivers (Lena, Angara) and Lake Baikal, plus the eternal sky"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity, and the snow of the long Siberian winter"
+    },
+    {
+      "color": "black",
+      "symbolism": "the babr (Siberian tiger) of the historic coat of arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "the sable carried by the babr"
+    },
+    {
+      "color": "green",
+      "symbolism": "the cedar branches that flank the central emblem"
+    }
+  ],
+  "description": "A white central field flanked by two blue vertical stripes (a slightly narrower one at the hoist), charged in the centre with a black running babr carrying a red sable in its jaws between two green cedar branches.",
+  "history": "Adopted on 16 July 1997 by the Legislative Assembly of Irkutsk Oblast. The babr-with-sable charge is taken from the historic coat of arms of Irkutsk dating to the 17th century.",
+  "periods": [
+    {
+      "start": "1997-07-16"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Irkutsk_Oblast",
+    "https://en.wikipedia.org/wiki/Irkutsk_Oblast"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        97,
+        203,
+        100
+      ],
+      "symbolism": "the blue panels at hoist and fly recall the great waters of the Lena, Angara and Lake Baikal as well as the sky; the central white field bears the historic emblem of the Irkutsk lands."
+    },
+    {
+      "type": "animal-other",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "babr with a sable in its mouth",
+      "symbolism": "a black babr (a heraldic Siberian tiger) running and carrying a red sable in its jaws; the historic emblem of Irkutsk, recorded in the 17th century to symbolise wealth from the fur trade."
+    },
+    {
+      "type": "leaf",
+      "count": 2,
+      "color": "green",
+      "position": "center",
+      "role": "cedar branches",
+      "symbolism": "two green cedar branches flanking the babr; symbolise the rich Siberian taiga."
+    }
   ]
 }

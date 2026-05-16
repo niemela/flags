@@ -1,8 +1,64 @@
 {
   "id": "SE-X",
-  "title": "Gävleborg (Sweden)",
-  "iso": "SE-X",
+  "name": "Gavleborg County (Sweden)",
   "type": [
     "subdivision"
+  ],
+  "parent": "SE",
+  "codes": {
+    "iso_3166_2": "SE-X",
+    "wikidata": "Q104245"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the azure portion derived from the historic Halsingland arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold portion derived from the historic Gastrikland arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "detailing on the central goat charge"
+    },
+    {
+      "color": "white",
+      "symbolism": "silver detailing in the charges"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlining of the charges"
+    }
+  ],
+  "description": "A square flag divided per bend gold and blue, charged centrally with the composite arms of Gavleborg County, combining symbols of the historic provinces of Gastrikland and Halsingland.",
+  "history": "The flag is the heraldic banner of the arms of Gavleborg County, granted in 1937 and combining the historic arms of the provinces of Gastrikland and Halsingland that make up the county.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/G%C3%A4vleborg_County",
+    "https://sv.wikipedia.org/wiki/G%C3%A4vleborgs_l%C3%A4ns_vapen"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "yellow",
+      "direction": "bend",
+      "symbolism": "the field is divided per bend, combining elements from the historic provinces of Gastrikland (the upper part) and Halsingland (the lower part) that make up Gavleborg County."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Gavleborg County arms",
+      "symbolism": "a composite shield combining the goat (buck) of Gastrikland on the gold field and emblems from Halsingland on the azure field."
+    }
   ]
 }

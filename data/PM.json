@@ -1,8 +1,84 @@
 {
   "id": "PM",
-  "title": "Saint Pierre and Miquelon",
-  "iso": "PM",
+  "name": "Saint Pierre and Miquelon (France)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FR",
+  "codes": {
+    "iso_3166_1_alpha2": "PM",
+    "iso_3166_1_alpha3": "SPM",
+    "wikidata": "Q34617"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the gold field of the local flag"
+    },
+    {
+      "color": "black",
+      "symbolism": "the hull of the caravel; details of the canton"
+    },
+    {
+      "color": "white",
+      "symbolism": "the sails of the caravel and the white-cross of the Breton canton"
+    },
+    {
+      "color": "red",
+      "symbolism": "the red of the Basque ikurriña and the Norman background of the canton"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the wave under the ship; the blue of the Basque ikurriña"
+    },
+    {
+      "color": "green",
+      "symbolism": "the green of the Basque ikurriña recalling the Basque settlers"
+    }
+  ],
+  "description": "A yellow field charged with a black-hulled caravel (Jacques Cartier's Grande Hermine) on a blue wave at the centre, with a tripartite canton in the upper hoist showing the Basque, Norman and Breton emblems stacked vertically.",
+  "history": "The official flag of Saint Pierre and Miquelon is the French Tricolore; this local flag, adopted unofficially in 1982 by the Territorial Council, commemorates Jacques Cartier's arrival on the islands on 15 June 1536 with the ship Grande Hermine, while the hoist canton recognises the three peoples — Basques, Bretons and Normans — who settled the archipelago from metropolitan France. Saint Pierre and Miquelon is a French Overseas Collectivity (COM) located south of Newfoundland in the North Atlantic.",
+  "status": "de-facto",
+  "periods": [
+    {
+      "start": "1982"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon",
+    "https://en.wikipedia.org/wiki/List_of_French_flags#Overseas_collectivities"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow",
+      "symbolism": "yellow field charged with a ship and a hoist canton recalling the three founding settler peoples"
+    },
+    {
+      "type": "ship",
+      "position": "center",
+      "color": "black",
+      "role": "Grande Hermine — the caravel of Jacques Cartier",
+      "symbolism": "the Grande Hermine, Jacques Cartier's flagship, which arrived at Saint-Pierre on 15 June 1536; commemorating the discovery of the islands by France"
+    },
+    {
+      "type": "canton",
+      "color": "yellow",
+      "proportion": "1/4",
+      "symbolism": "the heritage of the three founding peoples of the archipelago — Basques, Normans and Bretons",
+      "features": [
+        {
+          "type": "glyph",
+          "role": "tripartite hoist canton",
+          "symbolism": "the canton is divided into three horizontal sections recalling the three founding settler populations of the archipelago: the Basque ikurriña (red, green and white) at top, the chequered Norman pattern in the middle, and the ermined Breton pattern at the bottom"
+        }
+      ]
+    }
   ]
 }

@@ -1,8 +1,63 @@
 {
   "id": "ES-MD",
-  "title": "Madrid (Spain)",
-  "iso": "ES-MD",
+  "name": "Madrid (Spain)",
   "type": [
     "subdivision"
+  ],
+  "parent": "ES",
+  "codes": {
+    "iso_3166_2": "ES-MD",
+    "wikidata": "Q5756"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Iberian Peninsula",
+    "European Union"
+  ],
+  "aspect_ratio": "7:11",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the historic crimson of the Castilian Comuneros"
+    },
+    {
+      "color": "white",
+      "symbolism": "the seven stars"
+    }
+  ],
+  "description": "A crimson field charged with seven white five-pointed stars arranged in two rows, four over three.",
+  "history": "Adopted on 23 December 1983 by Law 2/1983 of the Community of Madrid, two years after Madrid's separation from Castilla-La Mancha and constitution as a single-province autonomous community. The crimson colour recalls the Castilian Comuneros, and the seven stars allude both to the constellation associated with Madrid's heraldic bear and to the seven provinces of historic New Castile.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1983-12-23"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Community_of_Madrid"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "Crimson red recalls the historic standards of the Comuneros of Castile, who in 1520-1521 rose against Charles V; Madrid was a Comunero stronghold, and red is treated as a symbol of Castilian liberties."
+    },
+    {
+      "type": "star",
+      "count": 7,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "arrangement": "grid",
+      "rows": [
+        4,
+        3
+      ],
+      "symbolism": "The seven five-pointed stars represent the seven principal stars of the constellation of Ursa Minor (the Little Bear), associating the autonomous community with the bear that has long been the emblem of the city of Madrid; they are also said to refer to the seven historic provinces of New Castile."
+    }
   ]
 }

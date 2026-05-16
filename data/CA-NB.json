@@ -1,8 +1,83 @@
 {
   "id": "CA-NB",
-  "title": "New Brunswick (Canada)",
-  "iso": "CA-NB",
+  "name": "New Brunswick (Canada)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CA",
+  "codes": {
+    "iso_3166_2": "CA-NB",
+    "wikidata": "Q1965"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth",
+    "Francophonie"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field of the provincial arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lion of the arms and the heraldic waves below the galley"
+    },
+    {
+      "color": "blue",
+      "symbolism": "details of the lymphad (galley) on the lower stripe"
+    },
+    {
+      "color": "white",
+      "symbolism": "the sails of the galley"
+    }
+  ],
+  "description": "A horizontal flag with two bands: an upper yellow band twice the height of the lower band and bearing a red lion passant; the lower red band bears a yellow-and-blue lymphad (ancient single-masted galley) under sail on stylised waves.",
+  "history": "Adopted on 24 February 1965, the design is a banner of the arms of the province of New Brunswick, granted by Queen Victoria in 1868. New Brunswick was among the first provinces to adopt a distinctive provincial flag distinct from the Canadian Red Ensign tradition, in advance of Canada's own change to the Maple Leaf flag in 1965.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1965-02-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_New_Brunswick"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ],
+      "symbolism": "the colours and proportions of the provincial coat of arms (a gold field with a lion and waves below); the lower red band represents the waves charged onto a galley"
+    },
+    {
+      "type": "lion",
+      "count": 1,
+      "color": "red",
+      "position": "top",
+      "rotation": 0,
+      "role": "lion passant guardant in the upper yellow band, taken from the arms of New Brunswick",
+      "symbolism": "the historical link to the House of Brunswick (Hanover) and to England, as on the provincial coat of arms granted by Queen Victoria in 1868."
+    },
+    {
+      "type": "ship",
+      "count": 1,
+      "position": "bottom",
+      "role": "lymphad (ancient galley) with sails set on heraldic waves, in the lower red band",
+      "symbolism": "the importance of shipbuilding and seafaring to New Brunswick's history; the galley and the wavy red and yellow base recall the lower portion of the provincial arms."
+    }
   ]
 }

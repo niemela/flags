@@ -1,8 +1,72 @@
 {
   "id": "RU-TAM",
-  "title": "Tambov Oblast (Russia)",
-  "iso": "RU-TAM",
+  "name": "Tambov Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-TAM",
+    "wikidata": "Q3550"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "courage, the bountiful soil and the bravery of the people of Tambov"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and peace"
+    },
+    {
+      "color": "blue",
+      "symbolism": "loyalty, fidelity and the rivers of the region"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bee-hive in the regional arms; industriousness"
+    }
+  ],
+  "description": "A horizontal triband of red, white and blue with a narrow white centre stripe between two broad red and blue stripes; the regional coat of arms is placed near the hoist.",
+  "history": "The flag of Tambov Oblast was adopted on 27 November 2003. The colours and arms recall the historic Tambov Governorate, whose seal showed a beehive symbolising the industriousness of the region's inhabitants.",
+  "periods": [
+    {
+      "start": "2003-11-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Tambov_Oblast",
+    "https://en.wikipedia.org/wiki/Tambov_Oblast"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        3,
+        1,
+        3
+      ],
+      "symbolism": "the red and blue stripes are taken from the historical Tambov provincial arms; the narrow white stripe between them represents purity and unites the two."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "hoist",
+      "role": "arms of Tambov Oblast",
+      "symbolism": "the regional coat of arms (a beehive with three bees on a blue field) placed near the hoist."
+    }
   ]
 }

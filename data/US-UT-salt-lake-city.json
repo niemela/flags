@@ -1,7 +1,60 @@
 {
   "id": "US-UT-salt-lake-city",
-  "title": "Salt Lake City, UT (United States)",
+  "name": "Salt Lake City (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-UT",
+  "codes": {
+    "wikidata": "Q23337"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the sky and the Great Salt Lake"
+    },
+    {
+      "color": "white",
+      "symbolism": "the salt flats and snow-capped Wasatch Mountains"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the central sego lily, Utah's state flower, and the rising sun"
+    }
+  ],
+  "description": "A flag horizontally divided into a blue upper half and white lower half, with a golden sego lily set above stylised golden mountains and a rising sun at the centre, straddling the dividing line.",
+  "history": "Salt Lake City adopted its current flag in 2020 following a public design competition, replacing the 2006 city seal flag. The new design — a stylised sego lily above mountains on a sky-and-snow field — was praised by vexillologists for its clarity and symbolism.",
+  "periods": [
+    {
+      "start": "2020"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Salt_Lake_City"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2,
+      "symbolism": "Blue above represents the sky and the Great Salt Lake; white below represents the salt flats and snow-capped Wasatch Mountains."
+    },
+    {
+      "type": "flower",
+      "count": 1,
+      "color": "gold",
+      "position": "center",
+      "role": "Sego lily emblem with rising sun",
+      "symbolism": "The sego lily — Utah's state flower, traditionally credited with sustaining early settlers through famine — is set above golden mountains and a rising sun, marking Salt Lake City's setting against the Wasatch Range."
+    }
   ]
 }

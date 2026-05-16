@@ -1,7 +1,53 @@
 {
   "id": "CN-harbin",
-  "title": "Harbin (China)",
+  "name": "Harbin (China)",
   "type": [
     "city"
+  ],
+  "parent": "CN",
+  "codes": {
+    "wikidata": "Q5826"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field, reflecting Harbin's reputation as the 'Ice City'"
+    },
+    {
+      "color": "green",
+      "symbolism": "the city emblem, evoking the Songhua River and the city's parks"
+    }
+  ],
+  "description": "A white field charged with a stylised green emblem of the city of Harbin centred on the field.",
+  "history": "Adopted in 1992 by the Harbin Municipal People's Government. In November 1997 the State Council of China prohibited local governments from designing and using their own flags, so the flag fell out of official use, but it remains widely associated with the city.",
+  "status": "de-facto",
+  "periods": [
+    {
+      "start": "1992",
+      "end": "1997"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Harbin"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white",
+      "symbolism": "A white field with a stylised green emblem of the city, evoking flowing water and the Songhua River that defines Harbin."
+    },
+    {
+      "type": "wave",
+      "count": 1,
+      "color": "green",
+      "position": "center",
+      "role": "stylised wave-and-circle emblem of Harbin (incorporating the Chinese character implication of the river and the swallow, the city's bird)",
+      "symbolism": "The emblem represents the Songhua River and Harbin's identification with its flowing water; it was designed in the early 1990s when many Chinese cities adopted municipal flags."
+    }
   ]
 }

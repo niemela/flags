@@ -1,8 +1,85 @@
 {
   "id": "AO",
-  "title": "Angola",
-  "iso": "AO",
+  "name": "Angola",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "AO",
+    "iso_3166_1_alpha3": "AGO",
+    "fifa": "ANG",
+    "ioc": "ANG",
+    "wikidata": "Q916"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Middle Africa",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the blood shed by Angolans during colonial oppression and the war of independence"
+    },
+    {
+      "color": "black",
+      "symbolism": "Africa"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the country's wealth (gold) and prosperity"
+    }
+  ],
+  "description": "Two equal horizontal stripes — red over black — with a centred yellow emblem comprising a half cogwheel (lower half) crossed by a machete and surmounted by a five-pointed star, all in yellow. The composition consciously echoes the Soviet hammer and sickle.",
+  "history": "Adopted on 11 November 1975, the day Angola gained independence from Portugal. The design is based on the flag of the People's Movement for the Liberation of Angola (MPLA), which led the independence struggle and became the ruling party. The emblem combining cogwheel, machete and star adapts the classic socialist iconography of worker–peasant unity. A 2003 parliamentary commission proposed a substantially redesigned flag, but the change was never enacted.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1975-11-11"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Angola"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "black"
+      ],
+      "count": 2,
+      "symbolism": "red for the blood shed by Angolans during colonial oppression and the national liberation struggle, black for the African continent"
+    },
+    {
+      "type": "cogwheel",
+      "color": "yellow",
+      "position": "center",
+      "role": "half cogwheel (lower half)",
+      "symbolism": "the industrial workers and industrial production; modelled on the Soviet hammer-and-sickle motif"
+    },
+    {
+      "type": "tool",
+      "color": "yellow",
+      "position": "center",
+      "role": "machete",
+      "symbolism": "the peasantry and agricultural production; the armed struggle for independence"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "five-pointed star",
+      "symbolism": "international solidarity and progress; modelled on the star of socialism"
+    }
   ]
 }

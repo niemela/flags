@@ -1,8 +1,50 @@
 {
   "id": "US-AL",
-  "title": "Alabama (United States)",
-  "iso": "US-AL",
+  "name": "Alabama (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-AL",
+    "fips_state": "01",
+    "wikidata": "Q173"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red",
+      "symbolism": "the crimson cross of Saint Andrew"
+    }
+  ],
+  "description": "A white field charged with a crimson saltire (diagonal cross) extending from corner to corner; the bars are at least six inches broad. The flag is square or near-square in some renderings but is conventionally rendered with a 2:3 ratio.",
+  "history": "Adopted by an act of the Alabama State Legislature on 16 February 1895, more than two decades after the end of Reconstruction. The act required the bars of the saltire to be at least six inches wide. The design is widely understood as a simplified evocation of the Confederate Battle Flag, though some sources also link it to the Cross of Burgundy used in Spanish colonial Alabama.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1895-02-16"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Alabama"
+  ],
+  "features": [
+    {
+      "type": "saltire",
+      "field": "white",
+      "saltire": "red",
+      "symbolism": "the crimson saltire of Saint Andrew, evoking the Confederate Battle Flag and the Cross of Burgundy carried by Spanish colonial Alabama"
+    }
   ]
 }

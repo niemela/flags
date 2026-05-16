@@ -1,9 +1,72 @@
 {
-  "id": "GEHH_1892-1976",
-  "title": "Gilbert Islands (1892-1976)",
-  "iso": "GEHH",
+  "id": "GEHH_1976",
+  "name": "Gilbert and Ellice Islands (1937–1976)",
   "type": [
     "historical",
-    "subdivision"
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "iso_3166_3": "GEHH",
+    "wikidata": "Q645975"
+  },
+  "region": [
+    "Oceania",
+    "Micronesia",
+    "Polynesia",
+    "Pacific Islands",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A British Blue Ensign — dark blue field with the Union Flag in the upper hoist canton — defaced with the colony's circular badge in the centre of the fly. The badge bears a frigate bird flying above a setting sun over the equator, reflecting the colony's straddling of the equator.",
+  "history": "The Gilbert and Ellice Islands were declared a British protectorate in 1892, becoming the Gilbert and Ellice Islands Colony in 1916. As with most British colonial territories, the colony used the British Blue Ensign defaced with a colonial badge. The badge was formalised in 1937 and depicted a frigate bird flying over a setting sun on the equator. The colony was administratively split in 1975, with the Ellice Islands becoming the separate territory of Tuvalu, and the Gilbert Islands becoming independent as Kiribati on 12 July 1979 (the Ellice/Tuvalu following on 1 October 1978). The colony's flag fell out of use as the constituent islands gained independence; ISO 3166-3 retains the code GEHH for the former colony.",
+  "variant": [
+    "state",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1937",
+      "end": "1976"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gilbert_and_Ellice_Islands",
+    "https://en.wikipedia.org/wiki/Flag_of_Kiribati",
+    "https://en.wikipedia.org/wiki/Flag_of_Tuvalu"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the British Blue Ensign, used by colonies and protectorates of the British Empire"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Flag, denoting British colonial sovereignty"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center-fly",
+      "role": "Colonial badge: a sailing ship and rising sun on a roundel",
+      "symbolism": "a frigate bird in flight over a setting sun on the equator (later versions); earlier the badge depicted a sailing canoe — the imagery referenced the Pacific setting and the colony's mariner culture"
+    }
   ]
 }

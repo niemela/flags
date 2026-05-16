@@ -1,8 +1,68 @@
 {
   "id": "BR-ES",
-  "title": "Espírito Santo (Brazil)",
-  "iso": "BR-ES",
+  "name": "Espirito Santo (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-ES",
+    "wikidata": "Q43019"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the sky"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace"
+    },
+    {
+      "color": "pink",
+      "symbolism": "the rosa-velho colour from Princess Leopoldina's mantle"
+    }
+  ],
+  "description": "Three horizontal stripes, blue at the top, a narrower white in the middle and rose-pink at the bottom, with the inscription TRABALHA E CONFIA in blue letters on the central white band.",
+  "history": "Designed by Antonio Aguirre and Eulalia de Aguirre and adopted by State Decree No. 5 on 24 May 1908; the colours are taken from the mantle of Princess Leopoldina, with the motto from Ignatius of Loyola.",
+  "periods": [
+    {
+      "start": "1908-05-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Esp%C3%ADrito_Santo"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "pink"
+      ],
+      "count": 3,
+      "widths": [
+        3,
+        1,
+        3
+      ],
+      "symbolism": "Three horizontal bands with the state motto on the central white stripe; the colours are taken from the cope worn by Princess Leopoldina"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "state motto",
+      "symbolism": "TRABALHA E CONFIA ('Work and trust'), the motto of Espirito Santo, taken from a phrase by the Jesuit Saint Ignatius of Loyola"
+    }
   ]
 }

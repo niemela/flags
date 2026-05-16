@@ -1,8 +1,78 @@
 {
   "id": "UY",
-  "title": "Uruguay",
-  "iso": "UY",
+  "name": "Uruguay",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "UY",
+    "iso_3166_1_alpha3": "URY",
+    "fifa": "URU",
+    "ioc": "URU",
+    "wikidata": "Q77"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "purity, peace and the union of the original departments"
+    },
+    {
+      "color": "blue",
+      "symbolism": "loyalty, justice and freedom"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the Sun of May at the canton"
+    }
+  ],
+  "description": "Nine equal horizontal stripes alternating white and blue (white at top and bottom), with a white canton occupying the upper hoist over the four uppermost stripes containing a golden Sun of May with sixteen alternating straight and wavy rays.",
+  "history": "Designed by Joaquín Suárez and adopted by the General Constituent and Legislative Assembly on 16 December 1828, with the present nine-stripe pattern set by law on 11 July 1830; the design was inspired by the flag of the United States (the stripe arrangement) and the flag of the United Provinces of the Río de la Plata (the Sun of May and the white-and-blue palette). Uruguay's flag of state and naval ensign are identical to the civil flag.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1830-07-11"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Uruguay"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 9,
+      "symbolism": "nine alternating white and blue stripes representing the nine original departments of Uruguay at the time of the flag's adoption in 1830"
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "proportion": "1/4",
+      "symbolism": "the white canton bearing the Sun of May, drawn from the flags of the United Provinces of the Río de la Plata",
+      "features": [
+        {
+          "type": "sun",
+          "count": 1,
+          "rays": 16,
+          "color": "yellow",
+          "role": "Sol de Mayo (Sun of May)",
+          "symbolism": "a golden human-faced sun with sixteen rays alternating straight and wavy, recalling the sun that according to legend appeared through the clouds during the May Revolution of 1810; a shared symbol of Argentina and Uruguay"
+        }
+      ]
+    }
   ]
 }

@@ -1,8 +1,65 @@
 {
   "id": "NO-03",
-  "title": "Oslo (Norway)",
+  "name": "Oslo (Norway)",
   "type": [
-    "subdivision",
-    "city"
+    "city",
+    "subdivision"
+  ],
+  "parent": "NO",
+  "codes": {
+    "iso_3166_2": "NO-03",
+    "wikidata": "Q585"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field of the city arms"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the throne and halo of Saint Hallvard"
+    },
+    {
+      "color": "white",
+      "symbolism": "the figures of Saint Hallvard and the woman"
+    },
+    {
+      "color": "red",
+      "symbolism": "details of the saint's tunic"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the millstone"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlines and details"
+    }
+  ],
+  "description": "A blue field bearing the figure of Saint Hallvard enthroned, holding three arrows and a millstone, with a nude female figure at his feet, all rendered in heraldic gold, white, and red.",
+  "history": "Oslo is unique in Norway for being simultaneously a municipality (kommune) and a county (fylke). The flag, like the coat of arms, depicts Saint Hallvard, who has been the city's patron and emblem since the medieval period; the present design was officially adopted in 1924 (by royal decree of 17 December) based on the historical seal.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Coat_of_arms_of_Oslo",
+    "https://en.wikipedia.org/wiki/Oslo"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "the heraldic banner of the Oslo coat of arms: Saint Hallvard, patron of the city, enthroned with millstone and arrows above a naked woman, all on a blue field"
+    },
+    {
+      "type": "human-figure",
+      "count": 1,
+      "position": "center",
+      "role": "Saint Hallvard, patron saint of Oslo",
+      "symbolism": "Saint Hallvard Vebjornsson, the city's patron saint, depicted enthroned holding three arrows and a millstone, as he was killed defending an innocent woman; the woman lies at his feet"
+    }
   ]
 }

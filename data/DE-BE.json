@@ -1,8 +1,69 @@
 {
   "id": "DE-BE",
-  "title": "Berlin (Germany)",
-  "iso": "DE-BE",
+  "name": "Berlin (Germany)",
   "type": [
     "subdivision"
+  ],
+  "parent": "DE",
+  "codes": {
+    "iso_3166_2": "DE-BE",
+    "wikidata": "Q64"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the central field on which the bear stands"
+    },
+    {
+      "color": "red",
+      "symbolism": "the upper and lower stripes, recalling the heraldic colours of Brandenburg"
+    },
+    {
+      "color": "black",
+      "symbolism": "the outline of the Berlin bear"
+    }
+  ],
+  "description": "A white horizontal band between two narrower red stripes; in the centre toward the hoist, a rampant black bear with red claws and tongue.",
+  "history": "The Berlin civil flag (Landesflagge) was adopted on 26 May 1954, with the bear redesigned in its current form in 1981. The bear has appeared on Berlin's seal since 1280; the red-white-red striped layout was introduced after the Second World War to distinguish the modern state from earlier Prussian heraldry.",
+  "variant": [
+    "civil"
+  ],
+  "periods": [
+    {
+      "start": "1954-05-26"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Berlin"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "type": "animal-other",
+      "count": 1,
+      "color": "black",
+      "position": "center-hoist",
+      "role": "Berlin bear (rampant black bear with red claws and tongue)",
+      "symbolism": "The bear has been the heraldic symbol of Berlin since the 13th century; popular etymology links it to the city's name (although the name actually derives from a Slavic root)."
+    }
   ]
 }

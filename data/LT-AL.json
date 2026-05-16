@@ -1,8 +1,62 @@
 {
   "id": "LT-AL",
-  "title": "Alytus (Lithuania)",
-  "iso": "LT-AL",
+  "name": "Alytus County (Lithuania)",
   "type": [
     "subdivision"
+  ],
+  "parent": "LT",
+  "codes": {
+    "iso_3166_2": "LT-AL",
+    "wikidata": "Q193513"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Baltics",
+    "European Union"
+  ],
+  "aspect_ratio": "5:6",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the standard outer field of Lithuanian county flags"
+    },
+    {
+      "color": "black",
+      "symbolism": "the field of the county coat of arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "outline and detailing of the central charge"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the central knight on horseback"
+    },
+    {
+      "color": "red",
+      "symbolism": "details of the rider's saddle and trim"
+    }
+  ],
+  "description": "A blue field with an inner black panel set off by a narrow white-and-yellow border, bearing the coat of arms of Alytus County in the centre.",
+  "history": "Like the flags of all ten Lithuanian counties, the flag of Alytus County follows a uniform template introduced after the country's redivision into apskritys (counties) in 1994: a blue outer border surrounding the county's heraldic field with the county arms at the centre.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alytus_County",
+    "https://lt.wikipedia.org/wiki/Alytaus_apskritis"
+  ],
+  "features": [
+    {
+      "type": "bordure",
+      "field": "black",
+      "border": "blue",
+      "symbolism": "blue border in the Lithuanian county pattern, with a black inner field referring to the county arms"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "coat of arms of Alytus County",
+      "symbolism": "an armoured knight on horseback charging with raised sword on a shield, derived from the historic Vytis but in the colours of Alytus"
+    }
   ]
 }

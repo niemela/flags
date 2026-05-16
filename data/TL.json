@@ -1,8 +1,77 @@
 {
   "id": "TL",
-  "title": "Timor-Leste",
-  "iso": "TL",
+  "name": "Timor-Leste",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "TL",
+    "iso_3166_1_alpha3": "TLS",
+    "fifa": "TLS",
+    "ioc": "TLS",
+    "wikidata": "Q574"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia",
+    "Lusophone"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the struggle for national liberation"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the traces of colonialism in Timor-Leste's history"
+    },
+    {
+      "color": "black",
+      "symbolism": "the obscurantism that needs to be overcome"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace, embodied in the five-pointed star which is the light that guides the nation"
+    }
+  ],
+  "symbolism": null,
+  "description": "A red field with two isoceles triangles based on the hoist: an outer yellow triangle whose apex reaches half-way along the flag, and a narrower black triangle inside it whose apex reaches one-third of the way. A white five-pointed star is centred on the black triangle, with one of its points directed toward the upper hoist.",
+  "history": "First adopted on 28 November 1975 by the FRETILIN movement in its brief unilateral declaration of independence from Portugal, just before the Indonesian invasion of December 1975. After 24 years of Indonesian occupation and 2.5 years of UN transitional administration, the same 1975 design was re-adopted on 20 May 2002, the day Timor-Leste's full independence was internationally recognised.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1975-11-28",
+      "end": "1975-12-07"
+    },
+    {
+      "start": "2002-05-20"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_East_Timor"
+  ],
+  "features": [
+    {
+      "type": "arrowhead",
+      "field": "red",
+      "outer": "yellow",
+      "inner": "black",
+      "symbolism": "two superimposed isoceles triangles based on the hoist — a yellow triangle covering half the flag's length and a smaller black triangle covering one-third — point into the red field; the yellow triangle represents the traces of colonialism in Timor-Leste's past, the black triangle the obscurantism that needs to be overcome, and the red field the struggle for national liberation"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "hoist",
+      "role": "five-pointed white star on the black triangle",
+      "symbolism": "the light that guides the people of Timor-Leste; one point of the star is directed toward the upper hoist"
+    }
   ]
 }

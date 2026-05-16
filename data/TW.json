@@ -1,8 +1,75 @@
 {
   "id": "TW",
-  "title": "Taiwan",
-  "iso": "TW",
+  "name": "Taiwan (Republic of China)",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "TW",
+    "iso_3166_1_alpha3": "TWN",
+    "fifa": "TPE",
+    "ioc": "TPE",
+    "wikidata": "Q22502"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the blood of the revolutionaries; brotherhood and Min (one of the Three Principles of the People)"
+    },
+    {
+      "color": "blue",
+      "symbolism": "liberty and Min Quan (democracy / civil rights)"
+    },
+    {
+      "color": "white",
+      "symbolism": "equality, the brightness of the sun, and Min Sheng (the people's livelihood)"
+    }
+  ],
+  "description": "A red field with a blue canton in the upper hoist, on which is centred a white sun bearing twelve triangular rays. The flag is known as 'Blue Sky, White Sun, and a Wholly Red Earth' (青天白日滿地紅).",
+  "history": "Designed by Sun Yat-sen, who took the Blue Sky with a White Sun emblem (originally created by his comrade Lu Hao-tung in 1893) and added the red field to form the new flag. Adopted as the national flag of the Republic of China by the Nationalist Government on 17 December 1928 after the Northern Expedition reunified mainland China; remained in use after the Republic of China government's retreat to Taiwan in 1949 following the Chinese Civil War. In Taiwan today the flag is sometimes politically contentious because of its association with the Kuomintang, but it remains the official flag of the Republic of China.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign",
+    "war"
+  ],
+  "periods": [
+    {
+      "start": "1928-12-17"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Republic_of_China"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the bloodshed of the revolutionaries who overthrew the Qing dynasty and established the Republic of China; the colour also represents brotherhood among the Han, Manchu, Mongol, Hui, and Tibetan peoples"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "proportion": "1/4",
+      "role": "blue canton with a white sun",
+      "symbolism": "the 'Blue Sky with a White Sun' emblem of the Kuomintang and the Republic of China; on a blue field representing democracy",
+      "features": [
+        {
+          "type": "sun",
+          "count": 1,
+          "rays": 12,
+          "color": "white",
+          "position": "center",
+          "role": "Blue Sky with a White Sun",
+          "symbolism": "the twelve rays of the sun represent the twelve traditional Chinese hours (each two modern hours, marking the twelve months and the twelve shichen of the day) and the spirit of constant progress; the emblem was designed by Lu Hao-tung in 1893 as the banner of the Revive China Society"
+        }
+      ]
+    }
   ]
 }

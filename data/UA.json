@@ -1,8 +1,62 @@
 {
   "id": "UA",
-  "title": "Ukraine",
-  "iso": "UA",
+  "name": "Ukraine",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "UA",
+    "iso_3166_1_alpha3": "UKR",
+    "fifa": "UKR",
+    "ioc": "UKR",
+    "wikidata": "Q212"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the sky above Ukraine; freedom; from the azure of the medieval Galician arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "fields of ripe wheat (Ukraine's status as a 'breadbasket'); from the gold lion of the medieval Galician arms"
+    }
+  ],
+  "description": "Two equal horizontal stripes — blue over yellow — in proportions 2:3.",
+  "history": "Blue-and-yellow heraldry has been associated with the Ukrainian lands since the medieval Kingdom of Galicia–Volhynia (whose arms — a gold lion on an azure field — appear from the 13th century). The horizontal blue-over-yellow bicolour was first raised at large public events in 1848 in Lviv during the Spring of Nations, formally adopted by the Ukrainian People's Republic on 22 March 1918, then suppressed under Soviet rule. It was restored over the Verkhovna Rada in Kyiv on 24 August 1991 (the day of the declaration of independence) and officially confirmed as the state flag on 28 January 1992. Annual Day of the State Flag is 23 August.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1918-03-22",
+      "end": "1921"
+    },
+    {
+      "start": "1992-01-28"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Ukraine"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2,
+      "symbolism": "the traditional poetic reading is a blue sky above a field of ripe wheat — emblematic of the Ukrainian landscape and the agricultural heart of the country; the colours derive from the medieval coat of arms of the Kingdom of Galicia–Volhynia (a gold lion on an azure field)"
+    }
   ]
 }

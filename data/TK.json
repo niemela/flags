@@ -1,8 +1,68 @@
 {
   "id": "TK",
-  "title": "Tokelau",
-  "iso": "TK",
+  "name": "Tokelau (New Zealand)",
   "type": [
     "subdivision"
+  ],
+  "parent": "NZ",
+  "codes": {
+    "iso_3166_1_alpha2": "TK",
+    "iso_3166_1_alpha3": "TKL",
+    "wikidata": "Q36823"
+  },
+  "region": [
+    "Oceania",
+    "Polynesia",
+    "Pacific Islands"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the Pacific Ocean"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the traditional Tokelauan canoe (vaka)"
+    },
+    {
+      "color": "white",
+      "symbolism": "the four stars representing the Southern Cross constellation"
+    }
+  ],
+  "description": "A blue field charged with a stylised yellow Tokelauan canoe (vaka) sailing toward four white five-pointed stars in the upper hoist, arranged as the Southern Cross.",
+  "history": "Adopted on 7 September 2009 following a community-driven design competition. Tokelau is a non-self-governing territory of New Zealand consisting of three atolls; the flag was approved by the General Fono and given royal assent by Queen Elizabeth II.",
+  "periods": [
+    {
+      "start": "2009-09-07"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Tokelau"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the ocean surrounding the three atolls of Tokelau"
+    },
+    {
+      "type": "ship",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "Tokelauan vaka (canoe)",
+      "symbolism": "a stylised yellow outrigger canoe sailing toward the Southern Cross; represents the navigational journey of Tokelau toward self-determination while keeping ties to family, culture, and the nation."
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "white",
+      "position": "upper-hoist",
+      "arrangement": "southern-cross",
+      "role": "Southern Cross",
+      "symbolism": "the Southern Cross constellation, which guides the canoe; represents Tokelau's geographical position in the South Pacific."
+    }
   ]
 }

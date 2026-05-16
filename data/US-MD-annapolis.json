@@ -1,7 +1,58 @@
 {
   "id": "US-MD-annapolis",
-  "title": "Annapolis, MD (United States)",
+  "name": "Annapolis (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-MD",
+  "codes": {
+    "wikidata": "Q28271"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "gold ornamentation, evoking colonial naval and maritime heritage"
+    },
+    {
+      "color": "red",
+      "symbolism": "accents on the central emblem"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlines of the central emblem"
+    }
+  ],
+  "description": "A white field bearing a centred emblem depicting the dome of the Maryland State House with gold colonial-style ornamentation to either side.",
+  "history": "The current flag was adopted in 2020, replacing an earlier design and emphasising Annapolis's role as the capital of Maryland and its colonial and early-republic heritage.",
+  "periods": [
+    {
+      "start": "2020"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Annapolis,_Maryland"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "An emblematic composition centred on a representation of the dome of the Maryland State House, flanked by golden ornamental scrollwork suggestive of colonial-era ship's decoration, on a white field."
+    },
+    {
+      "type": "building",
+      "count": 1,
+      "position": "center",
+      "role": "Maryland State House dome",
+      "symbolism": "The Maryland State House (built 1772–1779), the oldest U.S. state capitol in continuous legislative use and the meeting place of the Continental Congress in 1783–1784 when Annapolis served as the temporary capital of the United States."
+    }
   ]
 }

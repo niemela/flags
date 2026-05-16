@@ -1,8 +1,66 @@
 {
   "id": "MX-MEX",
-  "title": "México (Mexico)",
-  "iso": "MX-MEX",
+  "name": "State of Mexico (Mexico)",
   "type": [
     "subdivision"
+  ],
+  "parent": "MX",
+  "codes": {
+    "iso_3166_2": "MX-MEX",
+    "wikidata": "Q82112"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Central America",
+    "Latin America"
+  ],
+  "aspect_ratio": "4:7",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field and details of the arms"
+    },
+    {
+      "color": "green",
+      "symbolism": "agriculture and the mountains surrounding the Valley of Mexico"
+    },
+    {
+      "color": "blue",
+      "symbolism": "industry and the lakes of the central valley"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the sun, gold and the wheat of agriculture"
+    },
+    {
+      "color": "red",
+      "symbolism": "labour and details of the arms"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlines and details of the arms"
+    }
+  ],
+  "description": "A white field with the coat of arms of the State of Mexico centred.",
+  "history": "The State of Mexico has no officially adopted state flag; the design shown — a white field bearing the state coat of arms — is in de facto use to represent the state. The state coat of arms was adopted in 1995, replacing earlier versions.",
+  "status": "de-facto",
+  "sources": [
+    "https://en.wikipedia.org/wiki/State_of_Mexico",
+    "https://en.wikipedia.org/wiki/Coat_of_arms_of_the_State_of_Mexico"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white",
+      "symbolism": "A white field charged with the state coat of arms, in the typical pattern of Mexican state flags."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "coat of arms of the State of Mexico",
+      "symbolism": "The arms are divided into three quarters representing the three pillars of the state — agriculture (with a wheat sheaf and the slopes of the Nevado de Toluca), labour (a working figure with industrial tools), and history (the Pyramid of the Sun at Teotihuacan and the Cerro de las Campanas, recalling the pre-Columbian heritage and independence) — encircled by the motto \"Libertad, Trabajo, Cultura\"."
+    }
   ]
 }

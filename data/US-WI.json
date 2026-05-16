@@ -1,8 +1,86 @@
 {
   "id": "US-WI",
-  "title": "Wisconsin (United States)",
-  "iso": "US-WI",
+  "name": "Wisconsin (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-WI",
+    "wikidata": "Q1537"
+  },
+  "region": [
+    "Americas",
+    "Northern America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the deep-blue field traditional to U.S. state flags derived from regimental colors"
+    },
+    {
+      "color": "white",
+      "symbolism": "the inscription and elements of the state coat of arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "elements of the state seal, including the cornucopia and pile of lead"
+    },
+    {
+      "color": "red",
+      "symbolism": "details of the seal"
+    },
+    {
+      "color": "brown",
+      "symbolism": "details of the seal, including the shield and tools"
+    },
+    {
+      "color": "green",
+      "symbolism": "details of the seal"
+    },
+    {
+      "color": "black",
+      "symbolism": "outline detail in the coat of arms"
+    }
+  ],
+  "description": "A navy-blue field charged centrally with the Wisconsin state coat of arms, with the word 'WISCONSIN' arched above in white capitals and the date '1848' inscribed below.",
+  "history": "Wisconsin's first state flag was adopted in 1863 for use by Civil War regiments and consisted of the state coat of arms on a blue field. It was readopted as the official flag in 1913. In 1979 the design was modified to add the state name 'WISCONSIN' above the seal and the date '1848' (the year of admission to the Union) below, to make it easier to distinguish from other state flags. The 1979 version is the current flag.",
+  "periods": [
+    {
+      "start": "1979-05-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Wisconsin"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Wisconsin state coat of arms",
+      "symbolism": "the state seal flanked by a sailor and a yeoman, supporting a shield charged with symbols of Wisconsin's industries (a plough, pick and shovel, an arm and hammer, and an anchor) around a U.S. coat of arms inescutcheon, with the state motto 'Forward' on a banner above and a badger crest, all surrounded by a cornucopia and a pile of thirteen lead ingots."
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "white",
+      "position": "top",
+      "role": "state name",
+      "symbolism": "the word 'WISCONSIN' identifying the state"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "white",
+      "position": "bottom",
+      "role": "year of statehood",
+      "symbolism": "the year '1848', when Wisconsin was admitted to the Union"
+    }
   ]
 }

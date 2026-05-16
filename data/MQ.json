@@ -1,8 +1,74 @@
 {
   "id": "MQ",
-  "title": "Martinique",
-  "iso": "MQ",
+  "name": "Martinique (France)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FR",
+  "codes": {
+    "iso_3166_1_alpha2": "MQ",
+    "iso_3166_1_alpha3": "MTQ",
+    "wikidata": "Q17054"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean",
+    "Francophonie",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the blue field of the four quarters"
+    },
+    {
+      "color": "white",
+      "symbolism": "the cross of dividing lines and the four serpents"
+    }
+  ],
+  "description": "A blue field divided by a white cross into four equal quarters, each charged with a white L-shaped serpent (the fer-de-lance pit viper native to the island).",
+  "history": "Originated from a French royal ordinance of 4 August 1766 establishing a flag for ships of Martinique and Saint Lucia. Used historically as a colonial naval flag during the period of French slavery in the Caribbean, the flag's use has become highly controversial because of its colonial-era associations. In 2018 the Collectivité Territoriale de Martinique discontinued official use of the snake flag, and in 2023 a new official flag (red, green and black tricolour with a hummingbird) was adopted. The snake flag is therefore historic / no longer in official use, though it remains the most widely recognised image associated with Martinique outside the island.",
+  "status": "de-facto",
+  "periods": [
+    {
+      "start": "1766-08-04",
+      "end": "2018"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_Martinique"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "blue",
+        "blue",
+        "blue",
+        "blue"
+      ],
+      "symbolism": "a blue field divided into four quarters by a white cross, derived from a 1766 royal ordinance"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "center",
+      "role": "white cross",
+      "symbolism": "the white cross dividing the field into four quarters, derived from a 1766 royal ordinance for ships of Martinique and Saint Lucia"
+    },
+    {
+      "type": "serpent",
+      "count": 4,
+      "color": "white",
+      "arrangement": "grid",
+      "rows": [
+        2,
+        2
+      ],
+      "role": "fer-de-lance serpents",
+      "symbolism": "four white L-shaped serpents (fer-de-lance, the venomous pit viper native to the island), one in each quarter"
+    }
   ]
 }

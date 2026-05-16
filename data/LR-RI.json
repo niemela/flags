@@ -1,8 +1,78 @@
 {
   "id": "LR-RI",
-  "title": "Rivercess (Liberia)",
-  "iso": "LR-RI",
+  "name": "River Cess County (Liberia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "LR",
+  "codes": {
+    "iso_3166_2": "LR-RI"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field bordered top and bottom by blue stripes; the Liberian national flag forms the canton in the upper hoist (over the upper blue stripe), and the fly half shows a green-leaved tree with a brown trunk amid yellow sun-rays, set against the white field.",
+  "history": "Presented by President William V. S. Tubman on 29 November 1965 together with the flags of the other Liberian counties.",
+  "periods": [
+    {
+      "start": "1965-11-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/River_Cess_County",
+    "https://en.wikipedia.org/wiki/Flags_of_the_counties_of_Liberia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        4,
+        1
+      ]
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "LR",
+      "proportion": "1/4",
+      "role": "the union",
+      "symbolism": "River Cess as part of the Republic of Liberia"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center-fly",
+      "role": "tree with sun",
+      "symbolism": "a tree, with rays of the rising sun, representing the natural endowment and prospect of the county"
+    }
   ]
 }

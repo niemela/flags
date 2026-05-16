@@ -1,8 +1,52 @@
 {
   "id": "JP-14",
-  "title": "Kanagawa (Japan)",
-  "iso": "JP-14",
+  "name": "Kanagawa Prefecture (Japan)",
   "type": [
     "subdivision"
+  ],
+  "parent": "JP",
+  "codes": {
+    "iso_3166_2": "JP-14",
+    "wikidata": "Q132047"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "purity, peace and the prefecture's bright future"
+    },
+    {
+      "color": "red",
+      "symbolism": "vitality and the warmth of the prefecture's people"
+    }
+  ],
+  "description": "A white field charged at the centre with a large red calligraphic abstraction of the kanji 神, the first character in the prefecture's name (神奈川, Kanagawa).",
+  "history": "Kanagawa's prefectural symbol was selected by public competition and officially adopted on 23 November 1948. The flag, with the red symbol on a white field, has been used as the prefectural flag since the same year.",
+  "periods": [
+    {
+      "start": "1948-11-23"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kanagawa_Prefecture",
+    "https://en.wikipedia.org/wiki/Flag_of_Kanagawa_Prefecture"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "stylised kanji 神 (kami)",
+      "symbolism": "a calligraphic abstraction of the first character of 神奈川 (Kanagawa); the stylisation evokes both the harmony of the prefecture and an open, forward-looking dynamism."
+    }
   ]
 }

@@ -1,8 +1,72 @@
 {
   "id": "EC",
-  "title": "Ecuador",
-  "iso": "EC",
+  "name": "Ecuador",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "EC",
+    "iso_3166_1_alpha3": "ECU",
+    "fifa": "ECU",
+    "ioc": "ECU",
+    "wikidata": "Q736"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the abundance and fertility of the country's crops and land"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the sky, sea and the rivers of Ecuador, particularly the Amazonian basin"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed by the soldiers and martyrs in the struggle for independence"
+    }
+  ],
+  "description": "Three horizontal stripes — yellow on top occupying the upper half of the flag, blue and red each occupying a quarter below — with the national coat of arms centred straddling all three stripes. The civil flag is the plain tricolour.",
+  "history": "The yellow-blue-red tricolour derives from the flag of Gran Colombia, originally designed by Francisco de Miranda and first hoisted in 1806. Ecuador's modern flag with the 2:1:1 horizontal proportions was adopted on 26 September 1860 by President Gabriel García Moreno, formally established by Congress on 7 November 1900. The same colours appear on the flags of Colombia and Venezuela, reflecting the shared Bolivarian / Gran Colombian heritage of the three countries.",
+  "variant": [
+    "civil",
+    "civil-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1900-11-07"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Ecuador"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        1
+      ],
+      "symbolism": "yellow for the abundance of the land, blue for the sky, sea and rivers, red for the blood shed by Ecuador's patriot soldiers and martyrs"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "national coat of arms (state flag only)",
+      "symbolism": "an oval shield depicting the Chimborazo volcano with the Guayas river flowing from it carrying the steamship Guayas (the first steamship built on South America's west coast); a golden sun in Aries above the volcano flanked by signs of the zodiac for March–July marking the period of the 1845 Marcist Revolution. Flags fly from each side, surmounted by an Andean condor with outstretched wings symbolising power and grandeur; below a fasces signifying republican dignity and laurel and palm fronds for the country's victories. The coat of arms appears only on the state flag; civil flags are the plain tricolour"
+    }
   ]
 }

@@ -1,8 +1,80 @@
 {
   "id": "AW",
-  "title": "Aruba",
-  "iso": "AW",
+  "name": "Aruba",
   "type": [
-    "subdivision"
+    "country"
+  ],
+  "parent": "NL",
+  "codes": {
+    "iso_3166_1_alpha2": "AW",
+    "iso_3166_1_alpha3": "ABW",
+    "wikidata": "Q21203"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the sky and the Caribbean Sea surrounding Aruba"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "abundance, the sun, the gold-mining past, and the wanglo (Brazilwood) flowers"
+    },
+    {
+      "color": "red",
+      "symbolism": "love for the country, the brazilwood from which the island took its early economy, and the Indian heritage"
+    },
+    {
+      "color": "white",
+      "symbolism": "honesty and the white sand beaches; the fimbriation around the star"
+    }
+  ],
+  "symbolism": null,
+  "description": "A light-blue field with two narrow yellow horizontal stripes near the bottom, and a red four-pointed star fimbriated in white in the upper hoist.",
+  "history": "Adopted on 18 March 1976, four years before Aruba was granted Status Aparte (separate constituent country status) within the Kingdom of the Netherlands on 1 January 1986. The flag was designed by a commission led by J. M. (Pancho) Geerman; 18 March is now celebrated as National Anthem and Flag Day.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1976-03-18"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Aruba"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "yellow",
+        "light-blue",
+        "yellow"
+      ],
+      "count": 4,
+      "widths": [
+        12,
+        1,
+        1,
+        4
+      ],
+      "symbolism": "the two narrow yellow stripes near the bottom evoke the abundance of the island and its position as separate from the other Netherlands Antilles"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 4,
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "four-pointed star (fambeu di Aruba)",
+      "symbolism": "the four cardinal points referring to the many origins of Aruba's population; the four main languages (Papiamento, Spanish, Dutch, English); the red colour symbolises the brazilwood, love for the country, and the blood of patriots"
+    }
   ]
 }

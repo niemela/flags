@@ -1,8 +1,80 @@
 {
   "id": "LR",
-  "title": "Liberia",
-  "iso": "LR",
+  "name": "Liberia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "LR",
+    "iso_3166_1_alpha3": "LBR",
+    "fifa": "LBR",
+    "ioc": "LBR",
+    "wikidata": "Q1014"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "10:19",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "courage"
+    },
+    {
+      "color": "white",
+      "symbolism": "moral excellence and purity"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the African mainland (the canton); the colour of liberty, justice and fidelity"
+    }
+  ],
+  "description": "Eleven equal horizontal stripes alternating red and white, beginning and ending with red. In the upper hoist, a blue square canton (the height of five stripes — about two-fifths of the flag's height) bearing a single white five-pointed star centred within it. Aspect ratio 10:19, identical to the United States flag.",
+  "history": "Adopted on 26 July 1847, the day Liberia declared independence from the American Colonization Society and became Africa's first independent republic. Designed by a committee of seven women, all born in the United States, the flag closely follows the Stars and Stripes: the eleven red and white stripes represent the eleven signatories of the Liberian Declaration of Independence, and the single white star ('Lone Star') in the blue canton marks Liberia as the first free republic on the African continent. The 10:19 proportion is also taken from the U.S. flag.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1847-07-26"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Liberia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 11,
+      "symbolism": "the eleven stripes represent the eleven signatories of the Liberian Declaration of Independence (1847); the design is consciously modelled on the flag of the United States, reflecting Liberia's founding by freed African-American settlers"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "proportion": "5/11",
+      "role": "the union",
+      "symbolism": "Africa as the home of the freed slaves who founded Liberia; in the imagery of the flag, the African continent itself",
+      "features": [
+        {
+          "type": "star",
+          "count": 1,
+          "points": 5,
+          "color": "white",
+          "position": "center",
+          "role": "Lone Star",
+          "symbolism": "the freedom granted to former slaves and Liberia as the first independent republic in Africa; the country's nickname is 'the Lone Star'"
+        }
+      ]
+    }
   ]
 }

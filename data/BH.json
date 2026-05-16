@@ -1,8 +1,65 @@
 {
   "id": "BH",
-  "title": "Bahrain",
-  "iso": "BH",
+  "name": "Bahrain",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "BH",
+    "iso_3166_1_alpha3": "BHR",
+    "fifa": "BHR",
+    "ioc": "BRN",
+    "wikidata": "Q398"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "MENA",
+    "GCC",
+    "Arab World"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the colour of the Khariji sect of Islam and traditional colour of Gulf Arab states"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace; introduced by the General Treaty of Peace with the British in 1820"
+    }
+  ],
+  "description": "A white vertical band at the hoist, separated from a red field that fills the rest of the flag by a serrated (zig-zag) vertical line forming five white triangular points pointing toward the fly.",
+  "history": "Bahrain has had a red-and-white flag since the early 19th century. A plain red flag with a white serration was set out in the General Treaty of Peace with the British (1820) to distinguish friendly Gulf states from pirates. The number of points was reduced from many to twenty-eight, then to eight (1932), and finally — by amiri decree on 14 February 2002, when Bahrain became a constitutional kingdom — to five, expressly to represent the Five Pillars of Islam. The current design is codified in Decree-Law No. 4 of 2002.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "2002-02-14"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Bahrain"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "field": "white",
+      "symbolism": "a white panel at the hoist separated from a red panel at the fly by a serrated (zig-zag) vertical line of five points; the red is the colour traditionally associated with the Khariji sect of Islam and with the Arab states of the Persian Gulf, while the white was added under treaties with the British in the 19th century"
+    },
+    {
+      "type": "triangle",
+      "count": 5,
+      "color": "white",
+      "position": "hoist",
+      "arrangement": "row",
+      "role": "five white serrations (Five Pillars of Islam)",
+      "symbolism": "the Five Pillars of Islam — the shahada (declaration of faith), salat (prayer), zakat (alms-giving), sawm (fasting during Ramadan) and hajj (pilgrimage to Mecca)"
+    }
   ]
 }

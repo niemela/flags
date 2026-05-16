@@ -1,8 +1,58 @@
 {
   "id": "SE-AC",
-  "title": "Västerbotten (Sweden)",
-  "iso": "SE-AC",
+  "name": "Vasterbotten County (Sweden)",
   "type": [
     "subdivision"
+  ],
+  "parent": "SE",
+  "codes": {
+    "iso_3166_2": "SE-AC",
+    "wikidata": "Q104915"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the azure field of the historic Vasterbotten arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "silver detailing in the reindeer charge"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the antlers and hooves"
+    },
+    {
+      "color": "red",
+      "symbolism": "the tongue of the reindeer"
+    }
+  ],
+  "description": "A square blue flag charged centrally with the silver running reindeer of the Vasterbotten provincial arms, with gold antlers and hooves.",
+  "history": "Vasterbotten County's arms were granted on 18 January 1949, drawing on the older arms of the historic province of Lapland; the flag is the heraldic banner of those arms.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/V%C3%A4sterbotten_County",
+    "https://sv.wikipedia.org/wiki/V%C3%A4sterbottens_l%C3%A4ns_vapen"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "animal-other",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "running reindeer of Vasterbotten",
+      "symbolism": "a silver reindeer in full course on the blue field, with gold antlers and hooves and a red tongue, referring to the reindeer-herding traditions of the historic Lapland that included parts of present-day Vasterbotten."
+    }
   ]
 }

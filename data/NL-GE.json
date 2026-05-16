@@ -1,8 +1,54 @@
 {
   "id": "NL-GE",
-  "title": "Gelderland (Netherlands)",
-  "iso": "NL-GE",
+  "name": "Gelderland (Netherlands)",
   "type": [
     "subdivision"
+  ],
+  "parent": "NL",
+  "codes": {
+    "iso_3166_2": "NL-GE",
+    "wikidata": "Q775"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "9:13",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "from the azure of the arms of Guelders"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "from the gold lion of Guelders"
+    },
+    {
+      "color": "black",
+      "symbolism": "from the sable lion of Jülich, also borne in the historic arms"
+    }
+  ],
+  "description": "Three equal horizontal bands of blue (top), yellow, and black.",
+  "history": "Adopted by the provincial council on 24 July 1953. The colours are taken from the quartered arms of Guelders and Jülich that have represented the territory since the late medieval period.",
+  "periods": [
+    {
+      "start": "1953-07-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Gelderland"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "black"
+      ],
+      "count": 3,
+      "symbolism": "the colours derive from the historic arms of the Duchy of Guelders: an azure lion crowned or on a field, with the black drawn from the lion of Jülich"
+    }
   ]
 }

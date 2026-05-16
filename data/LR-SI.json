@@ -1,8 +1,56 @@
 {
   "id": "LR-SI",
-  "title": "Sinoe (Liberia)",
-  "iso": "LR-SI",
+  "name": "Sinoe County (Liberia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "LR",
+  "codes": {
+    "iso_3166_2": "LR-SI"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field bearing a centred green Greek cross that extends to the edges of the flag; the Liberian national flag forms the canton in the upper hoist.",
+  "history": "Presented by President William V. S. Tubman on 29 November 1965 together with the flags of the other Liberian counties.",
+  "periods": [
+    {
+      "start": "1965-11-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sinoe_County",
+    "https://en.wikipedia.org/wiki/Flags_of_the_counties_of_Liberia"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "white",
+      "cross": "green"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "LR",
+      "proportion": "1/4",
+      "role": "the union",
+      "symbolism": "Sinoe as part of the Republic of Liberia"
+    }
   ]
 }

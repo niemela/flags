@@ -1,8 +1,77 @@
 {
   "id": "US-IL",
-  "title": "Illinois (United States)",
-  "iso": "US-IL",
+  "name": "Illinois (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-IL",
+    "fips_state": "17",
+    "wikidata": "Q1204"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A white field bearing the Great Seal of Illinois — a bald eagle on a boulder, holding a shield with the U.S. flag and a streamer reading 'STATE SOVEREIGNTY, NATIONAL UNION' — with the word 'ILLINOIS' in blue beneath the seal.",
+  "history": "The original Illinois flag, designed by Lucy Derwent and adopted on 6 July 1915, depicted only the state seal on a white field. Chief Petty Officer Bruce McDaniel, an Illinoisan serving in Vietnam, observed that no one recognized the seal-only flag, and he urged the state to add the name. The redesigned flag, with 'ILLINOIS' added beneath the seal, was adopted on 1 July 1970.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1970-07-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Illinois"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "the Great Seal of Illinois",
+      "symbolism": "a bald eagle perched on a boulder holds a shield bearing the U.S. flag and a banner reading 'STATE SOVEREIGNTY, NATIONAL UNION'; dates 1818 (statehood) and 1868 (current seal) appear on the rock"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "blue",
+      "position": "bottom",
+      "role": "the word 'ILLINOIS' beneath the seal",
+      "symbolism": "added in 1970 so the flag could be identified when seen by Illinois servicemembers in Vietnam"
+    }
   ]
 }

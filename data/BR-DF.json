@@ -1,8 +1,67 @@
 {
   "id": "BR-DF",
-  "title": "Distrito Federal (Brazil)",
-  "iso": "BR-DF",
+  "name": "Distrito Federal (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-DF",
+    "wikidata": "Q40781"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "peace"
+    },
+    {
+      "color": "green",
+      "symbolism": "the Cerrado vegetation; the central square represents Brasilia"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wealth of the country and the routes that converge on the capital"
+    }
+  ],
+  "description": "A white field charged at the centre with a green square, from which four yellow arrows radiate outward to the four sides.",
+  "history": "Designed by the poet Guilherme de Almeida and adopted by Federal Law No. 3.751 of 13 April 1960, when Brasilia was inaugurated as the capital of Brazil.",
+  "periods": [
+    {
+      "start": "1960-04-13"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Federal_District_(Brazil)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white",
+      "symbolism": "white field for peace"
+    },
+    {
+      "type": "square",
+      "count": 1,
+      "color": "green",
+      "position": "center",
+      "role": "central green square",
+      "symbolism": "the Federal District at the heart of Brazil"
+    },
+    {
+      "type": "triangle",
+      "count": 4,
+      "color": "yellow",
+      "arrangement": "cross-pattern",
+      "role": "four yellow arrows radiating from the central square",
+      "symbolism": "the four cardinal points and the highways that converge from across Brazil on Brasilia, recalling the country's federative integration"
+    }
   ]
 }

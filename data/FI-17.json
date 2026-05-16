@@ -1,8 +1,54 @@
 {
   "id": "FI-17",
-  "title": "Satakunta (Finland)",
-  "iso": "FI-17",
+  "name": "Satakunta (Finland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FI",
+  "codes": {
+    "iso_3166_2": "FI-17",
+    "wikidata": "Q5792"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "European Union"
+  ],
+  "aspect_ratio": "5:8",
+  "shape": "rectangular",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the gules field of the historic Satakunta arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden charges of the arms"
+    },
+    {
+      "color": "black",
+      "symbolism": "heraldic outlining and tincture detail"
+    }
+  ],
+  "description": "A rectangular red flag charged centrally with the gold provincial arms of Satakunta, depicting a crowned bear-and-sword device on the red field.",
+  "history": "Satakunta became a region under Finland's 1997 administrative reform; its banner is the heraldic flag of the regional coat of arms, derived from the historic arms of the Satakunta province documented from the late sixteenth century.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Satakunta",
+    "https://fi.wikipedia.org/wiki/Satakunnan_lippu"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "arms of Satakunta",
+      "symbolism": "the historic provincial arms of Satakunta: a black bear holding a crowned sword, recalling the medieval province on the western Finnish coast."
+    }
   ]
 }

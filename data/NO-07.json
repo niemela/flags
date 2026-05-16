@@ -1,7 +1,57 @@
 {
   "id": "NO-07",
-  "title": "Vestfold (Norway, 1970-2020)",
+  "name": "Vestfold (Norway, 1970–2019)",
   "type": [
+    "historical",
     "subdivision"
+  ],
+  "parent": "NO",
+  "codes": {
+    "iso_3166_2": "NO-07",
+    "wikidata": "Q50635"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field of the county arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "gold (Or) for the Viking ship"
+    }
+  ],
+  "description": "A red field charged with a stylised gold Viking longship in the centre.",
+  "history": "Granted to Vestfold county on 9 January 1970. The county was abolished on 1 January 2020 when it was merged with Telemark into the new Vestfold og Telemark county; Vestfold was re-established on 1 January 2024 following the dissolution of Vestfold og Telemark.",
+  "status": "historical",
+  "periods": [
+    {
+      "start": "1970-01-09",
+      "end": "2019-12-31"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vestfold",
+    "https://no.wikipedia.org/wiki/Vestfolds_fylkesv%C3%A5pen"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "heraldic banner of the county arms: a gold Viking longship on a red field, alluding to Vestfold's central role in the Viking Age (Oseberg, Gokstad, Tune ship finds)"
+    },
+    {
+      "type": "ship",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "Viking longship",
+      "symbolism": "Vestfold's prominent place in the Viking Age, home of the Oseberg, Gokstad, and Tune ship burials"
+    }
   ]
 }

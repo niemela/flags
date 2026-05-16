@@ -1,8 +1,63 @@
 {
   "id": "AR-D",
-  "title": "San Luis (Argentina)",
-  "iso": "AR-D",
+  "name": "San Luis (Argentina)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AR",
+  "codes": {
+    "iso_3166_2": "AR-D",
+    "wikidata": "Q44352"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the colours of the Argentine national flag and of Manuel Belgrano's cockade"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central stripe of the Argentine national flag"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the Sun of May"
+    }
+  ],
+  "description": "A vertical triband of light blue, white and light blue in equal widths, with the provincial coat of arms (an oval bearing two clasped hands and a Phrygian cap on a pike beneath the Sun of May, framed by laurel branches) centred on the white stripe.",
+  "history": "Adopted by provincial law 5286 on 5 July 2001 after a public competition. The colours and central emblem reproduce those of the national flag and coat of arms of Argentina, emphasising the province's identification with the Argentine nation it helped to found through the gauchos who joined the Army of the Andes in 1817.",
+  "periods": [
+    {
+      "start": "2001-07-05"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_San_Luis_Province",
+    "https://es.wikipedia.org/wiki/Bandera_de_la_provincia_de_San_Luis"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "light-blue"
+      ],
+      "count": 3,
+      "symbolism": "the light-blue and white of the Argentine national flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "coat of arms of San Luis Province",
+      "symbolism": "two clasped hands above a pike capped with a Phrygian cap, surmounted by the Sun of May and surrounded by laurel branches — the Argentine national emblem with provincial colours, signifying brotherhood, liberty and the May Revolution"
+    }
   ]
 }

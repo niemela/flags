@@ -1,8 +1,87 @@
 {
   "id": "PN",
-  "title": "Pitcairn",
-  "iso": "PN",
+  "name": "Pitcairn Islands",
   "type": [
-    "subdivision"
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "iso_3166_1_alpha2": "PN",
+    "iso_3166_1_alpha3": "PCN",
+    "wikidata": "Q35672"
+  },
+  "region": [
+    "Oceania",
+    "Polynesia",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the field of the British Blue Ensign"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltire and cross of the Union Flag in the canton; details of the territorial arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross of Saint George and saltire of Saint Patrick in the Union Flag canton"
+    },
+    {
+      "color": "green",
+      "symbolism": "the green of the territorial shield, representing the islands' vegetation"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the anchor and Bible, recalling HMS Bounty and the mutineers' descendants"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the blue chief of the territorial shield, representing the surrounding Pacific Ocean"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the wheelbarrow and miro tree of the helm crest"
+    },
+    {
+      "color": "black",
+      "symbolism": "outline detailing on the arms"
+    }
+  ],
+  "description": "A British Blue Ensign — a navy field with the Union Flag in the upper-hoist canton — defaced in the fly with the Pitcairn coat of arms (a green shield with blue chief bearing a yellow anchor and Bible, surmounted by a helm with a miro plant in a wheelbarrow).",
+  "history": "Granted by Queen Elizabeth II on 2 April 1984. Pitcairn was settled in 1790 by mutineers from HMS Bounty (whence the anchor and Bible in the arms) and their Tahitian companions; it became a British settlement in 1838 and is now the only remaining British Overseas Territory in the Pacific. The Pitcairn Islands include Pitcairn (the only inhabited island), Henderson, Ducie and Oeno.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1984-04-02"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Pitcairn_Islands"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy",
+      "symbolism": "navy field of the British Blue Ensign — Pitcairn's flag is a defaced Blue Ensign indicating its status as a British Overseas Territory"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "Pitcairn's status as a British Overseas Territory"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "fly",
+      "role": "Coat of arms of the Pitcairn Islands",
+      "symbolism": "a green shield with a blue chief bearing a yellow anchor (representing HMS Bounty, on which the islands' settlers mutinied in 1789) and a yellow open Bible (the Bounty Bible, central to the islands' religious community); a helm with a wheelbarrow and miro plant above"
+    }
   ]
 }

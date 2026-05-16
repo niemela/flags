@@ -1,7 +1,55 @@
 {
   "id": "US-AL-birmingham",
-  "title": "Birmingham, AL (United States)",
+  "name": "Birmingham (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-AL",
+  "codes": {
+    "wikidata": "Q79867"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the city's iron-and-steel heritage and the sun on the seal"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlines and detailing of the seal"
+    },
+    {
+      "color": "red",
+      "symbolism": "minor accents on the seal"
+    }
+  ],
+  "description": "A white field charged with the seal of the City of Birmingham at the centre, rendered chiefly in gold and black.",
+  "history": "Used by the City of Birmingham, the largest city in Alabama, founded in 1871 as an industrial centre during Reconstruction.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Birmingham,_Alabama"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white",
+      "symbolism": "a white field bearing the city seal in gold and black"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "color": "gold",
+      "position": "center",
+      "role": "Seal of the City of Birmingham",
+      "symbolism": "The seal depicts the figure of Vulcan — the Roman god of the forge — alongside industrial elements (a hammer and anvil) symbolising Birmingham's foundation as an iron- and steel-producing city. Birmingham was named for its English industrial namesake and is dominated by the Vulcan statue erected for the 1904 World's Fair."
+    }
   ]
 }

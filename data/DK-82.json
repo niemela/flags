@@ -1,8 +1,58 @@
 {
   "id": "DK-82",
-  "title": "Midtjylland (Denmark)",
-  "iso": "DK-82",
+  "name": "Region Midtjylland (Central Denmark Region)",
   "type": [
     "subdivision"
+  ],
+  "parent": "DK",
+  "codes": {
+    "iso_3166_2": "DK-82",
+    "wikidata": "Q26124"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the white field of the regional logo"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the brown wordmark 'Region Midtjylland' and stylised graphic"
+    }
+  ],
+  "description": "A white field charged at the centre with the brown logotype of Region Midtjylland.",
+  "history": "Region Midtjylland was established on 1 January 2007 by the Danish Local Government Reform (Strukturreformen). The flag carries the region's official corporate identity logo.",
+  "variant": [
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2007-01-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Central_Denmark_Region",
+    "https://en.wikipedia.org/wiki/Regions_of_Denmark"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "brown",
+      "position": "center",
+      "role": "Region Midtjylland logotype",
+      "symbolism": "the official wordmark of Region Midtjylland (the Central Denmark Region), one of the five regions established in the 2007 local-government reform"
+    }
   ]
 }

@@ -1,8 +1,63 @@
 {
   "id": "US-ND",
-  "title": "North Dakota (United States)",
-  "iso": "US-ND",
+  "name": "North Dakota (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-ND",
+    "fips_state": "38",
+    "wikidata": "Q1207"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "26:33",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "A blue field bearing a stylized bald eagle with outspread wings, holding an olive branch and a bundle of arrows, with the motto 'E PLURIBUS UNUM' on a streamer in its beak. Above the eagle a sunburst of thirteen yellow stars; below, a red ribbon scroll inscribed 'NORTH DAKOTA'.",
+  "history": "Adopted on 3 March 1911. The design closely mirrors the regimental flag carried by the First North Dakota Volunteer Infantry during the Spanish-American War (1898) and the Philippine-American War (1899-1902); only the addition of the 'NORTH DAKOTA' scroll distinguishes it. The flag has been criticized for lacking distinctively North Dakotan symbolism but has been retained without significant change.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1911-03-03"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_North_Dakota"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "eagle",
+      "count": 1,
+      "position": "center",
+      "role": "a bald eagle bearing on its breast a shield of thirteen red and white stripes, holding an olive branch and a bundle of arrows in its talons; in its beak a scroll reading 'E PLURIBUS UNUM'; above the eagle a fan of thirteen yellow stars rising from clouds; below, a red scroll bearing the words 'NORTH DAKOTA'",
+      "symbolism": "the design is taken from the regimental flag carried by the First North Dakota Volunteer Infantry in the Spanish-American War and the Philippine-American War"
+    }
   ]
 }

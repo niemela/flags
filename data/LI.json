@@ -1,8 +1,66 @@
 {
   "id": "LI",
-  "title": "Liechtenstein",
-  "iso": "LI",
+  "name": "Liechtenstein",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "LI",
+    "iso_3166_1_alpha3": "LIE",
+    "fifa": "LIE",
+    "ioc": "LIE",
+    "wikidata": "Q347"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the sky over the principality"
+    },
+    {
+      "color": "red",
+      "symbolism": "the fires lit in homes during evening gatherings ('Abendrot')"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the princely crown"
+    }
+  ],
+  "description": "Two equal horizontal stripes — blue over red — with a yellow princely crown placed in the upper hoist quarter on the blue band.",
+  "history": "Blue and red have been the colours of the Princely House since the 18th century; a horizontal blue-over-red flag was officially designated as the national flag in the constitution of 5 October 1921. After Liechtenstein and Haiti both showed essentially identical flags at the 1936 Berlin Olympics, the gold princely crown was added on 24 June 1937 to differentiate the two designs; the form of the crown was redrawn in 1982.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1937-06-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Liechtenstein"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "symbolism": "blue and red are the historic livery colours of the Princely House of Liechtenstein, used since the 18th century"
+    },
+    {
+      "type": "crown",
+      "count": 1,
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "princely crown (Fürstenhut)",
+      "symbolism": "added in 1937 to distinguish the flag from that of Haiti (which used the same blue-over-red bicolour without charges); represents the unity of the people, the Princely House and the principality, and the sovereignty of the prince"
+    }
   ]
 }

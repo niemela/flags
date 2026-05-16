@@ -1,8 +1,69 @@
 {
   "id": "DE-RP",
-  "title": "Rhineland-Palatinate (Germany)",
-  "iso": "DE-RP",
+  "name": "Rhineland-Palatinate (Germany)",
   "type": [
     "subdivision"
+  ],
+  "parent": "DE",
+  "codes": {
+    "iso_3166_2": "DE-RP",
+    "wikidata": "Q1200"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the German national colours"
+    },
+    {
+      "color": "red",
+      "symbolism": "the German national colours"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the German national colours"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver field of the Trier cross and the Mainz wheel; details on the shield"
+    }
+  ],
+  "description": "Three equal horizontal stripes of black, red, and gold (the German national colours), with the state coat of arms placed in the upper-hoist canton; the shield combines the cross of Trier, the wheel of Mainz, and the lion of the Palatinate.",
+  "history": "Adopted on 18 May 1948, shortly after the formation of the state in 1946 from the French occupation zone. The constitution prescribes the German tricolour as the state flag and adds the state arms to the official 'Dienstflagge' (state flag).",
+  "variant": [
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1948-05-18"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Rhineland-Palatinate"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "red",
+        "yellow"
+      ],
+      "count": 3,
+      "symbolism": "The black-red-gold tricolour of Germany, with the state arms placed in the canton; the colours assert federal rather than narrowly regional identity, fitting for a state composed of historically diverse territories."
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "state coat of arms (a red cross of Trier in the upper hoist on white, a six-spoked silver wheel of Mainz in the upper fly on red, and a gold lion of the Palatinate on black in base)",
+      "symbolism": "The three quarters of the shield combine the historic arms of the three ecclesiastical and princely territories that make up the modern state: the Electorate of Trier (red Latin cross), the Electorate of Mainz (silver six-spoke wheel), and the Electoral Palatinate (gold rampant lion)."
+    }
   ]
 }

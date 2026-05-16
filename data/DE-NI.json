@@ -1,8 +1,70 @@
 {
   "id": "DE-NI",
-  "title": "Lower Saxony (Germany)",
-  "iso": "DE-NI",
+  "name": "Lower Saxony (Germany)",
   "type": [
     "subdivision"
+  ],
+  "parent": "DE",
+  "codes": {
+    "iso_3166_2": "DE-NI",
+    "wikidata": "Q1197"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "from the German national flag"
+    },
+    {
+      "color": "red",
+      "symbolism": "from the German national flag; also the field of the Saxon coat of arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "from the German national flag"
+    },
+    {
+      "color": "white",
+      "symbolism": "the Saxon horse and shield border"
+    }
+  ],
+  "description": "A horizontal black-red-gold tricolour (the German national colours) defaced with the shield of Lower Saxony in the centre: a leaping white horse on a red field.",
+  "history": "Adopted in 1952 with the formation of the West German state of Lower Saxony from the former Kingdom of Hanover, Brunswick, Oldenburg, and Schaumburg-Lippe. It is one of several German Land flags that use the federal tricolour as its base, defacing it with the state arms.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1952"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Lower_Saxony"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "red",
+        "yellow"
+      ],
+      "count": 3,
+      "symbolism": "The German national tricolour, charged with the state arms, defacing the federal flag to identify Lower Saxony."
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "shield bearing the white Saxon horse (Sachsenross)",
+      "symbolism": "The leaping white horse on a red field is the historic emblem of Saxony, dating back to medieval Welf and Saxon heraldry; it identifies the state of Lower Saxony, which inherited the heraldic legacy of the duchies of Saxony, Brunswick-Lüneburg, and Oldenburg."
+    }
   ]
 }

@@ -1,8 +1,48 @@
 {
   "id": "FR-IDF",
-  "title": "Île-de-France (France)",
-  "iso": "FR-IDF",
+  "name": "Île-de-France (France)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FR",
+  "codes": {
+    "iso_3166_2": "FR-IDF",
+    "wikidata": "Q13917"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field of the historic French royal arms (azure)"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the gold (or) of the fleurs-de-lis, the dynastic emblem of the Capetian kings whose royal domain centred on Île-de-France"
+    }
+  ],
+  "description": "A blue field strewn (semé) with gold fleurs-de-lis — the historic heraldic banner of the royal domain of Île-de-France.",
+  "history": "Île-de-France, the historical heartland of the French crown around Paris, has long been associated heraldically with the older form of the royal arms (azure semé-de-lis or). The banner of these arms is used as the flag of the modern administrative region established in 1976 (originally the District de la Région Parisienne, created in 1961, redesignated as the Région Île-de-France by the law of 6 May 1976). The contemporary regional council also uses a separate logo-based flag for institutional branding, but the heraldic banner remains the traditional regional flag.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%8Ele-de-France",
+    "https://en.wikipedia.org/wiki/Coat_of_arms_of_%C3%8Ele-de-France"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the historic blue (azure) of the royal arms of France, of which Île-de-France is the cradle"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "gold",
+      "arrangement": "scattered",
+      "role": "semé-de-lis",
+      "symbolism": "The historic blazon of the royal domain of France: azure semé-de-lis or ('blue strewn with gold fleurs-de-lis'), the arms of the Capetian kings before Charles V reduced the field to three lis. Île-de-France, the cradle of the French monarchy, retained the older form."
+    }
   ]
 }

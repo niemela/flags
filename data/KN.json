@@ -1,8 +1,90 @@
 {
   "id": "KN",
-  "title": "Saint Kitts and Nevis",
-  "iso": "KN",
+  "name": "Saint Kitts and Nevis",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "KN",
+    "iso_3166_1_alpha3": "KNA",
+    "fifa": "SKN",
+    "ioc": "SKN",
+    "wikidata": "Q763"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the fertile land and lush vegetation of the islands"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the year-round Caribbean sunshine"
+    },
+    {
+      "color": "black",
+      "symbolism": "the African heritage of the population"
+    },
+    {
+      "color": "red",
+      "symbolism": "the struggle against slavery, colonialism and for nationhood"
+    },
+    {
+      "color": "white",
+      "symbolism": "the two stars representing hope and liberty (the islands of Saint Kitts and Nevis)"
+    }
+  ],
+  "description": "The field is crossed from lower hoist to upper fly by a broad black diagonal band edged with two narrow yellow fimbriations. The triangle below the band (lower hoist) is green; the triangle above (upper fly) is red. Two white five-pointed stars are arranged along the black band.",
+  "history": "Adopted on 19 September 1983, the day Saint Kitts and Nevis attained independence from the United Kingdom. The design was selected from a national competition; the winning entry was by Edrice Lewis, a student at the Saint Kitts–Nevis–Anguilla Teacher Training College.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1983-09-19"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Saint_Kitts_and_Nevis"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "black",
+        "yellow",
+        "red"
+      ],
+      "count": 5,
+      "direction": "bend",
+      "widths": [
+        10,
+        1,
+        6,
+        1,
+        10
+      ],
+      "symbolism": "a broad black diagonal band fimbriated yellow runs from the lower hoist to the upper fly across the field — green (lower hoist) for the fertile land, red (upper fly) for the struggle for freedom, the black band for the African heritage of the people, and the yellow fimbriations for the year-round sunshine"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "arrangement": "row",
+      "role": "two stars on the black diagonal band",
+      "symbolism": "hope and liberty — and, by widely-held interpretation, the two islands of the federation, Saint Kitts and Nevis"
+    }
   ]
 }

@@ -1,8 +1,76 @@
 {
   "id": "RU-KRS",
-  "title": "Kursk Oblast (Russia)",
-  "iso": "RU-KRS",
+  "name": "Kursk Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-KRS",
+    "wikidata": "Q3178"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the outer stripes; recalls the flag of the Soviet Union"
+    },
+    {
+      "color": "white",
+      "symbolism": "silver stripe of the Romanov tricolour"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "gold stripe of the Romanov tricolour"
+    },
+    {
+      "color": "black",
+      "symbolism": "black stripe of the Romanov tricolour"
+    }
+  ],
+  "description": "Five horizontal stripes - red, white, yellow, black, red - in proportions 2:1:1:1:2, with the Kursk Oblast coat of arms across the central three narrow stripes.",
+  "history": "Adopted under regional law N19-3KO. Combines the historic black-yellow-white tricolour of the Russian Empire (the Romanov flag) with the red of the Soviet flag.",
+  "periods": [
+    {
+      "start": "1996"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Kursk_Oblast",
+    "https://en.wikipedia.org/wiki/Kursk_Oblast"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "yellow",
+        "black",
+        "red"
+      ],
+      "count": 5,
+      "widths": [
+        2,
+        1,
+        1,
+        1,
+        2
+      ],
+      "symbolism": "combines the black-yellow-white tricolour of the Romanov-era Russian Empire flag with the red of the Soviet Union flag."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Kursk Oblast coat of arms",
+      "symbolism": "the oblast coat of arms charged across the central white, yellow, and black stripes."
+    }
   ]
 }

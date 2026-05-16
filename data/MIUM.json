@@ -1,5 +1,67 @@
 {
   "id": "MIUM",
-  "title": "Midway Islands",
-  "iso": "MIUM"
+  "name": "Midway Islands (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_3": "MIUM",
+    "wikidata": "Q131008"
+  },
+  "region": [
+    "Oceania",
+    "Polynesia",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the upper sky over the atoll"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the surrounding lagoon and ocean"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central band representing the horizon and the surf at the reef"
+    },
+    {
+      "color": "brown",
+      "symbolism": "an albatross in flight, representing the famous Laysan albatrosses ('gooney birds') of Midway"
+    }
+  ],
+  "description": "Three horizontal bands: a tall sky-blue band at the top, a narrow white band, and a lighter blue band along the bottom. A brown Laysan albatross is shown in flight across the centre of the field, with the white band suggesting the horizon and the foam of the reef.",
+  "history": "Midway Islands, a US Minor Outlying Island and National Wildlife Refuge in the central Pacific, used this unofficial flag during the late 20th century while the islands were operated as a US Naval Air Facility and afterward as a wildlife refuge. The flag was flown locally rather than formally adopted by Congress. The ISO 3166-3 code MIUM records the territory's former ISO 3166-1 alpha-2 code 'MI' (1974-1986), withdrawn when the islands were merged into the broader 'UM' (United States Minor Outlying Islands) entry.",
+  "status": "de-facto",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Midway_Atoll"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "light-blue"
+      ],
+      "count": 3,
+      "widths": [
+        59,
+        7,
+        30
+      ],
+      "symbolism": "Sky blue above the white horizon line of the central band, ocean blue below."
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "brown",
+      "position": "center",
+      "role": "Laysan albatross ('gooney bird') in flight",
+      "symbolism": "the most iconic wildlife of the atoll, which hosts the world's largest colony of Laysan albatrosses"
+    }
+  ]
 }

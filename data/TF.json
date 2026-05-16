@@ -1,8 +1,81 @@
 {
   "id": "TF",
-  "title": "French Southern Territories",
-  "iso": "TF",
+  "name": "French Southern and Antarctic Lands (France)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FR",
+  "codes": {
+    "iso_3166_1_alpha2": "TF",
+    "iso_3166_1_alpha3": "ATF",
+    "wikidata": "Q129003"
+  },
+  "region": [
+    "Antarctica",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the Southern Ocean and the deep waters around the territories; the French naval tradition"
+    },
+    {
+      "color": "white",
+      "symbolism": "the white of the French tricolour and the snowfields of the Antarctic and sub-Antarctic islands; the TAAF letters and the stars"
+    },
+    {
+      "color": "red",
+      "symbolism": "the red of the French tricolour"
+    }
+  ],
+  "description": "A blue field with a white canton in the upper hoist containing a miniature French tricolour, and in the fly the white letters 'TAAF' surrounded by five white five-pointed stars representing the five districts of the territory.",
+  "history": "Adopted in 2007 as the official flag of the Terres australes et antarctiques françaises (French Southern and Antarctic Lands) — the overseas territory of France comprising several sub-Antarctic island groups, Adélie Land in Antarctica, and the Scattered Islands in the Indian Ocean. France's claims in Antarctica are governed by the Antarctic Treaty System.",
+  "periods": [
+    {
+      "start": "2007"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_French_Southern_and_Antarctic_Lands"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the blue field of the surrounding Southern Ocean and historic association with the French Navy"
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "proportion": "1/4",
+      "symbolism": "white canton bearing a small French tricolour, indicating French sovereignty over the territory",
+      "features": [
+        {
+          "type": "embedded-flag",
+          "embedded_flag_id": "FR",
+          "proportion": "1/2",
+          "symbolism": "miniature French tricolour within the white canton — sovereignty of France"
+        }
+      ]
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "white",
+      "position": "center-fly",
+      "role": "TAAF monogram",
+      "symbolism": "The letters 'TAAF' (Terres australes et antarctiques françaises) in white, identifying the territory."
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "position": "center-fly",
+      "arrangement": "scattered",
+      "role": "five white stars",
+      "symbolism": "Five white five-pointed stars representing the five districts of the territory: the Crozet Islands, the Kerguelen Islands, Saint Paul and Amsterdam Islands, Adélie Land in Antarctica, and the Scattered Islands in the Indian Ocean."
+    }
   ]
 }

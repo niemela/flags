@@ -1,8 +1,52 @@
 {
   "id": "PL-16",
-  "title": "Upper Silesia (Poland)",
-  "iso": "PL-16",
+  "name": "Opole Voivodeship (Poland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "PL",
+  "codes": {
+    "iso_3166_2": "PL-16",
+    "wikidata": "Q54161"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the gold field of the Upper Silesian arms"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the blue eagle of Upper Silesia"
+    }
+  ],
+  "description": "Two horizontal stripes — yellow over blue — with the yellow stripe twice the width of the blue.",
+  "history": "Adopted by the Opole Voivodeship in 2001, drawing on the historic heraldic tinctures of Upper Silesia.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Opole_Voivodeship"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ],
+      "symbolism": "the heraldic colours of Upper Silesia, taken from the gold field and blue charge of the regional coat of arms"
+    }
   ]
 }

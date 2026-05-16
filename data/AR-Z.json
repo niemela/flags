@@ -1,8 +1,64 @@
 {
   "id": "AR-Z",
-  "title": "Santa Cruz (Argentina)",
-  "iso": "AR-Z",
+  "name": "Santa Cruz (Argentina)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AR",
+  "codes": {
+    "iso_3166_2": "AR-Z",
+    "wikidata": "Q44948"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the Patagonian sky and the celestial blue of the Argentine national flag"
+    },
+    {
+      "color": "white",
+      "symbolism": "the snow of the Andes and the glaciers of southern Patagonia"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the Sun of May and the wool, oil and minerals of the province"
+    }
+  ],
+  "description": "A light blue field charged with a yellow Sun of May and the five white stars of the Southern Cross constellation.",
+  "history": "Adopted in the 2010s as the official flag of Santa Cruz Province. The light blue field and the Sun of May connect the province to the Argentine national flag, while the Southern Cross — visible year-round in Patagonian skies — recalls the province's far-southern position.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Santa_Cruz_Province,_Argentina",
+    "https://es.wikipedia.org/wiki/Bandera_de_la_provincia_de_Santa_Cruz"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue",
+      "symbolism": "the colour of the Patagonian sky and of the Argentine national flag"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 16,
+      "color": "yellow",
+      "position": "center",
+      "role": "Sun of May",
+      "symbolism": "the Sun of May, shared with the Argentine national flag"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "arrangement": "southern-cross",
+      "role": "Southern Cross constellation",
+      "symbolism": "the Crux constellation, marking the province's far-southern latitude"
+    }
   ]
 }

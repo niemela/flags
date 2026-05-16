@@ -1,8 +1,70 @@
 {
   "id": "TH",
-  "title": "Thailand",
-  "iso": "TH",
+  "name": "Thailand",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "TH",
+    "iso_3166_1_alpha3": "THA",
+    "fifa": "THA",
+    "ioc": "THA",
+    "wikidata": "Q869"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the nation and the blood sacrificed for it"
+    },
+    {
+      "color": "white",
+      "symbolism": "religion (Theravada Buddhism) and the purity of the dharma"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the monarchy"
+    }
+  ],
+  "description": "Five horizontal stripes in the proportions 1:1:2:1:1 — red, white, blue (double width), white, red. The blue middle stripe is twice as tall as each of the four flanking stripes.",
+  "history": "Adopted on 28 September 1917 (BE 2460) by King Vajiravudh (Rama VI). It replaced the earlier red flag with a white elephant; according to a popular tradition, the king ordered the design changed after seeing the elephant flag flown upside-down by villagers welcoming him in a flooded province. The blue stripe was added to the existing red-white-red ensign to symbolise the monarchy and to align Thailand's colours with those of the Allies in the First World War, which Siam joined in July 1917. 28 September is observed annually as Thai National Flag Day.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1917-09-28"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Thailand"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue",
+        "white",
+        "red"
+      ],
+      "count": 5,
+      "widths": [
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "symbolism": "the trairanga (tricolour): red for the nation and the blood of the people; white for religion (Buddhism) and the purity of the dharma; blue for the monarchy and, secondarily, solidarity with the Allies of the First World War"
+    }
   ]
 }

@@ -1,8 +1,77 @@
 {
   "id": "RU-KIR",
-  "title": "Kirov Oblast (Russia)",
-  "iso": "RU-KIR",
+  "name": "Kirov Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-KIR",
+    "wikidata": "Q5387"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "purity of moral principles, kindness, modesty, and snowy winter"
+    },
+    {
+      "color": "green",
+      "symbolism": "hope, joy, health, fertility of the earth, and forest wealth"
+    },
+    {
+      "color": "blue",
+      "symbolism": "fidelity, honesty, impeccability, and the Vyatka River uniting the population on its banks"
+    },
+    {
+      "color": "red",
+      "symbolism": "the heraldic shield in the center"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "details of the coat of arms"
+    }
+  ],
+  "description": "A wide white field with two narrow stripes - green over blue - along the bottom, charged in the center with the red heraldic shield of the Kirov Oblast coat of arms.",
+  "history": "Adopted in 2003 (current design); features the historic shield of Vyatka in the center of a predominantly white field.",
+  "periods": [
+    {
+      "start": "2003"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kirov_Oblast",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Kirov_Oblast.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        6,
+        1,
+        1
+      ],
+      "symbolism": "wide white field with narrow green and blue stripes at the bottom; white for purity and snowy winter, green for hope and forest wealth, blue for the Vyatka River."
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "Kirov Oblast coat of arms",
+      "symbolism": "the central heraldic shield from the oblast's coat of arms, showing a hand emerging from a cloud holding a bow with arrow."
+    }
   ]
 }

@@ -1,7 +1,63 @@
 {
   "id": "NL-NH-amsterdam",
-  "title": "Amsterdam (Netherlands)",
+  "name": "Amsterdam (Netherlands)",
   "type": [
     "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q727"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "from the gules field of the historic municipal arms"
+    },
+    {
+      "color": "black",
+      "symbolism": "from the sable pale of the historic municipal arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver of the Saint Andrew's crosses"
+    }
+  ],
+  "description": "Three equal horizontal bands of red, black, and red, with three silver Saint Andrew's crosses (saltires) arranged in a row on the central black band.",
+  "history": "The horizontal-tricolour version of the Amsterdam flag, with the three saltires on the central black band, was adopted by municipal resolution on 5 February 1975. It is a banner-style derivation of the city's coat of arms, which in its essential form (gules, a pale sable charged with three saltires argent) has been used since at least the 16th century. Earlier flag forms with the saltires arranged vertically were in use from the 17th century.",
+  "periods": [
+    {
+      "start": "1975-02-05"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Amsterdam",
+    "https://en.wikipedia.org/wiki/Coat_of_arms_of_Amsterdam"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "black",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "The colours derive from the city's medieval coat of arms (a black pale on red, charged with three silver Saint Andrew's crosses), here reordered as horizontal bands."
+    },
+    {
+      "type": "saltire",
+      "count": 3,
+      "color": "white",
+      "arrangement": "row",
+      "position": "center",
+      "role": "three Saint Andrew's crosses (saltires)",
+      "symbolism": "Three silver saltires (Saint Andrew's crosses) from the city's coat of arms, attested since the 16th century. Folk-etymological interpretations link them to the three medieval threats to Amsterdam — fire, flood, and plague — but the heraldic origin is most likely the arms of the lords of Persijn (or Amstel), the local feudal family."
+    }
   ]
 }

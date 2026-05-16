@@ -1,5 +1,81 @@
 {
   "id": "JTUM",
-  "title": "Johnston Island",
-  "iso": "JTUM"
+  "name": "Johnston Atoll (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_3": "JTUM",
+    "wikidata": "Q131015"
+  },
+  "region": [
+    "Oceania",
+    "Polynesia",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the surrounding Pacific Ocean"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central band on which the atoll's name and symbols are placed"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wreath of taro leaves and the stylised seabirds"
+    }
+  ],
+  "description": "Three horizontal stripes of dark blue, white, and dark blue. On the white central band, a yellow wreath enclosing a flying albatross appears toward the hoist, with the inscription 'JOHNSTON ATOLL' in dark blue letters across the centre.",
+  "history": "Johnston Atoll, a US Minor Outlying Island administered by the US Air Force as a wildlife refuge and (until 2000) a chemical-weapons disposal site, used this unofficial flag from the late 20th century until the atoll was decommissioned and evacuated in 2004. The flag was flown by base personnel rather than formally adopted by Congress. The ISO 3166-3 code JTUM records the territory's former ISO 3166-1 alpha-2 code 'JT' (1974-1986), which was withdrawn when the atoll was merged into the broader 'UM' (United States Minor Outlying Islands) entry.",
+  "status": "de-facto",
+  "periods": [
+    {
+      "start": "1959~",
+      "end": "2004"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Johnston_Atoll"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        3,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "wreath",
+      "count": 1,
+      "color": "yellow",
+      "position": "center-hoist",
+      "role": "wreath of taro leaves enclosing a flying albatross",
+      "symbolism": "the natural environment of the atoll's wildlife refuge"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "yellow",
+      "position": "center-hoist",
+      "role": "stylised flying albatross within the wreath"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "the words 'JOHNSTON ATOLL' in dark blue capitals on the white central band"
+    }
+  ]
 }

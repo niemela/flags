@@ -1,8 +1,79 @@
 {
   "id": "RS-VO",
-  "title": "Vojvodina (Serbia)",
-  "iso": "RS-VO",
+  "name": "Vojvodina (Serbia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RS",
+  "codes": {
+    "iso_3166_2": "RS-VO",
+    "wikidata": "Q173174"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans",
+    "Slavic"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the historic Serbian and pan-Slavic colours"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the historic Serbian and pan-Slavic colours"
+    },
+    {
+      "color": "white",
+      "symbolism": "the historic Serbian and pan-Slavic colours"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the three gold stars marking Vojvodina's traditional regions"
+    }
+  ],
+  "description": "Three unequal horizontal stripes — a narrow red stripe at the top, a wide central blue field, and a narrow white stripe at the bottom — with three yellow five-pointed stars arranged in a row across the blue band.",
+  "history": "Adopted on 27 February 2004 by the Assembly of the Autonomous Province of Vojvodina, drawing on the historic colours of the 1848 Serbian Vojvodina (the short-lived autonomous Serb crown land within the Habsburg empire) and the pan-Slavic tricolour. The three yellow stars represent Vojvodina's three traditional regions — Banat, Bačka, and Srem — which together form the multi-ethnic northern province of Serbia. A traditional flag (without stars, reversed colour order) had been used unofficially since the 19th century; the present design was made the official provincial flag by the 2009 Statute of Vojvodina.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2004-02-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Vojvodina",
+    "https://en.wikipedia.org/wiki/Vojvodina"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue",
+        "white"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        8,
+        1
+      ],
+      "symbolism": "the historic pan-Slavic colours, recalling the 1848 Serbian Vojvodina movement and the broader Yugoslav heritage of the multi-ethnic province"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "arrangement": "row",
+      "role": "Three yellow five-pointed stars on the blue band",
+      "symbolism": "the three historic regions of Vojvodina: Banat, Bačka, and Srem (Syrmia)"
+    }
   ]
 }

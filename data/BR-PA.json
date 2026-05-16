@@ -1,8 +1,71 @@
 {
   "id": "BR-PA",
-  "title": "Pará (Brazil)",
-  "iso": "BR-PA",
+  "name": "Para (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-PA",
+    "wikidata": "Q39529"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "peace"
+    },
+    {
+      "color": "red",
+      "symbolism": "the equatorial heat and the blood of those who fought for the state"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the sky"
+    }
+  ],
+  "description": "A white field crossed by a red diagonal band running from the upper hoist to the lower fly, charged with a single white five-pointed star at its centre.",
+  "history": "Adopted in 1889, just after the Proclamation of the Republic; the single star represents Spica, the same star that stands for Para on the celestial sphere of the Brazilian national flag because Para lies north of the Equator.",
+  "periods": [
+    {
+      "start": "1889"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Par%C3%A1"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 3,
+      "direction": "bend",
+      "widths": [
+        3,
+        1,
+        3
+      ],
+      "symbolism": "A red diagonal band across a white field carrying a single white star — representing Para north of the Equator"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "role": "single white star",
+      "symbolism": "Spica (Alpha Virginis), the star representing Para in the celestial sphere of the Brazilian national flag, as it lies above the Equator"
+    }
   ]
 }

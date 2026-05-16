@@ -1,7 +1,58 @@
 {
   "id": "US-TX-dallas-county",
-  "title": "Dallas County, TX (United States)",
+  "name": "Dallas County, Texas (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US-TX",
+  "codes": {
+    "wikidata": "Q124862"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the central disc"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central white emblem within the disc"
+    }
+  ],
+  "description": "A blue field bearing a red disc at the centre, charged with a white stylised emblem representing Dallas County.",
+  "history": "Flag of Dallas County, the second-most-populous county in Texas and a sub-state subdivision encompassing the city of Dallas and surrounding municipalities.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dallas_County,_Texas"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "central red disc",
+      "symbolism": "Frames the central white emblem of Dallas County."
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "stylised white emblem within the central disc",
+      "symbolism": "A stylised device within the red disc representing Dallas County and the Lone Star State."
+    }
   ]
 }

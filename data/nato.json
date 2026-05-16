@@ -1,7 +1,53 @@
 {
   "id": "nato",
-  "title": "NATO",
+  "name": "NATO",
   "type": [
-    "organization"
+    "intergovernmental"
+  ],
+  "codes": {
+    "wikidata": "Q7184"
+  },
+  "aspect_ratio": "3:4",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the Atlantic Ocean"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace"
+    }
+  ],
+  "description": "A dark-blue field charged with a white compass rose: a circular ring enclosing a four-pointed star, with four short straight white lines radiating outward from the ring along the cardinal directions.",
+  "history": "NATO began searching for a distinct emblem in 1951 to differentiate itself from SHAPE; the council stipulated that the design had to be simple, striking, and reflect the peaceful purpose of the North Atlantic Treaty. The current compass-rose flag was approved by the North Atlantic Council on 14 October 1953 and first hoisted on 9 November 1953 at the opening of the Atlantic Exhibition in Paris.",
+  "periods": [
+    {
+      "start": "1953-10-14"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_NATO",
+    "https://www.nato.int/cps/en/natohq/declassified_137950.htm"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy",
+      "symbolism": "the Atlantic Ocean"
+    },
+    {
+      "type": "circle",
+      "color": "white",
+      "role": "compass-rose ring",
+      "symbolism": "the unity that binds together the member nations"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 4,
+      "color": "white",
+      "role": "NATO compass star",
+      "symbolism": "the compass that keeps the alliance on the path of peace"
+    }
   ]
 }

@@ -1,8 +1,79 @@
 {
   "id": "BN",
-  "title": "Brunei Darussalam",
-  "iso": "BN",
+  "name": "Brunei",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "BN",
+    "iso_3166_1_alpha3": "BRN",
+    "fifa": "BRU",
+    "ioc": "BRU",
+    "wikidata": "Q921"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the Sultan of Brunei; royal authority"
+    },
+    {
+      "color": "white",
+      "symbolism": "the Pengiran Bendahara, one of the two principal viziers of the sultanate"
+    },
+    {
+      "color": "black",
+      "symbolism": "the Pengiran Pemancha, the other principal vizier"
+    },
+    {
+      "color": "red",
+      "symbolism": "the national emblem (coat of arms)"
+    }
+  ],
+  "description": "A yellow field crossed by two diagonal stripes — white over black — running from the upper hoist toward the lower fly, with the red national emblem centred on the field.",
+  "history": "The yellow field with white and black diagonal stripes was adopted in 1906 as Brunei became a British protectorate; the central red coat of arms was added on 29 September 1959 with the country's first written constitution. The flag was retained without change when Brunei became fully independent on 1 January 1984.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1959-09-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Brunei"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "yellow",
+        "white",
+        "black",
+        "yellow"
+      ],
+      "count": 4,
+      "widths": [
+        4,
+        1,
+        1,
+        4
+      ],
+      "direction": "bend",
+      "symbolism": "the yellow field is the traditional colour of the Sultan of Brunei; the white and black diagonal bands represent the chief ministers (the Pengiran Bendahara in white and the Pengiran Pemancha in black) who supported the Sultan"
+    },
+    {
+      "type": "coat-of-arms",
+      "color": "red",
+      "position": "center",
+      "role": "national emblem of Brunei",
+      "symbolism": "five elements: the flag (a small flag on a staff), the parasol (royal canopy of state), the wings (peace, justice, tranquillity, prosperity and four pillars of government), the hands (the government's pledge to promote welfare, peace and prosperity), and the crescent (Islam); a ribbon below bears the Jawi inscription 'Always in service with God's guidance' and the country's name 'Brunei Darussalam — Abode of Peace'"
+    }
   ]
 }

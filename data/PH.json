@@ -1,8 +1,86 @@
 {
   "id": "PH",
-  "title": "Philippines",
-  "iso": "PH",
+  "name": "Philippines",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "PH",
+    "iso_3166_1_alpha3": "PHL",
+    "fifa": "PHI",
+    "ioc": "PHI",
+    "wikidata": "Q928"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "peace, truth, and justice"
+    },
+    {
+      "color": "red",
+      "symbolism": "patriotism and valour"
+    },
+    {
+      "color": "white",
+      "symbolism": "equality and fraternity (the white triangle of the Katipunan)"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the sun of liberty and the three stars representing the country's main island groups"
+    }
+  ],
+  "description": "Two equal horizontal stripes — blue over red — with a white equilateral triangle of equal length to the flag's height extending from the hoist. Centred in the triangle is a yellow eight-rayed sun, with a small yellow five-pointed star at each corner of the triangle.",
+  "history": "Designed by Emilio Aguinaldo and first unfurled on 12 June 1898 at the proclamation of independence from Spain in Kawit, Cavite. The design was suspended during American colonial rule (1907–1919, ban; full restoration 1919) and adopted in its present form by the Republic of the Philippines on Independence Day, 4 July 1946 (modern law: Republic Act No. 8491, the Flag and Heraldic Code of the Philippines, 1998). Uniquely, the flag is displayed with the red stripe up in time of war and blue up in time of peace — the only national flag with this property.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1998-02-12"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Philippines"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "two equal horizontal stripes (blue over red) with a white equilateral triangle at the hoist; the triangle bears the sun and three stars and represents equality and the Katipunan revolutionary society, while the blue and red bands evoke the colours of the United States and of the earlier Spanish Cross of Burgundy"
+    },
+    {
+      "type": "triangle",
+      "count": 1,
+      "color": "white",
+      "position": "hoist",
+      "role": "white equilateral triangle of the Katipunan",
+      "symbolism": "equality and fraternity; the triangle was the emblem of the Katipunan, the revolutionary society that fought Spanish rule"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 8,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "sun of liberty",
+      "symbolism": "independence and the dawn of freedom; the eight primary rays represent the first eight provinces (Manila, Cavite, Bulacan, Pampanga, Nueva Ecija, Bataan, Laguna, and Batangas) placed under martial law by Spain at the start of the Philippine Revolution in 1896"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "yellow",
+      "position": "hoist",
+      "arrangement": "single",
+      "role": "three stars at the points of the triangle",
+      "symbolism": "the country's three main island groups — Luzon, Visayas, and Mindanao"
+    }
   ]
 }

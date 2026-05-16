@@ -1,8 +1,66 @@
 {
   "id": "FR-HDF",
-  "title": "Hauts-de-France (France)",
-  "iso": "FR-HDF",
+  "name": "Hauts-de-France (France)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FR",
+  "codes": {
+    "iso_3166_2": "FR-HDF",
+    "wikidata": "Q18677375"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the silver (argent) field of the historic arms of Flanders"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold (or) field of the historic arms of Picardy"
+    },
+    {
+      "color": "black",
+      "symbolism": "the lion of Flanders (sable lion rampant)"
+    },
+    {
+      "color": "red",
+      "symbolism": "the tongue and claws of the lion, and the gules elements of Picardy"
+    }
+  ],
+  "description": "A field divided per bend sinister: the upper-hoist white half charged with the black lion of Flanders, and the lower-fly gold half charged with red Picardy heraldry.",
+  "history": "Hauts-de-France is a French region created by the territorial reform of 2016, merging Nord-Pas-de-Calais and Picardy. France traditionally does not promote regional flags, and this composite armorial banner is used in a de-facto capacity rather than as an officially adopted regional flag.",
+  "status": "de-facto",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hauts-de-France"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "yellow",
+      "direction": "bend-sinister",
+      "symbolism": "A field divided per bend sinister: the upper-hoist triangle is white (or argent) and bears the black lion of Flanders / Nord-Pas-de-Calais; the lower-fly triangle is gold (or) and bears the red attributes of Picardy."
+    },
+    {
+      "type": "lion",
+      "count": 1,
+      "color": "black",
+      "position": "upper-hoist",
+      "role": "lion of Flanders (sable lion rampant, armed and langued gules)",
+      "symbolism": "The black lion of Flanders is the historic emblem of the County of Flanders and of the modern departement of Nord-Pas-de-Calais."
+    },
+    {
+      "type": "coat-of-arms",
+      "color": "red",
+      "position": "lower-fly",
+      "role": "the historic arms of Picardy on the gold half",
+      "symbolism": "Charges from the historic arms of Picardy, the southern half of the modern Hauts-de-France region."
+    }
   ]
 }

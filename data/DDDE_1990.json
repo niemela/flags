@@ -1,9 +1,70 @@
 {
-  "id": "DDDE_1959-1990",
-  "title": "East Germany (1959-1990)",
-  "iso": "DDDE",
+  "id": "DDDE_1990",
+  "name": "East Germany (1959-1990)",
   "type": [
     "historical",
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "iso_3166_3": "DDDE",
+    "wikidata": "Q16949"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the historic German national colours"
+    },
+    {
+      "color": "red",
+      "symbolism": "the historic German national colours; also evoking workers' socialism"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the historic German national colours"
+    }
+  ],
+  "description": "Three equal horizontal stripes — black, red, and gold (top to bottom) — charged in the centre with the gold coat of arms of the German Democratic Republic: a hammer crossed with a pair of compasses, encircled by a wreath of wheat tied with the black-red-gold ribbon.",
+  "history": "The plain black-red-gold tricolour was adopted as the East German flag on 7 October 1949, identical to the West German flag. On 1 October 1959 the GDR added the state coat of arms in the centre to differentiate the two flags; until 1969 it was forbidden in West Germany and West Berlin to display this version, where it was derisively known as the 'Spalterflagge' ('separator flag'). The defaced flag remained in use until German reunification on 3 October 1990, when it was retired and the plain tricolour again became the flag of all of Germany.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1959-10-01",
+      "end": "1990-10-03"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_East_Germany",
+    "https://en.wikipedia.org/wiki/East_Germany"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "red",
+        "gold"
+      ],
+      "count": 3,
+      "symbolism": "the German national colours, dating from the 1848 revolutions and the Weimar Republic; reused by both German states after 1949"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "gold",
+      "position": "center",
+      "role": "Coat of arms of East Germany",
+      "symbolism": "a hammer (industry / workers) and a pair of compasses (intelligentsia / technical professions) within a wreath of wheat (agriculture / peasantry) bound with the black-red-gold national ribbon — the alliance of workers, peasants and intelligentsia under socialism"
+    }
   ]
 }

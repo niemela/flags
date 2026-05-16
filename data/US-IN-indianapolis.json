@@ -1,7 +1,66 @@
 {
   "id": "US-IN-indianapolis",
-  "title": "Indianapolis, IN (United States)",
+  "name": "Indianapolis (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-IN",
+  "codes": {
+    "wikidata": "Q6346"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the cross and the central star"
+    },
+    {
+      "color": "red",
+      "symbolism": "the central disc on which the star is set"
+    }
+  ],
+  "description": "A blue field crossed by a wide white Greek cross, with a red disc at the centre charged with a white five-pointed star.",
+  "history": "Adopted on 28 May 1963, designed by Roger Gohl in conjunction with the Indianapolis sesquicentennial celebrations of 1971 (work having begun in the early 1960s).",
+  "periods": [
+    {
+      "start": "1963-05-28"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Indianapolis"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "blue",
+      "cross": "white",
+      "symbolism": "The white cross meeting at the centre symbolises Indianapolis as the 'Crossroads of America', with major highways and railroads converging on the city."
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "central red roundel",
+      "symbolism": "Indianapolis as the central point on which the highways converge."
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "role": "central white star",
+      "symbolism": "Indianapolis as the capital of Indiana and as the focal point of the converging highways."
+    }
   ]
 }

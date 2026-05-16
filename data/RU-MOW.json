@@ -1,9 +1,66 @@
 {
   "id": "RU-MOW",
-  "title": "Moscow (Russia)",
-  "iso": "RU-MOW",
+  "name": "Moscow (Russia)",
   "type": [
-    "subdivision",
-    "city"
+    "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-MOW",
+    "wikidata": "Q649"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "courage, sacrifice and the historic colour of Moscow"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and the silver of St George's armour and horse"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the gilt of St George's armour and the city's wealth"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the cape of St George"
+    },
+    {
+      "color": "black",
+      "symbolism": "the dragon (a serpent) trampled by St George"
+    }
+  ],
+  "description": "A dark red field charged at the centre with the figure of St George the Victorious in silver armour and a blue cape, mounted on a silver-white horse and using a golden spear to slay a black dragon-serpent beneath the horse's hooves.",
+  "history": "The flag of Moscow was officially adopted on 1 February 1995, with the design fixed by city law on 11 June 2003. The central image is taken from the historic coat of arms of Moscow, in use in various forms since the late 15th century and re-adopted in modern form in 1993; it depicts St George the Victorious, the city's patron saint, slaying a dragon.",
+  "periods": [
+    {
+      "start": "1995-02-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Moscow",
+    "https://en.wikipedia.org/wiki/Coat_of_arms_of_Moscow"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the historic red of Moscow's coat of arms, representing courage, sacrifice and the warmth of the Russian capital"
+    },
+    {
+      "type": "human-figure",
+      "count": 1,
+      "position": "center",
+      "role": "St George the Victorious on horseback slaying the dragon",
+      "symbolism": "the patron saint of Moscow, mounted in silver armour on a white horse with a blue cape, slaying a black dragon-serpent with a golden spear. Taken directly from the historic coat of arms of Moscow."
+    }
   ]
 }

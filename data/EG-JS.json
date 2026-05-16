@@ -1,8 +1,72 @@
 {
   "id": "EG-JS",
-  "title": "South Sinai (Egypt)",
-  "iso": "EG-JS",
+  "name": "South Sinai Governorate (Egypt)",
   "type": [
     "subdivision"
+  ],
+  "parent": "EG",
+  "codes": {
+    "iso_3166_2": "EG-JS",
+    "wikidata": "Q231684"
+  },
+  "region": [
+    "Africa",
+    "Northern Africa",
+    "MENA",
+    "Arab World",
+    "Middle East"
+  ],
+  "aspect_ratio": "104:171",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field of the flag and the snow-capped peaks of the Sinai mountains"
+    },
+    {
+      "color": "grey",
+      "symbolism": "the granite mountains of southern Sinai, including Mount Sinai (Jabal Musa) and Mount Catherine, the highest peak in Egypt"
+    },
+    {
+      "color": "red",
+      "symbolism": "the Red Sea coast of southern Sinai and elements of the emblem"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the desert of Sinai and the historic monastic and Bedouin heritage"
+    },
+    {
+      "color": "black",
+      "symbolism": "details and inscriptions of the emblem"
+    }
+  ],
+  "description": "A white field charged in the centre with the emblem of South Sinai Governorate, depicting the grey mountains of southern Sinai with red, yellow and black detailing.",
+  "history": "The flag of South Sinai Governorate features its mountain emblem on a white field, adopted as part of the system of governorate flags introduced in the 2000s. South Sinai includes Mount Sinai (Jabal Musa) and the Saint Catherine's Monastery.",
+  "variant": [
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/South_Sinai_Governorate",
+    "https://en.wikipedia.org/wiki/Governorates_of_Egypt"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "mountain",
+      "count": 1,
+      "color": "grey",
+      "position": "center",
+      "role": "Mount Sinai / Sinai mountain range",
+      "symbolism": "the granite mountains of South Sinai, including Mount Sinai and Saint Catherine, central to the governorate's identity"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "South Sinai Governorate emblem",
+      "symbolism": "the emblem of South Sinai with its mountains, Bedouin and monastic heritage, and Red Sea coast"
+    }
   ]
 }

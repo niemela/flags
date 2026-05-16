@@ -1,8 +1,54 @@
 {
   "id": "EG-ASN",
-  "title": "Aswan (Egypt)",
-  "iso": "EG-ASN",
+  "name": "Aswan Governorate (Egypt)",
   "type": [
     "subdivision"
+  ],
+  "parent": "EG",
+  "codes": {
+    "iso_3166_2": "EG-ASN",
+    "wikidata": "Q230864"
+  },
+  "region": [
+    "Africa",
+    "Northern Africa",
+    "MENA",
+    "Arab World",
+    "Middle East"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the Nile and Lake Nasser, central to Aswan's geography and identity"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the desert sands and the sun of Upper Egypt; Aswan's ancient monuments"
+    }
+  ],
+  "description": "A light blue field charged in the centre with two yellow stylised Nubian figures flanking a central element, the emblem of Aswan Governorate.",
+  "history": "The flag of Aswan Governorate features a stylised emblem evoking Nubian heritage on a Nile-blue field, adopted as part of the system of governorate flags introduced in the 2000s.",
+  "variant": [
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aswan_Governorate",
+    "https://en.wikipedia.org/wiki/Governorates_of_Egypt"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue",
+      "symbolism": "the Nile and Lake Nasser at Aswan"
+    },
+    {
+      "type": "human-figure",
+      "count": 2,
+      "color": "yellow",
+      "position": "center",
+      "role": "twin Nubian figures (Aswan emblem)",
+      "symbolism": "stylised Nubian figures representing Aswan's Nubian heritage and the ancient peoples of the upper Nile region"
+    }
   ]
 }

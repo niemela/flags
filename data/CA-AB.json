@@ -1,8 +1,69 @@
 {
   "id": "CA-AB",
-  "title": "Alberta (Canada)",
-  "iso": "CA-AB",
+  "name": "Alberta (Canada)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CA",
+  "codes": {
+    "iso_3166_2": "CA-AB",
+    "wikidata": "Q1951"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field, ultramarine blue"
+    },
+    {
+      "color": "white",
+      "symbolism": "the snow-capped mountain peaks and the sky on the shield"
+    },
+    {
+      "color": "red",
+      "symbolism": "the Cross of Saint George in the chief of the shield"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wheat field on the shield"
+    },
+    {
+      "color": "green",
+      "symbolism": "the foothills and prairie on the shield"
+    }
+  ],
+  "description": "An ultramarine blue field with the Alberta provincial shield centred; the shield shows the Cross of Saint George above a landscape of snow-capped mountains, foothills, prairie, and wheat.",
+  "history": "Adopted on 1 June 1968, with proportions standardised in 1968. The shield in the centre is taken from Alberta's coat of arms, granted by Royal Warrant in 1907; the rest of the arms (crest, supporters, motto) was added in 1980 but is not on the flag.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1968-06-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Alberta"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "shield of arms of Alberta (Cross of Saint George above mountains, foothills, prairie, and wheat)",
+      "symbolism": "Alberta's coat of arms, granted in 1907: in chief a red Cross of Saint George on white (recalling English heritage), and below it a landscape with snow-capped Rocky Mountains, green foothills, prairies, and a yellow wheat field."
+    }
   ]
 }

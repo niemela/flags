@@ -1,9 +1,86 @@
 {
-  "id": "YDYE_1967-1990",
-  "title": "South Yemen (1967-1990)",
-  "iso": "YDYE",
+  "id": "YDYE_1990",
+  "name": "South Yemen (1967-1990)",
   "type": [
     "historical",
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "iso_3166_3": "YDYE",
+    "wikidata": "Q199841"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "MENA",
+    "Arab World"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the blood of martyrs and the leading role of the National Liberation Front"
+    },
+    {
+      "color": "white",
+      "symbolism": "a peaceful future"
+    },
+    {
+      "color": "black",
+      "symbolism": "the dark colonial past"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the people of South Yemen"
+    }
+  ],
+  "description": "Three equal horizontal stripes — red, white, and black from top to bottom — with a light-blue isosceles triangle extending from the hoist, charged with a red five-pointed star.",
+  "history": "Adopted on 30 November 1967 as the flag of the People's Republic of South Yemen (renamed the People's Democratic Republic of Yemen in 1970), upon independence from the United Kingdom and the dissolution of the Federation of South Arabia. The red-white-black tricolour followed the Arab Liberation colours used since the Egyptian Revolution of 1952; the light-blue chevron and red star were added to distinguish South Yemen and signal its socialist orientation as the only Marxist-Leninist state in the Arab world. The flag was retired on 22 May 1990 when South Yemen merged with the Yemen Arab Republic (North Yemen) to form the Republic of Yemen, whose flag is the plain red-white-black Arab Liberation tricolour.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1967-11-30",
+      "end": "1990-05-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_South_Yemen",
+    "https://en.wikipedia.org/wiki/South_Yemen"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "black"
+      ],
+      "count": 3,
+      "symbolism": "the Arab Liberation colours, shared with Egypt, Syria, Iraq and North Yemen, signifying the Arab nationalist movement"
+    },
+    {
+      "type": "triangle",
+      "count": 1,
+      "color": "light-blue",
+      "position": "hoist",
+      "role": "Hoist triangle",
+      "symbolism": "the people of South Yemen and the South Yemeni revolution"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "hoist",
+      "role": "Red five-pointed star within the triangle",
+      "symbolism": "the National Liberation Front and the socialist orientation of the People's Democratic Republic"
+    }
   ]
 }

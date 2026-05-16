@@ -1,8 +1,55 @@
 {
   "id": "US-NE",
-  "title": "Nebraska (United States)",
-  "iso": "US-NE",
+  "name": "Nebraska (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-NE",
+    "fips_state": "31",
+    "wikidata": "Q1553"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "gold"
+    }
+  ],
+  "description": "A blue field charged in the center with the Great Seal of Nebraska in gold.",
+  "history": "Nebraska was the last of the 48 contiguous states to adopt an official flag. The state banner, showing the seal in gold and silver on a field of national blue, was authorized by the legislature in 1925; it was not formally designated as the state flag until 1963.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1925"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Nebraska"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "color": "gold",
+      "position": "center",
+      "role": "the Great Seal of the State of Nebraska",
+      "symbolism": "depicts a steamboat on the Missouri River, a settler's cabin and sheaves of wheat representing agriculture, a blacksmith with hammer and anvil representing the mechanic arts, and a train heading toward the Rocky Mountains; encircled by the state motto 'EQUALITY BEFORE THE LAW'"
+    }
   ]
 }

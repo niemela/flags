@@ -1,8 +1,55 @@
 {
   "id": "DK",
-  "title": "Denmark",
-  "iso": "DK",
+  "name": "Denmark",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "DK",
+    "iso_3166_1_alpha3": "DNK",
+    "fifa": "DEN",
+    "ioc": "DEN",
+    "wikidata": "Q35"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "28:37",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "Dannebrog red; one of the oldest heraldic tinctures in use as a national flag"
+    },
+    {
+      "color": "white",
+      "symbolism": "the white cross of Christianity"
+    }
+  ],
+  "description": "A red field with a white Nordic cross; the vertical arm is shifted toward the hoist. Known as the Dannebrog.",
+  "history": "The Dannebrog is one of the oldest national flags in continuous use; it is first documented in the 14th century and according to legend descended from the sky on 15 June 1219 during a battle in Estonia. Used as a royal banner and military flag throughout the medieval and early modern periods, it became the civil flag of Denmark by royal regulation of 11 June 1748 (which fixed the proportions of the merchant ensign). The split-tailed war flag (splitflag) and the plain rectangular form (stutflag) coexist; the current rectangular civil flag has the proportions 28:37 and is laid down in regulations of 1893.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1748-06-11"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Denmark"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "red",
+      "cross": "white",
+      "symbolism": "the prototype of the Nordic cross — said by tradition to have fallen from heaven during the Battle of Lyndanisse in Estonia on 15 June 1219, granting King Valdemar II victory; expresses Denmark's Christian heritage"
+    }
   ]
 }

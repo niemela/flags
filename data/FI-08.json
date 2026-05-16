@@ -1,8 +1,53 @@
 {
   "id": "FI-08",
-  "title": "Keski-Suomi (Finland)",
-  "iso": "FI-08",
+  "name": "Central Finland (Finland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FI",
+  "codes": {
+    "iso_3166_2": "FI-08",
+    "wikidata": "Q5697"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the argent field of the regional arms"
+    },
+    {
+      "color": "black",
+      "symbolism": "the sable charge of the arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "heraldic detailing"
+    }
+  ],
+  "description": "A square white flag charged centrally with the black provincial arms of Central Finland.",
+  "history": "Central Finland (Keski-Suomi) became a region under Finland's 1997 administrative reform; its banner is the heraldic flag of the regional coat of arms.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Central_Finland",
+    "https://fi.wikipedia.org/wiki/Keski-Suomen_lippu"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "arms of Central Finland",
+      "symbolism": "a stylised black device on a silver field, derived from the historic provincial arms; the design refers to the inland-lake region of central Finland and its medieval borderland identity."
+    }
   ]
 }

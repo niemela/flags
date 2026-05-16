@@ -1,8 +1,85 @@
 {
   "id": "ET",
-  "title": "Ethiopia",
-  "iso": "ET",
+  "name": "Ethiopia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "ET",
+    "iso_3166_1_alpha3": "ETH",
+    "fifa": "ETH",
+    "ioc": "ETH",
+    "wikidata": "Q115"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Eastern Africa",
+    "Horn of Africa"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the fertility and richness of the land, hope and labour"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "peace, justice and harmony among the country's diverse peoples; in older symbolism, religious freedom"
+    },
+    {
+      "color": "red",
+      "symbolism": "strength and the sacrifice of those who died defending Ethiopia's freedom and equality"
+    },
+    {
+      "color": "blue",
+      "symbolism": "peace (the disc of the central emblem)"
+    }
+  ],
+  "description": "Three equal horizontal stripes — green, yellow and red — charged at the centre with a blue disc bearing a yellow five-pointed star outlined and accompanied by five short straight rays (one from each point of the star).",
+  "history": "The horizontal green-yellow-red tricolour is documented from 1897 under Emperor Menelik II and was the inspiration for the later Pan-African colours adopted across the continent. The current design — with the blue disc and yellow star emblem — was adopted on 6 February 1996 under the Federal Democratic Republic of Ethiopia following the 1991 fall of the Derg regime; the emblem replaced the Lion of Judah (imperial era, ended 1974) and the Marxist–Leninist emblem of the Derg (1974–1991). The tricolour without emblem is also widely used unofficially.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1996-02-06"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Ethiopia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "the green-yellow-red horizontal triband is the original Pan-African colour scheme — Ethiopia, never colonised, became the model for many later African flags"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "blue disc behind the star",
+      "symbolism": "peace and the equal status of all of Ethiopia's nationalities and peoples"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "five-pointed star with rays",
+      "rays": 5,
+      "symbolism": "the unity and equality of Ethiopia's peoples; the bright future of the country and its diverse nationalities"
+    }
   ]
 }

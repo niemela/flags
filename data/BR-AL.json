@@ -1,8 +1,63 @@
 {
   "id": "BR-AL",
-  "title": "Alagoas (Brazil)",
-  "iso": "BR-AL",
+  "name": "Alagoas (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-AL",
+    "wikidata": "Q40885"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the blood of those who fought for the homeland"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the sky"
+    }
+  ],
+  "description": "Three equal vertical stripes of red, white and blue, with the coat of arms of the State of Alagoas centred on the white stripe.",
+  "history": "Adopted as the flag of the State of Alagoas on 30 September 1894 by State Law No. 88; the design preserves the colours used by Alagoas after its separation from Pernambuco in 1817.",
+  "periods": [
+    {
+      "start": "1894-09-30"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Alagoas"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "symbolism": "Three vertical stripes of red, white and blue, the colours of liberty"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Coat of arms of Alagoas",
+      "symbolism": "Centred on the white stripe, the state arms display sugar-cane and cotton branches surrounding a shield with sailing vessels and the date 16 September 1817"
+    }
   ]
 }

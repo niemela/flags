@@ -1,8 +1,78 @@
 {
   "id": "CU",
-  "title": "Cuba",
-  "iso": "CU",
+  "name": "Cuba",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "CU",
+    "iso_3166_1_alpha3": "CUB",
+    "fifa": "CUB",
+    "ioc": "CUB",
+    "wikidata": "Q241"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the three departments into which colonial Cuba was divided"
+    },
+    {
+      "color": "white",
+      "symbolism": "the purity of the patriotic cause and the strength of the independence ideal"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed in the struggle for independence"
+    }
+  ],
+  "description": "Five equal horizontal stripes alternating blue and white (blue, white, blue, white, blue) with a red equilateral triangle at the hoist whose base spans the full height of the flag; centred within the triangle is a single white five-pointed star.",
+  "history": "Designed by Narciso López and Miguel Teurbe Tolón in 1849 in New York and first raised on Cuban soil at Cárdenas on 19 May 1850 during López's expedition. Following years as a flag of various separatist movements, it was officially adopted as the national flag on 20 May 1902 when Cuba gained formal independence from the United States military government. The design has remained unchanged through the Republican period and the Cuban Revolution of 1959.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1902-05-20"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Cuba"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 5,
+      "symbolism": "the three blue stripes represent the three military departments into which colonial Cuba was divided (Occidental, Central, Oriental); the two white stripes the strength of the independence ideal"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "hoist triangle",
+      "symbolism": "an equilateral triangle inspired by Masonic symbolism representing liberty, equality and fraternity; coloured red for the blood shed in the wars of independence"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "hoist",
+      "role": "lone star (la estrella solitaria)",
+      "symbolism": "the absolute freedom of the Cuban people and Cuba's status as one independent state among the free peoples of the world; centred within the red triangle"
+    }
   ]
 }

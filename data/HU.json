@@ -1,8 +1,60 @@
 {
   "id": "HU",
-  "title": "Hungary",
-  "iso": "HU",
+  "name": "Hungary",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "HU",
+    "iso_3166_1_alpha3": "HUN",
+    "fifa": "HUN",
+    "ioc": "HUN",
+    "wikidata": "Q28"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "strength (ero); historically the red of the Arpad stripes; popularly the blood shed for the fatherland"
+    },
+    {
+      "color": "white",
+      "symbolism": "fidelity (huseg); historically the silver of the Arpad stripes; popularly faithfulness or freedom"
+    },
+    {
+      "color": "green",
+      "symbolism": "hope (remeny); historically the green of the three hills (Tatra, Matra, Fatra) supporting the patriarchal cross of Hungary; popularly the pastures and land of Hungary"
+    }
+  ],
+  "description": "Three equal horizontal stripes of red (top), white, and green.",
+  "history": "Red, white and green appear together on Hungarian state seals from the late 12th century and on royal documents from the 15th. They were formally adopted as the national colours by Act XXI of 1848 during the Hungarian Revolution against Habsburg rule, with the horizontal layout chosen to differentiate the new Hungarian flag from the vertical Italian tricolour. After the failed revolution the flag was banned, then legalised again following the Compromise of 1867. Successive 20th-century governments charged the field with various coats of arms (royal, Kossuth, Communist), but the plain red-white-green triband was restored as the national flag by the constitutional amendment of 23 May 1957 and reaffirmed in the 1990 amendments and the 2011 Fundamental Law (in force from 1 January 2012), which fixed the symbolic interpretation of the colours.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1957-05-23"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Hungary"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "symbolism": "the colours of the medieval Hungarian coat of arms — the red-and-white Arpad stripes and the green of the patriarchal cross's mount — formally codified by Act XXI of 1848 during the Hungarian Revolution"
+    }
   ]
 }

@@ -1,8 +1,67 @@
 {
   "id": "LV",
-  "title": "Latvia",
-  "iso": "LV",
+  "name": "Latvia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "LV",
+    "iso_3166_1_alpha3": "LVA",
+    "fifa": "LVA",
+    "ioc": "LAT",
+    "wikidata": "Q211"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Baltics",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "maroon",
+      "symbolism": "the willingness of Latvians to give the blood from their hearts for freedom; the historic 'Latvian red' (carmine), a particularly dark shade composed of brown and purple"
+    },
+    {
+      "color": "white",
+      "symbolism": "honesty, truth and faith — the unstained part of the legendary blood-soaked sheet"
+    }
+  ],
+  "description": "A carmine-red field bisected by a narrower white horizontal stripe; the upper and lower red bands are each twice as wide as the white centre stripe (proportions 2:1:2).",
+  "history": "The red-white-red flag is among the oldest documented in the world, mentioned in the Livonian Rhymed Chronicle's account of a battle around 1279 fought by Latgalian tribes from Cesis under a 'red flag with a white stripe'. Revived during the Latvian national awakening of the late 19th century, it was given its modern carmine-red shade and 2:1:2 proportions by artist Ansis Cirulis in 1917, and officially adopted by the Constitutional Assembly on 15 June 1921. Banned during the Soviet occupation (1940–1991), it was restored on 27 February 1990 and reaffirmed when Latvia regained independence in 1991. The colour was standardised as Pantone 1807 C in 1995, then Pantone 19-1629 TPX/TC for textiles and Pantone 201 C for digital use under the regulation of 28 November 2018 (in force from 1 January 2019).",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1921-06-15",
+      "end": "1940"
+    },
+    {
+      "start": "1990-02-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Latvia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "maroon",
+        "white",
+        "maroon"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        2
+      ],
+      "symbolism": "the carmine red ('Latvian red') of the medieval Latgalian banner, with the central white stripe popularly explained by a legend of a wounded chieftain wrapped in a white sheet that was stained red by his blood except where his body lay"
+    }
   ]
 }

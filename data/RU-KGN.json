@@ -1,8 +1,59 @@
 {
   "id": "RU-KGN",
-  "title": "Kurgan Oblast (Russia)",
-  "iso": "RU-KGN",
+  "name": "Kurgan Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-KGN",
+    "wikidata": "Q5741"
+  },
+  "region": [
+    "Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the silver of the kurgans (burial mounds) and the sky"
+    },
+    {
+      "color": "green",
+      "symbolism": "the steppe and forests of the Trans-Urals; field on which the kurgans stand"
+    }
+  ],
+  "description": "Three horizontal stripes of equal height - white, emerald green, white - with two overlapping silver kurgan-shaped mounds centered on the green stripe.",
+  "history": "Adopted on 18 July 2001. Designed by Dmitry Ivanov. The kurgans are a canting reference to the oblast's name (kurgan means burial mound).",
+  "periods": [
+    {
+      "start": "2001-07-18"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kurgan_Oblast",
+    "https://www.crwflags.com/fotw/flags/ru-45.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "white"
+      ],
+      "count": 3
+    },
+    {
+      "type": "mountain",
+      "count": 2,
+      "color": "white",
+      "position": "center",
+      "role": "two silver kurgans",
+      "symbolism": "two overlapping silver kurgans (ancient burial mounds), a canting reference to the oblast's name; their silhouettes are separated by an emerald contour."
+    }
   ]
 }

@@ -1,7 +1,58 @@
 {
   "id": "US-AL-montgomery",
-  "title": "Montgomery, AL (United States)",
+  "name": "Montgomery (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-AL",
+  "codes": {
+    "wikidata": "Q29364"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the gold field"
+    },
+    {
+      "color": "white",
+      "symbolism": "elements of the central seal"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlines of the central seal"
+    },
+    {
+      "color": "red",
+      "symbolism": "minor accents on the central seal"
+    },
+    {
+      "color": "blue",
+      "symbolism": "minor accents on the central seal"
+    }
+  ],
+  "description": "A gold field charged at the centre with the seal of the City of Montgomery.",
+  "history": "Used by the City of Montgomery, the capital of Alabama, founded in 1819 by the merger of two earlier riverside towns and named after Revolutionary War general Richard Montgomery.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Montgomery,_Alabama"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow",
+      "symbolism": "a gold field bearing the seal of the City of Montgomery"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "Seal of the City of Montgomery",
+      "symbolism": "The municipal seal evokes Montgomery's history as the capital of Alabama (since 1846) and its role as the first capital of the Confederate States of America (1861), as well as its later prominence in the Civil Rights Movement."
+    }
   ]
 }

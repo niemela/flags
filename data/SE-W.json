@@ -1,8 +1,56 @@
 {
   "id": "SE-W",
-  "title": "Dalarna (Sweden)",
-  "iso": "SE-W",
+  "name": "Dalarna County (Sweden)",
   "type": [
     "subdivision"
+  ],
+  "parent": "SE",
+  "codes": {
+    "iso_3166_2": "SE-W",
+    "wikidata": "Q104244"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the azure field of the Dalarna arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold crossed arrows and crown"
+    },
+    {
+      "color": "white",
+      "symbolism": "silver detailing on the charges"
+    }
+  ],
+  "description": "A square blue flag charged centrally with two crossed gold arrows surmounted by a coronet, the historic emblem of Dalarna.",
+  "history": "The flag is the heraldic banner of the arms of Dalarna County, derived from the medieval coat of arms of the historic province of Dalarna (Dalecarlia).",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dalarna_County",
+    "https://sv.wikipedia.org/wiki/Dalarnas_l%C3%A4ns_vapen"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the azure field of the historic Dalarna (Dalecarlia) provincial arms"
+    },
+    {
+      "type": "spear",
+      "count": 2,
+      "color": "yellow",
+      "position": "center",
+      "arrangement": "single",
+      "role": "two crossed gold arrows of Dalarna, ensigned with a coronet",
+      "symbolism": "two gold arrows crossed in saltire on a blue field, surmounted by a coronet; the historic emblem of the province of Dalarna (Dalecarlia)."
+    }
   ]
 }

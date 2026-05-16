@@ -1,8 +1,74 @@
 {
   "id": "CO-CAQ",
-  "title": "Caquetá (Colombia)",
-  "iso": "CO-CAQ",
+  "name": "Caqueta (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-CAQ",
+    "wikidata": "Q121296"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the Amazonian forest and the natural wealth of Caqueta"
+    },
+    {
+      "color": "white",
+      "symbolism": "the rivers that cross the department and the peace of its people"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold and the wealth of natural resources, shown by a star in the canton"
+    }
+  ],
+  "description": "Seven equal horizontal stripes alternating green and white (green at top), with a square white canton at the upper hoist bearing a single yellow five-pointed star.",
+  "history": "Caqueta was created as an Intendancy in 1912 and elevated to a department by the 1981 reform, confirmed in the 1991 Constitution. The flag combines the green of the Amazon and the white of its rivers with a star in the canton evoking the gold and the territory's natural riches.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caquet%C3%A1_Department",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Caquet%C3%A1.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 7,
+      "widths": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "symbolism": "alternating green and white stripes representing the rivers and the Amazonian jungle of the department"
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "proportion": "2/5",
+      "symbolism": "white canton at the upper hoist bearing a single yellow five-pointed star",
+      "features": [
+        {
+          "type": "star",
+          "count": 1,
+          "points": 5,
+          "color": "yellow",
+          "symbolism": "the gold and the natural wealth of Caqueta"
+        }
+      ]
+    }
   ]
 }

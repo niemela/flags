@@ -1,8 +1,86 @@
 {
   "id": "CV",
-  "title": "Cabo Verde",
-  "iso": "CV",
+  "name": "Cape Verde",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "CV",
+    "iso_3166_1_alpha3": "CPV",
+    "fifa": "CPV",
+    "ioc": "CPV",
+    "wikidata": "Q1011"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Lusophone"
+  ],
+  "aspect_ratio": "10:17",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the sea and the sky surrounding the archipelago; the infinite space"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace"
+    },
+    {
+      "color": "red",
+      "symbolism": "the effort and dedication of the people"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the colour of the ten stars; harmony and progress"
+    }
+  ],
+  "description": "A blue field crossed by a horizontal band of three thin stripes — white, red, white — set below the centre line. Ten yellow five-pointed stars are arranged in a circle on the hoist side, centred on the white-red-white band.",
+  "history": "Adopted on 22 September 1992, replacing the 1975 independence flag (a horizontal red-yellow-green design with a black star, modelled on the joint Cape Verde / Guinea-Bissau flags of the PAIGC liberation movement). The new design followed the country's transition to multiparty democracy in 1991 and was meant to assert a national identity distinct from Guinea-Bissau, with which Cape Verde had been politically associated since independence.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1992-09-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Cape_Verde"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 5,
+      "widths": [
+        6,
+        1,
+        1,
+        1,
+        3
+      ],
+      "symbolism": "blue for the sea and the sky surrounding the islands, white for peace, red for the effort and dedication of the people"
+    },
+    {
+      "type": "star",
+      "count": 10,
+      "points": 5,
+      "color": "yellow",
+      "position": "center-hoist",
+      "arrangement": "circle",
+      "role": "ten yellow five-pointed stars in a circle",
+      "symbolism": "the ten main islands of the archipelago united as one nation"
+    }
   ]
 }

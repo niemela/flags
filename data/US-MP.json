@@ -1,8 +1,91 @@
 {
   "id": "US-MP",
-  "title": "Northern Mariana Islands (United States)",
-  "iso": "US-MP",
+  "name": "Northern Mariana Islands (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_1_alpha2": "MP",
+    "iso_3166_2": "US-MP",
+    "wikidata": "Q16644"
+  },
+  "region": [
+    "Oceania",
+    "Micronesia",
+    "Pacific Islands"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the Pacific Ocean and the sky"
+    },
+    {
+      "color": "white",
+      "symbolism": "the Latte stone, the star, and peace"
+    },
+    {
+      "color": "grey",
+      "symbolism": "the stone of the Latte and the wreath"
+    },
+    {
+      "color": "green",
+      "symbolism": "the mwar (head garland) wreath of plumeria, ylang-ylang, and other native flowers"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central five-pointed star (representing the Commonwealth of the Northern Mariana Islands within the United States)"
+    },
+    {
+      "color": "red",
+      "symbolism": "flowers in the wreath and decorative details"
+    }
+  ],
+  "description": "A dark blue field with a centred white five-pointed star superimposed on a grey Latte stone (a traditional Chamorro stone pillar with a hemispherical capstone), all encircled by a green mwar wreath of plumeria, hibiscus, and other native flowers.",
+  "history": "Originally adopted on 4 July 1976 with just the Latte stone and star. The mwar floral wreath was added on 1 July 1989 to better incorporate Carolinian heritage alongside Chamorro symbols, after the Northern Mariana Islands' transition from a UN Trust Territory to a United States Commonwealth in 1978.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1989-07-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Northern_Mariana_Islands"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the deep blue of the Pacific Ocean"
+    },
+    {
+      "type": "building",
+      "count": 1,
+      "color": "grey",
+      "position": "center",
+      "role": "Latte stone (haligi and tasa pillar-and-capstone)",
+      "symbolism": "the traditional Chamorro Latte stone, an ancient pillar of cut limestone topped by a hemispherical capstone, used as a foundation for Chamorro houses; symbolizes the indigenous Chamorro and Carolinian heritage of the islands."
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "role": "white five-pointed star centred over the Latte stone",
+      "symbolism": "the Commonwealth of the Northern Mariana Islands."
+    },
+    {
+      "type": "wreath",
+      "count": 1,
+      "color": "green",
+      "position": "center",
+      "role": "mwar (floral head wreath) encircling the Latte stone and star",
+      "symbolism": "the floral wreath traditionally worn by Chamorros and Carolinians; signifies cultural pride and the unity of the islanders."
+    }
   ]
 }

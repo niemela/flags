@@ -1,8 +1,82 @@
 {
   "id": "TG",
-  "title": "Togo",
-  "iso": "TG",
+  "name": "Togo",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "TG",
+    "iso_3166_1_alpha3": "TGO",
+    "fifa": "TOG",
+    "ioc": "TOG",
+    "wikidata": "Q945"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Francophonie"
+  ],
+  "aspect_ratio": "21:34",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the country's agriculture and the hope of its people"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "Togo's mineral wealth and the value of labour"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed in the struggle for independence; love, fidelity and charity"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity, peace and the wisdom of leaders"
+    }
+  ],
+  "description": "Five equal horizontal stripes alternating green and yellow, with a red square canton in the upper hoist (covering the top two stripes) bearing a single white five-pointed star.",
+  "history": "Adopted on 27 April 1960, the day Togo became independent from France. Designed by Togolese artist Paul Ahyi, the flag's proportions are said to approximate the golden ratio, and the five stripes represent the country's five administrative regions. The Pan-African colour scheme (red, yellow, green) connects Togo to other newly independent African states; the lone star recalls the flag of Liberia.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1960-04-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Togo"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 5,
+      "symbolism": "five equal stripes alternating green and yellow, beginning and ending with green; an upper-hoist red canton bears a single white star"
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "proportion": "2/5",
+      "role": "red canton with white five-pointed star",
+      "features": [
+        {
+          "type": "star",
+          "count": 1,
+          "points": 5,
+          "color": "white",
+          "role": "Star of Hope",
+          "symbolism": "life, hope, purity, peace, dignity and the everlasting light shining on independent Togo"
+        }
+      ]
+    }
   ]
 }

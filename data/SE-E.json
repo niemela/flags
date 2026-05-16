@@ -1,8 +1,59 @@
 {
   "id": "SE-E",
-  "title": "Östergötland (Sweden)",
-  "iso": "SE-E",
+  "name": "Ostergotland County (Sweden)",
   "type": [
     "subdivision"
+  ],
+  "parent": "SE",
+  "codes": {
+    "iso_3166_2": "SE-E",
+    "wikidata": "Q104233"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the gules field of the Ostergotland arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold griffin and rose"
+    },
+    {
+      "color": "blue",
+      "symbolism": "armed and langued azure detailing on the griffin"
+    },
+    {
+      "color": "white",
+      "symbolism": "silver detailing in the central charge"
+    }
+  ],
+  "description": "A square red flag charged centrally with a gold griffin rampant from the Ostergotland provincial arms.",
+  "history": "The flag is the heraldic banner of the arms of Ostergotland County, derived from the medieval coat of arms of the historic province of Ostergotland.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%96sterg%C3%B6tland_County",
+    "https://sv.wikipedia.org/wiki/%C3%96sterg%C3%B6tlands_l%C3%A4ns_vapen"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the gules field of the historic Ostergotland provincial arms"
+    },
+    {
+      "type": "mythical-creature",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "rampant griffin of Ostergotland",
+      "symbolism": "a gold griffin rampant on a red field, the historic emblem of the province of Ostergotland; the griffin holds a rose and is surmounted by a ducal coronet."
+    }
   ]
 }

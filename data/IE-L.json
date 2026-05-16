@@ -1,8 +1,49 @@
 {
   "id": "IE-L",
-  "title": "Leinster (Ireland)",
-  "iso": "IE-L",
+  "name": "Leinster (Ireland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "IE",
+  "codes": {
+    "iso_3166_2": "IE-L",
+    "wikidata": "Q201515"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "vert, the heraldic green of the Leinster arms and a traditional Irish provincial colour"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold harp of the arms"
+    }
+  ],
+  "description": "A green field charged centrally with a gold harp of traditional Irish form.",
+  "history": "The arms of Leinster — a gold harp on a green field — are documented from the seventeenth century and have been used as the provincial banner since. The harp is the historic emblem of the Kingdom of Ireland and remains the principal Irish national symbol.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Leinster",
+    "https://en.wikipedia.org/wiki/Leinster"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "harp of Leinster",
+      "symbolism": "a gold harp with silver strings, the traditional symbol of Leinster and of Ireland as a whole; here used as the sole heraldic charge of the provincial arms."
+    }
   ]
 }

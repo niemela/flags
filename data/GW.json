@@ -1,8 +1,70 @@
 {
   "id": "GW",
-  "title": "Guinea-Bissau",
-  "iso": "GW",
+  "name": "Guinea-Bissau",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "GW",
+    "iso_3166_1_alpha3": "GNB",
+    "fifa": "GNB",
+    "ioc": "GBS",
+    "wikidata": "Q1007"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Lusophone"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the blood shed by those who died in the struggle for independence"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the harvest and the country's wealth"
+    },
+    {
+      "color": "green",
+      "symbolism": "the country's lush vegetation and hope for the future"
+    },
+    {
+      "color": "black",
+      "symbolism": "the African people and continent (the central star)"
+    }
+  ],
+  "description": "A red vertical band at the hoist, two-fifths of the flag's width, charged with a centred black five-pointed star; at the fly, two equal horizontal stripes — yellow over green — taking the remaining three-fifths.",
+  "history": "Adopted on 24 September 1973 when the African Party for the Independence of Guinea and Cape Verde (PAIGC) unilaterally declared the country's independence from Portugal; this was recognised by Portugal on 10 September 1974. The design is based on the flag of the PAIGC, with the same Pan-African red-yellow-green palette and Black Star of Africa used by Cape Verde's first independence flag (1975–1992) and by the related flag of Ghana.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1973-09-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Guinea-Bissau"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "a red vertical band at the hoist taking the inner two-fifths, with two equal horizontal stripes (yellow over green) on the outer three-fifths; the Pan-African colours are arranged as in the related flags of Cape Verde (1975–1992) and Guinea, reflecting the PAIGC liberation movement"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "black",
+      "position": "center-hoist",
+      "role": "Black Star of Africa",
+      "symbolism": "African unity and the people of the continent, in the tradition of the Pan-African Black Star"
+    }
   ]
 }

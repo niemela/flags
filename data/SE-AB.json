@@ -1,8 +1,61 @@
 {
   "id": "SE-AB",
-  "title": "Stockholm (Sweden)",
-  "iso": "SE-AB",
+  "name": "Stockholm County (Sweden)",
   "type": [
     "subdivision"
+  ],
+  "parent": "SE",
+  "codes": {
+    "iso_3166_2": "SE-AB",
+    "wikidata": "Q104231"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the gold field of the arms"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the upper-hoist field, derived from the historic arms of the province of Uppland"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lower-fly field, derived from the arms of the city of Stockholm"
+    }
+  ],
+  "description": "A square flag divided per bend: a yellow ground crossed by a blue triangle in the upper hoist and a red triangle in the lower fly, with the crowned golden head of Saint Erik centred at the dividing line.",
+  "history": "Stockholm County's coat of arms was granted in 1968, combining elements from the arms of the province of Uppland (the blue field) and the City of Stockholm (the red field with Saint Erik). The flag is the heraldic banner of those arms.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stockholm_County",
+    "https://sv.wikipedia.org/wiki/Stockholms_l%C3%A4ns_vapen"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "direction": "bend",
+      "symbolism": "a diagonal banding from the upper hoist (blue) through a central yellow band to the lower fly (red), charged centrally with the figure of Saint Erik. The colours are taken from the historic provincial arms of Uppland (blue and yellow) and the city of Stockholm (red and yellow)."
+    },
+    {
+      "type": "human-figure",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "Saint Erik (Erik IX of Sweden), patron saint of Stockholm",
+      "symbolism": "the crowned head of Saint Erik, royal patron of Stockholm; taken from the city of Stockholm's coat of arms."
+    }
   ]
 }

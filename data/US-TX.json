@@ -1,8 +1,69 @@
 {
   "id": "US-TX",
-  "title": "Texas (United States)",
-  "iso": "US-TX",
+  "name": "Texas (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-TX",
+    "wikidata": "Q1439"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "loyalty"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and liberty"
+    },
+    {
+      "color": "red",
+      "symbolism": "bravery"
+    }
+  ],
+  "description": "A vertical blue stripe at the hoist (one third of the flag's length) bearing a single centered white five-pointed star, and to the fly two equal horizontal bands — white over red — covering the remaining two thirds.",
+  "history": "The Lone Star Flag was designed by Senator William H. Wharton and adopted by the Republic of Texas on 25 January 1839 as the national flag of the Republic. When Texas was admitted to the Union on 29 December 1845, the flag was retained as the state flag. The current proportions were codified by the Texas Flag Code in 1933 and revised in 1993.",
+  "periods": [
+    {
+      "start": "1839-01-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Texas",
+    "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.3100.htm"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        1,
+        1
+      ],
+      "symbolism": "Field of two equal horizontal stripes (white over red) at the fly with a blue vertical band (one third of the total length) at the hoist bearing the Lone Star."
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "role": "the Lone Star",
+      "symbolism": "Texas as an independent unit; the unity of the state — its name derives from the ka-ti, a Caddo word meaning 'friends' or 'allies'"
+    }
   ]
 }

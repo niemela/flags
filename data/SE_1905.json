@@ -1,8 +1,74 @@
 {
-  "id": "SE_1844-1905",
-  "title": "Sweden (1844-1905)",
+  "id": "SE_1905",
+  "name": "Sweden (1844-1905)",
   "type": [
     "historical",
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q1377572"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia"
+  ],
+  "shape": "swallowtail",
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A Swedish swallow-tailed flag — blue field with a yellow Nordic cross and a triangular tongue extending from the cross — defaced in the upper hoist canton with the Norwegian-Swedish union mark, a small chequered emblem combining the colours and saltires of Sweden and Norway.",
+  "history": "Adopted on 20 June 1844 by King Oscar I as part of a unified flag system for the United Kingdoms of Sweden and Norway, replacing the plain blue-and-yellow flag of 1815. The new design added the union mark (a quartered field combining a Swedish blue saltire on yellow and a Norwegian red saltire on white, with white fimbriation) to the canton of both Swedish and Norwegian flags. The mark was deeply unpopular in both countries — particularly in Norway, where it was nicknamed the 'sillsalladen' ('herring salad'). Norway removed it from its merchant flag in 1899 and from all flags in 1898-1899; Sweden retained the mark on its flags until the dissolution of the union, removing it on 1 November 1905 after the union ended.",
+  "variant": [
+    "state",
+    "war",
+    "naval-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1844-06-20",
+      "end": "1905-11-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Sweden",
+    "https://en.wikipedia.org/wiki/Union_between_Sweden_and_Norway",
+    "https://en.wikipedia.org/wiki/Sillsalladen"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "blue",
+      "cross": "yellow",
+      "symbolism": "the historic Swedish national colours, derived from the royal coat of arms"
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "role": "Union mark (Unionsmärket)",
+      "symbolism": "the union between Sweden and Norway, combining the colours and saltires of both kingdoms; popularly nicknamed the sillsallad ('herring salad') by its critics",
+      "features": [
+        {
+          "type": "saltire",
+          "color": "white",
+          "role": "Norwegian-Swedish union saltire",
+          "symbolism": "the personal union of Sweden and Norway"
+        }
+      ]
+    }
   ]
 }

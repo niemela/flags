@@ -1,8 +1,74 @@
 {
   "id": "CY",
-  "title": "Cyprus",
-  "iso": "CY",
+  "name": "Cyprus",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "CY",
+    "iso_3166_1_alpha3": "CYP",
+    "fifa": "CYP",
+    "ioc": "CYP",
+    "wikidata": "Q229"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union",
+    "Western Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "peace between the Greek and Turkish Cypriot communities"
+    },
+    {
+      "color": "orange",
+      "symbolism": "the copper for which Cyprus has been famed since antiquity (the island's name is the etymological source of 'copper'); rendered in a copper-yellow shade"
+    },
+    {
+      "color": "green",
+      "symbolism": "the olive branches of peace and the island's natural greenery"
+    }
+  ],
+  "description": "A white field charged with a copper-coloured silhouette map of the island of Cyprus, beneath which two green olive branches are crossed at the stems.",
+  "history": "Adopted on 16 August 1960 with the independence of Cyprus from the United Kingdom. The design was selected from a competition by the first president, Archbishop Makarios III, and the Turkish Cypriot vice-president Fazıl Küçük; it was deliberately required to avoid the colours and symbols of either Greece (blue/white cross) or Turkey (red/crescent) so as to be neutral between the two communities. The proportions were tightened and the colours specified more precisely on 24 April 2006.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1960-08-16"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Cyprus"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white",
+      "symbolism": "peace between the island's communities"
+    },
+    {
+      "type": "map",
+      "count": 1,
+      "color": "orange",
+      "position": "center",
+      "role": "outline of the island of Cyprus",
+      "symbolism": "the territory of the whole island; the copper colour recalls the island's ancient association with copper"
+    },
+    {
+      "type": "olive-branch",
+      "count": 2,
+      "color": "green",
+      "position": "center",
+      "role": "two crossed olive branches beneath the map",
+      "symbolism": "peace and reconciliation between the island's Greek and Turkish communities"
+    }
   ]
 }

@@ -1,8 +1,57 @@
 {
   "id": "DE-SH",
-  "title": "Schleswig-Holstein (Germany)",
-  "iso": "DE-SH",
+  "name": "Schleswig-Holstein (Germany)",
   "type": [
     "subdivision"
+  ],
+  "parent": "DE",
+  "codes": {
+    "iso_3166_2": "DE-SH",
+    "wikidata": "Q1194"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "from the arms of Schleswig"
+    },
+    {
+      "color": "white",
+      "symbolism": "shared by both duchies"
+    },
+    {
+      "color": "red",
+      "symbolism": "from the arms of Holstein"
+    }
+  ],
+  "description": "Three equal horizontal stripes of blue, white, and red.",
+  "history": "Adopted as the civil flag of the state of Schleswig-Holstein on 18 January 1957, drawing on heraldic colours that had been associated with the duchies of Schleswig and Holstein since the 19th century. The state flag with arms is reserved for official use.",
+  "variant": [
+    "civil"
+  ],
+  "periods": [
+    {
+      "start": "1957-01-18"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Schleswig-Holstein"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "The blue and white come from the historic arms of Schleswig (two blue lions on yellow), and the red and white from the arms of Holstein (a silver nettle leaf on red); together they form a tricolour for the combined state."
+    }
   ]
 }

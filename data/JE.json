@@ -1,8 +1,70 @@
 {
   "id": "JE",
-  "title": "Jersey",
-  "iso": "JE",
+  "name": "Jersey",
   "type": [
-    "subdivision"
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "iso_3166_1_alpha2": "JE",
+    "iso_3166_1_alpha3": "JEY",
+    "wikidata": "Q785"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field of the flag"
+    },
+    {
+      "color": "red",
+      "symbolism": "the saltire (cross) of the flag"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the Plantagenet crown and the lions of the Jersey arms"
+    }
+  ],
+  "description": "A red saltire on a white field, with the shield of Jersey (three gold lions passant guardant on red) surmounted by the gold Plantagenet crown placed at the centre.",
+  "history": "The saltire on white field has been associated with Jersey since at least 1799, when it appears in a Dutch flag book. The current design, with the addition of the Plantagenet crown above the Jersey shield, was approved by Queen Elizabeth II in June 1979 and first hoisted on 7 April 1981. Before this revision the simple saltire alone was the de facto flag of the Bailiwick.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1981-04-07"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Jersey"
+  ],
+  "features": [
+    {
+      "type": "saltire",
+      "field": "white",
+      "saltire": "red",
+      "symbolism": "the saltire is traditionally associated with Jersey, though its exact origin is debated; one theory identifies it as the cross of Saint Patrick, others as a 1783 admiralty error"
+    },
+    {
+      "type": "shield",
+      "position": "center",
+      "color": "red",
+      "role": "Arms of Jersey",
+      "symbolism": "three gold lions passant guardant on red — the historic arms of Jersey, derived from the royal arms of England in recognition of the island's allegiance to the English Crown since the loss of mainland Normandy in 1204"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "center",
+      "role": "Plantagenet crown",
+      "symbolism": "Jersey's status as a Crown Dependency, with the British monarch as the Duke of Normandy"
+    }
   ]
 }

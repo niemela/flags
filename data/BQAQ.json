@@ -1,8 +1,75 @@
 {
   "id": "BQAQ",
-  "title": "British Antarctic Territory",
-  "iso": "BQAQ",
+  "name": "British Antarctic Territory (United Kingdom)",
   "type": [
     "subdivision"
+  ],
+  "parent": "GB",
+  "codes": {
+    "iso_3166_3": "BQAQ",
+    "wikidata": "Q131261"
+  },
+  "region": [
+    "Antarctica",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the snow and ice of the Antarctic continent"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the canton of the Union Flag and details of the territorial coat of arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "the crosses of the Union Flag and details of the territorial coat of arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "details of the territorial coat of arms (the torch, helmet, and lion crest)"
+    },
+    {
+      "color": "black",
+      "symbolism": "outline details of the coat of arms"
+    }
+  ],
+  "description": "A white ensign with the Union Flag in the upper hoist canton and the coat of arms of the British Antarctic Territory in the centre of the fly.",
+  "history": "The British Antarctic Territory was established in 1962 from the southern part of the former Falkland Islands Dependencies. The current white ensign with the territorial coat of arms in the fly was adopted on 5 November 1998; before that, the territory used a Blue Ensign defaced with the same coat of arms. The ISO 3166-3 code BQAQ records the territory's prior ISO 3166-1 alpha-2 code 'BQ' (1974-1979), withdrawn when the entry was merged into the wider 'AQ' (Antarctica) reservation under the Antarctic Treaty system.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1998-11-05"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_British_Antarctic_Territory",
+    "https://en.wikipedia.org/wiki/British_Antarctic_Territory"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white",
+      "symbolism": "the white field of the British Antarctic Territory's flag, recalling the snow and ice of Antarctica"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Flag, denoting the territory's status as a British Overseas Territory"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center-fly",
+      "role": "the coat of arms of the British Antarctic Territory",
+      "symbolism": "the territorial coat of arms (granted 1962, modified 1969): a shield with wavy bars representing the Southern Ocean and a torch (representing the British exploration of the Antarctic) on a white field; supporters a Royal Research Ship and a Tabard penguin; crest a lion holding a torch; motto 'Research and Discovery'."
+    }
   ]
 }

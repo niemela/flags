@@ -1,8 +1,86 @@
 {
   "id": "US-WV",
-  "title": "West Virginia (United States)",
-  "iso": "US-WV",
+  "name": "West Virginia (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-WV",
+    "fips_state": "54",
+    "wikidata": "Q1371"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "10:19",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "purity"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the Union"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A white field with a blue border, bearing in the center the West Virginia coat of arms encircled by a wreath of rhododendron. A red scroll inscribed 'State of West Virginia' arches above the wreath.",
+  "history": "Adopted on 7 March 1929. The flag has the unusual obverse-design legal description but in practice is identical on both sides. The coat of arms — designed by Joseph H. Diss Debar in 1863 — depicts a farmer and a miner, the two rocks of West Virginia's economy, flanking the date stone of the state's secession from Virginia during the American Civil War. The rhododendron wreath was added on the flag's adoption.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1929-03-07"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_West_Virginia"
+  ],
+  "features": [
+    {
+      "type": "bordure",
+      "field": "white",
+      "border": "blue"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "the coat of arms of West Virginia",
+      "symbolism": "depicts a farmer with axe and plow on the right and a miner with pickaxe on the left, flanking a large rock inscribed with 'June 20, 1863' (the date of West Virginia's admission to the Union); two crossed Winchester rifles and a Phrygian cap of liberty rest at the base, with the state motto 'Montani Semper Liberi' (mountaineers are always free) on a red scroll below"
+    },
+    {
+      "type": "wreath",
+      "count": 1,
+      "color": "green",
+      "position": "center",
+      "role": "a wreath of rhododendron maximum (the state flower) encircling the coat of arms",
+      "symbolism": "the state flower"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "top",
+      "role": "the words 'State of West Virginia' on a red scroll above the wreath"
+    }
   ]
 }

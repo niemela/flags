@@ -1,7 +1,53 @@
 {
   "id": "US-FL-tallahassee",
-  "title": "Tallahassee, FL (United States)",
+  "name": "Tallahassee (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-FL",
+  "codes": {
+    "wikidata": "Q37043"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "10:17",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the city's name and stylised landmarks"
+    },
+    {
+      "color": "red",
+      "symbolism": "the seven hills emblem and accent details"
+    },
+    {
+      "color": "black",
+      "symbolism": "outline detailing in the central emblem"
+    }
+  ],
+  "description": "A white field bearing the City of Tallahassee emblem at the centre, rendered in blue and red with black detailing.",
+  "history": "The current municipal flag of Florida's capital city; like many U.S. city flags, it places a centred civic emblem on a white ground.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tallahassee,_Florida"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "City of Tallahassee emblem",
+      "symbolism": "A composite emblem rendered in blue and red containing the city name 'Tallahassee', references to the area's seven hills, and stylised civic motifs representing the Florida state capital."
+    }
   ]
 }

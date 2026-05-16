@@ -1,8 +1,92 @@
 {
   "id": "BQ-SE",
-  "title": "Sint Eustatius",
-  "iso": "BQ-SE",
+  "name": "Sint Eustatius (Caribbean Netherlands)",
   "type": [
     "subdivision"
+  ],
+  "parent": "NL",
+  "codes": {
+    "iso_3166_2": "BQ-SE",
+    "wikidata": "Q26180"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the bravery of the people of Statia"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the Caribbean Sea around the island"
+    },
+    {
+      "color": "white",
+      "symbolism": "the field of the central diamond and the surrounding bands"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the star above the silhouetted island"
+    },
+    {
+      "color": "green",
+      "symbolism": "the silhouette of the island, the Quill volcano and its vegetation"
+    }
+  ],
+  "description": "A red field bearing in the centre a white lozenge (diamond) outlined in red and blue, charged with a green silhouette of the island of Sint Eustatius surmounted by a small golden star. Four blue triangles (one in each corner of the field, joined to the central diamond) extend through the red field along the cardinal directions.",
+  "history": "Adopted on 16 November 2004. The flag's elements - the red of bravery, the blue of the sea, the silhouette of the island under the Quill volcano, and the gold star recalling the island's nickname 'the Golden Rock' - were chosen to evoke Sint Eustatius's commercial heyday in the 18th century. The flag remained in use after the island became a special municipality of the Netherlands on 10 October 2010.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2004-11-16"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Sint_Eustatius"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "A red field with a central blue diamond bearing a silhouette of the island; quartered blue corners give the flag its distinctive cross-on-diamond layout."
+    },
+    {
+      "type": "lozenge",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "central white diamond (lozenge) bearing the silhouette of Sint Eustatius"
+    },
+    {
+      "type": "triangle",
+      "count": 4,
+      "color": "blue",
+      "arrangement": "scattered",
+      "role": "four blue triangles framing the central diamond, set against the red field along the cardinal directions",
+      "symbolism": "the surrounding sea"
+    },
+    {
+      "type": "map",
+      "count": 1,
+      "color": "green",
+      "position": "center",
+      "role": "silhouette of the island of Sint Eustatius (St. Statia)",
+      "symbolism": "the island itself, dominated by the Quill volcano"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "golden five-pointed star above the island silhouette",
+      "symbolism": "the island's status as 'the Golden Rock' for its 18th-century role as a major Atlantic trading post"
+    }
   ]
 }

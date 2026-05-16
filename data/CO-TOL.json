@@ -1,8 +1,44 @@
 {
   "id": "CO-TOL",
-  "title": "Tolima (Colombia)",
-  "iso": "CO-TOL",
+  "name": "Tolima (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-TOL",
+    "wikidata": "Q121139"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "maroon",
+      "symbolism": "the blood spilled in the wars of independence and the courage of the people"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold and other mineral wealth of the department"
+    }
+  ],
+  "description": "Two equal horizontal stripes, dark red over yellow.",
+  "history": "Tolima Department was created in 1861. Its flag, with dark red over yellow, recalls the bloodshed of the independence struggle and the gold-rich Magdalena valley.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tolima_Department"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "maroon",
+        "yellow"
+      ],
+      "count": 2
+    }
   ]
 }

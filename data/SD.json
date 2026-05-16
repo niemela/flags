@@ -1,8 +1,77 @@
 {
   "id": "SD",
-  "title": "Sudan",
-  "iso": "SD",
+  "name": "Sudan",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "SD",
+    "iso_3166_1_alpha3": "SDN",
+    "fifa": "SUD",
+    "ioc": "SUD",
+    "wikidata": "Q1049"
+  },
+  "region": [
+    "Africa",
+    "Northern Africa",
+    "Sub-Saharan Africa",
+    "Eastern Africa",
+    "MENA",
+    "Arab World"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the struggle for independence and the blood of martyrs"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace, light, love, and the White Flag League nationalist movement of 1924"
+    },
+    {
+      "color": "black",
+      "symbolism": "Sudan itself ('Sudan' is Arabic for 'black') and the historical Mahdist revolutionary flag"
+    },
+    {
+      "color": "green",
+      "symbolism": "Islam, agriculture, and prosperity (the hoist triangle)"
+    }
+  ],
+  "description": "Three equal horizontal stripes — red, white, and black — with a green isoceles triangle extending from the hoist edge.",
+  "history": "Adopted on 20 May 1970 following the May 1969 revolution that brought Gaafar Nimeiry to power. The flag was selected from a public competition won by artist Abdel Rahman Ahmed Al-Jali. It replaced the blue-yellow-green tricolour of the post-independence period (1956–1970), aligning Sudan with the Arab Liberation tradition (red-white-black) used by Egypt, Syria, Iraq and Yemen, with the green triangle distinguishing it from those flags.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1970-05-20"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Sudan"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "black"
+      ],
+      "count": 3,
+      "symbolism": "the Pan-Arab colours of the Arab Liberation Flag, with a green hoist triangle added"
+    },
+    {
+      "type": "triangle",
+      "count": 1,
+      "color": "green",
+      "position": "hoist",
+      "role": "green hoist triangle",
+      "symbolism": "Islam and prosperity"
+    }
   ]
 }

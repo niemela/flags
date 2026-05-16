@@ -1,8 +1,64 @@
 {
   "id": "FM",
-  "title": "Micronesia",
-  "iso": "FM",
+  "name": "Micronesia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "FM",
+    "iso_3166_1_alpha3": "FSM",
+    "fifa": "FSM",
+    "ioc": "FSM",
+    "wikidata": "Q702"
+  },
+  "region": [
+    "Oceania",
+    "Micronesia",
+    "Pacific Islands"
+  ],
+  "aspect_ratio": "10:19",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the Pacific Ocean and a tribute to the United Nations Trust Territory administration that preceded independence"
+    },
+    {
+      "color": "white",
+      "symbolism": "the four stars representing the four states of the federation: Yap, Chuuk, Pohnpei and Kosrae; also peace"
+    }
+  ],
+  "symbolism": null,
+  "description": "A light-blue field with four white five-pointed stars arranged in a diamond pattern at the centre.",
+  "history": "Adopted on 30 November 1978 by the Congress of the Federated States of Micronesia (then still part of the United Nations Trust Territory of the Pacific Islands), and retained when the country became fully independent in association with the United States on 3 November 1986. The design was modeled on the older flag of the Trust Territory of the Pacific Islands (which had six stars for its six districts), reduced to four stars for the four FSM states.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1978-11-30"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Federated_States_of_Micronesia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue",
+      "symbolism": "the blue of the Pacific Ocean which surrounds and connects the federation's islands; the colour is also said to recall the United Nations flag, under whose Trust Territory the islands were administered before independence"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "arrangement": "constellation-other",
+      "role": "four five-pointed stars in a diamond pattern",
+      "symbolism": "the four constituent states of the Federated States of Micronesia: Yap, Chuuk (formerly Truk), Pohnpei and Kosrae"
+    }
   ]
 }

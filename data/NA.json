@@ -1,8 +1,95 @@
 {
   "id": "NA",
-  "title": "Namibia",
-  "iso": "NA",
+  "name": "Namibia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "NA",
+    "iso_3166_1_alpha3": "NAM",
+    "fifa": "NAM",
+    "ioc": "NAM",
+    "wikidata": "Q1030"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Southern Africa",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the clear Namibian sky and the Atlantic Ocean; the country's marine resources and the importance of rain and water"
+    },
+    {
+      "color": "red",
+      "symbolism": "Namibia's most important resource — its people — and their heroism and determination to build a future of equal opportunity"
+    },
+    {
+      "color": "green",
+      "symbolism": "the country's vegetation and agricultural resources"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace and unity (the fimbriations of the diagonal band)"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the warmth of the sun and the energy of life (the upper-hoist sun emblem)"
+    }
+  ],
+  "description": "A red diagonal band running from the lower hoist to the upper fly, fimbriated above and below by narrow white stripes; the upper-hoist triangle is blue, the lower-fly triangle is green. In the upper-hoist (blue) triangle is a golden sun with twelve straight triangular rays.",
+  "history": "Adopted on 21 March 1990, the day Namibia gained independence from South African administration after a long liberation struggle. The flag was designed by a sub-committee of the Constituent Assembly drawing on more than 870 entries to a national competition; the colours derive from the SWAPO party flag (blue, red and green) with the white fimbriations and golden sun added to give the flag a non-partisan national character.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1990-03-21"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Namibia"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 5,
+      "widths": [
+        6,
+        1,
+        2,
+        1,
+        6
+      ],
+      "direction": "bend-sinister",
+      "fimbriation": {
+        "color": "white",
+        "around": "stripes"
+      },
+      "symbolism": "a red diagonal band fimbriated in white separates a blue upper-hoist triangle from a green lower-fly triangle: blue for sky and ocean, red for the people of Namibia, green for vegetation, white for peace and unity"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 12,
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "golden sun",
+      "symbolism": "life, energy and warmth; reflects the prominent role of the sun in the Namibian landscape"
+    }
   ]
 }

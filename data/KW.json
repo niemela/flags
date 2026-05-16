@@ -1,8 +1,72 @@
 {
   "id": "KW",
-  "title": "Kuwait",
-  "iso": "KW",
+  "name": "Kuwait",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "KW",
+    "iso_3166_1_alpha3": "KWT",
+    "fifa": "KUW",
+    "ioc": "KUW",
+    "wikidata": "Q817"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "MENA",
+    "GCC",
+    "Arab World"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the fertile land of Kuwait"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and the noble deeds of the Kuwaiti people"
+    },
+    {
+      "color": "red",
+      "symbolism": "the bloodshed on the swords of Kuwaitis (and, by extension, the courage and sacrifice in defence of the nation)"
+    },
+    {
+      "color": "black",
+      "symbolism": "the defeat of the enemies of Kuwait"
+    }
+  ],
+  "description": "Three equal horizontal stripes — green over white over red — with a black trapezoid at the hoist that overlies all three stripes. The trapezoid's longer side runs the full height of the hoist edge; its shorter side, parallel to the hoist, sits on the inner side, so the figure is not a true triangle.",
+  "history": "Adopted on 7 September 1961, eleven days before Kuwait's independence from the United Kingdom on 19 June 1961, replacing the plain red flags used by Kuwait under British protection. The Pan-Arab colour scheme of green-white-red-black is drawn from the 13th-century poem of Safi al-Din al-Hilli, which gave the four colours the meanings still cited today. The unique trapezoidal hoist (rather than a triangle) distinguishes Kuwait's flag from the Pan-Arab flags of Jordan, Palestine, Sudan and the United Arab Emirates.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1961-09-07"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Kuwait"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "field": "white",
+      "symbolism": "the Pan-Arab colours, drawn from a 13th-century poem by Safi al-Din al-Hilli: green for the fertile land, white for purity and the deeds of the people, red for the bloodshed on the swords of Kuwaitis, black for the defeat of the country's enemies"
+    },
+    {
+      "type": "triangle",
+      "count": 1,
+      "color": "black",
+      "position": "hoist",
+      "role": "black trapezoid at the hoist",
+      "symbolism": "rendered as a trapezoid (not a triangle) at the hoist; the colour represents the defeat of enemies"
+    }
   ]
 }

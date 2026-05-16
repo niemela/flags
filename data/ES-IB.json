@@ -1,8 +1,77 @@
 {
   "id": "ES-IB",
-  "title": "Balearic Islands (Spain)",
-  "iso": "ES-IB",
+  "name": "Balearic Islands (Spain)",
   "type": [
     "subdivision"
+  ],
+  "parent": "ES",
+  "codes": {
+    "iso_3166_2": "ES-IB",
+    "wikidata": "Q5765"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the gold field of the Senyera, inherited from the Crown of Aragon"
+    },
+    {
+      "color": "red",
+      "symbolism": "the four pales of the Senyera"
+    },
+    {
+      "color": "purple",
+      "symbolism": "the canton recalling the medieval Kingdom of Majorca"
+    },
+    {
+      "color": "white",
+      "symbolism": "the castle on the canton"
+    }
+  ],
+  "description": "Nine equal horizontal stripes alternating yellow and red (the Senyera), with a violet canton in the upper hoist charged with a white five-towered castle.",
+  "history": "Adopted in the Statute of Autonomy of 25 February 1983 (Article 4). The Senyera is the historic banner of the Crown of Aragon (to which Majorca belonged), and the violet-with-castle canton recalls the medieval Kingdom of Majorca established in 1276.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1983-02-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Balearic_Islands"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 9,
+      "symbolism": "The four red pales on a gold field is the Senyera, the historic arms of the Crown of Aragon, of which the medieval Kingdom of Majorca was a constituent realm."
+    },
+    {
+      "type": "canton",
+      "color": "purple",
+      "proportion": "1/4",
+      "symbolism": "The violet canton with the white castle recalls the Kingdom of Majorca, founded in 1276 by James II of Aragon, distinguishing the Balearic flag from the related flags of Catalonia, Aragon, and Valencia.",
+      "features": [
+        {
+          "type": "building",
+          "count": 1,
+          "color": "white",
+          "position": "center",
+          "role": "five-towered white castle",
+          "symbolism": "The white castle on a violet field is the historic emblem of the medieval Kingdom of Majorca."
+        }
+      ]
+    }
   ]
 }

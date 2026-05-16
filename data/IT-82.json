@@ -1,8 +1,62 @@
 {
   "id": "IT-82",
-  "title": "Sicily (Italy)",
-  "iso": "IT-82",
+  "name": "Sicily (Italy)",
   "type": [
     "subdivision"
+  ],
+  "parent": "IT",
+  "codes": {
+    "iso_3166_2": "IT-82",
+    "wikidata": "Q1460"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the upper hoist half, recalling the medieval banner of Palermo"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lower fly half, recalling the medieval banner of Corleone"
+    },
+    {
+      "color": "pink",
+      "symbolism": "the flesh tone of the Trinacria's central head (Medusa)"
+    }
+  ],
+  "description": "A field divided diagonally from upper hoist to lower fly with red above and yellow below, charged at the centre with the Trinacria: a triskelion of three bent legs around the head of Medusa with wheat ears.",
+  "history": "Adopted as the official flag of the autonomous region of Sicily by Regional Law n. 1 of 4 January 2000. The colours recall the alliance of Palermo (red) and Corleone (yellow) during the 1282 Sicilian Vespers revolt against the Angevins. The Trinacria, an ancient symbol attested on Greek-Sicilian coinage from the 6th century BC, has represented the island throughout its history.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2000-01-04"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Sicily"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "red",
+      "direction": "bend-sinister",
+      "symbolism": "A field divided diagonally with red at the upper hoist and yellow at the lower fly, the medieval colours of Palermo (red) and Corleone (yellow), the two cities that led the Sicilian Vespers revolt of 1282."
+    },
+    {
+      "type": "human-figure",
+      "count": 1,
+      "position": "center",
+      "role": "Trinacria (a triskelion of three bent legs joined at the centre to the head of Medusa with three wheat ears)",
+      "symbolism": "The Trinacria is the ancient symbol of Sicily (recorded since the 6th century BC), evoking the island's three capes; the three legs represent the three corners of the triangular island (Pelorus, Pachynus and Lilybaeum), the head of Medusa is its protective spirit, and the wheat ears recall Sicily's role as the granary of the ancient Mediterranean."
+    }
   ]
 }

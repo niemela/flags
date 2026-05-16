@@ -1,8 +1,64 @@
 {
   "id": "CA-QC",
-  "title": "Québec (Canada)",
-  "iso": "CA-QC",
+  "name": "Quebec (Canada)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CA",
+  "codes": {
+    "iso_3166_2": "CA-QC",
+    "wikidata": "Q176"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the heraldic colour of the French royal coat of arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "the cross, recalling the French regimental flags of New France"
+    }
+  ],
+  "description": "A blue field with a centred white Greek cross dividing it into four equal blue quarters; each quarter bears an upright white fleur-de-lis.",
+  "history": "Known as the Fleurdelisé, Quebec's flag was adopted on 21 January 1948 by order-in-council of Premier Maurice Duplessis, replacing the Union Jack as the official flag of the province. Its design is derived from the Carillon flag flown by Quebec patriots in the 19th century, itself inspired by the banner of the French regiments at the Battle of Carillon (1758) and the Sacred Heart Carillon flag.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1948-01-21"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Quebec"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "blue",
+      "cross": "white",
+      "symbolism": "The white cross recalls the Bourbon white cross flown by French regiments in New France; the cross divides the field into four blue quarters, each bearing a fleur-de-lis."
+    },
+    {
+      "type": "fleur-de-lis",
+      "count": 4,
+      "color": "white",
+      "arrangement": "grid",
+      "rows": [
+        2,
+        2
+      ],
+      "role": "fleurs-de-lis (one per quarter)",
+      "symbolism": "The fleur-de-lis is the historic symbol of the French monarchy; here it represents Quebec's French heritage as the centre of New France."
+    }
   ]
 }

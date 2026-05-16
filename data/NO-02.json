@@ -1,7 +1,57 @@
 {
   "id": "NO-02",
-  "title": "Akershus (Norway, 1987-2020)",
+  "name": "Akershus (Norway, 1987–2019)",
   "type": [
+    "historical",
     "subdivision"
+  ],
+  "parent": "NO",
+  "codes": {
+    "iso_3166_2": "NO-02",
+    "wikidata": "Q50615"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia"
+  ],
+  "aspect_ratio": "100:117",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field of the county arms"
+    },
+    {
+      "color": "grey",
+      "symbolism": "silver (argent) for the fortress walls"
+    }
+  ],
+  "description": "A blue field charged with a stylised silver representation of the towers and walls of Akershus Fortress rising from the bottom edge.",
+  "history": "Granted to Akershus county on 22 May 1987, designed by Hallvard Tratteberg. The county was abolished on 1 January 2020 when it was merged into the new Viken county; Akershus was re-established on 1 January 2024 following Viken's dissolution.",
+  "status": "historical",
+  "periods": [
+    {
+      "start": "1987-05-22",
+      "end": "2019-12-31"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Akershus",
+    "https://no.wikipedia.org/wiki/Akershus_fylkesv%C3%A5pen"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "heraldic banner of the county arms: a silver (argent) representation of Akershus Fortress on a blue field, the fortress that gave the county its name"
+    },
+    {
+      "type": "building",
+      "count": 1,
+      "color": "grey",
+      "position": "center",
+      "role": "Akershus Fortress",
+      "symbolism": "the medieval fortress of Akershus in Oslo, after which the county is named"
+    }
   ]
 }

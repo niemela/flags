@@ -1,8 +1,50 @@
 {
   "id": "IE-M",
-  "title": "Munster (Ireland)",
-  "iso": "IE-M",
+  "name": "Munster (Ireland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "IE",
+  "codes": {
+    "iso_3166_2": "IE-M",
+    "wikidata": "Q189652"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "azure, the heraldic blue field of the Munster arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the three crowns"
+    }
+  ],
+  "description": "A blue field charged with three gold antique crowns arranged two over one.",
+  "history": "Three gold crowns on blue have been the arms of Munster since at least the sixteenth century and are also recorded as one of the medieval shields ascribed to Ireland (the 'three crowns' arms borne by the Lordship of Ireland under English suzerainty before the Tudor adoption of the harp).",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Munster",
+    "https://en.wikipedia.org/wiki/Munster"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "crown",
+      "count": 3,
+      "color": "yellow",
+      "arrangement": "row",
+      "position": "center",
+      "role": "the three crowns of Munster",
+      "symbolism": "three gold antique crowns arranged 2-and-1 (or in pale), the historic arms of the province; sometimes interpreted as referring to the three sub-kingdoms of Munster, or as the crown of the Lordship of Ireland."
+    }
   ]
 }

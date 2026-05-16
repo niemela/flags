@@ -1,7 +1,55 @@
 {
   "id": "UN",
-  "title": "United Nations",
+  "name": "United Nations",
   "type": [
-    "organization"
+    "intergovernmental"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "UN",
+    "wikidata": "Q42138"
+  },
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "peace"
+    },
+    {
+      "color": "white",
+      "symbolism": "the emblem (world map and olive branches)"
+    }
+  ],
+  "description": "A light-blue field bearing in white the official emblem of the United Nations: a polar azimuthal equidistant projection of the world map centred on the North Pole, surrounded by a wreath of two crossed olive branches.",
+  "history": "The emblem was designed by a team led by Donal McLaughlin of the U.S. Office of Strategic Services for the 1945 United Nations Conference on International Organization in San Francisco. The flag was adopted by the UN General Assembly on 20 October 1947 (Resolution 167(II)). The light-blue colour was chosen explicitly as 'the opposite of red, the war colour', symbolising peace.",
+  "periods": [
+    {
+      "start": "1947-10-20"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_United_Nations",
+    "https://www.un.org/en/about-us/un-emblem-and-flag"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue",
+      "symbolism": "peace, in opposition to the red of war; chosen by the UN to represent its peaceful purpose"
+    },
+    {
+      "type": "map",
+      "color": "white",
+      "position": "center",
+      "role": "azimuthal equidistant projection of the world centred on the North Pole",
+      "symbolism": "all the peoples and countries of the world; the projection extends to 60° south latitude, including all inhabited continents"
+    },
+    {
+      "type": "olive-branch",
+      "count": 2,
+      "color": "white",
+      "position": "center",
+      "role": "wreath of olive branches encircling the map",
+      "symbolism": "peace"
+    }
   ]
 }

@@ -1,8 +1,93 @@
 {
-  "id": "BY_1951-1991",
-  "title": "Belarus (1951-1991)",
+  "id": "BY_1991",
+  "name": "Byelorussian SSR (1951-1991)",
   "type": [
     "historical",
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q1054884"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Post-Soviet",
+    "Slavic"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the blood of patriots and the communist banner"
+    },
+    {
+      "color": "green",
+      "symbolism": "the forests and fields of Belarus"
+    },
+    {
+      "color": "white",
+      "symbolism": "background of the traditional Belarusian ornament"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the hammer, sickle and star — emblems of the workers and peasants under the leadership of the Communist Party"
+    }
+  ],
+  "description": "A horizontal red field with a green stripe across the lower third (2:1 ratio). At the hoist, a vertical band carries a traditional Belarusian red-on-white ornamental pattern. In the upper hoist, a gold hammer and sickle beneath a gold-bordered red five-pointed star.",
+  "history": "Adopted on 25 December 1951 to replace the earlier all-red Byelorussian SSR flag with one bearing a more distinctive Belarusian identity. The decorative band at the hoist is based on a 1917 embroidered rushnyk (ceremonial towel) by Matrena Markevich. The flag remained in use until 19 September 1991, when Belarus declared independence and adopted the white-red-white flag of the Belarusian People's Republic. After a 1995 referendum, a modified version of this Soviet-era flag (without the hammer-and-sickle and star, and with the ornament colours reversed to red-on-white) was readopted as the flag of the Republic of Belarus.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1951-12-25",
+      "end": "1991-09-19"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Byelorussian_Soviet_Socialist_Republic",
+    "https://en.wikipedia.org/wiki/Byelorussian_Soviet_Socialist_Republic"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ],
+      "symbolism": "red for the heroic past and the struggle for socialism; green for the forests and rich nature of Belarus"
+    },
+    {
+      "type": "hammer-and-sickle",
+      "count": 1,
+      "color": "gold",
+      "position": "upper-hoist",
+      "role": "Hammer and sickle",
+      "symbolism": "the alliance of industrial workers and peasants under socialism"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "gold",
+      "position": "upper-hoist",
+      "role": "Red star (outlined in gold)",
+      "symbolism": "the leading role of the Communist Party and the five continents of the international workers' movement"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "red",
+      "position": "hoist",
+      "role": "Belarusian national ornament",
+      "symbolism": "a vertical white-and-red traditional Belarusian decorative pattern at the hoist, distinguishing the Byelorussian SSR flag from other Soviet republic flags"
+    }
   ]
 }

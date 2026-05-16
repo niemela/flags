@@ -1,7 +1,53 @@
 {
   "id": "US-MO-jefferson-city",
-  "title": "Jefferson City, MO (United States)",
+  "name": "Jefferson City (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-MO",
+  "codes": {
+    "wikidata": "Q486868"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "10:13",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the upper half of the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the lower half of the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central roundel"
+    }
+  ],
+  "description": "A horizontally divided field, red over blue, with a white circular roundel containing the city seal at the centre.",
+  "history": "Used by the City of Jefferson, the capital of Missouri, founded in 1821 and named in honour of Thomas Jefferson.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jefferson_City,_Missouri"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "Seal of the City of Jefferson",
+      "symbolism": "The municipal seal of Jefferson City, capital of Missouri and named for U.S. President Thomas Jefferson."
+    }
   ]
 }

@@ -1,8 +1,83 @@
 {
   "id": "BR-PI",
-  "title": "Piauí (Brazil)",
-  "iso": "BR-PI",
+  "name": "Piaui (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-PI",
+    "wikidata": "Q42030"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the forests"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "wealth, especially mineral wealth"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the sky; field of the canton"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace; field of the star and the inscription"
+    }
+  ],
+  "description": "Thirteen equal horizontal stripes alternating green and yellow, with a blue canton in the upper hoist bearing a single white five-pointed star above the inscription 13 DE MARCO DE 1823.",
+  "history": "Adopted on 24 July 1922 by State Decree No. 1.050; the canton commemorates the Battle of Jenipapo of 13 March 1823, fought during the consolidation of Brazilian independence.",
+  "periods": [
+    {
+      "start": "1922-07-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Piau%C3%AD"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 13,
+      "symbolism": "Thirteen horizontal stripes alternating green and yellow, the colours of Brazil; the count recalls the thirteen original American colonies as a republican reference"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "position": "upper-hoist",
+      "symbolism": "Blue canton bearing a single white star and the date 13 March 1823",
+      "features": [
+        {
+          "type": "star",
+          "count": 1,
+          "points": 5,
+          "color": "white",
+          "position": "center",
+          "role": "single white five-pointed star",
+          "symbolism": "the State of Piaui"
+        },
+        {
+          "type": "glyph",
+          "color": "white",
+          "position": "bottom",
+          "role": "date",
+          "symbolism": "13 DE MARCO DE 1823, the date of the Battle of Jenipapo, in which Piaui forces fought for Brazilian independence"
+        }
+      ]
+    }
   ]
 }

@@ -1,8 +1,79 @@
 {
-  "id": "UA_1950-1991",
-  "title": "Ukraine (Soviet Union, 1950-1991)",
+  "id": "UA_1991",
+  "name": "Ukrainian SSR (1949–1991)",
   "type": [
     "historical",
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q161734"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Post-Soviet",
+    "Slavic"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the revolutionary struggle of the working class"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "in distinguishing the Ukrainian SSR; sometimes interpreted as Ukraine's natural beauty (skies and rivers)"
+    },
+    {
+      "color": "gold",
+      "symbolism": "a bright communist future"
+    }
+  ],
+  "description": "Two horizontal stripes — red over light blue — in a 2:1 ratio. In the upper hoist, a gold hammer crossed by a sickle surmounted by a gold-bordered red five-pointed star, all on the red field.",
+  "history": "Adopted by decree of the Presidium of the Supreme Soviet of the Ukrainian SSR on 21 November 1949, replacing earlier Ukrainian SSR flags that had used a plain red field with Cyrillic abbreviations of the republic's name. The new flag fitted into the broader 1947–1953 standardisation of Soviet republic flags: a red ground with the hammer, sickle and star (matching the all-Union flag) plus a coloured stripe distinguishing each republic — light blue in Ukraine's case. The flag was used until 24 August 1991, when Ukraine declared independence; it was formally replaced by the present blue-and-yellow Ukrainian flag on 28 January 1992.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1949-11-21",
+      "end": "1992-01-28"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Ukrainian_Soviet_Socialist_Republic",
+    "https://en.wikipedia.org/wiki/Ukrainian_Soviet_Socialist_Republic"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "light-blue"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ],
+      "symbolism": "red for the workers' revolution and the international communist movement; the light-blue lower stripe distinguishes the Ukrainian SSR from the all-Union flag"
+    },
+    {
+      "type": "hammer-and-sickle",
+      "color": "gold",
+      "position": "upper-hoist",
+      "symbolism": "the alliance of industrial workers (hammer) and peasantry (sickle) under Soviet socialism"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "Red Star with gold border",
+      "symbolism": "the ultimate triumph of communism on the five inhabited continents"
+    }
   ]
 }

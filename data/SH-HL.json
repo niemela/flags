@@ -1,8 +1,85 @@
 {
   "id": "SH-HL",
-  "title": "Saint Helena",
-  "iso": "SH-HL",
+  "name": "Saint Helena (Saint Helena, Ascension and Tristan da Cunha)",
   "type": [
     "subdivision"
+  ],
+  "parent": "SH",
+  "codes": {
+    "iso_3166_2": "SH-HL",
+    "wikidata": "Q34497"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field of the Blue Ensign and the sea around the island"
+    },
+    {
+      "color": "white",
+      "symbolism": "the Union Flag canton and details of the territorial coat of arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "the crosses of the Union Flag and details of the territorial arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "details of the territorial coat of arms"
+    },
+    {
+      "color": "green",
+      "symbolism": "the cliff and the Saint Helena plover (wirebird) on the arms"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the cliff face and rocky background of the arms"
+    },
+    {
+      "color": "black",
+      "symbolism": "outline details"
+    }
+  ],
+  "description": "A British Blue Ensign with the Union Flag in the upper hoist canton, defaced in the centre of the fly with the shield of arms of Saint Helena, showing a sailing ship passing a rocky coastline beneath a chief bearing the Saint Helena plover (wirebird).",
+  "history": "Saint Helena, settled by the English East India Company from 1659 and a Crown colony from 1834, adopted its current Blue Ensign with the territorial shield on 4 October 1984. The shield, granted by Queen Elizabeth II in 1984, depicts an East Indiaman sailing past the island's distinctive cliffs and the endemic wirebird (Charadrius sanctaehelenae), Saint Helena's national bird. The flag was retained when Saint Helena, Ascension and Tristan da Cunha was constituted as a single British Overseas Territory in 2009.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1984-10-04"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Saint_Helena",
+    "https://en.wikipedia.org/wiki/Saint_Helena"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the British Blue Ensign tradition for British Overseas Territories"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Flag, denoting Saint Helena's status as a British Overseas Territory"
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "position": "center-fly",
+      "role": "shield of arms of Saint Helena",
+      "symbolism": "the territorial shield: a three-masted East Indiaman ship sailing past a rocky cliff (representing the dramatic coastline of the island), with a Saint Helena plover (the 'wirebird', the island's national bird) standing on a green chief above. Recalls Saint Helena's role as a port of call for East India Company shipping."
+    }
   ]
 }

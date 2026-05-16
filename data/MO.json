@@ -1,8 +1,98 @@
 {
   "id": "MO",
-  "title": "Macao",
-  "iso": "MO",
+  "name": "Macao (China)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CN",
+  "codes": {
+    "iso_3166_1_alpha2": "MO",
+    "iso_3166_1_alpha3": "MAC",
+    "fifa": "MAC",
+    "ioc": "MAC",
+    "wikidata": "Q14773"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the territory and a new beginning"
+    },
+    {
+      "color": "white",
+      "symbolism": "the lotus flower, the bridge and the water"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the five stars representing the People's Republic of China"
+    }
+  ],
+  "description": "A green field bearing, in the centre, a white lotus with three blossoms above a stylised white bridge and white water, surmounted by an arc of five yellow five-pointed stars — one large star with four smaller stars curving above it.",
+  "history": "Adopted on 31 March 1993 by the Preparatory Committee for the Macao Special Administrative Region and hoisted on 20 December 1999, when Portugal transferred sovereignty over Macao to the People's Republic of China. The five-star arc directly echoes the flag of the PRC.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1999-12-20"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Macau"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green",
+      "symbolism": "green represents the lush flora of the territory and is also associated with hope and a new beginning under Chinese sovereignty"
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "center",
+      "role": "lotus flower (three blossoms)",
+      "symbolism": "the lotus, traditional emblem of Macao; the three blossoms represent the Macao Peninsula and the islands of Taipa and Coloane"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "Governador Nobre de Carvalho Bridge",
+      "symbolism": "the bridge linking the Macao Peninsula and Taipa, depicted in stylised form beneath the lotus"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "center",
+      "role": "stylised water",
+      "symbolism": "the sea, on which Macao depends and which surrounds the territory"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "size": "large",
+      "position": "center",
+      "role": "large central star above the lotus",
+      "symbolism": "the People's Republic of China"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "yellow",
+      "size": "small",
+      "position": "center",
+      "arrangement": "arc",
+      "role": "four smaller stars arrayed around the large star",
+      "symbolism": "echoing the five stars of the flag of the People's Republic of China, signalling Macao's status as a Special Administrative Region"
+    }
   ]
 }

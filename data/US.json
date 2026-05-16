@@ -1,8 +1,93 @@
 {
   "id": "US",
-  "title": "United States",
-  "iso": "US",
+  "name": "United States",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "US",
+    "iso_3166_1_alpha3": "USA",
+    "fifa": "USA",
+    "ioc": "USA",
+    "wikidata": "Q11696"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "10:19",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "hardiness and valour (per Charles Thomson's 1782 explanation of the related U.S. seal)"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and innocence"
+    },
+    {
+      "color": "navy",
+      "symbolism": "vigilance, perseverance and justice"
+    }
+  ],
+  "description": "Thirteen equal horizontal stripes alternating red (top and bottom) and white. In the upper hoist, a navy-blue canton bearing fifty white five-pointed stars arranged in nine offset horizontal rows of six and five stars (6-5-6-5-6-5-6-5-6).",
+  "history": "The basic stars-and-stripes design was prescribed by the Flag Resolution of the Second Continental Congress on 14 June 1777: thirteen alternating red and white stripes and thirteen white stars on a blue field. The Flag Act of 4 April 1818 fixed the stripes at thirteen and provided that a star be added for each new state on the 4th of July following admission. The current 50-star design was ordered by President Eisenhower on 21 August 1959 after Hawaii's admission and became official on 4 July 1960; it is the longest-used version of the U.S. flag. Designed by Robert G. Heft as a high-school project; selected from over 1,500 submissions.",
+  "variant": [
+    "civil",
+    "state",
+    "war",
+    "civil-ensign",
+    "state-ensign",
+    "naval-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1960-07-04"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_United_States",
+    "https://www.archives.gov/milestone-documents/flag-resolution"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 13,
+      "symbolism": "the thirteen original colonies that declared independence from Great Britain in 1776"
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "proportion": "2/5",
+      "role": "the union",
+      "symbolism": "the union of the states",
+      "features": [
+        {
+          "type": "star",
+          "count": 50,
+          "points": 5,
+          "color": "white",
+          "arrangement": "grid",
+          "rows": [
+            6,
+            5,
+            6,
+            5,
+            6,
+            5,
+            6,
+            5,
+            6
+          ],
+          "role": "the states",
+          "symbolism": "the fifty states of the Union; a new constellation"
+        }
+      ]
+    }
   ]
 }

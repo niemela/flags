@@ -1,8 +1,81 @@
 {
   "id": "US-NV",
-  "title": "Nevada (United States)",
-  "iso": "US-NV",
+  "name": "Nevada (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-NV",
+    "fips_state": "32",
+    "wikidata": "Q1227"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "grey",
+      "symbolism": "the silver of Nevada, the Silver State"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A solid cobalt-blue field. In the upper hoist quadrant a silver five-pointed star sits between two crossed sprays of sagebrush, with a gold scroll bearing the words 'Battle Born' above and the word 'Nevada' in silver below.",
+  "history": "Nevada's first state flag was adopted in 1905. The current design, by Louis Schellbach III, was the winning entry in a 1926 statewide contest and was adopted in 1929. A 1991 amendment moved the word 'Nevada' below the star to correct a longstanding discrepancy with the legal description.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1929"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Nevada"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "grey",
+      "position": "upper-hoist",
+      "role": "silver star",
+      "symbolism": "Nevada as the Silver State"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "the words 'Battle Born' on a gold scroll above the star",
+      "symbolism": "Nevada was admitted to the Union on 31 October 1864 during the American Civil War"
+    },
+    {
+      "type": "glyph",
+      "color": "grey",
+      "position": "upper-hoist",
+      "role": "the word 'Nevada' beneath the star"
+    },
+    {
+      "type": "wreath",
+      "count": 2,
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "two crossed sprays of sagebrush",
+      "symbolism": "the state flower"
+    }
   ]
 }

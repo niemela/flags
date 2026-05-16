@@ -1,8 +1,60 @@
 {
   "id": "BE",
-  "title": "Belgium",
-  "iso": "BE",
+  "name": "Belgium",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "BE",
+    "iso_3166_1_alpha3": "BEL",
+    "fifa": "BEL",
+    "ioc": "BEL",
+    "wikidata": "Q31"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "13:15",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "from the field of the arms of Brabant (and of Flanders and Namur)"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "from the gold lion of the arms of Brabant"
+    },
+    {
+      "color": "red",
+      "symbolism": "from the red claws and tongue of the lion of Brabant; the red lions of Hainaut, Limburg and Luxembourg"
+    }
+  ],
+  "description": "Three equal vertical stripes — black at the hoist, yellow in the middle, and red at the fly — in the unusual proportions 13:15, slightly taller than square.",
+  "history": "The Belgian colours were adopted from the arms of the Duchy of Brabant during the late 18th century — black, yellow and red cockades appeared in opposition to Austrian rule and were used in the 1789–1790 Brabant Revolution. After the start of the Belgian Revolution on 26 August 1830, insurgents at the Brussels city hall replaced the French tricolour with a horizontal red-yellow-black triband. Article 125 of the Constitution of 7 February 1831 fixed the national colours, and on 23 January 1831 the National Congress changed the layout from horizontal to vertical; the present hoist-to-fly order of black, yellow, red was settled on 12 October 1831.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1831-10-12"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Belgium"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "the colours of the historic Duchy of Brabant — a yellow lion with red claws and tongue on a black field — and through it of the wider Brabant Revolution against Austrian rule; vertical layout adopted in imitation of the French tricolour"
+    }
   ]
 }

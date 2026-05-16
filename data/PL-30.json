@@ -1,8 +1,60 @@
 {
   "id": "PL-30",
-  "title": "Greater Poland (Poland)",
-  "iso": "PL-30",
+  "name": "Greater Poland Voivodeship (Poland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "PL",
+  "codes": {
+    "iso_3166_2": "PL-30",
+    "wikidata": "Q54169"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the historic field of Greater Poland"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver of the Greater Polish eagle"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the eagle's crown, beak, and claws"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlines of the eagle"
+    }
+  ],
+  "description": "Red field charged at centre with the crowned silver eagle of Greater Poland.",
+  "history": "Adopted by the Greater Poland Voivodeship after its formation in 1999, restoring the medieval heraldic device of the historic region.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Greater_Poland_Voivodeship"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the historic field colour of Greater Poland"
+    },
+    {
+      "type": "eagle",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "the Greater Poland eagle, crowned, with golden beak and claws",
+      "symbolism": "the historic emblem of the Greater Poland region, the cradle of the Polish state"
+    }
   ]
 }

@@ -1,8 +1,54 @@
 {
   "id": "EU",
-  "title": "European Union",
-  "iso": "EU",
+  "name": "European Union",
   "type": [
-    "organization"
+    "intergovernmental"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "EU",
+    "wikidata": "Q7548"
+  },
+  "region": [
+    "Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the sky over Europe"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the stars; the people of Europe"
+    }
+  ],
+  "description": "A blue field with twelve gold five-pointed stars arranged in a circle (each star with one point upward) at the centre. The stars do not touch one another.",
+  "history": "Designed in 1955 by Arsène Heitz and Paul M. G. Lévy for the Council of Europe, which adopted it on 8 December 1955. The European Communities began using the same flag in 1985 (formally adopted by the European Council in Milan, June 1985), and it has served as the flag of the European Union since the EU's establishment by the Treaty of Maastricht in 1993. The number of stars is fixed at twelve and is unrelated to the number of member states.",
+  "periods": [
+    {
+      "start": "1955-12-08"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Europe",
+    "https://european-union.europa.eu/principles-countries-history/symbols/european-flag_en"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the sky of the Western world"
+    },
+    {
+      "type": "star",
+      "count": 12,
+      "points": 5,
+      "color": "gold",
+      "position": "center",
+      "arrangement": "circle",
+      "role": "circle of stars",
+      "symbolism": "ideals of unity, solidarity and harmony among the peoples of Europe; the number twelve is fixed (it does not vary with membership) and traditionally symbolises perfection and completeness"
+    }
   ]
 }

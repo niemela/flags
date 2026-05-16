@@ -1,8 +1,52 @@
 {
   "id": "CH",
-  "title": "Switzerland",
-  "iso": "CH",
+  "name": "Switzerland",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "CH",
+    "iso_3166_1_alpha3": "CHE",
+    "fifa": "SUI",
+    "ioc": "SUI",
+    "wikidata": "Q39"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "associated with the war banner of the Holy Roman Empire and the historical confederation"
+    },
+    {
+      "color": "white",
+      "symbolism": "the cross of Christianity"
+    }
+  ],
+  "description": "A square red field charged with a bold equal-armed white Greek cross at the centre, the arms of which are couped (i.e. they do not extend to the edges of the flag). The arms of the cross are one-sixth longer than they are wide.",
+  "history": "The white-on-red cross has served as the field sign of the Old Swiss Confederacy since the Battle of Laupen (1339). The square shape and equal-armed cross with arms one-sixth longer than wide were standardised in the 19th century: the cross was adopted as a federal coat of arms in 1815 and as the federal flag by the Federal Assembly on 12 December 1889. The Swiss flag and the flag of Vatican City are the only two square sovereign-state flags in current use. The Swiss naval ensign, used by Swiss-registered merchant ships on the high seas, is rectangular (2:3).",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1889-12-12"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Switzerland",
+    "https://www.admin.ch/gov/en/start/documentation/symbols-of-the-federation.html"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "red",
+      "cross": "white",
+      "symbolism": "Christianity; the cross has been a Swiss military emblem since at least the 14th century"
+    }
   ]
 }

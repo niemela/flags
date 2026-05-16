@@ -1,8 +1,102 @@
 {
   "id": "BR-PE",
-  "title": "Pernambuco (Brazil)",
-  "iso": "BR-PE",
+  "name": "Pernambuco (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-PE",
+    "wikidata": "Q40924"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the night sky"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace and faith"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed in the Pernambucan revolts"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "wealth and the sun"
+    },
+    {
+      "color": "green",
+      "symbolism": "agricultural wealth and hope"
+    }
+  ],
+  "description": "A blue upper field over a white lower field; the upper bears a single small yellow star above a tricoloured rainbow (red, yellow and green) and a yellow sun, while the white lower field is charged with a red Latin cross.",
+  "history": "Originally raised by the rebels of the 1817 Pernambucan Revolt against Portuguese rule; reused by the short-lived Confederation of the Equator in 1824, and adopted as the official flag of the State of Pernambuco by State Law No. 1.272 of 25 March 1917.",
+  "periods": [
+    {
+      "start": "1917-03-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Pernambuco"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        4,
+        3
+      ],
+      "symbolism": "Blue upper field for the heavens charged with a star, sun and rainbow; white lower field for peace bearing a red cross"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "top",
+      "size": "small",
+      "role": "single star above the rainbow",
+      "symbolism": "the star of liberty"
+    },
+    {
+      "type": "wave",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "rainbow arc",
+      "symbolism": "the rainbow as a sign of peace and reconciliation"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "rays": 16,
+      "role": "radiant sun",
+      "symbolism": "Pernambuco bathed in tropical sunlight"
+    },
+    {
+      "type": "greek-cross",
+      "count": 1,
+      "color": "red",
+      "position": "bottom",
+      "role": "Latin cross",
+      "symbolism": "the Catholic faith and Christian heritage of the captaincy"
+    }
   ]
 }

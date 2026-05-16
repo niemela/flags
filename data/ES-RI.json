@@ -1,8 +1,79 @@
 {
   "id": "ES-RI",
-  "title": "La Rioja (Spain)",
-  "iso": "ES-RI",
+  "name": "La Rioja (Spain)",
   "type": [
     "subdivision"
+  ],
+  "parent": "ES",
+  "codes": {
+    "iso_3166_2": "ES-RI",
+    "wikidata": "Q5727"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Iberian Peninsula",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "courage and the historic ties to Castile"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and the historic ties to Castile"
+    },
+    {
+      "color": "green",
+      "symbolism": "the vineyards and forests of La Rioja"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wine and the agricultural wealth of the region"
+    },
+    {
+      "color": "blue",
+      "symbolism": "details of the coat of arms (the Ebro river)"
+    },
+    {
+      "color": "black",
+      "symbolism": "outline details of the coat of arms"
+    }
+  ],
+  "description": "Four equal horizontal stripes of red, white, green, and yellow (top to bottom), with the coat of arms of La Rioja in the centre.",
+  "history": "Adopted by Law 1/1985 of 27 March of the Autonomous Community of La Rioja, after the region was constituted as an autonomous community in 1982. The four-stripe colour scheme was selected to combine the traditional Castilian red and white with the green of the vineyards and the gold of Riojan wine.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1985-03-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_La_Rioja_(Spain)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "green",
+        "yellow"
+      ],
+      "count": 4,
+      "symbolism": "Four horizontal stripes of red, white, green, and yellow, derived from the historic colours of the region: red and white for Castile, green for the Riojan vineyards, and yellow for the wine."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "coat of arms of La Rioja",
+      "symbolism": "the regional coat of arms, featuring a cross of Saint Millan above a representation of the Ebro river, recalling the foundation of the early Castilian language at the Monastery of San Millan de la Cogolla and the importance of the Ebro to the region."
+    }
   ]
 }

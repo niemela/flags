@@ -1,9 +1,74 @@
 {
-  "id": "ZA_1910-1928",
-  "title": "South Africa (1910-1928)",
-  "iso": "ZA",
+  "id": "ZA_1928",
+  "name": "Union of South Africa (1910–1928)",
   "type": [
     "historical",
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q1419178"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Southern Africa",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A British Red Ensign — solid red field with the Union Flag in the upper hoist canton — defaced in the centre of the fly with the coat of arms of the Union of South Africa, set in a white disc. The arms are quartered, displaying the four constituent colonies that united in 1910.",
+  "history": "Used following the formation of the Union of South Africa on 31 May 1910 from the British Cape Colony, Natal, the Orange River Colony, and the Transvaal. As with other British dominions, no distinct national flag was adopted at union; the British Red Ensign was used as the merchant ensign and the Blue Ensign with the Union arms as a government ensign, while the Union Flag itself served as the national flag on land. The arrangement remained controversial — Afrikaner nationalists pushed for a distinctly South African design — and was eventually replaced on 31 May 1928 by the orange-white-blue Prinsenvlag-derived flag with three small embedded historic flags on the central white stripe, ending nearly two decades of vlagstryd ('flag dispute').",
+  "variant": [
+    "civil-ensign"
+  ],
+  "status": "de-facto",
+  "periods": [
+    {
+      "start": "1910-05-31",
+      "end": "1928-05-31"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_South_Africa",
+    "https://en.wikipedia.org/wiki/Union_of_South_Africa",
+    "https://en.wikipedia.org/wiki/South_African_flag_debate"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the British Red Ensign, used by the Union of South Africa as a merchant ensign and unofficially as a national flag"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Flag, denoting the dominion's status within the British Empire"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center-fly",
+      "color": "white",
+      "role": "Coat of arms of the Union of South Africa within a white roundel",
+      "symbolism": "the four founding colonies of the Union — Cape Colony (Hope with anchor), Natal (two wildebeest), Orange River Colony (orange tree), Transvaal (trekking wagon) — quartered on a single shield"
+    }
   ]
 }

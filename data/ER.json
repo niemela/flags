@@ -1,8 +1,82 @@
 {
   "id": "ER",
-  "title": "Eritrea",
-  "iso": "ER",
+  "name": "Eritrea",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "ER",
+    "iso_3166_1_alpha3": "ERI",
+    "fifa": "ERI",
+    "ioc": "ERI",
+    "wikidata": "Q986"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Eastern Africa",
+    "Horn of Africa"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the blood shed in the long struggle for independence"
+    },
+    {
+      "color": "green",
+      "symbolism": "the country's agricultural economy and fertility"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the bounty of the sea (the Red Sea coast)"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the country's mineral wealth and the central olive wreath emblem"
+    }
+  ],
+  "description": "A red horizontal isosceles triangle whose base is the hoist edge and whose apex points toward the centre of the fly; the upper part of the field is green and the lower part is blue. Centred within the red triangle, toward the hoist, is a yellow emblem of an olive branch encircled by an olive wreath.",
+  "history": "Adopted on 24 May 1993, the day Eritrea formally gained independence from Ethiopia following a thirty-year war and a 1993 referendum. The basic shape and red-green-blue colours come from the flag of the Eritrean People's Liberation Front (EPLF). The yellow olive wreath alludes to the 1952 flag of the autonomous Eritrean region under the British-administered federation, which used an olive wreath (in green) on a light-blue UN-style field.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1993-05-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Eritrea"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "blue"
+      ],
+      "count": 2,
+      "symbolism": "a green band over a blue band; the red horizontal isosceles triangle (described as a charge) extends from the full hoist edge to a point at the centre of the fly, transforming the visual layout into three triangles. Design adopted from the flag of the Eritrean People's Liberation Front (EPLF), which led the independence war."
+    },
+    {
+      "type": "triangle",
+      "count": 1,
+      "color": "red",
+      "position": "hoist",
+      "role": "red horizontal triangle spanning the full hoist edge, apex at the fly",
+      "symbolism": "the blood shed in the long struggle for independence; the basic device of the EPLF flag"
+    },
+    {
+      "type": "olive-branch",
+      "count": 1,
+      "color": "yellow",
+      "position": "center-hoist",
+      "role": "olive wreath enclosing an upright olive branch",
+      "symbolism": "peace; adapted from the 1952–1962 Eritrean autonomous-region flag, which had carried a similar olive-wreath emblem in green on a light-blue field under the federation with Ethiopia"
+    }
   ]
 }

@@ -1,8 +1,98 @@
 {
   "id": "US-AR",
-  "title": "Arkansas (United States)",
-  "iso": "US-AR",
+  "name": "Arkansas (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-AR",
+    "fips_state": "05",
+    "wikidata": "Q1612"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A red field bearing a large white diamond outlined by a blue band; twenty-five white five-pointed stars are set into the blue border. Inside the diamond, the word 'ARKANSAS' runs horizontally in blue, with a single blue star above and three blue stars in a row below.",
+  "history": "Designed by schoolteacher Willie Kavanaugh Hocker for a 1912 contest sponsored by the Pine Bluff chapter of the Daughters of the American Revolution, originally to be presented to the USS Arkansas. Adopted as the state flag by the Arkansas General Assembly on 26 February 1913. The fourth blue star (above the word 'ARKANSAS', representing Confederate membership) was added in 1923, and the arrangement was finalised in 1924.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1913-02-26"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Arkansas"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "with white and blue, the colours of the United States flag"
+    },
+    {
+      "type": "lozenge",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "central white diamond, bordered in blue",
+      "symbolism": "the diamond shape signifies that Arkansas is the only U.S. state with a working diamond mine"
+    },
+    {
+      "type": "border",
+      "color": "blue",
+      "role": "blue border around the diamond"
+    },
+    {
+      "type": "star",
+      "count": 25,
+      "points": 5,
+      "color": "white",
+      "arrangement": "single",
+      "role": "twenty-five white stars on the blue diamond border",
+      "symbolism": "Arkansas was the 25th state admitted to the Union"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "the word 'ARKANSAS' across the centre of the diamond"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "blue",
+      "position": "center",
+      "role": "single blue star above the inscription",
+      "symbolism": "membership in the Confederate States of America"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "blue",
+      "arrangement": "row",
+      "position": "center",
+      "role": "three blue stars below the inscription",
+      "symbolism": "the three nations that have governed Arkansas (France, Spain, the United States) and Arkansas as the third state of the Louisiana Purchase"
+    }
   ]
 }

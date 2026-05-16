@@ -1,8 +1,80 @@
 {
   "id": "AR-P",
-  "title": "Formosa (Argentina)",
-  "iso": "AR-P",
+  "name": "Formosa (Argentina)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AR",
+  "codes": {
+    "iso_3166_2": "AR-P",
+    "wikidata": "Q44649"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "6:11",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the colours of the Argentine national flag and of the great rivers that frame the province"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity; the central white triangle echoing the geographic outline of Formosa"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the Sun of May; the nine departments of the province represented by nine stars"
+    },
+    {
+      "color": "green",
+      "symbolism": "the palms and forests of the Chaco and the agricultural wealth of the province"
+    }
+  ],
+  "description": "A celestial blue field with a large white inverted triangle reaching from the top edge nearly to the centre of the lower edge. Inside the upper part of the triangle, nine gold five-pointed stars are arranged in an arc, and along the lower edge of the field run two rows of stylised green palm-fronds.",
+  "history": "Adopted by provincial law 1283 on 24 March 2000 after a public competition, the flag was designed by Carlos Alberto Wilde. Its shapes evoke the geography of Formosa — a wedge between the Pilcomayo, Paraguay and Bermejo rivers — while the nine stars mark the province's departments and the green fringe represents the palms and forests of the Gran Chaco.",
+  "periods": [
+    {
+      "start": "2000-03-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Formosa_Province",
+    "https://es.wikipedia.org/wiki/Bandera_de_la_provincia_de_Formosa"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "a celestial-blue field charged with a white inverted triangle descending from the upper edge — read as a stylised representation of the province's geographical wedge between the rivers Pilcomayo, Paraguay and Bermejo"
+    },
+    {
+      "type": "triangle",
+      "count": 1,
+      "color": "white",
+      "position": "top",
+      "role": "central white wedge",
+      "symbolism": "an inverted equilateral triangle descending from the upper edge — read as a stylised silhouette of Formosa's territory between the rivers Pilcomayo, Paraguay and Bermejo"
+    },
+    {
+      "type": "star",
+      "count": 9,
+      "points": 5,
+      "color": "gold",
+      "arrangement": "arc",
+      "position": "center",
+      "role": "nine gold stars",
+      "symbolism": "the nine departments of Formosa Province"
+    },
+    {
+      "type": "palm",
+      "count": 14,
+      "color": "green",
+      "position": "bottom",
+      "role": "stylised palms / rivers",
+      "symbolism": "the palms and watercourses of the Chaco landscape"
+    }
   ]
 }

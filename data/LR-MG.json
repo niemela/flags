@@ -1,8 +1,70 @@
 {
   "id": "LR-MG",
-  "title": "Margibi (Liberia)",
-  "iso": "LR-MG",
+  "name": "Margibi County (Liberia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "LR",
+  "codes": {
+    "iso_3166_2": "LR-MG"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Two equal horizontal stripes — green over red — with the Liberian national flag forming a canton in the upper hoist. In the fly half, a circular emblem shows a stylised rubber tree against a blue sky and green ground, representing the rubber plantations for which Margibi is known.",
+  "history": "Margibi was created in 1985 from parts of Bong, Grand Bassa, and Montserrado counties; its flag follows the design pattern established for the original counties in 1965.",
+  "periods": [
+    {
+      "start": "1985"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Margibi_County",
+    "https://en.wikipedia.org/wiki/Flags_of_the_counties_of_Liberia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "red"
+      ],
+      "count": 2,
+      "symbolism": "agriculture (green) over the soil (red)"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "LR",
+      "proportion": "1/4",
+      "role": "the union",
+      "symbolism": "Margibi as part of the Republic of Liberia"
+    },
+    {
+      "type": "tree",
+      "color": "brown",
+      "position": "center-fly",
+      "role": "rubber tree",
+      "symbolism": "the rubber industry of Margibi (home of the Firestone plantation), shown within a green-and-blue roundel of land and sky"
+    }
   ]
 }

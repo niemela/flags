@@ -1,8 +1,95 @@
 {
   "id": "BR",
-  "title": "Brazil",
-  "iso": "BR",
+  "name": "Brazil",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "BR",
+    "iso_3166_1_alpha3": "BRA",
+    "fifa": "BRA",
+    "ioc": "BRA",
+    "wikidata": "Q155"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "originally the dynastic colour of the House of Braganza (Pedro I); popularly the country's forests and natural wealth"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "originally the dynastic colour of the House of Habsburg-Lorraine (Empress Maria Leopoldina); popularly Brazil's mineral wealth, particularly gold"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the sky over Rio de Janeiro at 08:30 on the morning of 15 November 1889 — the moment the Republic was proclaimed"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A green field charged with a large yellow rhombus (lozenge) inset from the edges; centred on the rhombus is a blue disc representing the celestial sphere, crossed by a curved white band inscribed with the national motto ORDEM E PROGRESSO in green capitals, and bearing 27 white five-pointed stars representing the constellations seen over Rio de Janeiro at the moment the Republic was proclaimed.",
+  "history": "Designed by Raimundo Teixeira Mendes, with input from Miguel Lemos, Manuel Pereira Reis and Décio Villares, the flag was adopted by Decree No. 4 of the Provisional Government on 19 November 1889 — four days after the Proclamation of the Republic — preserving the green-and-yellow lozenge of the Imperial flag (1822) but replacing the imperial arms with the celestial sphere and motto. The number of stars has been amended five times to track the creation of new states; the current 27-star configuration was set by Law 8,421 of 11 May 1992 following the elevation of Roraima, Amapá and Tocantins.",
+  "variant": [
+    "civil",
+    "state",
+    "war",
+    "civil-ensign",
+    "state-ensign",
+    "naval-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1992-05-11"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Brazil"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "field": "green",
+      "symbolism": "Auriverde — green field with a yellow rhombus (lozenge) bearing a blue celestial sphere; carries forward the Imperial colours of the House of Braganza (green) and the House of Habsburg-Lorraine (yellow) from the Empire of Brazil, reinterpreted on the establishment of the Republic"
+    },
+    {
+      "type": "lozenge",
+      "color": "yellow",
+      "position": "center",
+      "role": "rhombus (lozenge)",
+      "symbolism": "a yellow lozenge inherited from the Imperial flag, where it framed the imperial arms; on the imperial flag the lozenge was somewhat narrower (a true rhombus) — the dimensions were specified in the 1889 decree"
+    },
+    {
+      "type": "disc",
+      "color": "blue",
+      "position": "center",
+      "role": "celestial sphere",
+      "symbolism": "depicts the night sky over Rio de Janeiro at the moment of the proclamation of the Republic on 15 November 1889 (08:30 local time), as if seen from outside the celestial sphere"
+    },
+    {
+      "type": "star",
+      "count": 27,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "arrangement": "constellation-other",
+      "role": "the states and the Federal District",
+      "symbolism": "each star represents one of Brazil's 26 states plus the Federal District; the constellations depicted include the Southern Cross, Canis Major, Canis Minor, Hydra, Virgo, Scorpius and others; Spica (Alpha Virginis), the lone star above the band, represents the state of Pará north of the Equator"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "national motto",
+      "symbolism": "ORDEM E PROGRESSO ('Order and Progress'), inscribed on a white band across the celestial sphere; a positivist motto adapted from Auguste Comte's 'Love as a principle and order as the basis; progress as the goal'"
+    }
   ]
 }

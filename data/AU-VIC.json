@@ -1,8 +1,81 @@
 {
   "id": "AU-VIC",
-  "title": "Victoria (Australia)",
-  "iso": "AU-VIC",
+  "name": "Victoria (Australia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AU",
+  "codes": {
+    "iso_3166_2": "AU-VIC",
+    "wikidata": "Q36687"
+  },
+  "region": [
+    "Oceania",
+    "Australia and New Zealand",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field of the British Blue Ensign"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stars of the Southern Cross, also in the Union Jack"
+    },
+    {
+      "color": "red",
+      "symbolism": "the crosses of the Union Jack"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold St Edward's Crown above the Southern Cross"
+    }
+  ],
+  "description": "A blue British ensign with the Union Jack in the canton, the five-star Southern Cross constellation in the fly, and a gold St Edward's Crown above the cross.",
+  "history": "Adopted in 1877 as a colonial ensign and retained after Australian federation in 1901. The crown above the Southern Cross has changed with the reigning monarch's preferred crown design; the current St Edward's Crown was set in 1953 with the accession of Elizabeth II.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1953"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Victoria_(Australia)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "Based on the British Blue Ensign, the standard format for Australian state flags."
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Jack, signifying historic ties to the United Kingdom"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "color": "white",
+      "arrangement": "southern-cross",
+      "position": "center-fly",
+      "role": "the Southern Cross constellation",
+      "symbolism": "the constellation Crux, visible in the southern sky; the stars have 5, 6, 7, 7 and 8 points reflecting their relative brightness"
+    },
+    {
+      "type": "crown",
+      "count": 1,
+      "color": "yellow",
+      "position": "upper-fly",
+      "role": "St Edward's Crown above the Southern Cross",
+      "symbolism": "the Crown, denoting royal authority"
+    }
   ]
 }

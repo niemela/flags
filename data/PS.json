@@ -1,8 +1,76 @@
 {
   "id": "PS",
-  "title": "Palestine",
-  "iso": "PS",
+  "name": "Palestine",
   "type": [
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "iso_3166_1_alpha2": "PS",
+    "iso_3166_1_alpha3": "PSE",
+    "fifa": "PLE",
+    "ioc": "PLE",
+    "wikidata": "Q219060"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "MENA",
+    "Middle East",
+    "Levant",
+    "Arab World"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the Abbasid Caliphate (750-1258), and (in modern reading) the oppression suffered by the Arab and Palestinian people"
+    },
+    {
+      "color": "white",
+      "symbolism": "the Umayyad Caliphate (661-750), and a peaceful future"
+    },
+    {
+      "color": "green",
+      "symbolism": "the Fatimid Caliphate (909-1171), and the lush land of Palestine"
+    },
+    {
+      "color": "red",
+      "symbolism": "the Hashemite dynasty and the blood shed by Arab patriots; in the modern Palestinian context, the struggle and sacrifice of the people"
+    }
+  ],
+  "description": "Three equal horizontal bands — black, white, and green from top to bottom — with a red triangle issuing from the hoist over a third of the flag's length.",
+  "history": "The flag uses the colours of the 1916 Arab Revolt, originally designed by Sharif Hussein of Mecca. The Palestinian people first adopted these colours in their modern arrangement in the 1920s; the design was formally adopted by the Palestine Liberation Organisation in 1964 and proclaimed the flag of the State of Palestine on 15 November 1988 with the Palestinian Declaration of Independence in Algiers.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1964-05-28"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Palestine"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "symbolism": "the Pan-Arab colours, drawn from the 1916 Arab Revolt flag — black for the Abbasid Caliphate, white for the Umayyad Caliphate, green for the Fatimid Caliphate"
+    },
+    {
+      "type": "triangle",
+      "count": 1,
+      "color": "red",
+      "position": "hoist",
+      "role": "red triangle at the hoist",
+      "symbolism": "Recalls the red of the Hashemite dynasty that led the 1916 Arab Revolt; in the Palestinian context, it stands for the unity of the Arab people and the Palestinian struggle for self-determination."
+    }
   ]
 }

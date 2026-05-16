@@ -1,8 +1,78 @@
 {
   "id": "RU-PRI",
-  "title": "Primorsky Krai (Russia)",
-  "iso": "RU-PRI",
+  "name": "Primorsky Krai (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-PRI",
+    "wikidata": "Q4341"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "courage, sacrifice and victory"
+    },
+    {
+      "color": "white",
+      "symbolism": "the movement of Primorye forward to new heights"
+    },
+    {
+      "color": "blue",
+      "symbolism": "honesty, loyalty and the sea, on which the life of the region depends"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the Ussuri tiger"
+    },
+    {
+      "color": "black",
+      "symbolism": "the stripes of the Ussuri tiger"
+    }
+  ],
+  "description": "A field divided diagonally from upper fly to lower hoist by a narrow white stripe; the upper-hoist triangle is red and the lower-fly triangle is blue, with a golden walking Ussuri tiger placed in the upper-hoist red triangle.",
+  "history": "Adopted on 22 February 1995 by the Primorsky Krai Duma and reaffirmed by oblast law in 2003.",
+  "periods": [
+    {
+      "start": "1995-02-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Primorsky_Krai",
+    "https://en.wikipedia.org/wiki/Primorsky_Krai"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "direction": "bend-sinister",
+      "widths": [
+        12,
+        1,
+        12
+      ],
+      "symbolism": "the diagonal arrangement carries the white stripe upward and forward, symbolising the krai's continuing progress; the red triangle at the hoist and the blue triangle at the fly together echo the colours of the Russian flag without repeating its layout."
+    },
+    {
+      "type": "animal-other",
+      "count": 1,
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "Ussuri tiger",
+      "symbolism": "a golden walking Ussuri (Amur) tiger placed in the upper hoist; the tiger is the principal heraldic charge of the krai's coat of arms and the iconic native predator of the region."
+    }
   ]
 }

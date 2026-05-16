@@ -1,8 +1,82 @@
 {
   "id": "CA-NL",
-  "title": "Newfoundland and Labrador (Canada)",
-  "iso": "CA-NL",
+  "name": "Newfoundland and Labrador (Canada)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CA",
+  "codes": {
+    "iso_3166_2": "CA-NL",
+    "wikidata": "Q1957"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "snow and ice; the white field links to the field of the Royal Union Flag"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the sea, recalling Newfoundland's maritime heritage and the canton of the Union Flag"
+    },
+    {
+      "color": "red",
+      "symbolism": "the toil and effort of the people; the red triangles also recall the cross of Saint George"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "confidence in the future; the gold arrow recalls Newfoundland's heritage as a stepping stone to the New World"
+    }
+  ],
+  "description": "A white field with abstract heraldic devices: at the hoist, two blue triangles forming a stylised Union Jack; at the fly, two red triangles meeting at a central point and enclosing a yellow arrow that points toward the fly.",
+  "history": "The flag was designed by artist Christopher Pratt and adopted on 28 May 1980, replacing the British Union Flag, which had been the official flag of the province (and the former Dominion of Newfoundland) since 1931. The design draws together the Union Jack motif at the hoist (in blue), references to the indigenous Beothuk and Innu peoples, and a forward-pointing arrow representing the future.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1980-05-28"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Newfoundland_and_Labrador"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "field": "white",
+      "symbolism": "a stylised abstraction of the Union Flag, the Beothuk pendant, and a maple-leaf-style trident pointing toward the future"
+    },
+    {
+      "type": "triangle",
+      "count": 2,
+      "color": "blue",
+      "position": "hoist",
+      "role": "two blue triangles forming a stylised Union Jack at the hoist",
+      "symbolism": "the British heritage of Newfoundland and Labrador; recalling the Royal Union Flag, which served as Newfoundland's official flag from 1931 to 1980."
+    },
+    {
+      "type": "triangle",
+      "count": 2,
+      "color": "red",
+      "position": "fly",
+      "role": "two red triangles forming an arrow pointing toward the fly",
+      "symbolism": "the toil of the people and the future; one triangle represents Labrador (the mainland), the other Newfoundland (the island)."
+    },
+    {
+      "type": "triangle",
+      "count": 1,
+      "color": "yellow",
+      "position": "center-fly",
+      "role": "yellow arrow set within the red triangles, pointing to the fly",
+      "symbolism": "confidence in the future and the path forward; the device also evokes a trident, recalling Newfoundland's reliance on the fishery and the sea."
+    }
   ]
 }

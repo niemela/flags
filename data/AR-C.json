@@ -1,9 +1,60 @@
 {
   "id": "AR-C",
-  "title": "Buenos Aires (Argentina)",
-  "iso": "AR-C",
+  "name": "Buenos Aires, Autonomous City (Argentina)",
   "type": [
-    "subdivision",
-    "city"
+    "city",
+    "subdivision"
+  ],
+  "parent": "AR",
+  "codes": {
+    "iso_3166_2": "AR-C",
+    "wikidata": "Q1486"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "9:14",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the central stripe of the Argentine flag and the silver of the Rio de la Plata"
+    },
+    {
+      "color": "gold"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A plain white field bearing in the centre the multi-colour coat of arms of the City of Buenos Aires — an oval shield with an anchor flanked by two sailing ships, surmounted by a dove and a small Sun of May and surrounded by a green laurel-and-palm wreath.",
+  "history": "The flag was created by sculptor and journalist Aldo Mario Tablante and adopted on 24 October 1995 by Buenos Aires city ordinance 49.669 / decree 1788, ahead of the city's 1996 transition to autonomous-city status under the 1994 constitutional reform. It places the historic city coat of arms (granted by Philip IV of Spain in 1649 and standardised in its modern form by Hector Nava in 1923) on a plain white field.",
+  "periods": [
+    {
+      "start": "1995-10-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Buenos_Aires",
+    "https://es.wikipedia.org/wiki/Bandera_de_la_Ciudad_de_Buenos_Aires"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white",
+      "symbolism": "white recalls the central stripe of the Argentine national flag and the silver of the Rio de la Plata, on whose banks the city stands"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "coat of arms of the City of Buenos Aires",
+      "symbolism": "an oval shield bearing an anchor on wavy water with two ships and a dove in glory, surrounded by a laurel and palm wreath and surmounted by a small Sun of May — a 1923 design by Hector Nava based on a 1649 royal grant by King Philip IV; the anchor and ships allude to the city's role as a port, the dove to the Holy Spirit, and the wreath and sun to victory and liberty"
+    }
   ]
 }

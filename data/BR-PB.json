@@ -1,8 +1,62 @@
 {
   "id": "BR-PB",
-  "title": "Paraíba (Brazil)",
-  "iso": "BR-PB",
+  "name": "Paraiba (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-PB",
+    "wikidata": "Q40921"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field, recalling Paraiba's revolutionary tradition"
+    },
+    {
+      "color": "black",
+      "symbolism": "mourning for President-elect Joao Pessoa, assassinated in 1930"
+    }
+  ],
+  "description": "A horizontally divided flag, red over a black band along the bottom (one third), with the word NEGO in red capital letters on the black band.",
+  "history": "Adopted in 1930 and officially recognised by State Law No. 4.488 of 26 August 1965, mourning the assassinated governor-elect Joao Pessoa, whose telegrammed reply 'NEGO' to political demands became the symbol of resistance leading to the 1930 Brazilian Revolution.",
+  "periods": [
+    {
+      "start": "1930"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Para%C3%ADba"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "black"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ],
+      "symbolism": "A red field with a black band along the bottom bearing the single word NEGO in red capital letters"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "bottom",
+      "role": "state motto",
+      "symbolism": "NEGO ('I refuse'), Joao Pessoa's defiant 'no' to political pressure from the central government in 1930, the act that contributed to his assassination and to the 1930 revolution"
+    }
   ]
 }

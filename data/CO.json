@@ -1,8 +1,65 @@
 {
   "id": "CO",
-  "title": "Colombia",
-  "iso": "CO",
+  "name": "Colombia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "CO",
+    "iso_3166_1_alpha3": "COL",
+    "fifa": "COL",
+    "ioc": "COL",
+    "wikidata": "Q739"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the gold and natural wealth of Colombia"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the two oceans bordering the country and the rivers that traverse it"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed by the patriots in the struggle for independence"
+    }
+  ],
+  "description": "Three horizontal stripes — yellow on top occupying the upper half of the flag, blue and red each occupying a quarter below.",
+  "history": "The yellow-blue-red tricolour derives from the flag of Gran Colombia, designed by Francisco de Miranda and first hoisted on 12 March 1806 in the brig Leander off Jacmel, Haiti. The current 2:1:1 horizontal proportions were established by Decree of 26 November 1861 under President Tomás Cipriano de Mosquera. Ecuador and Venezuela use the same colours in equal stripes (with their own emblems) reflecting the shared Gran Colombian heritage.",
+  "variant": [
+    "civil"
+  ],
+  "periods": [
+    {
+      "start": "1861-11-26"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Colombia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        1
+      ],
+      "symbolism": "yellow for the abundance and richness of the Colombian land (gold), blue for the seas on the country's coasts and the rivers, red for the blood shed for independence"
+    }
   ]
 }

@@ -1,8 +1,75 @@
 {
   "id": "GT",
-  "title": "Guatemala",
-  "iso": "GT",
+  "name": "Guatemala",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "GT",
+    "iso_3166_1_alpha3": "GTM",
+    "fifa": "GUA",
+    "ioc": "GUA",
+    "wikidata": "Q774"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Central America",
+    "Latin America"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the Pacific Ocean and the Caribbean Sea between which the country lies; also justice and loyalty"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity, peace, and integrity"
+    },
+    {
+      "color": "green",
+      "symbolism": "the laurel and olive branches and the resplendent quetzal's plumage"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the scroll and detailing on the coat of arms"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the rifles and sword on the coat of arms"
+    }
+  ],
+  "description": "Three equal vertical stripes of light blue, white, and light blue (hoist to fly), with the national coat of arms centred on the white stripe.",
+  "history": "Adopted on 17 August 1871 after the Liberal Revolution under President Miguel Garcia Granados. The blue-white-blue pattern derives from the flag of the Federal Republic of Central America (1823-1841). The coat of arms was designed by Swiss artist Johann-Baptist Frener.",
+  "variant": [
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1871-08-17"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Guatemala"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "light-blue"
+      ],
+      "count": 3,
+      "symbolism": "the blue stripes represent Guatemala's geographic position between the Pacific and Atlantic oceans; the white stripe represents purity and integrity."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Guatemalan coat of arms",
+      "symbolism": "a resplendent quetzal (the national bird, symbol of liberty) atop a scroll inscribed 'LIBERTAD 15 DE SEPTIEMBRE DE 1821' (date of independence), over two crossed Remington rifles and two crossed swords, all wreathed in laurel branches representing victory."
+    }
   ]
 }

@@ -1,7 +1,46 @@
 {
   "id": "US-ID-boise",
-  "title": "Boise, ID (United States)",
+  "name": "Boise (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-ID",
+  "codes": {
+    "wikidata": "Q35775"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central seal device"
+    }
+  ],
+  "description": "A blue field bearing the white municipal seal of Boise at the centre, with stylised renderings of the Idaho State Capitol and local landmarks.",
+  "history": "Boise's flag follows the common American municipal pattern of a single-colour field charged with the city seal in white.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Boise,_Idaho"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Seal of the City of Boise",
+      "symbolism": "A white emblem depicting the Idaho State Capitol and stylised local landmarks, set within a circular border bearing the city's name; Boise is Idaho's capital and largest city."
+    }
   ]
 }

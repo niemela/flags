@@ -1,8 +1,85 @@
 {
   "id": "GI",
-  "title": "Gibraltar",
-  "iso": "GI",
+  "name": "Gibraltar (United Kingdom)",
   "type": [
     "subdivision"
+  ],
+  "parent": "GB",
+  "codes": {
+    "iso_3166_1_alpha2": "GI",
+    "iso_3166_1_alpha3": "GIB",
+    "fifa": "GIB",
+    "wikidata": "Q1410"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Iberian Peninsula",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the upper band — from the historic civic arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lower band and the castle — from the civic arms granted by Queen Isabella I of Castile in 1502"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden key beneath the castle — Gibraltar's epithet as 'the key' to the Mediterranean"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlines and details of the castle and key emblem"
+    }
+  ],
+  "description": "Two unequal horizontal stripes — white above (two-thirds the height) and red below (one-third) — with a red three-towered castle suspended a golden key in the centre, drawn from Gibraltar's historic civic arms.",
+  "history": "The flag was officially granted to Gibraltar by Royal Warrant of Queen Elizabeth II on 8 November 1982. It is a banner of the historic civic coat of arms originally granted to the city by Queen Isabella I of Castile on 10 July 1502, which was retained after the British capture of Gibraltar in 1704 and is one of very few non-British flags flown by a British Overseas Territory as its territorial flag.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1982-11-08"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Gibraltar"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ],
+      "symbolism": "the colours of the historic coat of arms granted to Gibraltar by the Catholic Monarchs in 1502 — a red castle on white"
+    },
+    {
+      "type": "building",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "three-towered castle",
+      "symbolism": "A red castle with three towers, the central tower taller, taken directly from the historic arms granted to Gibraltar by Queen Isabella I of Castile in 1502 — representing Gibraltar's strategic fortress role."
+    },
+    {
+      "type": "key",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "golden key hanging from the castle",
+      "symbolism": "A golden key suspended from the central tower of the castle — symbolising Gibraltar's status as the 'key to the Mediterranean', controlling the strait between the Atlantic Ocean and the Mediterranean Sea."
+    }
   ]
 }

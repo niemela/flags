@@ -1,8 +1,72 @@
 {
   "id": "LR-GP",
-  "title": "Gbarpolu (Liberia)",
-  "iso": "LR-GP",
+  "name": "Gbarpolu County (Liberia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "LR",
+  "codes": {
+    "iso_3166_2": "LR-GP"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Golden-yellow field with the Liberian national flag as a canton in the upper hoist; a white diamond shape stands at the centre of the field and a green flowering plant fills the lower-fly area.",
+  "history": "Gbarpolu was created in 2001 from territory taken from Lofa County; this flag follows the design pattern of the original counties' flags presented by President Tubman in 1965.",
+  "periods": [
+    {
+      "start": "2001"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gbarpolu_County",
+    "https://en.wikipedia.org/wiki/Flags_of_the_counties_of_Liberia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "LR",
+      "proportion": "1/4",
+      "role": "the union",
+      "symbolism": "Gbarpolu as part of the Republic of Liberia"
+    },
+    {
+      "type": "jewel",
+      "color": "white",
+      "position": "center",
+      "role": "diamond",
+      "symbolism": "the diamond mining for which Gbarpolu is known"
+    },
+    {
+      "type": "flower",
+      "color": "green",
+      "position": "lower-fly",
+      "role": "flora",
+      "symbolism": "the agricultural produce and forest flora of the county"
+    }
   ]
 }

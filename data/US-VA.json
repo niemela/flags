@@ -1,8 +1,63 @@
 {
   "id": "US-VA",
-  "title": "Virginia (United States)",
-  "iso": "US-VA",
+  "name": "Virginia (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-VA",
+    "fips_state": "51",
+    "wikidata": "Q1370"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "A deep blue field bearing the obverse of the Great Seal of Virginia — a white circular field with Virtus, in Amazonian dress, standing over a defeated tyrant — encircled by a wreath of Virginia creeper, with the word 'VIRGINIA' above and the motto 'SIC SEMPER TYRANNIS' below.",
+  "history": "The Great Seal of Virginia was designed in 1776 by a committee that included George Mason, George Wythe, Richard Henry Lee, and Robert Carter Nicholas; the artwork is attributed to George Wythe and the artist Pierre Eugene du Simitiere. The seal was placed on a blue field as a flag during the Civil War; the design was officially adopted as the state flag on 1 February 1950, with technical specifications further codified in later revisions.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1950-02-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Virginia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "the Great Seal of Virginia",
+      "symbolism": "Virtus, the Roman goddess of virtue and the spirit of the Commonwealth, dressed as an Amazon, stands triumphant over a fallen tyrant whose crown lies nearby; the motto 'SIC SEMPER TYRANNIS' ('Thus always to tyrants') appears below; encircled by a wreath of Virginia creeper and the words 'VIRGINIA' above"
+    }
   ]
 }

@@ -1,8 +1,62 @@
 {
   "id": "FO",
-  "title": "Faroe Islands",
-  "iso": "FO",
+  "name": "Faroe Islands (Denmark)",
   "type": [
     "subdivision"
+  ],
+  "parent": "DK",
+  "codes": {
+    "iso_3166_1_alpha2": "FO",
+    "iso_3166_1_alpha3": "FRO",
+    "fifa": "FRO",
+    "wikidata": "Q4628"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics"
+  ],
+  "aspect_ratio": "8:11",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "Merkið (the mark) — the foam of the sea breaking on the rocks and the bright sky over the islands"
+    },
+    {
+      "color": "red",
+      "symbolism": "the inner cross — also a symbol of Christianity and the historic colours of Norway and Denmark"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the fimbriation — the blue of the surrounding North Atlantic and the historic ties to the kingdom of Norway"
+    }
+  ],
+  "description": "A white field bearing a red Nordic cross fimbriated in blue, the cross shifted toward the hoist in the standard Nordic-cross arrangement. The flag is known in Faroese as Merkið.",
+  "history": "Designed in 1919 by Faroese students in Copenhagen — Jens Oliver Lisberg and his colleagues — the flag was first hoisted on 22 June 1919 in Fámjin, where the original is preserved. Recognised by the British during the Second World War (1940) when the Faroes were occupied while Denmark was under German occupation, it was officially adopted by the Faroes on 25 April 1940 (Flag Day, Flaggdagur). Recognised by the Danish government in 1948 with the granting of home rule.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1919-06-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Faroe_Islands"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "white",
+      "cross": "red",
+      "fimbriation": {
+        "color": "blue",
+        "around": "cross"
+      },
+      "symbolism": "a Nordic cross expressing the islands' Nordic identity and historic ties to the other Scandinavian nations"
+    }
   ]
 }

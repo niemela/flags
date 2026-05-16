@@ -1,7 +1,64 @@
 {
   "id": "US-PA-philadelphia",
-  "title": "Philadelphia, PA (United States)",
+  "name": "Philadelphia (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-PA",
+  "codes": {
+    "wikidata": "Q1345"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the azure of William Penn's family arms; also recalling the Delaware and Schuylkill rivers that frame the city"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of William Penn's arms and the city seal"
+    },
+    {
+      "color": "white",
+      "symbolism": "appearing in the central coat of arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "appearing in the central coat of arms"
+    }
+  ],
+  "description": "Three vertical stripes of light blue, yellow, and light blue (the central yellow stripe widest), charged at the centre with the coat of arms of the City of Philadelphia.",
+  "history": "Adopted by the City of Philadelphia on 1 March 1895; the design is based on the colours and arms of the Penn family. The flag is described in city ordinance as having three vertical stripes of azure, gold, and azure with the city's arms in the centre.",
+  "periods": [
+    {
+      "start": "1895-03-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Philadelphia"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "light-blue",
+        "yellow",
+        "light-blue"
+      ],
+      "count": 3,
+      "symbolism": "The blue and gold stripes are the colours of the city's coat of arms, themselves taken from the family arms of William Penn, founder of Pennsylvania."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Coat of arms of the City of Philadelphia",
+      "symbolism": "The city's coat of arms — a shield bearing a sailing ship in chief and a plough in base, supported by figures representing Liberty and Plenty (or Justice and Peace), with the motto 'Philadelphia Maneto' ('Let brotherly love endure'). Recalls the city's commercial and agricultural foundations and its founding by William Penn in 1682."
+    }
   ]
 }

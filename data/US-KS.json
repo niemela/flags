@@ -1,8 +1,80 @@
 {
   "id": "US-KS",
-  "title": "Kansas (United States)",
-  "iso": "US-KS",
+  "name": "Kansas (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-KS",
+    "fips_state": "20",
+    "wikidata": "Q1558"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A dark blue field bearing in the centre the Great Seal of Kansas. Above the seal is a sunflower with a green calyx, set on a small twisted gold-and-blue bar; below the seal is the word 'KANSAS' in gold capitals.",
+  "history": "Adopted as the state banner on 23 March 1925 (without the word 'KANSAS') and as the state flag on 30 March 1927. The word 'KANSAS' was added to the design in 1961 to make the flag more recognisable from a distance. The sunflower above the seal is the state flower; the seal itself, adopted in 1861, depicts the state's settler history.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1927-03-30"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Kansas"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "flower",
+      "count": 1,
+      "color": "yellow",
+      "position": "top",
+      "role": "sunflower with green calyx and a small twisted bar of gold and blue beneath it",
+      "symbolism": "the wild sunflower, Kansas's state flower"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "Great Seal of the State of Kansas",
+      "symbolism": "depicts a landscape with a rising sun, a settler's cabin, a man ploughing, a wagon train, buffalo pursued by Native American hunters, and a cluster of 34 stars representing Kansas as the 34th state; above is the motto 'AD ASTRA PER ASPERA' ('to the stars through difficulties')"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "the word 'KANSAS' in gold below the seal"
+    }
   ]
 }

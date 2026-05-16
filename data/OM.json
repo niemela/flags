@@ -1,8 +1,68 @@
 {
   "id": "OM",
-  "title": "Oman",
-  "iso": "OM",
+  "name": "Oman",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "OM",
+    "iso_3166_1_alpha3": "OMN",
+    "fifa": "OMA",
+    "ioc": "OMA",
+    "wikidata": "Q842"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "MENA",
+    "GCC",
+    "Arab World"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the historic colour of Oman; battles fought against foreign invaders and the colour of the Kharijite/Ibadi banner"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace, prosperity, and the Imam (the religious leader)"
+    },
+    {
+      "color": "green",
+      "symbolism": "the fertile Jebel Akhdar (Green Mountain) range and Islam"
+    }
+  ],
+  "description": "A vertical red band at the hoist (one-third of the flag's length) and, at the fly, three equal horizontal stripes — white, red, green from top to bottom. In the upper-hoist, on the red band, is the white national emblem of Oman: two crossed sabres overlaid by a khanjar in its sheath.",
+  "history": "Adopted on 17 December 1970, shortly after Sultan Qaboos bin Said came to power on 23 July 1970 and modernised the country, replacing the plain red flag of the Imamate that had been used until 1970. The white and green stripes were added to the historic red of Oman; before 1970 only red flags (sometimes plain, sometimes with the Al Said emblem) were used. The exact proportions of the stripes were modified in 1995, with the present proportions formalised on 25 April 1995.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1995-04-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Oman"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "field": "white",
+      "symbolism": "a vertical red bar at the hoist with three horizontal stripes (white, red, green) at the fly; red is the historic colour of Oman, white symbolises peace and prosperity, green represents the Jebel Akhdar mountains and fertility"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "national emblem of Oman (Khanjar and crossed swords)",
+      "symbolism": "two crossed sabres overlaid by a khanjar (the curved Omani dagger) in its sheath, joined by an ornamented belt; the emblem of the ruling Al Said dynasty since the mid-18th century, representing the historic weapons of the country"
+    }
   ]
 }

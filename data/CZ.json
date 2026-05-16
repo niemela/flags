@@ -1,8 +1,65 @@
 {
   "id": "CZ",
-  "title": "Czechia",
-  "iso": "CZ",
+  "name": "Czechia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "CZ",
+    "iso_3166_1_alpha3": "CZE",
+    "fifa": "CZE",
+    "ioc": "CZE",
+    "wikidata": "Q213"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "from the silver lion of the historic arms of Bohemia, on a red field"
+    },
+    {
+      "color": "red",
+      "symbolism": "from the red field of the historic arms of Bohemia"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the heraldic colours of Moravia and Slovakia, and the third pan-Slavic colour"
+    }
+  ],
+  "description": "Two equal horizontal stripes — white over red — with a blue isosceles triangle (pile) extending from the hoist to the centre of the flag.",
+  "history": "Designed by Jaroslav Kursa and adopted by Czechoslovakia on 30 March 1920, replacing the plain white-over-red bicolour of Bohemia (which proved indistinguishable from the Polish flag). The blue pile was added to incorporate the colours of Moravia and Slovakia and to distinguish the design internationally. After the dissolution of Czechoslovakia on 31 December 1992, the Czech Republic retained the Czechoslovak flag — in apparent contravention of Article 3 of the Czech-Slovak constitutional law on dissolution which forbade either successor from using the federal symbols — and the choice was confirmed by Article 14 of Constitutional Act No. 3/1993 Coll. Slovakia adopted a new flag of its own.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1920-03-30",
+      "end": "1939"
+    },
+    {
+      "start": "1945",
+      "end": "1992"
+    },
+    {
+      "start": "1993-01-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Czech_Republic"
+  ],
+  "features": [
+    {
+      "type": "pile",
+      "field": "white",
+      "pile": "blue",
+      "symbolism": "the white-and-red of the Czech (Bohemian) field; the blue triangle was added in 1920 to distinguish the Czechoslovak flag from the very similar Polish bicolour and to incorporate the colours of Moravia and Slovakia"
+    }
   ]
 }

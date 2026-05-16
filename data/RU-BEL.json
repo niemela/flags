@@ -1,8 +1,80 @@
 {
   "id": "RU-BEL",
-  "title": "Belgorod Oblast (Russia)",
-  "iso": "RU-BEL",
+  "name": "Belgorod Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-BEL",
+    "wikidata": "Q5263"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the chalk hills of Belgorod (whose name means 'white town') and purity"
+    },
+    {
+      "color": "green",
+      "symbolism": "the fertile fields and forests of the Central Black Earth Region"
+    },
+    {
+      "color": "red",
+      "symbolism": "the courage of the people and blood shed in defence of the homeland"
+    },
+    {
+      "color": "black",
+      "symbolism": "the rich black earth (chernozem) of the oblast"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the sky and waters depicted on the canton emblem"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of harvest and the canton emblem"
+    }
+  ],
+  "description": "A flag divided into four quarters — white at upper hoist, green at upper fly, red at lower hoist, and black at lower fly — with the oblast's coat of arms (a black eagle and a golden lion) charged on the white upper-hoist quarter.",
+  "history": "Adopted on 22 June 2000 by the Belgorod Oblast Duma. The four-colour cruciform design references the historic regimental colours of the Belgorod Infantry Regiment of the Imperial Russian Army.",
+  "periods": [
+    {
+      "start": "2000-06-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Belgorod_Oblast",
+    "https://en.wikipedia.org/wiki/Belgorod_Oblast"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "white",
+        "green",
+        "black",
+        "red"
+      ],
+      "symbolism": "the four colours represent the historic banners that fought on Belgorod soil: white for the chalk hills, green for the agricultural fields, red for the courage and blood shed in defence of the homeland, and black for the fertile black earth."
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "symbolism": "the white upper-hoist quarter bears the historic emblem of Belgorod.",
+      "features": [
+        {
+          "type": "coat-of-arms",
+          "role": "Belgorod Oblast emblem",
+          "symbolism": "a black eagle and a golden lion, drawn from the 1730 imperial coat of arms of the Belgorod Infantry Regiment, recalling the victory at the Battle of Poltava (1709)."
+        }
+      ]
+    }
   ]
 }

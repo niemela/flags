@@ -1,8 +1,86 @@
 {
   "id": "SZ",
-  "title": "Eswatini",
-  "iso": "SZ",
+  "name": "Eswatini",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "SZ",
+    "iso_3166_1_alpha3": "SWZ",
+    "fifa": "SWZ",
+    "ioc": "SWZ",
+    "wikidata": "Q1050"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Southern Africa",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "peace and stability"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the mineral resources of the country"
+    },
+    {
+      "color": "red",
+      "symbolism": "past battles"
+    },
+    {
+      "color": "black",
+      "symbolism": "the colours of the Nguni shield placed at the centre"
+    },
+    {
+      "color": "white",
+      "symbolism": "the hide of the Nguni shield and the spear-shafts"
+    }
+  ],
+  "description": "Five horizontal stripes of blue, yellow, red, yellow, and blue (the central red being broadest, the yellow stripes narrowest). Centred over the red stripe is a large Nguni ox-hide shield in black and white, laid horizontally across two crossed spears and a staff with tassels of widow-bird and lourie feathers.",
+  "history": "Adopted on 6 October 1968 following independence from the United Kingdom on 6 September 1968. The design originates in a military banner given by King Sobhuza II to the Swazi Pioneer Corps in 1941. The country was renamed from Swaziland to Eswatini in 2018, but the flag was retained.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1968-10-06"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Eswatini"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "red",
+        "yellow",
+        "blue"
+      ],
+      "count": 5,
+      "widths": [
+        3,
+        1,
+        8,
+        1,
+        3
+      ],
+      "symbolism": "the central red band represents past battles; the yellow stripes the mineral wealth of the country; the blue stripes peace and stability."
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "Nguni ox-hide shield (Emasotsha regiment shield)",
+      "symbolism": "a black-and-white Nguni ox-hide shield laid horizontally over two spears and a fighting staff (umgobho) decorated with feather tassels (injobo); represents protection of the kingdom."
+    }
   ]
 }

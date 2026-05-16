@@ -1,8 +1,90 @@
 {
   "id": "KM",
-  "title": "Comoros",
-  "iso": "KM",
+  "name": "Comoros",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "KM",
+    "iso_3166_1_alpha3": "COM",
+    "fifa": "COM",
+    "ioc": "COM",
+    "wikidata": "Q970"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Eastern Africa",
+    "Arab World",
+    "Francophonie"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "Mohéli (Mwali)"
+    },
+    {
+      "color": "white",
+      "symbolism": "Mayotte (Maore), claimed by Comoros but administered by France"
+    },
+    {
+      "color": "red",
+      "symbolism": "Anjouan (Ndzwani)"
+    },
+    {
+      "color": "blue",
+      "symbolism": "Grande Comore (Ngazidja)"
+    },
+    {
+      "color": "green",
+      "symbolism": "Islam, the religion of the great majority of Comorians"
+    }
+  ],
+  "description": "Four equal horizontal stripes — yellow, white, red, blue from top to bottom — with a green isoceles triangle along the hoist whose apex reaches the centre of the fly. Inside the green triangle are a white crescent (opening toward the fly) and four white five-pointed stars arranged vertically beside the crescent.",
+  "history": "Adopted on 23 December 2001 with the new constitution that established the Union of the Comoros and gave the four constituent islands greater autonomy. It is the seventh national flag since independence in 1975. The four-star, four-stripe design encodes the symbolic importance of all four islands — including Mayotte, which voted to remain a French overseas department in 1974 but is still claimed by the Comorian state.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "2001-12-23"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Comoros"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "four horizontal stripes — yellow, white, red, blue — each representing one of the four main islands of the archipelago, overlaid by a green hoist triangle containing a white crescent and four white stars representing Islam and the same four islands"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "hoist",
+      "role": "green hoist triangle (chief and base)",
+      "symbolism": "Islam"
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "hoist",
+      "role": "white crescent within the green triangle",
+      "symbolism": "Islam"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "white",
+      "position": "hoist",
+      "arrangement": "single",
+      "role": "four white five-pointed stars in a vertical column inside the green triangle, beside the crescent",
+      "symbolism": "the four main islands of the archipelago: Mohéli, Mayotte, Anjouan and Grande Comore (matching the four horizontal stripes)"
+    }
   ]
 }

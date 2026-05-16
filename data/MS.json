@@ -1,8 +1,83 @@
 {
   "id": "MS",
-  "title": "Montserrat",
-  "iso": "MS",
+  "name": "Montserrat (United Kingdom)",
   "type": [
     "subdivision"
+  ],
+  "parent": "GB",
+  "codes": {
+    "iso_3166_1_alpha2": "MS",
+    "iso_3166_1_alpha3": "MSR",
+    "fifa": "MSR",
+    "ioc": "MNT",
+    "wikidata": "Q13353"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the field of the British Blue Ensign"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltire and cross of the Union Flag canton; Erin's robe in the coat of arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross of St George and saltire of St Patrick in the Union Flag canton"
+    },
+    {
+      "color": "green",
+      "symbolism": "the field of the Montserrat coat of arms (the 'Emerald Isle of the Caribbean')"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the harp held by Erin in the coat of arms"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the cross and the figure of Erin"
+    }
+  ],
+  "description": "A British Blue Ensign — navy field with the Union Flag in the upper-hoist canton — defaced in the fly with the coat of arms of Montserrat: a woman in white (Erin / Hibernia) embracing a dark cross and holding a golden harp, on a green shield.",
+  "history": "Adopted on 10 April 1909 with subsequent minor revisions. Montserrat's distinctive coat of arms reflects its settlement by Irish Catholics from the early seventeenth century onwards.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1909-04-10"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Montserrat"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy",
+      "symbolism": "the field of the British Blue Ensign, denoting Montserrat's status as a British Overseas Territory"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "role": "Union Flag",
+      "symbolism": "Montserrat's status as a British Overseas Territory"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "fly",
+      "role": "coat of arms of Montserrat",
+      "symbolism": "Erin (the female personification of Ireland) holding a harp and embracing a Christian cross — a reference to the strong Irish heritage of Montserrat, which earned it the nickname 'Emerald Isle of the Caribbean'"
+    }
   ]
 }

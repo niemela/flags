@@ -1,8 +1,77 @@
 {
   "id": "BW",
-  "title": "Botswana",
-  "iso": "BW",
+  "name": "Botswana",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "BW",
+    "iso_3166_1_alpha3": "BWA",
+    "fifa": "BOT",
+    "ioc": "BOT",
+    "wikidata": "Q963"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Southern Africa",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "water — specifically rain, vital in this semi-arid country; reflected in the national motto Pula ('let there be rain')"
+    },
+    {
+      "color": "black",
+      "symbolism": "the majority black African population; together with white, the racial harmony of the people"
+    },
+    {
+      "color": "white",
+      "symbolism": "the white minority and other peoples; together with black, racial harmony and the stripes of the zebra (the national animal)"
+    }
+  ],
+  "description": "A light-blue field crossed horizontally by a wide black stripe in the centre, fimbriated above and below by narrow white stripes. The black-and-white centre evokes the markings of a zebra.",
+  "history": "Adopted on 30 September 1966, the day Botswana gained independence from the United Kingdom (formerly the Bechuanaland Protectorate). The colours and design were chosen specifically to contrast with the red-white-blue of neighbouring apartheid-era South Africa: blue and white instead of red, with the black-and-white centre symbolising racial harmony in deliberate opposition to apartheid.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1966-09-30"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Botswana"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "black",
+        "white",
+        "light-blue"
+      ],
+      "count": 5,
+      "widths": [
+        9,
+        1,
+        4,
+        1,
+        9
+      ],
+      "fimbriation": {
+        "color": "white",
+        "around": "stripes"
+      },
+      "symbolism": "the central black stripe with white fimbriation on a light-blue field represents the harmony and racial cooperation between the people of Botswana, echoing the stripes of the zebra"
+    }
   ]
 }

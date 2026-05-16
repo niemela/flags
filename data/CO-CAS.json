@@ -1,8 +1,56 @@
 {
   "id": "CO-CAS",
-  "title": "Casanare (Colombia)",
-  "iso": "CO-CAS",
+  "name": "Casanare (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-CAS",
+    "wikidata": "Q121289"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the blood and valour of the Llaneros in the wars of independence"
+    },
+    {
+      "color": "green",
+      "symbolism": "the vast llanos (plains) of Casanare and the hope of its people"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the petroleum and other natural wealth of the department, represented by a central sun"
+    }
+  ],
+  "description": "A flag divided diagonally from the upper hoist to the lower fly: the upper-hoist triangle red, the lower-fly triangle green, with a yellow eight-pointed sun at the centre.",
+  "history": "Casanare was created as an Intendancy and elevated to a department by the 1991 Constitution. Its flag combines the colours of the Llanos plains (green) and the patriot blood of the Llaneros (red), with a golden sun symbolising the petroleum wealth that drives the regional economy.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Casanare_Department",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Casanare.svg"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend",
+      "symbolism": "diagonal division evoking the boundary between the Llanos plains (green) and the Andean piedmont (red), with a central golden sun"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "points": 8,
+      "color": "yellow",
+      "position": "center",
+      "symbolism": "a golden sun standing for the petroleum wealth and the radiant warmth of the Llanos"
+    }
   ]
 }

@@ -1,8 +1,60 @@
 {
   "id": "PL-14",
-  "title": "Mazovia (Poland)",
-  "iso": "PL-14",
+  "name": "Masovian Voivodeship (Poland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "PL",
+  "codes": {
+    "iso_3166_2": "PL-14",
+    "wikidata": "Q54160"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the historic field colour of Masovia"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver of the Masovian eagle"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the eagle's beak, claws, and crown"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlines of the eagle"
+    }
+  ],
+  "description": "Red field charged at centre with the crowned silver eagle of Masovia.",
+  "history": "Adopted by the Masovian Voivodeship after its formation in 1999, restoring the medieval heraldic device of the Mazovian Piasts.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Masovian_Voivodeship"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the historic field colour of Masovia"
+    },
+    {
+      "type": "eagle",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Masovian white eagle, crowned, with golden beak and claws",
+      "symbolism": "the historic emblem of the Duchy of Masovia"
+    }
   ]
 }

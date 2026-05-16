@@ -1,7 +1,42 @@
 {
   "id": "US-IL-springfield",
-  "title": "Springfield, IL (United States)",
+  "name": "Springfield (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-IL",
+  "codes": {
+    "wikidata": "Q28203"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    }
+  ],
+  "description": "A white field charged at the centre with the civic emblem of Springfield in blue, red, and gold — featuring the Illinois State Capitol dome and references to Abraham Lincoln, with the city's name in lettering.",
+  "history": "Springfield has been the capital of Illinois since 1839 and is most famous as the long-time home of Abraham Lincoln. The municipal flag prominently features the Capitol dome and Lincoln associations central to the city's identity.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Springfield,_Illinois"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white",
+      "symbolism": "a plain white field as background for the city's emblem"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "Civic emblem of Springfield",
+      "symbolism": "The municipal emblem — incorporating the dome of the Illinois State Capitol (Springfield being the state capital), references to Abraham Lincoln (whose home, law office, and tomb are all in Springfield), and the city's name in lettering."
+    }
   ]
 }

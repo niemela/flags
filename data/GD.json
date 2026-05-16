@@ -1,8 +1,93 @@
 {
   "id": "GD",
-  "title": "Grenada",
-  "iso": "GD",
+  "name": "Grenada",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "GD",
+    "iso_3166_1_alpha3": "GRD",
+    "fifa": "GRN",
+    "ioc": "GRN",
+    "wikidata": "Q769"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "courage, vitality, and the desire for independence"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "warmth, wisdom, the sun, and the friendliness of the people"
+    },
+    {
+      "color": "green",
+      "symbolism": "the lush vegetation, agriculture and fertility of the islands"
+    }
+  ],
+  "description": "A red rectangular border surrounds an inner field divided by yellow diagonals into two yellow triangles (top and bottom) and two green triangles (hoist and fly). A central red disc bears a yellow five-pointed star; six more yellow stars sit on the red border (three top, three bottom). A small yellow nutmeg pod is placed on the green triangle at the hoist.",
+  "history": "Adopted on 7 February 1974, the day Grenada gained independence from the United Kingdom. The flag was designed by Anthony C. George.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1974-02-07"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Grenada"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "a red rectangular border encloses an inner field divided per-saltire into two yellow triangles (top and bottom) and two green triangles (hoist and fly); a red disc with a yellow star sits at the centre, six smaller yellow stars sit on the red border, and a yellow nutmeg pod is placed on the hoist green triangle"
+    },
+    {
+      "type": "disc",
+      "color": "red",
+      "position": "center",
+      "role": "central red disc",
+      "symbolism": "background for the central star, repeating the red of the border"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "central star",
+      "symbolism": "the capital, Saint George's"
+    },
+    {
+      "type": "star",
+      "count": 6,
+      "points": 5,
+      "color": "yellow",
+      "size": "small",
+      "position": "top",
+      "arrangement": "row",
+      "role": "six smaller stars on the red border (three on the top edge, three on the bottom)",
+      "symbolism": "the six original parishes of Grenada"
+    },
+    {
+      "type": "flower",
+      "count": 1,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "nutmeg pod on the inner field at the hoist",
+      "symbolism": "Grenada's nickname, the Isle of Spice, and its leading export, nutmeg"
+    }
   ]
 }

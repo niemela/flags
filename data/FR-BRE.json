@@ -1,8 +1,74 @@
 {
   "id": "FR-BRE",
-  "title": "Bretagne (France)",
-  "iso": "FR-BRE",
+  "name": "Brittany (France)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FR",
+  "codes": {
+    "iso_3166_2": "FR-BRE",
+    "wikidata": "Q327"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the five Gallo-speaking dioceses of historic Brittany"
+    },
+    {
+      "color": "white",
+      "symbolism": "the four Breton-speaking dioceses of historic Brittany; also the silver field of the historic ducal arms"
+    }
+  ],
+  "description": "Nine equal horizontal stripes alternating black and white (five black and four white, called the Gwenn-ha-du, 'white and black'), with a white canton in the upper hoist charged with eleven black ermine spots.",
+  "history": "Designed by the Breton nationalist Morvan Marchal in 1923 and modelled on the United States flag, with the stripes representing the historic dioceses of Brittany and the canton evoking the ducal ermine arms. It was suppressed during the Second World War for its association with Breton autonomism but has since become the universally recognised flag of Brittany, used by the Region and by Loire-Atlantique alike.",
+  "variant": [
+    "civil"
+  ],
+  "periods": [
+    {
+      "start": "1923"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Brittany"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "white"
+      ],
+      "count": 9,
+      "symbolism": "The nine alternating stripes represent the nine ancient bishoprics of Brittany: five black for the Gallo-speaking dioceses (Dol, Nantes, Rennes, Saint-Brieuc, and Saint-Malo) and four white for the Breton-speaking dioceses (Cornouaille/Quimper, Leon, Treguier, and Vannes)."
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "proportion": "1/4",
+      "symbolism": "The canton (called the franc-quartier in French) of plain ermine reproduces the historic arms of the Duchy of Brittany.",
+      "features": [
+        {
+          "type": "glyph",
+          "count": 11,
+          "color": "black",
+          "position": "center",
+          "arrangement": "grid",
+          "rows": [
+            4,
+            3,
+            4
+          ],
+          "role": "eleven ermine spots (mouchetures d'hermine) in a 4-3-4 arrangement",
+          "symbolism": "Ermine is the heraldic emblem of the medieval Duchy of Brittany, taken from the personal arms of the Montfort dukes from John IV in the 14th century. The ermine spots recall the ducal arms 'ermine plain'."
+        }
+      ]
+    }
   ]
 }

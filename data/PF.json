@@ -1,8 +1,85 @@
 {
   "id": "PF",
-  "title": "French Polynesia",
-  "iso": "PF",
+  "name": "French Polynesia (France)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FR",
+  "codes": {
+    "iso_3166_1_alpha2": "PF",
+    "iso_3166_1_alpha3": "PYF",
+    "wikidata": "Q30971"
+  },
+  "region": [
+    "Oceania",
+    "Polynesia",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the red stripes recall traditional Polynesian flags and the colour worn historically by Tahitian royalty"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central stripe bearing the territorial emblem"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the canoe and rays of the central emblem"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the blue of the sea on which the canoe sails"
+    },
+    {
+      "color": "orange",
+      "symbolism": "details of the central emblem"
+    }
+  ],
+  "description": "Three horizontal stripes — red (top), white (centre, double width), red (bottom) — with the territorial emblem at the centre of the white stripe: a double-hulled Polynesian outrigger canoe carrying five figures, sailing on stylised blue waves before a yellow rising sun.",
+  "history": "Adopted on 23 November 1984 (effective 4 December 1984), shortly after French Polynesia gained internal autonomy. The red-and-white stripe arrangement recalls the historical flag of the Kingdom of Tahiti (1822–1880). The official flag of the territory is the French Tricolore, but this local flag is widely flown and used in official territorial contexts.",
+  "variant": [
+    "civil"
+  ],
+  "periods": [
+    {
+      "start": "1984-11-23"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_French_Polynesia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ],
+      "symbolism": "the red and white stripes recall the traditional colours of the Polynesian people; the wider central white stripe carries the territorial emblem"
+    },
+    {
+      "type": "ship",
+      "position": "center",
+      "role": "double-hulled Polynesian outrigger canoe (pirogue)",
+      "symbolism": "the traditional double-hulled outrigger canoe of Polynesian navigation, with five figures aboard representing the five archipelagos of French Polynesia (Society Islands, Tuamotu, Marquesas, Gambier and Austral Islands), sailing on blue waves under a rising sun with golden rays"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "rays": 11,
+      "position": "center",
+      "role": "rising sun behind the canoe",
+      "symbolism": "the sun rising over the Pacific, source of life"
+    }
   ]
 }

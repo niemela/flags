@@ -1,8 +1,79 @@
 {
   "id": "ES-AN",
-  "title": "Andalusia (Spain)",
-  "iso": "ES-AN",
+  "name": "Andalusia (Spain)",
   "type": [
     "subdivision"
+  ],
+  "parent": "ES",
+  "codes": {
+    "iso_3166_2": "ES-AN",
+    "wikidata": "Q5783"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Iberian Peninsula",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "hope and the colour of the Umayyads of Cordoba; in Infante's account, also strength"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace, and the colour of the Almohads"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "details of the coat of arms"
+    },
+    {
+      "color": "blue",
+      "symbolism": "details of the coat of arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "details of the coat of arms"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlines of the coat of arms"
+    }
+  ],
+  "description": "Three equal horizontal stripes of green, white, and green, with the coat of arms of Andalusia centred on the white stripe.",
+  "history": "Designed by Blas Infante in 1918 and adopted by the Assembly of Ronda in 1933; recognised in the Statute of Autonomy of Andalusia in 1981 and confirmed by Law 3/1982 of 21 December.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1982-12-21"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Andalusia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "symbolism": "The white-between-green design (the Arbonaida) was associated by Andalusian nationalist Blas Infante with the colours of the Almohad and Umayyad dynasties that once ruled al-Andalus."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "coat of arms of Andalusia (Hercules between the two Pillars of Hercules, taming two lions, with the motto Andalucia por si, para Espana y la Humanidad)",
+      "symbolism": "Hercules, the Pillars at Gibraltar and Ceuta, and two tamed lions evoke the legendary founding of Cadiz and the strength of the Andalusian people; the motto means 'Andalusia for itself, for Spain and Humanity'."
+    }
   ]
 }

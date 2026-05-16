@@ -1,7 +1,58 @@
 {
   "id": "NO-12",
-  "title": "Hordaland (Norway, 1961-2020)",
+  "name": "Hordaland (Norway, 1961–2019)",
   "type": [
+    "historical",
     "subdivision"
+  ],
+  "parent": "NO",
+  "codes": {
+    "iso_3166_2": "NO-12",
+    "wikidata": "Q50629"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field of the county arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "gold (Or) for the axes"
+    }
+  ],
+  "description": "A red field charged with three gold battle-axes meeting at the centre in a pall arrangement, blades outward.",
+  "history": "Granted to Hordaland county on 12 May 1961. The arms derive from a medieval seal. The county was abolished on 1 January 2020 when it was merged with Sogn og Fjordane into the new Vestland county.",
+  "status": "historical",
+  "periods": [
+    {
+      "start": "1961-05-12",
+      "end": "2019-12-31"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hordaland",
+    "https://no.wikipedia.org/wiki/Hordaland_fylkesv%C3%A5pen"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "heraldic banner of the county arms: three gold battle-axes in pall on a red field, taken from a medieval seal of the Hordaland province"
+    },
+    {
+      "type": "axe",
+      "count": 3,
+      "color": "yellow",
+      "arrangement": "circle",
+      "position": "center",
+      "role": "battle-axes in pall",
+      "symbolism": "three Olav-axes meeting at the centre, drawn from a medieval seal associated with the historic Hordaland law-province"
+    }
   ]
 }

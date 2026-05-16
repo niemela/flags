@@ -1,8 +1,52 @@
 {
   "id": "JP-02",
-  "title": "Aomori (Japan)",
-  "iso": "JP-02",
+  "name": "Aomori Prefecture (Japan)",
   "type": [
     "subdivision"
+  ],
+  "parent": "JP",
+  "codes": {
+    "iso_3166_2": "JP-02",
+    "wikidata": "Q71101"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "purity and the snows of the north"
+    },
+    {
+      "color": "green",
+      "symbolism": "the forests and natural abundance of Aomori"
+    }
+  ],
+  "description": "A white field charged at the centre with a green stylised map of Aomori Prefecture, showing the characteristic two peninsulas around Mutsu Bay.",
+  "history": "Aomori's prefectural symbol was selected from a public design competition and adopted by prefectural notice on 16 August 1961, with the flag adopted alongside it. The mark is a stylised outline of the prefecture itself.",
+  "periods": [
+    {
+      "start": "1961-08-16"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aomori_Prefecture",
+    "https://en.wikipedia.org/wiki/Flag_of_Aomori_Prefecture"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "map",
+      "count": 1,
+      "color": "green",
+      "position": "center",
+      "role": "stylised outline of Aomori Prefecture",
+      "symbolism": "the geographic shape of Aomori, with its two peninsulas (Tsugaru and Shimokita) embracing Mutsu Bay; symbolises the prefecture's growth and development."
+    }
   ]
 }

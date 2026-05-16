@@ -1,8 +1,67 @@
 {
   "id": "RU-MUR",
-  "title": "Murmansk Oblast (Russia)",
-  "iso": "RU-MUR",
+  "name": "Murmansk Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-MUR",
+    "wikidata": "Q1759"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the seas of the Arctic and the polar sky"
+    },
+    {
+      "color": "red",
+      "symbolism": "the courage of the Kola Peninsula's people and the historic banners of Russia"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the aurora borealis (northern lights)"
+    }
+  ],
+  "description": "A blue field over a red base in 4:1 proportions, charged in the centre with a stylised golden aurora borealis radiating across the field.",
+  "history": "Adopted on 6 June 2004 by the Murmansk Oblast Duma.",
+  "periods": [
+    {
+      "start": "2004-06-06"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Murmansk_Oblast",
+    "https://en.wikipedia.org/wiki/Murmansk_Oblast"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        4,
+        1
+      ],
+      "symbolism": "blue stands for the Barents and White Seas and the Arctic sky; red for the courage of the people of the Kola Peninsula."
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 16,
+      "color": "yellow",
+      "position": "center",
+      "role": "aurora borealis",
+      "symbolism": "a stylised golden aurora borealis, the defining natural phenomenon of the Murmansk skies."
+    }
   ]
 }

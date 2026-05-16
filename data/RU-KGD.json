@@ -1,8 +1,77 @@
 {
   "id": "RU-KGD",
-  "title": "Kaliningrad Oblast (Russia)",
-  "iso": "RU-KGD",
+  "name": "Kaliningrad Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-KGD",
+    "wikidata": "Q1749"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:5",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the active human principle"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wealth of amber, for which the region is famous"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the Baltic Sea and tranquility"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver castle, standing for hospitality"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlines and the monogram on the castle"
+    }
+  ],
+  "description": "Three horizontal stripes - red on top, narrow yellow in the middle, dark blue at the bottom - with a silver stylized medieval castle bearing Empress Elizabeth Petrovna's monogram in the upper hoist.",
+  "history": "Adopted by law on 9 June 2006. The castle and monogram reference the brief Russian control of parts of the region under Empress Elizabeth Petrovna during the Seven Years' War.",
+  "periods": [
+    {
+      "start": "2006-06-09"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Kaliningrad_Oblast",
+    "https://en.wikipedia.org/wiki/Kaliningrad_Oblast"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        4,
+        1,
+        4
+      ],
+      "symbolism": "red for active human principle; yellow for the region's amber wealth; blue for the Baltic Sea and tranquility."
+    },
+    {
+      "type": "building",
+      "count": 1,
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "stylized medieval castle with monogram of Empress Elizabeth Petrovna",
+      "symbolism": "a silver-and-black stylized medieval castle with open gates (hospitality) bearing the monogram of Empress Elizabeth Petrovna, recalling the brief Russian control of the region during the Seven Years' War."
+    }
   ]
 }

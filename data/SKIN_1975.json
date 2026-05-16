@@ -1,9 +1,64 @@
 {
-  "id": "SKIN_1967-1975",
-  "title": "Sikkim (1967-1975)",
-  "iso": "SKIN",
+  "id": "SKIN_1975",
+  "name": "Sikkim (1967–1975)",
   "type": [
     "historical",
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "iso_3166_3": "SKIN",
+    "wikidata": "Q1075574"
+  },
+  "region": [
+    "Asia",
+    "Southern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "purity"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A white field within a red border, charged in the centre with a stylised version of the Buddhist khorlo (dharma wheel) surrounded by ritual ornaments and ribbon-work in red, yellow and blue.",
+  "history": "Adopted in 1967 as the state flag of the Kingdom of Sikkim under the Chogyal (king) Palden Thondup Namgyal. The design simplified an earlier 1962 flag, retaining the white field and red border but stylising the central religious emblem. Sikkim was a protectorate of India from 1950 and a Himalayan Buddhist kingdom; following the 1975 referendum that dethroned the Chogyal and merged Sikkim into India, the flag was retired on 16 May 1975 when Sikkim became the 22nd state of the Republic of India. ISO 3166-3 retains the code SKIN for the former kingdom.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1967",
+      "end": "1975-05-16"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kingdom_of_Sikkim",
+    "https://en.wikipedia.org/wiki/Sikkim"
+  ],
+  "features": [
+    {
+      "type": "bordure",
+      "field": "white",
+      "border": "red",
+      "symbolism": "the white field of purity and the red border drawn from the colours of the Buddhist khorlo (dharma wheel) and the kingdom's monastic Buddhist tradition"
+    },
+    {
+      "type": "wheel",
+      "color": "red",
+      "position": "center",
+      "role": "Khorlo (Buddhist dharma wheel) ringed by Buddhist symbols",
+      "symbolism": "the Buddhist Wheel of Dharma, central to Sikkimese Buddhism"
+    }
   ]
 }

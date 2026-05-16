@@ -1,8 +1,69 @@
 {
   "id": "RU-BA",
-  "title": "Bashkortostan (Russia)",
-  "iso": "RU-BA",
+  "name": "Bashkortostan (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-BA",
+    "wikidata": "Q5710"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Turkic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "clarity, virtue, and the noble thoughts of the peoples of Bashkortostan"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace, openness, and the willingness to cooperate"
+    },
+    {
+      "color": "green",
+      "symbolism": "freedom and eternal life"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the kurai flower and the wealth of the Bashkir land"
+    }
+  ],
+  "description": "A horizontal triband of blue, white and green of equal width, with a stylised golden seven-petalled kurai flower in the centre of the white stripe.",
+  "history": "Adopted on 25 February 1992 by the Supreme Soviet of the Republic of Bashkortostan. The design was created by Urail Masalimov; the kurai emblem and the seven petals are the same motif used on the republic's coat of arms.",
+  "periods": [
+    {
+      "start": "1992-02-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Bashkortostan",
+    "https://en.wikipedia.org/wiki/Bashkortostan"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "symbolism": "blue stands for clarity, virtue, and good thought of the peoples of the republic; white for peace, openness, and the readiness for cooperation; green for freedom and eternal life."
+    },
+    {
+      "type": "flower",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "kurai flower",
+      "symbolism": "a stylised kurai (a hogweed-like plant whose stem is used to make the Bashkir national flute); its seven petals represent the seven Bashkir clans who united to form the Bashkir people."
+    }
   ]
 }

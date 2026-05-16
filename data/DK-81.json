@@ -1,8 +1,58 @@
 {
   "id": "DK-81",
-  "title": "Nordjylland (Denmark)",
-  "iso": "DK-81",
+  "name": "Region Nordjylland (North Denmark Region)",
   "type": [
     "subdivision"
+  ],
+  "parent": "DK",
+  "codes": {
+    "iso_3166_2": "DK-81",
+    "wikidata": "Q26120"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the deep red of the regional logo, evoking the Danish flag and the region's identity"
+    },
+    {
+      "color": "white",
+      "symbolism": "the regional logotype 'Region Nordjylland'"
+    }
+  ],
+  "description": "A deep red field charged at the centre with the white wordmark logo 'Region Nordjylland'.",
+  "history": "Region Nordjylland was created on 1 January 2007 by the Danish Local Government Reform (Strukturreformen), which dissolved the previous counties and replaced them with five regions. The flag uses the region's official red-and-white visual identity.",
+  "variant": [
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2007-01-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Region_Nordjylland",
+    "https://en.wikipedia.org/wiki/Regions_of_Denmark"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Region Nordjylland logotype",
+      "symbolism": "the official wordmark of Region Nordjylland (the North Denmark Region), one of the five administrative regions established in the 2007 local-government reform"
+    }
   ]
 }

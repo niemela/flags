@@ -1,8 +1,65 @@
 {
   "id": "MA",
-  "title": "Morocco",
-  "iso": "MA",
+  "name": "Morocco",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "MA",
+    "iso_3166_1_alpha3": "MAR",
+    "fifa": "MAR",
+    "ioc": "MAR",
+    "wikidata": "Q1028"
+  },
+  "region": [
+    "Africa",
+    "Northern Africa",
+    "Maghreb",
+    "MENA",
+    "Arab World",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the Alaouite ruling dynasty and the descendants of the Prophet Muhammad; bravery, strength and valour"
+    },
+    {
+      "color": "green",
+      "symbolism": "the colour of Islam, peace, joy, wisdom, and hope"
+    }
+  ],
+  "description": "A red field with a centred green five-pointed star drawn as an open pentagram (interlaced lines forming a pentagonal void in the middle).",
+  "history": "The plain red flag of Morocco dates from at least the 17th century under the Alaouite dynasty. Sultan Yusef added the green pentagram on 17 November 1915 to distinguish the national flag from those of other red-flagged states; the design was retained at independence from France and Spain in 1956 and confirmed by Article 7 of the 2011 constitution.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1915-11-17"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Morocco"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the colour of the Alaouite dynasty and traditionally associated with sharifian descent from the Prophet Muhammad; also the colour of strength, bravery and valour"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "center",
+      "role": "Khatam Sulayman (Seal of Solomon)",
+      "symbolism": "the interlaced five-pointed star (pentagram) is the Seal of Solomon, an ancient symbol; the five points are popularly interpreted as representing the Five Pillars of Islam — faith, prayer, charity, fasting and pilgrimage"
+    }
   ]
 }

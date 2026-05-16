@@ -1,8 +1,53 @@
 {
   "id": "JP-34",
-  "title": "Hirosima (Japan)",
-  "iso": "JP-34",
+  "name": "Hiroshima Prefecture (Japan)",
   "type": [
     "subdivision"
+  ],
+  "parent": "JP",
+  "codes": {
+    "iso_3166_2": "JP-34",
+    "wikidata": "Q132226"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "maroon",
+      "symbolism": "the deep red of historic prosperity and the rising sun"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity, peace and the bright future of Hiroshima"
+    }
+  ],
+  "description": "A deep-red field charged at the centre with a white emblem stylising the katakana ヒ of the prefecture's name.",
+  "history": "Hiroshima's prefectural symbol was adopted on 1 July 1968 to mark the centenary of the Meiji restoration. The flag, with the white emblem on a maroon field, has been in use as the prefectural flag since the same year.",
+  "periods": [
+    {
+      "start": "1968-07-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hiroshima_Prefecture",
+    "https://en.wikipedia.org/wiki/Flag_of_Hiroshima_Prefecture"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "maroon",
+      "symbolism": "a deep red recalling the historic dye and prosperity of the prefecture"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Hiroshima prefectural emblem (stylised katakana ヒ)",
+      "symbolism": "a stylised katakana ヒ (hi) of 広島 (Hiroshima), enclosed in a circle representing harmony among the prefecture's people and the development of the region."
+    }
   ]
 }

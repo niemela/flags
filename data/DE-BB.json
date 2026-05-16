@@ -1,8 +1,69 @@
 {
   "id": "DE-BB",
-  "title": "Brandenburg (Germany)",
-  "iso": "DE-BB",
+  "name": "Brandenburg (Germany)",
   "type": [
     "subdivision"
+  ],
+  "parent": "DE",
+  "codes": {
+    "iso_3166_2": "DE-BB",
+    "wikidata": "Q1208"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the historic colours of Brandenburg"
+    },
+    {
+      "color": "white",
+      "symbolism": "the historic colours of Brandenburg"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "details of the eagle's beak, claws, and crown"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlines of the eagle"
+    }
+  ],
+  "description": "Two equal horizontal stripes of red over white, with the red eagle of Brandenburg charged on the centre.",
+  "history": "Adopted on 30 January 1991 by the re-established Land of Brandenburg following German reunification, restoring the historic red-and-white colours and the medieval red eagle. The state had been dissolved by the East German government in 1952 and reconstituted in 1990.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1991-01-30"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Brandenburg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "symbolism": "Red and white are the historic colours of the March of Brandenburg, taken from the red eagle on white that has been the territorial emblem since the medieval Margraviate."
+    },
+    {
+      "type": "eagle",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "Brandenburg red eagle (Roter Adler), displayed with golden beak, tongue, and claws",
+      "symbolism": "The red eagle has been the heraldic emblem of Brandenburg since the 12th century, used by the Ascanian margraves and continuously since."
+    }
   ]
 }

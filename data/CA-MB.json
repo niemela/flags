@@ -1,8 +1,79 @@
 {
   "id": "CA-MB",
-  "title": "Manitoba (Canada)",
-  "iso": "CA-MB",
+  "name": "Manitoba (Canada)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CA",
+  "codes": {
+    "iso_3166_2": "CA-MB",
+    "wikidata": "Q1948"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field, in the tradition of the British Red Ensign"
+    },
+    {
+      "color": "white",
+      "symbolism": "the field of the Union Flag canton and the bison's surroundings on the shield"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the Union Flag canton"
+    },
+    {
+      "color": "green",
+      "symbolism": "the green ground of the shield, on which the bison stands"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the bison, Manitoba's emblem"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "details of the cross of Saint George surround on the shield"
+    }
+  ],
+  "description": "A British Red Ensign defaced in the fly with the shield of arms of Manitoba: a red Cross of Saint George in chief and a bison standing on a rock on a green ground below.",
+  "history": "The flag was authorised by an Order in Council of Queen Elizabeth II on 11 October 1965 and proclaimed by the Manitoba legislature on 12 May 1966 as the province's official flag. The design retains the British Red Ensign with the provincial shield in the fly, in continuity with the long unofficial use of the Red Ensign as Canada's flag before 1965; Manitoba and Ontario both adopted such flags in response to Canada's 1965 adoption of the Maple Leaf flag.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1966-05-12"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Manitoba"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the British Red Ensign tradition retained for Manitoba's flag"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Flag, denoting Manitoba's place in the British Crown tradition"
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "position": "center-fly",
+      "role": "shield of arms of Manitoba (Cross of Saint George above a bison standing on a rock)",
+      "symbolism": "Manitoba's coat of arms, granted in 1905: the Cross of Saint George in chief recalling England, and below it a bison on green ground recalling Manitoba's prairie heritage."
+    }
   ]
 }

@@ -1,8 +1,81 @@
 {
   "id": "BI",
-  "title": "Burundi",
-  "iso": "BI",
+  "name": "Burundi",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "BI",
+    "iso_3166_1_alpha3": "BDI",
+    "fifa": "BDI",
+    "ioc": "BDI",
+    "wikidata": "Q967"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Eastern Africa",
+    "Francophonie"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the suffering of the nation in its struggle for independence"
+    },
+    {
+      "color": "green",
+      "symbolism": "hope for future development"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace"
+    }
+  ],
+  "description": "A field divided saltire-wise by a white cross into four triangles — red at top and bottom, green at hoist and fly. A central white disc bears three red six-pointed stars, each fimbriated in green, arranged in a triangle (one above, two below).",
+  "history": "Adopted on 28 June 1967 in its original form following the proclamation of the republic on 28 November 1966 (which abolished the monarchy of the Tutsi king Mwambutsa IV). The earlier 1962–1966 monarchical flag bore a karyenda drum and a sorghum plant; these were replaced by the three stars after the republic was founded. The proportions were changed from 2:3 to 3:5 in September 1982.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1982-09-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Burundi"
+  ],
+  "features": [
+    {
+      "type": "per-saltire",
+      "hoist": "green",
+      "top": "red",
+      "fly": "green",
+      "bottom": "red",
+      "fimbriation": {
+        "color": "white",
+        "around": "saltire"
+      },
+      "symbolism": "the white saltire crossing the field divides it into red and green triangles, representing the suffering and progress of the nation respectively, while white stands for peace"
+    },
+    {
+      "type": "circle",
+      "color": "white",
+      "position": "center",
+      "role": "central white disc",
+      "symbolism": "background for the three stars"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 6,
+      "color": "red",
+      "position": "center",
+      "role": "three six-pointed stars (red, edged in green) arranged in a triangle",
+      "symbolism": "the three words of the national motto — Unité, Travail, Progrès ('Unity, Work, Progress'); also said to represent the three main ethnic groups of Burundi: the Hutu, Tutsi and Twa"
+    }
   ]
 }

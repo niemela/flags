@@ -1,8 +1,70 @@
 {
   "id": "DE-MV",
-  "title": "Mecklenburg-Western Pomerania (Germany)",
-  "iso": "DE-MV",
+  "name": "Mecklenburg-Western Pomerania (Germany)",
   "type": [
     "subdivision"
+  ],
+  "parent": "DE",
+  "codes": {
+    "iso_3166_2": "DE-MV",
+    "wikidata": "Q1196"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "from the historic colours of Mecklenburg"
+    },
+    {
+      "color": "white",
+      "symbolism": "from the historic colours of Pomerania"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "from the historic colours of Mecklenburg"
+    },
+    {
+      "color": "red",
+      "symbolism": "from the historic colours of Mecklenburg and Pomerania"
+    }
+  ],
+  "description": "Five horizontal stripes: a wide ultramarine blue at the top, a white band, a narrow yellow band, another white band, and a wide red at the bottom.",
+  "history": "Adopted on 29 January 1991 by the re-established Land of Mecklenburg-Western Pomerania after German reunification. The civil flag uses only the colour stripes; the state flag adds the state coat of arms in the centre.",
+  "variant": [
+    "civil"
+  ],
+  "periods": [
+    {
+      "start": "1991-01-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Mecklenburg-Vorpommern"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "yellow",
+        "white",
+        "red"
+      ],
+      "count": 5,
+      "widths": [
+        4,
+        3,
+        1,
+        3,
+        4
+      ],
+      "symbolism": "Combines the historic colours of Mecklenburg (blue, yellow, red) with the white-and-red of Pomerania, brought together to represent the merged northern Land formed in 1990."
+    }
   ]
 }

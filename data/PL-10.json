@@ -1,8 +1,49 @@
 {
   "id": "PL-10",
-  "title": "Łódź (Poland)",
-  "iso": "PL-10",
+  "name": "Łódź Voivodeship (Poland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "PL",
+  "codes": {
+    "iso_3166_2": "PL-10",
+    "wikidata": "Q54158"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "from the historic colours of the region"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "from the historic colours of the region"
+    }
+  ],
+  "description": "Three equal vertical stripes of red, yellow, and red.",
+  "history": "Adopted by the Łódź Voivodeship after its formation in 1999.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA_Voivodeship"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "the heraldic colours of the Łódź region"
+    }
   ]
 }

@@ -1,8 +1,63 @@
 {
   "id": "NL-UT",
-  "title": "Utrecht (Netherlands)",
-  "iso": "NL-UT",
+  "name": "Utrecht (Netherlands)",
   "type": [
     "subdivision"
+  ],
+  "parent": "NL",
+  "codes": {
+    "iso_3166_2": "NL-UT",
+    "wikidata": "Q749"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "from the arms of the historic Bishopric of Utrecht"
+    },
+    {
+      "color": "white",
+      "symbolism": "from the arms of the historic Bishopric of Utrecht"
+    }
+  ],
+  "description": "Horizontally divided white over red, with a red canton in the upper hoist charged with a white cross.",
+  "history": "Adopted by the provincial states on 15 January 1952. The flag combines the per-pale red-and-white arms of the bishopric (rendered as horizontal halves) with the historic banner of the City of Utrecht in canton.",
+  "periods": [
+    {
+      "start": "1952-01-15"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Utrecht_(province)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "symbolism": "the red and white derive from the arms of the medieval Bishopric of Utrecht (per pale gules and argent), the territorial predecessor of the modern province"
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "proportion": "3/8",
+      "symbolism": "the red canton with a white cross is the historic banner of the city and bishopric of Utrecht",
+      "features": [
+        {
+          "type": "greek-cross",
+          "count": 1,
+          "color": "white",
+          "role": "the cross of Utrecht"
+        }
+      ]
+    }
   ]
 }

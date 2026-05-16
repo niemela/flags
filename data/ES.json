@@ -1,8 +1,82 @@
 {
   "id": "ES",
-  "title": "Spain",
-  "iso": "ES",
+  "name": "Spain",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "ES",
+    "iso_3166_1_alpha3": "ESP",
+    "fifa": "ESP",
+    "ioc": "ESP",
+    "wikidata": "Q29"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union",
+    "Iberian Peninsula"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "from the historic arms of Castile, León and Aragon"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "from the historic arms of Castile, León and Aragon"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "purple"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Three horizontal stripes — red over yellow over red — with the yellow stripe twice the height of each red stripe. The national coat of arms is placed on the yellow stripe, off-centred toward the hoist.",
+  "history": "The rojigualda was introduced as a naval ensign by Charles III on 28 May 1785 to make Spanish ships more easily distinguished at sea from the white Bourbon flags of other monarchies; the design was selected by the king from twelve proposals submitted by the navy minister, Antonio Valdés y Bazán. It was extended to land use in 1843 under Isabel II. The current coat of arms was established by Law 33/1981 on 5 October 1981, replacing the eagle of Saint John used during the Franco era and the early transition. Today the flag is governed by Law 39/1981 of 28 October 1981.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1981-12-19"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Spain"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ],
+      "symbolism": "the rojigualda; the gold and red of the historic arms of the Crown of Castile and the Crown of Aragon"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center-hoist",
+      "role": "Coat of arms of Spain",
+      "symbolism": "quartered shield combining the arms of Castile (gold castle on red), León (purple lion on white), Aragon (gold and red pales) and Navarre (gold chains on red), with Granada (a pomegranate) at the base; the Pillars of Hercules with the motto PLVS VLTRA flank the shield, and the central inescutcheon bears the fleur-de-lis of the House of Bourbon, surmounted by the Royal Crown"
+    }
   ]
 }

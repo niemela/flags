@@ -1,8 +1,74 @@
 {
   "id": "CW",
-  "title": "Curaçao",
-  "iso": "CW",
+  "name": "Curaçao",
   "type": [
-    "subdivision"
+    "country"
+  ],
+  "parent": "NL",
+  "codes": {
+    "iso_3166_1_alpha2": "CW",
+    "iso_3166_1_alpha3": "CUW",
+    "wikidata": "Q25279"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the sky above Curacao (upper field) and the Caribbean Sea (lower field)"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bright sun shining on the island, evoked by the narrow horizontal stripe"
+    },
+    {
+      "color": "white",
+      "symbolism": "the two stars representing Curacao and its small dependency Klein Curacao, and peace and happiness"
+    }
+  ],
+  "symbolism": null,
+  "description": "A blue field with a narrow horizontal yellow stripe below centre, and two white five-pointed stars (one larger, one smaller) in the upper hoist.",
+  "history": "Adopted on 2 July 1984, when Curacao was an island territory within the Netherlands Antilles. It was retained as the national flag when Curacao became a separate constituent country of the Kingdom of the Netherlands on 10 October 2010, following the dissolution of the Netherlands Antilles. The design was the winning entry by Martin den Dulk in a public competition.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1984-07-02"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Cura%C3%A7ao"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        5,
+        1,
+        2
+      ],
+      "symbolism": "the upper blue field represents the sky, the lower blue the sea; the narrow yellow stripe between them represents the bright sun shining on Curacao"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "two five-pointed stars",
+      "symbolism": "the larger star represents Curacao, the smaller represents its uninhabited dependency Klein Curacao; the five points represent the five continents from which Curacao's people originate"
+    }
   ]
 }

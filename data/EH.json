@@ -1,8 +1,86 @@
 {
   "id": "EH",
-  "title": "Western Sahara",
-  "iso": "EH",
+  "name": "Western Sahara (Sahrawi Arab Democratic Republic)",
   "type": [
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "iso_3166_1_alpha2": "EH",
+    "iso_3166_1_alpha3": "ESH",
+    "wikidata": "Q6250"
+  },
+  "region": [
+    "Africa",
+    "Northern Africa",
+    "Maghreb",
+    "MENA",
+    "Arab World"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the Abbasid caliphate; mourning for those killed in the struggle for independence"
+    },
+    {
+      "color": "white",
+      "symbolism": "the Umayyad caliphate; peace"
+    },
+    {
+      "color": "green",
+      "symbolism": "the Fatimid caliphate; Islam"
+    },
+    {
+      "color": "red",
+      "symbolism": "the Hashemite dynasty; the blood shed for liberation"
+    }
+  ],
+  "description": "Three equal horizontal stripes of black (top), white and green, with a red equilateral triangle at the hoist. A red crescent and five-pointed star are centred on the white stripe.",
+  "history": "Adopted by the Polisario Front on 27 February 1976, the day the Sahrawi Arab Democratic Republic was proclaimed following Spain's withdrawal from Spanish Sahara. The design closely mirrors the Pan-Arab colour scheme used by other Arab liberation movements (Palestine, Jordan, Sudan, Ba'athist flags). The territory's status remains disputed: most of Western Sahara is administered by Morocco, while the SADR controls a smaller eastern strip and is recognised by a number of states and the African Union.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1976-02-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Sahrawi_Arab_Democratic_Republic"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "symbolism": "the Pan-Arab colours used across the Arab world; black, white and green together with red recall the four traditional caliphal dynasties"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "hoist triangle",
+      "symbolism": "the blood shed by the Sahrawi people in the struggle for independence"
+    },
+    {
+      "type": "crescent",
+      "color": "red",
+      "position": "center",
+      "symbolism": "Islam, the religion of the Sahrawi people"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "center",
+      "symbolism": "Islam and the unity of the Arab nation"
+    }
   ]
 }

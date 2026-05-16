@@ -1,8 +1,75 @@
 {
   "id": "BA",
-  "title": "Bosnia and Herzegovina",
-  "iso": "BA",
+  "name": "Bosnia and Herzegovina",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "BA",
+    "iso_3166_1_alpha3": "BIH",
+    "fifa": "BIH",
+    "ioc": "BIH",
+    "wikidata": "Q225"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "neutrality, peace and association with Europe (EU/UN/Council of Europe blue)"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the sun, hope and the natural beauty of the country; the triangle's three points represent the country's three constituent peoples (Bosniaks, Croats and Serbs)"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace; the seven full and two half stars suggest continuity with Europe"
+    }
+  ],
+  "description": "A blue field with a yellow right-angled isosceles triangle along the top edge, its hypotenuse running diagonally from upper-fly to lower-hoist; a row of seven full and two half white five-pointed stars runs along this diagonal, the top and bottom stars being cut off by the edges of the flag.",
+  "history": "Adopted on 4 February 1998 to replace the previous flag (a white field with the medieval blue shield of the Kotromanić dynasty and the fleurs-de-lis), which had become identified with the Bosniak side during the 1992–1995 war. The neutral design was imposed by High Representative Carlos Westendorp after the country's parliament could not agree on a flag, with the deliberate use of pan-European blue and gold (echoing the EU flag) chosen to be acceptable to all three constituent peoples.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1998-02-04"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Bosnia_and_Herzegovina"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "neutrality and peace; deliberately echoes the blue of the European Union and the United Nations"
+    },
+    {
+      "type": "triangle",
+      "count": 1,
+      "color": "yellow",
+      "position": "top",
+      "role": "yellow right triangle",
+      "symbolism": "the three points represent the three constituent peoples — Bosniaks, Croats and Serbs — and the triangle as a whole evokes the rough triangular shape of the country on the map"
+    },
+    {
+      "type": "star",
+      "count": 9,
+      "points": 5,
+      "color": "white",
+      "arrangement": "row",
+      "rotation": 45,
+      "role": "stars along the hypotenuse",
+      "symbolism": "Europe and the European character of Bosnia and Herzegovina; the row is shown extending beyond the field, the two end stars being cut off, to suggest infinite continuity"
+    }
   ]
 }

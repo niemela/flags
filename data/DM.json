@@ -1,8 +1,101 @@
 {
   "id": "DM",
-  "title": "Dominica",
-  "iso": "DM",
+  "name": "Dominica",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "DM",
+    "iso_3166_1_alpha3": "DMA",
+    "fifa": "DMA",
+    "ioc": "DMA",
+    "wikidata": "Q784"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the lush vegetation and forests of Dominica"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the sunshine, the country's main agricultural products (citrus and bananas), and the Carib (Kalinago) people, the original inhabitants"
+    },
+    {
+      "color": "black",
+      "symbolism": "the rich black soil of the island and Dominicans of African descent"
+    },
+    {
+      "color": "white",
+      "symbolism": "the rivers and waterfalls of the island and the purity of aspirations"
+    },
+    {
+      "color": "red",
+      "symbolism": "the central red disc represents social justice"
+    },
+    {
+      "color": "purple",
+      "symbolism": "the body of the sisserou parrot"
+    }
+  ],
+  "description": "A green field crossed by three narrow stripes — yellow, black and white — running vertically and horizontally to form a centred Greek-cross pattern. At the intersection is a red disc bearing a sisserou parrot in left-facing profile, encircled by ten five-pointed green stars.",
+  "history": "Adopted on 3 November 1978 when Dominica gained independence from the United Kingdom. Designed by Alwin Bully, the flag has been amended three times — in 1981, 1988 and 1990 — chiefly to refine the colours and orientation of the parrot. The 1990 revision standardised the current arrangement: the parrot now faces the hoist (its left), the stars are bordered in green, and the red disc bears the parrot directly without a yellow inner border. Dominica is one of very few nations whose flag depicts a specifically national bird species.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1990"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Dominica"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "field": "green",
+      "symbolism": "a green field charged with a centred cross of three thin stripes (yellow, black, white) and a red disc at the centre bearing a sisserou parrot encircled by ten green stars"
+    },
+    {
+      "type": "greek-cross",
+      "color": "yellow",
+      "position": "center",
+      "role": "vertical and horizontal cross of three colours",
+      "symbolism": "the cross — formed of three thin stripes, yellow, black and white in succession — represents the Trinity and the Christian faith of the people; the three arms of the cross meet to form a Greek cross extending to the edges of the field"
+    },
+    {
+      "type": "disc",
+      "color": "red",
+      "position": "center",
+      "role": "central red disc",
+      "symbolism": "social justice"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "purple",
+      "position": "center",
+      "role": "sisserou parrot (Amazona imperialis)",
+      "symbolism": "the national bird, found only on Dominica; symbolising flight toward greater heights and the fulfilment of aspiration. It is one of only two national flags in the world to feature the colour purple prominently"
+    },
+    {
+      "type": "star",
+      "count": 10,
+      "points": 5,
+      "color": "green",
+      "arrangement": "circle",
+      "position": "center",
+      "role": "ring of ten stars around the parrot",
+      "symbolism": "the ten parishes of Dominica, all with equal status; the green border around each star ties them to the national colour"
+    }
   ]
 }

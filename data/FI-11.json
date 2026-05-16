@@ -1,8 +1,49 @@
 {
   "id": "FI-11",
-  "title": "Pirkanmaa (Finland)",
-  "iso": "FI-11",
+  "name": "Pirkanmaa (Finland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FI",
+  "codes": {
+    "iso_3166_2": "FI-11",
+    "wikidata": "Q5786"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the golden field of the regional arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "the red embattled chief and charges of the arms"
+    }
+  ],
+  "description": "A square yellow flag with a red embattled (castle-wall) upper section, the heraldic banner of the Pirkanmaa regional coat of arms.",
+  "history": "Pirkanmaa became a region under Finland's 1997 administrative reform; its banner is the heraldic flag of the regional coat of arms, the embattled chief recalling the medieval Pirkkala parish.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pirkanmaa",
+    "https://fi.wikipedia.org/wiki/Pirkanmaan_lippu"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "arms of Pirkanmaa",
+      "symbolism": "a red embattled chief evoking the medieval Birkkala/Pirkkala parish and its long-distance traders (pirkkamiehet) who held northern trapping rights from the Crown."
+    }
   ]
 }

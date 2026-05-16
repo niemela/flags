@@ -1,8 +1,70 @@
 {
   "id": "MT",
-  "title": "Malta",
-  "iso": "MT",
+  "name": "Malta",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "MT",
+    "iso_3166_1_alpha3": "MLT",
+    "fifa": "MLT",
+    "ioc": "MLT",
+    "wikidata": "Q233"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the white of the Order of Saint John's eight-pointed cross"
+    },
+    {
+      "color": "red",
+      "symbolism": "the red field of the Order of Saint John's flag"
+    },
+    {
+      "color": "grey",
+      "symbolism": "the silver of the George Cross"
+    }
+  ],
+  "description": "A vertical bicolour of white at the hoist and red at the fly. Centred in the upper-hoist canton of the white stripe is a representation of the George Cross, edged in red.",
+  "history": "The white-and-red colours descend from the Order of Saint John, which ruled Malta from 1530 until Napoleon's seizure in 1798. After British rule began in 1800, various ensigns incorporated a red-and-white shield. The George Cross was awarded to Malta on 15 April 1942 for the population's bravery under Axis siege, and was added to the upper hoist of the flag on a blue canton on 28 December 1943. On Malta's independence on 21 September 1964 the blue canton was removed and the cross was instead given a red fimbriation, producing the current design.",
+  "variant": [
+    "civil",
+    "state",
+    "state-ensign",
+    "naval-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1964-09-21"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Malta",
+    "https://en.wikipedia.org/wiki/Award_of_the_George_Cross_to_Malta"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "symbolism": "the historic red-and-white colours of Malta, derived from the white cross on red of the Order of Saint John (the Knights of Malta) who ruled the islands from 1530 to 1798; legend traces them earlier to a banner given by the Norman Roger I of Sicily in 1091, but this is generally considered a 19th-century myth"
+    },
+    {
+      "type": "greek-cross",
+      "color": "grey",
+      "position": "upper-hoist",
+      "role": "George Cross",
+      "symbolism": "a representation of the George Cross awarded to the people of Malta by King George VI on 15 April 1942 in recognition of their heroism during the wartime Siege of Malta. The cross, in silver-grey enamel on the white stripe, bears the words 'FOR GALLANTRY' and is fimbriated (edged) with red so as to appear less prominent against the white field. Malta's flag is the only national flag to feature English-language text and one of only two (with Belize) to depict a human figure (Saint George on the medal)"
+    }
   ]
 }

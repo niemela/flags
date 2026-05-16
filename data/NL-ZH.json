@@ -1,8 +1,57 @@
 {
   "id": "NL-ZH",
-  "title": "South Holland (Netherlands)",
-  "iso": "NL-ZH",
+  "name": "South Holland (Netherlands)",
   "type": [
     "subdivision"
+  ],
+  "parent": "NL",
+  "codes": {
+    "iso_3166_2": "NL-ZH",
+    "wikidata": "Q694"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the gold field of the historic arms of Holland"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lion of Holland"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlining and detail of the lion"
+    }
+  ],
+  "description": "A yellow field charged with a red rampant lion, armed and langued, in the centre.",
+  "history": "Adopted by the provincial states on 22 February 1985. The flag is a banner of the historic arms of the County of Holland (or, a lion rampant gules), in use since the 13th century, and replaced an earlier purely-yellow provincial flag.",
+  "periods": [
+    {
+      "start": "1985-02-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_South_Holland"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow",
+      "symbolism": "the yellow field reproduces the gold (or) field of the historic arms of the County of Holland"
+    },
+    {
+      "type": "lion",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "the lion of Holland",
+      "symbolism": "the rampant red lion of the historic County of Holland, attested in the arms since the 13th century"
+    }
   ]
 }

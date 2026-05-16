@@ -1,8 +1,77 @@
 {
   "id": "MW",
-  "title": "Malawi",
-  "iso": "MW",
+  "name": "Malawi",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "MW",
+    "iso_3166_1_alpha3": "MWI",
+    "fifa": "MWI",
+    "ioc": "MAW",
+    "wikidata": "Q1020"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Eastern Africa",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the African people"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood of the martyrs of African independence; also the rising sun on the black band, representing the dawn of hope and freedom for Africa"
+    },
+    {
+      "color": "green",
+      "symbolism": "Malawi's evergreen nature and agriculture"
+    }
+  ],
+  "description": "Three equal horizontal stripes — black, red and green — with a red rising sun, comprising a half-disc and 31 short straight rays, centred on the upper black stripe (the rays emerging from the lower edge of the half-disc).",
+  "history": "Adopted on 6 July 1964, the day Malawi (formerly Nyasaland) gained independence from the United Kingdom. The Pan-African black-red-green palette was taken from the flag of the Malawi Congress Party, which had led the independence movement. The rising sun is a fresh element representing the dawn of independence in Africa. From 2010 to 2012, under President Bingu wa Mutharika, the flag was briefly redesigned (red on top, full white sun on a black middle band) to reflect the country's economic progress; this 'Bingu flag' was unpopular and the original 1964 design was restored on 28 May 2012.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1964-07-06",
+      "end": "2010-07-29"
+    },
+    {
+      "start": "2012-05-28"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Malawi"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "red",
+        "green"
+      ],
+      "count": 3,
+      "symbolism": "black for the African people, red for the blood of African martyrs, green for the country's evergreen nature; the Pan-African colours of the Universal Negro Improvement Association (Marcus Garvey)"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 31,
+      "color": "red",
+      "position": "center",
+      "role": "rising sun on the black band",
+      "symbolism": "the dawn of hope and freedom for Africa; the rising sun specifically marks Malawi's independence as a fresh beginning"
+    }
   ]
 }

@@ -1,8 +1,74 @@
 {
   "id": "US-GU",
-  "title": "Guam (United States)",
-  "iso": "US-GU",
+  "name": "Guam (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_1_alpha2": "GU",
+    "iso_3166_2": "US-GU",
+    "wikidata": "Q16635"
+  },
+  "region": [
+    "Oceania",
+    "Micronesia",
+    "Pacific Islands"
+  ],
+  "aspect_ratio": "22:41",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "Guam's unity with the sea and sky and its ties to the United States"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed by the Chamorro people during the Japanese occupation in World War II"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the sky"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the sandy beaches of Guam (and the Latte Stone outline)"
+    },
+    {
+      "color": "green",
+      "symbolism": "the vegetation, the palm tree, and the prosperity of the land"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the coconut palm trunk and the proa canoe"
+    }
+  ],
+  "description": "A dark blue field bordered by a narrow red stripe on all four sides; centred is the pointed-oval (sling-stone-shaped) Seal of Guam, depicting a coconut palm on a beach beside Hagatna Bay with a flying proa, the Two Lovers' Point cliff, and the inscription 'GUAM'.",
+  "history": "The current design was adopted by Guam Legislative Act on 9 February 1948. The territorial seal in the centre had been designed earlier (in 1917 by Helen Paul, wife of a U.S. naval officer); a version of the flag with the seal on a dark-blue field was first authorised in 1930. The red border was added in 1948 to commemorate Chamorro lives lost during the Japanese occupation of 1941-1944.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1948-02-09"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Guam"
+  ],
+  "features": [
+    {
+      "type": "bordure",
+      "field": "blue",
+      "border": "red",
+      "symbolism": "the dark blue field with a narrow red border encloses the territorial seal."
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "Seal of Guam (pointed-oval shape, evoking a Chamorro sling stone)",
+      "symbolism": "an almond-shaped (sling-stone) cartouche outlined in yellow, depicting Hagatna Bay with a beach in the foreground, the Punta Dos Amantes (Two Lovers' Point) cliff on the horizon, a coconut palm growing from the sand, and a flying proa (traditional outrigger canoe) on the water; below, the inscription 'GUAM'. The pointed shape recalls a slingstone, the traditional weapon of the Chamorro."
+    }
   ]
 }

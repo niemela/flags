@@ -1,8 +1,56 @@
 {
   "id": "PL-22",
-  "title": "Pomerania (Poland)",
-  "iso": "PL-22",
+  "name": "Pomeranian Voivodeship (Poland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "PL",
+  "codes": {
+    "iso_3166_2": "PL-22",
+    "wikidata": "Q54165"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the gold field of the Pomeranian arms"
+    },
+    {
+      "color": "black",
+      "symbolism": "the Pomeranian griffin"
+    },
+    {
+      "color": "red",
+      "symbolism": "details of the griffin's claws and tongue"
+    }
+  ],
+  "description": "Yellow field charged with a black griffin facing the hoist.",
+  "history": "Adopted by the Pomeranian Voivodeship after its creation in 1999, restoring the medieval heraldic device of Pomerelia.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pomeranian_Voivodeship"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow",
+      "symbolism": "the gold field of the historic Pomeranian coat of arms"
+    },
+    {
+      "type": "mythical-creature",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "the Pomeranian griffin, with red claws and tongue",
+      "symbolism": "the historic emblem of the Duchy of Pomerelia"
+    }
   ]
 }

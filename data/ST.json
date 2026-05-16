@@ -1,8 +1,91 @@
 {
   "id": "ST",
-  "title": "Sao Tome and Principe",
-  "iso": "ST",
+  "name": "São Tomé and Príncipe",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "ST",
+    "iso_3166_1_alpha3": "STP",
+    "fifa": "STP",
+    "ioc": "STP",
+    "wikidata": "Q1039"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Middle Africa",
+    "Lusophone"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the lush vegetation and abundant flora of the islands"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the tropical sun and the cocoa, the country's principal cash crop"
+    },
+    {
+      "color": "red",
+      "symbolism": "the struggle for independence and the equality of the people"
+    },
+    {
+      "color": "black",
+      "symbolism": "the African heritage of the population, embodied in the two stars"
+    }
+  ],
+  "symbolism": null,
+  "description": "Three horizontal stripes (green, yellow, green) in proportions 2:3:2, with a red equilateral triangle based on the hoist and two black five-pointed stars on the central yellow stripe, one in the São Tomé side and one in the Príncipe side.",
+  "history": "Adopted on 12 July 1975, the day São Tomé and Príncipe gained independence from Portugal. The design was based on the flag of the Movement for the Liberation of São Tomé and Príncipe (MLSTP), which had led the independence struggle.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1975-07-12"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        3,
+        2
+      ],
+      "symbolism": "uses the Pan-African colours; combined with the red hoist triangle the flag closely follows the design of the ruling MLSTP party that led the country to independence"
+    },
+    {
+      "type": "triangle",
+      "count": 1,
+      "color": "red",
+      "position": "hoist",
+      "role": "red triangle at the hoist",
+      "symbolism": "the struggle for independence from Portugal and the equality of the nation's people"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "black",
+      "position": "center",
+      "arrangement": "row",
+      "role": "two black five-pointed stars on the yellow stripe",
+      "symbolism": "the country's two main islands — São Tomé and Príncipe — and the African origin of the population"
+    }
   ]
 }

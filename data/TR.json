@@ -1,8 +1,73 @@
 {
   "id": "TR",
-  "title": "Turkey",
-  "iso": "TR",
+  "name": "Turkey",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "TR",
+    "iso_3166_1_alpha3": "TUR",
+    "fifa": "TUR",
+    "ioc": "TUR",
+    "wikidata": "Q43"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Europe",
+    "Southern Europe",
+    "Middle East",
+    "Turkic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the colour of the Ottoman flag and of Turkic heritage; popularly associated with the blood of fallen soldiers"
+    },
+    {
+      "color": "white",
+      "symbolism": "the colour of the crescent and star, traditional Islamic and Turkic emblems"
+    }
+  ],
+  "description": "A red field bearing in the centre, slightly toward the hoist, a white crescent moon opening toward the fly, with a small white five-pointed star within the crescent's opening.",
+  "history": "The crescent and star on red have been used as Turkish symbols since the late Ottoman Empire; the design was first regulated by the Ottoman Flag Law (Tanzimat Fermanı) of 1844. After the founding of the Republic of Turkey in 1923, the flag was retained almost unchanged and codified in detail by Turkish Flag Law No. 2994 of 29 May 1936, which fixed the proportions, colour, and exact geometry of the crescent and star. Popular legend attributes the crescent and star to a vision of Osman I, founder of the Ottoman dynasty, or to a reflection seen by Murad I in a pool of blood after the Battle of Kosovo (1389), but these accounts are unhistorical.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1936-05-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Turkey"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the red of the historic banners of the Ottoman Empire and the broader Turkic tradition"
+    },
+    {
+      "type": "crescent",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "white crescent moon",
+      "symbolism": "Islam and the Ottoman heritage; opens toward the fly"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "role": "white five-pointed star",
+      "symbolism": "Islam and Turkish independence; placed within the curve of the crescent"
+    }
   ]
 }

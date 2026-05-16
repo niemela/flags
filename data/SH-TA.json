@@ -1,8 +1,80 @@
 {
   "id": "SH-TA",
-  "title": "Tristan da Cunha",
-  "iso": "SH-TA",
+  "name": "Tristan da Cunha (Saint Helena, Ascension and Tristan da Cunha)",
   "type": [
     "subdivision"
+  ],
+  "parent": "SH",
+  "codes": {
+    "iso_3166_2": "SH-TA",
+    "wikidata": "Q220982"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field of the Blue Ensign and the surrounding South Atlantic Ocean"
+    },
+    {
+      "color": "white",
+      "symbolism": "the Union Flag canton and details of the territorial coat of arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "the crosses of the Union Flag and details of the arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "details of the territorial coat of arms, including the Naval Crown"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the two Tristan rock lobsters supporting the shield"
+    },
+    {
+      "color": "black",
+      "symbolism": "outline details and the longboat"
+    }
+  ],
+  "description": "A British Blue Ensign with the Union Flag in the upper hoist canton, defaced in the centre of the fly with the coat of arms of Tristan da Cunha, featuring a longboat on the shield and two Tristan rock lobsters as supporters.",
+  "history": "The island group of Tristan da Cunha, a dependency of Saint Helena since 1938 and part of the British Overseas Territory of Saint Helena, Ascension and Tristan da Cunha since 2009, was granted its own coat of arms by Queen Elizabeth II in 2002 (replacing earlier arms granted in 1957) and adopted this distinct Blue Ensign with those arms on 20 October 2002. Before then, Tristan da Cunha used the plain Saint Helena flag.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2002-10-20"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Tristan_da_Cunha",
+    "https://en.wikipedia.org/wiki/Tristan_da_Cunha"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the British Blue Ensign tradition for British Overseas Territories"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Flag, denoting Tristan da Cunha's status within the British Overseas Territory of Saint Helena, Ascension and Tristan da Cunha"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center-fly",
+      "role": "coat of arms of Tristan da Cunha",
+      "symbolism": "the territorial arms granted in 2002: a shield bearing a Tristan longboat on a wavy field, supported by two Tristan rock lobsters (Jasus tristani, the island's emblematic species and chief export), with a Naval Crown crest and the motto 'Our faith is our strength'."
+    }
   ]
 }

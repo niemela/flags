@@ -1,8 +1,59 @@
 {
   "id": "DK-84",
-  "title": "Hovedstaden (Denmark)",
-  "iso": "DK-84",
+  "name": "Region Hovedstaden (Capital Region of Denmark)",
   "type": [
     "subdivision"
+  ],
+  "parent": "DK",
+  "codes": {
+    "iso_3166_2": "DK-84",
+    "wikidata": "Q26126"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the deep blue of the Region Hovedstaden corporate identity"
+    },
+    {
+      "color": "white",
+      "symbolism": "the regional logo motif and wordmark"
+    }
+  ],
+  "description": "A deep navy-blue field charged at the centre with a white symbol and the wordmark 'Region Hovedstaden'.",
+  "history": "Region Hovedstaden was established on 1 January 2007 by the Danish Local Government Reform (Strukturreformen). The flag uses the region's corporate visual identity in white on a deep blue field.",
+  "variant": [
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2007-01-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Capital_Region_of_Denmark",
+    "https://en.wikipedia.org/wiki/Regions_of_Denmark"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy",
+      "symbolism": "the deep blue identifying the Capital Region's corporate identity"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Region Hovedstaden logotype",
+      "symbolism": "the official mark and wordmark of Region Hovedstaden (the Capital Region of Denmark), one of the five regions established in the 2007 local-government reform"
+    }
   ]
 }

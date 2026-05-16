@@ -1,8 +1,69 @@
 {
   "id": "RU-MO",
-  "title": "Mordovia (Russia)",
-  "iso": "RU-MO",
+  "name": "Mordovia (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-MO",
+    "wikidata": "Q5340"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the dominant colour of Mordvin national costume"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity, wisdom and the cleanliness of the Mordvin soul"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the earth, motherhood and the rivers Sura and Moksha"
+    }
+  ],
+  "description": "A horizontal triband with a narrow red top and bottom and a wide white centre stripe in the proportion 1:3:1; in the centre of the white stripe is a red eight-pointed Mordvin solar sign.",
+  "history": "Adopted on 30 March 1995 by the State Assembly of the Republic of Mordovia.",
+  "periods": [
+    {
+      "start": "1995-03-30"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Mordovia",
+    "https://en.wikipedia.org/wiki/Mordovia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        3,
+        1
+      ],
+      "symbolism": "red recalls the principal colour of Mordvin folk costume; white stands for purity, wisdom and the cleanliness of the Mordvin soul; dark blue represents the earth, the Sura and Moksha rivers, and motherhood."
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "red",
+      "position": "center",
+      "role": "Mordovian solar sign",
+      "symbolism": "an eight-pointed solar emblem, a traditional Mordvin sign of the sun, life and well-being."
+    }
   ]
 }

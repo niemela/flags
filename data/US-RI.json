@@ -1,8 +1,75 @@
 {
   "id": "US-RI",
-  "title": "Rhode Island (United States)",
-  "iso": "US-RI",
+  "name": "Rhode Island (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-RI",
+    "fips_state": "44",
+    "wikidata": "Q1387"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "29:33",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "gold"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A white field charged with a gold anchor in the center, encircled by thirteen gold five-pointed stars; below, a blue ribbon scroll bears the word 'HOPE' in gold letters.",
+  "history": "Adopted in 1897. The anchor and the motto 'HOPE' have been used by the colony and state since the seventeenth century — the colonial seal of 1647 already showed a fouled anchor. The thirteen stars were added on adoption to recall Rhode Island's status as one of the original thirteen colonies. Rhode Island's flag is unusually small in size — its short hoist is dictated by statute.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1897"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Rhode_Island"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "star",
+      "count": 13,
+      "points": 5,
+      "color": "gold",
+      "position": "center",
+      "arrangement": "circle",
+      "role": "thirteen gold stars encircling the anchor",
+      "symbolism": "Rhode Island as one of the original thirteen colonies"
+    },
+    {
+      "type": "anchor",
+      "count": 1,
+      "color": "gold",
+      "position": "center",
+      "role": "a fouled gold anchor at the center of the ring of stars",
+      "symbolism": "Rhode Island's centuries-old emblem and seal device, attested from the colonial seal of 1647; the anchor symbolizes hope"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "bottom",
+      "role": "a blue ribbon below the anchor inscribed with the state motto 'HOPE'",
+      "symbolism": "the state motto, recorded since the seventeenth century"
+    }
   ]
 }

@@ -1,8 +1,51 @@
 {
   "id": "CO-COR",
-  "title": "Córdoba (Colombia)",
-  "iso": "CO-COR",
+  "name": "Cordoba (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-COR",
+    "wikidata": "Q121233"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the Caribbean Sea and the Sinu river that drain the department"
+    },
+    {
+      "color": "white",
+      "symbolism": "the peace, purity and integrity of the Cordobese people"
+    },
+    {
+      "color": "green",
+      "symbolism": "the fertile cattle-raising savannahs and agricultural lands of Cordoba"
+    }
+  ],
+  "description": "Three equal horizontal stripes of blue, white, and green.",
+  "history": "Cordoba was created as a department on 18 June 1951, separating from Bolivar. Its flag's tricolour reflects the natural setting of the department: sea and rivers, the peace of its people, and the fertility of its plains.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/C%C3%B3rdoba_Department",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_C%C3%B3rdoba.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "symbolism": "blue for the Caribbean Sea and the rivers, white for peace and purity, green for the fertile cattle-raising plains and savannahs"
+    }
   ]
 }

@@ -1,8 +1,46 @@
 {
   "id": "CO-ANT",
-  "title": "Antioquia (Colombia)",
-  "iso": "CO-ANT",
+  "name": "Antioquia (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-ANT",
+    "wikidata": "Q123304"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the silver of Antioquia's mines and the purity of its people"
+    },
+    {
+      "color": "green",
+      "symbolism": "the fertility of the land and the hope of its people"
+    }
+  ],
+  "description": "A horizontal bicolour of white over green in equal halves.",
+  "history": "Adopted as the flag of the Department of Antioquia in 1962, replacing earlier designs. The colours derive from the colonial-era heraldry of the region, where silver (argent) and green appear in the arms of Antioquia.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Antioquia_Department",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Antioquia_Department.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2,
+      "symbolism": "white for the silver of Antioquia's mining heritage and the purity of its people; green for the fertility of its mountains and valleys"
+    }
   ]
 }

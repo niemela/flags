@@ -1,8 +1,95 @@
 {
   "id": "KI",
-  "title": "Kiribati",
-  "iso": "KI",
+  "name": "Kiribati",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "KI",
+    "iso_3166_1_alpha3": "KIR",
+    "fifa": "KIR",
+    "ioc": "KIR",
+    "wikidata": "Q710"
+  },
+  "region": [
+    "Oceania",
+    "Micronesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the sky over the equatorial Pacific"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the Pacific Ocean which surrounds the islands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the three white wavy stripes representing the three island groups (the Gilbert, Phoenix and Line Islands), and the Pacific waves"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the radiating sun (with seventeen rays) and the local frigatebird soaring above; the sun also represents Kiribati's position astride the equator"
+    }
+  ],
+  "description": "Above, a red field bearing a yellow rising sun with seventeen rays and a yellow frigatebird flying overhead; below, a blue field crossed by three white wavy stripes. The flag is a direct enlargement of the colonial-era badge of the Gilbert and Ellice Islands, made into a national flag in its own right.",
+  "history": "Adopted on 12 July 1979, the day Kiribati became independent from the United Kingdom. The design is based on the colonial coat of arms granted to the Gilbert and Ellice Islands in 1937, simply scaled up to fill the entire flag rather than being placed on a defaced British ensign — a notable departure from the standard pattern adopted by other Pacific Commonwealth realms.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1979-07-12"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Kiribati"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        1
+      ],
+      "symbolism": "the upper red half stands for the equatorial sky over Kiribati, while the lower blue half (with the white wavy stripes) represents the Pacific Ocean — the design preserves the colonial-era badge of the Gilbert and Ellice Islands as the field of the new flag"
+    },
+    {
+      "type": "wave",
+      "count": 3,
+      "color": "white",
+      "position": "bottom",
+      "role": "three wavy stripes on the lower blue half",
+      "symbolism": "the three island groups that make up Kiribati — the Gilbert, Phoenix and Line Islands — and the waves of the Pacific Ocean"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 17,
+      "color": "yellow",
+      "position": "center",
+      "role": "rising sun (utimwaaneya)",
+      "symbolism": "the seventeen rays represent the sixteen Gilbert Islands plus Banaba (Ocean Island); the rising sun also evokes Kiribati's position astride the equator"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "yellow",
+      "position": "top",
+      "role": "frigatebird (te eitei)",
+      "symbolism": "the local frigatebird in flight above the sun, representing command of the sea, freedom and the traditional Kiribati way of life"
+    }
   ]
 }

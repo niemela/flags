@@ -1,8 +1,44 @@
 {
   "id": "CO-VID",
-  "title": "Vichada (Colombia)",
-  "iso": "CO-VID",
+  "name": "Vichada (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-VID",
+    "wikidata": "Q121133"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the savannahs and the wealth of the eastern plains"
+    },
+    {
+      "color": "green",
+      "symbolism": "the gallery forests and the Orinoco river basin"
+    }
+  ],
+  "description": "Two equal horizontal stripes, yellow over green.",
+  "history": "Vichada became a department of Colombia in 1991. Its bicolour flag of yellow over green represents the open savannahs and the gallery forests of the eastern Orinoco plains.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vichada_Department"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2
+    }
   ]
 }

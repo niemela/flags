@@ -1,8 +1,51 @@
 {
   "id": "CO-HUI",
-  "title": "Huila (Colombia)",
-  "iso": "CO-HUI",
+  "name": "Huila (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-HUI",
+    "wikidata": "Q121271"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the eternal snows of the Nevado del Huila volcano and the peace of the Huilenses"
+    },
+    {
+      "color": "green",
+      "symbolism": "the fertile mountain slopes and coffee plantations of the department"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold and the wealth of the upper Magdalena valley"
+    }
+  ],
+  "description": "Three equal horizontal stripes of white, green, and yellow.",
+  "history": "Huila was created as a department on 29 April 1905 from parts of Tolima. Its flag's three stripes evoke the snowy peaks of the Nevado del Huila, the green Andean slopes, and the gold of the upper Magdalena valley.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Huila_Department",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Huila.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "yellow"
+      ],
+      "count": 3,
+      "symbolism": "white for the snowy peaks of the Nevado del Huila, green for the fertile coffee-growing slopes, and yellow for the gold and the wealth of the Magdalena valley"
+    }
   ]
 }

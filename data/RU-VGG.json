@@ -1,8 +1,63 @@
 {
   "id": "RU-VGG",
-  "title": "Volgograd Oblast (Russia)",
-  "iso": "RU-VGG",
+  "name": "Volgograd Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-VGG",
+    "wikidata": "Q3819"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the heroism of the defenders of Stalingrad and the blood shed in the city's defence"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the Volga River and loyalty"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold inscription and ribbon (in the inscribed variant)"
+    }
+  ],
+  "description": "A horizontal bicolour of red over blue, with a gold inscription identifying Volgograd as a Hero City near the hoist of the upper red stripe.",
+  "history": "The flag of Volgograd Oblast was adopted on 24 December 2008. Volgograd, formerly Stalingrad, holds the Soviet title of Hero City for its defence against the Wehrmacht in the Battle of Stalingrad (1942-1943).",
+  "periods": [
+    {
+      "start": "2008-12-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Volgograd_Oblast",
+    "https://en.wikipedia.org/wiki/Volgograd_Oblast"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2,
+      "symbolism": "the red over blue bicolour combines the historic Stalingrad colours of valour with the blue of the Volga River."
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "inscription \"Hero City Volgograd\"",
+      "symbolism": "the inscription identifying the city, awarded the title of Hero City for its role in the Battle of Stalingrad."
+    }
   ]
 }

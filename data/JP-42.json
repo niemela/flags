@@ -1,8 +1,56 @@
 {
   "id": "JP-42",
-  "title": "Nagasaki (Japan)",
-  "iso": "JP-42",
+  "name": "Nagasaki Prefecture (Japan)",
   "type": [
     "subdivision"
+  ],
+  "parent": "JP",
+  "codes": {
+    "iso_3166_2": "JP-42",
+    "wikidata": "Q123384"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the East China Sea and the surrounding bays of Nagasaki, evoking the prefecture's maritime character"
+    },
+    {
+      "color": "white",
+      "symbolism": "Nagasaki's prefectural emblem and the sky"
+    }
+  ],
+  "description": "A light blue field charged at the centre with the white prefectural emblem of Nagasaki, a stylised graphic based on the kanji 長 of 'Nagasaki' and the form of a bird in flight evoking peace.",
+  "history": "Nagasaki's prefectural symbol was adopted on 6 May 1991, replacing an earlier design. The flag uses the symbol in white on a sea-blue field. Nagasaki is closely associated with the international message of peace following the atomic bombing of 9 August 1945.",
+  "variant": [
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1991-05-06"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nagasaki_Prefecture",
+    "https://en.wikipedia.org/wiki/Flag_of_Nagasaki_Prefecture"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue",
+      "symbolism": "the seas and ocean horizons surrounding Nagasaki, a coastal and island prefecture"
+    },
+    {
+      "type": "circle",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Nagasaki prefectural emblem",
+      "symbolism": "a stylised emblem of the kanji 長 (naga, 'long') of 長崎 (Nagasaki) within a peace dove or crane motif, evoking peace and the prefecture's name"
+    }
   ]
 }

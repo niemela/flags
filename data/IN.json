@@ -1,8 +1,71 @@
 {
   "id": "IN",
-  "title": "India",
-  "iso": "IN",
+  "name": "India",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "IN",
+    "iso_3166_1_alpha3": "IND",
+    "fifa": "IND",
+    "ioc": "IND",
+    "wikidata": "Q668"
+  },
+  "region": [
+    "Asia",
+    "Southern Asia",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "orange",
+      "symbolism": "officially called saffron (kesari): courage, sacrifice and the spirit of renunciation"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace and truth, with the dharma chakra (the law)"
+    },
+    {
+      "color": "green",
+      "symbolism": "faith, fertility and the auspicious — the prosperity of the land"
+    },
+    {
+      "color": "navy",
+      "symbolism": "the colour of the Ashoka Chakra in the centre of the flag"
+    }
+  ],
+  "description": "Three equal horizontal stripes of saffron (orange) over white over India green. Centred on the white stripe is a navy-blue 24-spoked wheel — the Ashoka Chakra.",
+  "history": "Designed by Pingali Venkayya and adopted in its present form by the Constituent Assembly of India on 22 July 1947, three weeks before independence on 15 August. It is a development of the Swaraj flag of the Indian National Congress (1931), with the Gandhian charkha (spinning wheel) replaced by the Ashoka Chakra at the suggestion of Badruddin Tyabji and Surayya. Use is governed by the Flag Code of India (2002, amended 2021–2022), which originally restricted private use to specific occasions and was liberalised in 2002 to allow display by individual citizens. The cloth must traditionally be khadi — handspun and handwoven cotton, silk or wool.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1947-07-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_India"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "orange",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "symbolism": "the Tiranga; the colours were originally interpreted by the Indian National Congress as representing India's principal religious communities, and were later given a secular interpretation by Sarvepalli Radhakrishnan: courage and sacrifice, peace and truth, faith and chivalry"
+    },
+    {
+      "type": "chakra",
+      "color": "navy",
+      "position": "center",
+      "role": "Ashoka Chakra",
+      "symbolism": "the wheel of dharma (the law) with 24 spokes, taken from the abacus of the Lion Capital of Ashoka at Sarnath (3rd century BCE); represents the eternal wheel of righteousness and replaces the spinning-wheel (charkha) of Gandhi's earlier Swaraj flag"
+    }
   ]
 }

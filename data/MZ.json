@@ -1,8 +1,125 @@
 {
   "id": "MZ",
-  "title": "Mozambique",
-  "iso": "MZ",
+  "name": "Mozambique",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "MZ",
+    "iso_3166_1_alpha3": "MOZ",
+    "fifa": "MOZ",
+    "ioc": "MOZ",
+    "wikidata": "Q1029"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Eastern Africa",
+    "Lusophone",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the country's natural wealth and fertile land"
+    },
+    {
+      "color": "black",
+      "symbolism": "the African continent"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the country's mineral wealth"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace (the narrow fimbriations between the main stripes)"
+    },
+    {
+      "color": "red",
+      "symbolism": "the centuries of resistance to colonialism, the armed national liberation struggle, and the defence of sovereignty (the hoist triangle)"
+    }
+  ],
+  "description": "Five horizontal stripes — green, white (thin), black, white (thin), yellow — with the white bands serving as fimbriations. A red isosceles triangle rests on the hoist edge, charged with a yellow five-pointed star bearing an open white book; over the book are crossed a black hoe and a black AK-47 assault rifle (with bayonet).",
+  "history": "Adopted on 1 May 1983 in its current form, replacing earlier transitional designs used since independence from Portugal on 25 June 1975. The horizontal arrangement and emblem derive from the flag of the Mozambique Liberation Front (FRELIMO), which led the independence war and ruling-party governance. The AK-47 rifle on the emblem is unique among national flags; a 2005 parliamentary commission shortlisted 119 redesign proposals (most without the rifle) but no change has been enacted.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1983-05-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Mozambique"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "black",
+        "white",
+        "yellow"
+      ],
+      "count": 5,
+      "widths": [
+        4,
+        1,
+        4,
+        1,
+        4
+      ],
+      "fimbriation": {
+        "color": "white",
+        "around": "stripes"
+      },
+      "symbolism": "green for the wealth of the land, black for the African continent, yellow for the country's mineral wealth; the white fimbriations stand for peace; the red hoist triangle for the struggle for independence and resistance against colonialism"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "hoist triangle",
+      "symbolism": "the struggle for national independence and resistance against colonial oppression"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "yellow five-pointed star within the red triangle",
+      "symbolism": "Marxism and proletarian internationalism"
+    },
+    {
+      "type": "book",
+      "count": 1,
+      "color": "white",
+      "position": "hoist",
+      "role": "open book on the star",
+      "symbolism": "the importance of education"
+    },
+    {
+      "type": "tool",
+      "count": 1,
+      "color": "black",
+      "position": "hoist",
+      "role": "hoe crossed with a rifle",
+      "symbolism": "the hoe (agriculture and the peasantry) and the AK-47 rifle (defence and vigilance) — Mozambique is the only national flag to depict a modern firearm"
+    },
+    {
+      "type": "firearm",
+      "count": 1,
+      "color": "black",
+      "position": "hoist",
+      "role": "AK-47 assault rifle with bayonet, crossed with the hoe",
+      "symbolism": "defence, vigilance, and the armed liberation struggle led by FRELIMO"
+    }
   ]
 }

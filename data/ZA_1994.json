@@ -1,9 +1,92 @@
 {
-  "id": "ZA_1928-1994",
-  "title": "South Africa (1928-1994)",
-  "iso": "ZA",
+  "id": "ZA_1994",
+  "name": "South Africa (1928–1994)",
   "type": [
     "historical",
     "country"
+  ],
+  "codes": {
+    "wikidata": "Q258"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Southern Africa",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "orange"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue",
+      "symbolism": "from the Prinsenvlag"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "symbolism": "The three small flags on the central white stripe — Union Flag at the hoist, Orange Free State flag in the centre, and Transvaal Vierkleur at the fly — represent the three former territories that united in 1910 to form the Union of South Africa. Their equal size and the deliberately neutral arrangement (each shown turned away from precedence) was a compromise reached after nearly two decades of dispute between English- and Afrikaans-speaking communities over national symbols.",
+  "description": "Three horizontal stripes — orange over white over blue — in the proportions of the Dutch Prinsenvlag. Centred on the white stripe are three small flags: a Union Flag towards the hoist (mirrored, so its fly side faces the hoist of the larger flag), the flag of the Orange Free State hung vertically with its hoist upward, and the Transvaal Vierkleur towards the fly.",
+  "history": "Adopted on 31 May 1928 under the Union Nationality and Flags Act (Act No. 40 of 1927), ending the long-running 'flag dispute' (vlagstryd) between English- and Afrikaans-speaking South Africans. The compromise, drawn up by Dr D.F. Malan, set the Prinsenvlag colour scheme as the field and placed three small historical flags of equal size on the central stripe. The flag was retained when South Africa became a republic in 1961 and remained in official use until 26 April 1994, when it was replaced by the present six-coloured flag on the eve of the country's first non-racial elections.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1928-05-31",
+      "end": "1994-04-26"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_South_Africa_(1928%E2%80%931994)",
+    "https://en.wikipedia.org/wiki/South_African_flag_debate",
+    "https://www.crwflags.com/fotw/flags/za_1928.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "orange",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "symbolism": "the colours of the historical Prinsenvlag (the Dutch Prince's Flag of William of Orange), reflecting Dutch / Afrikaner heritage"
+    },
+    {
+      "type": "embedded-flag",
+      "embedded_flag_id": "GB",
+      "position": "center-hoist",
+      "mirrored": true,
+      "role": "Union Flag (towards hoist)",
+      "symbolism": "the British contribution to the Union of South Africa (the former Cape Colony and Natal)"
+    },
+    {
+      "type": "embedded-flag",
+      "embedded_flag_id": "ZA-FS",
+      "position": "center",
+      "rotation": 90,
+      "role": "Orange Free State flag (hung vertically)",
+      "symbolism": "the former Boer republic of the Orange Free State"
+    },
+    {
+      "type": "embedded-flag",
+      "embedded_flag_id": "ZA-ZAR",
+      "position": "center-fly",
+      "role": "Transvaal Vierkleur",
+      "symbolism": "the former Boer republic of the South African Republic (Transvaal)"
+    }
   ]
 }

@@ -1,8 +1,85 @@
 {
   "id": "TN",
-  "title": "Tunisia",
-  "iso": "TN",
+  "name": "Tunisia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "TN",
+    "iso_3166_1_alpha3": "TUN",
+    "fifa": "TUN",
+    "ioc": "TUN",
+    "wikidata": "Q948"
+  },
+  "region": [
+    "Africa",
+    "Northern Africa",
+    "Maghreb",
+    "MENA",
+    "Arab World",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the blood of martyrs, resistance against oppression, and a heritage from the Ottoman Empire; also the colour of the crescent and star, traditional symbols of Islam"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace; the white disc represents the sun"
+    }
+  ],
+  "description": "A red field with a centred white disc bearing a red crescent and a red five-pointed star, the points of the star nestled in the opening of the crescent.",
+  "history": "The flag was adopted in essentially its present form by Husainid Bey Al-Husayn II ibn Mahmud of Tunis in 1831, following a naval defeat at Navarino in 1827, to give the Beylik of Tunis a distinctive national emblem. It was retained as the flag of the French protectorate (1881–1956) and as the national flag at independence on 20 March 1956. The exact proportions of the crescent, star, and disc were standardised by the Organic Law of 30 June 1999.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1831",
+      "end": "1956"
+    },
+    {
+      "start": "1956-03-20"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Tunisia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the resistance of the Tunisian people against Turkish suzerainty and the blood of those who fought for independence; also a colour traditionally associated with the Ottoman Empire"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "white disc",
+      "symbolism": "the sun"
+    },
+    {
+      "type": "crescent",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "red crescent inside the disc",
+      "symbolism": "Islam; the crescent is one of the traditional emblems of Islam and of the Ottoman Empire from which the design descends"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "center",
+      "role": "red five-pointed star inside the crescent",
+      "symbolism": "the Five Pillars of Islam"
+    }
   ]
 }

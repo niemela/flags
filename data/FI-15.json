@@ -1,8 +1,65 @@
 {
   "id": "FI-15",
-  "title": "Pohjois-Savo (Finland)",
-  "iso": "FI-15",
+  "name": "North Savo (Finland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FI",
+  "codes": {
+    "iso_3166_2": "FI-15",
+    "wikidata": "Q5790"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "shape": "swallowtail",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the azure upper field, evoking the lakes of the Savo region"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden lower field of the regional arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "red heraldic detail in the central charge"
+    },
+    {
+      "color": "white",
+      "symbolism": "silver detailing in the arms"
+    },
+    {
+      "color": "black",
+      "symbolism": "heraldic outlining and tincture detail"
+    }
+  ],
+  "description": "A swallow-tailed flag divided horizontally blue over yellow, charged centrally with the elaborate provincial arms of North Savo.",
+  "history": "North Savo (Pohjois-Savo) became a region under Finland's 1997 administrative reform; its banner is the heraldic flag of the regional coat of arms, derived from the historic arms of the Savo province.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Northern_Savonia",
+    "https://fi.wikipedia.org/wiki/Pohjois-Savon_lippu"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "arms of North Savo",
+      "symbolism": "a heraldic composition derived from the historic provincial arms of Savo, depicting a crowned figure with a bow and additional Savonian frontier motifs in gold, silver and red."
+    }
   ]
 }

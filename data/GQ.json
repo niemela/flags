@@ -1,8 +1,96 @@
 {
   "id": "GQ",
-  "title": "Equatorial Guinea",
-  "iso": "GQ",
+  "name": "Equatorial Guinea",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "GQ",
+    "iso_3166_1_alpha3": "GNQ",
+    "fifa": "EQG",
+    "ioc": "GEQ",
+    "wikidata": "Q983"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Middle Africa"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the natural resources and the country's jungle"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed by those who fought for independence"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the sea connecting the country's mainland (Río Muni) and its islands (Bioko, Annobón and others)"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold sand and gold-coloured details of the coat of arms"
+    },
+    {
+      "color": "grey",
+      "symbolism": "the silk-cotton tree (ceiba) on the coat of arms"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlines and inscription on the coat of arms"
+    }
+  ],
+  "description": "Three equal horizontal stripes — green, white and red — with a blue isosceles triangle at the hoist and the national coat of arms centred on the white stripe. The arms show a silver shield with a silk-cotton tree, surmounted by six gold six-pointed stars and underlined by a scroll with the motto 'Unidad, Paz, Justicia'.",
+  "history": "Adopted on 12 October 1968, the day Equatorial Guinea gained independence from Spain. The coat of arms was removed during the dictatorship of Francisco Macías Nguema (1973–1979), then restored after his overthrow on 21 August 1979. The six stars represent the continental mainland (Río Muni) and the five inhabited islands (Bioko, Annobón, Corisco, Elobey Grande and Elobey Chico).",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1968-10-12",
+      "end": "1973"
+    },
+    {
+      "start": "1979-08-21"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Equatorial_Guinea"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "green for the natural resources and the jungle, white for peace, red for the blood of those who fought for independence"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "hoist triangle",
+      "symbolism": "the sea, which links the various parts of the country"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "national coat of arms",
+      "symbolism": "a silver shield bearing a silk-cotton tree (the 'tree of God' under which the first treaty between Spain and a local ruler was signed in 1843), surmounted by six six-pointed gold stars representing the mainland and the five main islands; below, a scroll bearing the national motto 'Unidad, Paz, Justicia' ('Unity, Peace, Justice')"
+    }
   ]
 }

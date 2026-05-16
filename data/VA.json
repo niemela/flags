@@ -1,9 +1,65 @@
 {
   "id": "VA",
-  "title": "Holy See",
-  "iso": "VA",
+  "name": "Vatican City",
   "type": [
-    "country",
-    "city"
+    "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "VA",
+    "iso_3166_1_alpha3": "VAT",
+    "wikidata": "Q237"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the gold key of Saint Peter — spiritual authority; the keys of the Kingdom of Heaven"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver key of Saint Peter — temporal authority on earth; also purity"
+    },
+    {
+      "color": "red",
+      "symbolism": "from the red cord (gules) binding the two keys on the papal arms"
+    }
+  ],
+  "description": "A square flag of two equal vertical stripes — yellow at the hoist and white at the fly — with the papal coat of arms (the crossed gold and silver keys of Saint Peter, bound by a red cord, beneath the silver triple-tiered papal tiara) centred on the white half.",
+  "history": "The yellow-and-white colour scheme was introduced by Pope Pius VII in 1808, replacing earlier yellow-and-red Papal States colours, in order to distinguish papal troops from the French troops of Napoleon. The square form derived from the dimensions of papal military banners. The current flag of the Vatican City State was adopted on 7 June 1929 with the establishment of the State of Vatican City under the Lateran Treaty between the Holy See and Italy; a slight redesign of the coat of arms was approved on 7 June 2023.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1929-06-07"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Vatican_City"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "white"
+      ],
+      "count": 2,
+      "symbolism": "the gold and silver keys of Saint Peter on the papal coat of arms (Matthew 16:19, the keys of the Kingdom of Heaven entrusted to Peter)"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center-fly",
+      "role": "Papal coat of arms (keys of Saint Peter beneath the papal tiara)",
+      "symbolism": "two crossed keys (one gold, one silver) bound by a red cord, representing the keys of the Kingdom of Heaven entrusted to Saint Peter (Matthew 16:19) and so the spiritual and temporal authority of the Pope; surmounted by the triple-tiered papal tiara (the triregnum), symbolising the Pope's three authorities as 'father of kings, governor of the world and Vicar of Christ'"
+    }
   ]
 }

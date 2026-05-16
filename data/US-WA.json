@@ -1,8 +1,68 @@
 {
   "id": "US-WA",
-  "title": "Washington (United States)",
-  "iso": "US-WA",
+  "name": "Washington (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-WA",
+    "fips_state": "53",
+    "wikidata": "Q1223"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the evergreen forests for which Washington is nicknamed"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A dark green field with the Seal of the State of Washington — a portrait of George Washington on a blue disc encircled by the inscription 'THE SEAL OF THE STATE OF WASHINGTON 1889' on a yellow ring — in the centre.",
+  "history": "Washington is the only U.S. state flag with a green field and the only one bearing the image of an individual person. The state flag was officially adopted on 7 March 1923, although the green-with-seal design had been in unofficial use since the late nineteenth century. The seal was redesigned by Richard Nelms in 1967 to standardize the portrait.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1923-03-07"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Washington_(state)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green",
+      "symbolism": "the Evergreen State; Washington's forests"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "the Seal of the State of Washington",
+      "symbolism": "depicts a portrait of George Washington (after Gilbert Stuart's Athenaeum portrait) on a blue disc, encircled by the words 'THE SEAL OF THE STATE OF WASHINGTON 1889'"
+    }
   ]
 }

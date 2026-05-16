@@ -1,8 +1,83 @@
 {
   "id": "BR-RR",
-  "title": "Roraima (Brazil)",
-  "iso": "BR-RR",
+  "name": "Roraima (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-RR",
+    "wikidata": "Q42990"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the sky"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of Roraima's mineral wealth"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace"
+    },
+    {
+      "color": "green",
+      "symbolism": "the Amazonian forest"
+    },
+    {
+      "color": "red",
+      "symbolism": "the diagonal line representing the Equator"
+    }
+  ],
+  "description": "Four horizontal bands of blue, yellow, white and green; the blue band carries a row of seven white five-pointed stars, and a thin red diagonal line crosses the centre of the flag, representing the Equator.",
+  "history": "Adopted on 4 June 1996 by State Law No. 132; designed by the writer Itic Romem and the artist Fua de Souza Lima, the flag emphasises the territory's location astride the Equator.",
+  "periods": [
+    {
+      "start": "1996-06-04"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Roraima"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "white",
+        "green"
+      ],
+      "count": 4,
+      "symbolism": "Four horizontal bands of blue, yellow, white and green, charged at the centre by a red diagonal line and seven white stars on the blue band"
+    },
+    {
+      "type": "star",
+      "count": 7,
+      "points": 5,
+      "color": "white",
+      "position": "top",
+      "arrangement": "row",
+      "role": "seven white five-pointed stars",
+      "symbolism": "the seven historical municipalities of the State of Roraima"
+    },
+    {
+      "type": "border",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "diagonal red line",
+      "symbolism": "the line of the Equator, which crosses Roraima"
+    }
   ]
 }

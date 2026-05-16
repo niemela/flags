@@ -1,8 +1,89 @@
 {
   "id": "SB",
-  "title": "Solomon Islands",
-  "iso": "SB",
+  "name": "Solomon Islands",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "SB",
+    "iso_3166_1_alpha3": "SLB",
+    "fifa": "SOL",
+    "ioc": "SOL",
+    "wikidata": "Q685"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "water — the rivers, rain, and the surrounding ocean"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the sun"
+    },
+    {
+      "color": "green",
+      "symbolism": "the land and its tropical vegetation"
+    },
+    {
+      "color": "white",
+      "symbolism": "the five stars"
+    }
+  ],
+  "symbolism": null,
+  "description": "Divided diagonally from the lower hoist to the upper fly by a thin yellow stripe: a blue triangle in the upper hoist bears five white five-pointed stars arranged in two columns of two with a single star between them, and a green triangle fills the lower fly.",
+  "history": "Adopted on 18 November 1977, before the country gained independence from the United Kingdom on 7 July 1978. The flag was selected from a public design competition and was modelled on a sketch by New Zealand commercial artist John Cuthbert Colquhoun.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1977-11-18"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Solomon_Islands"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "green"
+      ],
+      "count": 3,
+      "direction": "bend",
+      "widths": [
+        5,
+        1,
+        5
+      ],
+      "symbolism": "the thin yellow stripe runs diagonally from the lower hoist to the upper fly, dividing the flag into a blue upper triangle (sky and sea) and a green lower triangle (the land); the yellow stripe represents the sun"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "position": "upper-hoist",
+      "arrangement": "grid",
+      "rows": [
+        2,
+        1,
+        2
+      ],
+      "role": "five white stars in a quincunx-like pattern",
+      "symbolism": "originally the five main island groups of the country at the time of independence; despite the country now having nine provinces, the five stars remain"
+    }
   ]
 }

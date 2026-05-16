@@ -1,8 +1,96 @@
 {
   "id": "ZM",
-  "title": "Zambia",
-  "iso": "ZM",
+  "name": "Zambia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "ZM",
+    "iso_3166_1_alpha3": "ZMB",
+    "fifa": "ZAM",
+    "ioc": "ZAM",
+    "wikidata": "Q953"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Eastern Africa",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the country's natural resources, agriculture, and forests"
+    },
+    {
+      "color": "red",
+      "symbolism": "the struggle for freedom and the blood shed for independence"
+    },
+    {
+      "color": "black",
+      "symbolism": "the people of Zambia"
+    },
+    {
+      "color": "orange",
+      "symbolism": "the country's mineral wealth, especially copper"
+    }
+  ],
+  "description": "A green field with an orange eagle in flight in the upper fly, and three equal vertical stripes — red, black, orange — in the lower fly extending from the bottom edge to about two-thirds of the flag's height.",
+  "history": "Adopted on 24 October 1964, the day Northern Rhodesia became the independent Republic of Zambia. The flag is unusual among national flags in placing its emblems off-centre at the fly. The eagle and the colours derive from the colonial-era coat of arms; the orange (originally a brighter copper-orange) was modified slightly in 1996.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1964-10-24",
+      "end": "1996"
+    },
+    {
+      "start": "1996"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Zambia"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "field": "green",
+      "symbolism": "a green field charged with three vertical stripes — red, black, orange — in the lower fly, surmounted by an orange eagle in the upper fly; an unusual layout that places the heraldic devices off-centre"
+    },
+    {
+      "type": "eagle",
+      "count": 1,
+      "color": "orange",
+      "position": "upper-fly",
+      "role": "African fish eagle (Haliaeetus vocifer)",
+      "symbolism": "the people's ability to rise above the country's problems; taken from the national coat of arms"
+    },
+    {
+      "type": "square",
+      "count": 1,
+      "color": "red",
+      "position": "lower-fly",
+      "role": "leftmost of three vertical stripes in the lower fly",
+      "symbolism": "the struggle for freedom and the blood shed for independence"
+    },
+    {
+      "type": "square",
+      "count": 1,
+      "color": "black",
+      "position": "lower-fly",
+      "role": "middle of three vertical stripes in the lower fly",
+      "symbolism": "the people of Zambia"
+    },
+    {
+      "type": "square",
+      "count": 1,
+      "color": "orange",
+      "position": "lower-fly",
+      "role": "rightmost of three vertical stripes in the lower fly",
+      "symbolism": "the country's mineral wealth, especially copper"
+    }
   ]
 }

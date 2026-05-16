@@ -1,8 +1,91 @@
 {
   "id": "TM",
-  "title": "Turkmenistan",
-  "iso": "TM",
+  "name": "Turkmenistan",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "TM",
+    "iso_3166_1_alpha3": "TKM",
+    "fifa": "TKM",
+    "ioc": "TKM",
+    "wikidata": "Q874"
+  },
+  "region": [
+    "Asia",
+    "Central Asia",
+    "Turkic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "Islam, life, and the natural environment"
+    },
+    {
+      "color": "red",
+      "symbolism": "the colour of the traditional carpet stripe — Turkmen carpets and the country's heritage of carpet weaving"
+    },
+    {
+      "color": "white",
+      "symbolism": "the colour of the crescent and stars; peace and serenity"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "details of the carpet ornaments and the olive branches"
+    },
+    {
+      "color": "black",
+      "symbolism": "details of the carpet ornaments"
+    }
+  ],
+  "description": "A green field with a vertical red stripe along the hoist bearing five Turkmen carpet guls in vertical column, crossed olive branches at the bottom of the stripe, and in the upper fly a white crescent moon opening toward the fly with an arc of five white five-pointed stars beside it.",
+  "history": "Adopted in its initial form on 19 February 1992, just months after Turkmenistan's independence. The carpet stripe with five guls was retained, but the design was modified on 1 February 1997 to add the olive branches commemorating Turkmenistan's UN-recognised permanent neutrality (1995); minor alterations to the proportions of the stripe and arrangement of the carpet guls were made on 24 January 2001. The current proportions (2:3) and exact ornament were fixed by presidential decree in 2008.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "2001-01-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Turkmenistan"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "a green field with a red vertical carpet stripe at the hoist bearing the traditional ornaments (guls) of the five Turkmen tribes; green for Islam and life, red for the heritage of Turkmen carpet-weaving"
+    },
+    {
+      "type": "crescent",
+      "count": 1,
+      "color": "white",
+      "position": "upper-fly",
+      "role": "white crescent moon",
+      "symbolism": "Islam and a bright future"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "position": "upper-fly",
+      "arrangement": "arc",
+      "role": "five white five-pointed stars",
+      "symbolism": "the five provinces (welayatlar) of Turkmenistan; the five-pointed shape of each star is said to symbolise the five states of matter in classical philosophy (solid, liquid, gas, crystal, plasma)"
+    },
+    {
+      "type": "olive-branch",
+      "count": 2,
+      "color": "yellow",
+      "position": "lower-hoist",
+      "role": "two crossed olive branches at the foot of the carpet stripe",
+      "symbolism": "Turkmenistan's UN-recognised permanent neutrality, declared in 1995; the olive branches were added to the flag in 1997"
+    }
   ]
 }

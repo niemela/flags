@@ -1,7 +1,71 @@
 {
   "id": "sapmi",
-  "title": "Sápmi",
+  "name": "Sápmi (Sami people)",
   "type": [
-    "region"
+    "ethnic"
+  ],
+  "codes": {
+    "wikidata": "Q170825"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "fire; the colour of the gákti; one of the four traditional Sami colours"
+    },
+    {
+      "color": "green",
+      "symbolism": "the land; one of the four traditional Sami colours"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the sun; one of the four traditional Sami colours"
+    },
+    {
+      "color": "blue",
+      "symbolism": "water and sky; one of the four traditional Sami colours"
+    }
+  ],
+  "description": "A field of four unequal vertical bands — red, green, yellow, and blue from hoist to fly — charged near the hoist with a circle divided vertically into a red half (toward the hoist) and a blue half (toward the fly), representing the sun and the moon.",
+  "history": "The Sami flag was designed by the Sami artist Astrid Båhl from Skibotn, Norway, and was selected from a field of submissions by the Sami Conference. It was officially adopted by the 13th Nordic Sami Conference in Åre, Sweden, on 15 August 1986. The flag is recognised as an official symbol of the Sami people across Norway, Sweden, Finland, and Russia (the historical region of Sápmi).",
+  "periods": [
+    {
+      "start": "1986-08-15"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sami_flag",
+    "https://www.samediggi.no/"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "green",
+        "yellow",
+        "blue"
+      ],
+      "count": 4,
+      "widths": [
+        4,
+        1,
+        1,
+        5
+      ],
+      "symbolism": "The four colours are drawn from the traditional Sami gákti (folk dress) and from the colours mentioned in Isak Saba's 1906 poem 'Sámi soga lávlla', which became the Sami national anthem."
+    },
+    {
+      "type": "circle",
+      "count": 1,
+      "position": "center-hoist",
+      "role": "the sun-and-moon ring (beaivi-mánnu)",
+      "symbolism": "A ring divided vertically into a red half toward the hoist (representing the sun, beaivi) and a blue half toward the fly (representing the moon, mánnu). The motif is taken from the shaman's drum (goavddis) figures recorded by Anders Fjellner in the epic 'Beaivi áhčážan' ('The Sons of the Sun')."
+    }
   ]
 }

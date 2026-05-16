@@ -1,8 +1,60 @@
 {
   "id": "FI-10",
-  "title": "Lappi (Finland)",
-  "iso": "FI-10",
+  "name": "Lapland (Finland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FI",
+  "codes": {
+    "iso_3166_2": "FI-10",
+    "wikidata": "Q5700"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the gules field of the historic Lappish arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden charges of the arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "silver detail in the arms"
+    },
+    {
+      "color": "green",
+      "symbolism": "the verdant elements of the heraldic figure"
+    },
+    {
+      "color": "black",
+      "symbolism": "heraldic outlining and tincture detail"
+    }
+  ],
+  "description": "A square red flag charged centrally with the elaborate provincial arms of Lapland, depicting a crowned wild-man figure holding a club.",
+  "history": "Lapland (Lappi) became a region under Finland's 1997 administrative reform; its banner is the heraldic flag of the regional coat of arms, derived from the historic provincial arms of Lapland documented from the seventeenth century.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lapland_(Finland)",
+    "https://fi.wikipedia.org/wiki/Lapin_lippu"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "arms of Lapland",
+      "symbolism": "the historic provincial arms of Lapland: a wild man (savage) holding a club, a motif documented from the seventeenth century and referring to the imagined inhabitants of the far north."
+    }
   ]
 }

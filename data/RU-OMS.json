@@ -1,8 +1,63 @@
 {
   "id": "RU-OMS",
-  "title": "Omsk Oblast (Russia)",
-  "iso": "RU-OMS",
+  "name": "Omsk Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-OMS",
+    "wikidata": "Q5835"
+  },
+  "region": [
+    "Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the courage of the people and the historic banners of the Cossacks"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and the openness of the Siberian plains"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the Irtysh River, which flows through the oblast"
+    }
+  ],
+  "description": "Three vertical stripes of red, white and red of equal width; a blue wavy vertical band runs through the centre of the white stripe, representing the Irtysh River.",
+  "history": "Adopted on 27 February 2003 by the Legislative Assembly of Omsk Oblast.",
+  "periods": [
+    {
+      "start": "2003-02-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Omsk_Oblast",
+    "https://en.wikipedia.org/wiki/Omsk_Oblast"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "red is the historic colour of the Russian banners of the Cossack hosts who founded Omsk; white stands for openness and the wide Siberian plains."
+    },
+    {
+      "type": "wave",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "Irtysh wavy band",
+      "symbolism": "a blue wavy vertical band running through the white stripe, representing the Irtysh River — the geographic backbone of the oblast."
+    }
   ]
 }

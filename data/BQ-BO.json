@@ -1,8 +1,84 @@
 {
   "id": "BQ-BO",
-  "title": "Bonaire",
-  "iso": "BQ-BO",
+  "name": "Bonaire (Caribbean Netherlands)",
   "type": [
     "subdivision"
+  ],
+  "parent": "NL",
+  "codes": {
+    "iso_3166_2": "BQ-BO",
+    "wikidata": "Q25396"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the sun"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the sea surrounding the island"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace and freedom"
+    },
+    {
+      "color": "black",
+      "symbolism": "the compass rose, representing the four cardinal directions"
+    },
+    {
+      "color": "red",
+      "symbolism": "love of the people for the island, on the six-pointed star"
+    }
+  ],
+  "description": "Divided diagonally from upper hoist to lower fly: a yellow triangle in the upper hoist and a blue triangle in the lower fly, separated by a narrow white diagonal band. A black-bordered white compass rose with a red six-pointed star at its centre is placed in the upper-hoist near the centre.",
+  "history": "Adopted on 11 December 1981. Designed by Whitney Newton Booi, the flag became official as Bonaire moved toward greater autonomy within the Netherlands Antilles; it remained in use after Bonaire became a special municipality of the Netherlands on 10 October 2010.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1981-12-11"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Bonaire"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "yellow",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "direction": "bend",
+      "symbolism": "A diagonal yellow and blue field divided by a narrow white stripe, with the upper-hoist a yellow triangle and the lower-fly a blue triangle."
+    },
+    {
+      "type": "circle",
+      "count": 1,
+      "color": "black",
+      "position": "center-hoist",
+      "role": "compass rose with arrows pointing to the four cardinal directions",
+      "symbolism": "the four cardinal directions; Bonaire's people, who came from all parts of the world"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "red",
+      "position": "center-hoist",
+      "role": "six-pointed star within the compass rose",
+      "symbolism": "the six original villages of Bonaire (Antriol, Nikiboko, Noord Salinja, Playa, Rincon, and Tera Cora)"
+    }
   ]
 }

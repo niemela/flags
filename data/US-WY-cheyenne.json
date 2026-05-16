@@ -1,7 +1,58 @@
 {
   "id": "US-WY-cheyenne",
-  "title": "Cheyenne, WY (United States)",
+  "name": "Cheyenne (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-WY",
+  "codes": {
+    "wikidata": "Q183279"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the central field"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the surrounding border, the bucking-horse silhouette and the cattle brand, evoking Wyoming's leather-and-cattle heritage"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "highlights and accents on the bucking-horse emblem"
+    }
+  ],
+  "description": "A white field framed by a brown border, charged at the centre with a stylised brown bucking horse and rider set within a circular cattle-brand ring.",
+  "history": "Cheyenne, the capital of Wyoming and a historic terminus of the Union Pacific Railroad and centre of the western cattle trade, uses the state's iconic Bucking Horse and Rider as the central device of its municipal flag.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cheyenne,_Wyoming"
+  ],
+  "features": [
+    {
+      "type": "bordure",
+      "field": "white",
+      "border": "brown"
+    },
+    {
+      "type": "horse",
+      "count": 1,
+      "color": "brown",
+      "position": "center",
+      "role": "bucking horse and rider — Wyoming's state symbol",
+      "symbolism": "The 'Bucking Horse and Rider' is Wyoming's defining state emblem, evoking the state's ranching and rodeo heritage. Cheyenne, the state capital, hosts the long-running 'Frontier Days' rodeo and uses the bronco prominently on its civic flag."
+    },
+    {
+      "type": "circle",
+      "count": 1,
+      "color": "brown",
+      "role": "stylised cattle-brand ring around the bucking-horse emblem",
+      "symbolism": "Recalls the cattle brands of the open range and Cheyenne's role as a historic centre of the cattle trade."
+    }
   ]
 }

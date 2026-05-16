@@ -1,8 +1,85 @@
 {
   "id": "SR",
-  "title": "Suriname",
-  "iso": "SR",
+  "name": "Suriname",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "SR",
+    "iso_3166_1_alpha3": "SUR",
+    "fifa": "SUR",
+    "ioc": "SUR",
+    "wikidata": "Q730"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America and the Caribbean",
+    "Caribbean"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the fertile land and abundant forests; hope for the future"
+    },
+    {
+      "color": "white",
+      "symbolism": "justice, freedom, and peace"
+    },
+    {
+      "color": "red",
+      "symbolism": "the love of country and progress"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden future, sacrifice, and the nation's bright destiny (the central star)"
+    }
+  ],
+  "description": "Five horizontal stripes — green (broad), white (thin), red (broadest), white (thin), green (broad) — with a centred yellow five-pointed star on the red stripe.",
+  "history": "Adopted on 25 November 1975, the day Suriname gained independence from the Netherlands. Designed by Jacques Herman Pinas, the flag was selected from a national competition, with the colours drawn from the principal political parties of the time — green for the agricultural party, red for the progressive party, white for justice and human rights, and yellow for the future.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1975-11-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Suriname"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 5,
+      "widths": [
+        2,
+        1,
+        4,
+        1,
+        2
+      ],
+      "symbolism": "green for the country's fertile land and forests, white for justice and freedom, red for the love of country and progress"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "yellow five-pointed star",
+      "symbolism": "the unity of the nation's ethnic groups, the spirit of sacrifice, and a hopeful future"
+    }
   ]
 }

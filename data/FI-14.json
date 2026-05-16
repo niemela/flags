@@ -1,8 +1,49 @@
 {
   "id": "FI-14",
-  "title": "Pohjois-Pohjanmaa (Finland)",
-  "iso": "FI-14",
+  "name": "North Ostrobothnia (Finland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FI",
+  "codes": {
+    "iso_3166_2": "FI-14",
+    "wikidata": "Q5789"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the azure field of the historic Ostrobothnian arms, evoking the lakes and skies of the region"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver ermine spots of the arms"
+    }
+  ],
+  "description": "A square blue flag charged with six silver ermine spots arrayed 3-2-1 in the centre, the heraldic banner of the North Ostrobothnia coat of arms.",
+  "history": "North Ostrobothnia (Pohjois-Pohjanmaa) became a region under Finland's 1997 administrative reform; its banner is the heraldic flag of the regional coat of arms, derived from the historic provincial arms of Ostrobothnia.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/North_Ostrobothnia",
+    "https://fi.wikipedia.org/wiki/Pohjois-Pohjanmaan_lippu"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 6,
+      "color": "white",
+      "position": "center",
+      "role": "ermine spots of Ostrobothnia",
+      "symbolism": "six silver ermine spots arrayed 3-2-1 on the blue field, derived from the historic provincial arms of Ostrobothnia and referring to the medieval ermine-fur trade that gave the region its early prosperity."
+    }
   ]
 }

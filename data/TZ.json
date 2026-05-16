@@ -1,8 +1,77 @@
 {
   "id": "TZ",
-  "title": "Tanzania",
-  "iso": "TZ",
+  "name": "Tanzania",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "TZ",
+    "iso_3166_1_alpha3": "TZA",
+    "fifa": "TAN",
+    "ioc": "TAN",
+    "wikidata": "Q924"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Eastern Africa",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the natural vegetation, agriculture, and the fertile land"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the country's rich mineral deposits"
+    },
+    {
+      "color": "black",
+      "symbolism": "the Swahili people, who form the majority of the population"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the lakes, rivers, and the Indian Ocean coast"
+    }
+  ],
+  "description": "A green triangle in the upper hoist and a blue triangle in the lower fly, separated by a black diagonal band running from the lower hoist to the upper fly, edged on each side by a thin yellow fimbriation.",
+  "history": "Adopted on 26 April 1964 when the United Republic of Tanganyika and Zanzibar (renamed Tanzania later that year) was formed by the union of mainland Tanganyika and the islands of Zanzibar. The flag combines the green-black-green flag of Tanganyika (independent 1961) with the blue from Zanzibar's revolutionary flag (1964), with the diagonal arrangement and yellow fimbriation drawn from a competition design.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1964-04-26"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Tanzania"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "black",
+        "yellow",
+        "blue"
+      ],
+      "count": 5,
+      "widths": [
+        6,
+        1,
+        4,
+        1,
+        6
+      ],
+      "direction": "bend",
+      "symbolism": "merges elements of the flags of the two states that united in 1964 — green and black from Tanganyika, and blue from Zanzibar — separated by a black diagonal band fimbriated in yellow"
+    }
   ]
 }

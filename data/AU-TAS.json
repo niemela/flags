@@ -1,8 +1,76 @@
 {
   "id": "AU-TAS",
-  "title": "Tasmania (Australia)",
-  "iso": "AU-TAS",
+  "name": "Tasmania (Australia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AU",
+  "codes": {
+    "iso_3166_2": "AU-TAS",
+    "wikidata": "Q34366"
+  },
+  "region": [
+    "Oceania",
+    "Australia and New Zealand",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field of the British Blue Ensign"
+    },
+    {
+      "color": "white",
+      "symbolism": "the disc bearing the state badge, also in the Union Jack"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lion passant of the state badge, also the crosses in the Union Jack"
+    }
+  ],
+  "description": "A blue British ensign with the Union Jack in the canton and a white disc in the fly bearing a red lion passant.",
+  "history": "Adopted on 25 September 1876 and retained after Australian federation in 1901. The red lion is widely interpreted as a reference to the British coat of arms.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1876-09-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Tasmania"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "Based on the British Blue Ensign, the standard format for Australian state flags."
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Jack, signifying historic ties to the United Kingdom"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "white",
+      "position": "center-fly",
+      "role": "white disc bearing the red lion",
+      "symbolism": "the white disc serves as the field for the state badge"
+    },
+    {
+      "type": "lion",
+      "count": 1,
+      "color": "red",
+      "position": "center-fly",
+      "role": "red lion passant within the white disc",
+      "symbolism": "the red lion, recalling British heritage and royal authority"
+    }
   ]
 }

@@ -1,7 +1,55 @@
 {
   "id": "US-SC-columbia",
-  "title": "Columbia, SC (United States)",
+  "name": "Columbia (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-SC",
+  "codes": {
+    "wikidata": "Q41183"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the principal field; deep blue of the Carolina sky and the city's rivers"
+    },
+    {
+      "color": "blue",
+      "symbolism": "intermediate diagonal band suggesting the convergence of rivers"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "innermost diagonal band evoking the daytime sky over the Midlands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the eight-pointed star marking the city's place as the state capital"
+    }
+  ],
+  "description": "A navy field crossed by two diagonal bands — one medium blue, one light blue — descending from the upper fly to the lower hoist in nested fashion, with a white eight-pointed star in the upper-hoist corner.",
+  "history": "Columbia, South Carolina's municipal flag uses graduated diagonal blue bands to represent the rivers and skies of the Midlands and a star to mark the city as state capital.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Columbia,_South_Carolina"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "Three nested diagonal bands of blue — dark navy, medium blue and pale blue — descend from the upper fly to the lower hoist, evoking the rivers and skies of the Midlands of South Carolina."
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "compass-rose star at the upper hoist",
+      "symbolism": "Marks Columbia as the capital of South Carolina; the eight points evoke a compass rose at the centre of the state."
+    }
   ]
 }

@@ -1,8 +1,71 @@
 {
   "id": "LR-RG",
-  "title": "River Gee (Liberia)",
-  "iso": "LR-RG",
+  "name": "River Gee County (Liberia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "LR",
+  "codes": {
+    "iso_3166_2": "LR-RG"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Red field with the Liberian national flag as a canton in the upper hoist; the upper fly bears a blue rectangle charged with a circle of yellow five-pointed stars, and the lower portion shows a green landscape.",
+  "history": "River Gee was created in 2000 from territory taken from Grand Gedeh County; its flag follows the design pattern of the original counties' flags.",
+  "periods": [
+    {
+      "start": "2000"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/River_Gee_County",
+    "https://en.wikipedia.org/wiki/Flags_of_the_counties_of_Liberia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "LR",
+      "proportion": "1/4",
+      "role": "the union",
+      "symbolism": "River Gee as part of the Republic of Liberia"
+    },
+    {
+      "type": "star",
+      "count": 14,
+      "points": 5,
+      "color": "yellow",
+      "arrangement": "circle",
+      "position": "upper-fly",
+      "role": "constellation",
+      "symbolism": "ring of stars on a blue field, evoking the wider African and global community"
+    }
   ]
 }

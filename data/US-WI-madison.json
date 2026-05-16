@@ -1,7 +1,59 @@
 {
   "id": "US-WI-madison",
-  "title": "Madison, WI (United States)",
+  "name": "Madison (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-WI",
+  "codes": {
+    "wikidata": "Q43788"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field, representing the city's open civic character"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "Lakes Mendota and Monona, between which downtown Madison sits on an isthmus"
+    },
+    {
+      "color": "black",
+      "symbolism": "outline of the Wisconsin State Capitol building at the centre"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the dome of the State Capitol"
+    }
+  ],
+  "description": "A white field crossed by two light-blue diagonal bands forming an off-centre saltire, with a stylised black silhouette of the Wisconsin State Capitol — its dome topped in gold — at the centre.",
+  "history": "Adopted by the Madison Common Council in 2018 to replace the city's 1962 flag, which had been retired after criticism that its central black disc and four-armed sun resembled an inverted swastika and were perceived as insensitive. The new design retains the diagonal blue bands evoking Lakes Mendota and Monona but replaces the central sun with a silhouette of the Wisconsin State Capitol.",
+  "periods": [
+    {
+      "start": "2018"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Madison,_Wisconsin"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "Two light-blue diagonals form an off-centre cross representing the lakes that flank Madison's isthmus; the white field carries the Wisconsin State Capitol at the centre."
+    },
+    {
+      "type": "building",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "stylised silhouette of the Wisconsin State Capitol",
+      "symbolism": "The Wisconsin State Capitol stands at the centre of Madison's isthmus and is the city's defining landmark; Madison is both the capital of Wisconsin and the seat of Dane County."
+    }
   ]
 }

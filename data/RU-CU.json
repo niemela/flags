@@ -1,8 +1,73 @@
 {
   "id": "RU-CU",
-  "title": "Chuvashia (Russia)",
-  "iso": "RU-CU",
+  "name": "Chuvashia (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-CU",
+    "wikidata": "Q5466"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Turkic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the sun, brightness, and the wealth of the Chuvash people"
+    },
+    {
+      "color": "red",
+      "symbolism": "the ancient land of the Chuvash, dignity, and respect"
+    }
+  ],
+  "description": "A horizontal bicolour of yellow above red, charged in the centre with a red stylised 'tree of life' surmounted by three red eight-rayed solar emblems.",
+  "history": "Adopted on 29 April 1992 by the Supreme Soviet of the Chuvash Republic. The design is by Elli Yuriev and uses traditional Chuvash folk emblems (the tree of life and the three suns) drawn from regional embroidery.",
+  "periods": [
+    {
+      "start": "1992-04-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Chuvashia",
+    "https://en.wikipedia.org/wiki/Chuvashia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        5,
+        3
+      ],
+      "symbolism": "the upper yellow field represents the brightness of the sun and the wealth of the Chuvash land; the lower red field represents the ancient land of Chuvashia."
+    },
+    {
+      "type": "tree",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "tree of life",
+      "symbolism": "a stylised 'tree of life' (Khel-Khue), a traditional Chuvash motif representing the indestructibility of the people and their connection to ancestors."
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 8,
+      "color": "red",
+      "position": "center",
+      "arrangement": "row",
+      "role": "three suns of protection",
+      "symbolism": "three eight-rayed solar emblems above the tree; a Chuvash folk motif meaning 'past, present and future' or 'protection'."
+    }
   ]
 }

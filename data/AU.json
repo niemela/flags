@@ -1,8 +1,97 @@
 {
   "id": "AU",
-  "title": "Australia",
-  "iso": "AU",
+  "name": "Australia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "AU",
+    "iso_3166_1_alpha3": "AUS",
+    "fifa": "AUS",
+    "ioc": "AUS",
+    "wikidata": "Q408"
+  },
+  "region": [
+    "Oceania",
+    "Australia and New Zealand",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the field of the British Blue Ensign"
+    },
+    {
+      "color": "white",
+      "symbolism": "the Commonwealth Star and Southern Cross stars; saltire and cross of the Union Flag"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross of St George and saltire of St Patrick in the Union Flag canton"
+    }
+  ],
+  "description": "A British Blue Ensign — navy field with the Union Flag in the upper-hoist canton (one quarter of the flag's area) — defaced with white stars: a large seven-pointed Commonwealth Star centred in the lower hoist, and the constellation of the Southern Cross in the fly half, comprising four seven-pointed stars and one smaller five-pointed star.",
+  "history": "Selected on 3 September 1901 from over 32,000 entries in a federal design competition held following federation; five entrants who submitted very similar designs shared the prize. The original 1901 flag had a six-pointed Commonwealth Star (one for each state); the seventh point was added in 1908 to represent the Territories. The flag was approved by Edward VII in 1902, gazetted in 1903, and given precedence over the Union Flag for civilian use in 1953 by the Flags Act 1953. Use is governed by the Flags Act 1953 (Cth).",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1908",
+      "end": "1909"
+    },
+    {
+      "start": "1909-05-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Australia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy",
+      "symbolism": "British Blue Ensign field — a defaced Blue Ensign indicating Australia's status as a Commonwealth realm"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "role": "Union Flag",
+      "symbolism": "Australia's history as a federation of British colonies and continuing membership of the Commonwealth"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 7,
+      "color": "white",
+      "position": "lower-hoist",
+      "role": "Commonwealth Star (Federation Star)",
+      "symbolism": "the federation of the six original states of the Commonwealth of Australia (1901), with a seventh point added in 1908 to represent the Territories collectively"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 7,
+      "color": "white",
+      "position": "fly",
+      "arrangement": "southern-cross",
+      "role": "Southern Cross — four larger stars (Alpha, Beta, Gamma, Delta Crucis)",
+      "symbolism": "the constellation Crux, prominent in the southern night sky and a long-standing emblem of the Southern Hemisphere"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "size": "small",
+      "position": "fly",
+      "arrangement": "southern-cross",
+      "role": "Southern Cross — Epsilon Crucis (smallest star)",
+      "symbolism": "the fifth and faintest of the Southern Cross stars, distinguished from the other four by its smaller size and only five points"
+    }
   ]
 }

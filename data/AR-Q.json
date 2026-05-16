@@ -1,8 +1,91 @@
 {
   "id": "AR-Q",
-  "title": "Neuquén (Argentina)",
-  "iso": "AR-Q",
+  "name": "Neuquen (Argentina)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AR",
+  "codes": {
+    "iso_3166_2": "AR-Q",
+    "wikidata": "Q44715"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the celestial blue of the Argentine flag and of the Patagonian sky"
+    },
+    {
+      "color": "white",
+      "symbolism": "the snow of the Andean cordillera; the central stripe of the Argentine flag"
+    },
+    {
+      "color": "green",
+      "symbolism": "the pehuen (Araucaria araucana), the sacred tree of the Mapuche-Pehuenche peoples and provincial tree of Neuquen"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the eight stars representing the eight points of contact between the province's geography and history"
+    },
+    {
+      "color": "red",
+      "symbolism": "the kultrun and the blood of the original Mapuche-Pehuenche peoples"
+    }
+  ],
+  "description": "A vertical triband of light blue, white and light blue, charged in the centre with a stylised green pehuen tree above a red eight-pointed star, all surrounded by a circle of eight small gold four-pointed stars.",
+  "history": "Adopted by provincial law 2495 on 5 May 2009 after a public competition won by Cristina Corradi de Beltran. The colours are those of the Argentine national flag; the central pehuen represents the province's iconic Araucaria araucana, while the red star and eight gold stars together honour the Mapuche-Pehuenche heritage and the geographic divisions of Neuquen.",
+  "periods": [
+    {
+      "start": "2009-05-05"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Neuqu%C3%A9n_Province",
+    "https://es.wikipedia.org/wiki/Bandera_de_la_provincia_del_Neuqu%C3%A9n"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "light-blue"
+      ],
+      "count": 3,
+      "symbolism": "the celestial blue and white of the Argentine national flag"
+    },
+    {
+      "type": "tree",
+      "count": 1,
+      "color": "green",
+      "position": "center",
+      "role": "pehuen (Araucaria araucana)",
+      "symbolism": "the monkey-puzzle tree, sacred to the Pehuenche people who give the province its name and its principal natural emblem"
+    },
+    {
+      "type": "star",
+      "count": 8,
+      "points": 4,
+      "color": "yellow",
+      "arrangement": "circle",
+      "position": "center",
+      "role": "eight gold stars",
+      "symbolism": "the eight regions of the province"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "red",
+      "position": "center",
+      "role": "central red star",
+      "symbolism": "the blood of the Mapuche-Pehuenche people and of the criollo settlers; the kultrun, a sacred Mapuche drum"
+    }
   ]
 }

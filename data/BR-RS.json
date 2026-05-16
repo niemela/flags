@@ -1,8 +1,66 @@
 {
   "id": "BR-RS",
-  "title": "Rio Grande do Sul (Brazil)",
-  "iso": "BR-RS",
+  "name": "Rio Grande do Sul (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-RS",
+    "wikidata": "Q40030"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A diagonally divided field of green (upper-fly) and yellow (lower-hoist), separated by a red diagonal band; the state's coat of arms is centred on a white oval that overlaps the band.",
+  "history": "Based on the flag of the Riograndense Republic raised by the Farrapos in the 1835 Ragamuffin War (Guerra dos Farrapos). Adopted as the state flag and made official by State Law No. 5,213 of 5 January 1966; the current arms were defined by Law No. 5,213 and detailed in subsequent decrees.",
+  "periods": [
+    {
+      "start": "1966-01-05"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Rio_Grande_do_Sul"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "yellow",
+      "direction": "bend-sinister",
+      "symbolism": "Tricolor green-red-yellow design derived from the flag of the short-lived Riograndense Republic (Farroupilha Republic, 1836-1845); a red diagonal band runs between the green and yellow halves"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Coat of arms of Rio Grande do Sul",
+      "symbolism": "Centred on a white oval, the state arms display weapons and symbols of the Farroupilha Revolution along with the date 20 SETEMBRO 1835 and the motto LIBERDADE IGUALDADE HUMANIDADE ('Liberty, Equality, Humanity')"
+    }
   ]
 }

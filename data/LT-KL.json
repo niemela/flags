@@ -1,8 +1,58 @@
 {
   "id": "LT-KL",
-  "title": "Klaipėda (Lithuania)",
-  "iso": "LT-KL",
+  "name": "Klaipeda County (Lithuania)",
   "type": [
     "subdivision"
+  ],
+  "parent": "LT",
+  "codes": {
+    "iso_3166_2": "LT-KL",
+    "wikidata": "Q205630"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Baltics",
+    "European Union"
+  ],
+  "aspect_ratio": "5:6",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the standard outer field of Lithuanian county flags"
+    },
+    {
+      "color": "white",
+      "symbolism": "the field of the county coat of arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "the colour of the central charge"
+    },
+    {
+      "color": "black",
+      "symbolism": "outline and detailing of the central charge"
+    }
+  ],
+  "description": "A blue field with a white inner panel bearing the coat of arms of Klaipeda County, a red maritime device referencing the historic seaport.",
+  "history": "Like the flags of all ten Lithuanian counties, Klaipeda's flag follows a uniform template introduced after the country's redivision into apskritys (counties) in 1994: a blue outer border surrounding the county's heraldic field, here white, charged with the maritime arms of Klaipeda.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Klaip%C4%97da_County",
+    "https://lt.wikipedia.org/wiki/Klaip%C4%97dos_apskritis"
+  ],
+  "features": [
+    {
+      "type": "bordure",
+      "field": "white",
+      "border": "blue",
+      "symbolism": "blue outer border in the Lithuanian county pattern, with a white inner field bearing the county arms"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "coat of arms of Klaipeda County",
+      "symbolism": "the county's heraldic device, including a red boat with a tower referencing the port city of Klaipeda and its maritime history"
+    }
   ]
 }

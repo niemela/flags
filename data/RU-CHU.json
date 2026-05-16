@@ -1,8 +1,76 @@
 {
   "id": "RU-CHU",
-  "title": "Chukotka Autonomous Okrug (Russia)",
-  "iso": "RU-CHU",
+  "name": "Chukotka Autonomous Okrug (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-CHU",
+    "wikidata": "Q7984"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the Bering Sea, the Chukchi Sea, and the Arctic sky"
+    },
+    {
+      "color": "white",
+      "symbolism": "the Arctic snows, ice, and the polar landscape"
+    },
+    {
+      "color": "red",
+      "symbolism": "the courage and labour of the people of Chukotka; ties to Russia"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the polar sun on the horizon"
+    }
+  ],
+  "description": "A blue field with a white isoceles triangle along the hoist (its base on the hoist edge, its apex pointing toward the fly); within the triangle, a yellow ring surrounds a small horizontal white-blue-red bar.",
+  "history": "Adopted on 18 May 1994 by the Duma of the Chukotka Autonomous Okrug.",
+  "periods": [
+    {
+      "start": "1994-05-18"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Chukotka_Autonomous_Okrug",
+    "https://en.wikipedia.org/wiki/Chukotka_Autonomous_Okrug"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "the blue field stands for the Bering and Chukchi Seas; the white triangle at the hoist evokes the Arctic snows and ice; the smaller red-blue-white triband within recalls the colours of the Russian flag; the golden circle echoes the polar sun."
+    },
+    {
+      "type": "triangle",
+      "count": 1,
+      "color": "white",
+      "position": "hoist",
+      "role": "white hoist triangle",
+      "symbolism": "a white isoceles triangle whose base lies along the hoist edge, point toward the centre; represents the Arctic snows and ice of Chukotka."
+    },
+    {
+      "type": "circle",
+      "count": 1,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "yellow ring",
+      "symbolism": "a thick yellow ring within the hoist triangle, representing the polar sun."
+    },
+    {
+      "type": "embedded-flag",
+      "embedded_flag_id": "RU",
+      "position": "hoist",
+      "role": "Russian-tricolour bar",
+      "symbolism": "a small white-blue-red horizontal bar inside the yellow ring evokes the flag of Russia and the okrug's place within the Russian Federation."
+    }
   ]
 }

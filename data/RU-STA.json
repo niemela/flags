@@ -1,8 +1,72 @@
 {
   "id": "RU-STA",
-  "title": "Stavropol Krai (Russia)",
-  "iso": "RU-STA",
+  "name": "Stavropol Krai (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-STA",
+    "wikidata": "Q5207"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Caucasus",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the wheat fields and steppe of Stavropol Krai"
+    },
+    {
+      "color": "white",
+      "symbolism": "the cross fimbriation: peace and faith"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the cross: loyalty and the rivers of the region"
+    },
+    {
+      "color": "red",
+      "symbolism": "the central medallion: courage and bravery"
+    }
+  ],
+  "description": "A gold (yellow) field charged with a blue cross fimbriated in white, with the coat of arms of Stavropol Krai placed at the centre of the cross.",
+  "history": "The flag of Stavropol Krai was adopted on 15 May 1997. The cross alludes to the krai's name (Stavropol literally means \"city of the cross\" in Greek) and the historical Russian Orthodox settlement of the North Caucasus frontier.",
+  "periods": [
+    {
+      "start": "1997-05-15"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Stavropol_Krai",
+    "https://en.wikipedia.org/wiki/Stavropol_Krai"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow",
+      "symbolism": "the gold field represents the steppe and the wheat-growing tradition of the krai."
+    },
+    {
+      "type": "greek-cross",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "blue cross",
+      "symbolism": "a blue cross fimbriated in white, alluding to the historical Russian Orthodox heritage of the region and the cardinal directions of the krai's expansion."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "arms of Stavropol Krai",
+      "symbolism": "the regional coat of arms placed at the cross's centre."
+    }
   ]
 }

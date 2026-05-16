@@ -1,8 +1,66 @@
 {
   "id": "DK-85",
-  "title": "Sjælland (Denmark)",
-  "iso": "DK-85",
+  "name": "Region Sjælland (Region Zealand)",
   "type": [
     "subdivision"
+  ],
+  "parent": "DK",
+  "codes": {
+    "iso_3166_2": "DK-85",
+    "wikidata": "Q26127"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the light blue of Region Sjælland's corporate identity, evoking the seas surrounding the island of Zealand"
+    },
+    {
+      "color": "white",
+      "symbolism": "the regional logo of stylised circles and the wordmark 'Region Sjælland'"
+    }
+  ],
+  "description": "A light blue field charged with a white scattered constellation of circles forming the Region Sjælland mark, beside the white wordmark 'Region Sjælland'.",
+  "history": "Region Sjælland was established on 1 January 2007 by the Danish Local Government Reform (Strukturreformen). The flag uses the region's official light-blue corporate identity.",
+  "variant": [
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2007-01-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Region_Zealand",
+    "https://en.wikipedia.org/wiki/Regions_of_Denmark"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "circle",
+      "count": 11,
+      "color": "white",
+      "position": "center",
+      "arrangement": "scattered",
+      "role": "Region Sjælland symbol of grouped circles",
+      "symbolism": "the constellation of circles in the regional logo, representing the islands of Zealand and the constituent municipalities of the region"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Region Sjælland wordmark"
+    }
   ]
 }

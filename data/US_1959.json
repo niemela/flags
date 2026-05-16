@@ -1,9 +1,86 @@
 {
-  "id": "US_1912-1959",
-  "title": "United States (1912-1959)",
-  "iso": "US",
+  "id": "US_1959",
+  "name": "United States (1912–1959)",
   "type": [
     "historical",
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q1075588"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "10:19",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "valour and hardiness"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and innocence"
+    },
+    {
+      "color": "blue",
+      "symbolism": "vigilance, perseverance, and justice"
+    }
+  ],
+  "description": "Thirteen alternating red and white horizontal stripes (seven red, six white). In the upper hoist, a blue canton bearing 48 white five-pointed stars arranged in a regular six-by-eight grid.",
+  "history": "Adopted on 4 July 1912 following the admission of New Mexico (6 January 1912) and Arizona (14 February 1912) as the 47th and 48th states. President William Howard Taft signed Executive Order 1556 on 24 June 1912, which for the first time precisely specified the proportions and the arrangement of the stars in the canton — establishing the standard six rows of eight that the 48-star flag would keep for nearly half a century. The 48-star flag flew through the First World War, the Roaring Twenties, the Great Depression, the Second World War, and the early Cold War, including the planting of the flag at Iwo Jima in 1945. It was replaced on 4 July 1959 after the admission of Alaska as the 49th state on 3 January 1959.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1912-07-04",
+      "end": "1959-07-04"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_United_States",
+    "https://en.wikipedia.org/wiki/48-star_flag"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 13,
+      "symbolism": "the thirteen original British colonies that declared independence in 1776"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "proportion": "7/13 height, 2/5 width",
+      "symbolism": "the union of the states",
+      "features": [
+        {
+          "type": "star",
+          "count": 48,
+          "points": 5,
+          "color": "white",
+          "arrangement": "grid",
+          "rows": [
+            8,
+            8,
+            8,
+            8,
+            8,
+            8
+          ],
+          "role": "Stars representing the 48 states",
+          "symbolism": "the 48 states of the contiguous United States"
+        }
+      ]
+    }
   ]
 }

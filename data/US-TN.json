@@ -1,8 +1,81 @@
 {
   "id": "US-TN",
-  "title": "Tennessee (United States)",
-  "iso": "US-TN",
+  "name": "Tennessee (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-TN",
+    "fips_state": "47",
+    "wikidata": "Q1509"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A red field with a vertical blue bar at the fly (separated from the field by a narrow white stripe). In the center of the red field a blue disc, edged in white, holds three white five-pointed stars arranged so that no point touches another.",
+  "history": "Adopted on 17 April 1905 from a design by Captain LeRoy Reeves of the Third Regiment, Tennessee Infantry. Reeves explained that the three stars represent the three 'Grand Divisions' of the state — East, Middle and West Tennessee — and that the circle binding them together symbolizes the indivisible unity of the three. The vertical blue bar at the fly is decorative, intended to keep the flag from showing 'too much white' when limp.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1905-04-17"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Tennessee"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "border",
+      "color": "blue",
+      "position": "fly",
+      "role": "a vertical blue bar along the fly edge",
+      "symbolism": "decorative element separating the field from the fly"
+    },
+    {
+      "type": "border",
+      "color": "white",
+      "position": "fly",
+      "role": "a narrow white fimbriation between the red field and the blue fly bar"
+    },
+    {
+      "type": "circle",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "a blue disc in the center of the red field, fimbriated white",
+      "symbolism": "contains the three stars of Tennessee"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "arrangement": "constellation-other",
+      "role": "three white five-pointed stars within the blue disc",
+      "symbolism": "the three Grand Divisions of Tennessee — East, Middle and West Tennessee — bound together in indissoluble unity"
+    }
   ]
 }

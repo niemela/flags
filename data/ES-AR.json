@@ -1,8 +1,77 @@
 {
   "id": "ES-AR",
-  "title": "Aragon (Spain)",
-  "iso": "ES-AR",
+  "name": "Aragon (Spain)",
   "type": [
     "subdivision"
+  ],
+  "parent": "ES",
+  "codes": {
+    "iso_3166_2": "ES-AR",
+    "wikidata": "Q4040"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Iberian Peninsula",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the gold field of the Senyera, the historic arms of Aragon"
+    },
+    {
+      "color": "red",
+      "symbolism": "the four pales of the Senyera"
+    },
+    {
+      "color": "blue",
+      "symbolism": "field of the cross of Inigo Arista quarter of the coat of arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "field details and the cross of Sobrarbe"
+    },
+    {
+      "color": "black",
+      "symbolism": "the Moor's heads of the cross of Saint George"
+    },
+    {
+      "color": "green",
+      "symbolism": "the holm-oak of Sobrarbe"
+    }
+  ],
+  "description": "Nine equal horizontal stripes alternating yellow and red (five yellow and four red, the Senyera), with the coat of arms of Aragon on the hoist side.",
+  "history": "Codified in the Statute of Autonomy of Aragon of 10 August 1982 and Law 2/1984. The four red pales on gold (the Senyera) is documented as the arms of the Crown of Aragon from the 12th century and is among the oldest continuously used heraldic devices in Europe.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1984"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Aragon"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 9,
+      "symbolism": "The four red pales on a gold field (the Senyera, also known as the Bars of Aragon) is one of the oldest heraldic devices in continuous use in Europe; it served as the arms of the Crown of Aragon from at least the 12th century."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "hoist",
+      "role": "coat of arms of Aragon (a quartered shield: the holm-oak of Sobrarbe, the cross of Inigo Arista, the cross of Saint George with four Moors' heads, and the four pales of Aragon)",
+      "symbolism": "The four quarters represent the legendary origins of the Kingdom of Aragon (Sobrarbe), the early Pyrenean kingdom of Inigo Arista, the victory of King Peter I at Alcoraz (the cross of Saint George with the four Moors' heads), and the modern arms of the Crown of Aragon."
+    }
   ]
 }

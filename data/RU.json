@@ -1,8 +1,68 @@
 {
   "id": "RU",
-  "title": "Russia",
-  "iso": "RU",
+  "name": "Russia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "RU",
+    "iso_3166_1_alpha3": "RUS",
+    "fifa": "RUS",
+    "ioc": "RUS",
+    "wikidata": "Q159"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "popularly nobility, frankness or peace"
+    },
+    {
+      "color": "blue",
+      "symbolism": "popularly faithfulness, honesty and chastity"
+    },
+    {
+      "color": "red",
+      "symbolism": "popularly courage, generosity and love"
+    }
+  ],
+  "description": "Three equal horizontal stripes of white (top), blue and red.",
+  "history": "The white-blue-red tricolour was first flown on the Russian frigate Oryol in 1668 and formally introduced by Tsar Peter the Great in 1696 as a Russian merchant ensign — likely inspired by the Dutch tricolour. It served as the civil flag of the Russian Empire until 1858, was reaffirmed by Alexander III in 1883, and remained the national flag until 1917. After 74 years of Soviet red-flag use, the tricolour was readopted by the Russian SFSR on 22 August 1991 in the wake of the failed August coup (a date now celebrated as National Flag Day) and confirmed by the federal constitutional law of 25 December 2000.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1696",
+      "end": "1917"
+    },
+    {
+      "start": "1991-08-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Russia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "the pan-Slavic colours, originally adopted from the Russian flag itself; popularly read as nobility and frankness (white), faithfulness and chastity (blue), and courage, generosity and love (red)"
+    }
   ]
 }

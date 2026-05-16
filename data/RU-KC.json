@@ -1,8 +1,72 @@
 {
   "id": "RU-KC",
-  "title": "Karachay-Cherkessia (Russia)",
-  "iso": "RU-KC",
+  "name": "Karachay-Cherkessia (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-KC",
+    "wikidata": "Q5328"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Caucasus",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "peace, kind motives, and tranquility"
+    },
+    {
+      "color": "green",
+      "symbolism": "nature, fertility, wealth, youth, wisdom, and restraint"
+    },
+    {
+      "color": "red",
+      "symbolism": "warmth and the closeness and unity of the peoples of Karachay-Cherkessia"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the rising sun"
+    },
+    {
+      "color": "white",
+      "symbolism": "the bordering ring around the central emblem"
+    }
+  ],
+  "description": "Horizontal tricolour of light blue, green, and red, with a central white-ringed roundel showing a yellow sun rising from behind mountains.",
+  "history": "Adopted on 3 December 1994 by decree of the Supreme Council of the Karachay-Cherkess Republic, with revisions to the description on 26 July 1996.",
+  "periods": [
+    {
+      "start": "1994-12-03"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Karachay-Cherkessia",
+    "https://en.wikipedia.org/wiki/Karachay-Cherkessia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "green",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "rays": 16,
+      "role": "rising sun behind mountains",
+      "symbolism": "the sun rising from behind the mountains, representing the landscape of the republic; framed by a white circular ring."
+    }
   ]
 }

@@ -1,8 +1,81 @@
 {
   "id": "VG",
-  "title": "British Virgin Islands",
-  "iso": "VG",
+  "name": "British Virgin Islands (United Kingdom)",
   "type": [
     "subdivision"
+  ],
+  "parent": "GB",
+  "codes": {
+    "iso_3166_1_alpha2": "VG",
+    "iso_3166_1_alpha3": "VGB",
+    "wikidata": "Q25305"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the Blue Ensign field"
+    },
+    {
+      "color": "red",
+      "symbolism": "Saint George's Cross and Saint Patrick's Saltire of the Union Flag"
+    },
+    {
+      "color": "white",
+      "symbolism": "the Union Flag fimbriations and the territorial coat of arms"
+    },
+    {
+      "color": "green",
+      "symbolism": "the shield of the territorial coat of arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lamps held by Saint Ursula on the coat of arms"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlines on the territorial badge"
+    }
+  ],
+  "description": "A British Blue Ensign defaced with the territorial coat of arms in the fly: a green shield bearing Saint Ursula, robed in white and holding a golden oil lamp, surrounded by eleven further lamps. Below the shield is a scroll inscribed 'VIGILATE'. The Union Flag occupies the canton.",
+  "history": "Adopted on 15 November 1960 when the territory became a separate Crown colony, replacing the earlier flag of the Leeward Islands. The coat of arms had been granted in 1909.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1960-11-15"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_British_Virgin_Islands"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the British Blue Ensign field"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Flag, indicating the territory's status as a British Overseas Territory"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center-fly",
+      "role": "coat of arms of the British Virgin Islands",
+      "symbolism": "a green shield charged with Saint Ursula in white robes, holding a golden oil lamp, surrounded by eleven additional lamps representing her eleven thousand virgin companions; below the shield a scroll with the motto 'VIGILATE' ('Be Watchful'). The islands take their name from Saint Ursula and her companions."
+    }
   ]
 }

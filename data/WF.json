@@ -1,8 +1,65 @@
 {
   "id": "WF",
-  "title": "Wallis and Futuna",
-  "iso": "WF",
+  "name": "Wallis and Futuna (France)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FR",
+  "codes": {
+    "iso_3166_1_alpha2": "WF",
+    "iso_3166_1_alpha3": "WLF",
+    "wikidata": "Q35555"
+  },
+  "region": [
+    "Oceania",
+    "Polynesia",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field of the local flag"
+    },
+    {
+      "color": "white",
+      "symbolism": "the white square enclosing the canton and the saltire of Wallis on the fly"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the blue stripe of the French Tricolore in the canton, indicating French sovereignty"
+    }
+  ],
+  "description": "A red field with a white square in the upper hoist containing the French Tricolore as a sub-canton, and a white saltire-like cross on the fly side.",
+  "history": "The official flag of Wallis and Futuna is the French Tricolore; this red local flag with the saltire of Wallis is the unofficial territorial flag in widespread use. Wallis and Futuna became a French protectorate in 1888 and an Overseas Territory (TOM) in 1961, and is now a French Overseas Collectivity (COM).",
+  "status": "de-facto",
+  "periods": [
+    {
+      "start": "1985~"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wallis_and_Futuna",
+    "https://en.wikipedia.org/wiki/List_of_French_flags#Overseas_collectivities"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the red field of the historic territorial flag of Wallis and Futuna"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "FR",
+      "proportion": "1/4",
+      "symbolism": "French sovereignty over the territory; Wallis and Futuna is a French overseas collectivity"
+    },
+    {
+      "type": "saltire",
+      "color": "white",
+      "position": "fly",
+      "role": "saltire of Wallis",
+      "symbolism": "the four armed saltire associated with the Kingdom of Wallis (Uvea), one of the three traditional kingdoms of the territory"
+    }
   ]
 }

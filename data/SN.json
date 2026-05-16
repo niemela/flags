@@ -1,8 +1,71 @@
 {
   "id": "SN",
-  "title": "Senegal",
-  "iso": "SN",
+  "name": "Senegal",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "SN",
+    "iso_3166_1_alpha3": "SEN",
+    "fifa": "SEN",
+    "ioc": "SEN",
+    "wikidata": "Q1041"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Sahel",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "hope and religion; for Muslims, the colour of the Prophet, for Christians, the colour of hope, and for animists, fertility"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "wealth, knowledge, and the natural riches of the country"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed in the struggle for independence and the determination to fight against underdevelopment"
+    }
+  ],
+  "description": "Three equal vertical stripes — green, yellow, and red — with a centred green five-pointed star on the yellow stripe.",
+  "history": "Adopted on 20 August 1960 when Senegal seceded from the short-lived Mali Federation. The Federation flag was a vertical green-yellow-red tricolour bearing a black human figure (kanaga); when Senegal left, the kanaga was replaced by a green star. The Pan-African colour scheme was inherited from the flag of Ghana via the Mali Federation.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1960-08-20"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Senegal"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "the Pan-African colours, shared with Mali, Guinea, Cameroon, and other former French African colonies"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "green",
+      "position": "center",
+      "role": "green five-pointed star",
+      "symbolism": "the openness of Senegal to the five continents and the unity of the country; the green echoes the hope of the African renaissance"
+    }
   ]
 }

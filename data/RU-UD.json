@@ -1,8 +1,64 @@
 {
   "id": "RU-UD",
-  "title": "Udmurtia (Russia)",
-  "iso": "RU-UD",
+  "name": "Udmurtia (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-UD",
+    "wikidata": "Q5422"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the earth and stability"
+    },
+    {
+      "color": "white",
+      "symbolism": "the cosmos, purity and the moral law"
+    },
+    {
+      "color": "red",
+      "symbolism": "the sun and life"
+    }
+  ],
+  "description": "A vertical triband of black, white and red with an eight-pointed solar sign (an octagonal star) in red on the central white stripe.",
+  "history": "The flag of the Udmurt Republic was adopted on 4 November 1993. The eight-pointed star is the traditional Udmurt solar amulet, believed to protect against evil; the colour scheme reflects ancient Finno-Ugric cosmology.",
+  "periods": [
+    {
+      "start": "1993-11-04"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Udmurtia",
+    "https://en.wikipedia.org/wiki/Udmurtia"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "the black, white and red tricolour stands for the earth, the cosmic order and the sun and life respectively, drawn from traditional Udmurt cosmology."
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "red",
+      "position": "center",
+      "role": "solar sign (eight-pointed star)",
+      "symbolism": "the eight-pointed star is the traditional Udmurt solar sign, a guardian symbol against misfortune; placed on the central white stripe in red."
+    }
   ]
 }

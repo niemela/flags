@@ -1,8 +1,80 @@
 {
   "id": "BR-MS",
-  "title": "Mato Grosso do Sul (Brazil)",
-  "iso": "BR-MS",
+  "name": "Mato Grosso do Sul (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-MS",
+    "wikidata": "Q43319"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "peace"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the sky over Mato Grosso do Sul"
+    },
+    {
+      "color": "green",
+      "symbolism": "the forests and pastures"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "wealth, especially mineral wealth"
+    }
+  ],
+  "description": "A white field charged with a large light-blue triangle in the upper fly and a smaller green triangle in the upper hoist; a single yellow five-pointed star is set within the blue triangle near the fly.",
+  "history": "Adopted on 1 January 1979, when Mato Grosso do Sul was created by the splitting of the southern part of Mato Grosso under Complementary Law No. 31 of 1977.",
+  "periods": [
+    {
+      "start": "1979-01-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Mato_Grosso_do_Sul"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "field": "white",
+      "symbolism": "A white field with a large blue triangle in the upper fly and a smaller green triangle at the hoist, the blue charged with a single yellow star"
+    },
+    {
+      "type": "triangle",
+      "count": 1,
+      "color": "light-blue",
+      "position": "upper-fly",
+      "role": "blue triangle covering the upper fly",
+      "symbolism": "the sky"
+    },
+    {
+      "type": "triangle",
+      "count": 1,
+      "color": "green",
+      "position": "upper-hoist",
+      "role": "green triangle in the upper hoist",
+      "symbolism": "the forests"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "upper-fly",
+      "role": "single five-pointed star",
+      "symbolism": "the new state of Mato Grosso do Sul"
+    }
   ]
 }

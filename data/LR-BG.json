@@ -1,8 +1,75 @@
 {
   "id": "LR-BG",
-  "title": "Bong (Liberia)",
-  "iso": "LR-BG",
+  "name": "Bong County (Liberia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "LR",
+  "codes": {
+    "iso_3166_2": "LR-BG"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "orange"
+    },
+    {
+      "color": "pink"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Orange field with the Liberian national flag as a canton in the upper hoist; a pink wave-shaped band along the lower edge represents the rolling country, with a white figural device in the fly half representing rural life.",
+  "history": "Presented by President William V. S. Tubman on 29 November 1965 together with the flags of the other Liberian counties.",
+  "periods": [
+    {
+      "start": "1965-11-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bong_County",
+    "https://en.wikipedia.org/wiki/Flags_of_the_counties_of_Liberia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "orange"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "LR",
+      "proportion": "1/4",
+      "role": "the union",
+      "symbolism": "Bong as part of the Republic of Liberia"
+    },
+    {
+      "type": "wave",
+      "color": "pink",
+      "position": "bottom",
+      "role": "rolling country",
+      "symbolism": "the rolling Bong landscape"
+    },
+    {
+      "type": "human-figure",
+      "color": "white",
+      "position": "center-fly",
+      "role": "rural life",
+      "symbolism": "the agricultural and traditional life of the county"
+    }
   ]
 }

@@ -1,8 +1,110 @@
 {
   "id": "US-MS",
-  "title": "Mississippi (United States)",
-  "iso": "US-MS",
+  "name": "Mississippi (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-MS",
+    "fips_state": "28",
+    "wikidata": "Q1494"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "evokes the blue of the U.S. flag"
+    },
+    {
+      "color": "gold",
+      "symbolism": "Mississippi's rich cultural and artistic heritage"
+    },
+    {
+      "color": "red",
+      "symbolism": "hardiness and valour"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity, the magnolia blossom"
+    },
+    {
+      "color": "green",
+      "symbolism": "the magnolia leaves and Mississippi's natural abundance"
+    }
+  ],
+  "description": "A horizontal banner with a wide central navy-blue field flanked above and below by narrow gold bands and broad red bars at the top and bottom edges. In the centre, a white magnolia blossom is encircled by a ring of twenty white five-pointed stars, with a single gold five-pointed star above it; below the magnolia, the words 'IN GOD WE TRUST' appear in gold capitals.",
+  "history": "Designed by Rocky Vaughan with contributions from Sue Anna Joe, Kara Giles, Dominique Pugh, Micah Whitson and Clay Moss, and selected from over 3,000 submissions by the Commission to Redesign the Mississippi State Flag established in 2020. Approved by Mississippi voters on 3 November 2020 and signed into law by Governor Tate Reeves on 11 January 2021, replacing the 1894 flag (with its Confederate Battle Flag canton) which had been retired by the legislature on 30 June 2020.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2021-01-11"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Mississippi"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "gold",
+        "navy",
+        "gold",
+        "red"
+      ],
+      "count": 5,
+      "widths": [
+        2,
+        1,
+        6,
+        1,
+        2
+      ],
+      "symbolism": "navy blue evoking the U.S. flag; gold bands recalling Mississippi's cultural and artistic richness, including the gold accent on the Choctaw diamond pattern; red bands signifying hardiness and valour"
+    },
+    {
+      "type": "flower",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "magnolia blossom encircled by twenty stars and crowned by a single five-pointed gold star",
+      "symbolism": "the magnolia, Mississippi's state flower; symbolises the hospitality and grace of Mississippians"
+    },
+    {
+      "type": "star",
+      "count": 20,
+      "points": 5,
+      "color": "white",
+      "arrangement": "circle",
+      "position": "center",
+      "role": "ring of twenty white five-pointed stars around the magnolia",
+      "symbolism": "Mississippi's status as the 20th state admitted to the Union"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "gold",
+      "position": "center",
+      "role": "single gold five-pointed star above the magnolia",
+      "symbolism": "honours the indigenous peoples of the land that became Mississippi (sometimes described as a Choctaw diamond star)"
+    },
+    {
+      "type": "glyph",
+      "color": "gold",
+      "position": "center",
+      "role": "the words 'IN GOD WE TRUST' in gold on the navy field beneath the magnolia",
+      "symbolism": "the United States national motto"
+    }
   ]
 }

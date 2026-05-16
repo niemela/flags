@@ -1,8 +1,90 @@
 {
   "id": "US-IN",
-  "title": "Indiana (United States)",
-  "iso": "US-IN",
+  "name": "Indiana (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-IN",
+    "fips_state": "18",
+    "wikidata": "Q1415"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A blue field charged with a gold flaming torch in the centre, surrounded by an outer ring of thirteen gold five-pointed stars and an inner semicircle of five smaller stars. A larger nineteenth star sits above the torch, surmounted by the word 'INDIANA' in a semicircular arc. Rays from the torch reach toward the three nearest stars.",
+  "history": "Designed by Paul Hadley of Mooresville, Indiana, as the winning entry in a 1916 competition organized by the Indiana Society of the Daughters of the American Revolution to commemorate the state's centennial. The flag was adopted by the General Assembly on 31 May 1917, originally called the 'state banner'; the official designation was changed to 'state flag' in 1955.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1917-05-31"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Indiana"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "torch",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "flaming torch",
+      "symbolism": "liberty and enlightenment; the rays radiating from the torch represent their far-reaching influence"
+    },
+    {
+      "type": "star",
+      "count": 13,
+      "points": 5,
+      "color": "yellow",
+      "arrangement": "circle",
+      "role": "outer ring of thirteen stars around the torch",
+      "symbolism": "the original thirteen states"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "yellow",
+      "arrangement": "arc",
+      "role": "inner half-circle of five stars",
+      "symbolism": "the next five states admitted to the Union after the original thirteen"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "size": "large",
+      "position": "top",
+      "role": "the large nineteenth star above the torch",
+      "symbolism": "Indiana, the nineteenth state to be admitted to the Union"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "yellow",
+      "position": "top",
+      "role": "the word 'INDIANA' in an arc above the large star"
+    }
   ]
 }

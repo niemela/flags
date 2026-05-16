@@ -1,8 +1,72 @@
 {
   "id": "AR",
-  "title": "Argentina",
-  "iso": "AR",
+  "name": "Argentina",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "AR",
+    "iso_3166_1_alpha3": "ARG",
+    "fifa": "ARG",
+    "ioc": "ARG",
+    "wikidata": "Q414"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "9:14",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the clear sky over Buenos Aires; the Virgin Mary; the Bourbon dynastic colour adopted by the May Revolution"
+    },
+    {
+      "color": "white",
+      "symbolism": "the clouds; purity; the silver of the Río de la Plata"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the colour of the Sun of May"
+    }
+  ],
+  "description": "Three equal horizontal stripes — light blue, white, light blue — with a gold Sun of May centred on the white stripe. The sun has a human face surrounded by 32 rays that alternate straight and wavy.",
+  "history": "The light-blue and white cockade was created by Manuel Belgrano in February 1812 and the corresponding flag first hoisted on 27 February 1812 on the banks of the Paraná river. The flag was officially adopted by the Congress of Tucumán on 20 July 1816 shortly after the declaration of independence. The Sun of May was added to the official (state) flag on 25 February 1818; until 12 August 1985 the plain triband was the civil flag and only the state used the version with the sun, but a decree that year unified the two so that the sun-bearing version is now used by both civilians and government.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1818-02-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Argentina",
+    "https://en.wikipedia.org/wiki/Sun_of_May"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "light-blue"
+      ],
+      "count": 3,
+      "symbolism": "traditionally said to evoke the sky and the clouds above the Río de la Plata; also the colours of the Bourbon dynasty and of the cockades worn by the May 1810 revolutionaries"
+    },
+    {
+      "type": "sun",
+      "color": "gold",
+      "position": "center",
+      "rays": 32,
+      "role": "Sun of May (Sol de Mayo)",
+      "symbolism": "the Inca sun god Inti; commemorates the appearance of the sun through the clouds during the first mass demonstration in favour of independence on 25 May 1810. The sun has a human face and 32 rays alternating straight and wavy"
+    }
   ]
 }

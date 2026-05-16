@@ -1,8 +1,87 @@
 {
   "id": "GS",
-  "title": "South Georgia and the South Sandwich Islands",
-  "iso": "GS",
+  "name": "South Georgia and the South Sandwich Islands",
   "type": [
-    "subdivision"
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "iso_3166_1_alpha2": "GS",
+    "iso_3166_1_alpha3": "SGS",
+    "wikidata": "Q35086"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the field of the British Blue Ensign"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltire and cross of the Union Flag and details of the arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross of Saint George and saltire of Saint Patrick in the Union Flag canton; the lion and Captain Cook's flag in the arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold lion of England and torch in the arms"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the wavy bar in the shield representing the Southern Ocean"
+    },
+    {
+      "color": "green",
+      "symbolism": "the tussock grass of the islands"
+    },
+    {
+      "color": "black",
+      "symbolism": "outline detailing of the arms"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the reindeer (formerly introduced) of the supporters"
+    }
+  ],
+  "description": "A British Blue Ensign — navy field with the Union Flag in the upper-hoist canton — defaced in the fly with the territorial coat of arms, a heraldic shield supported by a sea lion and a macaroni penguin, with a reindeer crest above and a motto scroll below.",
+  "history": "Granted by Queen Elizabeth II on 3 October 1985. South Georgia was claimed for Britain by Captain James Cook in 1775; the South Sandwich Islands were also discovered by Cook on the same expedition. The islands were briefly occupied by Argentina during the Falklands War in 1982. The territory was administered as a Falkland Islands Dependency until 1985, when it became a separate British Overseas Territory.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1985-10-03"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_South_Georgia_and_the_South_Sandwich_Islands"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy",
+      "symbolism": "navy field of the British Blue Ensign — the territory's flag is a defaced Blue Ensign indicating its status as a British Overseas Territory"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Flag indicating the territory's status as a British Overseas Territory"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "fly",
+      "role": "Coat of arms of South Georgia and the South Sandwich Islands",
+      "symbolism": "the territorial arms feature a shield with a wavy blue and silver bar (the Southern Ocean) bearing a gold lion holding the Red Ensign of Captain Cook (who claimed the islands in 1775); supporters are a sea lion (left) and a macaroni penguin (right); the crest is a reindeer (an introduced species, since eradicated) above a helm; the motto 'Leo Terram Propriam Protegat' ('Let the lion protect his own land') appears below"
+    }
   ]
 }

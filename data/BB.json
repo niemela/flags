@@ -1,8 +1,71 @@
 {
   "id": "BB",
-  "title": "Barbados",
-  "iso": "BB",
+  "name": "Barbados",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "BB",
+    "iso_3166_1_alpha3": "BRB",
+    "fifa": "BRB",
+    "ioc": "BAR",
+    "wikidata": "Q244"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the sea and the sky surrounding Barbados"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden sand of the island's beaches"
+    },
+    {
+      "color": "black",
+      "symbolism": "the trident-head, broken from its shaft, signifying a clean break with the colonial past"
+    }
+  ],
+  "description": "Three equal vertical stripes — ultramarine, gold and ultramarine — with a black trident-head (broken from its shaft) centred on the gold band.",
+  "history": "Adopted on 30 November 1966, the day Barbados gained independence from the United Kingdom. The flag was designed by Grantley Prescod, a Barbadian art teacher, whose entry was chosen from over a thousand submissions in an open competition. The broken trident is a deliberate departure from the colonial badge, which had shown Britannia holding an intact trident over the sea.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1966-11-30"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Barbados"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "blue"
+      ],
+      "count": 3,
+      "symbolism": "the two ultramarine bands represent the sea and sky, the gold band between them the sand of the island's beaches"
+    },
+    {
+      "type": "spear",
+      "color": "black",
+      "position": "center",
+      "role": "broken trident-head",
+      "symbolism": "based on the trident of Neptune that featured on the colonial badge of Barbados; the shaft has been broken off to signify the historic break with Britain on independence. The three points are interpreted as the three principles of democracy: government of, for and by the people"
+    }
   ]
 }

@@ -1,8 +1,72 @@
 {
   "id": "ZA",
-  "title": "South Africa",
-  "iso": "ZA",
+  "name": "South Africa",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "ZA",
+    "iso_3166_1_alpha3": "ZAF",
+    "fifa": "RSA",
+    "ioc": "RSA",
+    "wikidata": "Q258"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Southern Africa",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "symbolism": "The official explanation issued by the State Herald describes the central design — a horizontal Y (the pall) — as 'the convergence of diverse elements within South African society, taking the road ahead in unity.' Beyond this convergence motif, the South African government has explicitly attached no symbolism to individual colours; the public is invited to read whatever meanings they wish into them.",
+  "description": "Two horizontal halves separated by a horizontal green Y (a pall lying on its side, opening to the hoist). The upper triangle is red and the lower triangle is blue; the pall is fimbriated white above and below, and a black isoceles triangle sits at the hoist between the upper and lower arms of the pall, fimbriated yellow against the green pall. Aspect ratio 2:3.",
+  "history": "Adopted on 27 April 1994, the day of South Africa's first non-racial democratic elections, replacing the 1928 flag. Designed by Frederick Brownell, then State Herald of South Africa, who unveiled it on 15 March 1994 after a hurried selection process when the multiparty negotiating council failed to choose among more than 7,000 public submissions. Originally intended as an interim flag for a five-year period, it was retained by the 1996 Constitution as the permanent national flag. It is the only national flag in the world with six colours as part of its primary design and without a seal or brocade.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1994-04-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_South_Africa",
+    "https://www.gov.za/about-sa/national-symbols/national-flag"
+  ],
+  "features": [
+    {
+      "type": "pall",
+      "field": "red",
+      "pall": "green",
+      "fimbriation": {
+        "color": "white",
+        "around": "pall"
+      },
+      "symbolism": "the convergence of diverse elements within South African society, taking the road ahead in unity"
+    }
   ]
 }

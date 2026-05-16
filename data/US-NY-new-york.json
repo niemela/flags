@@ -1,7 +1,62 @@
 {
   "id": "US-NY-new-york",
-  "title": "New York, NY (United States)",
+  "name": "New York City (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-NY",
+  "codes": {
+    "wikidata": "Q1115463"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "from the Prinsenvlag — the Dutch flag flown over New Amsterdam"
+    },
+    {
+      "color": "white",
+      "symbolism": "from the Prinsenvlag"
+    },
+    {
+      "color": "orange",
+      "symbolism": "the House of Orange-Nassau, then ruling the Dutch Republic when New Amsterdam was founded"
+    }
+  ],
+  "description": "Three vertical stripes of equal width — blue at the hoist, white in the centre, orange at the fly — based on the colours of the Dutch Republic. Centred on the white stripe is the seal of the City of New York rendered in blue, with the founding date '1625' beneath it.",
+  "history": "The flag was adopted by the Board of Aldermen on 24 June 1915, drawing its tricolour from the Prinsenvlag flown over the original Dutch settlement of New Amsterdam (1625–1664). The date on the seal was originally 1664 (the year of English takeover) but was changed in 1977 to 1625, the year of Dutch settlement, to better reflect the city's founding.",
+  "periods": [
+    {
+      "start": "1915-06-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_New_York_City",
+    "https://en.wikipedia.org/wiki/Seal_of_New_York_City"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "orange"
+      ],
+      "count": 3,
+      "symbolism": "The colours of the flag of the Dutch Republic (the Prinsenvlag), commemorating the city's founding in 1625 as the Dutch colony of New Amsterdam."
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "Seal of the City of New York",
+      "symbolism": "The city seal — supported by a sailor and a Native American (Lenape) figure, with the arms of a windmill flanked by two beavers and two flour barrels (representing the Dutch and English commercial origins of the city) and an American eagle as crest — bearing the date 1625 (the founding of New Amsterdam) and the city's Latin motto Sigillum Civitatis Novi Eboraci ('Seal of the City of New York')."
+    }
   ]
 }

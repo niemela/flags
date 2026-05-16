@@ -1,7 +1,59 @@
 {
   "id": "US-AK-juneau",
-  "title": "Juneau, AK (United States)",
+  "name": "Juneau (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-AK",
+  "codes": {
+    "wikidata": "Q29303"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the waters of the Gastineau Channel and the sky over Southeast Alaska"
+    },
+    {
+      "color": "blue",
+      "symbolism": "darker tones of the city seal"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the gold-mining heritage of Juneau, founded after the 1880 gold strike by Joe Juneau and Richard Harris"
+    },
+    {
+      "color": "green",
+      "symbolism": "the temperate rainforest of the Tongass and surrounding mountains"
+    }
+  ],
+  "description": "A light-blue field charged at the centre with the seal of the City and Borough of Juneau.",
+  "history": "Used by the City and Borough of Juneau, the consolidated municipal government formed in 1970 from the merger of the City of Juneau, the City of Douglas, and the surrounding Greater Juneau Borough.",
+  "periods": [
+    {
+      "start": "1970~"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Juneau,_Alaska"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue",
+      "symbolism": "the blue field recalling the waters of the Gastineau Channel on which Juneau lies, and echoing the blue of the Alaska state flag"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "Seal of the City and Borough of Juneau",
+      "symbolism": "The municipal seal depicts mountain peaks rising over the Gastineau Channel with elements recalling the city's gold-mining origins and its role as the capital of Alaska."
+    }
   ]
 }

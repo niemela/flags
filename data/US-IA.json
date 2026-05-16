@@ -1,8 +1,84 @@
 {
   "id": "US-IA",
-  "title": "Iowa (United States)",
-  "iso": "US-IA",
+  "name": "Iowa (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-IA",
+    "fips_state": "19",
+    "wikidata": "Q1546"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Three vertical stripes — blue at the hoist, white in the centre (twice as wide), red at the fly. On the white stripe is a bald eagle in flight carrying in its beak a blue streamer with the state motto 'OUR LIBERTIES WE PRIZE AND OUR RIGHTS WE WILL MAINTAIN' in blue letters; below the streamer, the word 'IOWA' is written in red.",
+  "history": "Designed by Dixie Cornell Gebhardt of the Iowa Daughters of the American Revolution and adopted by the Iowa General Assembly on 29 March 1921. The vertical tricolour evokes France, in recognition of Iowa's history as part of the Louisiana Territory; the eagle, motto and word 'IOWA' anchor the design to the state and the Union.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1921-03-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Iowa"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ],
+      "symbolism": "the colours of the French tricolour, recalling that Iowa was once part of French Louisiana, and the colours of the United States flag"
+    },
+    {
+      "type": "eagle",
+      "count": 1,
+      "color": "brown",
+      "position": "center",
+      "role": "bald eagle in flight, carrying a streamer in its beak",
+      "symbolism": "the bald eagle from the U.S. coat of arms"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "blue and red ribbon streamer bearing the state motto 'OUR LIBERTIES WE PRIZE AND OUR RIGHTS WE WILL MAINTAIN' in blue, held in the eagle's beak"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "the word 'IOWA' in red below the streamer"
+    }
   ]
 }

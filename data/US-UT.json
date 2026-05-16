@@ -1,8 +1,67 @@
 {
   "id": "US-UT",
-  "title": "Utah (United States)",
-  "iso": "US-UT",
+  "name": "Utah (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-UT",
+    "fips_state": "49",
+    "wikidata": "Q829"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "gold"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A navy blue field bearing the Great Seal of Utah in the center, encircled by a thin gold ring. The seal shows a beehive on a shield inscribed 'INDUSTRY', with sego lilies, a bald eagle and two American flags, the dates 1847 and 1896, and the word 'UTAH'.",
+  "history": "Utah's seal-on-flag design was first authorized in 1911 and the seal was last revised in 2011. On 21 March 2023 the legislature adopted a new state flag — a bold geometric design centered on a gold beehive — which became the official flag on 9 March 2024, with the older seal-on-bedsheet design retained as the 'historic state flag'. This file represents the seal-on-bedsheet version.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1911",
+      "end": "2024-03-08"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Utah"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "the Great Seal of the State of Utah, encircled by a gold ring",
+      "symbolism": "depicts the state emblem (a beehive symbolizing industry) bearing the word 'INDUSTRY', flanked by sego lilies (the state flower); above, a bald eagle with outstretched wings; the date '1847' commemorates the arrival of the first Latter-day Saint pioneers in the Salt Lake Valley, and '1896' marks Utah's admission to the Union; two American flags flank the central shield"
+    }
   ]
 }

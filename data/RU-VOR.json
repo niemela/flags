@@ -1,8 +1,67 @@
 {
   "id": "RU-VOR",
-  "title": "Voronezh Oblast (Russia)",
-  "iso": "RU-VOR",
+  "name": "Voronezh Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-VOR",
+    "wikidata": "Q5560"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the hoist band, recalling the courage of the people of Voronezh and the historic Russian state colour"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and the historic silver field of the Voronezh arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden urn pouring water, the historic emblem of Voronezh"
+    }
+  ],
+  "description": "A vertical bicolour with a red stripe at the hoist (one third of the length) and a white field, charged at the centre with a golden urn tilted to the hoist pouring water onto a stepped hill, the historic emblem of Voronezh.",
+  "history": "Adopted on 5 July 2006 by the Voronezh Oblast Duma; the central charge reproduces the principal element of the Voronezh coat of arms confirmed by Catherine II in 1781.",
+  "periods": [
+    {
+      "start": "2006-07-05"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Voronezh_Oblast",
+    "https://en.wikipedia.org/wiki/Voronezh_Oblast"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "symbolism": "A red stripe at the hoist (one third of the length) and a white field at the fly, with the central charges from the oblast's coat of arms"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "central elements of the Voronezh coat of arms",
+      "symbolism": "a golden inclined urn pouring water onto a hill, the historic emblem of the city of Voronezh granted in 1781, with the silhouette of Mount Bogatyr beneath"
+    }
   ]
 }

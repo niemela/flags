@@ -1,8 +1,97 @@
 {
   "id": "UZ",
-  "title": "Uzbekistan",
-  "iso": "UZ",
+  "name": "Uzbekistan",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "UZ",
+    "iso_3166_1_alpha3": "UZB",
+    "fifa": "UZB",
+    "ioc": "UZB",
+    "wikidata": "Q265"
+  },
+  "region": [
+    "Asia",
+    "Central Asia",
+    "Turkic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the eternal blue sky and clean water; also the colour of the standard of Amir Timur (Tamerlane)"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace, purity, and the aspiration for inner enlightenment"
+    },
+    {
+      "color": "green",
+      "symbolism": "nature, fertility, new life, and Islam"
+    },
+    {
+      "color": "red",
+      "symbolism": "the vital life force flowing through every living being"
+    }
+  ],
+  "description": "Three horizontal stripes — sky-blue at the top, white in the middle, green at the bottom — separated by narrow red fimbriations. In the upper hoist on the blue stripe, a white crescent moon opens toward the fly, beside an arc of twelve white five-pointed stars arranged in three rows of three, four, and five.",
+  "history": "Adopted on 18 November 1991, three months after Uzbekistan's declaration of independence from the Soviet Union, replacing the flag of the Uzbek SSR. It was the first flag adopted by any of the post-Soviet Central Asian republics. The blue field harks back to the banner of Amir Timur (Tamerlane), founder of the Timurid Empire (14th century).",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1991-11-18"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Uzbekistan"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "red",
+        "white",
+        "red",
+        "green"
+      ],
+      "count": 5,
+      "widths": [
+        8,
+        1,
+        8,
+        1,
+        8
+      ],
+      "symbolism": "blue for the sky and water, white for peace and purity, green for nature and Islam, separated by thin red bands representing the life force flowing through every living being"
+    },
+    {
+      "type": "crescent",
+      "count": 1,
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "crescent moon",
+      "symbolism": "the rebirth of the independent Uzbek nation; a traditional symbol of Islam, also referencing Uzbekistan's historic Islamic heritage"
+    },
+    {
+      "type": "star",
+      "count": 12,
+      "points": 5,
+      "color": "white",
+      "position": "upper-hoist",
+      "arrangement": "arc",
+      "rows": [
+        3,
+        4,
+        5
+      ],
+      "role": "twelve five-pointed stars",
+      "symbolism": "the twelve months of the Islamic calendar and the twelve constellations of the zodiac; also alludes to the historical regions of Uzbekistan and to perfection (12 = 3 x 4)"
+    }
   ]
 }

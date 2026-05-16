@@ -1,8 +1,60 @@
 {
   "id": "IT",
-  "title": "Italy",
-  "iso": "IT",
+  "name": "Italy",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "IT",
+    "iso_3166_1_alpha3": "ITA",
+    "fifa": "ITA",
+    "ioc": "ITA",
+    "wikidata": "Q38"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the colour of the Milanese civic militia uniform; popularly the plains and hills of Italy, or hope"
+    },
+    {
+      "color": "white",
+      "symbolism": "popularly the snow of the Alps, or faith"
+    },
+    {
+      "color": "red",
+      "symbolism": "the colour of the Milanese civic arms; popularly the blood shed for Italian unification, or charity"
+    }
+  ],
+  "description": "Three equal vertical stripes of green (hoist), white, and red.",
+  "history": "The Italian tricolour was first adopted on 7 January 1797 by the Cispadane Republic at Reggio Emilia — a date now celebrated as Festa del Tricolore — taking the white and red of the civic flag of Milan and adding green from the Lombard militia. It served as the flag of successive Napoleonic-era republics and, defaced with the Savoy arms, of the Kingdom of Italy from 1861. The plain tricolour without arms was adopted as the flag of the Italian Republic on 19 June 1946, ten days after the monarchy was abolished, and is enshrined in Article 12 of the 1948 Constitution.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1946-06-19"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Italy"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "il Tricolore: derived from the cockade of the Cisalpine Republic (1797) and ultimately from the Milan civic colours, with green substituted for the blue of the French model — popularly read as hope (green), faith (white), and charity (red), or as Italy's plains, snowy Alps, and the blood of unification"
+    }
   ]
 }

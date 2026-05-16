@@ -1,8 +1,74 @@
 {
   "id": "GR",
-  "title": "Greece",
-  "iso": "GR",
+  "name": "Greece",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "GR",
+    "iso_3166_1_alpha3": "GRC",
+    "fifa": "GRE",
+    "ioc": "GRE",
+    "wikidata": "Q41"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the Greek sea and sky"
+    },
+    {
+      "color": "white",
+      "symbolism": "the purity of the struggle for independence and the white waves of the sea"
+    }
+  ],
+  "description": "Nine equal horizontal stripes alternating blue and white, beginning and ending with blue. In the upper hoist a blue canton — covering the top five stripes — bears a centred white Greek cross (a cross with arms of equal length).",
+  "history": "The blue-and-white striped design with a cross in the canton was first adopted as the Greek naval ensign by the First National Assembly at Epidaurus on 13 January 1822, during the Greek War of Independence. For most of the 19th and 20th centuries it served as the naval / civil ensign while a plain blue field with a white cross was used on land; the striped flag was made the sole national flag (for use on land and at sea) by Decree 48/1970, reaffirmed and standardised by Law 851/1978. The exact shade of blue has varied considerably over time, from very light to navy.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1978-12-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Greece"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 9,
+      "symbolism": "the nine stripes are popularly said to stand for the nine syllables of the Greek War of Independence motto Ἐλευθερία ἢ Θάνατος (Eleftheria i Thanatos — 'Freedom or Death'); other traditions count the nine Muses or the letters of the word ἐλευθερία ('freedom')"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "proportion": "5/9",
+      "role": "blue canton with white Greek cross",
+      "symbolism": "the cross expresses Greece's Eastern Orthodox Christian heritage, which sustained Greek identity through four centuries of Ottoman rule",
+      "features": [
+        {
+          "type": "greek-cross",
+          "count": 1,
+          "color": "white",
+          "role": "Greek cross",
+          "symbolism": "Eastern Orthodox Christianity, the dominant religion and a key element of Greek national identity during Ottoman rule and the War of Independence"
+        }
+      ]
+    }
   ]
 }

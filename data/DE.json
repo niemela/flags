@@ -1,8 +1,68 @@
 {
   "id": "DE",
-  "title": "Germany",
-  "iso": "DE",
+  "name": "Germany",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "DE",
+    "iso_3166_1_alpha3": "DEU",
+    "fifa": "GER",
+    "ioc": "GER",
+    "wikidata": "Q183"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "associated with the Holy Roman Empire and the 19th-century pan-German movement"
+    },
+    {
+      "color": "red",
+      "symbolism": "associated with the Hanseatic cities and the Lützow Free Corps"
+    },
+    {
+      "color": "gold",
+      "symbolism": "associated with the imperial eagle of the Holy Roman Empire"
+    }
+  ],
+  "description": "Three equal horizontal stripes of black (top), red, and gold.",
+  "history": "The black-red-gold tricolour traces to the volunteer Lützow Free Corps of the Napoleonic Wars (their dark uniforms had red facings and gold buttons) and to the colours of student fraternities at the 1817 Wartburg Festival. It was first adopted as a German national flag by the short-lived Frankfurt Parliament during the Revolutions of 1848 and was the flag of the Weimar Republic from 1919 to 1933. Replaced under National Socialism, the tricolour was restored by the Federal Republic on 23 May 1949 and adopted by East Germany on 1 October 1949 (with a state emblem added in 1959, removed at reunification). The flag shown here is the German civil flag (Bundesflagge); the federal authorities use a state flag (Bundesdienstflagge) defaced with the federal eagle shield.",
+  "variant": [
+    "civil",
+    "civil-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1848",
+      "end": "1852"
+    },
+    {
+      "start": "1919-08-11",
+      "end": "1933"
+    },
+    {
+      "start": "1949-05-23"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Germany"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "red",
+        "gold"
+      ],
+      "count": 3,
+      "symbolism": "the colours of the Lützow Free Corps uniforms during the Napoleonic Wars and of the 19th-century pan-German liberal movement; symbolising the unity, freedom and democracy aspired to in the 1848 revolutions and realised in the Federal Republic"
+    }
   ]
 }

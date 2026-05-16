@@ -1,7 +1,72 @@
 {
   "id": "US-KS-topeka",
-  "title": "Topeka, KS (United States)",
+  "name": "Topeka (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-KS",
+  "codes": {
+    "wikidata": "Q49223"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the hoist panel and the five-pointed star"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the main field and the central emblem"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the radiant sunflower (the state flower of Kansas)"
+    },
+    {
+      "color": "green",
+      "symbolism": "the foliage backing the sunflower"
+    }
+  ],
+  "description": "A flag divided vertically into a narrow white panel at the hoist and a larger blue field, with a five-pointed white star on the blue field near the upper fly and a large yellow sunflower (with green leaf and blue inner device) charged across the centre.",
+  "history": "Topeka's municipal flag combines the Kansas state colours with the sunflower emblem of Kansas and a star marking the city's role as state capital.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Topeka,_Kansas"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        185,
+        415
+      ],
+      "symbolism": "A white hoist panel beside a larger blue field, framing the central emblems."
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "fly",
+      "role": "five-pointed star on the upper-fly portion of the blue field",
+      "symbolism": "Marks Topeka as the capital of Kansas."
+    },
+    {
+      "type": "flower",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "stylised sunflower with green leaf",
+      "symbolism": "The sunflower is the state flower of Kansas; here it carries an inner blue device suggestive of the city's industries."
+    }
   ]
 }

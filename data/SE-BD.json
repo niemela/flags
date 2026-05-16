@@ -1,8 +1,61 @@
 {
   "id": "SE-BD",
-  "title": "Norrbotten (Sweden)",
-  "iso": "SE-BD",
+  "name": "Norrbotten County (Sweden)",
   "type": [
     "subdivision"
+  ],
+  "parent": "SE",
+  "codes": {
+    "iso_3166_2": "SE-BD",
+    "wikidata": "Q103686"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the blue triangles drawn from the historic arms of Lapland"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold triangles drawn from the historic Bothnian arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "silver detailing in the central charge"
+    },
+    {
+      "color": "red",
+      "symbolism": "details of the central charge"
+    }
+  ],
+  "description": "A square flag divided per saltire blue and gold, charged centrally with the composite arms of Norrbotten County.",
+  "history": "Norrbotten County's arms were granted in 1995, combining elements from the constituent historic provinces of Lapland and Vasterbotten; the flag is the heraldic banner of those arms.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Norrbotten_County",
+    "https://sv.wikipedia.org/wiki/Norrbottens_l%C3%A4ns_vapen"
+  ],
+  "features": [
+    {
+      "type": "per-saltire",
+      "hoist": "blue",
+      "top": "yellow",
+      "fly": "blue",
+      "bottom": "yellow",
+      "symbolism": "the field is divided per saltire, alternating the blue and gold of the constituent provincial arms (Lapland and the Bothnian region) brought together in the county arms."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Norrbotten County arms",
+      "symbolism": "a composite shield combining symbols of the constituent historic provinces, including a wild man (representing Lapland) and an arm holding an arrow (representing the Bothnian frontier)."
+    }
   ]
 }

@@ -1,8 +1,49 @@
 {
   "id": "FI-07",
-  "title": "Keski-Pohjanmaa (Finland)",
-  "iso": "FI-07",
+  "name": "Central Ostrobothnia (Finland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FI",
+  "codes": {
+    "iso_3166_2": "FI-07",
+    "wikidata": "Q5782"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "European Union"
+  ],
+  "shape": "rectangular",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the azure field of the regional arms, evoking the lakes and skies of Ostrobothnia"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver charges of the arms"
+    }
+  ],
+  "description": "A banner-format blue flag charged with the silver provincial arms of Central Ostrobothnia.",
+  "history": "Central Ostrobothnia (Keski-Pohjanmaa) is one of the regions formed in Finland's 1997 administrative reform. Its banner is the heraldic flag of the regional coat of arms, derived from the historic arms of the broader Ostrobothnia province.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Central_Ostrobothnia",
+    "https://fi.wikipedia.org/wiki/Keski-Pohjanmaan_lippu"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "arms of Central Ostrobothnia",
+      "symbolism": "a heraldic composition derived from the historic Ostrobothnian arms with elements specific to the central region; ermine spots and a crowned arm with arrow on a blue field."
+    }
   ]
 }

@@ -1,8 +1,57 @@
 {
   "id": "FR-COR",
-  "title": "Corse (France)",
-  "iso": "FR-COR",
+  "name": "Corsica (France)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FR",
+  "codes": {
+    "iso_3166_2": "FR-COR",
+    "wikidata": "Q14112"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field; in the modern reading, the freed Corsican people"
+    },
+    {
+      "color": "black",
+      "symbolism": "the Moor's head"
+    }
+  ],
+  "description": "A white field charged with a black Moor's head in profile facing the hoist, wearing a white bandana tied above the brow.",
+  "history": "Adopted by Pasquale Paoli's short-lived independent Corsican Republic on 24 November 1762 (or 1755 according to some sources), as a redesign of the older Genoese-Aragonese Moor's-head emblem. Paoli famously moved the bandana from over the eyes to above the brow, declaring that the Corsicans were no longer blind to their own freedom. Officially recognised as the regional flag of Corsica by the French Republic.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1762-11-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Corsica"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white",
+      "symbolism": "A white field charged with the Moor's head (testa mora), the centuries-old emblem of Corsica."
+    },
+    {
+      "type": "human-figure",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "Moor's head in profile facing the hoist, with a white bandana tied above the brow",
+      "symbolism": "The Moor's head (testa mora) is documented as a Corsican emblem from at least the 18th century. Originally the bandana covered the eyes (a Spanish-Aragonese motif of the conquered Moor); General Pasquale Paoli's nationalist government raised it above the eyes in 1755, recasting the figure as the freed Corsican people, no longer blindfolded."
+    }
   ]
 }

@@ -1,8 +1,87 @@
 {
   "id": "PT",
-  "title": "Portugal",
-  "iso": "PT",
+  "name": "Portugal",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "PT",
+    "iso_3166_1_alpha3": "PRT",
+    "fifa": "POR",
+    "ioc": "POR",
+    "wikidata": "Q45"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Iberian Peninsula",
+    "European Union",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "hope; associated with Henry the Navigator and the Order of Avis; the future of the nation"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed by the Portuguese in the defence of the homeland and the courage of the republican revolution"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "from the gold (or) of the armillary sphere and the shield"
+    },
+    {
+      "color": "white",
+      "symbolism": "from the silver (argent) of the small shields (escudetes) of the inner shield"
+    },
+    {
+      "color": "blue",
+      "symbolism": "from the azure of the small shields and the bezants of the inner shield"
+    },
+    {
+      "color": "black",
+      "symbolism": "from the bezants on the small shields of the inner shield"
+    }
+  ],
+  "description": "A vertical bicolour in the proportions 2:3 — green at the hoist (two-fifths) and red at the fly (three-fifths). Centred on the colour boundary is a yellow armillary sphere bearing the Portuguese shield: a white shield with five small blue shields in cross (the quinas), each charged with five white bezants, surrounded by a red bordure with seven gold castles.",
+  "history": "Adopted on 30 June 1911 by the new Portuguese First Republic, which had overthrown the monarchy on 5 October 1910. It replaced the blue-and-white royal flag that had been the national colours since the 12th century. The design was the work of a commission including the painter Columbano Bordalo Pinheiro, the writer João Chagas, and the politician Abel Botelho; the green-and-red colour scheme had been used by the republican movement since the 1890s. The armillary sphere centred on the colour join symbolises the maritime discoveries and ties the new republican design to the historical coat of arms of Portugal which dates in essentials to the 12th century.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1911-06-30"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Portugal",
+    "https://en.wikipedia.org/wiki/Coat_of_arms_of_Portugal"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        3
+      ],
+      "symbolism": "green for hope and the future of the nation; red for the blood of those who died for the country. The colours were chosen by the republican movement and broke with the centuries-old blue-and-white royal scheme"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center-hoist",
+      "role": "Lesser Coat of Arms of Portugal on a yellow armillary sphere",
+      "symbolism": "The armillary sphere recalls Portugal's Age of Discovery and was a personal emblem of King Manuel I (1495–1521); placed in the centre, it recalls the Kingdom of Brazil (1815–1822) and the maritime empire. The inner red shield ('campanha') with seven gold castles represents the Moorish fortresses captured during the Reconquista. The white inner shield bears five small blue shields ('quinas') arranged in a cross, each charged with five white bezants — said to symbolise the five wounds of Christ and the Miracle of Ourique tradition. Together: the discoveries, the Reconquista, and the Christian foundation of the kingdom"
+    }
   ]
 }

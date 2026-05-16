@@ -1,8 +1,55 @@
 {
   "id": "DE-HB",
-  "title": "Bremen (Germany)",
-  "iso": "DE-HB",
+  "name": "Bremen (Germany)",
   "type": [
     "subdivision"
+  ],
+  "parent": "DE",
+  "codes": {
+    "iso_3166_2": "DE-HB",
+    "wikidata": "Q24879"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the Hanseatic colour, shared with other northern German Hanseatic cities"
+    },
+    {
+      "color": "white",
+      "symbolism": "the Hanseatic colour, shared with other northern German Hanseatic cities"
+    }
+  ],
+  "description": "Eight equal horizontal stripes alternating red and white, with a red-and-white chequered canton at the hoist.",
+  "history": "Bremen's flag is known as the Speckflagge ('bacon flag') for its bacon-strip-like alternating red and white stripes. The state flag (with the city's coat of arms in the centre) is reserved for government use; the chequered civil flag shown here was adopted in its modern form in 1947 but the design has medieval Hanseatic roots.",
+  "variant": [
+    "civil"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Bremen_(state)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 8,
+      "symbolism": "The alternating red and white bars echo Bremen's medieval Hanseatic heritage; the chequered (Speckflagge or 'bacon flag') variant is a hallmark of Bremen's civic identity."
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "proportion": "1/4",
+      "role": "chequered red-and-white canton at the hoist",
+      "symbolism": "The hoist canton is divided into a red-and-white chequered pattern of typically twelve fields, giving the flag its nickname Speckflagge ('bacon flag').",
+      "features": []
+    }
   ]
 }

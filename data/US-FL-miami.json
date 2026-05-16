@@ -1,7 +1,58 @@
 {
   "id": "US-FL-miami",
-  "title": "Miami, FL (United States)",
+  "name": "Miami (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-FL",
+  "codes": {
+    "wikidata": "Q8652"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "orange",
+      "symbolism": "the orange groves and the Florida sun"
+    },
+    {
+      "color": "green",
+      "symbolism": "the verdant landscape and palms of South Florida"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central seal of the City of Miami"
+    }
+  ],
+  "description": "A field divided diagonally from the upper hoist to the lower fly: orange in the upper-fly half and green in the lower-hoist half, with the white circular seal of the City of Miami at the centre.",
+  "history": "Designed by Edward S. Hartley and adopted by the City of Miami in 1933.",
+  "periods": [
+    {
+      "start": "1933"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Miami"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "orange",
+      "bend": "green",
+      "direction": "bend",
+      "symbolism": "Orange for the citrus and sunshine, green for the lush vegetation of South Florida; the diagonal recalls the city's location on the southern tip of the Florida peninsula."
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Seal of the City of Miami",
+      "symbolism": "The seal depicts a sun rising over a palm tree, with rays radiating outward, encircled by the city's name and the year of its incorporation (1896); represents the city's tropical location and its founding."
+    }
   ]
 }

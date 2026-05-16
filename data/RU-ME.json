@@ -1,8 +1,76 @@
 {
   "id": "RU-ME",
-  "title": "Mari El (Russia)",
-  "iso": "RU-ME",
+  "name": "Mari El (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-ME",
+    "wikidata": "Q5446"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "purity and the Mari national colour"
+    },
+    {
+      "color": "red",
+      "symbolism": "the traditional colour of Mari embroidery"
+    },
+    {
+      "color": "brown",
+      "symbolism": "earth and the Mari heraldic bear"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the heavens"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the sun and the wheat sheaves"
+    },
+    {
+      "color": "black",
+      "symbolism": "outline detailing of the coat of arms"
+    }
+  ],
+  "description": "A white field with a vertical strip of red Mari national ornament along the hoist; the coat of arms of Mari El, featuring a bear with a sword and shield, is placed in the centre.",
+  "history": "Adopted on 1 June 2011, replacing the 2006 blue-white-crimson tricolour. The redesign drew controversy as it diminished the role of traditional Mari symbolism.",
+  "periods": [
+    {
+      "start": "2011-06-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Mari_El",
+    "https://en.wikipedia.org/wiki/Mari_El"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "a white field bordered along the hoist by a vertical strip of traditional Mari embroidery; the coat of arms in the centre identifies the republic."
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "red",
+      "position": "hoist",
+      "role": "Mari ornament strip",
+      "symbolism": "a vertical strip of traditional Mari national ornament running along the hoist."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "coat of arms of Mari El",
+      "symbolism": "a heraldic bear holding a sword and shield, surrounded by oak and ear-of-wheat branches, over the rising sun, representing the strength and identity of the Mari people."
+    }
   ]
 }

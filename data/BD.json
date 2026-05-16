@@ -1,8 +1,62 @@
 {
   "id": "BD",
-  "title": "Bangladesh",
-  "iso": "BD",
+  "name": "Bangladesh",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "BD",
+    "iso_3166_1_alpha3": "BGD",
+    "fifa": "BAN",
+    "ioc": "BAN",
+    "wikidata": "Q902"
+  },
+  "region": [
+    "Asia",
+    "Southern Asia",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the lush greenery of the Bangladeshi countryside; vitality and youth"
+    },
+    {
+      "color": "red",
+      "symbolism": "the rising sun over Bengal and the blood of those who died for the independence of Bangladesh in the 1971 Liberation War"
+    }
+  ],
+  "description": "A bottle-green field with a red disc set slightly off-centre toward the hoist; the disc's diameter is one-fifth of the flag's length. The hoist offset compensates for the visual displacement of the disc when the flag flies in the wind.",
+  "history": "Adopted officially on 17 January 1972, shortly after Bangladesh achieved independence from Pakistan. The design is a slight modification of the flag flown by Bengali nationalists during the 1971 Liberation War: the original had a yellow map of Bangladesh inside the red disc, but this was removed in the 1972 revision because the map was difficult to render correctly on both sides of the flag and was considered overly literal. The flag was designed by Shib Narayan Das.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1972-01-17"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Bangladesh",
+    "https://bangladesh.gov.bd/site/page/2730a76b-3691-4d94-bbf8-ebe2a4f97a44/National-Flag"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green",
+      "symbolism": "the lush greenery and fertility of Bangladesh; also alludes to the youth and vitality of the nation, and to Islam"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "red disc (sun over the Bengal delta)",
+      "symbolism": "the rising sun over Bengal and the blood shed by those who died in the 1971 Liberation War; the disc is offset slightly toward the hoist so that, when flying, it appears centred"
+    }
   ]
 }

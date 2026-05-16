@@ -1,8 +1,54 @@
 {
   "id": "PL-24",
-  "title": "Silesia (Poland)",
-  "iso": "PL-24",
+  "name": "Silesian Voivodeship (Poland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "PL",
+  "codes": {
+    "iso_3166_2": "PL-24",
+    "wikidata": "Q54166"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field of the Upper Silesian arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the Silesian eagle"
+    }
+  ],
+  "description": "Three horizontal stripes of blue, yellow, and blue, with the central yellow stripe half the width of the outer blue stripes.",
+  "history": "Adopted by the Silesian Voivodeship after its formation in 1999, drawing on the historic heraldic tinctures of Upper Silesia.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Silesian_Voivodeship"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        2
+      ],
+      "symbolism": "blue and yellow taken from the historic coat of arms of Upper Silesia"
+    }
   ]
 }

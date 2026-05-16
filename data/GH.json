@@ -1,8 +1,81 @@
 {
   "id": "GH",
-  "title": "Ghana",
-  "iso": "GH",
+  "name": "Ghana",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "GH",
+    "iso_3166_1_alpha3": "GHA",
+    "fifa": "GHA",
+    "ioc": "GHA",
+    "wikidata": "Q117"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the blood of those who died in the struggle for independence"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the mineral wealth of the country (Ghana was formerly the Gold Coast)"
+    },
+    {
+      "color": "green",
+      "symbolism": "the rich forests and natural wealth of the country"
+    },
+    {
+      "color": "black",
+      "symbolism": "the people of Africa and African emancipation (the central star)"
+    }
+  ],
+  "description": "Three equal horizontal stripes — red, yellow and green — with a black five-pointed star centred on the yellow stripe.",
+  "history": "Designed by Theodosia Okoh and adopted on 6 March 1957, the day Ghana became the first sub-Saharan African country to gain independence from European colonial rule. It replaced the British colonial Gold Coast flag and was the first national flag to use the Pan-African red-yellow-green palette in this order (drawn from the Ethiopian flag), inspiring numerous later African flags. From 1964 to 1966 the central stripe was changed to white during the union with the Casablanca Group; the original yellow was restored in 1966 after the overthrow of Kwame Nkrumah.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1957-03-06",
+      "end": "1964"
+    },
+    {
+      "start": "1966-02-28"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Ghana"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "green"
+      ],
+      "count": 3,
+      "symbolism": "the Pan-African red-yellow-green palette: red for the blood of those who died in the struggle for independence, yellow (gold) for the country's mineral wealth, green for the forests and natural wealth"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "black",
+      "position": "center",
+      "role": "Black Star of Africa",
+      "symbolism": "African emancipation and unity in the fight against colonialism; inspired by Marcus Garvey's Black Star Line"
+    }
   ]
 }

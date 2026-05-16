@@ -1,8 +1,62 @@
 {
   "id": "IT-21",
-  "title": "Piedmont (Italy)",
-  "iso": "IT-21",
+  "name": "Piedmont (Italy)",
   "type": [
     "subdivision"
+  ],
+  "parent": "IT",
+  "codes": {
+    "iso_3166_2": "IT-21",
+    "wikidata": "Q1216"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the gules field of the Savoy arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver cross of Savoy"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the azure label (lambello) of the cadet line of the Princes of Acaja, who held Piedmont as their appanage"
+    }
+  ],
+  "description": "A red field charged with a silver-white couped cross (the Savoy cross), with a blue heraldic label of three pendants placed across the upper edge.",
+  "history": "Adopted on 24 November 1995 by Regional Law n. 80, codifying a design based on the historic banner of the Savoyard Principality of Acaja which ruled Piedmont from 1295 to 1418. The arms combine the cross of Savoy with the azure label that distinguished the Acaja cadet line from the senior Savoy branch.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1995-11-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Piedmont"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "red",
+      "cross": "white",
+      "symbolism": "A red field with a silver-white cross is the historic arms of the House of Savoy, used continuously since the 13th century."
+    },
+    {
+      "type": "border",
+      "count": 1,
+      "color": "blue",
+      "position": "top",
+      "role": "azure label (lambello) with three pendants placed across the chief",
+      "symbolism": "The label distinguished the cadet branch of the Savoy princes of Acaja (Achaia), who ruled Piedmont from 1295 to 1418, from the senior Savoy line."
+    }
   ]
 }

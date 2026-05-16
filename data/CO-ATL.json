@@ -1,8 +1,47 @@
 {
   "id": "CO-ATL",
-  "title": "Atlántico (Colombia)",
-  "iso": "CO-ATL",
+  "name": "Atlantico (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-ATL",
+    "wikidata": "Q121203"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "purity, peace and the harmony of the people"
+    },
+    {
+      "color": "red",
+      "symbolism": "the patriotism and the blood shed by the people for the freedom of the homeland"
+    }
+  ],
+  "description": "Three equal horizontal stripes of white, red, and white.",
+  "history": "Adopted as the flag of the department of Atlantico, the colours echo those of the city of Barranquilla. Atlantico was created as a department in 1910.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Atl%C3%A1ntico_Department",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Atl%C3%A1ntico_Department.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 3,
+      "symbolism": "white for purity and the peace of the people; red for the patriotism and blood shed for liberty"
+    }
   ]
 }

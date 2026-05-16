@@ -1,8 +1,71 @@
 {
   "id": "AD",
-  "title": "Andorra",
-  "iso": "AD",
+  "name": "Andorra",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "AD",
+    "iso_3166_1_alpha3": "AND",
+    "fifa": "AND",
+    "ioc": "AND",
+    "wikidata": "Q228"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "from the arms of the Bishop of Urgell and ties to France"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "from the arms of the Counts of Foix and the Crown of Aragon"
+    },
+    {
+      "color": "red",
+      "symbolism": "from the arms of the Counts of Foix and Catalonia"
+    }
+  ],
+  "description": "A vertical tricolour of blue, yellow and red, with the central yellow stripe slightly wider than the outer ones; the national coat of arms is centred on the yellow stripe.",
+  "history": "The tricolour design dates to 1866 when Napoleon III is traditionally said to have given Andorra a French-influenced flag, replacing earlier yellow-and-red bicolour designs reflecting Spanish/Catalan heritage. The current proportions and exact coat-of-arms specification were standardised by Law 2/1996 of 27 June 1996.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1866"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Andorra"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        8,
+        9,
+        8
+      ],
+      "symbolism": "blue and red recall France and yellow and red recall Spain (or the Crown of Aragon and the County of Foix), reflecting the principality's two co-princes"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Coat of arms of Andorra",
+      "symbolism": "quartered shield combining the mitre and crozier of the Bishop of Urgell, the three red pales of the Counts of Foix, the four red pales of Catalonia (Aragon), and the two red cows of the Viscounty of Béarn; together they represent the historic feudal joint sovereignty of the principality. Motto: 'Virtus Unita Fortior' ('Virtue United is Stronger')"
+    }
   ]
 }

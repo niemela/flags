@@ -1,8 +1,57 @@
 {
   "id": "FI-12",
-  "title": "Pohjanmaa (Finland)",
-  "iso": "FI-12",
+  "name": "Ostrobothnia (Finland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FI",
+  "codes": {
+    "iso_3166_2": "FI-12",
+    "wikidata": "Q5787"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the gules field of the historic Ostrobothnian arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden upper stripe and the golden charges of the arms"
+    }
+  ],
+  "description": "A square flag with a narrow yellow stripe over a wide red field, charged with the gold provincial arms of Ostrobothnia.",
+  "history": "Ostrobothnia (Pohjanmaa) became a region under Finland's 1997 administrative reform; its banner is the heraldic flag of the regional coat of arms, derived from the historic provincial arms of the broader Ostrobothnian coast.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ostrobothnia_(region)",
+    "https://fi.wikipedia.org/wiki/Pohjanmaan_lippu"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "arms of Ostrobothnia",
+      "symbolism": "the historic provincial arms of Ostrobothnia: six golden ermine spots arranged 3-2-1, with a crowned arm grasping an arrow above. The arms refer to the medieval ermine-fur trade of the Ostrobothnian coast."
+    }
   ]
 }

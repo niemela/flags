@@ -1,8 +1,59 @@
 {
   "id": "AR-V",
-  "title": "Tierra del Fuego (Argentina)",
-  "iso": "AR-V",
+  "name": "Tierra del Fuego (Argentina)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AR",
+  "codes": {
+    "iso_3166_2": "AR-V",
+    "wikidata": "Q44530"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "27:40",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the snow and ice of Antarctica and the southern austral lands"
+    },
+    {
+      "color": "orange",
+      "symbolism": "the 'land of fire' from which the province takes its name and the flight of the albatross"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the South Atlantic Ocean and the southern sky"
+    }
+  ],
+  "description": "A white field crossed diagonally by a stylised orange band suggesting the flight of an albatross and a blue band charged with the five white stars of the Southern Cross constellation.",
+  "history": "Adopted by provincial law 207 on 26 June 1999 after a public competition won by Hipolito Mayorga. The orange shape represents both the flame for which the territory was named (Magellan's 'land of fire') and the flight of the albatross; the blue band bears the Southern Cross constellation, a reminder of the province's far-southern position.",
+  "periods": [
+    {
+      "start": "1999-06-26"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Tierra_del_Fuego_Province,_Argentina",
+    "https://es.wikipedia.org/wiki/Bandera_de_la_provincia_de_Tierra_del_Fuego,_Ant%C3%A1rtida_e_Islas_del_Atl%C3%A1ntico_Sur"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "a stylised composition: a white field crossed diagonally by an orange band evoking flame and an albatross's flight, and a blue band charged with the Southern Cross, alluding to the province's full name 'Tierra del Fuego, Antartida e Islas del Atlantico Sur'"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "arrangement": "southern-cross",
+      "role": "Southern Cross constellation",
+      "symbolism": "the Crux constellation visible in the southern sky and a recurring symbol of the southern hemisphere"
+    }
   ]
 }

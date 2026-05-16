@@ -1,8 +1,86 @@
 {
   "id": "CA-SK",
-  "title": "Saskatchewan (Canada)",
-  "iso": "CA-SK",
+  "name": "Saskatchewan (Canada)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CA",
+  "codes": {
+    "iso_3166_2": "CA-SK",
+    "wikidata": "Q1989"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the northern boreal forests of Saskatchewan"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the southern prairies and wheat fields"
+    },
+    {
+      "color": "red",
+      "symbolism": "the prairie lily and the lion on the shield"
+    },
+    {
+      "color": "orange",
+      "symbolism": "details of the prairie lily"
+    },
+    {
+      "color": "white",
+      "symbolism": "details of the shield"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlines on the shield and lily"
+    }
+  ],
+  "description": "Two equal horizontal stripes of green over yellow; in the upper-hoist quadrant the provincial shield of arms, and in the fly half a stylised western red lily (prairie lily).",
+  "history": "Adopted on 22 September 1969 following a province-wide design competition won by Anthony Drake of Hodgeville.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1969-09-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Saskatchewan"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2,
+      "symbolism": "Green represents the northern forested area of the province, and gold the southern grain fields."
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "provincial shield of arms (in chief a red lion passant on gold; below, three gold wheat sheaves on green)",
+      "symbolism": "The lion recalls the British Crown; the three gold wheat sheaves on green represent Saskatchewan's primary agricultural product."
+    },
+    {
+      "type": "flower",
+      "count": 1,
+      "color": "red",
+      "position": "fly",
+      "role": "western red lily (prairie lily), the provincial floral emblem",
+      "symbolism": "the prairie lily, Saskatchewan's official floral emblem since 1941"
+    }
   ]
 }

@@ -1,8 +1,66 @@
 {
   "id": "MV",
-  "title": "Maldives",
-  "iso": "MV",
+  "name": "Maldives",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "MV",
+    "iso_3166_1_alpha3": "MDV",
+    "fifa": "MDV",
+    "ioc": "MDV",
+    "wikidata": "Q826"
+  },
+  "region": [
+    "Asia",
+    "Southern Asia",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the bravery of the Maldivian heroes who gave their lives defending the nation"
+    },
+    {
+      "color": "green",
+      "symbolism": "life, prosperity, peace, and the palm trees that grow on the islands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the crescent of Islam"
+    }
+  ],
+  "description": "A red field bearing a large green rectangle in the centre — the red forming a border around the green panel of width one-quarter of the flag's height. Centred on the green panel, a white crescent moon opens toward the fly.",
+  "history": "Adopted on 25 July 1965, the day of independence from the United Kingdom. The current design replaced an earlier flag that had also borne a black-and-white striped panel along the hoist; this hoist panel was dropped in 1953 when the Maldives briefly became a republic, and the current crescent (without the earlier vertical stripes inside it) was finalised at independence.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1965-07-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Maldives"
+  ],
+  "features": [
+    {
+      "type": "bordure",
+      "field": "green",
+      "border": "red",
+      "symbolism": "a red border surrounding a green panel; red for the bravery of the nation's heroes who sacrificed their lives for the country, green for prosperity, peace, and palm trees"
+    },
+    {
+      "type": "crescent",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "white crescent moon (opening toward the fly)",
+      "symbolism": "Islam, the state religion of the Maldives"
+    }
   ]
 }

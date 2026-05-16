@@ -1,8 +1,71 @@
 {
   "id": "LR-NI",
-  "title": "Nimba (Liberia)",
-  "iso": "LR-NI",
+  "name": "Nimba County (Liberia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "LR",
+  "codes": {
+    "iso_3166_2": "LR-NI"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with the Liberian national flag as a canton in the upper hoist; in the fly half a green-and-brown mountain landscape under a pale-blue sky with an orange sun represents Mount Nimba, the iron-ore peak that gives the county its name.",
+  "history": "Presented by President William V. S. Tubman on 29 November 1965 together with the flags of the other Liberian counties.",
+  "periods": [
+    {
+      "start": "1965-11-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nimba_County",
+    "https://en.wikipedia.org/wiki/Flags_of_the_counties_of_Liberia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "LR",
+      "proportion": "1/4",
+      "role": "the union",
+      "symbolism": "Nimba as part of the Republic of Liberia"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "center-fly",
+      "role": "Mount Nimba",
+      "symbolism": "Mount Nimba — the iron-ore-rich mountain massif from which the county takes its name"
+    }
   ]
 }

@@ -1,8 +1,72 @@
 {
   "id": "DJ",
-  "title": "Djibouti",
-  "iso": "DJ",
+  "name": "Djibouti",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "DJ",
+    "iso_3166_1_alpha3": "DJI",
+    "fifa": "DJI",
+    "ioc": "DJI",
+    "wikidata": "Q977"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Eastern Africa",
+    "Horn of Africa",
+    "Arab World",
+    "Francophonie"
+  ],
+  "aspect_ratio": "21:38",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the sea and the sky; the Issa Somali people of Djibouti"
+    },
+    {
+      "color": "green",
+      "symbolism": "the Earth and verdure; the Afar people"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace and equality between the country's ethnic groups"
+    },
+    {
+      "color": "red",
+      "symbolism": "the unity of the country and the blood shed by martyrs of independence"
+    }
+  ],
+  "description": "Two equal horizontal stripes — light blue above, green below — with an isoceles white triangle along the hoist whose apex reaches one-third into the fly. A red five-pointed star is centred within the white triangle. Aspect ratio 21:38.",
+  "history": "Adopted on 27 June 1977, the day Djibouti gained independence from France (formerly the French Territory of the Afars and the Issas). The design is based on the flag of the Ligue Populaire Africaine pour l'Indépendance (LPAI), which led the independence movement. The colours assign the country's two main ethnic groups, the Issa Somalis (blue) and the Afars (green), one band each — a deliberate ethnic balance.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1977-06-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Djibouti"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "two equal horizontal stripes — light blue above, green below — with a white isoceles hoist triangle overlaying both; light blue stands for the sea, sky and the Issa Somali people, green for the Earth and the Afar people, and the white triangle for peace and equality between them"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "hoist",
+      "role": "red five-pointed star within the white hoist triangle",
+      "symbolism": "unity and independence; the blood shed by martyrs of independence"
+    }
   ]
 }

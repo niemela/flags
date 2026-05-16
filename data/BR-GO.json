@@ -1,8 +1,76 @@
 {
   "id": "BR-GO",
-  "title": "Goiás (Brazil)",
-  "iso": "BR-GO",
+  "name": "Goias (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-GO",
+    "wikidata": "Q41587"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "wealth, especially mineral wealth"
+    },
+    {
+      "color": "green",
+      "symbolism": "the forests and natural wealth"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the sky"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace; field of the stars"
+    }
+  ],
+  "description": "Eight equal horizontal stripes alternating yellow and green, with a blue canton in the upper hoist bearing five white five-pointed stars in the pattern of the Southern Cross.",
+  "history": "Designed by the poet Joaquim Bonifacio Gomes de Siqueira and adopted as the flag of the State of Goias by Decree No. 600 of 30 July 1919.",
+  "periods": [
+    {
+      "start": "1919-07-30"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Goi%C3%A1s"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 8,
+      "symbolism": "Eight equal horizontal stripes alternating yellow and green; the colours are those of the Brazilian national flag"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "position": "upper-hoist",
+      "symbolism": "Blue canton bearing the five stars of the Southern Cross",
+      "features": [
+        {
+          "type": "star",
+          "count": 5,
+          "points": 5,
+          "color": "white",
+          "arrangement": "southern-cross",
+          "role": "Southern Cross",
+          "symbolism": "the constellation of the Southern Cross seen over Goias"
+        }
+      ]
+    }
   ]
 }

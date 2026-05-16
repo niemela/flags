@@ -1,8 +1,58 @@
 {
   "id": "LT-KU",
-  "title": "Kaunas (Lithuania)",
-  "iso": "LT-KU",
+  "name": "Kaunas County (Lithuania)",
   "type": [
     "subdivision"
+  ],
+  "parent": "LT",
+  "codes": {
+    "iso_3166_2": "LT-KU",
+    "wikidata": "Q193514"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Baltics",
+    "European Union"
+  ],
+  "aspect_ratio": "5:6",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the standard outer field of Lithuanian county flags"
+    },
+    {
+      "color": "red",
+      "symbolism": "the field of the Kaunas coat of arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver bull of the Kaunas coat of arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold cross above the bull"
+    }
+  ],
+  "description": "A blue field with a red inner panel bearing the coat of arms of Kaunas County: a silver wild bull with a golden cross between its horns.",
+  "history": "Like the flags of all ten Lithuanian counties, Kaunas County's flag follows the uniform template introduced after the country's redivision into apskritys (counties) in 1994: a blue outer border surrounding the county's heraldic field, here red, charged with the historic Kaunas arms.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kaunas_County",
+    "https://lt.wikipedia.org/wiki/Kauno_apskritis"
+  ],
+  "features": [
+    {
+      "type": "bordure",
+      "field": "red",
+      "border": "blue",
+      "symbolism": "blue outer border in the Lithuanian county pattern, with a red inner field bearing the county arms"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "coat of arms of Kaunas County",
+      "symbolism": "a silver wild bull (aurochs) with a golden cross between its horns on a red field — the historic arms of the city and county of Kaunas"
+    }
   ]
 }

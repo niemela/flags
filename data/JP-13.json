@@ -1,9 +1,53 @@
 {
   "id": "JP-13",
-  "title": "Tôkyô (Japan)",
-  "iso": "JP-13",
+  "name": "Tokyo Metropolis (Japan)",
   "type": [
-    "subdivision",
-    "city"
+    "subdivision"
+  ],
+  "parent": "JP",
+  "codes": {
+    "iso_3166_2": "JP-13",
+    "wikidata": "Q1490"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "purple",
+      "symbolism": "Edo-murasaki, the traditional purple dye of old Edo"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and the bright future of the metropolis"
+    }
+  ],
+  "description": "An Edo-purple field charged at the centre with a white emblem consisting of six pointed rays emanating from a circular hub, a stylised abstraction of the kanji 東 ('east').",
+  "history": "The Tokyo Metropolitan symbol was originally adopted in November 1889 as the symbol of Tokyo City; with the formation of Tokyo Metropolis (Tokyo-to) in 1943 it was inherited by the new entity. The flag, with the white symbol on an Edo-purple field, was officially adopted on 1 October 1964. A separate, modern ginkgo-leaf metropolitan symbol (the so-called shocho) was adopted in 1989, but the 1964 flag remains the official metropolitan flag.",
+  "periods": [
+    {
+      "start": "1964-10-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tokyo",
+    "https://en.wikipedia.org/wiki/Flag_of_Tokyo"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "purple",
+      "symbolism": "Edo-murasaki (Edo purple), a dye colour historically associated with the city of Edo, the predecessor of modern Tokyo"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Tokyo Metropolitan symbol (Tokyo-to mon)",
+      "symbolism": "a stylised representation of the kanji 東 ('east'), the first character of Tokyo (東京). Six rays radiating from a central point evoke the sun and the development of the metropolis in all directions."
+    }
   ]
 }

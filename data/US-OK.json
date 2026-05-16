@@ -1,8 +1,91 @@
 {
   "id": "US-OK",
-  "title": "Oklahoma (United States)",
-  "iso": "US-OK",
+  "name": "Oklahoma (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-OK",
+    "fips_state": "40",
+    "wikidata": "Q1649"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A sky-blue field charged in the center with a traditional Osage buffalo-skin shield decorated with six pendant eagle feathers, overlaid by a crossed peace pipe and olive branch. The word 'OKLAHOMA' appears in white capital letters below.",
+  "history": "Designed by Mrs. George Fluke Jr. of Oklahoma City, the flag was adopted on 2 April 1925, replacing a controversial 1911 design that featured a white star on a red field (which had become associated with communism by the 1920s). The word 'OKLAHOMA' was added to the design by legislation in 1941. The design celebrates the state's combined Native American and pioneer heritage.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1925-04-02"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Oklahoma"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue",
+      "symbolism": "sky-blue field taken from a flag carried by Choctaw soldiers during the American Civil War; symbolizes devotion"
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "color": "brown",
+      "position": "center",
+      "role": "an Osage warrior's buffalo-skin shield, decorated with seven eagle feathers hanging from the lower edge and overlaid with two crossed emblems",
+      "symbolism": "the buffalo-hide war shield of an Osage warrior, with feathers symbolizing high honor; the seven feathers reflect the unity of the tribes"
+    },
+    {
+      "type": "olive-branch",
+      "count": 1,
+      "color": "green",
+      "position": "center",
+      "role": "an olive branch laid across the shield",
+      "symbolism": "peace, in the European tradition"
+    },
+    {
+      "type": "tool",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "a Plains-Indian ceremonial peace pipe (calumet) crossed beneath the olive branch",
+      "symbolism": "peace, in the Native American tradition"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "bottom",
+      "role": "the word 'OKLAHOMA' centered below the shield",
+      "symbolism": "added to the design in 1941"
+    }
   ]
 }

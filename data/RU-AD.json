@@ -1,8 +1,65 @@
 {
   "id": "RU-AD",
-  "title": "Adygea (Russia)",
-  "iso": "RU-AD",
+  "name": "Adygea (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-AD",
+    "wikidata": "Q3776"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Caucasus",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "Islam, eternity, life, and the forests of the Caucasus"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "wheat, prosperity, and the sun"
+    }
+  ],
+  "description": "A green field charged with twelve yellow five-pointed stars (nine in an arc above three in a row) and three crossed yellow arrows in the centre.",
+  "history": "The flag was originally designed by the Polish historian Leon Rostaszewski in 1830 for the unrecognised independent Circassia, and was adopted by the Republic of Adygea on 24 March 1992 after the dissolution of the USSR.",
+  "periods": [
+    {
+      "start": "1992-03-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Adygea",
+    "https://en.wikipedia.org/wiki/Republic_of_Adygea"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green",
+      "symbolism": "the green field represents Islam, eternity, life, and the abundant forests of the Caucasus."
+    },
+    {
+      "type": "star",
+      "count": 12,
+      "points": 5,
+      "color": "yellow",
+      "arrangement": "arc",
+      "role": "twelve stars",
+      "symbolism": "the twelve historic Circassian (Adyghe) tribes; nine arranged in an arc above three in a horizontal row."
+    },
+    {
+      "type": "spear",
+      "count": 3,
+      "color": "yellow",
+      "position": "center",
+      "arrangement": "single",
+      "role": "three crossed arrows",
+      "symbolism": "three arrows crossed in the centre; symbolize unity and the readiness of the Adyghe people to defend their homeland."
+    }
   ]
 }

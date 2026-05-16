@@ -1,8 +1,85 @@
 {
   "id": "AR-G",
-  "title": "Santiago del Estero (Argentina)",
-  "iso": "AR-G",
+  "name": "Santiago del Estero (Argentina)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AR",
+  "codes": {
+    "iso_3166_2": "AR-G",
+    "wikidata": "Q44853"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:5",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the colours of the Argentine national flag"
+    },
+    {
+      "color": "white",
+      "symbolism": "the colours of the Argentine national flag"
+    },
+    {
+      "color": "red",
+      "symbolism": "the federalist red of Santiago del Estero, the oldest continuously inhabited Spanish settlement in Argentina and a federalist stronghold"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the Inca Sun and the colour of the May sun"
+    }
+  ],
+  "description": "Five vertical stripes of light blue, white, red, white and light blue (proportions 2:1:4:1:2); centred on the broad red middle stripe, a yellow stylised sun on which is set a red silhouette of a Quichua chacarera dancer.",
+  "history": "Adopted by provincial law 6.530 on 24 March 1985, the flag was the result of a 1985 contest organised by the provincial government and won by Eduardo Felipe Mansilla. The colours combine the celestial and white of the Argentine national flag with the federalist red of caudillo Juan Felipe Ibarra (who governed Santiago del Estero between 1820 and 1851); the central emblem honours the chacarera dance and the surviving Quichua culture of the province.",
+  "periods": [
+    {
+      "start": "1985-03-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Santiago_del_Estero_Province",
+    "https://es.wikipedia.org/wiki/Bandera_de_la_provincia_de_Santiago_del_Estero"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "red",
+        "white",
+        "light-blue"
+      ],
+      "count": 5,
+      "widths": [
+        2,
+        1,
+        4,
+        1,
+        2
+      ],
+      "symbolism": "the light-blue and white of the Argentine national flag flanking a central red field — the federalist red of Juan Felipe Ibarra and the long federalist tradition of Santiago del Estero"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "stylised Sun of May",
+      "symbolism": "shared with the national flag of Argentina; the irradiating sun was an Andean and Inca solar emblem long before the May Revolution"
+    },
+    {
+      "type": "human-figure",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "Quichua dancer of the chacarera",
+      "symbolism": "represents the chacarera — the folk dance born in Santiago del Estero — and the Quichua-speaking culture of the province, where Quichua is still spoken alongside Spanish"
+    }
   ]
 }

@@ -1,8 +1,65 @@
 {
   "id": "ES-VC",
-  "title": "Valencia (Spain)",
-  "iso": "ES-VC",
+  "name": "Valencia (Spain)",
   "type": [
     "subdivision"
+  ],
+  "parent": "ES",
+  "codes": {
+    "iso_3166_2": "ES-VC",
+    "wikidata": "Q5720"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Iberian Peninsula",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the hoist stripe of the Senyera Coronada, granted by King Peter IV of Aragon"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold field of the Senyera, the historic arms of the Crown of Aragon"
+    },
+    {
+      "color": "red",
+      "symbolism": "the four pales of the Senyera"
+    },
+    {
+      "color": "white",
+      "symbolism": "the crown ornaments and the pearls"
+    }
+  ],
+  "description": "A blue stripe along the hoist (about a third of the width) bearing a yellow royal crown, the rest of the field bearing the Senyera: a yellow field with four red horizontal stripes (the historic bars of Aragon).",
+  "history": "The Senyera Coronada (the 'Crowned Senyera') was originally granted to the city of Valencia by Peter IV of Aragon in 1377, as a special honour above the standard Senyera (the bars of Aragon) used by other Aragonese cities. The flag was adopted as the official flag of the Valencian Community (Comunitat Valenciana) by Article 4 of the Statute of Autonomy of the Valencian Community of 1982.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1982-07-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Valencian_Community"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "The Senyera Coronada: the historic Senyera (yellow field with four red bars, the arms of the Crown of Aragon) augmented with a crowned blue stripe at the hoist, representing the crowned status of the City and Kingdom of Valencia."
+    },
+    {
+      "type": "crown",
+      "count": 1,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "royal crown on the blue hoist stripe",
+      "symbolism": "the city of Valencia's royal status, granted by King Peter IV of Aragon in 1377 in recognition of the city's loyalty during the War of the Two Pedros."
+    }
   ]
 }

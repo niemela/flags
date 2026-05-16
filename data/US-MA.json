@@ -1,8 +1,63 @@
 {
   "id": "US-MA",
-  "title": "Massachusetts (United States)",
-  "iso": "US-MA",
+  "name": "Massachusetts (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-MA",
+    "fips_state": "25",
+    "wikidata": "Q771"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A white field bearing the coat of arms of Massachusetts in the centre: a blue shield charged with a Native American holding a bow and arrow pointed down and a single star, crested by a bent arm holding a broadsword, with a blue ribbon below carrying the Latin motto.",
+  "history": "Massachusetts adopted its first state flag in 1908, with the obverse showing the coat of arms on a white field and the reverse showing a green pine tree on a white field. The 1971 redesign by the legislature made both sides identical, placing the coat of arms on the front and back. The current depiction has been the subject of debate over its imagery; in 2021 the legislature created a commission to recommend changes to both the seal and the motto.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1971"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Massachusetts"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "the coat of arms of Massachusetts",
+      "symbolism": "blue shield bearing a Native American holding a bow and arrow pointed downward (signifying peace) and a star representing Massachusetts as a state; crested by an arm holding a broadsword (commemorating the motto); banner reads 'ENSE PETIT PLACIDAM SUB LIBERTATE QUIETEM' ('By the sword we seek peace, but peace only under liberty')"
+    }
   ]
 }

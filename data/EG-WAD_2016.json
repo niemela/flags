@@ -1,9 +1,85 @@
 {
-  "id": "EG-WAD_2006-2016",
-  "title": "New Valley (Egypt, 2006-2016)",
-  "iso": "EG-WAD",
+  "id": "EG-WAD_2016",
+  "name": "New Valley Governorate (Egypt, 2006-2016)",
   "type": [
     "historical",
     "subdivision"
+  ],
+  "parent": "EG",
+  "codes": {
+    "iso_3166_2": "EG-WAD",
+    "wikidata": "Q1069"
+  },
+  "region": [
+    "Africa",
+    "Northern Africa",
+    "MENA",
+    "Arab World"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the desert sands of the Western Desert in which the governorate's oases lie"
+    },
+    {
+      "color": "green",
+      "symbolism": "the palm groves and oasis cultivation"
+    },
+    {
+      "color": "blue",
+      "symbolism": "underground water and the wave-like dune patterns of the desert"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A white field bearing a central yellow triangular form representing a desert pyramid, charged with a green palm tree, with three blue wavy bands running across the lower portion of the flag.",
+  "history": "Adopted in 2006 as part of Egypt's standardised governorate flag system, the design referenced the New Valley's defining features — the palm-bearing oases of Kharga, Dakhla, Farafra, and Bahariya set within the vast Western Desert. The flag was retired in 2016 when Egypt's governorate flags were redesigned in a new uniform format.",
+  "variant": [
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2006",
+      "end": "2016"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/New_Valley_Governorate",
+    "https://en.wikipedia.org/wiki/Governorates_of_Egypt"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "stylized desert pyramid / mountain",
+      "symbolism": "the desert landscape of the New Valley"
+    },
+    {
+      "type": "palm",
+      "count": 1,
+      "color": "green",
+      "position": "center",
+      "role": "palm tree within the central yellow form",
+      "symbolism": "the oasis agriculture of Kharga, Dakhla, Farafra, and Bahariya"
+    },
+    {
+      "type": "wave",
+      "count": 3,
+      "color": "blue",
+      "position": "bottom",
+      "role": "stylized wave bands across the lower field",
+      "symbolism": "the underground aquifers of the Western Desert and the dune ripples of the surrounding sands"
+    }
   ]
 }

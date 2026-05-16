@@ -1,8 +1,77 @@
 {
   "id": "GP",
-  "title": "Guadeloupe",
-  "iso": "GP",
+  "name": "Guadeloupe (France)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FR",
+  "codes": {
+    "iso_3166_1_alpha2": "GP",
+    "iso_3166_1_alpha3": "GLP",
+    "wikidata": "Q17012"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean",
+    "Francophonie",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the blue chief of the arms, evoking the Caribbean sky and sea"
+    },
+    {
+      "color": "black",
+      "symbolism": "the field of the arms; the volcanic soil of Guadeloupe"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the three gold fleurs-de-lis of French royal heraldry"
+    },
+    {
+      "color": "green",
+      "symbolism": "the sun and sugar cane symbolising the islands' agricultural wealth"
+    }
+  ],
+  "description": "A horizontally divided field — narrow blue stripe at the top above a wider black field — charged with three gold fleurs-de-lis on the blue chief and a green sun rising over a green sugar cane on the black field.",
+  "history": "Guadeloupe's official flag is the French Tricolore; this local flag, derived from the historic coat of arms of Basse-Terre (the capital), is in widespread unofficial use as a Guadeloupean territorial emblem. Guadeloupe became a French overseas department in 1946 and an overseas region in 1982; it remains an integral part of the French Republic and the European Union. A separate unofficial flag based on a sun-and-cyclone design is also used.",
+  "status": "de-facto",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Guadeloupe",
+    "https://en.wikipedia.org/wiki/List_of_French_flags#Overseas_departments_and_regions"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "black"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "symbolism": "the design derives from the historic arms of Basse-Terre, capital of Guadeloupe"
+    },
+    {
+      "type": "fleur-de-lis",
+      "count": 3,
+      "color": "gold",
+      "position": "top",
+      "arrangement": "row",
+      "role": "fleurs-de-lis of the chief",
+      "symbolism": "the three fleurs-de-lis recall Guadeloupe's status as a former French royal colony"
+    },
+    {
+      "type": "sun",
+      "color": "green",
+      "position": "center",
+      "role": "sun rising over sugar cane",
+      "symbolism": "the rising sun and a stalk of sugar cane representing the islands' tropical climate and the historic importance of sugar cultivation"
+    }
   ]
 }

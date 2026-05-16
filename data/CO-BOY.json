@@ -1,8 +1,67 @@
 {
   "id": "CO-BOY",
-  "title": "Boyacá (Colombia)",
-  "iso": "CO-BOY",
+  "name": "Boyaca (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-BOY",
+    "wikidata": "Q121215"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the fields, pastures and natural wealth of the department"
+    },
+    {
+      "color": "white",
+      "symbolism": "the eternal snows of the Sierra Nevada del Cocuy and the purity of the Boyacenses"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed by the patriots at the Battle of Boyaca and in the wars of independence"
+    }
+  ],
+  "description": "Five horizontal stripes in the order green, white, red, white, green with widths 1:1:2:1:1, with the coat of arms of Boyaca centred on the broad red middle stripe.",
+  "history": "Boyaca's flag honours the Battle of Boyaca (7 August 1819), the decisive victory by which Simon Bolivar's army secured Colombian independence. The colour scheme combines the greens and whites of the Andean landscape with the red of patriot blood.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Boyac%C3%A1_Department",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Boyac%C3%A1_Department.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 5,
+      "widths": [
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "symbolism": "green for the abundant fields and pastures, white for the eternal snows of the high Andes, and red for the blood of the patriots who won independence at the Battle of Boyaca"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "coat of arms of Boyaca",
+      "symbolism": "the department's coat of arms, recalling Boyaca's role as the cradle of Colombian independence"
+    }
   ]
 }

@@ -1,8 +1,79 @@
 {
   "id": "CL",
-  "title": "Chile",
-  "iso": "CL",
+  "name": "Chile",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "CL",
+    "iso_3166_1_alpha3": "CHL",
+    "fifa": "CHI",
+    "ioc": "CHI",
+    "wikidata": "Q298"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the snow-covered peaks of the Andes mountains"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the clear sky over Chile (canton field)"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed by the patriots fighting for independence"
+    }
+  ],
+  "description": "Two equal horizontal stripes — white above, red below — with a blue square at the upper hoist (canton) covering the full height of the white stripe. Centred on the blue square is a single white five-pointed star.",
+  "history": "Designed by Spanish-born Bernardo O'Higgins's minister Jose Ignacio Zenteno and possibly the soldier-architect Antonio Arcos, the flag was adopted on 18 October 1817, shortly after Chile's victory at the Battle of Chacabuco. It is one of the oldest national flags still in use. The design takes inspiration from the United States flag in the canton-and-stripes layout (la estrella solitaria, the Lone Star), but reduces the stripes to two and places a single white star on the blue.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1817-10-18"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Chile"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "symbolism": "white evokes the snow of the Andes, red the blood spilt for independence"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "proportion": "1/4",
+      "symbolism": "blue square in the upper hoist representing the sky",
+      "features": [
+        {
+          "type": "star",
+          "count": 1,
+          "points": 5,
+          "color": "white",
+          "position": "center",
+          "role": "lone star (la estrella solitaria)",
+          "symbolism": "a guide on the path of progress and honour; sometimes interpreted as the powers of the State watching over the Republic"
+        }
+      ]
+    }
   ]
 }

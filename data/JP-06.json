@@ -1,8 +1,53 @@
 {
   "id": "JP-06",
-  "title": "Yamagata (Japan)",
-  "iso": "JP-06",
+  "name": "Yamagata Prefecture (Japan)",
   "type": [
     "subdivision"
+  ],
+  "parent": "JP",
+  "codes": {
+    "iso_3166_2": "JP-06",
+    "wikidata": "Q125863"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the blue skies and waters of Yamagata"
+    },
+    {
+      "color": "white",
+      "symbolism": "the snows of the Dewa mountains"
+    }
+  ],
+  "description": "A blue field with a white emblem at the centre formed from three peaks (with stepped tops) above a small triangular base, stylising both the kanji 'yama' (mountain) and Yamagata's three sacred peaks.",
+  "history": "Yamagata's prefectural symbol was adopted on 8 August 1963 and the flag bearing it on a blue field is in use from the same date.",
+  "periods": [
+    {
+      "start": "1963-08-08"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yamagata_Prefecture",
+    "https://en.wikipedia.org/wiki/Flag_of_Yamagata_Prefecture"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the blue of clear skies above the Mogami River and the Sea of Japan"
+    },
+    {
+      "type": "mountain",
+      "count": 3,
+      "color": "white",
+      "position": "center",
+      "role": "stylised triple-mountain emblem combining the three sacred peaks of Dewa Sanzan (Mount Haguro, Mount Gassan, Mount Yudono) with the kanji 'yama' (山, mountain) for Yamagata",
+      "symbolism": "Yamagata's three sacred mountains (Dewa Sanzan) and the kanji 'yama' (山) for the prefecture's name; the form rests on a triangular base evoking the rivers of the prefecture."
+    }
   ]
 }

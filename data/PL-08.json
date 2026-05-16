@@ -1,8 +1,64 @@
 {
   "id": "PL-08",
-  "title": "Lubusz (Poland)",
-  "iso": "PL-08",
+  "name": "Lubusz Voivodeship (Poland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "PL",
+  "codes": {
+    "iso_3166_2": "PL-08",
+    "wikidata": "Q54157"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "from the regional coat of arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "from the historic colours of Greater Poland"
+    },
+    {
+      "color": "red",
+      "symbolism": "from the historic colours of Greater Poland"
+    },
+    {
+      "color": "green",
+      "symbolism": "the forests of the Lubusz Land"
+    }
+  ],
+  "description": "Four horizontal stripes of yellow, white, red, and green; the outer stripes twice the width of the inner ones.",
+  "history": "Adopted by the Lubusz Voivodeship after its creation in 1999, blending heraldic tinctures of the constituent historic regions.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lubusz_Voivodeship"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "white",
+        "red",
+        "green"
+      ],
+      "count": 4,
+      "widths": [
+        2,
+        1,
+        1,
+        2
+      ],
+      "symbolism": "Combines the historic colours of Greater Poland (white and red) with green and yellow taken from the regional coat of arms."
+    }
   ]
 }

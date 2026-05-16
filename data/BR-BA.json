@@ -1,8 +1,70 @@
 {
   "id": "BR-BA",
-  "title": "Bahia (Brazil)",
-  "iso": "BR-BA",
+  "name": "Bahia (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-BA",
+    "wikidata": "Q40443"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "peace"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood of those who fought for independence"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the sky and freedom"
+    }
+  ],
+  "description": "Four equal horizontal stripes of white and red alternating, with a blue canton in the upper hoist bearing a white equilateral triangle.",
+  "history": "Designed by Deocleciano Ramos and adopted as the flag of the State of Bahia in 1889, shortly after the proclamation of the Brazilian Republic; the design draws on the symbolism of the Conjuracao Baiana (Revolt of the Tailors) of 1798.",
+  "periods": [
+    {
+      "start": "1889"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Bahia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 4,
+      "symbolism": "Four equal horizontal stripes alternating white and red, drawn from the 1798 Conjuracao Baiana movement"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "position": "upper-hoist",
+      "symbolism": "Blue canton charged with a white triangle, evoking the emblem of the Conjuracao Baiana",
+      "features": [
+        {
+          "type": "triangle",
+          "color": "white",
+          "position": "center",
+          "role": "white equilateral triangle",
+          "symbolism": "Recalls the masonic and republican triangle adopted by the Conjuracao Baiana of 1798, symbolising the Trinity, equality, liberty, and fraternity"
+        }
+      ]
+    }
   ]
 }

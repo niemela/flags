@@ -1,8 +1,52 @@
 {
   "id": "DE-SN",
-  "title": "Saxony (Germany)",
-  "iso": "DE-SN",
+  "name": "Saxony (Germany)",
   "type": [
     "subdivision"
+  ],
+  "parent": "DE",
+  "codes": {
+    "iso_3166_2": "DE-SN",
+    "wikidata": "Q1202"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the historic Wettin colours, recalling the silver of Saxony"
+    },
+    {
+      "color": "green",
+      "symbolism": "the historic Wettin colours"
+    }
+  ],
+  "description": "Two equal horizontal stripes of white over green.",
+  "history": "Adopted as the civil flag of the Free State of Saxony in 1991 after German reunification, restoring the white-and-green of the historic Kingdom of Saxony (1815-1918) and the inter-war Free State; the colours were originally the livery colours of the House of Wettin.",
+  "variant": [
+    "civil"
+  ],
+  "periods": [
+    {
+      "start": "1991"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Saxony"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2,
+      "symbolism": "White over green are the colours of the Wettin dynasty, who ruled Saxony from the 11th century."
+    }
   ]
 }

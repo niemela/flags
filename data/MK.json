@@ -1,8 +1,60 @@
 {
   "id": "MK",
-  "title": "North Macedonia",
-  "iso": "MK",
+  "name": "North Macedonia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "MK",
+    "iso_3166_1_alpha3": "MKD",
+    "fifa": "MKD",
+    "ioc": "MKD",
+    "wikidata": "Q221"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans",
+    "Slavic"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the historic red of the Macedonian revolutionary tradition; the field colour of every Macedonian flag since 1944"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the colour of the 'new sun of Liberty' (novo sonce na slobodata) referenced in the national anthem 'Denes nad Makedonija'"
+    }
+  ],
+  "description": "A red field charged with a stylised yellow sun: a central yellow disc from which eight broadening rays extend outward to the edges of the flag, dividing the field into eight red sectors.",
+  "history": "Designed by architect Miroslav Grcev and adopted on 5 October 1995 by the Macedonian parliament, replacing the Vergina Sun flag of 1992. The earlier flag had triggered a year-long Greek economic blockade (1994–1995) over Greece's claim that the Vergina Sun — found at the ancient Macedonian capital of Aigai — was a Greek symbol; the change to the present sun, paired with constitutional amendments, allowed the lifting of the blockade in October 1995. The eight-rayed sun derives from the national emblem and is intended to evoke the 'new sun of Liberty' of the national anthem, breaking from any visual association with antiquity that Greece might claim.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1995-10-05"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_North_Macedonia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the historical red of the Macedonian revolutionary movement and of the post-1944 Macedonian state, which always used a red field"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "center",
+      "rays": 8,
+      "role": "stylised eight-rayed sun",
+      "symbolism": "the 'new sun of Liberty' from the national anthem; eight broad, broadening rays — two horizontal, two vertical, four diagonal — extend from a central yellow disc to the edges of the field, dividing the red into eight triangular segments"
+    }
   ]
 }

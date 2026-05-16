@@ -1,8 +1,74 @@
 {
   "id": "RU-KEM",
-  "title": "Kemerovo Oblast (Russia)",
-  "iso": "RU-KEM",
+  "name": "Kemerovo Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-KEM",
+    "wikidata": "Q6076"
+  },
+  "region": [
+    "Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the hoist stripe bearing the oblast coat of arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "the principal field, recalling the flag of the Russian SFSR"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wreath and details of the coat of arms"
+    },
+    {
+      "color": "green",
+      "symbolism": "the wreath of the coat of arms"
+    },
+    {
+      "color": "black",
+      "symbolism": "the triangular pyramid of coal in the coat of arms"
+    }
+  ],
+  "description": "A vertical bicolour with a narrow blue stripe at the hoist (one-third of the flag) charged with the oblast coat of arms, and a wide red field at the fly.",
+  "history": "Adopted on 29 May 2002, with modifications on 21 January 2003 and 26 February 2020 reflecting changes to the oblast's coat of arms.",
+  "periods": [
+    {
+      "start": "2020-02-26"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Kemerovo_Oblast",
+    "https://en.wikipedia.org/wiki/Kemerovo_Oblast"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "symbolism": "blue hoist stripe with the coat of arms; red field after the flag of the Russian SFSR."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "upper-hoist",
+      "role": "Kemerovo Oblast coat of arms",
+      "symbolism": "central French shield with a black coal-pyramid charged with hammer and pick, framed by an oak wreath bound with a red Order of Lenin ribbon bearing the year 1943 (the oblast's founding)."
+    }
   ]
 }

@@ -1,9 +1,73 @@
 {
   "id": "SG",
-  "title": "Singapore",
-  "iso": "SG",
+  "name": "Singapore",
   "type": [
-    "country",
-    "city"
+    "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "SG",
+    "iso_3166_1_alpha3": "SGP",
+    "fifa": "SGP",
+    "ioc": "SGP",
+    "wikidata": "Q334"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "universal brotherhood and the equality of all people"
+    },
+    {
+      "color": "white",
+      "symbolism": "pervading and everlasting purity and virtue"
+    }
+  ],
+  "description": "Two equal horizontal stripes — red over white. In the upper hoist, a white waxing crescent (opening toward the fly) encloses a ring of five small white five-pointed stars.",
+  "history": "Adopted on 3 December 1959 when Singapore attained self-government within the British Empire, and retained when the country became fully independent on 9 August 1965. Designed by a committee headed by Deputy Prime Minister Toh Chin Chye over two months in 1959. An earlier proposal had three stars (echoing the Indonesian flag) but the number was changed to five to articulate Singapore's five national ideals; the stars were arranged in a circle to emphasise their equality. The crescent was added partly to balance the design and partly out of consideration for Singapore's Malay-Muslim population.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1959-12-03"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Singapore",
+    "https://www.nhb.gov.sg/what-we-do/our-work/community-engagement/education/resources/national-symbols/national-flag"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "crescent",
+      "count": 1,
+      "color": "white",
+      "position": "upper-hoist",
+      "symbolism": "a young nation on the rise (a waxing crescent)"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "position": "upper-hoist",
+      "arrangement": "circle",
+      "role": "five stars in a ring next to the crescent",
+      "symbolism": "the nation's five ideals: democracy, peace, progress, justice, and equality"
+    }
   ]
 }

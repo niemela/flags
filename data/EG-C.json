@@ -1,9 +1,55 @@
 {
   "id": "EG-C",
-  "title": "Cairo (Egypt)",
-  "iso": "EG-C",
+  "name": "Cairo Governorate (Egypt)",
   "type": [
     "subdivision",
     "city"
+  ],
+  "parent": "EG",
+  "codes": {
+    "iso_3166_2": "EG-C",
+    "wikidata": "Q220799"
+  },
+  "region": [
+    "Africa",
+    "Northern Africa",
+    "MENA",
+    "Arab World",
+    "Middle East"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the Nile and the sky over the capital"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the Citadel of Saladin, mosques and other historic buildings of Islamic Cairo"
+    }
+  ],
+  "description": "A light blue field charged in the centre with a brown silhouette of the Citadel of Cairo and its mosques and minarets.",
+  "history": "Cairo Governorate is coterminous with the city of Cairo. The flag — a light blue field defaced with a brown stylised silhouette of the Citadel of Saladin and the mosques of Islamic Cairo — was adopted as part of the system of governorate flags introduced in the 2000s.",
+  "variant": [
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cairo_Governorate",
+    "https://en.wikipedia.org/wiki/Governorates_of_Egypt"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue",
+      "symbolism": "the Nile and the sky over Cairo"
+    },
+    {
+      "type": "building",
+      "count": 1,
+      "color": "brown",
+      "position": "center",
+      "role": "Citadel of Saladin and mosques of Cairo",
+      "symbolism": "a stylised silhouette of the Cairo Citadel and its minarets — defining landmarks of the historic Islamic city"
+    }
   ]
 }

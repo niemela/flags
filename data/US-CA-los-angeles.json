@@ -1,7 +1,68 @@
 {
   "id": "US-CA-los-angeles",
-  "title": "Los Angeles, CA (United States)",
+  "name": "Los Angeles (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-CA",
+  "codes": {
+    "wikidata": "Q65"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the olive trees of the region"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the orange and lemon groves and Southern California sunshine"
+    },
+    {
+      "color": "red",
+      "symbolism": "the vineyards of the region"
+    },
+    {
+      "color": "white",
+      "symbolism": "appearing on the central seal"
+    },
+    {
+      "color": "blue",
+      "symbolism": "appearing on the central seal"
+    }
+  ],
+  "description": "Three vertical stripes — green at the hoist, yellow in the centre, and red at the fly — with the seal of the City of Los Angeles centred on the yellow stripe.",
+  "history": "Designed by Roy E. Silent and E. S. Jones, and officially adopted by the Los Angeles City Council on 22 June 1931 as part of the city's sesquicentennial celebrations. The fringed scallops that originally edged the stripes have since been simplified to plain stripes in most renderings.",
+  "periods": [
+    {
+      "start": "1931-06-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Los_Angeles"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "Green for the olive trees and oranges of the Los Angeles basin, yellow for its citrus groves and sunshine, and red for its vineyards."
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "Seal of the City of Los Angeles",
+      "symbolism": "The city seal at the centre is quartered with the arms of the United States, the Republic of California (the bear flag arms), the Kingdom of Spain (castle and lion of Castile and Leon), and the Republic of Mexico (eagle and serpent), reflecting the four sovereignties under which the city has been governed; surrounded by a wreath of olives, grapes and oranges, with rosary beads referencing the Spanish missions and the city's full name El Pueblo de Nuestra Senora la Reina de los Angeles."
+    }
   ]
 }

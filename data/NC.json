@@ -1,8 +1,83 @@
 {
   "id": "NC",
-  "title": "New Caledonia",
-  "iso": "NC",
+  "name": "New Caledonia (Kanaky / FLNKS flag)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FR",
+  "codes": {
+    "iso_3166_1_alpha2": "NC",
+    "iso_3166_1_alpha3": "NCL",
+    "fifa": "NCL",
+    "wikidata": "Q33788"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Francophonie"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the sky and the Pacific Ocean surrounding the islands; sovereignty"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed in the struggle for independence; socialism and the unity of the Kanak people"
+    },
+    {
+      "color": "green",
+      "symbolism": "the land and the spirits of the ancestors"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the disc representing the sun"
+    },
+    {
+      "color": "black",
+      "symbolism": "the silhouette of the flèche faîtière (rooftop spear) atop a Kanak grand chief's hut"
+    }
+  ],
+  "description": "Three equal horizontal stripes — blue, red and green from top to bottom — with a yellow disc placed on the hoist side (overlapping all three stripes) charged with a black silhouette of a flèche faîtière, the carved spear that crowns the roof of a Kanak grand chief's traditional hut.",
+  "history": "Adopted in 1980 by the Kanak Socialist National Liberation Front (FLNKS) as the flag of the proposed independent state of Kanaky. Since 18 July 2010 it has been flown alongside the French national flag as a co-official flag of the territory of New Caledonia, after a decision of the Congress of New Caledonia in line with the Nouméa Accord. The French tricolore remains the official state flag.",
+  "variant": [
+    "civil"
+  ],
+  "status": "alternative",
+  "periods": [
+    {
+      "start": "1980"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_New_Caledonia",
+    "https://en.wikipedia.org/wiki/Kanaky_flag"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red",
+        "green"
+      ],
+      "count": 3,
+      "symbolism": "blue for the sky and the surrounding ocean; red for the blood shed by the Kanak people in their struggle for independence and the unity of the people; green for the land and the spirits of the ancestors"
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "yellow disc",
+      "symbolism": "the sun"
+    },
+    {
+      "type": "tool",
+      "color": "black",
+      "position": "hoist",
+      "role": "flèche faîtière (Kanak rooftop spear)",
+      "symbolism": "the carved spear placed atop the roof of a Kanak grand chief's hut, a traditional symbol of Kanak identity and authority"
+    }
   ]
 }

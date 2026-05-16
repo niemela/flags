@@ -1,8 +1,69 @@
 {
   "id": "HN",
-  "title": "Honduras",
-  "iso": "HN",
+  "name": "Honduras",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "HN",
+    "iso_3166_1_alpha3": "HND",
+    "fifa": "HON",
+    "ioc": "HON",
+    "wikidata": "Q783"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Central America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the two oceans (Pacific and Caribbean) that border Honduras and the sky above; ideals of brotherhood, justice, loyalty and firmness of thought"
+    },
+    {
+      "color": "white",
+      "symbolism": "the land between the oceans, peace, prosperity, integrity and the purity of patriotic ideals"
+    }
+  ],
+  "description": "Three equal horizontal stripes — blue, white, blue — with five blue five-pointed stars arranged in a quincunx (X-pattern) on the central white stripe.",
+  "history": "Adopted on 16 February 1866, when Honduras updated the Federal Republic of Central America's blue-white-blue triband by adding the five blue stars to recall the original union of states. By Decree No. 16 of 18 January 2022, the shade of blue was officially changed from cobalt to a lighter turquoise blue (a shade traditionally associated with the Caribbean) and the dimensions of the stars were standardised. The basic horizontal-bicolour-with-stars layout has remained unchanged since 1866.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1866-02-16"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Honduras"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "symbolism": "based on the flag of the Federal Republic of Central America, with the two blue stripes representing the Pacific Ocean and the Caribbean Sea bracketing the white stripe of the Central American isthmus"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "blue",
+      "position": "center",
+      "arrangement": "cross-pattern",
+      "role": "five blue stars in quincunx (X-pattern)",
+      "symbolism": "the five Central American countries that originally formed the Federal Republic of Central America (1823–1841): Guatemala, El Salvador, Honduras, Nicaragua and Costa Rica. The arrangement — one in the centre and four at the corners — expresses Honduras's enduring hope for the political union of these nations"
+    }
   ]
 }

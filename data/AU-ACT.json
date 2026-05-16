@@ -1,8 +1,90 @@
 {
   "id": "AU-ACT",
-  "title": "Australian Capital Territory (Australia)",
-  "iso": "AU-ACT",
+  "name": "Australian Capital Territory (Australia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AU",
+  "codes": {
+    "iso_3166_2": "AU-ACT",
+    "wikidata": "Q3398"
+  },
+  "region": [
+    "Oceania",
+    "Australia and New Zealand",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the territorial colour at the hoist, taken from the Canberra city colours"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the territorial colour at the fly, taken from the Canberra city colours"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stars of the Southern Cross and the swan and castle on the shield"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the chief of the shield and details of the heraldic charge"
+    },
+    {
+      "color": "red",
+      "symbolism": "the rose, mace and other heraldic elements on the shield"
+    },
+    {
+      "color": "black",
+      "symbolism": "the swan and shield outlines"
+    }
+  ],
+  "description": "A vertical bicolour with a navy panel at the hoist (one third) bearing the white stars of the Southern Cross, and a yellow panel at the fly (two thirds) bearing the Canberra coat of arms.",
+  "history": "Adopted on 25 March 1993, when the Australian Capital Territory's self-government had matured enough to warrant a distinct flag. The Canberra coat of arms used in the fly was granted by King George V in 1928, the year Canberra was officially designated the federal capital.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1993-03-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Australian_Capital_Territory"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "navy",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "symbolism": "blue and gold are the territorial colours, derived from the colours of the city of Canberra"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "color": "white",
+      "arrangement": "southern-cross",
+      "position": "hoist",
+      "role": "the Southern Cross constellation on the blue panel",
+      "symbolism": "the constellation Crux, visible in the southern sky"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "fly",
+      "role": "the Canberra coat of arms (shield) on the yellow panel",
+      "symbolism": "the arms of the city of Canberra, granted in 1928, featuring the portcullis, sword, mace, rose, white swan and black swan, and a crown"
+    }
   ]
 }

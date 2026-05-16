@@ -1,9 +1,75 @@
 {
   "id": "MX-CMX",
-  "title": "Ciudad de México (Mexico)",
-  "iso": "MX-CMX",
+  "name": "Mexico City (Mexico)",
   "type": [
     "subdivision",
     "city"
+  ],
+  "parent": "MX",
+  "codes": {
+    "iso_3166_2": "MX-CMX",
+    "wikidata": "Q1489"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Central America",
+    "Latin America"
+  ],
+  "aspect_ratio": "4:7",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold castle, lions and bordure of the coat of arms"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the water of Lake Texcoco surrounding the castle"
+    },
+    {
+      "color": "green",
+      "symbolism": "the cactus leaves on the bordure"
+    },
+    {
+      "color": "white",
+      "symbolism": "details of the arms"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlines on the arms"
+    }
+  ],
+  "description": "A red field with the historic coat of arms of the city centred: a gold castle on a stone bridge over blue water, flanked by two gold lions, all within a blue bordure bearing ten green cactus leaves.",
+  "history": "Mexico City had no official flag for most of its history; a city flag based on the 1523 grant of arms was formally adopted in modern times. Following the 2016 constitutional reform that converted the Federal District (Distrito Federal) into the federal entity of Mexico City (Ciudad de Mexico), the flag continues to use the historic arms granted by Charles V on 4 July 1523.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2016"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Mexico_City"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "A red field charged with the historic coat of arms of the city, granted by Charles V in 1523."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "coat of arms of Mexico City (a gold castle on a stone bridge over blue water with three causeways, flanked by two lions, all within a blue bordure charged with ten prickly-pear cactus leaves)",
+      "symbolism": "Granted by Emperor Charles V on 4 July 1523 to the new Spanish capital built on the ruins of Tenochtitlan: the castle and lions are heraldic emblems of Castile and Leon, the blue water represents Lake Texcoco surrounding the city, the three causeways recall the calzadas connecting the island city to the mainland, and the ten cactus leaves on the bordure refer to the indigenous nopal at the heart of the Aztec foundation legend."
+    }
   ]
 }

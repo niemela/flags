@@ -1,9 +1,62 @@
 {
-  "id": "PZPA_1903-1979",
-  "title": "Panama Canal Zone (1903-1979)",
-  "iso": "PZPA",
+  "id": "PZPA_1979",
+  "name": "Panama Canal Zone (1903-1979)",
   "type": [
     "historical",
     "subdivision"
+  ],
+  "parent": null,
+  "codes": {
+    "iso_3166_3": "PZPA",
+    "wikidata": "Q319224"
+  },
+  "region": [
+    "Americas",
+    "Central America",
+    "Latin America and the Caribbean",
+    "Latin America"
+  ],
+  "aspect_ratio": "10:19",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the Atlantic and Pacific oceans linked by the canal"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the rays of the sun and the wealth of commerce"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and peace"
+    }
+  ],
+  "description": "A navy-blue field bearing the circular seal of the Panama Canal Zone in the centre — a gold disc with a Spanish galleon between two coasts on a blue and white sea, surrounded by a gold-bordered ring inscribed with the territory's name and the motto 'The Land Divided, The World United'.",
+  "history": "The Panama Canal Zone was a 10-mile-wide US-administered strip of land flanking the Panama Canal, leased in perpetuity from Panama by the 1903 Hay-Bunau-Varilla Treaty after Panama's independence from Colombia. The Zone used United States flags and ensigns in administration; the territorial seal flag illustrated here served as the distinctive emblem of the civilian Canal Zone government. Following the 1977 Torrijos-Carter Treaties, the Canal Zone was abolished on 1 October 1979 and its territory returned to Panamanian sovereignty; the canal itself was operated under joint Panama-US arrangements until full transfer to Panama on 31 December 1999.",
+  "status": "de-facto",
+  "periods": [
+    {
+      "start": "1903-11-18",
+      "end": "1979-10-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Panama_Canal_Zone",
+    "https://en.wikipedia.org/wiki/Hay%E2%80%93Bunau-Varilla_Treaty",
+    "https://en.wikipedia.org/wiki/Torrijos%E2%80%93Carter_Treaties"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy",
+      "symbolism": "the deep waters of the two oceans the canal joins"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "Seal of the Panama Canal Zone",
+      "symbolism": "the official seal of the Canal Zone — a Spanish galleon under sail between two land masses below a banner reading 'The Land Divided, The World United', representing the canal's joining of the two oceans and the achievement of US engineering"
+    }
   ]
 }

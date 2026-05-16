@@ -1,8 +1,73 @@
 {
-  "id": "AR_1850-1861",
-  "title": "Argentina (1850-1861)",
+  "id": "AR_1861",
+  "name": "Argentina (1850–1861)",
   "type": [
     "historical",
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q832554"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "9:14",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the deep blue inherited from the Rosas-era Federalist flag"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red",
+      "symbolism": "the Federalist red of the Sun of May"
+    },
+    {
+      "color": "brown",
+      "symbolism": "outline of the Sun of May features"
+    }
+  ],
+  "description": "Three horizontal stripes of equal width — dark blue, white, dark blue — with a red Sun of May centred on the white stripe.",
+  "history": "Used by the Argentine Confederation under Justo José de Urquiza after the fall of Rosas at the Battle of Caseros (3 February 1852). Urquiza removed the four red Phrygian caps that Rosas had placed in the corners of the flag, but kept the dark blue stripes and the red sun. The flag remained in use throughout the period of secession of the State of Buenos Aires (1852–1861) until the unification of Argentina following the Battle of Pavón (1861), after which the celestial-blue and white version with a yellow sun was definitively restored.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1850",
+      "end": "1861"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Argentina",
+    "https://en.wikipedia.org/wiki/Argentine_Confederation"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "symbolism": "the celestial blue and white of Belgrano's 1812 cockade, retained in the deep Federalist blue used by the Argentine Confederation"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 32,
+      "color": "red",
+      "position": "center",
+      "role": "Sun of May",
+      "symbolism": "the Inca sun-god Inti and the May Revolution"
+    }
   ]
 }

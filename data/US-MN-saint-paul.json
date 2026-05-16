@@ -1,7 +1,61 @@
 {
   "id": "US-MN-saint-paul",
-  "title": "Saint Paul, MN (United States)",
+  "name": "Saint Paul (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-MN",
+  "codes": {
+    "wikidata": "Q28848"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:4",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the upper and lower stripes and the central emblem"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the central stripe and the star at the heart of the emblem"
+    }
+  ],
+  "description": "Three horizontal bands — yellow, blue, yellow — with a yellow stylised cross-shaped emblem spanning all three stripes at the centre and a blue five-pointed star within the emblem.",
+  "history": "Saint Paul's municipal flag combines the yellow-and-blue colours of the city with a cross emblem alluding to its namesake, the apostle Paul, and a star marking its role as Minnesota's state capital.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Paul,_Minnesota"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue",
+        "yellow"
+      ],
+      "count": 3,
+      "symbolism": "Three horizontal bands of equal height — yellow on top and bottom, blue across the middle — frame the central civic emblem."
+    },
+    {
+      "type": "greek-cross",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "Cross-and-anchor emblem of Saint Paul",
+      "symbolism": "A stylised yellow device evoking Saint Paul's namesake — the apostle Paul — bridging the upper and lower yellow stripes through the central blue band."
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "blue",
+      "position": "center",
+      "role": "five-pointed star at the centre of the emblem",
+      "symbolism": "Marks Saint Paul as the capital of Minnesota, the 'North Star State'."
+    }
   ]
 }

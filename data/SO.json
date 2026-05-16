@@ -1,8 +1,66 @@
 {
   "id": "SO",
-  "title": "Somalia",
-  "iso": "SO",
+  "name": "Somalia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "SO",
+    "iso_3166_1_alpha3": "SOM",
+    "fifa": "SOM",
+    "ioc": "SOM",
+    "wikidata": "Q1045"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Eastern Africa",
+    "Horn of Africa",
+    "Arab World",
+    "MENA"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "originally honouring the United Nations (whose flag was the model); also reinterpreted as the sky and the Indian Ocean"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace, prosperity and the five-pointed Star of Unity"
+    }
+  ],
+  "symbolism": null,
+  "description": "A light-blue field with a single white five-pointed star centred upon it.",
+  "history": "Adopted on 12 October 1954 for the UN-administered Trust Territory of Somaliland, then retained on independence and union with British Somaliland on 1 July 1960 to form the Somali Republic. The flag has remained unchanged through all subsequent regimes, including the Somali Democratic Republic (1969–1991) and the rebuilding of the federal state. The light-blue field was modelled on the flag of the United Nations as a tribute to the UN's role administering the territory.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1954-10-12"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Somalia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue",
+      "symbolism": "a light sky-blue field, originally chosen to honour the United Nations under whose trusteeship Italian Somaliland was administered until independence; later reinterpreted to also represent the sky and the Indian Ocean"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "role": "Star of Unity",
+      "symbolism": "the five points represent the five regions historically inhabited by ethnic Somalis: British Somaliland, Italian Somaliland, French Somaliland (now Djibouti), the Ogaden in Ethiopia, and the Northern Frontier District of Kenya — expressing the pan-Somali aspiration to unite all Somali-inhabited territories under one state"
+    }
   ]
 }

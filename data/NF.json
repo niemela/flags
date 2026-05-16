@@ -1,8 +1,68 @@
 {
   "id": "NF",
-  "title": "Norfolk Island",
-  "iso": "NF",
+  "name": "Norfolk Island (Australia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AU",
+  "codes": {
+    "iso_3166_1_alpha2": "NF",
+    "iso_3166_1_alpha3": "NFK",
+    "wikidata": "Q31057"
+  },
+  "region": [
+    "Oceania",
+    "Australia and New Zealand",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the green flanking stripes representing the lush vegetation of Norfolk Island"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central panel bearing the territorial emblem"
+    }
+  ],
+  "description": "A vertical tricolour of green, white and green (with a wider central white panel) charged with a green Norfolk Island pine in the centre.",
+  "history": "Adopted on 17 January 1980 by an Act of the Norfolk Island Legislative Assembly, after Norfolk Island achieved limited self-government within Australia in 1979. The design — a vertical tricolour with a central emblem — closely echoes the flag of Canada (1965), substituting the locally distinctive Norfolk Island pine for the maple leaf. Norfolk Island is an external territory of Australia.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1980-01-17"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Norfolk_Island"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        7,
+        9,
+        7
+      ],
+      "symbolism": "green stripes flanking a wider central white panel bearing a Norfolk Island pine — modelled after the flag of Canada, with the local emblem in place of the maple leaf"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "Norfolk Island pine (Araucaria heterophylla)",
+      "symbolism": "the Norfolk Island pine is endemic to the island and is its most distinctive natural emblem"
+    }
   ]
 }

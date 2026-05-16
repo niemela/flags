@@ -1,8 +1,53 @@
 {
   "id": "BR-TO",
-  "title": "Tocantins (Brazil)",
-  "iso": "BR-TO",
+  "name": "Tocantins (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-TO",
+    "wikidata": "Q43695"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the sky over Tocantins"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central diagonal band, evoking sunlight and peace"
+    },
+    {
+      "color": "orange",
+      "symbolism": "the cerrado's earth and the rising sun"
+    }
+  ],
+  "description": "A diagonal field split into a blue upper-hoist triangle and an orange lower-fly triangle, separated by a wide white wedge that radiates from the lower hoist toward the upper fly.",
+  "history": "Adopted on 1 January 1989 alongside the creation of the State of Tocantins by the 1988 Brazilian Constitution; the flag was designed by sociologist Paulo Brito and approved by the first state constituent assembly.",
+  "periods": [
+    {
+      "start": "1989-01-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Tocantins"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "orange",
+      "direction": "bend-sinister",
+      "symbolism": "A diagonal split with blue in the upper hoist quadrant and orange in the lower fly, divided by a wedge-shaped white band; the colours represent the sky, the dry earth of the cerrado, and the sun-bleached light of central Brazil"
+    }
   ]
 }

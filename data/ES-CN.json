@@ -1,8 +1,57 @@
 {
   "id": "ES-CN",
-  "title": "Canary Islands (Spain)",
-  "iso": "ES-CN",
+  "name": "Canary Islands (Spain)",
   "type": [
     "subdivision"
+  ],
+  "parent": "ES",
+  "codes": {
+    "iso_3166_2": "ES-CN",
+    "wikidata": "Q5813"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "from the colours of the Province of Santa Cruz de Tenerife"
+    },
+    {
+      "color": "blue",
+      "symbolism": "shared by both island provinces"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "from the colours of the Province of Las Palmas"
+    }
+  ],
+  "description": "Three equal vertical stripes of white, blue, and yellow from the hoist.",
+  "history": "Adopted by the Statute of Autonomy of 10 August 1982. The civil version is the plain tricolour shown here; the official state flag adds the Canarian coat of arms (a shield with seven islands flanked by two dogs, beneath a royal crown) to the centre. The colours bring together those of the two historic provinces formed in the 1927 division of the archipelago.",
+  "variant": [
+    "civil"
+  ],
+  "periods": [
+    {
+      "start": "1982-08-10"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Canary_Islands"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "yellow"
+      ],
+      "count": 3,
+      "symbolism": "The flag combines the colours of the maritime ensigns of the two historic provinces of the Canary Islands: white and blue from the Province of Santa Cruz de Tenerife, and blue and yellow from the Province of Las Palmas."
+    }
   ]
 }

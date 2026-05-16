@@ -1,8 +1,72 @@
 {
   "id": "US-ID",
-  "title": "Idaho (United States)",
-  "iso": "US-ID",
+  "name": "Idaho (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-ID",
+    "fips_state": "16",
+    "wikidata": "Q1221"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "26:33",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "gold"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "A blue field with the Great Seal of Idaho centred upon it. Below the seal is a red scroll, edged and lettered in gold, bearing the words 'STATE OF IDAHO'.",
+  "history": "Originally adopted on 15 March 1907 as a regimental flag for the Idaho infantry returning from the Spanish-American War; codified as the state flag of Idaho by an act of the legislature on 12 March 1927. The seal in the centre, designed by Emma Edwards Green in 1890-1891, is the only U.S. state seal designed by a woman.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1907-03-15"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Idaho"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "Great Seal of the State of Idaho",
+      "symbolism": "designed by Emma Edwards Green, the only U.S. state seal designed by a woman; it depicts a miner and a woman representing justice and equality, with mountains, agriculture and an elk's head"
+    },
+    {
+      "type": "glyph",
+      "color": "gold",
+      "position": "bottom",
+      "role": "red scroll bearing the words 'STATE OF IDAHO' in gold beneath the seal"
+    }
   ]
 }

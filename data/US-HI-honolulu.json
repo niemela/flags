@@ -1,7 +1,48 @@
 {
   "id": "US-HI-honolulu",
-  "title": "Honolulu, HI (United States)",
+  "name": "Honolulu (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-HI",
+  "codes": {
+    "wikidata": "Q18094"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Polynesia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "Hawaiian royalty and the aliʻi feather cloaks"
+    },
+    {
+      "color": "black",
+      "symbolism": "the central coat of arms"
+    }
+  ],
+  "description": "A plain yellow field bearing the black coat of arms of the City and County of Honolulu at the centre.",
+  "history": "Honolulu's flag uses the yellow associated with Hawaiian royalty as its field, charged with the city-and-county coat of arms derived from the heraldry of the former Kingdom of Hawaii.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Honolulu"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow",
+      "symbolism": "Yellow recalls the royal feather cloaks of the Hawaiian aliʻi (chiefs) and the colour traditionally associated with Hawaiian royalty."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "Coat of arms of the City and County of Honolulu",
+      "symbolism": "A heraldic shield based on the arms of the Kingdom of Hawaii — quartered with two royal banners and a heraldic puloʻuloʻu (tabu staff), supported by the chiefs Kameʻeiamoku and Kamanawa — proclaiming Honolulu's role as the Hawaiian capital."
+    }
   ]
 }

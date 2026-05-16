@@ -1,8 +1,52 @@
 {
   "id": "CO-VAU",
-  "title": "Vaupés (Colombia)",
-  "iso": "CO-VAU",
+  "name": "Vaupes (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-VAU",
+    "wikidata": "Q121132"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "peace and the rivers that thread through the rainforest"
+    },
+    {
+      "color": "green",
+      "symbolism": "the dense Amazonian rainforest covering the department"
+    }
+  ],
+  "description": "A field divided horizontally white over green, with a stylised dark green branch or vine motif over the lower stripe.",
+  "history": "Vaupes was elevated from a commissary to a department of Colombia in 1991. Its flag uses white and green to represent the rivers and the rainforest, charged with a stylised branch evoking the Amazonian flora.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vaup%C3%A9s_Department"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "leaf",
+      "count": 1,
+      "color": "green",
+      "position": "center",
+      "role": "stylised vine or branch",
+      "symbolism": "the abundant Amazonian flora native to the department"
+    }
   ]
 }

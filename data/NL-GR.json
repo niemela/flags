@@ -1,8 +1,60 @@
 {
   "id": "NL-GR",
-  "title": "Groningen (Netherlands)",
-  "iso": "NL-GR",
+  "name": "Groningen (Netherlands)",
   "type": [
     "subdivision"
+  ],
+  "parent": "NL",
+  "codes": {
+    "iso_3166_2": "NL-GR",
+    "wikidata": "Q768"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "from the historic flag of the City of Groningen"
+    },
+    {
+      "color": "white",
+      "symbolism": "from the historic flag of the City of Groningen"
+    },
+    {
+      "color": "red",
+      "symbolism": "from the arms of the Ommelanden"
+    },
+    {
+      "color": "blue",
+      "symbolism": "from the arms of the Ommelanden"
+    }
+  ],
+  "description": "A field quartered by a green cross: red in the upper hoist and lower fly, blue in the upper fly and lower hoist, with a white outline along the cross arms.",
+  "history": "Adopted by the provincial states on 17 February 1950. The flag combines the colours of the City of Groningen (green and white) and the surrounding Ommelanden (red and blue) into a unified quartered design.",
+  "periods": [
+    {
+      "start": "1950-02-17"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Groningen_(province)"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "the design combines the city flag of Groningen (a green-and-white horizontal split) with the colours of the surrounding Ommelanden (red and blue), expressed as a quartered field divided by a green cross"
+    },
+    {
+      "type": "greek-cross",
+      "count": 1,
+      "color": "green",
+      "position": "center",
+      "role": "the green cross",
+      "symbolism": "the green-and-white cross of the City of Groningen"
+    }
   ]
 }

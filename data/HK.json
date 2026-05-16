@@ -1,8 +1,59 @@
 {
   "id": "HK",
-  "title": "Hong Kong",
-  "iso": "HK",
+  "name": "Hong Kong (China)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CN",
+  "codes": {
+    "iso_3166_1_alpha2": "HK",
+    "iso_3166_1_alpha3": "HKG",
+    "fifa": "HKG",
+    "ioc": "HKG",
+    "wikidata": "Q8646"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the motherland (China); festivity and celebration"
+    },
+    {
+      "color": "white",
+      "symbolism": "the Bauhinia blakeana flower; the principle of 'one country, two systems'"
+    }
+  ],
+  "description": "A red field bearing, in the centre, a stylised five-petalled white Bauhinia flower; a small red five-pointed star is set on each petal, and each petal carries a thin red dynamic line.",
+  "history": "Adopted on 16 February 1990 by the Seventh National People's Congress of China and hoisted on 1 July 1997, when the United Kingdom transferred sovereignty over Hong Kong to the People's Republic of China. It replaced the British Hong Kong colonial flag (a Blue Ensign with the colonial badge).",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1997-07-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Hong_Kong"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "red is a festive Chinese colour and represents the motherland; together with the white emblem it echoes the colour scheme of the flag of the People's Republic of China"
+    },
+    {
+      "type": "flower",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "stylised Bauhinia blakeana flower with five petals, each bearing a small red star",
+      "symbolism": "Hong Kong, of which the Bauhinia blakeana is the floral emblem; the five petals (and five red stars on them) echo the five stars on the flag of the People's Republic of China, indicating that Hong Kong is part of China while the white-on-red colour reversal expresses 'one country, two systems'"
+    }
   ]
 }

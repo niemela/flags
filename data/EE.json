@@ -1,8 +1,66 @@
 {
   "id": "EE",
-  "title": "Estonia",
-  "iso": "EE",
+  "name": "Estonia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "EE",
+    "iso_3166_1_alpha3": "EST",
+    "fifa": "EST",
+    "ioc": "EST",
+    "wikidata": "Q191"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Baltics",
+    "European Union"
+  ],
+  "aspect_ratio": "7:11",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the sky above the Estonian homeland; faith and loyalty"
+    },
+    {
+      "color": "black",
+      "symbolism": "the dark, fertile soil of Estonia and the country's troubled past"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity, hard work and commitment; the snow of Estonian winters"
+    }
+  ],
+  "description": "Three equal horizontal stripes of blue (top), black, and white.",
+  "history": "The blue-black-white tricolour was first consecrated on 4 June 1884 at Otepaa as the flag of the Estonian Students' Society at the University of Tartu; by the early 20th century it had become the de facto national flag. It was formally adopted by the Estonian Provisional Government on 21 November 1918, shortly after the country's declaration of independence, and confirmed by parliamentary law on 16 July 1922. Banned during the Soviet occupation (1940–1991), it was raised again on the Pikk Hermann tower in Tallinn on 24 February 1989 and re-adopted by law on 7 August 1990, a year before Estonia's full restoration of independence.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1918-11-21",
+      "end": "1940"
+    },
+    {
+      "start": "1990-08-07"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Estonia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "black",
+        "white"
+      ],
+      "count": 3,
+      "symbolism": "sinimustvalge — the colours of the Estonian Students' Society of 1881, which by the early 20th century had become the de facto flag of the Estonian-speaking people"
+    }
   ]
 }

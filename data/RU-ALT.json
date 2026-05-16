@@ -1,8 +1,79 @@
 {
   "id": "RU-ALT",
-  "title": "Altai Krai (Russia)",
-  "iso": "RU-ALT",
+  "name": "Altai Krai (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-ALT",
+    "wikidata": "Q5942"
+  },
+  "region": [
+    "Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the rivers and lakes of the Altai"
+    },
+    {
+      "color": "red",
+      "symbolism": "courage, valour, and the historic Russian state"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "wheat, fertility, and the agricultural wealth of the krai"
+    },
+    {
+      "color": "white",
+      "symbolism": "the snowy peaks of the Altai mountains"
+    },
+    {
+      "color": "green",
+      "symbolism": "the steppes and forests"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the earth"
+    }
+  ],
+  "description": "A red field with a narrow blue stripe along the hoist; the blue stripe contains a stylised yellow sheaf of wheat above the krai's emblem.",
+  "history": "The flag of Altai Krai was officially adopted on 28 September 2000 by the Altai Krai Council of People's Deputies.",
+  "periods": [
+    {
+      "start": "2000-09-28"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Altai_Krai",
+    "https://en.wikipedia.org/wiki/Altai_Krai"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        5
+      ],
+      "symbolism": "the blue hoist stripe represents the rivers and lakes of the Altai region; the red field draws on the historic banner of the Russian Empire and recalls the courage of the krai's people."
+    },
+    {
+      "type": "wheat",
+      "count": 1,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "sheaf of wheat with stylised steam-engine smokestack",
+      "symbolism": "a sheaf of wheat over a stylised emblem of industry; recalls the agricultural and industrial economy of Altai Krai."
+    }
   ]
 }

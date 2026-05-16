@@ -1,7 +1,61 @@
 {
   "id": "US-AK-seward",
-  "title": "Seward, AK (United States)",
+  "name": "Seward (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-AK",
+  "codes": {
+    "wikidata": "Q975346"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the sky and the waters of Resurrection Bay"
+    },
+    {
+      "color": "white",
+      "symbolism": "the snow-capped peak of the mountain"
+    },
+    {
+      "color": "green",
+      "symbolism": "the forested land at the base of the mountain"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the five-pointed star, evoking the North Star and Alaska"
+    }
+  ],
+  "description": "A blue field with a white snow-capped mountain rising from a green base across the lower portion of the flag, and a single yellow five-pointed star in the upper fly.",
+  "history": "Used by the City of Seward, founded in 1903 on Resurrection Bay on Alaska's Kenai Peninsula and named for U.S. Secretary of State William H. Seward, who negotiated the 1867 purchase of Alaska from Russia.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Seward,_Alaska"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "A blue sky over a snow-capped mountain rising from a green base, with a single yellow star in the upper fly — evoking Seward's setting between Resurrection Bay and the Kenai Mountains."
+    },
+    {
+      "type": "mountain",
+      "count": 1,
+      "position": "bottom",
+      "role": "snow-capped mountain rising from a green base",
+      "symbolism": "The Kenai Mountains that surround Seward, rising above Resurrection Bay."
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "upper-fly",
+      "symbolism": "The North Star, a recurring symbol of Alaska."
+    }
   ]
 }

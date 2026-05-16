@@ -1,7 +1,62 @@
 {
   "id": "US-TX-dallas",
-  "title": "Dallas, TX (United States)",
+  "name": "Dallas (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-TX",
+  "codes": {
+    "wikidata": "Q16557"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the upper field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the dividing fimbriation and the central five-pointed star"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the lower field"
+    }
+  ],
+  "description": "A flag horizontally divided into red over blue, separated by a narrow white stripe, with a large white five-pointed star centred over the dividing line.",
+  "history": "Dallas's municipal flag uses red, white and blue bands with the Texas Lone Star at the centre.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Dallas"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        29,
+        2,
+        29
+      ],
+      "symbolism": "Red over blue, separated by a narrow white fimbriation; the colours echo those of the United States and Texas flags."
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "role": "Lone Star at the centre",
+      "symbolism": "The Lone Star of Texas, marking Dallas as a Texan city."
+    }
   ]
 }

@@ -1,8 +1,87 @@
 {
   "id": "US-CA",
-  "title": "California (United States)",
-  "iso": "US-CA",
+  "name": "California (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-CA",
+    "fips_state": "06",
+    "wikidata": "Q99"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "purity"
+    },
+    {
+      "color": "red",
+      "symbolism": "courage"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A white field with a wide red stripe along the bottom edge. In the centre, a brown California grizzly bear walks on a small patch of green grass; a red five-pointed star appears in the upper hoist, and the words 'CALIFORNIA REPUBLIC' are printed in black between the bear and the red stripe.",
+  "history": "The design is based on the original Bear Flag raised at Sonoma on 14 June 1846 during the short-lived Bear Flag Revolt against Mexican rule. The original was made of unbleached cotton with a hand-drawn bear and star and burned in the 1906 San Francisco earthquake. The Bear Flag was adopted as the official state flag by the California State Legislature on 3 February 1911; the present standardized design — including the bear modeled on Monarch, the last captive California grizzly — was codified in 1953.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1911-02-03"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_California"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "animal-other",
+      "count": 1,
+      "color": "brown",
+      "position": "center",
+      "role": "California grizzly bear",
+      "symbolism": "strength and unyielding resistance; the now-extinct California grizzly bear (Ursus arctos californicus) walking on a green grass plot"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "Lone Star",
+      "symbolism": "sovereignty, after the Lone Star Flag of 1836"
+    },
+    {
+      "type": "horizontal-stripes",
+      "color": "red",
+      "position": "bottom",
+      "role": "red bar at the base"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "the words 'CALIFORNIA REPUBLIC' beneath the bear"
+    }
   ]
 }

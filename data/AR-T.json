@@ -1,8 +1,67 @@
 {
   "id": "AR-T",
-  "title": "Tucumán (Argentina)",
-  "iso": "AR-T",
+  "name": "Tucuman (Argentina)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AR",
+  "codes": {
+    "iso_3166_2": "AR-T",
+    "wikidata": "Q44551"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the colours of the Argentine national flag"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the colours of the Argentine national flag"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the Sun of May"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the sugar cane and the wood of the historic Casa de Tucuman"
+    }
+  ],
+  "description": "A horizontal triband — white, light blue and white — charged in the centre with the provincial coat of arms: an oval bearing two clasped hands holding a Phrygian-capped pike beneath a Sun of May, framed by laurel branches.",
+  "history": "The current flag was adopted by provincial law 6.594 on 24 September 1995. Its colours are those of the Argentine national flag, in homage to Tucuman's role as the birthplace of Argentine independence — proclaimed at the Casa de Tucuman on 9 July 1816 by the Congress of Tucuman.",
+  "periods": [
+    {
+      "start": "1995-09-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Tucum%C3%A1n_Province",
+    "https://es.wikipedia.org/wiki/Bandera_de_la_provincia_de_Tucum%C3%A1n"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "light-blue",
+        "white"
+      ],
+      "count": 3,
+      "symbolism": "the colours of the Argentine national flag, recalling that independence itself was declared in San Miguel de Tucuman on 9 July 1816"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "coat of arms of Tucuman Province",
+      "symbolism": "two clasped hands holding a pike capped with a Phrygian cap of liberty, beneath a Sun of May, surrounded by laurel branches — the original device adopted in 1820 referring to the Declaration of Independence proclaimed at the Casa de Tucuman on 9 July 1816"
+    }
   ]
 }

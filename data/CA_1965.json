@@ -1,9 +1,68 @@
 {
-  "id": "CA_1957-1965",
-  "title": "Canada (1957-1965)",
-  "iso": "CA",
+  "id": "CA_1965",
+  "name": "Canada (1957–1965)",
   "type": [
     "historical",
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q1199155"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red field with the Union Flag in the upper hoist canton and, centred on the fly, the Canadian royal arms in their 1957 revised form: a shield with the arms of England, Scotland, Ireland and a fleur-de-lis for France above a white base bearing three red maple leaves on a single stem.",
+  "history": "On 28 May 1957 a royal proclamation by Queen Elizabeth II revised the Royal Arms of Canada — most visibly recolouring the three maple leaves on the base from natural green to red, formalising red and white as Canada's national colours. The Red Ensign was redrawn accordingly. This was the final form of the Canadian Red Ensign, which served as the de facto national flag of Canada (and its merchant ensign) until it was replaced on 15 February 1965 by the Maple Leaf Flag designed by George Stanley and championed by Prime Minister Lester B. Pearson, ending the long-running 'Great Canadian Flag Debate'.",
+  "variant": [
+    "civil-ensign"
+  ],
+  "status": "de-facto",
+  "periods": [
+    {
+      "start": "1957-05-28",
+      "end": "1965-02-15"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Canadian_Red_Ensign",
+    "https://en.wikipedia.org/wiki/Great_Canadian_Flag_Debate"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the British Red Ensign, defaced with the Canadian royal arms"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Flag, denoting ties to the United Kingdom and the Commonwealth"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center-fly",
+      "role": "Royal Arms of Canada (1957 revision): three red maple leaves on a white base, surmounted by quartered arms of England, Scotland, Ireland, and France",
+      "symbolism": "the founding peoples of Canada over a base of maple leaves; the leaves recoloured red after 1957 to match Canada's emerging national colour"
+    }
   ]
 }

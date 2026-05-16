@@ -1,7 +1,58 @@
 {
   "id": "NO-14",
-  "title": "Sogn and Fjordane (Norway, 1983-2020)",
+  "name": "Sogn og Fjordane (Norway, 1983–2019)",
   "type": [
+    "historical",
     "subdivision"
+  ],
+  "parent": "NO",
+  "codes": {
+    "iso_3166_2": "NO-14",
+    "wikidata": "Q50611"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia"
+  ],
+  "aspect_ratio": "108:152",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "silver (argent) for the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "for the three triangular peaks/fjords"
+    }
+  ],
+  "description": "A white field charged with three blue elongated triangles arranged in horizontal pale, points toward the fly.",
+  "history": "Granted to Sogn og Fjordane county on 6 May 1983. The three triangles represent the three traditional districts. The county was abolished on 1 January 2020 when it was merged with Hordaland into the new Vestland county.",
+  "status": "historical",
+  "periods": [
+    {
+      "start": "1983-05-06",
+      "end": "2019-12-31"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sogn_og_Fjordane",
+    "https://no.wikipedia.org/wiki/Sogn_og_Fjordane_fylkesv%C3%A5pen"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "three blue triangular figures on a silver (white) field, representing the three traditional districts of the county: Sogn, Sunnfjord, and Nordfjord; the points refer to the steep peaks and fjords characteristic of the region"
+    },
+    {
+      "type": "triangle",
+      "count": 3,
+      "color": "blue",
+      "arrangement": "row",
+      "position": "center",
+      "role": "the three districts (Sogn, Sunnfjord, Nordfjord)",
+      "symbolism": "the three districts of the county and the mountain peaks / fjords characteristic of western Norway"
+    }
   ]
 }

@@ -1,8 +1,69 @@
 {
   "id": "GE",
-  "title": "Georgia",
-  "iso": "GE",
+  "name": "Georgia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "GE",
+    "iso_3166_1_alpha3": "GEO",
+    "fifa": "GEO",
+    "ioc": "GEO",
+    "wikidata": "Q230"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Caucasus",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "innocence, purity, chastity, perfection and wisdom; also peace"
+    },
+    {
+      "color": "red",
+      "symbolism": "courage, bravery, justice and love"
+    }
+  ],
+  "description": "A white field bearing a large red Saint George's cross extending to all four edges; in each of the four white quarters thus formed, a smaller red cross bottony (Bolnisi-style cross with flared arms).",
+  "history": "Known as the 'Five Cross Flag' (ხუთჯვრიანი დროშა). The design has medieval origins and has been associated with the Kingdom of Georgia from the 13th–14th centuries; it appears on European maps and in heraldic compendia from the 14th century onward. After Georgian independence from the Soviet Union in 1991 the country initially used the 1918–1921 wine-red flag with a black-and-white canton, but the five-cross flag was readopted as the national flag on 14 January 2004 following the Rose Revolution, having previously been the flag of the United National Movement.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "2004-01-14"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Georgia_(country)"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "white",
+      "cross": "red",
+      "symbolism": "the Cross of Saint George; Christianity and the long Christian heritage of Georgia"
+    },
+    {
+      "type": "greek-cross",
+      "count": 4,
+      "color": "red",
+      "arrangement": "grid",
+      "rows": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "role": "four small Bolnisi crosses (cross bottony / cross pattée) in the four quarters",
+      "symbolism": "the four small crosses, together with the central Saint George's cross, form the 'Five-Cross Flag' (ბექბექაი) traditionally associated with the medieval Kingdom of Georgia under King George V the Brilliant; the five crosses are sometimes interpreted as Christ and the four evangelists"
+    }
   ]
 }

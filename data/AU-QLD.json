@@ -1,8 +1,92 @@
 {
   "id": "AU-QLD",
-  "title": "Queensland (Australia)",
-  "iso": "AU-QLD",
+  "name": "Queensland (Australia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AU",
+  "codes": {
+    "iso_3166_2": "AU-QLD",
+    "wikidata": "Q36074"
+  },
+  "region": [
+    "Oceania",
+    "Australia and New Zealand",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field of the British Blue Ensign"
+    },
+    {
+      "color": "white",
+      "symbolism": "the disc bearing the state badge, also in the Union Jack"
+    },
+    {
+      "color": "red",
+      "symbolism": "the crosses of the Union Jack"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the Maltese Cross of the state badge"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the royal crown at the centre of the cross"
+    }
+  ],
+  "description": "A blue British ensign with the Union Jack in the canton and the Queensland state badge in the fly: a white disc bearing a light-blue Maltese cross with a royal crown at its centre.",
+  "history": "Adopted in 1876 with the badge bearing Queen Victoria's profile, redesigned in 1876 to a Maltese cross with the Imperial Crown, and retained in modern form following Australian federation in 1901. The crown design has been updated over time to match the reigning monarch's preferred crown.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1876-11-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Queensland"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "Based on the British Blue Ensign, the standard format for Australian state flags."
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Jack, signifying historic ties to the United Kingdom"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "white",
+      "position": "center-fly",
+      "role": "white disc bearing the state badge",
+      "symbolism": "the disc encloses the state badge of Queensland"
+    },
+    {
+      "type": "greek-cross",
+      "count": 1,
+      "color": "light-blue",
+      "position": "center-fly",
+      "role": "light-blue Maltese cross within the badge",
+      "symbolism": "the Maltese Cross, originally selected to honour the Order of Saint Michael and Saint George"
+    },
+    {
+      "type": "crown",
+      "count": 1,
+      "color": "yellow",
+      "position": "center-fly",
+      "role": "royal crown at the centre of the Maltese cross",
+      "symbolism": "the Crown, denoting royal authority and honouring the reigning monarch"
+    }
   ]
 }

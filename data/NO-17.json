@@ -1,7 +1,57 @@
 {
   "id": "NO-17",
-  "title": "Nord-Trøndelag (Norway, 1957-2018)",
+  "name": "Nord-Trøndelag (Norway, 1957–2017)",
   "type": [
+    "historical",
     "subdivision"
+  ],
+  "parent": "NO",
+  "codes": {
+    "iso_3166_2": "NO-17",
+    "wikidata": "Q50612"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia"
+  ],
+  "aspect_ratio": "160:197",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "silver (argent) for the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "gold (Or) for the cross figure"
+    }
+  ],
+  "description": "A white field charged with a stylised gold four-armed Greek cross with bell-shaped arms.",
+  "history": "Granted to Nord-Trondelag county on 25 January 1957. The county was abolished on 1 January 2018 when it was merged with Sor-Trondelag into the (re-united) Trondelag county.",
+  "status": "historical",
+  "periods": [
+    {
+      "start": "1957-01-25",
+      "end": "2017-12-31"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nord-Tr%C3%B8ndelag",
+    "https://no.wikipedia.org/wiki/Nord-Tr%C3%B8ndelag_fylkesv%C3%A5pen"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "heraldic banner of the county arms: a stylised gold four-armed cross of bell-shaped figures on a silver (white) field, derived from a Viking Age ornament found in the region"
+    },
+    {
+      "type": "greek-cross",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "Viking-Age four-armed ornamental cross",
+      "symbolism": "drawn from a Viking Age find in the region; symbolises the historical and cultural heritage of inner Trondelag"
+    }
   ]
 }

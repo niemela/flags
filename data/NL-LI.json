@@ -1,8 +1,71 @@
 {
   "id": "NL-LI",
-  "title": "Limburg (Netherlands)",
-  "iso": "NL-LI",
+  "name": "Limburg (Netherlands)",
   "type": [
     "subdivision"
+  ],
+  "parent": "NL",
+  "codes": {
+    "iso_3166_2": "NL-LI",
+    "wikidata": "Q1093"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "from the silver field of the historic arms of the Duchy of Limburg"
+    },
+    {
+      "color": "blue",
+      "symbolism": "from the azure tongue and claws of the Limburg lion"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "from the gold field of the arms of the County of Loon"
+    },
+    {
+      "color": "red",
+      "symbolism": "from the gules lion of Limburg"
+    }
+  ],
+  "description": "Three horizontal bands of white, blue, and yellow in proportions 2:1:2, with a red lion in the upper hoist on the white band.",
+  "history": "Adopted by the provincial states on 28 July 1953. The design incorporates the historic arms of both the Duchy of Limburg (the lion) and the County of Loon (the yellow band).",
+  "periods": [
+    {
+      "start": "1953-07-28"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Limburg_(Netherlands)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        2
+      ],
+      "symbolism": "the white and blue derive from the historic arms of the Duchy of Limburg; the yellow base comes from the arms of the County of Loon, the other major historic territory of the modern province"
+    },
+    {
+      "type": "lion",
+      "count": 1,
+      "color": "red",
+      "position": "center-hoist",
+      "role": "the Limburg lion",
+      "symbolism": "the rampant lion of the Duchy of Limburg, displayed crowned and with double tail in the historic arms"
+    }
   ]
 }

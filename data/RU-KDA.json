@@ -1,8 +1,73 @@
 {
   "id": "RU-KDA",
-  "title": "Krasnodar Krai (Russia)",
-  "iso": "RU-KDA",
+  "name": "Krasnodar Krai (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-KDA",
+    "wikidata": "Q3680"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the Black Sea Cossacks"
+    },
+    {
+      "color": "red",
+      "symbolism": "the Russians and Linear Cossacks of the Kuban"
+    },
+    {
+      "color": "green",
+      "symbolism": "the Circassian (Adyghe) mountain peoples"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the gilt of the krai coat of arms"
+    }
+  ],
+  "description": "A horizontal triband of blue over raspberry-red over green, in proportions 1:2:1, with the gold coat of arms of Krasnodar Krai charged on the central red stripe.",
+  "history": "The flag of Krasnodar Krai was officially adopted on 5 May 1995. The colour scheme is taken directly from the flag of the short-lived Kuban People's Republic of 1918 (raised in opposition to Bolshevik rule during the Russian Civil War). The central coat of arms was added to distinguish the modern krai flag from the historic Kuban flag.",
+  "periods": [
+    {
+      "start": "1995-05-05"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Krasnodar_Krai",
+    "https://en.wikipedia.org/wiki/Krasnodar_Krai"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ],
+      "symbolism": "the historic flag of the Kuban People's Republic (1918), itself derived from the colours of the three peoples of the region: blue for the Black Sea Cossacks, raspberry-red for the Linear (don) Cossacks and Russians, and green for the Circassian (Adyghe) mountain peoples."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "gold",
+      "position": "center",
+      "role": "Krasnodar Krai coat of arms",
+      "symbolism": "a gold heraldic shield bearing a fortress wall and the imperial monograms of Catherine II, Paul I, Alexander II and Nicholas II, ensigned by the imperial crown and supported by oak and laurel branches; reflects the krai's history as the territory granted by Catherine the Great to the Black Sea Cossack Host in 1792."
+    }
   ]
 }

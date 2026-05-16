@@ -1,8 +1,63 @@
 {
   "id": "US-NH",
-  "title": "New Hampshire (United States)",
-  "iso": "US-NH",
+  "name": "New Hampshire (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-NH",
+    "fips_state": "33",
+    "wikidata": "Q759"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A blue field charged in the center with the state seal: a circular medallion showing the frigate Raleigh on the stocks at Portsmouth, encircled by a laurel wreath set with nine stars and the legend 'SEAL OF THE STATE OF NEW HAMPSHIRE 1776'.",
+  "history": "Adopted in 1909 and modified in 1931 when the seal itself was redesigned by the legislature. The number of stars in the wreath (nine) reflects New Hampshire's place as the ninth state to ratify the United States Constitution on 21 June 1788, an act that brought the Constitution into force.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1909"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_New_Hampshire"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "the Seal of New Hampshire",
+      "symbolism": "depicts the frigate Raleigh under construction at Portsmouth in 1776 — one of the first warships built for the Continental Navy — surrounded by a yellow laurel wreath and nine yellow stars representing New Hampshire as the ninth state to ratify the Constitution"
+    }
   ]
 }

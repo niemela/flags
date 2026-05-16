@@ -1,8 +1,71 @@
 {
   "id": "AR-B",
-  "title": "Buenos Aires (Argentina)",
-  "iso": "AR-B",
+  "name": "Buenos Aires Province (Argentina)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AR",
+  "codes": {
+    "iso_3166_2": "AR-B",
+    "wikidata": "Q44754"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the sky over the Pampas; the national colour of Argentina"
+    },
+    {
+      "color": "green",
+      "symbolism": "the fertility of the Pampas"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wheat and grain harvests of the province"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood of patriots; federalism"
+    }
+  ],
+  "description": "A horizontal bicolour of blue over green with, centred across the boundary, a yellow Sun of May surrounded by an open wreath of laurel branches and wheat ears, all the elements traced in yellow.",
+  "history": "Adopted by provincial law 11997 on 9 December 1997 after a public competition won by Roberto Daniel Pez. The colours and emblem draw on the provincial coat of arms first used in the 19th century; blue and green were chosen to evoke the sky over the immense pampas and the fertility of the agricultural heartland of Argentina.",
+  "periods": [
+    {
+      "start": "1997-12-09"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Buenos_Aires_Province",
+    "https://es.wikipedia.org/wiki/Bandera_de_la_provincia_de_Buenos_Aires"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        1
+      ],
+      "symbolism": "blue for the sky and the colours of the Argentine flag; green for the fertile plains of the pampas"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "Sun of May radiating over the wheat-stalk wreath of the Province of Buenos Aires",
+      "symbolism": "a stylised version of the provincial coat of arms: a Sun of May above two laurel branches, ringed by ears of wheat — the wheat for the agricultural wealth of the pampas, the laurels for the glory of the heroes of independence"
+    }
   ]
 }

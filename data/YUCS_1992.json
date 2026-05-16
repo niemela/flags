@@ -1,9 +1,77 @@
 {
-  "id": "YUCS_1946-1992",
-  "title": "Yugoslavia (1946-1992)",
-  "iso": "YUCS",
+  "id": "YUCS_1992",
+  "name": "Yugoslavia (1946-1992)",
   "type": [
     "historical",
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "iso_3166_3": "YUCS",
+    "wikidata": "Q36704"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans",
+    "Slavic"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the pan-Slavic banner — the sky and freedom"
+    },
+    {
+      "color": "white",
+      "symbolism": "the pan-Slavic banner — peace and honesty"
+    },
+    {
+      "color": "red",
+      "symbolism": "the pan-Slavic banner — the blood shed for liberty"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the gold border of the red socialist star"
+    }
+  ],
+  "description": "Three equal horizontal stripes — blue, white, and red from top to bottom — charged in the centre with a large red five-pointed star outlined in gold.",
+  "history": "Adopted on 31 January 1946 as the flag of the Federal People's Republic of Yugoslavia (renamed the Socialist Federal Republic of Yugoslavia in 1963), succeeding the Kingdom of Yugoslavia after World War II. The blue-white-red pan-Slavic tricolour, used in various forms by Yugoslav states since 1918, was charged with the gold-bordered red star of the Yugoslav Partisans to signify the new socialist order under the League of Communists of Yugoslavia and Marshal Josip Broz Tito. The flag remained in use throughout the breakup of Yugoslavia in 1991-1992; it was officially retired on 27 April 1992 when the Federal Republic of Yugoslavia (Serbia and Montenegro) was proclaimed and adopted the plain blue-white-red tricolour.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1946-01-31",
+      "end": "1992-04-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Yugoslavia",
+    "https://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "the pan-Slavic colours, derived from the Russian tricolour and adopted by 19th-century Yugoslav nationalists as the common banner of the South Slavs"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "center",
+      "role": "Red star with gold fimbriation",
+      "symbolism": "the leading role of the League of Communists of Yugoslavia and the socialist character of the federal state"
+    }
   ]
 }

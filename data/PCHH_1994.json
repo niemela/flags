@@ -1,9 +1,62 @@
 {
-  "id": "PCHH_1947-1994",
-  "title": "Trust Territory of the Pacific Islands (1947-1994)",
-  "iso": "PCHH",
+  "id": "PCHH_1994",
+  "name": "Trust Territory of the Pacific Islands (1947-1994)",
   "type": [
     "historical",
     "subdivision"
+  ],
+  "parent": null,
+  "codes": {
+    "iso_3166_3": "PCHH",
+    "wikidata": "Q210647"
+  },
+  "region": [
+    "Oceania",
+    "Micronesia",
+    "Pacific Islands"
+  ],
+  "aspect_ratio": "10:19",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the Pacific Ocean and the United Nations"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace and the trusteeship's six island districts"
+    }
+  ],
+  "description": "A pale blue field charged with six white five-pointed stars arranged in a circle in the centre.",
+  "history": "Adopted on 19 August 1965 (effective 24 October 1965, United Nations Day) for the Trust Territory of the Pacific Islands, the United Nations strategic trust administered by the United States from 1947 onward (covering the former Japanese South Seas Mandate of the Caroline, Marshall, and Mariana islands). The pale UN-blue field signified the trusteeship's status, and the six stars represented the six districts. The flag was used until the trust territory was progressively dissolved between 1986 and 1994 as the Federated States of Micronesia, the Marshall Islands, the Northern Mariana Islands, and Palau achieved their distinct political statuses; the trusteeship was formally terminated by the UN Security Council on 22 December 1990 (with effect 1 November 1994 for Palau).",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1965-10-24",
+      "end": "1994-10-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Trust_Territory_of_the_Pacific_Islands",
+    "https://en.wikipedia.org/wiki/Trust_Territory_of_the_Pacific_Islands"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue",
+      "symbolism": "the Pacific Ocean and the United Nations (mirroring the UN flag's pale blue)"
+    },
+    {
+      "type": "star",
+      "count": 6,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "arrangement": "circle",
+      "role": "Six white five-pointed stars",
+      "symbolism": "the six administrative districts of the trust territory: the Marianas, the Marshalls, Palau, Ponape, Truk, and Yap"
+    }
   ]
 }

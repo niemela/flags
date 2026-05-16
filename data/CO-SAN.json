@@ -1,8 +1,62 @@
 {
   "id": "CO-SAN",
-  "title": "Santander (Colombia)",
-  "iso": "CO-SAN",
+  "name": "Santander (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-SAN",
+    "wikidata": "Q121138"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the fertile fields and Andean landscape of the department"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wealth and gold of Santander's soil"
+    },
+    {
+      "color": "black",
+      "symbolism": "the mourning for the dead of the wars of independence"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood of the patriots shed for liberty"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace and the unity of the department's provinces"
+    }
+  ],
+  "description": "A green field crossed centrally by a horizontal yellow band with a narrower black band along its lower edge; a red vertical band at the hoist bears six white five-pointed stars stacked vertically.",
+  "history": "Santander Department was created in 1886, named after independence leader Francisco de Paula Santander. The flag's red hoist with six stars represents the department's six traditional provinces, while the central yellow and green bands evoke its agricultural wealth.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Santander_Department"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "a green field crossed centrally by a yellow horizontal band with a thin black inset, with a red vertical band at the hoist bearing six white stars representing the department's traditional provinces"
+    },
+    {
+      "type": "star",
+      "count": 6,
+      "points": 5,
+      "color": "white",
+      "position": "hoist",
+      "arrangement": "row",
+      "role": "the historical provinces of Santander",
+      "symbolism": "the six historical provinces that make up the department"
+    }
   ]
 }

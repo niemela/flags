@@ -1,8 +1,76 @@
 {
   "id": "RW",
-  "title": "Rwanda",
-  "iso": "RW",
+  "name": "Rwanda",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "RW",
+    "iso_3166_1_alpha3": "RWA",
+    "fifa": "RWA",
+    "ioc": "RWA",
+    "wikidata": "Q1037"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Eastern Africa",
+    "Commonwealth",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "happiness and peace"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "economic development and mineral wealth"
+    },
+    {
+      "color": "green",
+      "symbolism": "hope of prosperity, the country's natural resources, and productivity"
+    }
+  ],
+  "description": "Three horizontal stripes — a wide light-blue band at the top (half the flag), a narrower yellow band, and a narrower green band at the bottom. A yellow sun with twenty-four straight rays sits in the upper fly on the blue band.",
+  "history": "Adopted on 25 October 2001, replacing the red-yellow-green Pan-African tricolour with a black 'R' (in use since independence in 1962) which had become associated with the 1994 genocide against the Tutsi. The new design — by Alphonse Kirimobenecyo, an artist and engineer — was chosen to symbolise national unity, respect for work, and heroism, distancing the country from its previous flag.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2001-10-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Rwanda"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "yellow",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        1
+      ],
+      "symbolism": "a deliberate departure from the previous red-yellow-green Pan-African tricolour (which carried associations with the 1994 genocide); the new colours signal happiness, peace, prosperity, and hope for the future"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 24,
+      "color": "yellow",
+      "position": "upper-fly",
+      "role": "yellow sun",
+      "symbolism": "enlightenment; a guide against ignorance and a symbol of unity, transparency, and the fight against ignorance"
+    }
   ]
 }

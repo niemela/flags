@@ -1,8 +1,89 @@
 {
   "id": "AR-L",
-  "title": "La Pampa (Argentina)",
-  "iso": "AR-L",
+  "name": "La Pampa (Argentina)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AR",
+  "codes": {
+    "iso_3166_2": "AR-L",
+    "wikidata": "Q44264"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "9:14",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the open sky over the Pampa; the celestial blue of the national flag"
+    },
+    {
+      "color": "green",
+      "symbolism": "the calden tree (Prosopis caldenia), provincial tree of La Pampa"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the Sun of May; the wheat of the Pampa"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the trunk and earth of the Pampa"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity"
+    },
+    {
+      "color": "red",
+      "symbolism": "the federalist red and the blood of the Mapuche and Ranquel peoples"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A celestial blue field bearing in the centre a green calden tree, with a yellow Sun of May in the upper fly and a galloping horse in the lower hoist.",
+  "history": "Adopted by provincial law 2329 on 27 May 1993 after a public competition won by Juan Carlos Bulgheroni and Edgardo Mario Lopez. The flag combines symbols of nature and culture characteristic of the province: the calden (its provincial tree) for the savanna, the horse for the gaucho heritage and the Sun of May to bind the province to the wider Argentine nation, all set against the celestial blue of the Argentine flag and the great Pampean sky.",
+  "periods": [
+    {
+      "start": "1993-05-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_La_Pampa_Province",
+    "https://es.wikipedia.org/wiki/Bandera_de_la_provincia_de_La_Pampa"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue",
+      "symbolism": "the celestial blue of the Argentine national flag and of the immense Pampean sky"
+    },
+    {
+      "type": "tree",
+      "count": 1,
+      "color": "green",
+      "position": "center",
+      "role": "calden tree (Prosopis caldenia)",
+      "symbolism": "the calden, provincial tree of La Pampa, emblematic of the semi-arid Pampean savanna"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "color": "yellow",
+      "position": "upper-fly",
+      "role": "Sun of May",
+      "symbolism": "shared with the national flag of Argentina; commemorates the May Revolution of 1810"
+    },
+    {
+      "type": "horse",
+      "count": 1,
+      "position": "lower-hoist",
+      "role": "Pampean horse",
+      "symbolism": "the gaucho tradition of the Pampa"
+    }
   ]
 }

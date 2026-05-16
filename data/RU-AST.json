@@ -1,8 +1,67 @@
 {
   "id": "RU-AST",
-  "title": "Astrakhan Oblast (Russia)",
-  "iso": "RU-AST",
+  "name": "Astrakhan Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-AST",
+    "wikidata": "Q5605"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the Volga, the Caspian Sea, and the historic Astrakhan Khanate"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the Tsar's crown and the steppes"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver scimitar and purity"
+    }
+  ],
+  "description": "A blue field bearing a yellow royal crown above a white scimitar with point to the hoist, drawn from the historic coat of arms of Astrakhan.",
+  "history": "Adopted on 27 December 2001 by the State Duma of the Astrakhan Oblast. The design recalls the coat of arms of the Astrakhan Tsardom (16th-18th centuries) which itself memorialised the conquest of the Astrakhan Khanate by Ivan IV in 1556.",
+  "periods": [
+    {
+      "start": "2001-12-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Astrakhan_Oblast",
+    "https://en.wikipedia.org/wiki/Astrakhan_Oblast"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the blue field draws on the historic banner of the Astrakhan Khanate and recalls the waters of the Caspian Sea and the Volga River."
+    },
+    {
+      "type": "crown",
+      "count": 1,
+      "color": "yellow",
+      "position": "upper-fly",
+      "role": "Tsar's crown",
+      "symbolism": "the historic crown of the Astrakhan Khanate, taken into the imperial Russian regalia after the conquest of Astrakhan in 1556."
+    },
+    {
+      "type": "sword",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "scimitar",
+      "symbolism": "an Eastern scimitar (silver sabre) beneath the crown; recalls the steppe-warrior heritage of the region."
+    }
   ]
 }

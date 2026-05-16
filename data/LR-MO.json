@@ -1,8 +1,68 @@
 {
   "id": "LR-MO",
-  "title": "Montserrado (Liberia)",
-  "iso": "LR-MO",
+  "name": "Montserrado County (Liberia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "LR",
+  "codes": {
+    "iso_3166_2": "LR-MO"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with the Liberian national flag as a canton in the upper hoist and a white architectural device on the fly side representing the Capitol and the city of Monrovia, capital of Liberia and seat of Montserrado County.",
+  "history": "Presented by President William V. S. Tubman on 29 November 1965 together with the flags of the other Liberian counties.",
+  "periods": [
+    {
+      "start": "1965-11-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Montserrado_County",
+    "https://en.wikipedia.org/wiki/Flags_of_the_counties_of_Liberia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "LR",
+      "proportion": "1/4",
+      "role": "the union",
+      "symbolism": "Montserrado as part of the Republic of Liberia"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center-fly",
+      "role": "Liberian Capitol",
+      "symbolism": "Monrovia, the national capital, situated in Montserrado County"
+    }
   ]
 }

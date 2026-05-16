@@ -1,8 +1,87 @@
 {
   "id": "IR",
-  "title": "Iran",
-  "iso": "IR",
+  "name": "Iran",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "IR",
+    "iso_3166_1_alpha3": "IRN",
+    "fifa": "IRN",
+    "ioc": "IRI",
+    "wikidata": "Q794"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Southern Asia",
+    "Middle East"
+  ],
+  "aspect_ratio": "4:7",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "Islam; growth, happiness, unity, vitality"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace, freedom"
+    },
+    {
+      "color": "red",
+      "symbolism": "martyrdom, bravery, fire, love, warmth"
+    }
+  ],
+  "description": "Three equal horizontal stripes — green over white over red. The takbir 'Allahu Akbar' is written in white stylised Kufic script eleven times along the bottom edge of the green stripe and eleven times along the top edge of the red stripe (twenty-two repetitions in total). Centred on the white middle stripe is the red national emblem.",
+  "history": "Iran has used a green-white-red horizontal tricolour since the late Qajar period (codified 1907). The current flag, which adds the takbir inscriptions and the post-revolutionary national emblem, was adopted on 29 July 1980 by the Islamic Republic. The two bands of takbir contain twenty-two repetitions, marking 22 Bahman of the year 1357 in the Iranian calendar (11 February 1979) — the day the Islamic Revolution overthrew the Pahlavi monarchy. The emblem replaced the lion-and-sun (Shir-o-Khorshid) of the imperial regime.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1980-07-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Iran"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "the Pan-Iranian colours, attested in various combinations since the Safavid period; green for Islam, growth, happiness, and joy; white for peace and freedom; red for the bloodshed of those who fought for Iran"
+    },
+    {
+      "type": "glyph",
+      "count": 22,
+      "color": "white",
+      "position": "top",
+      "role": "takbir (Allahu Akbar) along the lower edge of the green stripe",
+      "symbolism": "the takbir 'Allahu Akbar' ('God is the Greatest') in stylised Kufic script, repeated eleven times along the lower edge of the green stripe, expressing the Islamic character of the Republic"
+    },
+    {
+      "type": "glyph",
+      "count": 22,
+      "color": "white",
+      "position": "bottom",
+      "role": "takbir (Allahu Akbar) along the upper edge of the red stripe",
+      "symbolism": "the takbir 'Allahu Akbar' repeated eleven times along the upper edge of the red stripe; the total of twenty-two repetitions commemorates the date of the Islamic Revolution, 22 Bahman (11 February) 1979"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "national emblem of Iran",
+      "symbolism": "a stylised composition by Hamid Nadimi, designed to read simultaneously as the word 'Allah' (الله) in Arabic, as a tulip (the traditional flower of martyrdom in Persian culture), and as four crescents and a sword forming the shahada; the five elements together represent the Five Pillars of Islam"
+    }
   ]
 }

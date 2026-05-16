@@ -1,7 +1,52 @@
 {
   "id": "commonwealth",
-  "title": "Commonwealth of Nations",
+  "name": "Commonwealth of Nations",
   "type": [
-    "organization"
+    "intergovernmental"
+  ],
+  "codes": {
+    "wikidata": "Q47134"
+  },
+  "region": [
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the oceans linking the member states of the Commonwealth"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the sun whose rays radiate to all member states"
+    }
+  ],
+  "description": "A blue field charged at the centre with the gold Commonwealth emblem: a globe encircled by a halo of slender golden rays radiating outward.",
+  "history": "The Commonwealth flag was unveiled on 26 March 1976 at the Commonwealth Secretariat in London, replacing the unofficial use of the British flag. The original design had a 'C' formed by the rays around the globe; the design was revised in 2013 to remove the C-shape gap, producing a continuous halo of rays around the globe. The Commonwealth of Nations was formally constituted by the London Declaration of 28 April 1949.",
+  "periods": [
+    {
+      "start": "2013"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Commonwealth_of_Nations",
+    "https://thecommonwealth.org/"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "Commonwealth blue, evoking the seas across which the member states are spread"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 61,
+      "color": "gold",
+      "position": "center",
+      "role": "the Commonwealth emblem (globe encircled by spear-like rays)",
+      "symbolism": "A central golden globe representing the Earth, encircled by golden rays. The rays do not represent individual members; the radiating sun symbolises the global reach of the Commonwealth."
+    }
   ]
 }

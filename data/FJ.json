@@ -1,8 +1,79 @@
 {
   "id": "FJ",
-  "title": "Fiji",
-  "iso": "FJ",
+  "name": "Fiji",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "FJ",
+    "iso_3166_1_alpha3": "FJI",
+    "fifa": "FIJ",
+    "ioc": "FIJ",
+    "wikidata": "Q712"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the Pacific Ocean surrounding the islands and the clear sky"
+    },
+    {
+      "color": "white",
+      "symbolism": "the field of the shield and the saltire and cross of the Union Flag canton"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross of St George on the shield, the cross of St George and saltire of St Patrick within the Union Flag canton"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the British lion holding a cocoa pod and the sugar-cane, coconut palm, dove of peace and bunch of bananas in the quarters of the shield"
+    },
+    {
+      "color": "green",
+      "symbolism": "details of the sugar-cane, coconut palm and bunch of bananas in the shield"
+    }
+  ],
+  "description": "A light sky-blue field with the Union Flag of the United Kingdom in the upper-hoist canton (one quarter of the flag's area) and the shield from the Fijian coat of arms — a red cross of St George dividing a white field, with a British lion holding a cocoa pod in chief and emblems of sugar cane, coconut palm, dove of peace and bananas in the four quarters — centred in the fly half.",
+  "history": "Adopted on 10 October 1970, the day Fiji gained independence from the United Kingdom. The flag is essentially a defaced light-blue ensign retaining the Union Flag canton and the colonial-era shield (granted by royal warrant in 1908), with the dark blue of the Blue Ensign replaced by a lighter sky-blue chosen to represent the Pacific. Despite Fiji becoming a republic in 1987 and ceasing to be a Commonwealth realm, the British symbols have been retained; proposals to redesign the flag were considered in 2015–2016 but ultimately abandoned.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1970-10-10"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Fiji"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue",
+      "symbolism": "a defaced British Light Blue Ensign — light sky-blue chosen to represent the Pacific Ocean which surrounds the islands and on which the people depend"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "role": "Union Flag",
+      "symbolism": "Fiji's history as a British colony and continuing membership of the Commonwealth of Nations"
+    },
+    {
+      "type": "shield",
+      "color": "white",
+      "position": "fly",
+      "role": "shield from the Fijian coat of arms",
+      "symbolism": "the shield of the national arms granted in 1908: a red cross of St George on a white field divides the shield into quarters; the chief bears a yellow British lion holding a cocoa pod, and the four quarters depict sugar cane, a coconut palm, a dove of peace and a bunch of bananas — Fiji's principal agricultural products and the nation's commitment to peace"
+    }
   ]
 }

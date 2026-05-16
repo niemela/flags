@@ -1,8 +1,60 @@
 {
   "id": "NL-FL",
-  "title": "Flevoland (Netherlands)",
-  "iso": "NL-FL",
+  "name": "Flevoland (Netherlands)",
   "type": [
     "subdivision"
+  ],
+  "parent": "NL",
+  "codes": {
+    "iso_3166_2": "NL-FL",
+    "wikidata": "Q707"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the IJsselmeer and surrounding waters"
+    },
+    {
+      "color": "green",
+      "symbolism": "the reclaimed polder land"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "rapeseed fields and the gold of the iris"
+    },
+    {
+      "color": "white",
+      "symbolism": "the iris flower"
+    }
+  ],
+  "description": "Blue upper half and green lower half divided by a horizontal yellow wavy band, with a white fleur-de-lis (yellow flag iris) in the upper hoist.",
+  "history": "Adopted on 9 January 1986, the day Flevoland became a province after the reclamation of the IJsselmeerpolders. The design was created by Hindrik Veenstra and was the result of a public competition.",
+  "periods": [
+    {
+      "start": "1986-01-09"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Flevoland"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "blue above, green below, separated by a yellow horizontal wavy band: water (the IJsselmeer and former Zuiderzee) over reclaimed agricultural land, joined by a band of rapeseed-yellow representing the lily that gave the province its name and the new soil"
+    },
+    {
+      "type": "fleur-de-lis",
+      "count": 1,
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "yellow flag iris (Iris pseudacorus)",
+      "symbolism": "the yellow flag iris (Dutch: gele lis), a wetland flower from which the name Flevoland is popularly derived; iconic of the IJsselmeer reclaimed lands"
+    }
   ]
 }

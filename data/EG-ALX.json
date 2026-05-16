@@ -1,8 +1,54 @@
 {
   "id": "EG-ALX",
-  "title": "Alexandria (Egypt)",
-  "iso": "EG-ALX",
+  "name": "Alexandria Governorate (Egypt)",
   "type": [
     "subdivision"
+  ],
+  "parent": "EG",
+  "codes": {
+    "iso_3166_2": "EG-ALX",
+    "wikidata": "Q230614"
+  },
+  "region": [
+    "Africa",
+    "Northern Africa",
+    "MENA",
+    "Arab World",
+    "Middle East"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the Mediterranean Sea, which has defined Alexandria's character since its founding"
+    },
+    {
+      "color": "white",
+      "symbolism": "the lighthouse and other emblems of the city's heritage"
+    }
+  ],
+  "description": "A light blue field charged in the centre with a white stylised representation of the Lighthouse of Alexandria.",
+  "history": "The flag of Alexandria Governorate features the ancient Pharos lighthouse — one of the Seven Wonders of the Ancient World — set on a Mediterranean-blue field, recalling both the city's classical heritage and its identity as Egypt's principal seaport.",
+  "variant": [
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alexandria_Governorate",
+    "https://en.wikipedia.org/wiki/Governorates_of_Egypt"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue",
+      "symbolism": "the Mediterranean Sea on which Alexandria lies"
+    },
+    {
+      "type": "building",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Lighthouse of Alexandria (Pharos)",
+      "symbolism": "the ancient Pharos of Alexandria, one of the Seven Wonders of the Ancient World, the city's defining historical landmark"
+    }
   ]
 }

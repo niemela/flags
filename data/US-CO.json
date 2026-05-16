@@ -1,8 +1,79 @@
 {
   "id": "US-CO",
-  "title": "Colorado (United States)",
-  "iso": "US-CO",
+  "name": "Colorado (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-CO",
+    "fips_state": "08",
+    "wikidata": "Q1261"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the blue skies of Colorado"
+    },
+    {
+      "color": "white",
+      "symbolism": "the snow-capped Rocky Mountains"
+    },
+    {
+      "color": "red",
+      "symbolism": "the reddish-brown soil of Colorado (the state's name is Spanish for 'red-coloured')"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "Colorado's abundant sunshine and gold mining heritage"
+    }
+  ],
+  "description": "Three equal horizontal bands — blue, white, blue. Across the centre, slightly toward the hoist, a large red letter 'C' partially encloses a golden-yellow disc.",
+  "history": "Designed by Andrew Carlisle Johnson of the Daughters of the American Revolution and adopted by the Colorado General Assembly on 5 June 1911. Specifications for the proportions and exact shades of red and blue (matching the U.S. flag) were codified by acts of 1929 and 1964.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1911-06-05"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Colorado"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "symbolism": "blue stripes for the sky and white for the snow-capped mountains"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "red",
+      "position": "center-hoist",
+      "role": "the letter 'C'",
+      "symbolism": "the initial of 'Colorado'"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "yellow",
+      "position": "center-hoist",
+      "role": "yellow disc inside the C",
+      "symbolism": "the gold of Colorado's mining history and the state's abundant sunshine"
+    }
   ]
 }

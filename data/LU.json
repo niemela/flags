@@ -1,8 +1,60 @@
 {
   "id": "LU",
-  "title": "Luxembourg",
-  "iso": "LU",
+  "name": "Luxembourg",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "LU",
+    "iso_3166_1_alpha3": "LUX",
+    "fifa": "LUX",
+    "ioc": "LUX",
+    "wikidata": "Q32"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the red of the lion of the historic arms of Luxembourg"
+    },
+    {
+      "color": "white",
+      "symbolism": "the white stripes (argent) of the historic arms of Luxembourg"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the blue stripes (azure) of the historic arms of Luxembourg, distinguished by law from the darker blue of the Dutch flag"
+    }
+  ],
+  "description": "Three equal horizontal stripes of red, white, and light blue. Distinguishable from the Dutch flag by its lighter blue and red, and by its more elongated proportions.",
+  "history": "The red-white-blue colours derive from the coat of arms of the medieval County (later Duchy) of Luxembourg. Worn as cockades from around 1830 during the Belgian Revolution, the horizontal triband was fixed on 12 June 1845 and was in unofficial national use thereafter. It was given formal legal status only by the Loi du 23 juin 1972 sur les emblemes nationaux, while the Reglement Grand-Ducal of 27 July 1993 specified the precise shades, defining the blue as a brighter celestial blue to distinguish the flag from that of the Netherlands. The Roude Leiw (Red Lion) banner of arms is in parallel use as the civil ensign and, since 2007, alongside the tricolour as a civil flag within Luxembourg.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1845-06-12"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Luxembourg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "light-blue"
+      ],
+      "count": 3,
+      "symbolism": "derived from the medieval coat of arms of the House of Luxembourg — a red lion on horizontal stripes of white and light blue (per fess Gules and Azure, a fess Argent)"
+    }
   ]
 }

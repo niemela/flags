@@ -1,7 +1,65 @@
 {
   "id": "NO-05",
-  "title": "Oppland (Norway, 1989-2020)",
+  "name": "Oppland (Norway, 1989–2019)",
   "type": [
+    "historical",
     "subdivision"
+  ],
+  "parent": "NO",
+  "codes": {
+    "iso_3166_2": "NO-05",
+    "wikidata": "Q50617"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia"
+  ],
+  "aspect_ratio": "129:169",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the forests and inland landscape of Oppland"
+    },
+    {
+      "color": "white",
+      "symbolism": "silver (argent) for the trees and fish"
+    }
+  ],
+  "description": "A green field charged with two silver birch trees in chief and a silver fish in base.",
+  "history": "Granted to Oppland county on 12 May 1989. The county was abolished on 1 January 2020 when it was merged with Hedmark into the new Innlandet county.",
+  "status": "historical",
+  "periods": [
+    {
+      "start": "1989-05-12",
+      "end": "2019-12-31"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oppland",
+    "https://no.wikipedia.org/wiki/Opplands_fylkesv%C3%A5pen"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "heraldic banner of the county arms: a green field charged with stylised silver birch trees and a fish, evoking Oppland's forests and lakes"
+    },
+    {
+      "type": "tree",
+      "count": 2,
+      "color": "white",
+      "position": "top",
+      "role": "birch trees",
+      "symbolism": "the birch is emblematic of the inland forests of Oppland"
+    },
+    {
+      "type": "animal-other",
+      "count": 1,
+      "color": "white",
+      "position": "bottom",
+      "role": "fish",
+      "symbolism": "the lakes and rivers of Oppland (notably Mjosa, Norway's largest lake)"
+    }
   ]
 }

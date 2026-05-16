@@ -1,8 +1,74 @@
 {
   "id": "BS",
-  "title": "Bahamas",
-  "iso": "BS",
+  "name": "Bahamas",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "BS",
+    "iso_3166_1_alpha3": "BHS",
+    "fifa": "BAH",
+    "ioc": "BAH",
+    "wikidata": "Q778"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the aquamarine waters of the Atlantic Ocean and Caribbean Sea that surround the islands"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden sand of the beaches and the country's other natural resources"
+    },
+    {
+      "color": "black",
+      "symbolism": "the strength, vigour and force of a united people"
+    }
+  ],
+  "description": "Three equal horizontal stripes — aquamarine, gold (slightly narrower at 1:2:1 by some renderings, equal in others) and aquamarine — with a black equilateral triangle resting on the hoist, its apex pointing toward the centre of the flag.",
+  "history": "Adopted on 10 July 1973, the day the Bahamas gained independence from the United Kingdom. The design was selected from over a hundred entries in a national competition; the colours and the eastward-pointing triangle were intended to suggest a young nation moving forward to harness its land and sea resources.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1973-07-10"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Bahamas"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "yellow",
+        "light-blue"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        2
+      ],
+      "symbolism": "the aquamarine stripes evoke the surrounding sea while the gold band represents the islands' beaches and natural resources"
+    },
+    {
+      "type": "triangle",
+      "color": "black",
+      "position": "hoist",
+      "role": "hoist triangle",
+      "symbolism": "the strength and determination of the Bahamian people, directed toward the development of the rich natural resources symbolised by the sun and the sea"
+    }
   ]
 }

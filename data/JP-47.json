@@ -1,8 +1,52 @@
 {
   "id": "JP-47",
-  "title": "Okinawa (Japan)",
-  "iso": "JP-47",
+  "name": "Okinawa Prefecture (Japan)",
   "type": [
     "subdivision"
+  ],
+  "parent": "JP",
+  "codes": {
+    "iso_3166_2": "JP-47",
+    "wikidata": "Q124074"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "purity, peace, and the bright future of the prefecture"
+    },
+    {
+      "color": "red",
+      "symbolism": "the warmth of Okinawa's southern climate, the surrounding ocean, and the energy of its people"
+    }
+  ],
+  "description": "A white field charged at the centre with a red emblem made up of three concentric ring-segments forming a stylised letter 'O': a broad outer red ring, a white middle ring, and a small red disc at the centre.",
+  "history": "Okinawa's prefectural symbol was adopted on 25 October 1972, five months after Okinawa reverted from American to Japanese administration on 15 May 1972. The flag, with the symbol on a white field, has served as the prefectural flag since the same year.",
+  "periods": [
+    {
+      "start": "1972-10-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Okinawa_Prefecture",
+    "https://en.wikipedia.org/wiki/Flag_of_Okinawa_Prefecture"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "circle",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "Okinawa prefectural emblem (stylised letter 'O')",
+      "symbolism": "three concentric ring-segments stylising the Roman letter 'O' for Okinawa: an outer red ring representing the surrounding ocean and the prefecture's reach to the world, a middle white ring representing the prefecture's development, and a central red disc representing the prefecture itself."
+    }
   ]
 }

@@ -1,7 +1,55 @@
 {
   "id": "FR-IDF-paris",
-  "title": "Paris (France)",
+  "name": "Paris (France)",
   "type": [
     "city"
+  ],
+  "parent": "FR-IDF",
+  "codes": {
+    "wikidata": "Q90"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "from the cope of Saint Martin of Tours, who according to tradition cut his cloak in half to clothe a beggar"
+    },
+    {
+      "color": "red",
+      "symbolism": "the colour associated with the oriflamme of Saint Denis, the patron saint of the city"
+    }
+  ],
+  "description": "A vertical bicolour of blue at the hoist and red at the fly, in equal widths, charged at the centre with the coat of arms of the city: a silver ship on blue waves with a red chief sown with golden fleurs-de-lis.",
+  "history": "The blue-and-red colours have served as the civic emblem of Paris since at least the 14th century, originating with the medieval Parisian militia. They were adopted by the National Guard in July 1789 — and added to the white of the House of Bourbon by Lafayette to form the French tricolour. The plain bicolour without arms is also commonly flown; this version is charged with the city's coat of arms. The motto 'Fluctuat nec mergitur' was officially fixed by prefectoral decree on 24 November 1853.",
+  "periods": [
+    {
+      "start": "1789"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Paris"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "symbolism": "the traditional civic colours of Paris — blue (Saint Martin) and red (Saint Denis) — adopted by the city's medieval militia long before the French tricolour"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Coat of arms of Paris",
+      "symbolism": "A silver (white) ship sailing on blue waves on a blue field, with a red chief sown with golden fleurs-de-lis (the chef de France, recalling the city's status as royal capital). Beneath the shield, the city's Latin motto: 'Fluctuat nec mergitur' ('She is tossed by the waves but does not sink')."
+    }
   ]
 }

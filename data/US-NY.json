@@ -1,8 +1,76 @@
 {
   "id": "US-NY",
-  "title": "New York (United States)",
-  "iso": "US-NY",
+  "name": "New York (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-NY",
+    "wikidata": "Q1384"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field, derived from the colors of New York's Revolutionary War militia"
+    },
+    {
+      "color": "white",
+      "symbolism": "the goddesses' robes and the field of the shield's lower half"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the sun, crown, and detailing on the coat of arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "Liberty's robe and details"
+    },
+    {
+      "color": "green",
+      "symbolism": "the mountains and grass on the coat of arms"
+    },
+    {
+      "color": "brown",
+      "symbolism": "Justice's hair and the eagle's plumage"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlines and details of the heraldic charges"
+    }
+  ],
+  "description": "A dark blue field with the New York state coat of arms centred. The arms show a shield with a Hudson River landscape under a rising sun, supported by Liberty (with a discarded royal crown at her feet) on the left and Justice (blindfolded, holding sword and scales) on the right; above is an American eagle on a globe, and below a scroll reads 'EXCELSIOR'.",
+  "history": "The state coat of arms dates from 1778. The flag's standard form, with the arms on a blue field, was adopted in 1901 (replacing an earlier buff field, which had been chosen to match Revolutionary War uniform facings). The current shade of blue and design specifications were standardised in 1909.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1901"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_New_York_(state)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the dark blue field is taken from the colour of the Hudson River and the uniforms of the New York militia in the American Revolution"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "New York state coat of arms",
+      "symbolism": "shield depicting the Hudson River with sailing ships, a mountain landscape with a rising sun (the state symbol Excelsior), supported by Liberty (left) trampling a discarded crown of George III, and Justice (right, blindfolded with sword and scales). Above the shield, a globe surmounted by an American bald eagle. Below, the motto 'EXCELSIOR' (Ever Upward) and 'E PLURIBUS UNUM' on white scrolls."
+    }
   ]
 }

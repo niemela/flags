@@ -1,8 +1,91 @@
 {
   "id": "US-GA",
-  "title": "Georgia (United States)",
-  "iso": "US-GA",
+  "name": "Georgia (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-GA",
+    "fips_state": "13",
+    "wikidata": "Q1428"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Three horizontal bands — red, white, red — of equal width. A blue canton occupies the upper hoist, charged with the gold coat of arms of Georgia (an arch on three pillars defended by a soldier) surrounded by thirteen white five-pointed stars in a ring, with the words 'IN GOD WE TRUST' below the arms.",
+  "history": "Georgia's pre-2001 flag prominently featured the Confederate Battle Flag (added in 1956). After controversy, the legislature replaced it in 2001 with a transitional flag. The current 'Stars and Bars'-derived flag was adopted on 8 May 2003, taking effect after a 2004 referendum confirmed it as the permanent design. The motto 'IN GOD WE TRUST' was added in 2001.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2003-05-08"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Georgia_(U.S._state)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "the red and white bars echo the first national flag of the Confederacy ('Stars and Bars'); the design closely follows that flag"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "proportion": "1/3",
+      "role": "blue canton with state arms and stars",
+      "features": [
+        {
+          "type": "coat-of-arms",
+          "count": 1,
+          "color": "yellow",
+          "position": "center",
+          "role": "the coat of arms of Georgia",
+          "symbolism": "an arch supported by three pillars representing the three branches of government, with a soldier between the pillars defending the constitution; the pillars are entwined with banners reading 'WISDOM', 'JUSTICE', and 'MODERATION'; date 1776 below"
+        },
+        {
+          "type": "star",
+          "count": 13,
+          "points": 5,
+          "color": "white",
+          "arrangement": "circle",
+          "role": "ring of stars around the arms",
+          "symbolism": "Georgia as one of the original thirteen colonies"
+        },
+        {
+          "type": "glyph",
+          "count": 1,
+          "color": "white",
+          "position": "bottom",
+          "role": "the words 'IN GOD WE TRUST' beneath the arms"
+        }
+      ]
+    }
   ]
 }

@@ -1,8 +1,81 @@
 {
-  "id": "AR_1835-1850",
-  "title": "Argentina (1835-1850)",
+  "id": "AR_1850",
+  "name": "Argentina (1835–1850)",
   "type": [
     "historical",
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q832554"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "9:14",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the deep blue (azul oscuro) of the Federalist faction under Rosas"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red",
+      "symbolism": "the Federalist colour, replacing the yellow sun and the four red Phrygian caps added at the corners of the flag"
+    },
+    {
+      "color": "brown",
+      "symbolism": "outline of the Sun of May features"
+    }
+  ],
+  "description": "Three horizontal stripes of equal width — dark blue, white, dark blue — with a red Sun of May centred on the white stripe and a small red Phrygian cap of liberty in each of the four corners.",
+  "history": "Adopted by decree of Juan Manuel de Rosas after his return to power in 1835. Rosas' extraordinary faculties allowed him to re-shape national symbolism along Federalist lines: the Sun of May, previously yellow or gold, was recoloured red, and four red liberty caps were added at the corners as Federalist devices. The flag was used until Rosas' overthrow at the Battle of Caseros on 3 February 1852, after which Argentina returned to a celestial-blue and white tricolour with a yellow sun.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1835",
+      "end": "1850"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Argentina",
+    "https://en.wikipedia.org/wiki/Juan_Manuel_de_Rosas"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "symbolism": "the celestial blue and white of Belgrano's 1812 cockade, retained but darkened to the deep Federalist blue under Rosas"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 32,
+      "color": "red",
+      "position": "center",
+      "role": "Sun of May (Federalist red version)",
+      "symbolism": "the Sun of May recoloured red as a partisan emblem of the Federalist Party"
+    },
+    {
+      "type": "phrygian-cap",
+      "count": 4,
+      "color": "red",
+      "arrangement": "scattered",
+      "role": "Phrygian caps at the four corners",
+      "symbolism": "republican liberty, and the Federalist faction"
+    }
   ]
 }

@@ -1,8 +1,79 @@
 {
   "id": "BR-CE",
-  "title": "Ceará (Brazil)",
-  "iso": "BR-CE",
+  "name": "Ceara (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-CE",
+    "wikidata": "Q41591"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the forests and natural wealth"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the riches of the state"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace; field of the central roundel bearing the arms"
+    },
+    {
+      "color": "blue",
+      "symbolism": "appears on the central coat of arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "appears on the central coat of arms"
+    }
+  ],
+  "description": "A green field charged with a large yellow lozenge enclosing a white disc that bears the coat of arms of the State of Ceara, in the manner of the Brazilian national flag.",
+  "history": "Adopted on 25 August 1922; the design follows the pattern of the Brazilian national flag, replacing the celestial sphere with the state coat of arms on a white field.",
+  "periods": [
+    {
+      "start": "1922-08-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Cear%C3%A1"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "field": "green",
+      "symbolism": "Modelled on the Brazilian national flag — green field charged with a yellow lozenge bearing a central white roundel that carries the state coat of arms"
+    },
+    {
+      "type": "lozenge",
+      "color": "yellow",
+      "position": "center",
+      "role": "yellow lozenge",
+      "symbolism": "echoes the yellow lozenge of the Brazilian national flag, signalling Ceara as a Brazilian state"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center",
+      "role": "white roundel hosting the coat of arms"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Coat of arms of Ceara",
+      "symbolism": "Centred on the white roundel, the state arms include a star, a heron, a jangada raft, sugar-cane and cotton, with the date 25 March 1822 commemorating the proclamation of independence in the province"
+    }
   ]
 }

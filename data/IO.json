@@ -1,8 +1,91 @@
 {
   "id": "IO",
-  "title": "British Indian Ocean Territory",
-  "iso": "IO",
+  "name": "British Indian Ocean Territory",
   "type": [
-    "subdivision"
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "iso_3166_1_alpha2": "IO",
+    "iso_3166_1_alpha3": "IOT",
+    "wikidata": "Q43448"
+  },
+  "region": [
+    "Africa",
+    "Eastern Africa",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the white wavy stripes representing the Indian Ocean"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the blue wavy stripes representing the Indian Ocean"
+    },
+    {
+      "color": "green",
+      "symbolism": "the palm tree representing the tropical vegetation of the islands"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the crown and palm details"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross of Saint George and saltire of Saint Patrick in the Union Flag canton"
+    },
+    {
+      "color": "navy",
+      "symbolism": "the field of the Union Flag canton"
+    }
+  ],
+  "description": "Alternating wavy horizontal white and blue stripes with the Union Flag in the upper-hoist canton; the fly bears a green palm tree surmounted by the gold St Edward's Crown.",
+  "history": "Granted by Queen Elizabeth II on 8 November 1990, the 25th anniversary of the territory's establishment. The British Indian Ocean Territory was created on 8 November 1965 from islands previously administered as part of Mauritius and the Seychelles, and now consists of the Chagos Archipelago. In October 2024, the United Kingdom announced a treaty to transfer sovereignty of the Chagos Archipelago to Mauritius while retaining a 99-year lease on the joint US/UK military base at Diego Garcia.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1990-11-08"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_British_Indian_Ocean_Territory"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 12,
+      "symbolism": "alternating wavy white and blue stripes representing the Indian Ocean surrounding the Chagos Archipelago"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Flag indicating the territory's status as a British Overseas Territory"
+    },
+    {
+      "type": "palm",
+      "color": "green",
+      "position": "fly",
+      "role": "palm tree",
+      "symbolism": "the tropical palm trees of the Chagos Archipelago"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "fly",
+      "role": "St Edward's Crown",
+      "symbolism": "the British Crown, indicating sovereignty over the territory"
+    }
   ]
 }

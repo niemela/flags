@@ -1,8 +1,79 @@
 {
   "id": "BR-SE",
-  "title": "Sergipe (Brazil)",
-  "iso": "BR-SE",
+  "name": "Sergipe (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-SE",
+    "wikidata": "Q43783"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "Sergipe's forests"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central golden band, recalling Brazilian wealth"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the sky; the canton field"
+    }
+  ],
+  "description": "Five equal horizontal bands of green, white, yellow, white and green, with a blue canton in the upper hoist bearing five white stars in the configuration of the Southern Cross.",
+  "history": "Adopted on 17 March 1920 by State Decree No. 749; designed by Joao Soares Cardoso, the canton's stars represent the Southern Cross constellation.",
+  "periods": [
+    {
+      "start": "1920-03-17"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Sergipe"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "yellow",
+        "white",
+        "green"
+      ],
+      "count": 5,
+      "symbolism": "Five horizontal bands of green, white, yellow, white and green, with a blue canton bearing five white stars"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "position": "upper-hoist",
+      "symbolism": "Blue canton bearing five white stars in the pattern of the Southern Cross",
+      "features": [
+        {
+          "type": "star",
+          "count": 5,
+          "points": 5,
+          "color": "white",
+          "arrangement": "cross-pattern",
+          "role": "five white five-pointed stars in the form of the constellation Crux",
+          "symbolism": "the Southern Cross, with each star representing one of the federal regions of Brazil"
+        }
+      ]
+    }
   ]
 }

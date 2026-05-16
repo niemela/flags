@@ -1,8 +1,83 @@
 {
   "id": "CX",
-  "title": "Christmas Island",
-  "iso": "CX",
+  "name": "Christmas Island (Australia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AU",
+  "codes": {
+    "iso_3166_1_alpha2": "CX",
+    "iso_3166_1_alpha3": "CXR",
+    "wikidata": "Q31063"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the sky and the Indian Ocean surrounding the island; recalls the blue of the Australian flag"
+    },
+    {
+      "color": "green",
+      "symbolism": "the dense tropical rainforest covering most of the island"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the island's mineral wealth (especially phosphate, the basis of its economy) and the gold-spotted plumage of the golden bosun bird; the yellow disc and bird"
+    },
+    {
+      "color": "white",
+      "symbolism": "the seven-pointed stars of the Southern Cross"
+    }
+  ],
+  "description": "A flag divided diagonally from the upper hoist to the lower fly, with the fly-side triangle green and the hoist-side triangle blue; the blue (hoist) side carries the white Southern Cross in the upper-hoist quadrant, the green (fly) side carries the golden bosun bird in the upper-fly quadrant, and at the centre is a yellow disc charged with a green silhouette of the island.",
+  "history": "The flag was originally designed by Tony Couch, who won a 1986 competition organised by the Christmas Island Assembly. It was used unofficially from 1986 and adopted as the official flag of the territory on Australia Day 2002 (26 January).",
+  "periods": [
+    {
+      "start": "2002-01-26"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Christmas_Island"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "blue",
+      "direction": "bend",
+      "symbolism": "the diagonal split represents the rainforests and land of the island (green) on one side and the sky and surrounding ocean (blue) on the other"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 7,
+      "color": "white",
+      "position": "upper-hoist",
+      "arrangement": "southern-cross",
+      "role": "Southern Cross",
+      "symbolism": "Five seven-pointed stars in the configuration of the Southern Cross constellation, as on the Australian flag — recalling Christmas Island's status as an Australian external territory."
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "yellow",
+      "position": "upper-fly",
+      "role": "golden bosun bird (Phaethon lepturus fulvus)",
+      "symbolism": "The golden bosun bird — a subspecies of white-tailed tropicbird endemic to Christmas Island and considered an emblem of the territory."
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "central yellow disc bearing a green map of the island",
+      "symbolism": "A yellow disc charged with a green silhouette of the island, placed at the centre of the flag where the blue and green halves meet — symbolising Christmas Island itself, surrounded by the colours of sky/sea and forest."
+    }
   ]
 }

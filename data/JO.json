@@ -1,8 +1,81 @@
 {
   "id": "JO",
-  "title": "Jordan",
-  "iso": "JO",
+  "name": "Jordan",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "JO",
+    "iso_3166_1_alpha3": "JOR",
+    "fifa": "JOR",
+    "ioc": "JOR",
+    "wikidata": "Q810"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "MENA",
+    "Levant",
+    "Arab World"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the Abbasid Caliphate (750–1258), centred on Baghdad"
+    },
+    {
+      "color": "white",
+      "symbolism": "the Umayyad Caliphate (661–750), centred on Damascus"
+    },
+    {
+      "color": "green",
+      "symbolism": "the Fatimid Caliphate (909–1171), centred on Cairo"
+    },
+    {
+      "color": "red",
+      "symbolism": "the Hashemite dynasty and the Arab Revolt of 1916"
+    }
+  ],
+  "description": "Three equal horizontal stripes — black over white over green — with a red equilateral triangle at the hoist whose base is the full height of the flag and whose apex extends one-half of the flag's length toward the fly. Centred on the red triangle is a small white seven-pointed star.",
+  "history": "Adopted on 16 April 1928 by the Emirate of Transjordan and retained without change since. The design is the flag of the 1916 Arab Revolt against the Ottoman Empire, led by Sharif Hussein ibn Ali of Mecca and the Hashemite family, with a seven-pointed star added in the hoist triangle. It is one of three Pan-Arab flags directly descended from the Arab Revolt banner, alongside those of Palestine and the historical United Arab Republic.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1928-04-16"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Jordan"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "field": "black",
+      "symbolism": "based on the flag of the 1916 Arab Revolt against the Ottoman Empire; three horizontal stripes (black, white, green) with a red triangle at the hoist representing the four Arab caliphates"
+    },
+    {
+      "type": "triangle",
+      "count": 1,
+      "color": "red",
+      "position": "hoist",
+      "role": "hoist triangle (Hashemite dynasty / Arab Revolt)",
+      "symbolism": "the Hashemite dynasty, descendants of the Prophet Muhammad and the leaders of the 1916 Arab Revolt against Ottoman rule"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 7,
+      "color": "white",
+      "position": "hoist",
+      "role": "seven-pointed star",
+      "symbolism": "the seven verses of the Al-Fatiha (the opening surah of the Qur'an); also said to represent the seven hills on which Amman, the capital, is built; and faith in God, humanity, national spirit, humility, social justice, virtue, and aspiration"
+    }
   ]
 }

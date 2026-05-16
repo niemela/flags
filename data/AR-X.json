@@ -1,8 +1,68 @@
 {
   "id": "AR-X",
-  "title": "Córdoba (Argentina)",
-  "iso": "AR-X",
+  "name": "Cordoba (Argentina)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AR",
+  "codes": {
+    "iso_3166_2": "AR-X",
+    "wikidata": "Q44910"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "purity and the snow of the sierras of Cordoba"
+    },
+    {
+      "color": "red",
+      "symbolism": "the federalist tradition of Cordoba"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the sky and the colours of the Argentine national flag"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the silhouette of the sierras of Cordoba"
+    }
+  ],
+  "description": "A vertical triband of white, red and light blue, with a brown silhouette of the Sierras de Cordoba running across the centre of the flag.",
+  "history": "Adopted in 2014 after a public competition. The vertical white-red-light-blue triband refers both to the historical federalist banner of Cordoba (the red) and to the colours of the Argentine national flag (the light blue and white), and the central brown silhouette depicts the Sierras de Cordoba that define the province's geography.",
+  "periods": [
+    {
+      "start": "2014"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_C%C3%B3rdoba_Province,_Argentina",
+    "https://es.wikipedia.org/wiki/Bandera_de_la_provincia_de_C%C3%B3rdoba_(Argentina)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "light-blue"
+      ],
+      "count": 3,
+      "symbolism": "white for purity and the snow of the sierras, red for the federalist tradition of Cordoba, and light blue for the sky and the Argentine national flag"
+    },
+    {
+      "type": "mountain",
+      "count": 1,
+      "color": "brown",
+      "position": "center",
+      "role": "silhouette of the Sierras de Cordoba",
+      "symbolism": "the iconic mountain ranges that traverse the province"
+    }
   ]
 }

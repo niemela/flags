@@ -1,8 +1,61 @@
 {
   "id": "IS",
-  "title": "Iceland",
-  "iso": "IS",
+  "name": "Iceland",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "IS",
+    "iso_3166_1_alpha3": "ISL",
+    "fifa": "ISL",
+    "ioc": "ISL",
+    "wikidata": "Q189"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics"
+  ],
+  "aspect_ratio": "18:25",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the mountains and the surrounding Atlantic"
+    },
+    {
+      "color": "white",
+      "symbolism": "the snow and ice of the glaciers"
+    },
+    {
+      "color": "red",
+      "symbolism": "the fire of Iceland's volcanoes"
+    }
+  ],
+  "description": "A blue field with a red Nordic cross fimbriated white; the vertical arm is shifted toward the hoist.",
+  "history": "Iceland adopted a blue-with-white-cross flag as a national symbol during the home-rule period (recognised by Royal Decree of 22 November 1913 for use on land and 19 June 1915 expanded with the inner red cross). The current red-cross-on-white-cross-on-blue design was officially adopted on 19 June 1915 and confirmed when Iceland gained sovereignty in personal union with Denmark on 1 December 1918. With the establishment of the Republic on 17 June 1944, the flag was retained and is regulated by the Law on the National Flag of Icelanders and the State Coat of Arms (Law 34/1944).",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1944-06-17"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Iceland"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "blue",
+      "cross": "red",
+      "fimbriation": {
+        "color": "white",
+        "around": "cross"
+      },
+      "symbolism": "the off-centre Nordic cross expresses kinship with the other Nordic nations; the colours represent the three elements that shape Iceland — blue for the surrounding Atlantic and the mountains, white for the snow and ice of the glaciers, red for the fire of the island's volcanoes"
+    }
   ]
 }

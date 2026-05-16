@@ -1,7 +1,63 @@
 {
   "id": "olympic",
-  "title": "Olympic Games",
+  "name": "Olympic Movement",
   "type": [
     "organization"
+  ],
+  "codes": {
+    "wikidata": "Q188571"
+  },
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "peace; together with the ring colours, encompasses the colours of every national flag in use at the time the design was created"
+    },
+    {
+      "color": "blue",
+      "symbolism": "one of the five interlaced rings; conventionally associated with Europe (though no ring is officially assigned to a specific continent)"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "one of the five interlaced rings; conventionally associated with Asia"
+    },
+    {
+      "color": "black",
+      "symbolism": "one of the five interlaced rings; conventionally associated with Africa"
+    },
+    {
+      "color": "green",
+      "symbolism": "one of the five interlaced rings; conventionally associated with Oceania"
+    },
+    {
+      "color": "red",
+      "symbolism": "one of the five interlaced rings; conventionally associated with the Americas"
+    }
+  ],
+  "description": "A white field charged at the centre with five interlaced rings of equal size — blue, yellow, and black in the upper row and green and red in the lower row — forming the Olympic symbol.",
+  "history": "The five-ringed device was designed by Pierre de Coubertin in 1913 and first presented in the August 1913 issue of the IOC's Revue Olympique. The flag itself was unveiled at the 1914 Paris Congress celebrating the 20th anniversary of the IOC, and was first flown at an Olympic Games at Antwerp in 1920. It has since become one of the most widely recognised symbols in the world.",
+  "periods": [
+    {
+      "start": "1914"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Olympic_symbols",
+    "https://olympics.com/ioc/olympic-rings"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white",
+      "symbolism": "white as a neutral, peaceful background; together with the five ring colours, the flag's colour palette includes at least one colour from every national flag in use at its design"
+    },
+    {
+      "type": "circle",
+      "count": 5,
+      "arrangement": "constellation-other",
+      "position": "center",
+      "role": "the Olympic rings",
+      "symbolism": "Five interlaced rings — blue, yellow, black, green, and red on a white field — designed by Pierre de Coubertin in 1913. He explained the device as representing the union of the five inhabited continents and the meeting of athletes from throughout the world at the Olympic Games. The IOC has emphasised that no specific colour is officially assigned to a specific continent."
+    }
   ]
 }

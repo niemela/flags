@@ -1,8 +1,77 @@
 {
   "id": "BR-AP",
-  "title": "Amapá (Brazil)",
-  "iso": "BR-AP",
+  "name": "Amapa (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-AP",
+    "wikidata": "Q40034"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the sky"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "Amapa's mineral wealth"
+    },
+    {
+      "color": "green",
+      "symbolism": "Amazonian forests"
+    },
+    {
+      "color": "black",
+      "symbolism": "the people who died for the territory"
+    }
+  ],
+  "description": "Three horizontal bands of blue, white and yellow with a green diagonal stripe rising from the lower hoist to the upper fly along the white band, charged toward the hoist with a black silhouette of the Fortress of Sao Jose de Macapa.",
+  "history": "Adopted on 23 April 1984 during the territorial period; the design is by Anibal de Vasconcelos Barreto and was retained when Amapa became a state in 1988.",
+  "periods": [
+    {
+      "start": "1984-04-23"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Amap%C3%A1"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        3,
+        2
+      ],
+      "symbolism": "Three horizontal stripes, with a black silhouette of the Fortress of Sao Jose de Macapa overlapping the stripes near the hoist; a green diagonal band sweeps from the upper hoist to the lower fly, evoking the lands of Amapa"
+    },
+    {
+      "type": "building",
+      "count": 1,
+      "color": "black",
+      "position": "hoist",
+      "role": "Fortress of Sao Jose de Macapa",
+      "symbolism": "the colonial-era Fortress of Sao Jose de Macapa, a defining historical landmark of the state"
+    }
   ]
 }

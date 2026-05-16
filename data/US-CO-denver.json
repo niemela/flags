@@ -1,7 +1,66 @@
 {
   "id": "US-CO-denver",
-  "title": "Denver, CO (United States)",
+  "name": "Denver (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-CO",
+  "codes": {
+    "wikidata": "Q16554"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the blue Colorado sky"
+    },
+    {
+      "color": "white",
+      "symbolism": "the snow on the Rocky Mountains"
+    },
+    {
+      "color": "red",
+      "symbolism": "the red soil of Colorado"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the sun and the gold which drew settlers to Colorado"
+    }
+  ],
+  "description": "A navy-blue field with a gold disc representing the sun centred in the upper portion, above two zigzag bands — white above red — that span the width of the flag and evoke snow-capped Rocky Mountain peaks.",
+  "history": "Designed by North High School student Margaret Overbeck and adopted by the City and County of Denver in 1926.",
+  "periods": [
+    {
+      "start": "1926"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Denver"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "A navy-blue field representing the sky, crossed by red and white zigzag bands evoking the snow-capped Rocky Mountains, with a gold disc above representing the sun and Colorado's gold-mining heritage."
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "gold",
+      "position": "top",
+      "role": "gold sun disc",
+      "symbolism": "The sun, and Colorado's gold-mining history (Denver was founded in 1858 during the Pikes Peak Gold Rush)."
+    },
+    {
+      "type": "wave",
+      "count": 2,
+      "position": "center",
+      "role": "white-and-red zigzag bands across the lower portion of the flag",
+      "symbolism": "The snow-capped peaks of the Rocky Mountains rising over the red Colorado earth."
+    }
   ]
 }

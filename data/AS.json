@@ -1,8 +1,69 @@
 {
   "id": "AS",
-  "title": "American Samoa",
-  "iso": "AS",
+  "name": "American Samoa (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_1_alpha2": "AS",
+    "iso_3166_1_alpha3": "ASM",
+    "fifa": "ASA",
+    "ioc": "ASA",
+    "wikidata": "Q16641"
+  },
+  "region": [
+    "Oceania",
+    "Polynesia"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "courage; a traditional Samoan colour"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity; a traditional Samoan colour"
+    },
+    {
+      "color": "blue",
+      "symbolism": "loyalty; a traditional Samoan colour and the colour shared with the United States flag"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the eagle's beak and talons; the gold of the war club and whisk"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the wooden uatogi (war club) and fue (whisk handle)"
+    }
+  ],
+  "description": "A blue field crossed by a white triangle that points from the fly side toward the hoist, edged by red bands; the white triangle is charged with a bald eagle clutching a Samoan uatogi (war club) and fue (fly-whisk).",
+  "history": "Adopted on 24 April 1960 to replace the United States flag as the territorial flag. The design was the work of a committee that included Samoan chiefs and was intended to combine American and Samoan symbols. American Samoa is an unincorporated, unorganised territory of the United States.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1960-04-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_American_Samoa"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "a triangle of white pointing toward the hoist divides the field, separating an upper red triangle from a lower red triangle; the white triangle bears a bald eagle clutching a uatogi (war club) and fue (whisk), traditional Samoan symbols of authority"
+    },
+    {
+      "type": "eagle",
+      "color": "white",
+      "position": "fly",
+      "role": "American bald eagle clutching a Samoan uatogi (war club) and fue (fly-whisk)",
+      "symbolism": "the eagle represents the United States, while the uatogi and fue are traditional symbols of the authority of Samoan chiefs (matai) — together expressing the territory's relationship with the United States and respect for Samoan custom"
+    }
   ]
 }

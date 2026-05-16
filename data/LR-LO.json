@@ -1,8 +1,68 @@
 {
   "id": "LR-LO",
-  "title": "Lofa (Liberia)",
-  "iso": "LR-LO",
+  "name": "Lofa County (Liberia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "LR",
+  "codes": {
+    "iso_3166_2": "LR-LO"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Solid green field with the Liberian national flag as a canton in the upper hoist; in the fly half stands a stylised brown traditional human figure representing the people of Lofa.",
+  "history": "Presented by President William V. S. Tubman on 29 November 1965 together with the flags of the other Liberian counties.",
+  "periods": [
+    {
+      "start": "1965-11-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lofa_County",
+    "https://en.wikipedia.org/wiki/Flags_of_the_counties_of_Liberia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "LR",
+      "proportion": "1/4",
+      "role": "the union",
+      "symbolism": "Lofa as part of the Republic of Liberia"
+    },
+    {
+      "type": "human-figure",
+      "color": "brown",
+      "position": "center-fly",
+      "role": "traditional figure",
+      "symbolism": "the people and traditional culture of Lofa County"
+    }
   ]
 }

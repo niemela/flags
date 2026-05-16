@@ -1,8 +1,69 @@
 {
   "id": "US-MD",
-  "title": "Maryland (United States)",
-  "iso": "US-MD",
+  "name": "Maryland (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-MD",
+    "wikidata": "Q1391"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the Calvert paly bendy ('Or' in heraldry)"
+    },
+    {
+      "color": "black",
+      "symbolism": "the Calvert paly bendy ('Sable' in heraldry)"
+    },
+    {
+      "color": "red",
+      "symbolism": "the Crossland quarters ('Gules' in heraldry)"
+    },
+    {
+      "color": "white",
+      "symbolism": "the Crossland field ('Argent' in heraldry)"
+    }
+  ],
+  "description": "A heraldic banner divided quarterly: the first and fourth quarters bear the gold-and-black paly bendy of the Calvert family, with a counter-changed bend; the second and third quarters bear a botonny cross counter-changed in red and white on a quartered red-and-white field - the arms of the Crossland family.",
+  "history": "Adopted by the Maryland General Assembly on 9 March 1904. The design originated as the heraldic banner of George Calvert, 1st Baron Baltimore, and his son Cecil Calvert, who founded the Maryland colony in 1634. The Calvert and Crossland arms had been used in various combinations throughout Maryland's history, including by both Union and Confederate sympathizers during the Civil War, and the modern flag combining both reunified those uses.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1904-03-09"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Maryland"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "the flag is the heraldic banner of George Calvert, 1st Baron Baltimore, quartering the Calvert family arms (paly of six gold and black with a counter-changed bend, in the 1st and 4th quarters) with the Crossland family arms (a botonny cross counter-changed on a quartered red-and-white field, in the 2nd and 3rd quarters)."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "role": "Calvert and Crossland heraldic banner",
+      "symbolism": "first and fourth quarters: the Calvert arms (paly of six gold and black with a counter-changed bend); second and third quarters: the Crossland arms (quartered red and white with a botonny cross counter-changed). Together they form the heraldic banner of the Calvert family, founders of the Maryland colony."
+    },
+    {
+      "type": "greek-cross",
+      "count": 2,
+      "color": "red",
+      "role": "Crossland botonny cross (in second and third quarters)",
+      "symbolism": "a botonny cross (with trefoil-tipped arms) counter-changed of red and white; from the Crossland family arms inherited through Cecil Calvert's mother."
+    }
   ]
 }

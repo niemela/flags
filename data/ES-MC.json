@@ -1,8 +1,81 @@
 {
   "id": "ES-MC",
-  "title": "Murcia (Spain)",
-  "iso": "ES-MC",
+  "name": "Murcia (Spain)",
   "type": [
     "subdivision"
+  ],
+  "parent": "ES",
+  "codes": {
+    "iso_3166_2": "ES-MC",
+    "wikidata": "Q3061"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Iberian Peninsula",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the crimson field of the historic banner of the Kingdom of Murcia"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the four castles and the seven crowns"
+    },
+    {
+      "color": "black",
+      "symbolism": "outline details of the castles and crowns"
+    }
+  ],
+  "description": "A crimson field bearing four golden castles arranged in two rows in the upper hoist canton, and seven golden royal crowns arranged in the lower fly.",
+  "history": "The historic banner of the Kingdom of Murcia bore the four castles (granted by Alfonso X for the city's loyalty in the 13th century); successive crowns were added over the centuries to commemorate further royal honours. The flag was confirmed in the 1982 Statute of Autonomy of the Region of Murcia and Law 4/1983, with the design fixed at four castles and seven crowns.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1983"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Region_of_Murcia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the crimson field of the historic banner of the Kingdom of Murcia, traditionally identified with the colours of Castile."
+    },
+    {
+      "type": "building",
+      "count": 4,
+      "color": "yellow",
+      "arrangement": "grid",
+      "rows": [
+        2,
+        2
+      ],
+      "position": "upper-hoist",
+      "role": "four golden castles in the upper hoist quarter",
+      "symbolism": "the four times the city of Murcia repelled sieges and remained loyal to the Crown of Castile during the late medieval period."
+    },
+    {
+      "type": "crown",
+      "count": 7,
+      "color": "yellow",
+      "arrangement": "grid",
+      "rows": [
+        3,
+        2,
+        2
+      ],
+      "position": "lower-fly",
+      "role": "seven golden royal crowns in the lower fly",
+      "symbolism": "honours granted by successive Castilian and Spanish monarchs for the kingdom's loyalty: Alfonso X 'the Wise', Sancho IV, Pedro I, Juan II, Enrique IV, the Catholic Monarchs, and (in some accounts) Alfonso XIII."
+    }
   ]
 }

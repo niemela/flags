@@ -1,8 +1,73 @@
 {
   "id": "EG-BH",
-  "title": "Beheira (Egypt)",
-  "iso": "EG-BH",
+  "name": "Beheira Governorate (Egypt)",
   "type": [
     "subdivision"
+  ],
+  "parent": "EG",
+  "codes": {
+    "iso_3166_2": "EG-BH",
+    "wikidata": "Q31956"
+  },
+  "region": [
+    "Africa",
+    "Northern Africa",
+    "MENA",
+    "Arab World",
+    "Middle East"
+  ],
+  "aspect_ratio": "17:27",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the Mediterranean and the Rosetta branch of the Nile, defining the governorate"
+    },
+    {
+      "color": "white",
+      "symbolism": "the symbol of agriculture and Beheira's role as a Nile Delta breadbasket"
+    },
+    {
+      "color": "red",
+      "symbolism": "the agricultural and economic activity of the governorate"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wheat and grain of the Delta lowlands"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the inscribed Arabic name of the governorate and decorative elements"
+    }
+  ],
+  "description": "A blue field charged in the centre with the multi-coloured emblem of Beheira Governorate and the Arabic inscription البحيرة.",
+  "history": "The flag of Beheira Governorate was adopted as part of the system of governorate flags introduced by the Egyptian government in the 2000s; it bears the governorate emblem on a Nile-blue field.",
+  "variant": [
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Beheira_Governorate",
+    "https://en.wikipedia.org/wiki/Governorates_of_Egypt"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the waters of the Mediterranean and the Nile, both bordering Beheira"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Beheira Governorate emblem",
+      "symbolism": "a stylised emblem with agricultural and Nile-delta motifs surrounding the Arabic name of the governorate (al-Buhayra)"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "Arabic name of the governorate",
+      "symbolism": "the Arabic word البحيرة ('al-Buhayra'), the name of the governorate"
+    }
   ]
 }

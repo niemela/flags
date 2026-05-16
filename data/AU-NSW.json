@@ -1,8 +1,98 @@
 {
   "id": "AU-NSW",
-  "title": "New South Wales (Australia)",
-  "iso": "AU-NSW",
+  "name": "New South Wales (Australia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AU",
+  "codes": {
+    "iso_3166_2": "AU-NSW",
+    "wikidata": "Q3224"
+  },
+  "region": [
+    "Oceania",
+    "Australia and New Zealand",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field of the British Blue Ensign"
+    },
+    {
+      "color": "white",
+      "symbolism": "the badge disc, also in the Union Jack"
+    },
+    {
+      "color": "red",
+      "symbolism": "the Cross of Saint George on the badge, also in the Union Jack"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold lion and stars on the badge"
+    }
+  ],
+  "description": "A blue British ensign with the Union Jack in the canton and the New South Wales state badge in the fly: a white disc bearing a red Cross of Saint George charged with a gold lion in the centre and a gold eight-pointed star on each arm of the cross.",
+  "history": "Adopted on 15 February 1876, replacing earlier colonial flags. The state badge, designed by the colonial astronomer H. C. Russell and James Barnet, combines English heraldry (the Cross of Saint George and the lion) with stars representing the southern sky. NSW retained the design after Australian federation in 1901.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1876-02-15"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_New_South_Wales"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "Based on the British Blue Ensign, the standard format for Australian state flags."
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Jack, signifying historic ties to the United Kingdom"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "white",
+      "position": "center-fly",
+      "role": "white disc bearing the state badge of New South Wales",
+      "symbolism": "the disc encloses the state badge, which itself bears the Cross of Saint George charged with a gold lion (passant guardant) and four eight-pointed gold stars."
+    },
+    {
+      "type": "greek-cross",
+      "count": 1,
+      "color": "red",
+      "position": "center-fly",
+      "role": "red Cross of Saint George within the badge",
+      "symbolism": "Saint George, recalling English heritage"
+    },
+    {
+      "type": "lion",
+      "count": 1,
+      "color": "yellow",
+      "position": "center-fly",
+      "role": "gold lion passant guardant in the centre of the cross",
+      "symbolism": "British heritage and royal authority"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 8,
+      "color": "yellow",
+      "arrangement": "cross-pattern",
+      "position": "center-fly",
+      "role": "four eight-pointed gold stars on the arms of the cross",
+      "symbolism": "the southern stars; one star on each arm of the Cross of Saint George"
+    }
   ]
 }

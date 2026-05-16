@@ -1,8 +1,71 @@
 {
   "id": "CA-NS",
-  "title": "Nova Scotia (Canada)",
-  "iso": "CA-NS",
+  "name": "Nova Scotia (Canada)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CA",
+  "codes": {
+    "iso_3166_2": "CA-NS",
+    "wikidata": "Q1952"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field, recalling the colours of Saint Andrew's Cross"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the saltire, recalling Scotland"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold field of the inescutcheon"
+    },
+    {
+      "color": "red",
+      "symbolism": "the royal lion rampant of Scotland and its double tressure"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlining details of the lion"
+    }
+  ],
+  "description": "A blue saltire on a white field (the Scottish Saint Andrew's cross reversed) with an inescutcheon of the Royal Arms of Scotland (a red lion rampant within a double tressure on gold) at the centre.",
+  "history": "The flag uses the shield of the provincial coat of arms, which was granted by King Charles I in 1625, making it the oldest provincial flag in Canada and the oldest British colonial flag still in use. Its use as a flag was authorised in 1858 by the General Assembly of Nova Scotia and confirmed by royal warrant in 2013.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1858"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Nova_Scotia"
+  ],
+  "features": [
+    {
+      "type": "saltire",
+      "field": "white",
+      "saltire": "blue",
+      "symbolism": "A blue saltire on a white field, the colours of the Scottish Saint Andrew's Cross reversed, recalling the province's name (Latin for 'New Scotland')."
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "inescutcheon of the Royal Arms of Scotland (a red lion rampant within a double tressure flory-counter-flory on gold)",
+      "symbolism": "The royal arms of Scotland, granted to Nova Scotia in its 1625 charter as the only Canadian province to bear arms older than Confederation."
+    }
   ]
 }

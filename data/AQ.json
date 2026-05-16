@@ -1,8 +1,53 @@
 {
   "id": "AQ",
-  "title": "Antarctica",
-  "iso": "AQ",
+  "name": "Antarctica",
   "type": [
-    "subdivision"
+    "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "AQ",
+    "iso_3166_1_alpha3": "ATA",
+    "wikidata": "Q51"
+  },
+  "region": [
+    "Antarctica"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "neutrality"
+    },
+    {
+      "color": "white",
+      "symbolism": "the Antarctic continent and its ice"
+    }
+  ],
+  "description": "A United-Nations-style light blue field bearing a white silhouette of the continent of Antarctica, viewed from directly above the South Pole, centred on the flag.",
+  "history": "Designed by Graham Bartram in 1996 in response to the practical need for a flag at Antarctic Treaty meetings and during expeditions. The Antarctic Treaty (1959) does not designate an official flag; Bartram's design has become the de facto flag of Antarctica, used by the Antarctic Treaty Secretariat at its meetings since 2002 and increasingly by treaty parties and expeditions. The pale blue echoes the UN flag, signalling that the continent is administered jointly under international agreement.",
+  "status": "de-facto",
+  "periods": [
+    {
+      "start": "1996"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_Antarctica",
+    "https://www.flaginstitute.org/wp/flags/antarctica/"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "neutrality"
+    },
+    {
+      "type": "map",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "polar projection of Antarctica",
+      "symbolism": "the continent itself, depicted from above (the South Pole), shown without political subdivisions to reflect Antarctica's status as a shared scientific reserve"
+    }
   ]
 }

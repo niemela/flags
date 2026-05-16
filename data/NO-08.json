@@ -1,7 +1,57 @@
 {
   "id": "NO-08",
-  "title": "Telemark (Norway, 1970-2020)",
+  "name": "Telemark (Norway, 1970–2019)",
   "type": [
+    "historical",
     "subdivision"
+  ],
+  "parent": "NO",
+  "codes": {
+    "iso_3166_2": "NO-08",
+    "wikidata": "Q50634"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia"
+  ],
+  "aspect_ratio": "100:121",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "gold (Or) for the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the Telemark axe"
+    }
+  ],
+  "description": "A gold field charged with a black Telemark battle-axe head, blade to the hoist.",
+  "history": "Granted to Telemark county on 9 January 1970. The county was abolished on 1 January 2020 when it was merged with Vestfold into the new Vestfold og Telemark county; Telemark was re-established on 1 January 2024 following the dissolution of that merged entity.",
+  "status": "historical",
+  "periods": [
+    {
+      "start": "1970-01-09",
+      "end": "2019-12-31"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Telemark",
+    "https://no.wikipedia.org/wiki/Telemarks_fylkesv%C3%A5pen"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "heraldic banner of the county arms: a black Telemark axe (a traditional broad-bladed battle-axe) on a gold field"
+    },
+    {
+      "type": "axe",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "Telemark axe",
+      "symbolism": "the traditional broad-bladed Telemark battle-axe, an iconic regional weapon and tool"
+    }
   ]
 }

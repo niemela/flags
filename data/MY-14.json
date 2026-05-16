@@ -1,9 +1,76 @@
 {
   "id": "MY-14",
-  "title": "Kuala Lumpur (Malaysia)",
-  "iso": "MY-14",
+  "name": "Kuala Lumpur (Malaysia)",
   "type": [
     "subdivision",
     "city"
+  ],
+  "parent": "MY",
+  "codes": {
+    "iso_3166_2": "MY-14",
+    "wikidata": "Q1865"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "purity and the orderly administration of the federal capital"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the unity of the people of Kuala Lumpur"
+    },
+    {
+      "color": "red",
+      "symbolism": "courage, on the six narrow bars"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the sovereignty of the Yang di-Pertuan Agong over the federal territory, on the crescent and the 14-pointed star"
+    }
+  ],
+  "description": "Three equal horizontal stripes of white, blue, and white. Six narrow red horizontal bars cross the flag, three on each white band. A yellow crescent moon and a 14-pointed yellow star are charged on the blue central band toward the hoist.",
+  "history": "Kuala Lumpur was made a Federal Territory in 1974 when it was separated from the state of Selangor. Its flag, closely modelled on the Jalur Gemilang (the national flag of Malaysia) but with three horizontal bands of white, blue, and white, was adopted on 14 May 1990 by the Federal Territories Ministry, alongside the federal territory's coat of arms.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1990-05-14"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kuala_Lumpur",
+    "https://en.wikipedia.org/wiki/Flags_and_coats_of_arms_of_Malaysian_states"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "Three horizontal bands of white, blue (centre), and white. Six narrow red bars cross the field - three on each white band - closely echoing the structure of the Malaysian national flag while distinguishing the federal territory."
+    },
+    {
+      "type": "crescent",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "yellow crescent on the blue central band",
+      "symbolism": "Islam, the official religion of Malaysia"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 14,
+      "color": "yellow",
+      "position": "center",
+      "role": "14-pointed yellow star (Bintang Persekutuan, the Federal Star) beside the crescent",
+      "symbolism": "the unity of the 13 states and the federal territories of Malaysia"
+    }
   ]
 }

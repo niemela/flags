@@ -1,8 +1,71 @@
 {
   "id": "RU-PSK",
-  "title": "Pskov Oblast (Russia)",
-  "iso": "RU-PSK",
+  "name": "Pskov Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-PSK",
+    "wikidata": "Q2218"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the lakes and rivers of the Pskov land and the heavens"
+    },
+    {
+      "color": "white",
+      "symbolism": "the cloud bearing the hand of God and the historic silver field of Pskov heraldry"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden leopard of the Pskov arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "the Pskov 'runner' ornament along the hoist"
+    }
+  ],
+  "description": "A blue field with a narrow white vertical stripe along the hoist (1/7 of the flag's length) carrying a row of red triangles in the Pskov architectural 'runner' ornament; in the centre of the blue field is a golden walking leopard blessed by a hand emerging from a silver cloud.",
+  "history": "Adopted on 25 December 2018 by the Pskov Regional Assembly of Deputies; Pskov was the last Russian federal subject to adopt an official flag.",
+  "periods": [
+    {
+      "start": "2018-12-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Pskov_Oblast",
+    "https://en.wikipedia.org/wiki/Pskov_Oblast"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        6
+      ],
+      "symbolism": "the white hoist strip (1/7 of the length) carries a row of red triangles in the Pskov 'runner' ornament; the blue field bears the heraldic emblem of the oblast."
+    },
+    {
+      "type": "animal-other",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "Pskov leopard",
+      "symbolism": "a golden walking leopard, the heraldic emblem of Pskov, blessed from above by a hand emerging from a silver cloud — the historic Pskov coat of arms confirmed in 1781."
+    }
   ]
 }

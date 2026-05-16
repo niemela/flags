@@ -1,8 +1,73 @@
 {
   "id": "RU-CE",
-  "title": "Chechnya (Russia)",
-  "iso": "RU-CE",
+  "name": "Chechnya (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-CE",
+    "wikidata": "Q5187"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Caucasus",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "Islam, the fertile valleys, and the natural beauty of Chechnya"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity, peace, and harmony among the peoples of the republic"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed by the Chechen people in defence of their freedom and homeland"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of traditional Chechen national ornament"
+    }
+  ],
+  "description": "A horizontal triband of green, white and red, with the green stripe broadest and the white narrowest. A narrow vertical band of traditional yellow Chechen ornament runs along the entire hoist edge.",
+  "history": "The flag of the Chechen Republic was officially adopted on 22 June 2004 (decree of President Akhmad Kadyrov, posthumously) under the constitutional framework that returned Chechnya to the Russian Federation after the Second Chechen War. It replaced the green-white-red flag of the unrecognised Chechen Republic of Ichkeria; the modern design retains the green-white-red palette but reverses the order and adds the gold ornament strip.",
+  "periods": [
+    {
+      "start": "2004-06-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Chechen_Republic",
+    "https://en.wikipedia.org/wiki/Chechen_Republic"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        13,
+        2,
+        7
+      ],
+      "symbolism": "the green band evokes Islam, fertility, and the mountain pastures of Chechnya; the white band represents purity and peace; the red band represents the blood shed in defence of the homeland."
+    },
+    {
+      "type": "tool",
+      "count": 1,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "Chechen national ornament",
+      "symbolism": "a vertical yellow band of traditional Chechen ornamental motifs (interlaced curls evoking the ram's horn and the meander) running the full height of the hoist; affirms the cultural and ethnic identity of the Chechen people."
+    }
   ]
 }

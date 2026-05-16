@@ -1,7 +1,46 @@
 {
   "id": "US-TX-austin",
-  "title": "Austin, TX (United States)",
+  "name": "Austin (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-TX",
+  "codes": {
+    "wikidata": "Q16559"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the stylised civic emblem and inscription at the centre"
+    }
+  ],
+  "description": "A white field bearing the stylised red wordmark 'AUSTIN' with an accompanying red lone star at the centre.",
+  "history": "Austin, the capital of Texas, uses a simple white-and-red municipal flag featuring the city's name and a Lone Star.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Austin,_Texas"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "stylised 'AUSTIN' wordmark with star",
+      "symbolism": "The city's name 'AUSTIN' rendered as the central device, accompanied by a Lone Star evoking Texas; honours Stephen F. Austin, the 'Father of Texas', for whom the state capital is named."
+    }
   ]
 }

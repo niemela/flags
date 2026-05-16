@@ -1,8 +1,83 @@
 {
   "id": "PG",
-  "title": "Papua New Guinea",
-  "iso": "PG",
+  "name": "Papua New Guinea",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "PG",
+    "iso_3166_1_alpha3": "PNG",
+    "fifa": "PNG",
+    "ioc": "PNG",
+    "wikidata": "Q691"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "3:4",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "a traditional colour throughout Papua New Guinea, often associated with celebration and ceremony"
+    },
+    {
+      "color": "black",
+      "symbolism": "a traditional colour of Papua New Guinea, frequently used in tribal art and dress"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the soaring Raggiana bird-of-paradise, and the wealth of the country"
+    },
+    {
+      "color": "white",
+      "symbolism": "the five stars of the Southern Cross"
+    }
+  ],
+  "symbolism": null,
+  "description": "Divided diagonally from upper hoist to lower fly: the upper-fly half is red and bears a yellow Raggiana bird-of-paradise in flight; the lower-hoist half is black and bears the five white stars of the Southern Cross.",
+  "history": "Adopted on 1 July 1971, four years before Papua New Guinea gained independence from Australia on 16 September 1975. The design was the winning entry by 15-year-old schoolgirl Susan Karike in a national competition; her design was preferred over earlier proposals featuring the colours of the Australian-administered territory.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1971-07-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Papua_New_Guinea"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "black",
+      "direction": "bend",
+      "symbolism": "the diagonal split from the upper-hoist to the lower-fly divides the flag into a red triangle at the fly and a black triangle at the hoist — the colours red and black are traditional throughout much of Papua New Guinea"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "yellow",
+      "position": "fly",
+      "role": "Raggiana bird-of-paradise (Paradisaea raggiana) in flight",
+      "symbolism": "the national bird of Papua New Guinea, depicted in flight to symbolise the emergence of the nation; its plumage and grace also represent the country's tribal heritage and natural beauty"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "position": "hoist",
+      "arrangement": "southern-cross",
+      "role": "Southern Cross",
+      "symbolism": "the constellation Crux, marking Papua New Guinea's location in the Southern Hemisphere and historical ties with other countries of the South Pacific"
+    }
   ]
 }

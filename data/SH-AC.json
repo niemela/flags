@@ -1,8 +1,81 @@
 {
   "id": "SH-AC",
-  "title": "Ascension",
-  "iso": "SH-AC",
+  "name": "Ascension Island (Saint Helena)",
   "type": [
     "subdivision"
+  ],
+  "parent": "SH",
+  "codes": {
+    "iso_3166_2": "SH-AC",
+    "wikidata": "Q22808"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field, in the tradition of the British Blue Ensign"
+    },
+    {
+      "color": "white",
+      "symbolism": "the field of the Union Flag canton and details of the territorial arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "details of the Union Flag and the green turtle's blood vessels on the arms"
+    },
+    {
+      "color": "green",
+      "symbolism": "the green turtle, the field of the shield, and the breadfruit on the arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "details of the arms"
+    },
+    {
+      "color": "black",
+      "symbolism": "the wideawake tern (sooty tern) on the arms"
+    }
+  ],
+  "description": "A British Blue Ensign with the Union Flag in the upper hoist canton, defaced in the centre of the fly with the shield of arms of Ascension Island, showing a green sea turtle and a wideawake tern on a green field with a sea-wave chief.",
+  "history": "Ascension Island, garrisoned by the Royal Navy from 1815, became a dependency of Saint Helena in 1922. Its distinctive flag (a Blue Ensign defaced with the territorial shield) was officially granted on 11 May 2002, replacing earlier use of the plain Saint Helena flag and Union Flag. The shield was granted by Queen Elizabeth II in 2002 and features the green turtle and the wideawake tern, the island's most characteristic wildlife.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2002-05-11"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Ascension_Island",
+    "https://en.wikipedia.org/wiki/Ascension_Island"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the British Blue Ensign tradition for British Overseas Territories"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Flag, denoting Ascension's place in the British Crown Dependencies as part of the territory of Saint Helena, Ascension and Tristan da Cunha"
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "position": "center-fly",
+      "role": "shield of arms of Ascension Island",
+      "symbolism": "the territorial shield: on a green field a green turtle (the green sea turtles that nest on Ascension's beaches) on a yellow base, with a black wideawake tern at the chief, and on a chief wavy of the sea, a portcullis recalling the British heritage."
+    }
   ]
 }

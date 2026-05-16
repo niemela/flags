@@ -1,8 +1,87 @@
 {
   "id": "KP",
-  "title": "North Korea",
-  "iso": "KP",
+  "name": "North Korea",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "KP",
+    "iso_3166_1_alpha3": "PRK",
+    "fifa": "PRK",
+    "ioc": "PRK",
+    "wikidata": "Q423"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the revolutionary traditions of the Korean people; the blood shed by patriots in the struggle for liberation"
+    },
+    {
+      "color": "blue",
+      "symbolism": "sovereignty, peace, friendship and unity with peoples of the world striving for independence"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity, strength and dignity; a traditional colour of the Korean people"
+    }
+  ],
+  "description": "A wide central red stripe occupies most of the flag's height, separated from narrower blue stripes at the top and bottom by thin white fimbriations. A white disc charged with a red five-pointed star is set on the red stripe toward the hoist.",
+  "history": "Adopted on 8 September 1948 with the founding of the Democratic People's Republic of Korea, replacing the Taegukgi (still used in South Korea), which the new regime considered a feudal symbol. The design was approved by Kim Il-sung. The flag is officially called the Ramhongsaek Konghwagukgi ('Blue and Red-coloured Flag of the Republic'). A poem in praise of the flag is part of the national curriculum.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1948-09-08"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_North_Korea"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 5,
+      "widths": [
+        3,
+        1,
+        8,
+        1,
+        3
+      ],
+      "symbolism": "wide central red stripe symbolises the revolutionary traditions of the Korean people and the strength of the workers and peasants; flanking blue stripes represent sovereignty, peace and the unity of the peoples of the world struggling for independence; thin white fimbriations represent purity, strength and dignity"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "white",
+      "position": "center-hoist",
+      "role": "white disc",
+      "symbolism": "background for the red star, evoking the traditional Korean Yin-Yang and the purity of the people"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "center-hoist",
+      "role": "red star",
+      "symbolism": "the communist revolutionary traditions and the leadership of the Workers' Party of Korea"
+    }
   ]
 }

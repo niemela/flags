@@ -1,8 +1,66 @@
 {
   "id": "LT",
-  "title": "Lithuania",
-  "iso": "LT",
+  "name": "Lithuania",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "LT",
+    "iso_3166_1_alpha3": "LTU",
+    "fifa": "LTU",
+    "ioc": "LTU",
+    "wikidata": "Q37"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Baltics",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the sun and prosperity; the rising sun lighting the morning fields"
+    },
+    {
+      "color": "green",
+      "symbolism": "the forests and countryside, liberty and hope"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood and bravery of those who have died for Lithuania"
+    }
+  ],
+  "description": "Three equal horizontal stripes of yellow (top), green, and red.",
+  "history": "Adopted on 25 April 1918 by the Council of Lithuania during the country's first period of independence, after debate at the 1905 Great Seimas of Vilnius and the 1917 Vilnius Conference where the design — proposed by a commission of Jonas Basanavicius, Antanas Zmuidzinavicius and Tadas Daugirdas — was preferred over the more complex Vytis banner of the Grand Duchy of Lithuania. Banned under Soviet rule (1940–1988), the tricolour was re-recognised by the Lithuanian SSR Supreme Soviet on 18 November 1988, before the restoration of independence on 11 March 1990. The proportions were changed from 1:2 to 3:5 by an amendment of 8 July 2004 (in force from 1 September 2004), which also adopted a separate red Vytis banner as the historical state flag.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1918-04-25",
+      "end": "1940"
+    },
+    {
+      "start": "1988-11-18"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Lithuania"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "the colours of traditional Lithuanian folk weaving and dress, selected by the Council of Lithuania in 1918 as a distinctly national palette"
+    }
   ]
 }

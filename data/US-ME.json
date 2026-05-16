@@ -1,8 +1,66 @@
 {
   "id": "US-ME",
-  "title": "Maine (United States)",
-  "iso": "US-ME",
+  "name": "Maine (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-ME",
+    "fips_state": "23",
+    "wikidata": "Q724"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "26:33",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "gold"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A field of blue (the same shade as the canton of the U.S. flag) bearing in the centre the coat of arms of Maine: a shield with a tall pine tree and a reclining moose against a green field, supported by a farmer with a scythe and a sailor leaning on an anchor; above the shield, the North Star and the Latin motto 'DIRIGO'; below, a ribbon with the word 'MAINE'.",
+  "history": "Adopted by an Act of the Maine Legislature on 24 February 1909, replacing an earlier 1901 'pine tree and star' flag (a buff field with a green pine tree and a blue North Star at the canton). Periodic proposals to revive the simpler 1901 design have been advanced — most recently a 2024 ballot question — but as of 2026 the 1909 coat-of-arms flag remains the official flag of Maine.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1909-02-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Maine"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Coat of arms of Maine",
+      "symbolism": "central shield with a pine tree and reclining moose; supported on the dexter by a farmer with a scythe and on the sinister by a sailor with an anchor; above is a banderole reading 'DIRIGO' ('I lead') and a North Star; below, a ribbon bearing the word 'MAINE'"
+    }
   ]
 }

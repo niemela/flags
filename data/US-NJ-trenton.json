@@ -1,7 +1,58 @@
 {
   "id": "US-NJ-trenton",
-  "title": "Trenton, NJ (United States)",
+  "name": "Trenton (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-NJ",
+  "codes": {
+    "wikidata": "Q188975"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the hoist half; New Jersey state blue"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fly half; New Jersey state buff/gold"
+    },
+    {
+      "color": "white",
+      "symbolism": "elements of the central seal"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlines of the central seal"
+    }
+  ],
+  "description": "A field divided vertically — blue at the hoist, gold at the fly — with the seal of the City of Trenton centred across the dividing line.",
+  "history": "Used by the City of Trenton, the capital of New Jersey, with colours echoing the historic blue-and-buff of the state.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trenton,_New_Jersey"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2,
+      "symbolism": "Blue and gold (buff), historic colours of New Jersey associated with the state during the American Revolution."
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "Seal of the City of Trenton",
+      "symbolism": "The municipal seal of Trenton, capital of New Jersey since 1790 and the site of the 1776 Battle of Trenton, a pivotal American Revolutionary War victory."
+    }
   ]
 }

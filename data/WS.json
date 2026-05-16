@@ -1,8 +1,87 @@
 {
   "id": "WS",
-  "title": "Samoa",
-  "iso": "WS",
+  "name": "Samoa",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "WS",
+    "iso_3166_1_alpha3": "WSM",
+    "fifa": "SAM",
+    "ioc": "SAM",
+    "wikidata": "Q683"
+  },
+  "region": [
+    "Oceania",
+    "Polynesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "courage, a traditional Samoan colour"
+    },
+    {
+      "color": "navy",
+      "symbolism": "freedom; the deep blue of the canton"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity; the five stars of the Southern Cross"
+    }
+  ],
+  "symbolism": null,
+  "description": "A red field with a navy-blue canton in the upper hoist (about half the flag's length and half its height) bearing the constellation of the Southern Cross — four larger white five-pointed stars and one smaller star — in white.",
+  "history": "Adopted on 24 February 1949 by the legislative assembly of the New Zealand–administered Trust Territory of Western Samoa, with the addition of the fifth (smaller) star on 1 January 1962. Retained on independence on 1 January 1962 and on the country's official renaming from Western Samoa to Samoa in 1997.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1962-01-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Samoa"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "red is a traditional Samoan colour symbolising courage; combined with the blue canton it also draws on the colour palette familiar from the United States and Commonwealth flags"
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "proportion": "1/2",
+      "role": "navy-blue canton occupying the upper-hoist quarter (extending to the fly half-way)",
+      "symbolism": "freedom",
+      "features": [
+        {
+          "type": "star",
+          "count": 4,
+          "points": 5,
+          "color": "white",
+          "arrangement": "southern-cross",
+          "role": "the four larger stars of the Southern Cross",
+          "symbolism": "the constellation Crux, marking Samoa's place in the Southern Hemisphere"
+        },
+        {
+          "type": "star",
+          "count": 1,
+          "points": 5,
+          "color": "white",
+          "size": "small",
+          "arrangement": "southern-cross",
+          "role": "Epsilon Crucis, the smallest of the Southern Cross stars",
+          "symbolism": "the fifth and faintest star of the Southern Cross"
+        }
+      ]
+    }
   ]
 }

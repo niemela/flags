@@ -1,7 +1,63 @@
 {
   "id": "BR-RJ-rio-de-janeiro",
-  "title": "Rio de Janeiro, RJ (Brazil)",
+  "name": "Rio de Janeiro (Brazil)",
   "type": [
     "city"
+  ],
+  "parent": "BR-RJ",
+  "codes": {
+    "wikidata": "Q8678"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Latin America and the Caribbean",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "purity; the colours of the city's patron saint, Saint Sebastian"
+    },
+    {
+      "color": "blue",
+      "symbolism": "loyalty; the historic colour of the House of Bragança, under whose dynasty the city served as the capital of the Portuguese Empire and later of Brazil"
+    },
+    {
+      "color": "red",
+      "symbolism": "appearing in the central coat of arms"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the imperial crown and ornamentation of the central coat of arms"
+    }
+  ],
+  "description": "A white field charged with a blue saltire (Saint Andrew's cross) extending from corner to corner, with the city's coat of arms centred at the crossing.",
+  "history": "The flag was designed by the painter and historian José Wasth Rodrigues and adopted on 8 February 1908. It was retained when the federal capital moved from Rio to Brasília in 1960 and Rio became a state, and remains the flag of the city of Rio de Janeiro (which became the capital of the new state of Guanabara from 1960 to 1975, and since 1975 of the merged state of Rio de Janeiro).",
+  "periods": [
+    {
+      "start": "1908-02-08"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_city_of_Rio_de_Janeiro",
+    "https://pt.wikipedia.org/wiki/Bandeira_da_cidade_do_Rio_de_Janeiro"
+  ],
+  "features": [
+    {
+      "type": "saltire",
+      "field": "white",
+      "saltire": "blue",
+      "symbolism": "The white field with a blue saltire is derived from the colours of the House of Bragança and the Order of Christ; the saltire form recalls the cross of Saint Andrew."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Coat of arms of the City of Rio de Janeiro",
+      "symbolism": "Three arrows bound by a blue ribbon, evoking the martyrdom of Saint Sebastian (patron of the city, in whose honour it was named São Sebastião do Rio de Janeiro on its founding in 1565); supported by dolphins, with the imperial crown above commemorating the city's status as imperial capital."
+    }
   ]
 }

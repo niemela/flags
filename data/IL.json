@@ -1,8 +1,70 @@
 {
   "id": "IL",
-  "title": "Israel",
-  "iso": "IL",
+  "name": "Israel",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "IL",
+    "iso_3166_1_alpha3": "ISR",
+    "fifa": "ISR",
+    "ioc": "ISR",
+    "wikidata": "Q801"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East"
+  ],
+  "aspect_ratio": "8:11",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field of the tallit (Jewish prayer shawl)"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the stripes of the tallit; symbolic of the divine, of glory, and of trust"
+    }
+  ],
+  "description": "A white field with two horizontal blue stripes — one in the upper portion, one in the lower — and a blue Star of David (a hexagram of two interlaced equilateral triangles) at the centre between the two stripes. Aspect ratio 8:11.",
+  "history": "Adopted on 28 October 1948, five months after the establishment of the State of Israel on 14 May 1948. The design closely resembles the flag of the Zionist movement adopted at the First Zionist Congress in Basel in 1897, which itself drew on a design proposed by David Wolffsohn. The blue stripes and white field evoke the tallit (Jewish prayer shawl), and the Star of David has been a Jewish symbol since the late Middle Ages.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1948-10-28"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Israel",
+    "https://www.gov.il/en/departments/general/symbols_of_the_state_of_israel"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        4,
+        1
+      ],
+      "symbolism": "based on the design of the tallit (Jewish prayer shawl), which traditionally has a white field with blue stripes near each end"
+    },
+    {
+      "type": "star-of-david",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "Magen David (Shield of David)",
+      "symbolism": "the Jewish people; emblem long associated with Judaism and adopted as a Zionist symbol in the late 19th century"
+    }
   ]
 }

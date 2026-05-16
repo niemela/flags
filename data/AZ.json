@@ -1,8 +1,89 @@
 {
   "id": "AZ",
-  "title": "Azerbaijan",
-  "iso": "AZ",
+  "name": "Azerbaijan",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "AZ",
+    "iso_3166_1_alpha3": "AZE",
+    "fifa": "AZE",
+    "ioc": "AZE",
+    "wikidata": "Q227"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Caucasus",
+    "Turkic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "Azerbaijan's Turkic heritage; the colour of the sky"
+    },
+    {
+      "color": "red",
+      "symbolism": "progress, the development of modern society, and democracy"
+    },
+    {
+      "color": "green",
+      "symbolism": "Islam and the link to the Islamic civilisation"
+    },
+    {
+      "color": "white",
+      "symbolism": "the colour of the crescent and star"
+    }
+  ],
+  "description": "Three equal horizontal stripes — sky-blue on top, red in the middle, green at the bottom — with a white crescent moon and a white eight-pointed star centred on the red middle stripe.",
+  "history": "Adopted on 5 February 1991 by the Supreme Soviet of the Azerbaijan SSR, ten months before the country formally declared independence from the USSR. The design is the same as the flag of the short-lived Azerbaijan Democratic Republic of 1918–1920 (the first secular democratic republic in the Muslim world), which was suppressed by the Soviet invasion. The number of points on the star and the colour symbolism were given by the founder of Azerbaijani nationalism, Ali bey Huseynzade, in his slogan 'Turkify, Islamize, Modernize'.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1918-11-09",
+      "end": "1920-04-28"
+    },
+    {
+      "start": "1991-02-05"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Azerbaijan"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "red",
+        "green"
+      ],
+      "count": 3,
+      "symbolism": "blue for the country's Turkic heritage, red for progress and modernisation, green for Islam"
+    },
+    {
+      "type": "crescent",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "white crescent moon",
+      "symbolism": "Islam and the country's Turkic heritage; a symbol shared with other Turkic and Muslim nations"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "white",
+      "position": "center",
+      "role": "white eight-pointed star",
+      "symbolism": "the eight points are variously interpreted as the eight branches of the Turkic peoples, or the eight letters of the word 'Azerbaijan' in the historic Arabic-based script"
+    }
   ]
 }

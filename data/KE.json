@@ -1,8 +1,92 @@
 {
   "id": "KE",
-  "title": "Kenya",
-  "iso": "KE",
+  "name": "Kenya",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "KE",
+    "iso_3166_1_alpha3": "KEN",
+    "fifa": "KEN",
+    "ioc": "KEN",
+    "wikidata": "Q114"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Eastern Africa",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the people of Kenya"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed in the struggle for independence"
+    },
+    {
+      "color": "green",
+      "symbolism": "the country's natural wealth and agriculture"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace and honesty (the fimbriations between the main stripes)"
+    }
+  ],
+  "description": "Five horizontal stripes — black, white (thin), red, white (thin), green — with thin white fimbriations separating the three main bands. Centred over the stripes is a traditional Maasai warrior's shield with two crossed white spears behind it; the shield itself is decorated with black, red and white bands matching the flag and bears a central white emblem.",
+  "history": "Adopted on 12 December 1963, the day Kenya gained independence from the United Kingdom. The design is based on the flag of the Kenya African National Union (KANU), the political party that led the independence movement, with the Maasai shield and spears added at independence to give the flag a distinctive national identity drawn from indigenous tradition.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1963-12-12"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Kenya",
+    "https://www.president.go.ke/national-symbols/"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "white",
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 5,
+      "widths": [
+        6,
+        1,
+        4,
+        1,
+        6
+      ],
+      "symbolism": "black for the people of Kenya, red for the blood shed in the struggle for independence, green for the country's landscape and agriculture; the narrow white bands represent peace and honesty"
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "position": "center",
+      "role": "Maasai warrior's shield",
+      "symbolism": "the defence of all things mentioned in the flag — the people, freedom, the land, and peace; representative of Kenya's traditional culture (the Maasai)"
+    },
+    {
+      "type": "spear",
+      "count": 2,
+      "color": "white",
+      "position": "center",
+      "arrangement": "single",
+      "role": "two crossed spears behind the shield",
+      "symbolism": "the defence of freedom"
+    }
   ]
 }

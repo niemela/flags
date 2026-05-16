@@ -1,8 +1,59 @@
 {
   "id": "RU-MOS",
-  "title": "Moscow Oblast (Russia)",
-  "iso": "RU-MOS",
+  "name": "Moscow Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-MOS",
+    "wikidata": "Q1697"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the colour of the banners of medieval Muscovy"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver horse of Saint George"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the saint's armour and the dragon"
+    }
+  ],
+  "description": "A red field charged in the centre with Saint George the Victorious on a silver horse, wearing gold armour and a cloak, spearing a golden serpent.",
+  "history": "Adopted on 3 November 2005 by the Moscow Oblast Duma; the design echoes the historic banner of Dmitry Donskoy and the regional coat of arms.",
+  "periods": [
+    {
+      "start": "2005-11-03"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Moscow_Oblast",
+    "https://en.wikipedia.org/wiki/Moscow_Oblast"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "red is the historic colour of the banners of the Moscow grand princes."
+    },
+    {
+      "type": "human-figure",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Saint George the Victorious",
+      "symbolism": "Saint George on a silver horse, in golden armour and cloak, slaying a serpent with a spear; the patron saint of Moscow, taken from the historic seal of the grand princes of Moscow."
+    }
   ]
 }

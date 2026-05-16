@@ -1,8 +1,92 @@
 {
   "id": "SE-O",
-  "title": "Västra Götaland (Sweden)",
-  "iso": "SE-O",
+  "name": "Vastra Gotaland County (Sweden)",
   "type": [
     "subdivision"
+  ],
+  "parent": "SE",
+  "codes": {
+    "iso_3166_2": "SE-O",
+    "wikidata": "Q103093"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the gold quarters bearing the Vastergotland lion and the Goteborg lion-helm"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver quarters bearing the Bohuslan fortress and the Dalsland ox"
+    },
+    {
+      "color": "red",
+      "symbolism": "the rampant lion of Vastergotland and accents on Goteborg's quarter"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the heraldic detailing of the Goteborg lion-helm and the Bohuslan fortress field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the ox of Dalsland and heraldic outlines"
+    }
+  ],
+  "description": "A square yellow flag charged centrally with the quartered coat of arms of Vastra Gotaland County, combining the historic arms of Vastergotland (red lion), Bohuslan (fortress), Dalsland (ox), and the city of Goteborg.",
+  "history": "Vastra Gotaland County was formed on 1 January 1998 by the merger of Goteborg and Bohus, Alvsborg, and Skaraborg counties. The county arms were granted in 1999 and the flag is the heraldic banner of those arms.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/V%C3%A4stra_G%C3%B6taland_County",
+    "https://sv.wikipedia.org/wiki/V%C3%A4stra_G%C3%B6talands_l%C3%A4ns_vapen"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "yellow",
+        "white",
+        "white",
+        "yellow"
+      ],
+      "symbolism": "the field is quartered as a banner of arms; the gold quarters in the upper hoist and lower fly bear the rampant red lion of Vastergotland and the lion-helmet of Goteborg, while the white quarters in the upper fly and lower hoist bear the fortress of Bohuslan and the ox of Dalsland."
+    },
+    {
+      "type": "lion",
+      "count": 1,
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "rampant lion of Vastergotland (first quarter)",
+      "symbolism": "the historic provincial arms of Vastergotland."
+    },
+    {
+      "type": "building",
+      "count": 1,
+      "color": "blue",
+      "position": "upper-fly",
+      "role": "fortress of Bohuslan (second quarter)",
+      "symbolism": "the historic provincial arms of Bohuslan."
+    },
+    {
+      "type": "animal-other",
+      "count": 1,
+      "color": "black",
+      "position": "lower-hoist",
+      "role": "ox of Dalsland (third quarter)",
+      "symbolism": "the historic provincial arms of Dalsland."
+    },
+    {
+      "type": "lion",
+      "count": 1,
+      "color": "blue",
+      "position": "lower-fly",
+      "role": "lion-helm of Goteborg (fourth quarter)",
+      "symbolism": "the heraldic device of the city of Goteborg."
+    }
   ]
 }

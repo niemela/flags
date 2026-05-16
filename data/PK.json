@@ -1,8 +1,68 @@
 {
   "id": "PK",
-  "title": "Pakistan",
-  "iso": "PK",
+  "name": "Pakistan",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "PK",
+    "iso_3166_1_alpha3": "PAK",
+    "fifa": "PAK",
+    "ioc": "PAK",
+    "wikidata": "Q843"
+  },
+  "region": [
+    "Asia",
+    "Southern Asia",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "Islam and the Muslim majority of Pakistan; from the dark-green flag of the All-India Muslim League"
+    },
+    {
+      "color": "white",
+      "symbolism": "the religious minorities of Pakistan and peace"
+    }
+  ],
+  "description": "A dark-green field with a white vertical stripe at the hoist, occupying one-quarter of the flag's length. Centred on the green field is a white crescent moon opening toward the upper-fly, with a white five-pointed star nestled in the crescent's opening.",
+  "history": "Designed by Amiruddin Kidwai based on the flag of the All-India Muslim League. Adopted by the Constituent Assembly of Pakistan on 11 August 1947, three days before the country's independence on 14 August 1947. The white stripe at the hoist was added (it was not present on the Muslim League banner) to represent religious minorities and to make clear that Pakistan was to be a state for citizens of all faiths. The flag is officially called the Parcham-e-Sitāra-o-Hilāl ('Flag of the Crescent and Star').",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1947-08-11"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Pakistan"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "field": "green",
+      "symbolism": "a dark-green field with a white vertical stripe at the hoist; the green represents Pakistan's Muslim majority and the white stripe represents religious minorities"
+    },
+    {
+      "type": "crescent",
+      "count": 1,
+      "color": "white",
+      "position": "center-fly",
+      "role": "white crescent",
+      "symbolism": "progress; together with the star, a traditional symbol of Islam"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center-fly",
+      "role": "white five-pointed star",
+      "symbolism": "light and knowledge; together with the crescent, a traditional symbol of Islam"
+    }
   ]
 }

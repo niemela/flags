@@ -1,8 +1,91 @@
 {
   "id": "MY",
-  "title": "Malaysia",
-  "iso": "MY",
+  "name": "Malaysia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "MY",
+    "iso_3166_1_alpha3": "MYS",
+    "fifa": "MAS",
+    "ioc": "MAS",
+    "wikidata": "Q833"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "courage"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and honesty"
+    },
+    {
+      "color": "navy",
+      "symbolism": "the unity of the Malaysian people; in the original 1950 design, dark blue represented the unity of Britain and the Federation of Malaya"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the royal colour of the Malay rulers (Yang di-Pertuan Agong and the sultans)"
+    }
+  ],
+  "description": "Fourteen equal alternating horizontal stripes, beginning with red at the top and ending with white at the bottom. In the upper hoist (extending from the top to just below the middle stripe — over the upper seven stripes) is a navy-blue canton bearing a yellow crescent moon and a yellow fourteen-pointed star. The flag is known as Jalur Gemilang ('Stripes of Glory').",
+  "history": "The current design was adopted on 16 September 1963 with the formation of Malaysia (the union of the Federation of Malaya, Singapore, Sabah, and Sarawak). The original Federation of Malaya flag, designed by Mohamed Hamzah and selected by King George VI in 1950, had eleven stripes and an eleven-pointed star for the eleven states; on the formation of Malaysia, the count was raised to fourteen to include the new states. Singapore left the Federation in 1965, but the count was retained — the fourteenth point now represents the Federal Territories collectively. The flag's similarity to the U.S. flag is coincidental; the stripes derive from the Majapahit-era Malay maritime tradition and the canton from earlier Anglo-Malay regional flags.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1963-09-16"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Malaysia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 14,
+      "symbolism": "the fourteen alternating red and white stripes represent the equal status of the thirteen states and the federal government in the Federation of Malaysia"
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "proportion": "upper-hoist quarter",
+      "role": "navy-blue canton with crescent and star",
+      "symbolism": "the unity of the Malaysian states and federal government, with the crescent of Islam and the fourteen-pointed star representing the federation",
+      "features": [
+        {
+          "type": "crescent",
+          "count": 1,
+          "color": "yellow",
+          "position": "center",
+          "role": "yellow crescent moon",
+          "symbolism": "Islam, the official religion of the Federation"
+        },
+        {
+          "type": "star",
+          "count": 1,
+          "points": 14,
+          "color": "yellow",
+          "position": "center",
+          "role": "fourteen-pointed yellow star (Bintang Persekutuan)",
+          "symbolism": "the unity of the thirteen states and the federal government — the 'Federal Star' (Bintang Persekutuan); the yellow colour is the royal colour of the Malay rulers"
+        }
+      ]
+    }
   ]
 }

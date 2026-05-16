@@ -1,8 +1,74 @@
 {
   "id": "BY",
-  "title": "Belarus",
-  "iso": "BY",
+  "name": "Belarus",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "BY",
+    "iso_3166_1_alpha3": "BLR",
+    "fifa": "BLR",
+    "ioc": "BLR",
+    "wikidata": "Q184"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Post-Soviet",
+    "Slavic"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "in official interpretation, freedom and the sacrifice of the nation's forefathers; historically, the red of the Soviet flag"
+    },
+    {
+      "color": "green",
+      "symbolism": "life and the Belarusian forests"
+    },
+    {
+      "color": "white",
+      "symbolism": "the white margin behind the traditional ornament pattern at the hoist"
+    }
+  ],
+  "description": "An unequal horizontal bicolour of red over green in a 2:1 ratio, with a vertical red-on-white traditional Belarusian ornamental pattern occupying the hoist (one-ninth of the flag's length).",
+  "history": "The current design was approved by Presidential Decree No. 214 of 7 June 1995 following a referendum held on 14 May 1995 in which President Alexander Lukashenko proposed replacing the white-red-white flag of the Belarusian People's Republic (re-adopted in 1991) with a modified version of the 1951 Byelorussian SSR flag. The Soviet-era hammer, sickle and red star were removed, and the colours of the hoist ornament were reversed (red on white instead of white on red). The pattern was further redrawn — thickened to fill the entire white margin — by the State Committee for Standardisation in STB 911-2008, with the current design entering into force on 10 February 2012.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1995-06-07"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Belarus",
+    "https://en.wikipedia.org/wiki/1995_Belarusian_referendum"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ],
+      "symbolism": "directly modelled on the 1951 flag of the Byelorussian Soviet Socialist Republic, with red representing the Soviet revolutionary tradition (and, in later official interpretation, the freedom and sacrifice of the nation's forefathers) and green representing the Belarusian forests and life"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "ruchnik ornament pattern",
+      "symbolism": "a traditional Belarusian decorative pattern (rushnik / ruchnik) of red on white running the full height of the hoist, derived from a 1917 embroidery by Matrona Markevich; the white-and-red colours of the Soviet-era version were reversed in 1995, and the pattern was widened to fill the white field in the 2012 standardisation"
+    }
   ]
 }

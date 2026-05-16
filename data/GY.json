@@ -1,8 +1,73 @@
 {
   "id": "GY",
-  "title": "Guyana",
-  "iso": "GY",
+  "name": "Guyana",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "GY",
+    "iso_3166_1_alpha3": "GUY",
+    "fifa": "GUY",
+    "ioc": "GUY",
+    "wikidata": "Q734"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the agricultural and forested land of Guyana"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the country's mineral wealth (the Golden Arrowhead)"
+    },
+    {
+      "color": "red",
+      "symbolism": "the zeal and dynamism of nation-building"
+    },
+    {
+      "color": "white",
+      "symbolism": "Guyana's many rivers and waters (fimbriation around the gold pile)"
+    },
+    {
+      "color": "black",
+      "symbolism": "the endurance of the Guyanese people (fimbriation around the red pile)"
+    }
+  ],
+  "description": "Known as the Golden Arrowhead. A green field bearing a long golden isoceles triangle (pile) issuing from the hoist and pointing to the fly, fimbriated in white. A shorter red triangle issues from the same hoist edge over the gold, fimbriated in black, its apex stopping short of the centre.",
+  "history": "Adopted on 26 May 1966, the day Guyana gained independence from the United Kingdom. The basic design — green field with gold and red piles — was created by the American vexillologist Whitney Smith in 1960 for then-British Guiana; on adoption the College of Arms in London added the white and black fimbriations. The arrowhead structure (a pile within a pile) is so distinctive that the Guyanese flag is the canonical example for this layout in vexillology.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1966-05-26"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Guyana"
+  ],
+  "features": [
+    {
+      "type": "arrowhead",
+      "field": "green",
+      "outer": "yellow",
+      "inner": "red",
+      "fimbriation": {
+        "color": "white",
+        "around": "all-edges"
+      },
+      "symbolism": "a green field with a long golden triangle (pile, fimbriated white) issuing from the hoist and overlaid by a shorter red triangle (fimbriated black); known as the Golden Arrowhead"
+    }
   ]
 }

@@ -1,4 +1,58 @@
 {
   "id": "US-AL-washington",
-  "title": "Washington County, AL (United States)"
+  "name": "Washington County, Alabama (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-AL",
+  "codes": {
+    "wikidata": "Q495234"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field, evoking the woodlands of southwest Alabama"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central ring and stars"
+    },
+    {
+      "color": "black",
+      "symbolism": "lettering and detailing"
+    }
+  ],
+  "description": "A green field charged at the centre with a yellow ring enclosing a yellow five-pointed star, with associated black lettering identifying Washington County.",
+  "history": "Washington County is the oldest county in Alabama, established in 1800 in what was then the Mississippi Territory and named after George Washington. The county flag uses green and yellow with a star device.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Washington_County,_Alabama"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "circle",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "yellow ring at the centre of the field",
+      "symbolism": "Frames the central county emblem."
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "five-pointed star inside the central ring",
+      "symbolism": "Marks Washington County, named for U.S. president George Washington and the oldest county in Alabama (established 1800 within the Mississippi Territory)."
+    }
+  ]
 }

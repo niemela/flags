@@ -1,8 +1,57 @@
 {
   "id": "DE-NW",
-  "title": "North Rhine-Westphalia (Germany)",
-  "iso": "DE-NW",
+  "name": "North Rhine-Westphalia (Germany)",
   "type": [
     "subdivision"
+  ],
+  "parent": "DE",
+  "codes": {
+    "iso_3166_2": "DE-NW",
+    "wikidata": "Q1198"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "from the historical colours of Westphalia"
+    },
+    {
+      "color": "white",
+      "symbolism": "shared by Westphalia and the Rhineland"
+    },
+    {
+      "color": "red",
+      "symbolism": "from the historical colours of the Rhineland"
+    }
+  ],
+  "description": "Three equal horizontal stripes of green, white, and red.",
+  "history": "Adopted on 10 March 1953 as the civil flag of the state of North Rhine-Westphalia, formed in 1946 from the Prussian provinces of the Rhineland and Westphalia. The state flag (with arms) is reserved for official use.",
+  "variant": [
+    "civil"
+  ],
+  "periods": [
+    {
+      "start": "1953-03-10"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_North_Rhine-Westphalia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "Green and white from the arms of Westphalia (the Saxon horse on a white-and-green field) combined with the red and white of the Rhineland."
+    }
   ]
 }

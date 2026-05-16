@@ -1,8 +1,73 @@
 {
-  "id": "AR_1829-1835",
-  "title": "Argentina (1829-1835)",
+  "id": "AR_1835",
+  "name": "Argentina (1829–1835)",
   "type": [
     "historical",
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q832554"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "9:14",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the deep blue (azul oscuro) of the Federalist faction under Rosas"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the rays of the Sun of May"
+    },
+    {
+      "color": "brown",
+      "symbolism": "outline of the Sun of May features"
+    }
+  ],
+  "description": "Three horizontal stripes of equal width — dark blue, white, dark blue — with a yellow Sun of May (a human face surrounded by 32 alternating straight and wavy rays) centred on the white stripe.",
+  "history": "Used during the first governorship of Juan Manuel de Rosas in Buenos Aires Province and as the de facto national flag of the Argentine Confederation. Following Belgrano's blue-white-blue cockade flag of 1812 and the addition of the Sun of May in 1818, the Federalist administrations darkened the celestial blue to an almost indigo \"federalist\" shade as a partisan signal against the lighter blue preferred by the Unitarians. The dark-blue version was prevalent from roughly 1829 until 1835, when Rosas, returning to power with extraordinary faculties, replaced the sun with red and modified the flag further.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1829",
+      "end": "1835"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Argentina",
+    "https://en.wikipedia.org/wiki/Argentine_Confederation"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "symbolism": "the celestial blue and white of the cockade adopted by Manuel Belgrano in 1812; under the Federalist governor Juan Manuel de Rosas the blue was darkened to a deep \"federalist\" indigo to distinguish it from the lighter Unitarian shade"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 32,
+      "color": "yellow",
+      "position": "center",
+      "role": "Sun of May",
+      "symbolism": "the sun that, according to legend, broke through the clouds during the May Revolution of 1810; the Inca sun-god Inti, invoking pre-colonial Andean heritage"
+    }
   ]
 }

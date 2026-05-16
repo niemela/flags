@@ -1,8 +1,55 @@
 {
   "id": "DE-HH",
-  "title": "Hamburg (Germany)",
-  "iso": "DE-HH",
+  "name": "Hamburg (Germany)",
   "type": [
     "subdivision"
+  ],
+  "parent": "DE",
+  "codes": {
+    "iso_3166_2": "DE-HH",
+    "wikidata": "Q1055"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the Hanseatic colour"
+    },
+    {
+      "color": "white",
+      "symbolism": "the colour of the castle, also Hanseatic"
+    }
+  ],
+  "description": "A red field bearing a white three-towered castle with a closed gate; the central tower carries a cross and the side towers are topped with stars.",
+  "history": "Hamburg's civil flag was officially adopted on 14 May 1751 (and re-confirmed in 1952), making it one of the oldest municipal flags in Germany. The castle motif derives from Hamburg's medieval seal and represents the city's status as a free Hanseatic port; the state flag (Staatsflagge) and admiralty flag add a more elaborate version of the arms.",
+  "variant": [
+    "civil"
+  ],
+  "periods": [
+    {
+      "start": "1751-05-14"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Hamburg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "building",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "white three-towered castle (the Hamburg arms)",
+      "symbolism": "The castle is documented as Hamburg's symbol since at least the 13th century; the central tower bears a cross, the side towers are topped with six-pointed stars representing the Virgin Mary, patroness of Hamburg cathedral."
+    }
   ]
 }

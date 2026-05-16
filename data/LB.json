@@ -1,8 +1,82 @@
 {
   "id": "LB",
-  "title": "Lebanon",
-  "iso": "LB",
+  "name": "Lebanon",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "LB",
+    "iso_3166_1_alpha3": "LBN",
+    "fifa": "LIB",
+    "ioc": "LBN",
+    "wikidata": "Q822"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "MENA",
+    "Levant",
+    "Arab World"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the blood shed in defence of Lebanon against successive invaders"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace; the snow of Mount Lebanon, a symbol of purity and the country's enduring nature"
+    },
+    {
+      "color": "green",
+      "symbolism": "the colour of the cedar of Lebanon; immortality and steadfastness"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the trunk of the cedar of Lebanon"
+    }
+  ],
+  "description": "Three horizontal stripes — red over white over red — with the central white stripe twice as tall as each red stripe. Centred on the white stripe is a green cedar of Lebanon with a brown trunk; the cedar's height equals the height of the white stripe and it touches the upper and lower red stripes.",
+  "history": "Adopted on 7 December 1943 just before Lebanon's full independence from France (announced 22 November 1943). The flag was designed by members of parliament during the independence movement; the cedar — already a Lebanese symbol on the flag of the Mandate of Lebanon (1920) and on much earlier emblems — replaces the French tricolour canton of the mandate flag. The two red stripes are inspired by traditional flags of the Maronite military orders, while the proportions (1:2:1) ensure that the cedar fits entirely within the white stripe.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1943-12-07"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Lebanon"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ],
+      "symbolism": "the red stripes recall the blood shed by Lebanese in defence of the country against successive invaders; the central white stripe represents peace and the snow of Mount Lebanon"
+    },
+    {
+      "type": "cedar",
+      "count": 1,
+      "color": "green",
+      "position": "center",
+      "role": "Cedar of Lebanon",
+      "symbolism": "the cedar of Lebanon (Cedrus libani), a tree native to the country and mentioned 75 times in the Hebrew Bible; symbol of holiness, eternity and peace, and a representation of the Lebanese people through millennia of invasions"
+    }
   ]
 }

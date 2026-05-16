@@ -1,8 +1,87 @@
 {
   "id": "TJ",
-  "title": "Tajikistan",
-  "iso": "TJ",
+  "name": "Tajikistan",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "TJ",
+    "iso_3166_1_alpha3": "TJK",
+    "fifa": "TJK",
+    "ioc": "TJK",
+    "wikidata": "Q863"
+  },
+  "region": [
+    "Asia",
+    "Central Asia",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the unity of the nation, the sun's victory over darkness, and the colour of the workers"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity, the snowy peaks of the Pamirs, and the country's cotton"
+    },
+    {
+      "color": "green",
+      "symbolism": "the fertile valleys, agriculture, and Islam"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the crown and stars"
+    }
+  ],
+  "description": "Three horizontal stripes — red on top, a wider white in the middle, green at the bottom — in proportions 2:3:2. Centred on the white stripe, a gold crown surmounted by an arc of seven gold five-pointed stars.",
+  "history": "Adopted on 24 November 1992, replacing the flag of the Tajik SSR after the country's 1991 independence. It is the only Central Asian post-Soviet national flag to retain the red of its Soviet predecessor. The seven-stars-and-crown emblem was designed to evoke Tajikistan's pre-Soviet Persian cultural heritage.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1992-11-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Tajikistan"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        3,
+        2
+      ],
+      "symbolism": "red for the unity of the nation and the working class, white for purity and cotton, green for agriculture and Islam"
+    },
+    {
+      "type": "crown",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "stylised crown",
+      "symbolism": "the Tajik people — 'Tajik' is popularly etymologised as 'crowned'; also a reference to the Persian crown and the country's monarchic past"
+    },
+    {
+      "type": "star",
+      "count": 7,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "arrangement": "arc",
+      "role": "seven gold stars in an arc above the crown",
+      "symbolism": "the number seven is sacred in Tajik tradition, signifying perfection and felicity (the 'seven heavens', the seven beautiful gardens of paradise, the seven mountains, etc.)"
+    }
   ]
 }

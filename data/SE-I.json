@@ -1,8 +1,59 @@
 {
   "id": "SE-I",
-  "title": "Gotland (Sweden)",
-  "iso": "SE-I",
+  "name": "Gotland County (Sweden)",
   "type": [
     "subdivision"
+  ],
+  "parent": "SE",
+  "codes": {
+    "iso_3166_2": "SE-I",
+    "wikidata": "Q104237"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the azure field of the Gotland arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver Agnus Dei (lamb)"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold halo, banner pole, and detailing"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross on the banner and detailing of the lamb"
+    }
+  ],
+  "description": "A square blue flag charged centrally with the silver Agnus Dei (Lamb of God) bearing a banner with a red cross, the historic emblem of Gotland.",
+  "history": "The flag is the heraldic banner of the arms of Gotland County, derived from the medieval coat of arms of the historic island province of Gotland; the Agnus Dei has been the symbol of Gotland since the 13th century.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gotland_County",
+    "https://sv.wikipedia.org/wiki/Gotlands_l%C3%A4ns_vapen"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the azure field of the historic Gotland provincial arms"
+    },
+    {
+      "type": "animal-other",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Agnus Dei (Lamb of God) of Gotland, holding a banner with a red cross",
+      "symbolism": "the silver Lamb of God carrying a banner charged with a red cross, the historic emblem of the island province of Gotland; symbolizes Christ as the sacrificial lamb."
+    }
   ]
 }

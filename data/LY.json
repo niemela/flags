@@ -1,8 +1,93 @@
 {
   "id": "LY",
-  "title": "Libya",
-  "iso": "LY",
+  "name": "Libya",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "LY",
+    "iso_3166_1_alpha3": "LBY",
+    "fifa": "LBY",
+    "ioc": "LBA",
+    "wikidata": "Q1016"
+  },
+  "region": [
+    "Africa",
+    "Northern Africa",
+    "Maghreb",
+    "Arab World",
+    "MENA"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the blood shed by Libyans in the resistance against foreign occupation"
+    },
+    {
+      "color": "black",
+      "symbolism": "the dark days of Italian colonisation; the historical flag of the Senussi Emirate of Cyrenaica"
+    },
+    {
+      "color": "green",
+      "symbolism": "Libya's wealth of agriculture and prosperity, and Islam"
+    },
+    {
+      "color": "white",
+      "symbolism": "the crescent and star, traditional symbols of Islam"
+    }
+  ],
+  "description": "Three horizontal stripes of red, black and green in a 1:2:1 ratio, with a white crescent and five-pointed star centred on the wider black band.",
+  "history": "Originally adopted on 24 December 1951 as the flag of the Kingdom of Libya, designed by Omar Faiek Shennib and approved by King Idris al-Senussi. It was replaced after the 1969 coup by Muammar Gaddafi (first by an Arab Liberation flag and from 1977 by a plain green field). It was readopted on 3 August 2011 by the National Transitional Council during the Libyan civil war and confirmed as the national flag after Gaddafi's fall.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1951-12-24",
+      "end": "1969-09-01"
+    },
+    {
+      "start": "2011-08-03"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Libya"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "black",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ],
+      "symbolism": "the colours of the Senussi dynasty and the original 1951 flag of the Kingdom of Libya"
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "center",
+      "role": "Islamic crescent",
+      "symbolism": "Islam, the principal religion of Libya"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "role": "five-pointed star",
+      "symbolism": "hope, faith and the principles of liberty, justice and brotherhood"
+    }
   ]
 }

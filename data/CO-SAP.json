@@ -1,8 +1,42 @@
 {
   "id": "CO-SAP",
-  "title": "San Andrés (Colombia)",
-  "iso": "CO-SAP",
+  "name": "San Andres, Providencia and Santa Catalina (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-SAP",
+    "wikidata": "Q121136"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the Caribbean Sea surrounding the archipelago"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace and the islands' historical ties to the Anglo-Caribbean"
+    }
+  ],
+  "description": "A light blue field with a white saltire from corner to corner.",
+  "history": "The Archipelago of San Andres, Providencia and Santa Catalina is Colombia's only insular department, lying in the western Caribbean. Its flag, with a white saltire on light blue, evokes both the surrounding sea and the islands' English-speaking Raizal heritage.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Archipelago_of_San_Andr%C3%A9s,_Providencia_and_Santa_Catalina"
+  ],
+  "features": [
+    {
+      "type": "saltire",
+      "field": "light-blue",
+      "saltire": "white",
+      "symbolism": "light blue for the Caribbean Sea and white for the saltire emblem of the islands' Anglo-Caribbean heritage"
+    }
   ]
 }

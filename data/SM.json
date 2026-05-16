@@ -1,8 +1,69 @@
 {
   "id": "SM",
-  "title": "San Marino",
-  "iso": "SM",
+  "name": "San Marino",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "SM",
+    "iso_3166_1_alpha3": "SMR",
+    "fifa": "SMR",
+    "ioc": "SMR",
+    "wikidata": "Q238"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "3:4",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the snow on the peaks of Monte Titano and the peace of the republic"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the sky over San Marino and the liberty of the world's oldest surviving republic"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "from the gold (or) of the towers, crown, oak and laurel of the coat of arms"
+    },
+    {
+      "color": "green",
+      "symbolism": "from the green peaks of Monte Titano and the laurel branch of the wreath"
+    }
+  ],
+  "description": "Two equal horizontal stripes — white over light blue — with the coat of arms (the three towers of Monte Titano on a blue shield within a wreath of oak and laurel, surmounted by a crown, with the motto LIBERTAS) at the centre.",
+  "history": "Adopted on 6 April 1862, when the original simple white-and-blue bicolour was augmented with the coat of arms following changes to San Marino's constitutional structure under the Kingdom of Italy's recognition. White and blue have been the colours of San Marino since the late 18th century. The current variant of the coat of arms (with the closed crown and modernised tower outlines) was specified by Law n. 1 of 22 July 2011.",
+  "variant": [
+    "state",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "2011-07-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_San_Marino"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "light-blue"
+      ],
+      "count": 2,
+      "symbolism": "white for the snow on Monte Titano and the peace of the republic; light blue for the sky and liberty"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Coat of arms of San Marino",
+      "symbolism": "a blue shield with the three towers of San Marino (Guaita, Cesta and Montale) on three peaks of Monte Titano, each tower topped by a silver feather; surmounted by a closed crown (symbolising sovereignty) and surrounded by a wreath of laurel (victory) and oak (stability), with the motto 'LIBERTAS' on a white scroll below"
+    }
   ]
 }

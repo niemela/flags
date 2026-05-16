@@ -1,8 +1,88 @@
 {
   "id": "AU-SA",
-  "title": "South Australia (Australia)",
-  "iso": "AU-SA",
+  "name": "South Australia (Australia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AU",
+  "codes": {
+    "iso_3166_2": "AU-SA",
+    "wikidata": "Q35715"
+  },
+  "region": [
+    "Oceania",
+    "Australia and New Zealand",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field of the British Blue Ensign"
+    },
+    {
+      "color": "white",
+      "symbolism": "the markings of the piping shrike, also in the Union Jack"
+    },
+    {
+      "color": "red",
+      "symbolism": "the crosses of the Union Jack"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold disc bearing the state badge and the rays behind the shrike"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the gum-tree branch on which the shrike stands"
+    },
+    {
+      "color": "black",
+      "symbolism": "the body of the piping shrike"
+    }
+  ],
+  "description": "A blue British ensign with the Union Jack in the canton and a yellow disc in the fly bearing the state badge: a piping shrike with wings outstretched on a gum-tree branch.",
+  "history": "Adopted on 14 January 1904. The badge — a white-backed magpie on a gum-tree branch with rising-sun rays behind — was designed by Robert Craig of the Adelaide School of Arts.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1904-01-14"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_South_Australia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "Based on the British Blue Ensign, the standard format for Australian state flags."
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Jack, signifying historic ties to the United Kingdom"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "yellow",
+      "position": "center-fly",
+      "role": "yellow disc bearing the state badge",
+      "symbolism": "the gold disc serves as the field for the state badge"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "black",
+      "position": "center-fly",
+      "role": "piping shrike (white-backed magpie) with wings outstretched, perched on a gum-tree branch",
+      "symbolism": "the piping shrike (Cracticus tibicen), associated with South Australia"
+    }
   ]
 }

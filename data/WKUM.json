@@ -1,5 +1,71 @@
 {
   "id": "WKUM",
-  "title": "Wake Island",
-  "iso": "WKUM"
+  "name": "Wake Island (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_3": "WKUM",
+    "wikidata": "Q131005"
+  },
+  "region": [
+    "Oceania",
+    "Micronesia",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the upper field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lower field, recalling the bloodshed of the 1941 Battle of Wake Island"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the hoist wedge, recalling the surrounding Pacific Ocean and the territory's American sovereignty"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central disc and three stars"
+    }
+  ],
+  "description": "A field divided diagonally between white above and red below, with a wedge-shaped blue panel along the hoist. A large golden disc is centred on the field with the words 'WAKE ISLANDS' arranged around it; three small golden five-pointed stars stand on the blue hoist wedge.",
+  "history": "Wake Island is an unincorporated US territory administered by the US Air Force; it has no formally adopted flag. This unofficial flag, designed to evoke the atoll's three islets and its place in American Pacific history (notably the 1941 Battle of Wake Island), has been flown locally. The ISO 3166-3 code WKUM records the territory's former ISO 3166-1 alpha-2 code 'WK' (1974-1986), withdrawn when the atoll was merged into the broader 'UM' (United States Minor Outlying Islands) entry.",
+  "status": "de-facto",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wake_Island"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "A field divided diagonally between white above and red below, with a blue wedge along the hoist."
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "central golden disc",
+      "symbolism": "the sun rising over the Pacific"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "yellow",
+      "arrangement": "scattered",
+      "role": "three golden stars on the hoist wedge",
+      "symbolism": "the three islets of the Wake atoll: Wake, Wilkes, and Peale"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "the legend 'WAKE ISLANDS' encircling the central disc, with letters spaced around the sun"
+    }
+  ]
 }

@@ -1,8 +1,62 @@
 {
   "id": "IM",
-  "title": "Isle of Man",
-  "iso": "IM",
+  "name": "Isle of Man",
   "type": [
-    "subdivision"
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "iso_3166_1_alpha2": "IM",
+    "iso_3166_1_alpha3": "IMN",
+    "wikidata": "Q9676"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the gules field of the medieval arms of Mann"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gilt spurs and armour of the triskelion"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver of the armoured legs"
+    }
+  ],
+  "description": "A red field charged in the centre with the Triskelion of Mann: three armoured human legs in silver, with gold spurs and gold detail at the joints, conjoined at the thigh at a central boss and arranged so that the legs run clockwise (when the obverse is shown with the hoist to the left).",
+  "history": "The triskelion has been the symbol of the Isle of Man since at least the 13th century, appearing on the Manx Sword of State (c. 1300) and on coinage of the Lords of Mann. The current red flag with the central triskelion was officially adopted on 1 December 1932, replacing earlier civil and state flags; the proportions and design were refined in 1968 when the spurs were specified to point backwards.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1932-12-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Isle_of_Man"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the historic gules field of the arms of the Kingdom of Mann and the Isles"
+    },
+    {
+      "type": "human-figure",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Triskelion of Mann (ny tree cassyn — 'the three legs')",
+      "symbolism": "three armoured legs in white plate-mail with gold spurs, conjoined at the thigh and bent at the knee, arranged so as to run clockwise; the motto associated with the badge is 'Quocunque Jeceris Stabit' ('Whichever way you throw it, it will stand'). The badge has been associated with Mann since at least the 13th century and probably derives from the Sicilian trinacria via the Hohenstaufen dynasty, although Manx tradition links it to older Celtic and Norse symbolism"
+    }
   ]
 }

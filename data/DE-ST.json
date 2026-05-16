@@ -1,8 +1,71 @@
 {
   "id": "DE-ST",
-  "title": "Saxony-Anhalt (Germany)",
-  "iso": "DE-ST",
+  "name": "Saxony-Anhalt (Germany)",
   "type": [
     "subdivision"
+  ],
+  "parent": "DE",
+  "codes": {
+    "iso_3166_2": "DE-ST",
+    "wikidata": "Q1206"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "from the historic colours of Anhalt and Prussian Saxony"
+    },
+    {
+      "color": "black",
+      "symbolism": "from the historic colours of Anhalt and Prussian Saxony"
+    },
+    {
+      "color": "red",
+      "symbolism": "details of the coat of arms (the Brandenburg eagle and the Anhalt bear's collar)"
+    },
+    {
+      "color": "green",
+      "symbolism": "the wall on which the Ascanian bear stands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the field of the Wittenberg quarter and details"
+    }
+  ],
+  "description": "Two equal horizontal stripes of yellow over black with the state coat of arms charged on the centre.",
+  "history": "The yellow-and-black bicolour was adopted in 1991 as the civil flag of the re-established Land of Saxony-Anhalt after German reunification, drawing on the historic colours of Anhalt and Prussian Saxony. The state flag bears the coat of arms in the centre. A revised version of the design was promulgated in 2017.",
+  "variant": [
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2017"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Saxony-Anhalt"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "black"
+      ],
+      "count": 2,
+      "symbolism": "Yellow and black combine the historic colours of the Duchy of Anhalt and the Prussian Province of Saxony, the two main components of the modern Land."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Saxony-Anhalt state coat of arms",
+      "symbolism": "The shield combines the black-and-gold barry with green crancelin (rue crown) of the Duchy of Saxony, the Brandenburg eagle, and the crowned Ascanian bear of Anhalt; together they represent the principal historic territories united in modern Saxony-Anhalt."
+    }
   ]
 }

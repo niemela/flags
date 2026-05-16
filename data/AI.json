@@ -1,8 +1,78 @@
 {
   "id": "AI",
-  "title": "Anguilla",
-  "iso": "AI",
+  "name": "Anguilla (United Kingdom)",
   "type": [
     "subdivision"
+  ],
+  "parent": "GB",
+  "codes": {
+    "iso_3166_1_alpha2": "AI",
+    "iso_3166_1_alpha3": "AIA",
+    "fifa": "AIA",
+    "wikidata": "Q25228"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the field of the British Blue Ensign"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltire and cross of the Union Flag canton; the upper section of the shield bearing the dolphins; peace and tranquillity"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross of St George and saltire of St Patrick in the Union Flag canton"
+    },
+    {
+      "color": "orange",
+      "symbolism": "the three dolphins in the shield, signifying endurance, unity and strength"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the sea around the islands depicted in the lower part of the shield"
+    }
+  ],
+  "description": "A British Blue Ensign — navy field with the Union Flag in the upper-hoist canton — defaced in the fly with the coat of arms of Anguilla: a shield with three interlocking orange dolphins on a white field above a light-blue sea.",
+  "history": "Adopted on 30 May 1990. The defaced Blue Ensign uses the territorial coat of arms granted in 1990 (replacing an earlier 'Anguilla flag' of three dolphins on white over light-blue, used unofficially since the 1967 Anguillan Revolution). The dolphin design itself was adopted by the breakaway Republic of Anguilla in 1967 and remained in popular use after the territory returned to British administration.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1990-05-30"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Anguilla"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy",
+      "symbolism": "the field of the British Blue Ensign, denoting Anguilla's status as a British Overseas Territory"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "role": "Union Flag",
+      "symbolism": "Anguilla's status as a British Overseas Territory"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "fly",
+      "role": "coat of arms of Anguilla",
+      "symbolism": "a shield divided horizontally — three orange dolphins arranged in a circle on a white upper field representing endurance, unity and strength, above a light-blue base representing the sea"
+    }
   ]
 }

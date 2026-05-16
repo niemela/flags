@@ -1,8 +1,81 @@
 {
   "id": "CA-BC",
-  "title": "British Columbia (Canada)",
-  "iso": "CA-BC",
+  "name": "British Columbia (Canada)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CA",
+  "codes": {
+    "iso_3166_2": "CA-BC",
+    "wikidata": "Q1974"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the Pacific Ocean on which the province lies"
+    },
+    {
+      "color": "white",
+      "symbolism": "the wavy stripes, also the Union Jack"
+    },
+    {
+      "color": "red",
+      "symbolism": "the Union Jack"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the setting sun and the imperial crown"
+    }
+  ],
+  "description": "Banner of arms: the upper half displays a Union Jack defaced with a gold antique crown in the centre; the lower half shows a half-sun setting over four wavy blue stripes alternating with three white stripes, representing the Pacific Ocean.",
+  "history": "Adopted on 27 June 1960, the design is a banner of the provincial coat of arms granted by King Edward VII in 1906 (with the crown added later). The Union Jack and crown reflect British heritage; the sun and waves represent the province's Pacific location and its status as Canada's westernmost province.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1960-06-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_British_Columbia"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "A banner of the provincial shield: the Union Jack defaced with a crown in the upper half, and a setting sun on wavy stripes in the lower half."
+    },
+    {
+      "type": "embedded-flag",
+      "embedded_flag_id": "GB",
+      "position": "top",
+      "role": "Union Jack across the upper half",
+      "symbolism": "British Columbia's status as a former British colony and its heritage within the United Kingdom"
+    },
+    {
+      "type": "crown",
+      "count": 1,
+      "color": "yellow",
+      "position": "top",
+      "role": "antique gold crown centred over the Union Jack",
+      "symbolism": "the British sovereign and the province's monarchical heritage"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 16,
+      "color": "yellow",
+      "position": "bottom",
+      "role": "half-sun setting over wavy blue and white stripes",
+      "symbolism": "the setting sun symbolises British Columbia's location at the western edge of the country, where the sun sets on Canada"
+    }
   ]
 }

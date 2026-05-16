@@ -1,8 +1,63 @@
 {
   "id": "GG",
-  "title": "Guernsey",
-  "iso": "GG",
+  "name": "Guernsey",
   "type": [
-    "subdivision"
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "iso_3166_1_alpha2": "GG",
+    "iso_3166_1_alpha3": "GGY",
+    "wikidata": "Q3311985"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field of Saint George's Cross"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross of Saint George"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the Norman cross attributed to William the Conqueror, recalling Guernsey's origin as part of the Duchy of Normandy"
+    }
+  ],
+  "description": "A white field bearing the red Cross of Saint George, with a smaller gold Norman cross (the Cross of William the Conqueror) superimposed on the centre.",
+  "history": "Adopted on 30 April 1985 (effective 15 February 1985 by Royal Warrant) to give Guernsey a distinctive flag, after the previous use of the plain Saint George's Cross had caused confusion with English participants at international events. The gold cross was added on the recommendation of the Reverend John Warren, who proposed using the cross attributed to William the Conqueror at Hastings.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1985-02-15"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Guernsey"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "white",
+      "cross": "red",
+      "symbolism": "the cross of Saint George, reflecting Guernsey's allegiance to the English Crown as a Crown Dependency"
+    },
+    {
+      "type": "greek-cross",
+      "color": "gold",
+      "position": "center",
+      "role": "Cross of William the Conqueror (Norman cross)",
+      "symbolism": "the gold cross said to have been carried by William the Conqueror at the Battle of Hastings (1066), recalling that Guernsey is the last remnant of the Duchy of Normandy still held by the English Crown"
+    }
   ]
 }

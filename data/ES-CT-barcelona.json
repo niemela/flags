@@ -1,7 +1,75 @@
 {
   "id": "ES-CT-barcelona",
-  "title": "Barcelona (Spain)",
+  "name": "Barcelona (Spain)",
   "type": [
     "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q1492"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Iberian Peninsula",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field of the cross of Saint George, patron of Barcelona and of Catalonia"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross of Saint George and the four palles of the Senyera"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold field of the Senyera, recalling the Crown of Aragon"
+    }
+  ],
+  "description": "A flag quartered in cross: the upper-hoist and lower-fly quarters bear a red Saint George's cross on white, while the upper-fly and lower-hoist quarters bear four red horizontal bars on yellow (the Senyera).",
+  "history": "Adopted in its current form by the Barcelona City Council in 1906, formalising a long-standing combination of two emblems: the cross of Saint George (used by the city since the medieval period) and the four red bars on gold of the Crown of Aragon. The flag was officially regulated and registered in 2004.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1906"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Barcelona",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Barcelona"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "white",
+        "yellow",
+        "yellow",
+        "white"
+      ],
+      "symbolism": "The quartered field combines the cross of Saint George — patron saint of Barcelona and of Catalonia — with the red-and-yellow palles of the Senyera, the historic flag of the Crown of Aragon and of Catalonia."
+    },
+    {
+      "type": "greek-cross",
+      "count": 2,
+      "color": "red",
+      "position": "center",
+      "role": "Saint George's cross in the upper-hoist and lower-fly quarters",
+      "symbolism": "The red cross on white, emblem of Saint George (Sant Jordi), patron saint of the city"
+    },
+    {
+      "type": "horizontal-stripes",
+      "count": 8,
+      "color": "red",
+      "position": "center",
+      "role": "Four red palles on yellow in the upper-fly and lower-hoist quarters",
+      "symbolism": "The four red bars on gold of the Senyera, the historic arms of the Counts of Barcelona and the Crown of Aragon, by tradition said to have been drawn in blood by King Charles the Bald on Wilfred the Hairy's golden shield."
+    }
   ]
 }

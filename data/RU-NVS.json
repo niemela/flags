@@ -1,8 +1,85 @@
 {
   "id": "RU-NVS",
-  "title": "Novosibirsk Oblast (Russia)",
-  "iso": "RU-NVS",
+  "name": "Novosibirsk Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-NVS",
+    "wikidata": "Q5851"
+  },
+  "region": [
+    "Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "courage and the heroism of the people of Novosibirsk"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity, devotion and the Siberian winter"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the Ob River and the many rivers and lakes of the region"
+    },
+    {
+      "color": "green",
+      "symbolism": "hope, abundance and the natural wealth of the land"
+    },
+    {
+      "color": "black",
+      "symbolism": "the sable, a Siberian heraldic animal"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bread and salt of Russian hospitality"
+    }
+  ],
+  "description": "Five vertical stripes of red, white, blue, white and green; in the centre, two black sables hold up a golden round loaf of bread crowned with a salt cellar.",
+  "history": "Adopted on 29 July 2003 by the Novosibirsk Oblast Council of Deputies; the design was confirmed by a 2007 oblast law on state symbols.",
+  "periods": [
+    {
+      "start": "2003-07-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Novosibirsk_Oblast",
+    "https://en.wikipedia.org/wiki/Novosibirsk_Oblast"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue",
+        "white",
+        "green"
+      ],
+      "count": 5,
+      "symbolism": "red recalls the courage and memory of the people of Novosibirsk; white the purity and the Siberian winter; blue the Ob River and the lakes; green the abundance of the Siberian land."
+    },
+    {
+      "type": "animal-other",
+      "count": 2,
+      "color": "black",
+      "position": "center",
+      "role": "supporting sables",
+      "symbolism": "two black sables, the heraldic animals of Siberia, holding aloft a loaf of bread and salt — the traditional Russian symbol of hospitality."
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "korovai loaf with salt cellar",
+      "symbolism": "a golden korovai (round loaf) topped with a salt shaker, symbolising hospitality and the abundance of the Siberian land."
+    }
   ]
 }

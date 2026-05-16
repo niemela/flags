@@ -1,8 +1,66 @@
 {
   "id": "US-SC",
-  "title": "South Carolina (United States)",
-  "iso": "US-SC",
+  "name": "South Carolina (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-SC",
+    "fips_state": "45",
+    "wikidata": "Q1456"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the color of the colonial uniforms of the South Carolina militia during the Revolutionary War"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver crescent worn on the front of the militiamen's caps"
+    }
+  ],
+  "description": "An indigo-blue field with a white sabal palmetto tree in the center and a white crescent in the upper-hoist quarter.",
+  "history": "South Carolina's flag descends from the banner devised in 1775 by Colonel William Moultrie at the request of the Revolutionary Council of Safety: a blue field bearing a white crescent, after the silver crescent on the militiamen's caps. Moultrie's flag flew at Fort Sullivan during its successful defense against the British fleet on 28 June 1776 — a victory credited to the spongy palmetto logs of the fort's walls. The palmetto was added to the design in January 1861 to commemorate the battle, producing the current flag.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1861-01-26"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_South_Carolina"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the indigo blue of the uniforms of the South Carolina militia during the Revolutionary War"
+    },
+    {
+      "type": "crescent",
+      "count": 1,
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "a white crescent in the upper-hoist quarter, points opening to the upper fly",
+      "symbolism": "represents the silver gorget or cap-badge worn by the troops of Colonel William Moultrie at Fort Sullivan in June 1776"
+    },
+    {
+      "type": "palm",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "a white sabal palmetto tree at the center",
+      "symbolism": "the palmetto logs of Fort Sullivan absorbed British cannonballs during the 28 June 1776 battle, allowing the colonial defenders to repel the Royal Navy"
+    }
   ]
 }

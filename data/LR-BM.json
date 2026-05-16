@@ -1,8 +1,78 @@
 {
   "id": "LR-BM",
-  "title": "Bomi (Liberia)",
-  "iso": "LR-BM",
+  "name": "Bomi County (Liberia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "LR",
+  "codes": {
+    "iso_3166_2": "LR-BM"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "purple"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Purple field with the Liberian national flag as a canton in the upper hoist, a large pale-blue disc in the fly half representing the sun, and a brown mountain landscape across the lower fly representing the Bomi iron-ore hills.",
+  "history": "Presented by President William V. S. Tubman on 29 November 1965 together with the flags of the other Liberian counties.",
+  "periods": [
+    {
+      "start": "1965-11-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bomi_County",
+    "https://en.wikipedia.org/wiki/Flags_of_the_counties_of_Liberia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "purple"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "LR",
+      "proportion": "1/4",
+      "role": "the union",
+      "symbolism": "Bomi as part of the Republic of Liberia"
+    },
+    {
+      "type": "disc",
+      "color": "light-blue",
+      "position": "center-fly",
+      "role": "sun / sky",
+      "symbolism": "the dawn of progress over Bomi County"
+    },
+    {
+      "type": "mountain",
+      "color": "brown",
+      "position": "lower-fly",
+      "role": "iron-ore hills",
+      "symbolism": "the Bomi Hills, source of the iron ore that historically anchored the county's economy"
+    }
   ]
 }

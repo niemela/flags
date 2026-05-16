@@ -1,8 +1,85 @@
 {
   "id": "AU-WA",
-  "title": "Western Australia (Australia)",
-  "iso": "AU-WA",
+  "name": "Western Australia (Australia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AU",
+  "codes": {
+    "iso_3166_2": "AU-WA",
+    "wikidata": "Q3206"
+  },
+  "region": [
+    "Oceania",
+    "Australia and New Zealand",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field of the British Blue Ensign"
+    },
+    {
+      "color": "white",
+      "symbolism": "elements of the Union Jack"
+    },
+    {
+      "color": "red",
+      "symbolism": "the crosses of the Union Jack"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold disc bearing the state badge"
+    },
+    {
+      "color": "black",
+      "symbolism": "the native black swan, the state emblem"
+    }
+  ],
+  "description": "A blue British ensign with the Union Jack in the canton and a yellow disc in the fly bearing a black swan swimming towards the hoist.",
+  "history": "Adopted in 1870 with the swan facing the fly; reversed in 1953 so the swan faces the hoist (in line with vexillological convention that animate charges face away from the fly). The black swan was the symbol of the Swan River Colony from its founding.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1953-11-03"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Western_Australia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "Based on the British Blue Ensign, the standard format for Australian state flags."
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Jack, signifying historic ties to the United Kingdom"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "yellow",
+      "position": "center-fly",
+      "role": "yellow disc bearing the black swan",
+      "symbolism": "the gold disc serves as the field for the state badge"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "black",
+      "position": "center-fly",
+      "mirrored": true,
+      "role": "black swan swimming towards the hoist",
+      "symbolism": "the native black swan (Cygnus atratus), state emblem of Western Australia"
+    }
   ]
 }

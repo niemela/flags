@@ -1,8 +1,46 @@
 {
   "id": "GB-ENG",
-  "title": "England (United Kingdom)",
-  "iso": "GB-ENG",
+  "name": "England (United Kingdom)",
   "type": [
     "subdivision"
+  ],
+  "parent": "GB",
+  "codes": {
+    "iso_3166_2": "GB-ENG",
+    "wikidata": "Q21"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "field of the Cross of Saint George"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross of Saint George, patron of England"
+    }
+  ],
+  "description": "A white field with a centred red Greek cross extending to the edges (the Cross of Saint George).",
+  "history": "The Cross of Saint George has been associated with England since the Late Middle Ages and was adopted as the national flag of England in the 13th century; it became the flag of the Kingdom of England under Edward III. After the union of the crowns in 1606 and the political union with Scotland in 1707, it was incorporated into the Union Jack but remained in use as the flag of England as a constituent country.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_England"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "white",
+      "cross": "red",
+      "symbolism": "St George's Cross, the patron saint of England since the late Middle Ages."
+    }
   ]
 }

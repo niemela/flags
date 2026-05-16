@@ -1,8 +1,76 @@
 {
   "id": "IQ",
-  "title": "Iraq",
-  "iso": "IQ",
+  "name": "Iraq",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "IQ",
+    "iso_3166_1_alpha3": "IRQ",
+    "fifa": "IRQ",
+    "ioc": "IRQ",
+    "wikidata": "Q796"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "MENA",
+    "Arab World"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "courage and the bloodshed of those who fought for the country"
+    },
+    {
+      "color": "white",
+      "symbolism": "generosity and the brightness of the future"
+    },
+    {
+      "color": "black",
+      "symbolism": "Islam, and historically the Abbasid Caliphate centred on Baghdad"
+    },
+    {
+      "color": "green",
+      "symbolism": "Islam; the colour of the takbir inscription"
+    }
+  ],
+  "description": "Three equal horizontal stripes — red over white over black — with the takbir 'Allahu Akbar' in green Kufic script centred on the white stripe.",
+  "history": "Iraq has used a red-white-black tricolour since the 14 July 1958 revolution that overthrew the monarchy. The takbir was added in green by Saddam Hussein on 13 January 1991, on the eve of the Gulf War; until 2004 it was rendered in his own handwriting, then changed to Kufic script as part of de-Ba'athification. Three green stars representing the planned Egypt-Syria-Iraq union of the United Arab Republic, originally between the words of the takbir, were removed by the Council of Representatives on 22 January 2008. Further flag redesigns have been proposed but not adopted.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "2008-01-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Iraq"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "black"
+      ],
+      "count": 3,
+      "symbolism": "the Pan-Arab colours of the Arab Liberation Flag (1952), shared with the flags of Egypt, Syria, and Yemen; red for courage, white for generosity, black for Islam and the Abbasid Caliphate"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "green",
+      "position": "center",
+      "role": "takbir (Allahu Akbar) in Kufic script",
+      "symbolism": "the takbir 'Allahu Akbar' ('God is the Greatest') in green Kufic script across the central white stripe; first added to the Iraqi flag in 1991 in Saddam Hussein's own handwriting, replaced in 2008 with this Kufic-style rendering"
+    }
   ]
 }

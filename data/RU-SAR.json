@@ -1,8 +1,72 @@
 {
   "id": "RU-SAR",
-  "title": "Saratov Oblast (Russia)",
-  "iso": "RU-SAR",
+  "name": "Saratov Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-SAR",
+    "wikidata": "Q5334"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "purity and nobility"
+    },
+    {
+      "color": "red",
+      "symbolism": "courage and the historical fields and harvests of the Saratov region"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the Volga River"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "wealth and the wheat-growing tradition (in the coat of arms)"
+    }
+  ],
+  "description": "A horizontal triband of white, red and blue with a broad central red stripe; the coat of arms of Saratov Oblast (three silver sterlets on a blue shield) is centred on the red stripe.",
+  "history": "The current flag of Saratov Oblast was adopted on 5 September 1996 and amended later. The arms recall the historical Saratov Governorate and the Volga's importance for the region's fisheries.",
+  "periods": [
+    {
+      "start": "1996-09-05"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Saratov_Oblast",
+    "https://en.wikipedia.org/wiki/Saratov_Oblast"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        4,
+        1
+      ],
+      "symbolism": "a white-red-blue arrangement with a broad central red field on which the regional coat of arms is placed."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "arms of Saratov Oblast",
+      "symbolism": "three sterlets (sturgeon-family fish) on an azure shield, the historical arms of Saratov Governorate."
+    }
   ]
 }

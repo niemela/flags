@@ -1,7 +1,68 @@
 {
   "id": "US-AR-little-rock",
-  "title": "Little Rock, AR (United States)",
+  "name": "Little Rock (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-AR",
+  "codes": {
+    "wikidata": "Q33405"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central cross"
+    },
+    {
+      "color": "green",
+      "symbolism": "fimbriation around the cross, evoking Arkansas's woodlands"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the central depiction of the Arkansas River"
+    },
+    {
+      "color": "navy",
+      "symbolism": "darker accents in the central device"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "lighter accents in the river device"
+    }
+  ],
+  "description": "A white field bearing a yellow Greek cross with green fimbriation, charged at the centre with a stylised blue depiction of the Arkansas River.",
+  "history": "Little Rock takes its name from the small rock outcropping on the south bank of the Arkansas River first noted by French explorer Bernard de la Harpe in 1722; the river — and the rock — sit at the centre of the city's flag.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Little_Rock,_Arkansas"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "white",
+      "cross": "yellow",
+      "fimbriation": {
+        "color": "green",
+        "around": "cross"
+      },
+      "symbolism": "A yellow Greek cross on white, fimbriated in green, frames a central device of the Arkansas River."
+    },
+    {
+      "type": "wave",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "stylised Arkansas River at the centre",
+      "symbolism": "A flowing blue device at the heart of the cross represents the Arkansas River, on whose south bank sits the small outcropping known as 'la Petite Roche' from which the city takes its name."
+    }
   ]
 }

@@ -1,8 +1,47 @@
 {
   "id": "CO-CAU",
-  "title": "Cauca (Colombia)",
-  "iso": "CO-CAU",
+  "name": "Cauca (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-CAU",
+    "wikidata": "Q121293"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the fertile lands, mountains and forests of Cauca"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold and other mineral wealth of the department"
+    }
+  ],
+  "description": "Three equal horizontal stripes of green, yellow, and green.",
+  "history": "Cauca is one of Colombia's oldest departments, created in 1857 from the Confederation of Granada. The yellow-and-green flag recalls the gold mines of the Cauca valley and the green of its highland landscape.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cauca_Department",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Cauca.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "green"
+      ],
+      "count": 3,
+      "symbolism": "green for the fertility of Cauca's mountains and valleys; yellow for its mineral wealth, especially gold"
+    }
   ]
 }

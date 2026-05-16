@@ -1,8 +1,49 @@
 {
   "id": "FI-18",
-  "title": "Uusimaa (Finland)",
-  "iso": "FI-18",
+  "name": "Uusimaa (Finland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FI",
+  "codes": {
+    "iso_3166_2": "FI-18",
+    "wikidata": "Q5793"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the azure field of the historic Uusimaa arms, evoking the Gulf of Finland and southern coastal waters"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver charges of the arms"
+    }
+  ],
+  "description": "A square blue flag bearing six silver heraldic figures arranged in a 2x3 grid, the heraldic banner of the Uusimaa coat of arms.",
+  "history": "Uusimaa became a region under Finland's 1997 administrative reform; its banner is the heraldic flag of the regional coat of arms, derived from the historic arms of the Uusimaa province on Finland's southern coast.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Uusimaa",
+    "https://fi.wikipedia.org/wiki/Uudenmaan_lippu"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 6,
+      "color": "white",
+      "position": "center",
+      "role": "wave-like charges of Uusimaa",
+      "symbolism": "six silver wave-like figures arranged in a 2x3 grid on the blue field, derived from the historic provincial arms of Uusimaa and referring to the maritime character of Finland's southern coast."
+    }
   ]
 }

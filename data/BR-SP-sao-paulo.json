@@ -1,7 +1,73 @@
 {
   "id": "BR-SP-sao-paulo",
-  "title": "São Paulo, SP (Brazil)",
+  "name": "Sao Paulo (Brazil)",
   "type": [
     "city"
+  ],
+  "parent": "BR-SP",
+  "codes": {
+    "wikidata": "Q174"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Latin America and the Caribbean",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the night, recalling the bandeirantes who marched by night to surprise their enemies"
+    },
+    {
+      "color": "white",
+      "symbolism": "the day, peace, and the colour shared with the bandeirantes' standard"
+    },
+    {
+      "color": "red",
+      "symbolism": "appearing on the central canton and coat of arms"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the wealth of the city, in the central canton's cross and arms ornamentation"
+    }
+  ],
+  "description": "Thirteen horizontal stripes alternating black and white, charged at the centre with a white square bearing a red cross and the coat of arms of the city of Sao Paulo.",
+  "history": "Designed by the modernist artist and writer Guilherme de Almeida and adopted as the flag of the City of Sao Paulo on 8 July 1936, replacing earlier versions. The black-and-white stripes are taken from the historic flag of the bandeirantes; the same colours later inspired the flag of the State of Sao Paulo.",
+  "periods": [
+    {
+      "start": "1936-07-08"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_S%C3%A3o_Paulo_(city)",
+    "https://pt.wikipedia.org/wiki/Bandeira_da_cidade_de_S%C3%A3o_Paulo"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "white"
+      ],
+      "count": 13,
+      "symbolism": "Black and white were the colours of the flag carried by the bandeirantes, the 17th-century Sao Paulo expeditions that explored and expanded the interior of Brazil."
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "position": "center",
+      "role": "central white square charged with a red cross and the city's coat of arms",
+      "symbolism": "The white square at the centre bears a red Cross of the Order of Christ and the municipal coat of arms, and is surrounded by four quarter-arcs evoking the Portuguese coat of arms."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Coat of arms of the City of Sao Paulo",
+      "symbolism": "Bears a red shield charged with a gold escutcheon, surmounted by a mural crown; commemorates the city's foundation in 1554 by Jesuit missionaries."
+    }
   ]
 }

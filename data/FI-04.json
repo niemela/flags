@@ -1,8 +1,48 @@
 {
   "id": "FI-04",
-  "title": "Etelä-Savo (Finland)",
-  "iso": "FI-04",
+  "name": "South Savonia (Finland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FI",
+  "codes": {
+    "iso_3166_2": "FI-04",
+    "wikidata": "Q5779"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the sable field of the historic Savonian arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden charges of the arms"
+    }
+  ],
+  "description": "A square black flag charged with the gold provincial arms of Savonia: a crowned arm drawing a curved bow above the black field.",
+  "history": "South Savonia (Etelä-Savo) is one of the regions formed in Finland's 1997 administrative reform. Its banner is the heraldic flag of the regional coat of arms, derived from the historic arms of the Savo province.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/South_Savo",
+    "https://fi.wikipedia.org/wiki/Etel%C3%A4-Savon_lippu"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "black"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "arms of Savonia",
+      "symbolism": "the historic provincial arms of Savonia: a curved bow with arrow held by an arm, surmounted by a crown, all in gold on a black field. The motif refers to Savonian hunters and the medieval frontier role of the region."
+    }
   ]
 }

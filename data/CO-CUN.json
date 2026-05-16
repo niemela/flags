@@ -1,8 +1,58 @@
 {
   "id": "CO-CUN",
-  "title": "Cundinamarca (Colombia)",
-  "iso": "CO-CUN",
+  "name": "Cundinamarca (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-CUN",
+    "wikidata": "Q121225"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the sky over the Cundinamarcan altiplano and the Bogota savannah"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold and natural wealth of the territory"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed by the patriots of Cundinamarca during the wars of independence"
+    }
+  ],
+  "description": "Three equal horizontal stripes of light blue, yellow, and red, with the coat of arms of Cundinamarca placed towards the hoist.",
+  "history": "Cundinamarca takes its name from the State of Cundinamarca proclaimed in 1811, one of the first revolutionary states in Spanish America. The flag's colours and arms preserve that early-republican heritage. The department surrounds the Capital District of Bogota.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cundinamarca_Department",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Cundinamarca_Department.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "the colours of the historic State of Cundinamarca during the early Republic, recalling its role as the cradle of independence"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center-hoist",
+      "role": "coat of arms of Cundinamarca",
+      "symbolism": "the department's coat of arms; Cundinamarca was one of the first sovereign states declared in 1811 and its arms recall that revolutionary heritage"
+    }
   ]
 }

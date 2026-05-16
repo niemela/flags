@@ -1,7 +1,46 @@
 {
   "id": "US-TX-waco",
-  "title": "Waco, TX (United States)",
+  "name": "Waco (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-TX",
+  "codes": {
+    "wikidata": "Q49266"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the depiction of the Waco Suspension Bridge"
+    }
+  ],
+  "description": "A red field bearing a stylised white silhouette of the Waco Suspension Bridge — its twin towers and cable spans rendered as the central device.",
+  "history": "Waco's municipal flag features the historic Waco Suspension Bridge across the Brazos River, the city's defining nineteenth-century landmark.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Waco,_Texas"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "building",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "stylised Waco Suspension Bridge",
+      "symbolism": "The Waco Suspension Bridge over the Brazos River, completed in 1870, is the city's most recognisable landmark; once the longest suspension bridge in Texas, it became the symbol Waco chose for its civic flag."
+    }
   ]
 }

@@ -1,8 +1,92 @@
 {
   "id": "AR-A",
-  "title": "Salta (Argentina)",
-  "iso": "AR-A",
+  "name": "Salta (Argentina)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AR",
+  "codes": {
+    "iso_3166_2": "AR-A",
+    "wikidata": "Q44083"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the federalist red of the gaucho poncho of Martin Miguel de Guemes"
+    },
+    {
+      "color": "black",
+      "symbolism": "mourning for Guemes, killed in 1821, and for the dead of the wars of independence"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the colours of the Argentine national flag"
+    },
+    {
+      "color": "white",
+      "symbolism": "the colours of the Argentine national flag"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the Sun of May"
+    }
+  ],
+  "description": "A red field with a narrow black horizontal stripe near the top and another near the bottom. In the centre, a light-blue and white oval bears the gold Sun of May, surrounded below by an arc of twenty-three small gold four-pointed stars.",
+  "history": "Created in 1996 by Carlos Mariano Aguero and adopted by provincial law on 24 April 1997. The design is based on the red poncho with black bands worn by the Infernales, the gaucho cavalry of General Martin Miguel de Guemes who defended the northern frontier against Spanish royalist incursions during the Argentine War of Independence; the black bands are also read as mourning for Guemes, who was mortally wounded in 1821.",
+  "periods": [
+    {
+      "start": "1997-04-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Salta_Province",
+    "https://es.wikipedia.org/wiki/Bandera_de_la_provincia_de_Salta"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "black",
+        "red",
+        "black",
+        "red"
+      ],
+      "count": 5,
+      "widths": [
+        1,
+        1,
+        7,
+        1,
+        1
+      ],
+      "symbolism": "the federalist colours of caudillo Martin Miguel de Guemes and his gaucho army; the red poncho with black bands worn by Guemes' Infernales is the basis of the design"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 32,
+      "color": "gold",
+      "position": "center",
+      "role": "Sun of May (Sol de Mayo)",
+      "symbolism": "shared with the national flag of Argentina; commemorates the May Revolution of 1810. Set on a light-blue and white oval recalling the national colours"
+    },
+    {
+      "type": "star",
+      "count": 23,
+      "points": 4,
+      "color": "gold",
+      "arrangement": "arc",
+      "position": "center",
+      "role": "twenty-three stars",
+      "symbolism": "the twenty-three provinces of Argentina"
+    }
   ]
 }

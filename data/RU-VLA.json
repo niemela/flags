@@ -1,8 +1,71 @@
 {
   "id": "RU-VLA",
-  "title": "Vladimir Oblast (Russia)",
-  "iso": "RU-VLA",
+  "name": "Vladimir Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-VLA",
+    "wikidata": "Q2702"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the historic colour of the Vladimir-Suzdal principality"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the rivers (Klyazma, Oka) and loyalty"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold lion of the regional arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver lily-cross held by the lion"
+    }
+  ],
+  "description": "A horizontal bicolour of red over a narrow blue stripe at the foot, with the gold crowned lion of Vladimir holding a silver long cross centred on the red field.",
+  "history": "The flag of Vladimir Oblast was adopted on 23 May 1999. The lion is one of the oldest dynastic emblems in Russian heraldry, used by the Vladimir-Suzdal principality from at least the 12th century.",
+  "periods": [
+    {
+      "start": "1999-05-23"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Vladimir_Oblast",
+    "https://en.wikipedia.org/wiki/Vladimir_Oblast"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        5,
+        1
+      ],
+      "symbolism": "a broad red field above a narrow blue stripe at the foot, recalling the colours of the historic Vladimir-Suzdal arms."
+    },
+    {
+      "type": "lion",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "Vladimir lion",
+      "symbolism": "a standing gold lion, crowned, holding a silver long cross, the historic arms of Vladimir-Suzdal dating to the 12th century."
+    }
   ]
 }

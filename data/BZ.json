@@ -1,8 +1,90 @@
 {
   "id": "BZ",
-  "title": "Belize",
-  "iso": "BZ",
+  "name": "Belize",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "BZ",
+    "iso_3166_1_alpha3": "BLZ",
+    "fifa": "BLZ",
+    "ioc": "BIZ",
+    "wikidata": "Q242"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Central America",
+    "Caribbean",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the People's United Party (PUP); historically the principal colour of the flag"
+    },
+    {
+      "color": "red",
+      "symbolism": "the United Democratic Party (UDP); added at independence to represent national unity across both major parties"
+    },
+    {
+      "color": "white",
+      "symbolism": "the disc surrounding the coat of arms"
+    },
+    {
+      "color": "green",
+      "symbolism": "the mahogany tree and forests in the coat of arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "elements of the coat of arms (axe, paddle, wreath)"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the two woodcutters in the coat of arms; the mahogany trunk"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlines and detail in the coat of arms"
+    }
+  ],
+  "description": "A royal-blue field with narrow red horizontal stripes along the top and bottom edges. Centred on the blue field is a large white disc bearing the national coat of arms: two woodcutters flanking a quartered shield beneath a mahogany tree, encircled by a wreath of fifty leaves and a Latin motto.",
+  "history": "Adopted on 21 September 1981 at midnight on independence from the United Kingdom. The design retains the blue-and-white emblem of the British Honduras / Belize colonial flag from the 1950s but adds the two narrow red bands so that both the People's United Party (blue) and the United Democratic Party (red) are represented. Belize's flag is unusual in being one of the few national flags to depict human figures.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1981-09-21"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Belize"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        8,
+        1
+      ],
+      "symbolism": "royal blue is the historic colour of the People's United Party that led Belize to independence; the red bands at top and bottom were added at independence to incorporate the colour associated with the United Democratic Party, signalling national unity"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "national coat of arms of Belize",
+      "symbolism": "two woodcutters — one mestizo, one of African descent — flank a shield quartered with woodcutting tools (a paddle and squaring axe; a saw and beating axe) and a sailing ship; above is a mahogany tree, and below the Latin motto SUB UMBRA FLOREO ('Under the shade I flourish') referring to the country's mahogany forests, around which is a wreath of fifty leaves marking 1950, the year the People's Committee began the campaign for self-rule"
+    }
   ]
 }

@@ -1,8 +1,57 @@
 {
   "id": "FI-13",
-  "title": "Pohjois-Karjala (Finland)",
-  "iso": "FI-13",
+  "name": "North Karelia (Finland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FI",
+  "codes": {
+    "iso_3166_2": "FI-13",
+    "wikidata": "Q5788"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "shape": "rectangular",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the gules field of the historic Karelian arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver charges of the arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden crowns of the arms"
+    },
+    {
+      "color": "blue",
+      "symbolism": "blue heraldic detail"
+    }
+  ],
+  "description": "A rectangular red flag charged centrally with the silver-and-gold provincial arms of Karelia: two crowned arms grasping a Western sword and an Eastern scimitar.",
+  "history": "North Karelia (Pohjois-Karjala) is one of the regions formed in Finland's 1997 administrative reform. Its banner is the heraldic flag of the regional coat of arms, drawn from the historic provincial arms of Karelia.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/North_Karelia",
+    "https://fi.wikipedia.org/wiki/Pohjois-Karjalan_lippu"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "arms of Karelia",
+      "symbolism": "two crowned arms grasping a sword and a scimitar that meet point-to-point on the red field, derived from the historic provincial arms of Karelia and symbolising the long contest between the Western and Eastern Christian spheres over the region."
+    }
   ]
 }

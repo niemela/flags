@@ -1,8 +1,65 @@
 {
   "id": "AL",
-  "title": "Albania",
-  "iso": "AL",
+  "name": "Albania",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "AL",
+    "iso_3166_1_alpha3": "ALB",
+    "fifa": "ALB",
+    "ioc": "ALB",
+    "wikidata": "Q222"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans"
+  ],
+  "aspect_ratio": "5:7",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the blood and bravery of the Albanian people; derived from the seal of the medieval Kastrioti family of Skanderbeg"
+    },
+    {
+      "color": "black",
+      "symbolism": "freedom and heroism; the colour of the Kastrioti eagle"
+    }
+  ],
+  "description": "A red field charged with a black double-headed eagle (a heraldic eagle displayed with two heads) at the centre.",
+  "history": "The black double-headed eagle on red has been associated with Albania since the 15th-century revolt of Skanderbeg, whose seal bore the bicephalous eagle. The flag was raised at Vlorë on 28 November 1912 by Ismail Qemali at the proclamation of Albanian independence. Variants over the 20th century added a star (kingdom 1928–1939, communist Albania 1946–1992 with a red star above the eagle); the present plain eagle-only design was readopted on 7 April 1992 with the fall of communism, and codified by Law No. 8926 of 22 July 2002.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1912-11-28",
+      "end": "1944"
+    },
+    {
+      "start": "1992-04-07"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Albania"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the bravery, strength and valour of the Albanian people"
+    },
+    {
+      "type": "eagle",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "Albanian double-headed eagle",
+      "symbolism": "derived from the seal of Gjergj Kastrioti (Skanderbeg), the 15th-century national hero who led Albanian resistance against the Ottomans; itself adapted from the Byzantine imperial eagle. The two heads represent the dual sovereignty of the Albanian state and people"
+    }
   ]
 }

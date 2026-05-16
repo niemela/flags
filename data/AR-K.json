@@ -1,8 +1,84 @@
 {
   "id": "AR-K",
-  "title": "Catamarca (Argentina)",
-  "iso": "AR-K",
+  "name": "Catamarca (Argentina)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AR",
+  "codes": {
+    "iso_3166_2": "AR-K",
+    "wikidata": "Q44464"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the Sun of May"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity; the central stripe of the Argentine national flag"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the colours of the Argentine flag"
+    },
+    {
+      "color": "red",
+      "symbolism": "the federalist red of caudillo Felipe Varela and the federal heritage of Catamarca"
+    },
+    {
+      "color": "green",
+      "symbolism": "the walnut tree (nogal), characteristic of Catamarca"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the trunk and branches of the walnut tree"
+    }
+  ],
+  "description": "A predominantly white field framed by a thin yellow border above and a wider red band below; an upper-hoist sky-blue canton occupies the inner left quadrant. Centred on the white field is a yellow Sun of May above a brown-and-green walnut branch.",
+  "history": "Adopted by provincial law 5251 on 25 November 2010 after a public competition won by Mario Manuel Brizuela. The colours combine the celestial blue and white of the Argentine national flag with the federalist red of Catamarcan caudillo Felipe Varela; the walnut branch represents the nogal, a tree closely associated with the cultural identity of Catamarca.",
+  "periods": [
+    {
+      "start": "2010-11-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Catamarca_Province",
+    "https://es.wikipedia.org/wiki/Bandera_de_la_provincia_de_Catamarca"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "the federalist colours of the province set within a frame recalling the Argentine national colours: a thin yellow border above and a red base below, a white field with an upper-hoist sky-blue canton, the whole charged with a Sun of May above a green walnut branch"
+    },
+    {
+      "type": "canton",
+      "color": "light-blue",
+      "proportion": "1/2 width, 1/2 height",
+      "symbolism": "the celestial blue of the Argentine national flag, recalling the province's place within the Argentine nation"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "Sun of May",
+      "symbolism": "shared with the national flag of Argentina; commemorates the May Revolution of 1810"
+    },
+    {
+      "type": "tree",
+      "count": 1,
+      "color": "brown",
+      "position": "center",
+      "role": "walnut branch (nogal)",
+      "symbolism": "the walnut tree of Catamarca, traditional source of fine wood and a strong cultural and economic symbol of the province"
+    }
   ]
 }

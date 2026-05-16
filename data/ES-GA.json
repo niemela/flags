@@ -1,8 +1,77 @@
 {
   "id": "ES-GA",
-  "title": "Galicia (Spain)",
-  "iso": "ES-GA",
+  "name": "Galicia (Spain)",
   "type": [
     "subdivision"
+  ],
+  "parent": "ES",
+  "codes": {
+    "iso_3166_2": "ES-GA",
+    "wikidata": "Q3908"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Iberian Peninsula",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the diagonal band, recalling the sea and the Galician sky"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the chalice and crosses on the coat of arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "the royal crown on the coat of arms"
+    }
+  ],
+  "description": "A white field crossed by a blue diagonal band running from the upper hoist to the lower fly, with the coat of arms of Galicia centred on the field.",
+  "history": "The plain blue-on-white diagonal originated in the 19th century as the maritime ensign of A Coruna and came to be used as a Galician national flag during the late 19th century; recognised by the 1981 Statute of Autonomy and regulated (with the addition of the coat of arms on the official version) by Law 5/1984.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1984"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Galicia"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "white"
+      ],
+      "count": 3,
+      "direction": "bend",
+      "widths": [
+        3,
+        1,
+        3
+      ],
+      "symbolism": "A white field crossed by a single blue diagonal band; the colours echo the maritime arms of the city of A Coruna."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "coat of arms of Galicia (a gold chalice surmounted by a Host on a blue field, surrounded by seven crosses, with a royal crown above)",
+      "symbolism": "The chalice and Host evoke the cult of the Holy Sacrament long associated with Galicia and the cathedral of Lugo; the seven crosses represent the seven historic provinces of the Kingdom of Galicia."
+    }
   ]
 }

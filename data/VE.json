@@ -1,8 +1,75 @@
 {
   "id": "VE",
-  "title": "Venezuela",
-  "iso": "VE",
+  "name": "Venezuela",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "VE",
+    "iso_3166_1_alpha3": "VEN",
+    "fifa": "VEN",
+    "ioc": "VEN",
+    "wikidata": "Q717"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the wealth and abundance of the Venezuelan land"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the courage and the seas separating Venezuela from Spain"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed by patriots in the struggle for independence"
+    },
+    {
+      "color": "white",
+      "symbolism": "the eight stars on the blue stripe representing the eight provinces that signed the act of independence"
+    }
+  ],
+  "description": "Three equal horizontal stripes — yellow, blue, red — with eight white five-pointed stars arranged in an arc centred on the blue stripe. The state and naval-ensign variants additionally bear the national coat of arms in the upper hoist of the yellow stripe.",
+  "history": "The yellow-blue-red tricolour was designed by Francisco de Miranda and first hoisted on 12 March 1806; seven white stars were added on the blue stripe by Simón Bolívar's decree of 20 November 1817 to commemorate the seven provinces that initially signed the 1811 Declaration of Independence. The eighth star, representing the province of Guayana, was added by the National Assembly on 9 March 2006 in line with Bolívar's original 1817 decree, and the proportions of the coat of arms in the state flag were modified at the same time.",
+  "variant": [
+    "civil",
+    "civil-ensign"
+  ],
+  "periods": [
+    {
+      "start": "2006-03-09"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Venezuela"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "the yellow-blue-red tricolour designed by Francisco de Miranda in 1806, shared with Colombia and Ecuador as a legacy of Gran Colombia; traditionally read as yellow for the wealth of the land, blue for the seas separating it from the colonial power, and red for the courage and blood shed for independence"
+    },
+    {
+      "type": "star",
+      "count": 8,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "arrangement": "arc",
+      "role": "eight stars on the blue stripe",
+      "symbolism": "the eight provinces that signed the 1811 Venezuelan Declaration of Independence (Caracas, Cumaná, Barcelona, Barinas, Margarita, Mérida, Trujillo, and — added in 2006 — Guayana, in fulfilment of Simón Bolívar's 1817 decree)"
+    }
   ]
 }

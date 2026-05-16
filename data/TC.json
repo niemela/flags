@@ -1,8 +1,81 @@
 {
   "id": "TC",
-  "title": "Turks and Caicos Islands",
-  "iso": "TC",
+  "name": "Turks and Caicos Islands (United Kingdom)",
   "type": [
     "subdivision"
+  ],
+  "parent": "GB",
+  "codes": {
+    "iso_3166_1_alpha2": "TC",
+    "iso_3166_1_alpha3": "TCA",
+    "wikidata": "Q18221"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the Blue Ensign — ties to the United Kingdom"
+    },
+    {
+      "color": "white",
+      "symbolism": "stripes within the Union Jack"
+    },
+    {
+      "color": "red",
+      "symbolism": "St George's and St Patrick's crosses within the Union Jack"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the territorial shield — the sun and the islands' beaches"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the conch shell within the shield"
+    },
+    {
+      "color": "green",
+      "symbolism": "the Turk's-head cactus, the namesake of the territory"
+    }
+  ],
+  "description": "A Blue Ensign — a blue field with the Union Jack in the upper-hoist canton and the territorial coat of arms, on a yellow shield, in the fly. The arms depict a conch shell, a spiny lobster, and a Turk's-head cactus.",
+  "history": "Granted by Royal Warrant on 7 November 1968, replacing an earlier flag (1889-1968) that incorrectly depicted what should have been salt-piles as igloos due to a heraldic-artist's misunderstanding of the islands' historic salt-raking economy. The 1968 redesign placed the modern coat of arms — featuring the conch, lobster, and Turk's-head cactus — directly on the blue field of the ensign.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1968-11-07"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Turks_and_Caicos_Islands"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the blue field of the Blue Ensign — historic association with the United Kingdom"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "ties to the United Kingdom — the Turks and Caicos Islands are a British Overseas Territory"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center-fly",
+      "role": "Coat of arms of the Turks and Caicos Islands",
+      "symbolism": "A yellow shield bearing a queen conch shell, a Caribbean spiny lobster, and a Turk's-head cactus — three iconic species of the islands. The conch and the lobster have long been mainstays of the local economy, and the Turk's-head cactus gives the Turks Islands (and thus the territory) their name."
+    }
   ]
 }

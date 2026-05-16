@@ -1,8 +1,74 @@
 {
   "id": "RS",
-  "title": "Serbia",
-  "iso": "RS",
+  "name": "Serbia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "RS",
+    "iso_3166_1_alpha3": "SRB",
+    "fifa": "SRB",
+    "ioc": "SRB",
+    "wikidata": "Q403"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the blood shed for freedom; pan-Slavic"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the sky and the freedom of the Serbian people; pan-Slavic"
+    },
+    {
+      "color": "white",
+      "symbolism": "milk, light and protection; pan-Slavic"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "from the gold (or) of the coat of arms — the crown, fleurs-de-lis, and details"
+    }
+  ],
+  "description": "Three equal horizontal stripes — red, blue and white from top to bottom — with the lesser coat of arms placed off-centre toward the hoist, spanning all three stripes.",
+  "history": "The red-blue-white tricolour has been a Serbian national symbol since the First Serbian Uprising in 1835; after various permutations during the kingdom (1882–1918), Yugoslavia (1918–1991, with the order red-blue-white shared with the Pan-Slavic flag), and the Federal Republic of Yugoslavia / Serbia and Montenegro (1992–2006), the present design (with the lesser coat of arms restored) was adopted by the National Assembly on 11 November 2010, after Serbia became a fully independent state on 5 June 2006.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "2010-11-11"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Serbia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue",
+        "white"
+      ],
+      "count": 3,
+      "symbolism": "the pan-Slavic colours, derived from the Russian tricolour and adopted by Serbia in the 19th century to express Slavic solidarity"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center-hoist",
+      "role": "Lesser Coat of Arms of Serbia",
+      "symbolism": "a red shield bearing a white double-headed eagle (recalling Byzantine imperial heritage and the medieval Nemanjić dynasty), surmounted by a gold royal crown, with the small white cross-and-firesteels (the Serbian Cross — the cross with four firesteels representing 'Само слога Србина спасава', 'Only Unity Saves the Serbs') on a red shield on the eagle's breast; the shield is mantled in red and lined ermine, surmounted by the royal crown"
+    }
   ]
 }

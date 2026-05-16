@@ -1,8 +1,67 @@
 {
   "id": "JP-01",
-  "title": "Hokkaidô (Japan)",
-  "iso": "JP-01",
+  "name": "Hokkaido Prefecture (Japan)",
   "type": [
     "subdivision"
+  ],
+  "parent": "JP",
+  "codes": {
+    "iso_3166_2": "JP-01",
+    "wikidata": "Q35581"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the dark blue of the seas around Hokkaido"
+    },
+    {
+      "color": "white",
+      "symbolism": "snow and the brightness of the prefecture's future"
+    },
+    {
+      "color": "red",
+      "symbolism": "passion, vitality and the rising sun"
+    }
+  ],
+  "description": "A dark navy-blue field charged at the centre with a white seven-pointed star, within which is a smaller red five-pointed star.",
+  "history": "Hokkaido's prefectural symbol was selected in a public competition and adopted on 1 May 1967 to mark the centenary of the Meiji restoration and the prefecture's modern administration. The flag, with the symbol on a dark blue field, has been in use since the same date. The seven-pointed star is sometimes called the 'North Star of Hokkaido' (Hokushin).",
+  "periods": [
+    {
+      "start": "1967-05-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hokkaido",
+    "https://en.wikipedia.org/wiki/Flag_of_Hokkaido"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy",
+      "symbolism": "the deep blue of the northern sea surrounding Hokkaido"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 7,
+      "color": "white",
+      "position": "center",
+      "role": "Hokkaido prefectural emblem (seven-pointed northern star)",
+      "symbolism": "a stylised seven-pointed star (the 'Hokkaido star' or hokushin, North Star) representing the bright future of the northernmost prefecture; the seven points are also read as the seven sub-prefectures (shicho)."
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "center",
+      "role": "central red star of the emblem",
+      "symbolism": "the rising sun and the warmth and vitality of the people of Hokkaido"
+    }
   ]
 }

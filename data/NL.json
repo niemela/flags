@@ -1,8 +1,62 @@
 {
   "id": "NL",
-  "title": "Netherlands",
-  "iso": "NL",
+  "name": "Netherlands",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "NL",
+    "iso_3166_1_alpha3": "NLD",
+    "fifa": "NED",
+    "ioc": "NED",
+    "wikidata": "Q55"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "replaced the original orange of the Prinsenvlag during the 17th century"
+    },
+    {
+      "color": "white",
+      "symbolism": "from the livery of William of Orange"
+    },
+    {
+      "color": "blue",
+      "symbolism": "from the livery of William of Orange"
+    }
+  ],
+  "description": "Three equal horizontal stripes — red over white over blue.",
+  "history": "The Dutch tricolour is one of the oldest tricolours in continuous use. Its predecessor, the orange-white-blue Prinsenvlag, was used by the forces of William the Silent during the Dutch Revolt from about 1572. By the mid-17th century the orange stripe had largely been replaced by red in usage; the States-General formally fixed the colours as red-white-blue on 19 February 1937 by royal decree of Queen Wilhelmina, ending centuries of informal practice. The exact colour shades — bright vermilion and cobalt blue — were standardised by royal decree of Queen Juliana on 17 February 1958.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1937-02-19"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Netherlands"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "symbolism": "evolved from the orange-white-blue Prinsenvlag of William of Orange, in use during the Dutch Revolt against Spain; the orange stripe gradually shifted to red over the 17th century, possibly because the dye was more stable at sea"
+    }
   ]
 }

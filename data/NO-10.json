@@ -1,7 +1,57 @@
 {
   "id": "NO-10",
-  "title": "West Agder (Norway, 1958-2020)",
+  "name": "Vest-Agder (Norway, 1958–2019)",
   "type": [
+    "historical",
     "subdivision"
+  ],
+  "parent": "NO",
+  "codes": {
+    "iso_3166_2": "NO-10",
+    "wikidata": "Q50636"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field of the county arms; the forests of Vest-Agder"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "gold (Or) for the oak"
+    }
+  ],
+  "description": "A green field charged with a stylised gold oak.",
+  "history": "Granted to Vest-Agder county on 14 February 1958. The county was abolished on 1 January 2020 when it was merged with Aust-Agder into the new Agder county.",
+  "status": "historical",
+  "periods": [
+    {
+      "start": "1958-02-14",
+      "end": "2019-12-31"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vest-Agder",
+    "https://no.wikipedia.org/wiki/Vest-Agder_fylkesv%C3%A5pen"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "heraldic banner of the county arms: a gold oak on a green field, evoking the rich oak forests of Vest-Agder"
+    },
+    {
+      "type": "tree",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "oak",
+      "symbolism": "the oak forests historically important to Vest-Agder's economy and shipbuilding"
+    }
   ]
 }

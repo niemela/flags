@@ -1,8 +1,83 @@
 {
   "id": "KY",
-  "title": "Cayman Islands",
-  "iso": "KY",
+  "name": "Cayman Islands (United Kingdom)",
   "type": [
     "subdivision"
+  ],
+  "parent": "GB",
+  "codes": {
+    "iso_3166_1_alpha2": "KY",
+    "iso_3166_1_alpha3": "CYM",
+    "fifa": "CAY",
+    "ioc": "CAY",
+    "wikidata": "Q5785"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the field of the British Blue Ensign"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltire and cross of the Union Flag canton; waves and stars in the Cayman coat of arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross of St George and saltire of St Patrick in the Union Flag canton; the lion in the chief of the coat of arms"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the sea around the islands depicted on the coat of arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "elements of the coat of arms (turtle, pineapple, stars)"
+    },
+    {
+      "color": "green",
+      "symbolism": "elements of the coat of arms (turtle, foliage)"
+    }
+  ],
+  "description": "A British Blue Ensign — navy field with the Union Flag in the upper-hoist canton — defaced in the fly with the coat of arms of the Cayman Islands: a shield with three green stars on wavy lines and a red chief bearing a gold lion, surmounted by a sea-turtle and pineapple over the motto 'He hath founded it upon the seas'.",
+  "history": "The current design was adopted on 14 May 1958 (with the coat of arms granted by Queen Elizabeth II) and elevated to a national flag (rather than just an ensign) on 6 February 1999, when the disc surrounding the badge was removed and the badge enlarged. It is used in addition to the Union Flag.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1999-02-06"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Cayman_Islands"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy",
+      "symbolism": "the field of the British Blue Ensign, denoting the Cayman Islands' status as a British Overseas Territory"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "role": "Union Flag",
+      "symbolism": "the Cayman Islands' status as a British Overseas Territory"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "fly",
+      "role": "coat of arms of the Cayman Islands",
+      "symbolism": "a shield bearing three green stars on wavy bands of white and blue (representing the three islands rising from the sea), with a red chief showing a gold lion passant guardant for ties to the United Kingdom; above is a green sea-turtle on a coil of rope and a yellow pineapple, with the motto 'He hath founded it upon the seas' from Psalm 24"
+    }
   ]
 }

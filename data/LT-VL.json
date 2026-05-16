@@ -1,8 +1,58 @@
 {
   "id": "LT-VL",
-  "title": "Vilnius (Lithuania)",
-  "iso": "LT-VL",
+  "name": "Vilnius County (Lithuania)",
   "type": [
     "subdivision"
+  ],
+  "parent": "LT",
+  "codes": {
+    "iso_3166_2": "LT-VL",
+    "wikidata": "Q193520"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Baltics",
+    "European Union"
+  ],
+  "aspect_ratio": "5:6",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the standard outer field of Lithuanian county flags"
+    },
+    {
+      "color": "red",
+      "symbolism": "the field of the Vilnius arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver figure of Saint Christopher in the Vilnius arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden Christ child carried by Saint Christopher"
+    }
+  ],
+  "description": "A blue field with a red inner panel bearing the coat of arms of Vilnius County in the centre: Saint Christopher in silver carrying the golden Christ Child across a river.",
+  "history": "Like the flags of all ten Lithuanian counties, Vilnius County's flag follows the uniform template introduced after the country's redivision into apskritys (counties) in 1994: a blue outer border surrounding the county's heraldic field, here red, charged with the historic Saint Christopher arms of the capital.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vilnius_County",
+    "https://lt.wikipedia.org/wiki/Vilniaus_apskritis"
+  ],
+  "features": [
+    {
+      "type": "bordure",
+      "field": "red",
+      "border": "blue",
+      "symbolism": "blue outer border in the Lithuanian county pattern, with a red inner field bearing the county arms"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "coat of arms of Vilnius County",
+      "symbolism": "Saint Christopher carrying the Christ Child across a river — the historic arms of the city of Vilnius, here serving for the surrounding county"
+    }
   ]
 }

@@ -1,8 +1,70 @@
 {
   "id": "RU-IN",
-  "title": "Ingushetia (Russia)",
-  "iso": "RU-IN",
+  "name": "Ingushetia (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-IN",
+    "wikidata": "Q5188"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Caucasus",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "purity of thought and intentions, the brightness of the future"
+    },
+    {
+      "color": "green",
+      "symbolism": "nature, prosperity, and Islam, the predominant faith of the Ingush"
+    },
+    {
+      "color": "red",
+      "symbolism": "the difficult historical struggle of the Ingush people for survival"
+    }
+  ],
+  "description": "A white field bordered above and below by narrow green horizontal stripes, charged in the centre with a red ancient solar emblem of curved arms.",
+  "history": "The flag was first adopted on 15 February 1994 by the People's Assembly of the Republic of Ingushetia, with a re-confirmation in later law. The solar emblem is drawn from medieval Ingush tower architecture and folk symbolism.",
+  "periods": [
+    {
+      "start": "1994-02-15"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Ingushetia",
+    "https://en.wikipedia.org/wiki/Ingushetia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        5,
+        1
+      ],
+      "symbolism": "the white central field stands for purity of thought and intentions; the green bands represent nature, prosperity and Islam; the proportions place the white field over four-fifths of the height, framed by narrow green stripes."
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 8,
+      "color": "red",
+      "position": "center",
+      "role": "solar emblem",
+      "symbolism": "an ancient Ingush solar emblem (a cross of three rays per arm radiating from a central disc); represents the eternal motion of the Sun and the resilience of the Ingush nation."
+    }
   ]
 }

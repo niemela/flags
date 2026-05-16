@@ -1,8 +1,66 @@
 {
   "id": "GB-WLS",
-  "title": "Wales (United Kingdom)",
-  "iso": "GB-WLS",
+  "name": "Wales (United Kingdom)",
   "type": [
     "subdivision"
+  ],
+  "parent": "GB",
+  "codes": {
+    "iso_3166_2": "GB-WLS",
+    "wikidata": "Q25"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "Tudor livery colour"
+    },
+    {
+      "color": "green",
+      "symbolism": "Tudor livery colour"
+    },
+    {
+      "color": "red",
+      "symbolism": "the dragon, traditional emblem of Wales"
+    }
+  ],
+  "description": "A horizontally divided field of white over green bearing a passant red dragon (Y Ddraig Goch) in the centre.",
+  "history": "The Red Dragon of Wales has medieval roots stretching back over a millennium, appearing in the Mabinogion and in the genealogies of the early Welsh kings; the Tudors flew it on Bosworth Field in 1485. The modern flag in its present form was officially recognised by the Queen as the flag of Wales in 1959. Wales is the only constituent country of the United Kingdom whose flag is not represented in the Union Jack.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1959"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Wales"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2,
+      "symbolism": "White and green are the livery colours of the House of Tudor, the Welsh-descended royal dynasty of Henry VII and his successors."
+    },
+    {
+      "type": "dragon",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "Y Ddraig Goch (the Red Dragon of Wales), passant",
+      "symbolism": "The red dragon has been associated with Wales since at least the 9th-century Historia Brittonum, where it appears as the symbol of the Britons defeating the white dragon of the Saxons; it was used as a battle standard by Welsh princes including Owain Glyndŵr and was adopted by the Tudors."
+    }
   ]
 }

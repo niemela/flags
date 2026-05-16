@@ -1,8 +1,76 @@
 {
   "id": "BR-SC",
-  "title": "Santa Catarina (Brazil)",
-  "iso": "BR-SC",
+  "name": "Santa Catarina (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-SC",
+    "wikidata": "Q41115"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the upper and lower bands"
+    },
+    {
+      "color": "red",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the central lozenge"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "elements of the central coat of arms"
+    },
+    {
+      "color": "blue",
+      "symbolism": "elements of the central coat of arms"
+    }
+  ],
+  "description": "Three horizontal bands of white, red (twice as wide) and white, with a green lozenge at the centre bearing the state coat of arms.",
+  "history": "Adopted by Decree No. 1.181 on 29 October 1953; the design is by Henrique Boiteux and dates from earlier proposals first used in the 1890s under the First Republic.",
+  "periods": [
+    {
+      "start": "1953-10-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Santa_Catarina"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ],
+      "symbolism": "Three horizontal bands, white, red and white, with a green lozenge centred over the red band bearing the state coat of arms"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "state coat of arms within a green lozenge",
+      "symbolism": "a green diamond bearing the coat of arms of Santa Catarina, with sheaves of wheat, a key and a Phrygian cap symbolising agriculture, security and the Republic"
+    }
   ]
 }

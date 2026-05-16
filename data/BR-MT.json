@@ -1,8 +1,78 @@
 {
   "id": "BR-MT",
-  "title": "Mato Grosso (Brazil)",
-  "iso": "BR-MT",
+  "name": "Mato Grosso (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-MT",
+    "wikidata": "Q42824"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the sky"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace"
+    },
+    {
+      "color": "green",
+      "symbolism": "the forests and natural wealth"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "wealth, particularly mineral riches"
+    }
+  ],
+  "description": "A blue field charged with a horizontal white lozenge enclosing a green disc, on which is set a single yellow five-pointed star.",
+  "history": "First adopted in 1890 shortly after the Proclamation of the Republic, designed by Joaquim Augusto da Costa Marques; reaffirmed by State Law No. 5 of 11 July 1947 with the colours and proportions standardised.",
+  "periods": [
+    {
+      "start": "1947-07-11"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Mato_Grosso"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "field": "blue",
+      "symbolism": "A blue field charged with a horizontal white lozenge enclosing a green disc and a central yellow star"
+    },
+    {
+      "type": "lozenge",
+      "color": "white",
+      "position": "center",
+      "role": "white lozenge",
+      "symbolism": "echoes the lozenge of the Brazilian national flag"
+    },
+    {
+      "type": "disc",
+      "color": "green",
+      "position": "center",
+      "role": "green disc",
+      "symbolism": "the forests"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "central star",
+      "symbolism": "the State of Mato Grosso"
+    }
   ]
 }

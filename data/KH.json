@@ -1,8 +1,78 @@
 {
   "id": "KH",
-  "title": "Cambodia",
-  "iso": "KH",
+  "name": "Cambodia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "KH",
+    "iso_3166_1_alpha3": "KHM",
+    "fifa": "CAM",
+    "ioc": "CAM",
+    "wikidata": "Q424"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia"
+  ],
+  "aspect_ratio": "16:25",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the royalty of the Khmer monarchy"
+    },
+    {
+      "color": "red",
+      "symbolism": "the nation; bravery"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity, religion (Theravada Buddhism), and the white of Angkor Wat"
+    }
+  ],
+  "description": "Three horizontal stripes — blue, red, blue — with the central red stripe twice as tall as each blue stripe. A stylised white silhouette of the three-towered central structure of Angkor Wat is centred on the red stripe.",
+  "history": "Cambodia is one of only two countries (with Afghanistan) whose national flag features a real building. The blue-red-blue tricolour with the temple of Angkor Wat was first adopted on 29 October 1948, when Cambodia was still part of French Indochina. It was the flag of the Kingdom of Cambodia until 9 October 1970, when it was replaced by the flag of the Khmer Republic; further flags followed under Democratic Kampuchea (Khmer Rouge), the People's Republic of Kampuchea, and the State of Cambodia. The original 1948 design was restored on 30 June 1993 with the re-establishment of the constitutional monarchy.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1948-10-29",
+      "end": "1970-10-09"
+    },
+    {
+      "start": "1993-06-30"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Cambodia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ],
+      "symbolism": "blue stripes for the monarchy and the country's well-being; the central red stripe for the nation"
+    },
+    {
+      "type": "temple",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Angkor Wat",
+      "symbolism": "Angkor Wat, the 12th-century temple complex of the Khmer Empire and the country's most important national symbol; represents the nation's heritage, culture, and Buddhist religion"
+    }
   ]
 }

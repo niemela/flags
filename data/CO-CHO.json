@@ -1,8 +1,56 @@
 {
   "id": "CO-CHO",
-  "title": "Chocó (Colombia)",
-  "iso": "CO-CHO",
+  "name": "Choco (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-CHO",
+    "wikidata": "Q121276"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the dense Pacific rainforest covering most of the territory"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold, platinum and other mineral wealth of the department"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the Pacific Ocean and the rivers that drain into both the Pacific and the Caribbean"
+    }
+  ],
+  "description": "Three horizontal stripes of green (top half), yellow (one quarter), and blue (bottom quarter).",
+  "history": "Choco was created as an Intendancy in 1907 and elevated to a department in 1947. Its flag's three colours summarise the department's defining features: rainforest, mineral wealth, and the maritime border on the Pacific.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Choc%C3%B3_Department",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Choc%C3%B3.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        1
+      ],
+      "symbolism": "green for the immense rainforest of Choco, yellow for the gold and platinum that have long been mined there, and blue for the two oceans (Pacific and Atlantic-bound rivers) that border the department"
+    }
   ]
 }

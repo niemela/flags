@@ -1,8 +1,66 @@
 {
   "id": "FR-ARA",
-  "title": "Auvergne-Rhône-Alpes (France)",
-  "iso": "FR-ARA",
+  "name": "Auvergne-Rhone-Alpes (France)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FR",
+  "codes": {
+    "iso_3166_2": "FR-ARA",
+    "wikidata": "Q18335"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field, drawn from the gules shared by Auvergne and Lyonnais"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltire dividing the four quarters"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the azure of the Dauphine quarter"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the lion of Lyonnais and of the gonfalon of Auvergne"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlines and details of the heraldic charges"
+    }
+  ],
+  "description": "A red field divided per saltire by a white saltire, with the four triangular quarters each bearing the historic arms of one of the constituent provinces of the merged region.",
+  "history": "Auvergne-Rhone-Alpes is a French region created by the territorial reform of 2016, merging the former regions of Auvergne and Rhone-Alpes. France traditionally does not promote regional flags, and this composite armorial banner is used in a de-facto capacity rather than as an officially adopted regional flag.",
+  "status": "de-facto",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes"
+  ],
+  "features": [
+    {
+      "type": "per-saltire",
+      "hoist": "red",
+      "top": "red",
+      "fly": "red",
+      "bottom": "red",
+      "fimbriation": {
+        "color": "white",
+        "around": "saltire"
+      },
+      "symbolism": "A red field divided per saltire by a white saltire, with the four quarters charged with the historic arms of the constituent provinces of the merged region."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 4,
+      "role": "the historic arms of Auvergne, Lyonnais, Dauphine, and Forez/Bourbonnais arranged in the four quarters",
+      "symbolism": "Each quarter bears the arms of one of the historic provinces brought together by the 2016 merger that created Auvergne-Rhone-Alpes."
+    }
   ]
 }

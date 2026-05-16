@@ -1,8 +1,97 @@
 {
   "id": "US-OH",
-  "title": "Ohio (United States)",
-  "iso": "US-OH",
+  "name": "Ohio (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-OH",
+    "fips_state": "39",
+    "wikidata": "Q1397"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "shape": "swallowtail",
+  "aspect_ratio": "8:13",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "evokes the red of the U.S. flag and the hills and valleys of the state"
+    },
+    {
+      "color": "white",
+      "symbolism": "evokes the roads and waterways of the state"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the hills and valleys of the state"
+    }
+  ],
+  "description": "A swallow-tailed burgee. A blue isoceles triangle at the hoist (its base on the hoist edge, apex at the centre of the flag) bears 17 white five-pointed stars arranged in two arcs around a white annulus enclosing a red disc. To the fly, three red and two white horizontal stripes alternate, with the fly cut into two pointed tails by a triangular notch.",
+  "history": "Designed by architect John Eisenmann for Ohio's pavilion at the 1901 Pan-American Exposition in Buffalo and adopted by the Ohio General Assembly on 9 May 1902. It is the only non-rectangular U.S. state flag. The swallowtail shape derives from the cavalry guidons of the U.S. Army.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1902-05-09"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Ohio"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "a swallowtail burgee with a hoist-side blue triangle bearing stars and a circle, and red-and-white horizontal stripes on the fly"
+    },
+    {
+      "type": "triangle",
+      "count": 1,
+      "color": "blue",
+      "position": "hoist",
+      "role": "blue triangular field at the hoist"
+    },
+    {
+      "type": "star",
+      "count": 13,
+      "points": 5,
+      "color": "white",
+      "arrangement": "arc",
+      "position": "hoist",
+      "role": "outer arc of stars on the hoist triangle",
+      "symbolism": "the original thirteen colonies of the United States"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "white",
+      "arrangement": "arc",
+      "position": "hoist",
+      "role": "inner arc of stars on the hoist triangle",
+      "symbolism": "together with the thirteen, total seventeen — Ohio's place as the 17th state admitted to the Union"
+    },
+    {
+      "type": "circle",
+      "count": 1,
+      "color": "white",
+      "position": "center-hoist",
+      "role": "white annulus (the 'O')",
+      "symbolism": "represents the letter O for Ohio and the buckeye nut, the state tree's seed"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "red",
+      "position": "center-hoist",
+      "role": "red disc inside the white annulus",
+      "symbolism": "the buckeye nut"
+    }
   ]
 }

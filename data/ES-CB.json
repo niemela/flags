@@ -1,8 +1,53 @@
 {
   "id": "ES-CB",
-  "title": "Cantabria (Spain)",
-  "iso": "ES-CB",
+  "name": "Cantabria (Spain)",
   "type": [
     "subdivision"
+  ],
+  "parent": "ES",
+  "codes": {
+    "iso_3166_2": "ES-CB",
+    "wikidata": "Q3946"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Iberian Peninsula",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the maritime colours of the historic Province of Santander"
+    },
+    {
+      "color": "red",
+      "symbolism": "the maritime colours of the historic Province of Santander"
+    }
+  ],
+  "description": "Two equal horizontal stripes of white over red.",
+  "history": "Adopted by Law 9/1984 of 22 December as the official flag of the Autonomous Community of Cantabria. The white-and-red bicolour comes from the merchant marine ensign granted to the Province of Santander by King Charles III on 1 August 1845.",
+  "variant": [
+    "civil"
+  ],
+  "periods": [
+    {
+      "start": "1984-12-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Cantabria"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "symbolism": "The white and red are taken from the maritime ensign of the Province of Santander, granted by Charles III in 1845 to vessels from the Cantabrian coast."
+    }
   ]
 }

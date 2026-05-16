@@ -1,8 +1,64 @@
 {
   "id": "BT",
-  "title": "Bhutan",
-  "iso": "BT",
+  "name": "Bhutan",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "BT",
+    "iso_3166_1_alpha3": "BTN",
+    "fifa": "BHU",
+    "ioc": "BHU",
+    "wikidata": "Q917"
+  },
+  "region": [
+    "Asia",
+    "Southern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the civil tradition and the temporal authority of the Druk Gyalpo (Dragon King)"
+    },
+    {
+      "color": "orange",
+      "symbolism": "the Buddhist religious tradition (Drukpa Kagyu and Nyingma schools) and spiritual authority"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity; the colour of the dragon, signifying loyalty and the purity of the inner thoughts of the Bhutanese people"
+    }
+  ],
+  "description": "Diagonally divided from upper-hoist to lower-fly: the upper-hoist triangle is yellow and the lower-fly triangle is orange. Centred on the diagonal is a white Druk (Thunder Dragon) facing the fly, holding jewels in its claws.",
+  "history": "Flags bearing a dragon have been used in Bhutan since at least 1949, when one was made for the signing of the Indo-Bhutan Treaty of Friendship. The current proportions and the rendering of the dragon were standardised in 1969 (changing the dragon from green to white and orienting it to face away from the hoist). Bhutan's name in Dzongkha — Druk Yul, 'Land of the Thunder Dragon' — gives the flag its central charge.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1969"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Bhutan"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "orange",
+      "direction": "bend-sinister",
+      "symbolism": "the yellow upper-hoist triangle represents the secular authority of the king (Druk Gyalpo); the orange lower-fly triangle represents the spiritual authority of the Buddhist (Drukpa Kagyu and Nyingma) tradition"
+    },
+    {
+      "type": "dragon",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Druk (Thunder Dragon)",
+      "symbolism": "Druk, the Thunder Dragon, from which Bhutan takes its endonym Druk Yul ('Land of the Thunder Dragon'); the dragon clutches norbu (jewels) in its claws, representing the wealth and prosperity of the country, and bares its teeth, expressing the strength of the male and female deities protecting the nation"
+    }
   ]
 }

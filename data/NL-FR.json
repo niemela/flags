@@ -1,8 +1,62 @@
 {
   "id": "NL-FR",
-  "title": "Friesland (Netherlands)",
-  "iso": "NL-FR",
+  "name": "Friesland (Netherlands)",
   "type": [
     "subdivision"
+  ],
+  "parent": "NL",
+  "codes": {
+    "iso_3166_2": "NL-FR",
+    "wikidata": "Q770"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "9:13",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the colour of the four wider diagonal bands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the colour of the three narrower diagonal bands"
+    },
+    {
+      "color": "red",
+      "symbolism": "the colour of the seven pompeblêden"
+    }
+  ],
+  "description": "Four blue and three white diagonal bands running from the upper hoist to the lower fly, charged with seven red pompeblêden (heart-shaped water-lily leaves), one centred on each white band.",
+  "history": "Adopted by the provincial states on 9 July 1957, based on traditional Frisian heraldic banners going back to the medieval period; the seven leaves represent the seven historic Frisian Sea Lands.",
+  "periods": [
+    {
+      "start": "1957-07-09"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Friesland"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 7,
+      "direction": "bend",
+      "symbolism": "the seven blue-and-white diagonal bands evoke the historic banners of the medieval seven Frisian Sea Lands (Sjelannen)"
+    },
+    {
+      "type": "leaf",
+      "count": 7,
+      "color": "red",
+      "arrangement": "row",
+      "role": "pompeblêden (water-lily leaves)",
+      "symbolism": "seven red pompeblêden, each representing one of the historic Frisian Sea Lands; each leaf is placed centred on one of the white diagonal bands"
+    }
   ]
 }

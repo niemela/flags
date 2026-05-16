@@ -1,7 +1,45 @@
 {
   "id": "NG-lagos",
-  "title": "Lagos (Nigeria)",
+  "name": "Lagos (Nigeria)",
   "type": [
     "city"
+  ],
+  "parent": "NG",
+  "codes": {
+    "wikidata": "Q8673"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field — peace and unity"
+    }
+  ],
+  "description": "A white field charged at the centre with the coat of arms of Lagos State.",
+  "history": "Lagos was the capital of Nigeria until 1991 and remains the country's largest city and economic centre. The civic flag bears the coat of arms of Lagos State (created in 1967 from the former federal capital territory plus parts of the Western Region), reflecting the city's role as the state's principal seat.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lagos",
+    "https://en.wikipedia.org/wiki/Lagos_State"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white",
+      "symbolism": "a plain white field as background for the city / state coat of arms"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Coat of arms of Lagos State (used by Lagos city)",
+      "symbolism": "The state coat of arms — featuring waves representing the lagoons that gave Lagos its name (Portuguese for 'lakes'), supporters, and emblems of the state's economy and people — used as the principal device on the civic flag."
+    }
   ]
 }

@@ -1,8 +1,73 @@
 {
   "id": "RU-KLU",
-  "title": "Kaluga Oblast (Russia)",
-  "iso": "RU-KLU",
+  "name": "Kaluga Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-KLU",
+    "wikidata": "Q2842"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "courage, battle and labour, traditional Russian heraldic colour"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and the central narrow stripe"
+    },
+    {
+      "color": "green",
+      "symbolism": "hope, youth, nature, fertility, and eternal life; taken from the oblast's coat of arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the imperial crown"
+    }
+  ],
+  "description": "Three horizontal stripes - a wide red top, a narrow white middle, and a wide green bottom - with a golden imperial crown set in the upper hoist on the red field.",
+  "history": "Adopted on 30 January 2004 by the Legislative Assembly of Kaluga Oblast.",
+  "periods": [
+    {
+      "start": "2004-01-30"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Kaluga_Oblast",
+    "https://en.wikipedia.org/wiki/Kaluga_Oblast"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        5,
+        2,
+        5
+      ],
+      "symbolism": "the green is taken from the oblast's coat of arms and stands for hope, youth, nature, fertility, and eternal life."
+    },
+    {
+      "type": "crown",
+      "count": 1,
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "imperial crown from the oblast's coat of arms",
+      "symbolism": "a golden imperial crown set within the red stripe, taken from the Kaluga Oblast coat of arms."
+    }
   ]
 }

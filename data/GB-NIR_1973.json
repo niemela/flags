@@ -1,9 +1,90 @@
 {
-  "id": "GB-NIR_1953-1973",
-  "title": "Northern Ireland (United Kingdom, 1953-1973)",
-  "iso": "GB-NIR",
+  "id": "GB-NIR_1973",
+  "name": "Northern Ireland (United Kingdom, 1953-1973)",
   "type": [
     "historical",
     "subdivision"
+  ],
+  "parent": "GB",
+  "codes": {
+    "iso_3166_2": "GB-NIR",
+    "wikidata": "Q1071662"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the crown and star"
+    },
+    {
+      "color": "purple"
+    }
+  ],
+  "symbolism": "Based on the coat of arms granted to the Government of Northern Ireland in 1924: a six-pointed star (one point per county) charged with the Red Hand of Ulster on a small shield, surmounted by a crown, all centred on the Cross of Saint George.",
+  "description": "A white field with a red Cross of Saint George. In the centre of the cross, a white six-pointed star bearing the red hand of Ulster on a small white shield, surmounted by a gold crown.",
+  "history": "Known as the Ulster Banner (or Ulster Flag, or 'Red Hand Flag'), this flag was based on the coat of arms granted to the Government of Northern Ireland by royal warrant in 1924 and was used as the official flag of the Government of Northern Ireland from 1953, when it was approved by Queen Elizabeth II for use at her coronation, until the abolition of the Parliament of Northern Ireland and imposition of direct rule from Westminster on 30 March 1972 (formalised by the Northern Ireland Constitution Act 1973). Since then Northern Ireland has had no officially recognised flag of its own, though the Ulster Banner remains widely used by unionist organisations, the IFA, and Northern Irish sports teams in Commonwealth Games competition.",
+  "variant": [
+    "state",
+    "government"
+  ],
+  "periods": [
+    {
+      "start": "1953-05-29",
+      "end": "1973-07-18"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ulster_Banner",
+    "https://en.wikipedia.org/wiki/Government_of_Northern_Ireland"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "role": "Cross of Saint George",
+      "symbolism": "the cross of Saint George, drawing on the heraldry of England and Northern Ireland's status within the United Kingdom"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "white",
+      "position": "center",
+      "role": "Star of the Order of Saint Patrick (six-pointed)",
+      "symbolism": "the six counties of Northern Ireland"
+    },
+    {
+      "type": "hand",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "Red Hand of Ulster (within the star, on a white shield)",
+      "symbolism": "the ancient symbol of the province of Ulster, derived from the heraldry of the O'Neill dynasty"
+    },
+    {
+      "type": "crown",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "Imperial Crown (atop the star)",
+      "symbolism": "loyalty to the British Crown"
+    }
   ]
 }

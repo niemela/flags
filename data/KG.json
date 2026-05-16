@@ -1,8 +1,69 @@
 {
   "id": "KG",
-  "title": "Kyrgyzstan",
-  "iso": "KG",
+  "name": "Kyrgyzstan",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "KG",
+    "iso_3166_1_alpha3": "KGZ",
+    "fifa": "KGZ",
+    "ioc": "KGZ",
+    "wikidata": "Q813"
+  },
+  "region": [
+    "Asia",
+    "Central Asia",
+    "Turkic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "valour, bravery, and the banner of Manas the Noble"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "peace, prosperity, and the rays of the sun"
+    }
+  ],
+  "description": "A red field charged in the centre with a yellow sun bearing forty rays; on the sun's disc, a red emblem depicting the tündük — the wooden crown of a Kyrgyz yurt seen from below, formed by two crossed groups of three curved bars.",
+  "history": "Adopted on 3 March 1992, six months after Kyrgyzstan's declaration of independence from the Soviet Union, replacing the flag of the Kyrgyz SSR. The forty rays of the sun reference the forty tribes that, in the Manas epic, were united by the legendary hero Manas. On 22 December 2023 the design was revised: the rays were straightened (previously curved) and the tündük emblem inside the sun was simplified, in changes intended to make the symbol more legible and geometrically regular.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1992-03-03"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Kyrgyzstan"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "valour and bravery; also the colour of the banner of the legendary hero Manas"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 40,
+      "color": "yellow",
+      "position": "center",
+      "role": "sun with forty rays",
+      "symbolism": "the forty rays represent the forty Kyrgyz tribes united by the epic hero Manas to form a single nation"
+    },
+    {
+      "type": "circle",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "tündük (yurt crown)",
+      "symbolism": "the tündük — the crown of the traditional Kyrgyz yurt formed by two crossed sets of three arcs — symbolises the family hearth, the unity of time and space, and the universe; the crossed lines viewed from below the smoke hole of a yurt"
+    }
   ]
 }

@@ -1,8 +1,74 @@
 {
   "id": "RS-KM",
-  "title": "Kosovo",
-  "iso": "RS-KM",
+  "name": "Kosovo and Metohija (Serbia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RS",
+  "codes": {
+    "iso_3166_2": "RS-KM",
+    "wikidata": "Q42762"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans"
+  ],
+  "aspect_ratio": "5:7",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the European Union and Kosovo's European future"
+    },
+    {
+      "color": "gold",
+      "symbolism": "a stylised gold map of Kosovo's territory"
+    },
+    {
+      "color": "white",
+      "symbolism": "the six stars representing the principal ethnic communities"
+    }
+  ],
+  "description": "A blue field with a gold silhouette map of Kosovo's territory in the lower centre and an arc of six white five-pointed stars above it.",
+  "history": "Adopted on 17 February 2008 by the Assembly of Kosovo on the day the territory unilaterally declared independence from Serbia. The design, by Muhamer Ibrahimi, was selected from over 1,000 entries to a public competition organised by the UN-led International Civilian Office; the design was deliberately neutral, avoiding the Albanian double-headed eagle (which appears on the unofficial Albanian-Kosovar flag) and the Serbian Orthodox cross. Kosovo's independence is recognised by approximately 100 UN member states; Serbia continues to consider the territory a constituent autonomous province under the ISO 3166-2 code RS-KM (Kosovo and Metohija). This flag is in de facto use throughout the territory governed from Pristina.",
+  "status": "de-facto",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2008-02-17"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Kosovo",
+    "https://en.wikipedia.org/wiki/Kosovo",
+    "https://en.wikipedia.org/wiki/2008_Kosovo_declaration_of_independence"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the European Union (mirroring the EU flag) and the multi-ethnic, peaceful aspirations of Kosovo"
+    },
+    {
+      "type": "map",
+      "count": 1,
+      "color": "gold",
+      "position": "center",
+      "role": "Gold map of Kosovo",
+      "symbolism": "the territory of Kosovo"
+    },
+    {
+      "type": "star",
+      "count": 6,
+      "points": 5,
+      "color": "white",
+      "position": "top",
+      "arrangement": "arc",
+      "role": "Six white five-pointed stars in an arc above the map",
+      "symbolism": "the six principal ethnic groups of Kosovo: Albanians, Serbs, Turks, Gorani, Romani, and Bosniaks"
+    }
   ]
 }

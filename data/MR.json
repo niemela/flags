@@ -1,8 +1,89 @@
 {
   "id": "MR",
-  "title": "Mauritania",
-  "iso": "MR",
+  "name": "Mauritania",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "MR",
+    "iso_3166_1_alpha3": "MRT",
+    "fifa": "MTN",
+    "ioc": "MTN",
+    "wikidata": "Q1025"
+  },
+  "region": [
+    "Africa",
+    "Northern Africa",
+    "Western Africa",
+    "Maghreb",
+    "MENA",
+    "Arab World",
+    "Sahel",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "Islam and a bright future"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the crescent and star, and the sands of the Sahara"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed by Mauritanians who fought against French colonial rule (added in 2017)"
+    }
+  ],
+  "description": "A green field with a gold five-pointed star above a gold horizontal crescent (concave side up) at the centre, flanked by a narrow red horizontal stripe at the top and another at the bottom.",
+  "history": "Mauritania's first national flag — a green field with a centred gold crescent and star — was adopted on 1 April 1959 ahead of independence from France in 1960. Two narrow red stripes were added at the top and bottom by constitutional referendum on 5 August 2017 to honour the sacrifice of Mauritanians who died resisting French colonisation; the new design entered force on 15 August 2017.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "2017-08-15"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Mauritania"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        4,
+        1
+      ],
+      "symbolism": "a green field charged with a gold crescent and star — the colours of Islam — flanked by red bands added in 2017 to honour the blood shed by Mauritanians resisting French colonisation"
+    },
+    {
+      "type": "crescent",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "gold crescent",
+      "symbolism": "Islam"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "gold five-pointed star",
+      "symbolism": "Islam; placed within the opening of the crescent"
+    }
   ]
 }

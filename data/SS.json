@@ -1,8 +1,100 @@
 {
   "id": "SS",
-  "title": "South Sudan",
-  "iso": "SS",
+  "name": "South Sudan",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "SS",
+    "iso_3166_1_alpha3": "SSD",
+    "fifa": "SSD",
+    "ioc": "SSD",
+    "wikidata": "Q958"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Eastern Africa"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the people of South Sudan"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed in the long struggle for freedom"
+    },
+    {
+      "color": "green",
+      "symbolism": "the land, agriculture, and natural resources"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace, achieved after many years of conflict (the fimbriations between the main stripes)"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the waters of the Nile, the source of life (the hoist triangle)"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "unity, determination, and the bright future of the nation (the star within the triangle)"
+    }
+  ],
+  "description": "Three broad horizontal stripes — black, red, green — separated by thin white fimbriations, with a blue isoceles triangle at the hoist bearing a centred yellow five-pointed star.",
+  "history": "Adopted on 9 July 2005 as the flag of the autonomous Government of Southern Sudan under the Comprehensive Peace Agreement, and retained as the national flag at independence on 9 July 2011. The design is based on the flag of the Sudan People's Liberation Movement/Army (SPLM/A), which led the long civil war against the Khartoum government. The Star of Bethlehem within the blue triangle is identified by name in the Transitional Constitution.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "2005-07-09"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_South_Sudan"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "white",
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 5,
+      "widths": [
+        6,
+        1,
+        6,
+        1,
+        6
+      ],
+      "symbolism": "Pan-African colours separated by thin white fimbriations: black for the people of South Sudan, red for the blood shed for freedom, green for the country's land, with white representing peace"
+    },
+    {
+      "type": "triangle",
+      "count": 1,
+      "color": "blue",
+      "position": "hoist",
+      "role": "blue hoist triangle",
+      "symbolism": "the waters of the Nile and the source of life"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "Star of Bethlehem",
+      "symbolism": "unity of the states of South Sudan and the nation's determination to lead the country to a bright future"
+    }
   ]
 }

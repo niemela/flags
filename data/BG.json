@@ -1,8 +1,68 @@
 {
   "id": "BG",
-  "title": "Bulgaria",
-  "iso": "BG",
+  "name": "Bulgaria",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "BG",
+    "iso_3166_1_alpha3": "BGR",
+    "fifa": "BUL",
+    "ioc": "BUL",
+    "wikidata": "Q219"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Southern Europe",
+    "Balkans",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "peace, love and freedom"
+    },
+    {
+      "color": "green",
+      "symbolism": "the agricultural wealth and forests of Bulgaria"
+    },
+    {
+      "color": "red",
+      "symbolism": "the courage of the Bulgarian people and the blood shed for independence"
+    }
+  ],
+  "description": "Three equal horizontal stripes of white (top), green and red.",
+  "history": "Adopted by Article 23 of the 1879 Tarnovo Constitution, shortly after Bulgaria's autonomy from the Ottoman Empire was secured by the Treaty of Berlin (1878). The white-green-red scheme was developed from the pan-Slavic colours used by the Bulgarian Volunteer Corps during the Russo-Turkish War of 1877–1878, with green replacing blue to signal Bulgaria's distinct identity. Under the People's Republic (1947–1990) the flag bore the state emblem in the canton; after the fall of communism the plain triband was reaffirmed by constitutional amendment on 27 November 1990.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1879",
+      "end": "1947"
+    },
+    {
+      "start": "1990-11-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Bulgaria"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "an adaptation of the pan-Slavic white-blue-red palette of the Russian flag, with green substituted for blue to recall Bulgaria's forests and farmland"
+    }
   ]
 }

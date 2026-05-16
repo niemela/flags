@@ -1,8 +1,79 @@
 {
   "id": "ES-CL",
-  "title": "Castile and León (Spain)",
-  "iso": "ES-CL",
+  "name": "Castile and León (Spain)",
   "type": [
     "subdivision"
+  ],
+  "parent": "ES",
+  "codes": {
+    "iso_3166_2": "ES-CL",
+    "wikidata": "Q5739"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Iberian Peninsula",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the gules field of Castile, on which the gold castle is charged"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver (argent) field of Leon, on which the purple lion is charged"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the three-towered castle of Castile"
+    },
+    {
+      "color": "purple",
+      "symbolism": "the lion rampant of Leon"
+    }
+  ],
+  "description": "A quartered field reproducing the arms of Castile and Leon: red quarters in the upper hoist and lower fly each bearing a gold three-towered castle, and white quarters in the upper fly and lower hoist each bearing a purple lion rampant crowned.",
+  "history": "Codified in Article 4 of the Statute of Autonomy of 25 February 1983. The design transposes the medieval quartered arms of the Crown of Castile-Leon (granted by Alfonso X the Wise in the 13th century after the union of the two kingdoms) directly to a flag.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1983-02-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Castile_and_Leon"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "red",
+        "white",
+        "white",
+        "red"
+      ],
+      "symbolism": "The quartered design directly reproduces the historic arms of the Crown of Castile and Leon: castles of Castile alternating with lions of Leon."
+    },
+    {
+      "type": "building",
+      "count": 2,
+      "color": "yellow",
+      "position": "center",
+      "role": "three-towered castle of Castile, charged on each red quarter (upper-hoist and lower-fly)",
+      "symbolism": "The gold castle on red is the canting arms of the Kingdom of Castile (castillo = castle), in use since the 12th century."
+    },
+    {
+      "type": "lion",
+      "count": 2,
+      "color": "purple",
+      "position": "center",
+      "role": "lion rampant crowned of Leon, charged on each white quarter (upper-fly and lower-hoist)",
+      "symbolism": "The purple lion on silver is the canting arms of the Kingdom of Leon (leon = lion), in use since the late 12th century."
+    }
   ]
 }

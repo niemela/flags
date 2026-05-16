@@ -1,8 +1,68 @@
 {
   "id": "CG",
-  "title": "Congo-Brazzaville",
-  "iso": "CG",
+  "name": "Republic of the Congo",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "CG",
+    "iso_3166_1_alpha3": "COG",
+    "fifa": "CGO",
+    "ioc": "CGO",
+    "wikidata": "Q971"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Middle Africa",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the country's forests and agriculture"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the friendship and nobility of the Congolese people"
+    },
+    {
+      "color": "red",
+      "symbolism": "the struggle for independence (no fully canonical interpretation)"
+    }
+  ],
+  "description": "A field divided diagonally from lower-hoist to upper-fly into three bands — green in the lower-hoist triangle, a yellow diagonal stripe across the middle, and red in the upper-fly triangle.",
+  "history": "Adopted on 18 August 1959 as the flag of the autonomous Republic of Congo within the French Community, and retained at independence on 15 August 1960. Replaced on 31 December 1969 by a red flag with a yellow emblem (a crossed hoe and hammer beneath a star, in the style of socialist republics) under the People's Republic of the Congo. Restored on 10 June 1991 following the abandonment of Marxism–Leninism.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1959-08-18",
+      "end": "1969-12-31"
+    },
+    {
+      "start": "1991-06-10"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Republic_of_the_Congo"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "green"
+      ],
+      "count": 3,
+      "direction": "bend-sinister",
+      "symbolism": "the three Pan-African colours arranged diagonally; green for the country's forests and agriculture, yellow for the friendship and nobility of the Congolese people, red traditionally said to symbolise the struggle for independence"
+    }
   ]
 }

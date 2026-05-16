@@ -1,8 +1,84 @@
 {
   "id": "LR-GG",
-  "title": "Grand Gedeh (Liberia)",
-  "iso": "LR-GG",
+  "name": "Grand Gedeh County (Liberia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "LR",
+  "codes": {
+    "iso_3166_2": "LR-GG"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A horizontal pale-blue band across the upper third of the flag and a white field below; the Liberian national flag forms a canton in the upper hoist, an orange rayed sun stands in the upper fly, and a green hill-and-forest landscape sweeps across the lower half.",
+  "history": "Presented by President William V. S. Tubman on 29 November 1965 together with the flags of the other Liberian counties.",
+  "periods": [
+    {
+      "start": "1965-11-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Grand_Gedeh_County",
+    "https://en.wikipedia.org/wiki/Flags_of_the_counties_of_Liberia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "symbolism": "sky over land"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "LR",
+      "proportion": "1/4",
+      "role": "the union",
+      "symbolism": "Grand Gedeh as part of the Republic of Liberia"
+    },
+    {
+      "type": "sun",
+      "color": "orange",
+      "position": "upper-fly",
+      "role": "rising sun",
+      "symbolism": "the dawn of a new day in Grand Gedeh"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "bottom",
+      "role": "forested country",
+      "symbolism": "the forested hill country of the county"
+    }
   ]
 }

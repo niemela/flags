@@ -1,7 +1,52 @@
 {
   "id": "US-AZ-phoenix",
-  "title": "Phoenix, AZ (United States)",
+  "name": "Phoenix (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-AZ",
+  "codes": {
+    "wikidata": "Q16556"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "maroon",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central phoenix bird emblem"
+    }
+  ],
+  "description": "A maroon field charged at the centre with a stylised white phoenix bird.",
+  "history": "Adopted in 1990 following a city-wide design competition, with the winning design by graphic designer John Yeagley.",
+  "periods": [
+    {
+      "start": "1990"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Phoenix,_Arizona"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "maroon",
+      "symbolism": "A maroon (burgundy) field referencing the desert and the city's southwestern setting."
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "stylised phoenix",
+      "symbolism": "A stylised phoenix — the mythical bird that rises reborn from its own ashes — referring directly to the city's name and to its rise on the site of the ancient Hohokam civilisation. The design evokes both a phoenix in flight and a sun."
+    }
   ]
 }

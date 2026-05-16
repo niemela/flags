@@ -1,8 +1,58 @@
 {
   "id": "PL-06",
-  "title": "Lublin (Poland)",
-  "iso": "PL-06",
+  "name": "Lublin Voivodeship (Poland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "PL",
+  "codes": {
+    "iso_3166_2": "PL-06",
+    "wikidata": "Q54155"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the silver field of the historic Lublin coat of arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "from the historic Lublin coat of arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the deer charge on the coat of arms"
+    }
+  ],
+  "description": "Three horizontal stripes of white, red, and yellow, with the red stripe half the width of the others.",
+  "history": "Adopted by the Lublin Voivodeship after its formation in 1999, drawing on the heraldic tinctures of the historic region.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lublin_Voivodeship"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        2
+      ],
+      "symbolism": "the heraldic colours of the historic Lublin land"
+    }
   ]
 }

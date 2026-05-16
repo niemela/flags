@@ -1,8 +1,70 @@
 {
   "id": "IT-75",
-  "title": "Apulia (Italy)",
-  "iso": "IT-75",
+  "name": "Apulia (Italy)",
   "type": [
     "subdivision"
+  ],
+  "parent": "IT",
+  "codes": {
+    "iso_3166_2": "IT-75",
+    "wikidata": "Q1447"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the regional emblem of Castel del Monte"
+    },
+    {
+      "color": "green",
+      "symbolism": "the olive branches surrounding the emblem"
+    }
+  ],
+  "description": "A white field charged at the centre with the regional emblem of Apulia: a red silhouette of Castel del Monte (an octagonal castle) flanked by two green olive branches.",
+  "history": "Adopted by Regional Law n. 7 of 21 March 2003 (and reaffirmed in the 2004 Regional Statute), the flag features the stylised silhouette of Castel del Monte, the octagonal Hohenstaufen castle near Andria built by Emperor Frederick II around 1240 (a UNESCO World Heritage site since 1996).",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2003-03-21"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Apulia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white",
+      "symbolism": "A white field charged with the regional emblem, a stylised octagonal castle (Castel del Monte) with two olive branches."
+    },
+    {
+      "type": "building",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "stylised silhouette of Castel del Monte (the octagonal 13th-century castle of Frederick II, a UNESCO World Heritage site)",
+      "symbolism": "Castel del Monte, built around 1240 by Emperor Frederick II of Hohenstaufen, is one of the most distinctive monuments of medieval Apulia and was adopted as the regional symbol to evoke the Suabian-Norman heritage of southern Italy."
+    },
+    {
+      "type": "olive-branch",
+      "count": 2,
+      "color": "green",
+      "position": "center",
+      "arrangement": "single",
+      "role": "olive branches flanking the castle",
+      "symbolism": "The olive branches reference Apulia's identity as one of Italy's leading olive-oil producing regions."
+    }
   ]
 }

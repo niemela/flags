@@ -1,8 +1,56 @@
 {
   "id": "FI-09",
-  "title": "Kymenlaakso (Finland)",
-  "iso": "FI-09",
+  "name": "Kymenlaakso (Finland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FI",
+  "codes": {
+    "iso_3166_2": "FI-09",
+    "wikidata": "Q5784"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the azure field of the regional arms, evoking the Kymi River and the surrounding waters"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver lower field and the silver charge of the arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold detail of the crown and accents"
+    }
+  ],
+  "description": "A square flag divided horizontally blue over white, charged centrally with the silver and gold arms of Kymenlaakso.",
+  "history": "Kymenlaakso became a region under Finland's 1997 administrative reform; its banner is the heraldic flag of the regional coat of arms.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kymenlaakso",
+    "https://fi.wikipedia.org/wiki/Kymenlaakson_lippu"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "arms of Kymenlaakso",
+      "symbolism": "the silver-and-gold composition of the regional arms, referring to the Kymi River valley and the historic frontier role of the region between Sweden and Russia."
+    }
   ]
 }

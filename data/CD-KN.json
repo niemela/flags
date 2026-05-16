@@ -1,9 +1,76 @@
 {
   "id": "CD-KN",
-  "title": "Kinshasa (Congo-Kinshasa)",
-  "iso": "CD-KN",
+  "name": "Kinshasa (Democratic Republic of the Congo)",
   "type": [
     "subdivision",
     "city"
+  ],
+  "parent": "CD",
+  "codes": {
+    "iso_3166_2": "CD-KN",
+    "wikidata": "Q3732"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Middle Africa",
+    "Francophonie"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the Congo River"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wealth and the equatorial sun"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and the river's wake; foaming water"
+    }
+  ],
+  "description": "A dark blue (navy) field. In the upper half, a large yellow letter K flanked left and right by yellow five-pointed stars. In the lower half, four undulating white wavy bands extending across the field, representing the Congo River.",
+  "history": "Kinshasa, formerly Leopoldville, became the capital of the Democratic Republic of the Congo in 1960 and a city-province in 1966. Its provincial flag follows the post-2006 pattern of Congolese provincial flags adopted under the Third Republic, charging a blue field with stars and a province initial above stylised waves of the Congo River, here in white on blue. The two stars and central initial format mirror that of the other Congolese provinces.",
+  "periods": [
+    {
+      "start": "2006~"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kinshasa"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy",
+      "symbolism": "the dark blue waters of the Congo River, on whose southern bank Kinshasa stands"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "yellow",
+      "position": "top",
+      "role": "two five-pointed yellow stars flanking a central yellow letter K",
+      "symbolism": "the dual stars represent the city's status as both the national capital and a province; following the design pattern used on Congolese provincial flags."
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "yellow",
+      "position": "top",
+      "role": "the letter 'K' between the two stars",
+      "symbolism": "K for Kinshasa."
+    },
+    {
+      "type": "wave",
+      "count": 4,
+      "color": "white",
+      "position": "bottom",
+      "role": "stylised wavy white lines crossing the lower half of the field",
+      "symbolism": "the Congo River, on whose banks Kinshasa is built; the meeting of the river and the city."
+    }
   ]
 }

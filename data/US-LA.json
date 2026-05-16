@@ -1,8 +1,68 @@
 {
   "id": "US-LA",
-  "title": "Louisiana (United States)",
-  "iso": "US-LA",
+  "name": "Louisiana (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-LA",
+    "fips_state": "22",
+    "wikidata": "Q1588"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the heraldic colour of Louisiana"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A blue field with a heraldic 'pelican in her piety' centred on it: a white pelican in a nest, tearing at her breast to feed three chicks, with three drops of red blood on her chest. Below the nest, a white scroll bears the state motto 'UNION JUSTICE CONFIDENCE' in blue.",
+  "history": "The pelican-and-motto design has been associated with Louisiana since the early 19th century and was used unofficially as a state flag through the 19th and early 20th centuries. The blue-field flag was officially adopted by the Louisiana State Legislature on 1 July 1912. The design was clarified by Act 92 of 2006 to require three drops of blood on the pelican's chest, after a fourth-grader noticed they had often been omitted in printed versions.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1912-07-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Louisiana"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "brown pelican (depicted white with gold accents) tearing at her breast in 'piety' to feed three chicks in a nest, with three drops of red blood falling on her chest",
+      "symbolism": "self-sacrifice — the legend of the pelican feeding her young from her own blood; the brown pelican is Louisiana's state bird"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "bottom",
+      "role": "white ribbon scroll bearing the state motto 'UNION JUSTICE CONFIDENCE' in blue, beneath the pelican"
+    }
   ]
 }

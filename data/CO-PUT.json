@@ -1,8 +1,49 @@
 {
   "id": "CO-PUT",
-  "title": "Putumayo (Colombia)",
-  "iso": "CO-PUT",
+  "name": "Putumayo (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-PUT",
+    "wikidata": "Q121134"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the lush Amazonian rainforest that covers most of the department"
+    },
+    {
+      "color": "white",
+      "symbolism": "the peace, purity and rivers of the region"
+    },
+    {
+      "color": "black",
+      "symbolism": "the petroleum wealth that drives the local economy"
+    }
+  ],
+  "description": "Three equal horizontal stripes, green, white and black from top to bottom.",
+  "history": "Putumayo became a department of Colombia in 1991; its tricolour flag combines the green of the Amazon, the white of its rivers, and the black of its oil reserves.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Putumayo_Department"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "black"
+      ],
+      "count": 3
+    }
   ]
 }

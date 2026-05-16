@@ -1,8 +1,68 @@
 {
   "id": "RU-ARK",
-  "title": "Arkhangelsk Oblast (Russia)",
-  "iso": "RU-ARK",
+  "name": "Arkhangelsk Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-ARK",
+    "wikidata": "Q5380"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the snows of the North and purity"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the White Sea, the Northern Dvina, and the sky"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wealth and history of the Pomor lands"
+    },
+    {
+      "color": "black",
+      "symbolism": "the dragon defeated by Archangel Michael"
+    }
+  ],
+  "description": "A white field crossed by a blue diagonal band running from the upper hoist to the lower fly; the band is charged at the centre with the oblast's coat of arms depicting Archangel Michael slaying a dragon.",
+  "history": "The flag of Arkhangelsk Oblast was officially adopted on 22 December 2003 by the Arkhangelsk Oblast Assembly of Deputies. It draws on the historic emblem of Arkhangelsk Governorate, which featured Archangel Michael, namesake of the city.",
+  "periods": [
+    {
+      "start": "2003-12-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Arkhangelsk_Oblast",
+    "https://en.wikipedia.org/wiki/Arkhangelsk_Oblast"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "white"
+      ],
+      "count": 3,
+      "direction": "bend-sinister",
+      "symbolism": "the diagonal blue band recalls the historic coat of arms of Arkhangelsk Governorate, traditionally depicted with Archangel Michael against the dragon."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Arkhangelsk Oblast coat of arms",
+      "symbolism": "Archangel Michael, the patron of the city and oblast, slaying a black dragon; placed at the centre of the diagonal blue band."
+    }
   ]
 }

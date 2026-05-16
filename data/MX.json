@@ -1,8 +1,83 @@
 {
   "id": "MX",
-  "title": "Mexico",
-  "iso": "MX",
+  "name": "Mexico",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "MX",
+    "iso_3166_1_alpha3": "MEX",
+    "fifa": "MEX",
+    "ioc": "MEX",
+    "wikidata": "Q96"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Central America",
+    "Latin America"
+  ],
+  "aspect_ratio": "4:7",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "originally independence; later, hope"
+    },
+    {
+      "color": "white",
+      "symbolism": "originally the Catholic faith; later, unity"
+    },
+    {
+      "color": "red",
+      "symbolism": "originally the union of Europeans and Americans; later, the blood of the national heroes"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Three equal vertical stripes of green (hoist), white and red. Centred on the white stripe is the national coat of arms — a golden eagle, perched on a prickly-pear cactus growing from a rock in a lake, holding a writhing serpent in its beak and right talon — flanked at the base by oak and laurel branches tied with a green-white-red ribbon.",
+  "history": "The green-white-red tricolour traces to the Army of the Three Guarantees (Trigarante) under Agustín de Iturbide in 1821, with the colours denoting the three guarantees of the Plan de Iguala — independence, religion, and union. The eagle-and-serpent emblem was added shortly after independence and has appeared in many forms; the present coat of arms was designed by Francisco Eppens Helguera and adopted on 16 September 1968. The current flag, with proportions 4:7 and the present coat of arms in the centre of the white stripe, was officially codified by the Law on the National Arms, Flag and Anthem of 24 February 1984.",
+  "variant": [
+    "civil",
+    "state",
+    "war",
+    "civil-ensign",
+    "state-ensign",
+    "naval-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1968-09-16"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Mexico"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "originally interpreted as independence (green), the Roman Catholic religion (white), and union of Europeans and Americans (red); reinterpreted under President Benito Juárez as hope (green), unity (white), and the blood of the national heroes (red)"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Coat of arms of Mexico",
+      "symbolism": "depicts the Aztec foundation legend of Tenochtitlan: a golden eagle perched on a prickly-pear cactus (nopal) growing from a rock in a lake, devouring a serpent. According to the legend recorded in the Crónica Mexicáyotl, the Mexica wandered for centuries until they saw this sign at the place that became their capital. The cactus rises from a stylised island; below, an oak branch (strength) and a laurel branch (victory) tied with a ribbon in the national colours frame the lower edge."
+    }
   ]
 }

@@ -1,9 +1,71 @@
 {
-  "id": "CA_1921-1957",
-  "title": "Canada (1921-1957)",
-  "iso": "CA",
+  "id": "CA_1957",
+  "name": "Canada (1921–1957)",
   "type": [
     "historical",
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q1199155"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A red field with the Union Flag in the upper hoist canton and, centred on the fly, the Canadian royal arms granted by King George V in 1921: a shield quartered with the arms of England, Scotland, Ireland, and a fleur-de-lis for France, surmounted on a white base of three green maple leaves on a single stem.",
+  "history": "Adopted by order in council on 26 April 1922 following King George V's grant of the Royal Arms of Canada by royal proclamation on 21 November 1921. The new arms replaced the old composite shield of provincial arms with a unified national design referencing the founding peoples (English lions, Scottish lion, Irish harp, French fleur-de-lis) above a Canadian base of three maple leaves on a single stem, originally in their natural green. The Red Ensign with this version of the arms served as the de facto Canadian flag on land and as the merchant ensign at sea throughout the inter-war period and the Second World War. In 1957 a royal proclamation altered the maple leaves on the arms from green to red; this 1921-pattern flag with green leaves was used until then.",
+  "variant": [
+    "civil-ensign"
+  ],
+  "status": "de-facto",
+  "periods": [
+    {
+      "start": "1921",
+      "end": "1957"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Canadian_Red_Ensign",
+    "https://en.wikipedia.org/wiki/Arms_of_Canada"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the British Red Ensign, defaced with the Canadian royal arms"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Flag, denoting Canada's status as a dominion of the British Empire and later Commonwealth"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center-fly",
+      "role": "Royal Arms of Canada (1921 grant): three green maple leaves on a white base, surmounted by the quartered arms of England, Scotland, Ireland, and a fleur-de-lis for France",
+      "symbolism": "the founding peoples of Canada — English, Scottish, Irish, French — over a Canadian base of maple leaves"
+    }
   ]
 }

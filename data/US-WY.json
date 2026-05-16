@@ -1,8 +1,74 @@
 {
   "id": "US-WY",
-  "title": "Wyoming (United States)",
-  "iso": "US-WY",
+  "name": "Wyoming (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-WY",
+    "fips_state": "56",
+    "wikidata": "Q1214"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the Native peoples of Wyoming and the blood of those who gave their lives reclaiming the soil"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and uprightness"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the color of the sky and the distant mountains; fidelity, justice and virility"
+    }
+  ],
+  "description": "A blue field with a wide red border, separated from the field by a narrow white fimbriation. In the center, the silhouette of a white American bison facing the hoist, charged on its body with the state seal in blue.",
+  "history": "Adopted on 31 January 1917 from a design by Verna Keays of Buffalo, Wyoming, who won a 1916 contest sponsored by the Wyoming chapter of the Daughters of the American Revolution. Keays originally placed the bison facing the fly; on the recommendation of artist Grace Raymond Hebard the bison was reversed to face the hoist, in the heraldic position of honor. The state seal branded onto the buffalo is the design's distinctive vexillological feature.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1917-01-31"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Wyoming"
+  ],
+  "features": [
+    {
+      "type": "bordure",
+      "field": "blue",
+      "border": "red",
+      "fimbriation": {
+        "color": "white",
+        "around": "all-edges"
+      },
+      "symbolism": "the red border represents the Native Americans who first inhabited the region and the blood of pioneers who gave their lives reclaiming the soil; the white fimbriation symbolizes purity and uprightness; the blue field, taken from the sky and the distant mountains, represents fidelity, justice and virility"
+    },
+    {
+      "type": "animal-other",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "the silhouette of an American bison",
+      "symbolism": "the buffalo, once the monarch of the plains; recalls Wyoming's frontier era and is depicted as if branded with the state seal — 'the buffalo bears the brand of the state'"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "the Great Seal of the State of Wyoming, depicted in the silhouette of the buffalo",
+      "symbolism": "the seal shows a draped female figure holding a banner reading 'Equal Rights' (Wyoming was the first U.S. territory to grant women's suffrage in 1869) flanked by male figures representing livestock and mining; the dates '1869' and '1890' mark the territorial and statehood years; depicting the seal on the buffalo represents the historic branding of cattle"
+    }
   ]
 }

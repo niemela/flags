@@ -1,8 +1,52 @@
 {
   "id": "FR-OCC",
-  "title": "Occitanie (France)",
-  "iso": "FR-OCC",
+  "name": "Occitanie (France)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FR",
+  "codes": {
+    "iso_3166_2": "FR-OCC",
+    "wikidata": "Q19058114"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the gules field of the historic arms of the Counts of Toulouse"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold (or) of the cross of Toulouse"
+    }
+  ],
+  "description": "A red field charged with the gold cross of Toulouse (a voided, pommetty cross with twelve gold roundels at its arm-ends) - the historic emblem of the Counts of Toulouse and of Occitania.",
+  "history": "The cross of Toulouse on a red field is the historic banner of the medieval Counts of Toulouse and is used as the symbol of the Occitan cultural region. The modern French region of Occitanie was created by the territorial reform of 2016 (merging Languedoc-Roussillon and Midi-Pyrenees) and adopted the historic Occitan flag as its regional emblem.",
+  "variant": [
+    "civil"
+  ],
+  "status": "de-facto",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Occitania"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "The gules field of the historic arms of the Counts of Toulouse, charged with the cross of Toulouse (the Occitan cross)."
+    },
+    {
+      "type": "greek-cross",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "cross of Toulouse (Occitan cross), a voided and pommetty cross with twelve gold roundels at its arm-ends",
+      "symbolism": "The cross of Toulouse, also called the Occitan cross, is the historic emblem of the Counts of Toulouse and of the wider Occitan cultural region. It is identified with both the medieval county and the modern Occitan revival, and is the central element of the regional flag of Occitanie."
+    }
   ]
 }

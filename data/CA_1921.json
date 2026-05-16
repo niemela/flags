@@ -1,9 +1,71 @@
 {
-  "id": "CA_1868-1921",
-  "title": "Canada (1868-1921)",
-  "iso": "CA",
+  "id": "CA_1921",
+  "name": "Canada (1868–1921)",
   "type": [
     "historical",
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q1199155"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A red field with the Union Flag in the upper hoist canton and, in the centre of the fly, a composite shield bearing the arms of the Canadian provinces. The shield was modified as new provinces entered Confederation, accreting quarterings until its design became unwieldy.",
+  "history": "The Canadian Red Ensign was first flown in 1868, shortly after Confederation, when the Admiralty authorised Canadian-registered ships to fly the British Red Ensign defaced with the composite arms of the original four provinces (Ontario, Quebec, Nova Scotia, New Brunswick). Although primarily a merchant ensign, it was widely used on land as Canada's de facto national flag. The shield was repeatedly modified as new provinces joined: Manitoba, British Columbia, and Prince Edward Island arms were added in 1870, 1871, and 1873 respectively. By the early 20th century the design held seven and then nine provincial arms in a single shield. In 1921 King George V granted Canada its own coat of arms (red maple leaves on a white base, surmounted by quarterings of the four founding kingdoms), and the Red Ensign was redrawn to use this new shield, ending the period of the proliferating provincial composite arms.",
+  "variant": [
+    "civil-ensign"
+  ],
+  "status": "de-facto",
+  "periods": [
+    {
+      "start": "1868",
+      "end": "1921"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Canadian_Red_Ensign"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the British Red Ensign, used by ships of the merchant marine and unofficially as the Dominion of Canada's national flag"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Flag, denoting Canada's status as a self-governing dominion of the British Empire"
+    },
+    {
+      "type": "shield",
+      "position": "center-fly",
+      "color": "white",
+      "role": "Composite arms of the four original provinces (Ontario, Quebec, Nova Scotia, New Brunswick), to which arms of additional provinces were progressively added as they joined Confederation",
+      "symbolism": "the provinces of the Dominion of Canada"
+    }
   ]
 }

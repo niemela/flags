@@ -1,8 +1,80 @@
 {
-  "id": "RU_1954-1991",
-  "title": "Russia (1954-1991)",
+  "id": "RU_1991",
+  "name": "Russian SFSR (1954–1991)",
   "type": [
     "historical",
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q183160"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Post-Soviet",
+    "Slavic"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the revolutionary struggle of the working class"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "distinguishing colour of the Russian SFSR"
+    },
+    {
+      "color": "gold",
+      "symbolism": "a bright communist future"
+    }
+  ],
+  "description": "A red field with a narrow light-blue vertical stripe along the hoist (one-eighth of the flag's width). In the upper hoist, on the red ground beside the blue stripe, a gold hammer crossed by a sickle surmounted by a gold-bordered red five-pointed star.",
+  "history": "Adopted on 9 January 1954 by decree of the Presidium of the Supreme Soviet of the RSFSR, following the broader 1947–1953 standardisation of Soviet republican flags around a red ground with the all-Union hammer-sickle-and-star plus a republic-specific stripe. The earlier RSFSR flag (a plain red field with the gold Cyrillic abbreviation 'РСФСР' in the upper hoist) was abandoned in favour of the new design. The 1954 flag served as the flag of the Russian SFSR within the USSR until 22 August 1991, when, in the wake of the failed August coup, the Supreme Soviet of the RSFSR restored the pre-revolutionary white-blue-red tricolour as the state flag of Russia.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1954-01-09",
+      "end": "1991-08-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Russia",
+    "https://en.wikipedia.org/wiki/Russian_Soviet_Federative_Socialist_Republic"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "light-blue",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        7
+      ],
+      "symbolism": "the Soviet red field carries the revolutionary symbolism; the narrow light-blue hoist stripe distinguishes the Russian SFSR from the all-Union Soviet flag"
+    },
+    {
+      "type": "hammer-and-sickle",
+      "color": "gold",
+      "position": "upper-hoist",
+      "symbolism": "the alliance of industrial workers (hammer) and peasantry (sickle) under Soviet socialism"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "Red Star with gold border",
+      "symbolism": "the ultimate triumph of communism on the five inhabited continents"
+    }
   ]
 }

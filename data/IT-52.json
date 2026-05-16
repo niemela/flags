@@ -1,8 +1,72 @@
 {
   "id": "IT-52",
-  "title": "Tuscany (Italy)",
-  "iso": "IT-52",
+  "name": "Tuscany (Italy)",
   "type": [
     "subdivision"
+  ],
+  "parent": "IT",
+  "codes": {
+    "iso_3166_2": "IT-52",
+    "wikidata": "Q1273"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field, recalling the historic arms of Florence"
+    },
+    {
+      "color": "red",
+      "symbolism": "the bordering stripes and the Pegasus, recalling the historic arms of Florence"
+    }
+  ],
+  "description": "A white field bordered above and below by narrow red horizontal stripes, with a red rampant Pegasus in the upper fly.",
+  "history": "Adopted as the regional flag in 1975 (Regional Statute) and reconfirmed in 1995. The Pegasus emblem was designed by Mario Delle Piane in 1944 as the symbol of the Tuscan Committee of National Liberation (Comitato Toscano di Liberazione Nazionale).",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1975"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Tuscany"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 5,
+      "widths": [
+        3,
+        2,
+        10,
+        2,
+        3
+      ],
+      "symbolism": "A predominantly white field bounded by two narrow red bars; the white-and-red palette derives from the historic arms of the Florentine and Tuscan communes."
+    },
+    {
+      "type": "mythical-creature",
+      "count": 1,
+      "color": "red",
+      "position": "upper-fly",
+      "rotation": 0,
+      "role": "Pegasus rampant",
+      "symbolism": "The winged horse Pegasus was adopted as the symbol of the wartime Tuscan Committee of National Liberation in 1944 (designed by Mario Delle Piane), evoking the rebirth and freedom of the region; it has remained the official emblem of Tuscany ever since."
+    }
   ]
 }

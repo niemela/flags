@@ -1,7 +1,58 @@
 {
   "id": "NO-04",
-  "title": "Hedmark (Norway, 1987-2020)",
+  "name": "Hedmark (Norway, 1987–2019)",
   "type": [
+    "historical",
     "subdivision"
+  ],
+  "parent": "NO",
+  "codes": {
+    "iso_3166_2": "NO-04",
+    "wikidata": "Q50628"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia"
+  ],
+  "aspect_ratio": "100:123",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the forests and agricultural land of Hedmark"
+    },
+    {
+      "color": "white",
+      "symbolism": "silver (argent) for the birch trees"
+    }
+  ],
+  "description": "A green field charged with three silver birch trees in a row.",
+  "history": "Granted to Hedmark county on 17 April 1987. The county was abolished on 1 January 2020 when it was merged with Oppland into the new Innlandet county.",
+  "status": "historical",
+  "periods": [
+    {
+      "start": "1987-04-17",
+      "end": "2019-12-31"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hedmark",
+    "https://no.wikipedia.org/wiki/Hedmarks_fylkesv%C3%A5pen"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "heraldic banner of the county arms: three silver birch trees on a green field, evoking Hedmark's forests"
+    },
+    {
+      "type": "tree",
+      "count": 3,
+      "color": "white",
+      "arrangement": "row",
+      "position": "center",
+      "role": "birch trees",
+      "symbolism": "the birch (Betula) is characteristic of Hedmark; three trees of the same species are a heraldic device for the county's woodlands"
+    }
   ]
 }

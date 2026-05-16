@@ -1,8 +1,77 @@
 {
   "id": "NR",
-  "title": "Nauru",
-  "iso": "NR",
+  "name": "Nauru",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "NR",
+    "iso_3166_1_alpha3": "NRU",
+    "fifa": "NRU",
+    "ioc": "NRU",
+    "wikidata": "Q697"
+  },
+  "region": [
+    "Oceania",
+    "Micronesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the Pacific Ocean which surrounds Nauru"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the equator, on which Nauru sits just south of, depicted as a yellow line across the flag"
+    },
+    {
+      "color": "white",
+      "symbolism": "the twelve-pointed star representing the country's twelve original tribes"
+    }
+  ],
+  "description": "A deep blue field crossed horizontally across its centre by a narrow yellow stripe (the equator), with a single white twelve-pointed star positioned in the lower-hoist quarter just below the yellow stripe.",
+  "history": "Adopted on 31 January 1968, the day Nauru gained independence from the joint trusteeship of Australia, New Zealand and the United Kingdom. The flag was designed by an Australian firm at the request of the Nauruan government; its highly literal cartographic conceit — locating the island on a map of the Pacific just below the equator — is unusual among national flags.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1968-01-31"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Nauru"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        11,
+        2,
+        11
+      ],
+      "symbolism": "a deep blue field representing the Pacific Ocean, divided across its centre by a narrow yellow horizontal stripe — the equator — with the island depicted by a single star just below it"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 12,
+      "color": "white",
+      "position": "lower-hoist",
+      "role": "twelve-pointed star",
+      "symbolism": "the geographic position of Nauru in the Pacific (just south of the equator); its twelve points represent the country's twelve original indigenous tribes"
+    }
   ]
 }

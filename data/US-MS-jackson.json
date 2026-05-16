@@ -1,7 +1,39 @@
 {
   "id": "US-MS-jackson",
-  "title": "Jackson, MS (United States)",
+  "name": "Jackson (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-MS",
+  "codes": {
+    "wikidata": "Q28198"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the lush vegetation of the Mississippi capital"
+    },
+    {
+      "color": "white",
+      "symbolism": "the equal-armed cross dividing the field"
+    }
+  ],
+  "description": "A green field charged with a centred equal-armed white cross extending to the edges, dividing the field into four green rectangles.",
+  "history": "Jackson, the capital of Mississippi, uses a simple green-and-white cross design as its municipal flag.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jackson,_Mississippi"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "green",
+      "cross": "white"
+    }
   ]
 }

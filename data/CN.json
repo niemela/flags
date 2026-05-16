@@ -1,8 +1,74 @@
 {
   "id": "CN",
-  "title": "China",
-  "iso": "CN",
+  "name": "China",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "CN",
+    "iso_3166_1_alpha3": "CHN",
+    "fifa": "CHN",
+    "ioc": "CHN",
+    "wikidata": "Q148"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the Chinese Communist revolution; traditional Chinese symbol of fortune"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden brightness of the revolution; also recalls the historic colour of the Han Chinese ('descendants of the Yellow Emperor')"
+    }
+  ],
+  "description": "A red field with five yellow five-pointed stars in the upper-hoist quarter: one large star and, in an arc to its right (toward the fly), four smaller stars; each smaller star has one of its points oriented toward the centre of the large star.",
+  "history": "Designed by Zeng Liansong, an economist from Shanghai, and selected from nearly 3,000 entries in a public competition. The design was approved by the First Plenary Session of the Chinese People's Political Consultative Conference and proclaimed alongside the founding of the People's Republic of China by Mao Zedong from the Tiananmen rostrum on 1 October 1949. Originally Zeng's design included a hammer and sickle inside the large star; this was removed at the suggestion of the selection committee. Specifications are codified in the Flag Law of the People's Republic of China (1990) and GB 12982-2004.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign",
+    "naval-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1949-10-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_China"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the colour of the Chinese Communist revolution and, traditionally, of good fortune; the blood of those who fell in the revolutionary struggle"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "size": "large",
+      "position": "upper-hoist",
+      "role": "large star (Communist Party of China)",
+      "symbolism": "the leadership of the Communist Party of China"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "yellow",
+      "size": "small",
+      "position": "upper-hoist",
+      "arrangement": "arc",
+      "role": "four small stars",
+      "symbolism": "originally the four revolutionary social classes united under the Party — the working class, the peasantry, the urban petty bourgeoisie and the national bourgeoisie; each small star is oriented so that one of its points is directed at the centre of the large star, expressing the unity of the people under the leadership of the Party"
+    }
   ]
 }

@@ -1,8 +1,75 @@
 {
   "id": "AR-S",
-  "title": "Santa Fe (Argentina)",
-  "iso": "AR-S",
+  "name": "Santa Fe (Argentina)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AR",
+  "codes": {
+    "iso_3166_2": "AR-S",
+    "wikidata": "Q44923"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the federalist banner of Estanislao Lopez and the federalist tradition of Santa Fe"
+    },
+    {
+      "color": "white",
+      "symbolism": "the colours of the Argentine national flag created on the banks of the Parana by Manuel Belgrano"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the colours of the Argentine national flag"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the Sun of May"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the wheat ears of the breadbasket of Argentina"
+    },
+    {
+      "color": "black",
+      "symbolism": "outline of the provincial coat of arms"
+    }
+  ],
+  "description": "A vertical triband of red, white and light blue with the provincial coat of arms — an oval bearing the Sun of May above clasped hands holding a Phrygian-capped pike over wavy water, framed by olive and laurel branches — set in the centre.",
+  "history": "Adopted by provincial law 10.302 on 28 December 1985 after a competition won by Hector Pedrazzini. The colours commemorate two strands of provincial heritage: the red federalist banner of caudillo Estanislao Lopez (governor 1818–1838) and the celestial blue and white of the Argentine national flag, which was created and first hoisted by Manuel Belgrano on the banks of the Parana at Rosario on 27 February 1812.",
+  "periods": [
+    {
+      "start": "1985-12-28"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Santa_Fe_Province",
+    "https://es.wikipedia.org/wiki/Bandera_de_la_provincia_de_Santa_Fe"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "light-blue"
+      ],
+      "count": 3,
+      "symbolism": "red for the federalist banner of Santa Fe and its caudillo Estanislao Lopez; white and light blue for the Argentine national flag created and first hoisted by Manuel Belgrano on the banks of the Parana"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "coat of arms of Santa Fe Province",
+      "symbolism": "the provincial coat of arms — an oval shield bearing two clasped hands holding a pike topped by a Phrygian cap above wavy lines (the Parana river), surmounted by a Sun of May and surrounded by olive and laurel branches — recalling liberty, the May Revolution and the role of Santa Fe in Argentina's history"
+    }
   ]
 }

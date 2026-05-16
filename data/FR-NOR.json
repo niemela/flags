@@ -1,8 +1,61 @@
 {
   "id": "FR-NOR",
-  "title": "Normandie (France)",
-  "iso": "FR-NOR",
+  "name": "Normandy (France)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FR",
+  "codes": {
+    "iso_3166_2": "FR-NOR",
+    "wikidata": "Q18677310"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the gules (red) field of the historic ducal arms of Normandy"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold (or) of the two lions passant guardant"
+    },
+    {
+      "color": "blue",
+      "symbolism": "shading and outlines of the lions"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlines and details of the lions' figures"
+    }
+  ],
+  "description": "A red field charged with two gold lions passant guardant in pale (les deux leopards) - the historic arms of the Duchy of Normandy.",
+  "history": "The two gold lions on red are the historic arms of the Duchy of Normandy, in continuous use since the late 12th century. They appear on the arms of the Channel Islands (Jersey and Guernsey) which descend from the Duchy. The flag is used as the regional flag of Normandy in a de-facto capacity; the modern Region of Normandie was reconstituted in 2016 by the merger of Haute-Normandie and Basse-Normandie.",
+  "variant": [
+    "civil"
+  ],
+  "status": "de-facto",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Normandy"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "The historic gules field of the Duchy of Normandy."
+    },
+    {
+      "type": "lion",
+      "count": 2,
+      "color": "yellow",
+      "position": "center",
+      "arrangement": "row",
+      "role": "two lions passant guardant in pale (les deux leopards)",
+      "symbolism": "The two gold lions passant guardant on red are the historic arms of the Duchy of Normandy, attributed to William the Conqueror's successors and used continuously since the 12th century. In Norman heraldry these lions are traditionally called leopards (the heraldic term for lions in passant guardant attitude)."
+    }
   ]
 }

@@ -1,8 +1,74 @@
 {
   "id": "ES-CM",
-  "title": "Castile-La Mancha (Spain)",
-  "iso": "ES-CM",
+  "name": "Castile-La Mancha (Spain)",
   "type": [
     "subdivision"
+  ],
+  "parent": "ES",
+  "codes": {
+    "iso_3166_2": "ES-CM",
+    "wikidata": "Q5748"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Iberian Peninsula",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the crimson of the historic Crown of Castile"
+    },
+    {
+      "color": "white",
+      "symbolism": "the white shields of the Order of Saint John (Knights Hospitaller) of La Mancha"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden castle of Castile"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the door, windows and details of the castle"
+    },
+    {
+      "color": "black",
+      "symbolism": "outline details of the castle"
+    }
+  ],
+  "description": "Vertically divided in two equal halves by a vertical line: the hoist half crimson and bearing a golden three-towered castle in the centre; the fly half plain white.",
+  "history": "Adopted by Article 5 of the Statute of Autonomy of Castile-La Mancha (Organic Law 9/1982 of 10 August). The crimson half with the golden castle recalls the historic Crown of Castile; the plain white fly represents the territories of the Order of Saint John (Knights Hospitaller) and the Order of Santiago, whose lordships covered much of La Mancha during the Reconquista.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1982-08-10"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Castilla-La_Mancha"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "symbolism": "Vertically divided in two equal halves: the hoist half crimson with a golden castle (representing the historic Crown of Castile), the fly half white (representing the white shields of the Knights of Saint John associated with La Mancha)."
+    },
+    {
+      "type": "building",
+      "count": 1,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "the golden three-towered castle of Castile",
+      "symbolism": "the historic arms of the Crown of Castile, recalling the medieval kingdom that gave its name to the region."
+    }
   ]
 }

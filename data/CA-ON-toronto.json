@@ -1,7 +1,69 @@
 {
   "id": "CA-ON-toronto",
-  "title": "Toronto, ON (Canada)",
+  "name": "Toronto (Canada)",
   "type": [
     "city"
+  ],
+  "parent": "CA-ON",
+  "codes": {
+    "wikidata": "Q172"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "Lake Ontario, on which the city is built"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stylised silhouette of Toronto City Hall"
+    },
+    {
+      "color": "red",
+      "symbolism": "a stylised maple leaf, identifying the city as Canadian"
+    }
+  ],
+  "description": "A blue field bearing a white stylised silhouette of Toronto City Hall's twin curved towers, with a red maple leaf at its base; the white shape simultaneously forms the letter 'T' for Toronto.",
+  "history": "Designed by Renato de Santis, who won a 1974 design competition held by the borough of North York, and adopted by the City of Toronto on 21 June 1999 to mark the amalgamation of Metropolitan Toronto's six municipalities into a single city. The design had previously been used as the flag of the City of Toronto from 1974 to 1998.",
+  "periods": [
+    {
+      "start": "1974",
+      "end": "1998"
+    },
+    {
+      "start": "1999-06-21"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Toronto"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the blue field on which the white silhouette of Toronto City Hall is set"
+    },
+    {
+      "type": "building",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "stylised silhouette of Toronto City Hall",
+      "symbolism": "The white shape forms the twin curved towers of Toronto City Hall (designed by Viljo Revell, opened in 1965); the negative space between them simultaneously forms a 'T' for Toronto."
+    },
+    {
+      "type": "maple-leaf",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "red maple leaf at the base of the City Hall silhouette",
+      "symbolism": "the council chamber of City Hall and the city's place within Canada"
+    }
   ]
 }

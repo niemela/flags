@@ -1,8 +1,76 @@
 {
   "id": "HR",
-  "title": "Croatia",
-  "iso": "HR",
+  "name": "Croatia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "HR",
+    "iso_3166_1_alpha3": "HRV",
+    "fifa": "CRO",
+    "ioc": "CRO",
+    "wikidata": "Q224"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "from the historic arms of the Kingdom of Croatia and the red squares of the chequy shield"
+    },
+    {
+      "color": "white",
+      "symbolism": "from the Croatian chequy and from the arms of Slavonia"
+    },
+    {
+      "color": "blue",
+      "symbolism": "from the historic arms of Slavonia and Dalmatia; the third pan-Slavic colour"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "appears in the regional crowns and on the Dalmatian leopards"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Three equal horizontal stripes — red, white, and blue — with the Croatian coat of arms (a red-and-white chequy shield surmounted by a crown of five regional shields) centred over all three bands.",
+  "history": "The pan-Slavic red-white-blue tricolour was first raised by Ban Josip Jelacic at his installation on 4 June 1848, drawing on the colours of the kingdoms of Croatia, Slavonia and Dalmatia. It served continuously as the Croatian flag through the Kingdom of Croatia-Slavonia (1868–1918), the Banovina of Croatia (1939–1941), the Independent State of Croatia (1941–1945) and the Socialist Republic of Croatia (1945–1990, with a red star in place of arms). The current design — designed by Miroslav Sutej with the new coat of arms — was adopted on 21 December 1990 by the Croatian Parliament, six months before the declaration of independence from Yugoslavia (25 June 1991).",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1990-12-21"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Croatia",
+    "https://en.wikipedia.org/wiki/Coat_of_arms_of_Croatia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "symbolism": "the pan-Slavic colours, combining the historic red-and-white of the Kingdom of Croatia, the blue-and-white of the Kingdom of Slavonia, and (with the blue) the Kingdom of Dalmatia"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Coat of arms of Croatia",
+      "symbolism": "the red-and-white chequy shield (sahovnica) of Croatia, in use since at least the late 15th century, surmounted by a five-crown 'crown' formed from the historic arms of the Croatian regions: from hoist to fly, the oldest known arms of Croatia (a yellow six-pointed star above a silver crescent on blue), the arms of Dubrovnik, Dalmatia (three crowned leopards' heads on blue), Istria, and Slavonia (a marten between two rivers under a six-pointed star)"
+    }
   ]
 }

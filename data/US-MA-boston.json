@@ -1,7 +1,55 @@
 {
   "id": "US-MA-boston",
-  "title": "Boston, MA (United States)",
+  "name": "Boston (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-MA",
+  "codes": {
+    "wikidata": "Q100"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field, taken from the colour of the city seal"
+    },
+    {
+      "color": "white",
+      "symbolism": "the surround and motto ribbon of the seal"
+    },
+    {
+      "color": "gold",
+      "symbolism": "ornamentation on the seal"
+    }
+  ],
+  "description": "A blue field charged with the seal of the City of Boston in the centre.",
+  "history": "Adopted in 1917 after a competition organised by the Boston Art Commission, won by H. K. Murphy. The current rendering — a blue field bearing the city seal — was standardised in subsequent years and remains in use; periodic redesign efforts (most recently in the 2010s and 2020s) have not produced a replacement.",
+  "periods": [
+    {
+      "start": "1917"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Boston"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the blue field of the Boston city seal"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "Seal of the City of Boston",
+      "symbolism": "The city seal depicts a view of colonial Boston from across the harbour with three hills (the original Trimountain), a sailing ship, and the Latin motto 'Sicut patribus, sit Deus nobis' ('As with our fathers, may God be with us'). The seal commemorates Boston's settlement in 1630 and its history as an Atlantic port city."
+    }
   ]
 }

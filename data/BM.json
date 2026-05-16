@@ -1,8 +1,73 @@
 {
   "id": "BM",
-  "title": "Bermuda",
-  "iso": "BM",
+  "name": "Bermuda (United Kingdom)",
   "type": [
     "subdivision"
+  ],
+  "parent": "GB",
+  "codes": {
+    "iso_3166_1_alpha2": "BM",
+    "iso_3166_1_alpha3": "BMU",
+    "fifa": "BER",
+    "ioc": "BER",
+    "wikidata": "Q23635"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field of the British Red Ensign"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltire and cross of the Union Flag canton; sails of the wrecked ship in the coat of arms"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the field of the Union Flag canton; the sea around the wrecked ship"
+    },
+    {
+      "color": "green",
+      "symbolism": "the rocks on which the ship founders"
+    }
+  ],
+  "description": "A British Red Ensign — red field with the Union Flag in the upper-hoist canton — defaced in the fly with the coat of arms of Bermuda: a red lion holding a shield showing the wreck of the Sea Venture striking the rocks.",
+  "history": "Adopted on 4 October 1910 as the civil ensign of Bermuda. Bermuda is the only British Overseas Territory with a current civilian flag based on the Red Ensign rather than the Blue Ensign; the Blue Ensign with the Bermuda badge is reserved as a government ensign. The coat of arms was granted in 1910 and references the 1609 wreck of the Sea Venture, which led to the English settlement of the islands.",
+  "variant": [
+    "civil"
+  ],
+  "periods": [
+    {
+      "start": "1910-10-04"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Bermuda"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the field of the British Red Ensign — Bermuda is unusual among British Overseas Territories in using a defaced Red Ensign rather than a Blue Ensign as its civil flag"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "role": "Union Flag",
+      "symbolism": "Bermuda's status as a British Overseas Territory"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "fly",
+      "role": "coat of arms of Bermuda",
+      "symbolism": "a red lion holding a scrolled escutcheon depicting the wreck of the Sea Venture (1609) on the reefs of Bermuda — the event that led to the islands' settlement by the English"
+    }
   ]
 }

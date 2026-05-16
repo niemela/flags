@@ -1,8 +1,66 @@
 {
   "id": "IT-42",
-  "title": "Liguria (Italy)",
-  "iso": "IT-42",
+  "name": "Liguria (Italy)",
   "type": [
     "subdivision"
+  ],
+  "parent": "IT",
+  "codes": {
+    "iso_3166_2": "IT-42",
+    "wikidata": "Q1256"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field of the Saint George's cross of Genoa"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross of Saint George"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the regional emblem placed in the upper hoist canton"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "details of the regional emblem"
+    }
+  ],
+  "description": "A white field charged with the red couped cross of Saint George (the Genoese cross), with the blue regional coat of arms placed in the upper hoist canton.",
+  "history": "Adopted by Regional Law n. 23 of 30 July 1997 and refined by Regional Law n. 18 of 9 July 2004. The basic design - the cross of Saint George on white - is the historic banner of the Republic of Genoa, attested from at least the 12th century. The regional emblem in the canton was added to distinguish the modern administrative flag from the city flag of Genoa.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1997-07-30"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Liguria"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "white",
+      "cross": "red",
+      "symbolism": "The white field with red Greek cross is the historic banner of Saint George (the Genoese cross), used by the Republic of Genoa from the early Middle Ages."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "blue",
+      "position": "upper-hoist",
+      "role": "regional coat of arms of Liguria, placed as a canton in the upper hoist",
+      "symbolism": "The regional emblem combines elements drawn from the four provincial capitals (Genoa, Savona, Imperia, La Spezia)."
+    }
   ]
 }

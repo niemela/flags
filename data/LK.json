@@ -1,8 +1,87 @@
 {
   "id": "LK",
-  "title": "Sri Lanka",
-  "iso": "LK",
+  "name": "Sri Lanka",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "LK",
+    "iso_3166_1_alpha3": "LKA",
+    "fifa": "SRI",
+    "ioc": "SRI",
+    "wikidata": "Q854"
+  },
+  "region": [
+    "Asia",
+    "Southern Asia",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "maroon",
+      "symbolism": "the Sinhalese ethnic majority and the historic Sinhalese kingdoms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "Buddhism and the protection of the nation by the dharma; also gold for the lion and the bo leaves"
+    },
+    {
+      "color": "green",
+      "symbolism": "the Muslim community of Sri Lanka (Moors)"
+    },
+    {
+      "color": "orange",
+      "symbolism": "the Tamil community of Sri Lanka (Hindus)"
+    }
+  ],
+  "description": "A flag with a yellow outer border. Inside, two vertical panels: at the hoist, two equal vertical stripes (green at the hoist, orange to its right); at the fly, a larger maroon panel bearing a golden lion passant holding a sword in its right paw, with a stylised golden bo (Ficus religiosa) leaf at each of the four corners of the maroon panel.",
+  "history": "Sri Lanka's flag is descended from the royal standard of the last king of Kandy, Sri Vikrama Rajasinha, which was lowered when the British took the kingdom in 1815. The lion-and-sword design was revived as the flag of independent Ceylon on 4 February 1948. The green and orange vertical stripes representing the Muslim and Tamil communities were added in 1951 on the recommendation of a select committee chaired by Prime Minister D. S. Senanayake, and the four bo leaves were added in 1972 (replacing earlier spear-shaped pinnacles) when Ceylon was renamed Sri Lanka.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1972-05-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Sri_Lanka"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "field": "maroon",
+      "fimbriation": {
+        "color": "yellow",
+        "around": "all-edges"
+      },
+      "symbolism": "two vertical panels — green and orange stripes at the hoist representing the Muslim and Tamil minorities, and a maroon panel at the fly bearing a golden lion (the Sinhalese majority and the historic Kingdom of Kandy); a yellow border encloses the whole flag, signifying the protection of the dharma over all communities"
+    },
+    {
+      "type": "lion",
+      "count": 1,
+      "color": "yellow",
+      "position": "fly",
+      "role": "Lion of Kandy holding a sword (kasthane)",
+      "symbolism": "the Sinhalese people and the historic Kingdom of Kandy; the sword represents sovereignty, and the lion the bravery of the nation. The lion's curls of mane and tail represent religious observance, wisdom and meditation; the eight hairs of the tail the Noble Eightfold Path of Buddhism"
+    },
+    {
+      "type": "leaf",
+      "count": 4,
+      "color": "yellow",
+      "role": "bo (sacred fig) leaves at the four corners of the maroon panel",
+      "symbolism": "the four cardinal Buddhist virtues: Mettā (loving-kindness), Karuṇā (compassion), Muditā (sympathetic joy) and Upekkhā (equanimity); the bo tree (Ficus religiosa) is the species under which the Buddha attained enlightenment"
+    },
+    {
+      "type": "border",
+      "count": 1,
+      "color": "yellow",
+      "role": "outer yellow border",
+      "symbolism": "the Buddhist dharma protecting the nation and all its communities"
+    }
   ]
 }

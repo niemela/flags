@@ -1,8 +1,51 @@
 {
   "id": "CO-BOL",
-  "title": "Bolívar (Colombia)",
-  "iso": "CO-BOL",
+  "name": "Bolivar (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-BOL",
+    "wikidata": "Q121208"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the wealth and sovereignty of the territory"
+    },
+    {
+      "color": "green",
+      "symbolism": "the hope and fertility of the land"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed by the patriots in the wars of independence"
+    }
+  ],
+  "description": "Three equal horizontal stripes of yellow, green, and red.",
+  "history": "The department is named after Simon Bolivar; the flag's yellow-green-red horizontal stripes echo Bolivar's Greater Colombia tricolour, with green substituted for the central blue.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bol%C3%ADvar_Department",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Bol%C3%ADvar_Department.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "the colours of Greater Colombia in honour of Simon Bolivar, after whom the department is named"
+    }
   ]
 }

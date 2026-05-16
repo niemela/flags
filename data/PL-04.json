@@ -1,8 +1,58 @@
 {
   "id": "PL-04",
-  "title": "Kuyavia-Pomerania (Poland)",
-  "iso": "PL-04",
+  "name": "Kuyavian-Pomeranian Voivodeship (Poland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "PL",
+  "codes": {
+    "iso_3166_2": "PL-04",
+    "wikidata": "Q54153"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "from the arms of Kuyavia"
+    },
+    {
+      "color": "white",
+      "symbolism": "from the arms of Kuyavia and Pomerelia"
+    },
+    {
+      "color": "black",
+      "symbolism": "from the arms of Pomerelia"
+    }
+  ],
+  "description": "Three horizontal stripes of red, white, and black, with the white stripe twice the width of the others.",
+  "history": "Adopted by the Kuyavian-Pomeranian Voivodeship after its creation in 1999, combining the heraldic colours of the historic Kuyavian and Pomerelian regions.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kuyavian-Pomeranian_Voivodeship"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "black"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ],
+      "symbolism": "Combines colours from the historic flags of Kuyavia (red and white) and Pomerelia (black and white), the two regions joined to form the voivodeship."
+    }
   ]
 }

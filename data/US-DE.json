@@ -1,8 +1,89 @@
 {
   "id": "US-DE",
-  "title": "Delaware (United States)",
-  "iso": "US-DE",
+  "name": "Delaware (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-DE",
+    "fips_state": "10",
+    "wikidata": "Q1393"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "10:15",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "colonial blue"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "buff, said to match the buff of George Washington's uniform"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A field of colonial blue with a buff-coloured diamond at its centre. Within the diamond is the Delaware coat of arms (a horizontally divided shield with a sheaf of wheat, an ear of corn, and an ox, surmounted by a sailing ship and supported by a farmer and a militiaman). Below the diamond, in white, is the date 'DECEMBER 7, 1787', marking Delaware's ratification of the U.S. Constitution.",
+  "history": "Adopted by the Delaware General Assembly on 24 July 1913. The colours — 'colonial blue' and buff — are said to have been chosen to match the uniform of General George Washington. The coat of arms inside the diamond dates to 1777, with subsequent revisions; the date below commemorates Delaware's status as 'The First State' for being the first to ratify the federal Constitution on 7 December 1787.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1913-07-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Delaware"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue",
+      "symbolism": "'colonial blue', said to match the colour of George Washington's uniform"
+    },
+    {
+      "type": "lozenge",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "buff-coloured diamond at the centre of the flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Delaware coat of arms within the diamond",
+      "symbolism": "the state's seal, depicting agriculture and trade"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "bottom",
+      "role": "the date 'DECEMBER 7, 1787' in white below the diamond",
+      "symbolism": "the date Delaware ratified the United States Constitution, becoming the first state of the Union"
+    }
   ]
 }

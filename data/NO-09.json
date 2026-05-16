@@ -1,7 +1,54 @@
 {
   "id": "NO-09",
-  "title": "East Agder (Norway, 1958-2020)",
+  "name": "Aust-Agder (Norway, 1958–2019)",
   "type": [
+    "historical",
     "subdivision"
+  ],
+  "parent": "NO",
+  "codes": {
+    "iso_3166_2": "NO-09",
+    "wikidata": "Q50621"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia"
+  ],
+  "aspect_ratio": "4:5",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "from the historic Raabyggjelaget seal"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "gold (Or), from the historic Raabyggjelaget seal"
+    }
+  ],
+  "description": "Five equal horizontal stripes alternating red and gold, beginning with red at the top.",
+  "history": "Granted to Aust-Agder county on 14 February 1958. The design (barry of five gules and Or) is taken from the medieval seal of Raabyggjelaget. The county was abolished on 1 January 2020 when it was merged with Vest-Agder into the new Agder county.",
+  "status": "historical",
+  "periods": [
+    {
+      "start": "1958-02-14",
+      "end": "2019-12-31"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aust-Agder",
+    "https://no.wikipedia.org/wiki/Aust-Agder_fylkesv%C3%A5pen"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 5,
+      "symbolism": "five barry stripes red and gold, derived from a medieval seal of Raabyggjelaget, the historic district covering inner Aust-Agder"
+    }
   ]
 }

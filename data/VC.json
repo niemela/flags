@@ -1,8 +1,79 @@
 {
   "id": "VC",
-  "title": "Saint Vincent and the Grenadines",
-  "iso": "VC",
+  "name": "Saint Vincent and the Grenadines",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "VC",
+    "iso_3166_1_alpha3": "VCT",
+    "fifa": "VIN",
+    "ioc": "VIN",
+    "wikidata": "Q757"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the tropical sky and the crystal waters of the sea"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the warm Caribbean sunshine, the golden sands of the Grenadines and the spirit of the people"
+    },
+    {
+      "color": "green",
+      "symbolism": "the lush vegetation and the enduring vitality of the people"
+    }
+  ],
+  "description": "Three vertical stripes in 1:2:1 proportions — blue, gold (double-width), green — with three green diamonds arranged in a V-shape centred on the gold band.",
+  "history": "Adopted on 21 October 1985, the design replaced an earlier 1979 independence flag that bore a breadfruit leaf within a white centre disc. The current flag was designed by the Swiss graphic artist Julien van der Wal. The diamonds — sometimes called 'the Gems' — both spell V for Vincent and reference the country's traditional sobriquet, the 'Gems of the Antilles'.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1985-10-21"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Saint_Vincent_and_the_Grenadines"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ],
+      "symbolism": "blue for the tropical sky and crystal-clear sea, gold for the warm sunshine and the friendliness of the people, and green for the lush vegetation of the islands"
+    },
+    {
+      "type": "jewel",
+      "count": 3,
+      "color": "green",
+      "position": "center",
+      "arrangement": "row",
+      "rotation": 45,
+      "role": "three diamonds in V-formation (Saint Vincent gems)",
+      "symbolism": "the diamonds are arranged in the shape of a V for Vincent and recall the country's nickname 'the Gems of the Antilles'; the three figures together represent Saint Vincent and the Grenadines as the gems of the Antilles"
+    }
   ]
 }

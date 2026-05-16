@@ -1,8 +1,51 @@
 {
   "id": "SE-M",
-  "title": "Skåne (Sweden)",
-  "iso": "SE-M",
+  "name": "Skane County (Sweden)",
   "type": [
     "subdivision"
+  ],
+  "parent": "SE",
+  "codes": {
+    "iso_3166_2": "SE-M",
+    "wikidata": "Q104239"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the gules field of the Skane arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold griffin head and crown"
+    }
+  ],
+  "description": "A square red flag charged centrally with the gold crowned griffin's head, the historic emblem of Skane.",
+  "history": "The flag is the heraldic banner of the arms of Skane County, derived from the coat of arms of the historic province of Skane (Scania); the griffin's head has been used as the provincial symbol since the 17th century. Skane County was formed in 1997 by the merger of Kristianstad and Malmohus counties.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sk%C3%A5ne_County",
+    "https://sv.wikipedia.org/wiki/Sk%C3%A5ne_l%C3%A4ns_vapen"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the gules field of the historic Skane provincial arms"
+    },
+    {
+      "type": "mythical-creature",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "crowned griffin's head of Skane",
+      "symbolism": "a gold griffin's head, crowned, on a red field; the historic emblem of the province of Skane."
+    }
   ]
 }

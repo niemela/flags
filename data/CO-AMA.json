@@ -1,8 +1,80 @@
 {
   "id": "CO-AMA",
-  "title": "Amazonas (Colombia)",
-  "iso": "CO-AMA",
+  "name": "Amazonas (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-AMA",
+    "wikidata": "Q121197"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "13:21",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the vast Amazonian rainforest"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold and other natural wealth of the department"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace"
+    },
+    {
+      "color": "black",
+      "symbolism": "thin separator lines between the bands; outline of the coat of arms and star"
+    }
+  ],
+  "description": "A horizontal tricolour of green (about 9/13 of the height) at top, a narrow yellow band (1/13), and white at bottom (3/13), separated by very thin black lines; a black coat of arms and a small five-pointed star are placed near the fly side of the green band.",
+  "history": "Amazonas was created as an Intendancy in 1928 and elevated to a department by the 1991 Constitution. The flag combines the green of the rainforest with yellow for natural wealth and white for peace, with the departmental coat of arms shown towards the fly.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amazonas_Department",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Amazonas_Department.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "white"
+      ],
+      "count": 3,
+      "widths": [
+        9,
+        1,
+        3
+      ],
+      "fimbriation": {
+        "color": "black",
+        "around": "stripes"
+      },
+      "symbolism": "green for the Amazonian rainforest, yellow for the wealth of the region, white for peace; very thin black lines separate the bands"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "black",
+      "position": "center-fly",
+      "role": "coat of arms of Amazonas",
+      "symbolism": "the department's coat of arms, depicting elements of the Amazon (river, jungle, indigenous fauna and flora)"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "black",
+      "position": "fly",
+      "symbolism": "a single five-pointed star at the fly side"
+    }
   ]
 }

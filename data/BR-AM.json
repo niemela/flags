@@ -1,8 +1,84 @@
 {
   "id": "BR-AM",
-  "title": "Amazonas (Brazil)",
-  "iso": "BR-AM",
+  "name": "Amazonas (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-AM",
+    "wikidata": "Q40040"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "5:7",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "peace"
+    },
+    {
+      "color": "red",
+      "symbolism": "energy and patriotism"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the sky over Amazonas; appears on the canton"
+    }
+  ],
+  "description": "Three equal horizontal stripes of white, red and white, with a blue canton in the upper hoist bearing a large central white five-pointed star surrounded by 25 smaller white stars.",
+  "history": "Adopted on 18 September 1897 by State Decree No. 165, designed under Governor Eduardo Ribeiro; the 25 small stars represent the municipalities of the state at the time, and the larger central star represents Amazonas itself.",
+  "periods": [
+    {
+      "start": "1897-09-18"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Amazonas"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 3,
+      "symbolism": "Three equal horizontal stripes of white, red and white, recalling the colours of liberty and republican ideals"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "position": "upper-hoist",
+      "symbolism": "Blue canton bearing one large central star surrounded by 25 small stars",
+      "features": [
+        {
+          "type": "star",
+          "count": 1,
+          "points": 5,
+          "color": "white",
+          "position": "center",
+          "size": "large",
+          "role": "central large star",
+          "symbolism": "the State of Amazonas itself"
+        },
+        {
+          "type": "star",
+          "count": 25,
+          "points": 5,
+          "color": "white",
+          "size": "small",
+          "arrangement": "grid",
+          "role": "the municipalities at the time of adoption",
+          "symbolism": "the 25 municipalities of Amazonas at the time the flag was adopted"
+        }
+      ]
+    }
   ]
 }

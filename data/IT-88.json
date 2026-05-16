@@ -1,8 +1,67 @@
 {
   "id": "IT-88",
-  "title": "Sardinia (Italy)",
-  "iso": "IT-88",
+  "name": "Sardinia (Italy)",
   "type": [
     "subdivision"
+  ],
+  "parent": "IT",
+  "codes": {
+    "iso_3166_2": "IT-88",
+    "wikidata": "Q1462"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field of the Saint George's cross"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross of Saint George (and the Aragonese Crown)"
+    },
+    {
+      "color": "black",
+      "symbolism": "the four Moors' heads, one in each quarter"
+    }
+  ],
+  "description": "A white field divided into four quarters by the red couped cross of Saint George, with a black Moor's head bearing a white headband (facing the fly) in each quarter.",
+  "history": "The Four Moors flag is documented from the 14th century as the heraldic emblem of the Kingdom of Sardinia under the Crown of Aragon. It was confirmed as the regional flag of the autonomous region by Regional Law n. 10 of 15 April 1999, which specified that the Moors face the fly and bear a white headband (rather than blindfold).",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1999-04-15"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Sardinia"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "white",
+      "cross": "red",
+      "symbolism": "The white field with red Greek cross is the cross of Saint George, used here as the historic banner of the Crown of Aragon and of the Kingdom of Sardinia under Aragonese rule."
+    },
+    {
+      "type": "human-figure",
+      "count": 4,
+      "color": "black",
+      "arrangement": "grid",
+      "rows": [
+        2,
+        2
+      ],
+      "position": "center",
+      "role": "the Four Moors (Quattro Mori): four Moors' heads with white headbands, one per quarter, traditionally facing the fly",
+      "symbolism": "The four Moors' heads have been the emblem of Sardinia since at least the 14th century. They are traditionally said to commemorate four Saracen princes defeated by the Aragonese at the Battle of Alcoraz in 1096, though the symbol's exact origin remains uncertain. The current law specifies the heads are bandaged (white headband across the forehead) and face the fly."
+    }
   ]
 }

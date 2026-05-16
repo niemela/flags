@@ -1,8 +1,62 @@
 {
   "id": "US-MN",
-  "title": "Minnesota (United States)",
-  "iso": "US-MN",
+  "name": "Minnesota (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-MN",
+    "fips_state": "27",
+    "wikidata": "Q1527"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "evokes the night sky and Minnesota's shape"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the abundance of water and the bright skies of Minnesota"
+    },
+    {
+      "color": "white",
+      "symbolism": "snow and the North Star"
+    }
+  ],
+  "description": "A dark navy 'K'-shaped hoist (echoing the geographic outline of Minnesota with its prominent Northwest Angle) bears a white eight-pointed star at its centre. The fly is a solid light-blue field.",
+  "history": "Designed by Andrew Prekker and selected by the State Emblems Redesign Commission established in 2023; adopted on 19 December 2023 and made the official state flag on 11 May 2024 (Statehood Day), replacing the 1957 seal-on-bedsheet flag. The redesign followed criticism that the previous flag's central seal depicted a settler ploughing while a Native American rode away — imagery widely seen as harmful — and that the design was visually indistinguishable at distance from many other U.S. state flags.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2024-05-11"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Minnesota"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "the hoist a dark navy 'K' shape echoing Minnesota's geographic outline; the fly a solid light-blue field representing the state's lakes and waters"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "white",
+      "position": "hoist",
+      "role": "white eight-pointed North Star on the navy hoist",
+      "symbolism": "the North Star, alluding to the state motto 'L'Étoile du Nord' ('The Star of the North'); the eight points evoke unity and the cardinal and ordinal directions"
+    }
   ]
 }

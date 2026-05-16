@@ -1,8 +1,69 @@
 {
   "id": "RU-CHE",
-  "title": "Chelyabinsk Oblast (Russia)",
-  "iso": "RU-CHE",
+  "name": "Chelyabinsk Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-CHE",
+    "wikidata": "Q5251"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the metallurgical industry of the southern Urals and the courage of the people"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold and mineral wealth of the Ural Mountains"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver-white camel of the oblast emblem"
+    }
+  ],
+  "description": "A red field crossed by a narrow yellow horizontal stripe near the lower edge, charged in the centre with a silver-white loaded Bactrian camel.",
+  "history": "Adopted on 27 December 2001 by the Chelyabinsk Oblast Legislative Assembly. The loaded camel charge is drawn from the 1782 coat of arms of the Iset Province (the historical predecessor of Chelyabinsk Oblast), which used the camel to represent the caravan trade routes through the southern Urals.",
+  "periods": [
+    {
+      "start": "2001-12-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Chelyabinsk_Oblast",
+    "https://en.wikipedia.org/wiki/Chelyabinsk_Oblast"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        9,
+        2,
+        1
+      ],
+      "symbolism": "the red field recalls the metallurgical heritage of the southern Urals (Chelyabinsk is the heart of Russian heavy industry); the narrow yellow stripe represents gold and the wealth of the Ural mountains."
+    },
+    {
+      "type": "animal-other",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "loaded camel",
+      "symbolism": "a silver-white loaded Bactrian camel taken from the historic coat of arms of the Iset (Chelyabinsk) Province; symbolises trade, wisdom, fortitude and the long caravan routes that crossed the southern Urals."
+    }
   ]
 }

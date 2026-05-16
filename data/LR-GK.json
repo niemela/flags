@@ -1,8 +1,78 @@
 {
   "id": "LR-GK",
-  "title": "Grand Kru (Liberia)",
-  "iso": "LR-GK",
+  "name": "Grand Kru County (Liberia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "LR",
+  "codes": {
+    "iso_3166_2": "LR-GK"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with a vertical yellow stripe near the fly; the Liberian national flag is the canton in the upper hoist and a green tree-and-landscape device occupies the centre-fly area.",
+  "history": "Created in 1984 from territory taken from Maryland and Sinoe counties; the flag follows the design pattern of the original counties' flags.",
+  "periods": [
+    {
+      "start": "1984"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Grand_Kru_County",
+    "https://en.wikipedia.org/wiki/Flags_of_the_counties_of_Liberia"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "yellow",
+        "white"
+      ],
+      "count": 3,
+      "widths": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "LR",
+      "proportion": "1/4",
+      "role": "the union",
+      "symbolism": "Grand Kru as part of the Republic of Liberia"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center-fly",
+      "role": "fauna and flora",
+      "symbolism": "the natural resources and forests of the county"
+    }
   ]
 }

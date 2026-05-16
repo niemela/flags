@@ -1,8 +1,69 @@
 {
   "id": "US-MT",
-  "title": "Montana (United States)",
-  "iso": "US-MT",
+  "name": "Montana (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-MT",
+    "fips_state": "30",
+    "wikidata": "Q1212"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "10:17",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "gold"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue field bearing the Great Seal of Montana in the centre — a landscape with mountains, the Great Falls of the Missouri River, a plough, a pickaxe and a shovel, encircled by the motto 'ORO Y PLATA'. Above the seal, the word 'MONTANA' is set in gold capitals.",
+  "history": "The seal-bearing flag originated as a regimental colour for the 1st Montana Infantry, which carried it during the Spanish-American War (1898). It was adopted as the state flag by the Montana Legislature on 27 February 1905. The word 'MONTANA' in gold above the seal was added in 1981 to make the flag more recognisable; the typeface for the word was specified in 1985.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1905-02-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Montana"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "gold",
+      "position": "top",
+      "role": "the word 'MONTANA' in gold capitals above the seal"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "Great Seal of the State of Montana",
+      "symbolism": "depicts a landscape with mountains (including the Great Falls of the Missouri River), trees, a plough, a pickaxe and a shovel, encircled by the Spanish state motto 'ORO Y PLATA' ('gold and silver')"
+    }
   ]
 }

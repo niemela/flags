@@ -1,8 +1,96 @@
 {
-  "id": "US-NE-lincoln_1931-2022",
-  "title": "Lincoln, NE (United States, 1931-2022)",
+  "id": "US-NE-lincoln_2022",
+  "name": "Lincoln (United States)",
   "type": [
-    "historical",
     "city"
+  ],
+  "parent": "US-NE",
+  "codes": {
+    "wikidata": "Q28260"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field, recalling the Nebraska state flag"
+    },
+    {
+      "color": "red",
+      "symbolism": "the central disc framing the city emblem"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silhouette of the Nebraska State Capitol and the lettering 'CITY OF LINCOLN'"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the pioneer figure flanking the central emblem"
+    },
+    {
+      "color": "green",
+      "symbolism": "the corn stalks and prairie plants flanking the central emblem"
+    }
+  ],
+  "description": "A blue field bearing a red disc at the centre, charged with a white silhouette of the Nebraska State Capitol flanked by yellow pioneer figures and green corn stalks, with the inscription 'CITY OF LINCOLN' encircling the device.",
+  "history": "Lincoln's first municipal flag, adopted in 1931. The design centred on the Nebraska State Capitol (then nearing completion) and was used until 2022, when the city replaced it with a new, simpler design following a public competition.",
+  "periods": [
+    {
+      "start": "1931",
+      "end": "2022"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Lincoln,_Nebraska"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "central red disc framing the city emblem",
+      "symbolism": "Frames the central depiction of the Nebraska State Capitol."
+    },
+    {
+      "type": "building",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Nebraska State Capitol ('Tower of the Plains')",
+      "symbolism": "Lincoln is the capital of Nebraska; the Bertram Goodhue–designed State Capitol, completed in 1932, is the city's defining landmark."
+    },
+    {
+      "type": "human-figure",
+      "count": 2,
+      "color": "yellow",
+      "position": "center",
+      "role": "pioneer figures flanking the central emblem",
+      "symbolism": "Recall the homesteaders and farmers who settled the Nebraska prairie."
+    },
+    {
+      "type": "wheat",
+      "count": 2,
+      "color": "green",
+      "position": "center",
+      "role": "stalks of corn / prairie plants flanking the emblem",
+      "symbolism": "Nebraska's agricultural economy and the prairie landscape around Lincoln."
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "'CITY OF LINCOLN' encircling the emblem",
+      "symbolism": "Names the city."
+    }
   ]
 }

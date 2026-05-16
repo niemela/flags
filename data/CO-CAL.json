@@ -1,8 +1,46 @@
 {
   "id": "CO-CAL",
-  "title": "Caldas (Colombia)",
-  "iso": "CO-CAL",
+  "name": "Caldas (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-CAL",
+    "wikidata": "Q121273"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the wealth of Caldas, including coffee, gold and other natural riches"
+    },
+    {
+      "color": "green",
+      "symbolism": "the fertile mountains, forests and coffee plantations of the department"
+    }
+  ],
+  "description": "A vertical bicolour of yellow at the hoist and green at the fly, in equal halves.",
+  "history": "Adopted as the flag of the Department of Caldas, created in 1905 from parts of Antioquia and Cauca. The yellow and green colours evoke the gold and the coffee-growing landscape that have defined the region's economy.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caldas_Department",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Caldas_Department.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2,
+      "symbolism": "yellow for the wealth of the territory, especially its coffee and gold, and green for the fertile mountains and forests"
+    }
   ]
 }

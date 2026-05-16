@@ -1,8 +1,71 @@
 {
   "id": "RU-KAM",
-  "title": "Kamchatka Krai (Russia)",
-  "iso": "RU-KAM",
+  "name": "Kamchatka Krai (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-KAM",
+    "wikidata": "Q7948"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the snows of Kamchatka and the long polar winter"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the Pacific Ocean and the Sea of Okhotsk that frame the peninsula"
+    },
+    {
+      "color": "red",
+      "symbolism": "the active volcanoes of Kamchatka and the sun"
+    },
+    {
+      "color": "black",
+      "symbolism": "the silhouettes of the volcanoes and the volcanic ash"
+    }
+  ],
+  "description": "A horizontal bicolour of a wide white stripe over a narrower blue stripe, with three volcanoes silhouetted against a rising sun in the upper hoist of the white field.",
+  "history": "Adopted on 5 March 2010 by the Legislative Assembly of Kamchatka Krai, after the merger of the previous Kamchatka Oblast and the Koryak Autonomous Okrug in 2007. The volcano-and-sun emblem comes from the krai's coat of arms.",
+  "periods": [
+    {
+      "start": "2010-03-05"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Kamchatka_Krai",
+    "https://en.wikipedia.org/wiki/Kamchatka_Krai"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ],
+      "symbolism": "white represents the snow and the long Kamchatkan winter; blue represents the Pacific Ocean and the seas surrounding the peninsula."
+    },
+    {
+      "type": "mountain",
+      "count": 3,
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "three volcanoes against the sun",
+      "symbolism": "three volcanoes silhouetted against a rising red sun; drawn from the krai's coat of arms and recalls the volcanic landscape of the Kamchatka peninsula."
+    }
   ]
 }

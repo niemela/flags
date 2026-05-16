@@ -1,8 +1,82 @@
 {
   "id": "AR-R",
-  "title": "Río Negro (Argentina)",
-  "iso": "AR-R",
+  "name": "Rio Negro (Argentina)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AR",
+  "codes": {
+    "iso_3166_2": "AR-R",
+    "wikidata": "Q44706"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the sky over Patagonia and the rivers Negro and Limay"
+    },
+    {
+      "color": "white",
+      "symbolism": "the snow of the Andes; peace"
+    },
+    {
+      "color": "green",
+      "symbolism": "the irrigated valleys and forests of the province"
+    },
+    {
+      "color": "black",
+      "symbolism": "wisdom and the Mapuche people, original inhabitants of the province"
+    }
+  ],
+  "description": "Three equal horizontal stripes — blue, white, green — with a black rectangular canton in the upper hoist (one-third of the flag's length and one-third of its height) bearing a circle of thirteen white five-pointed stars.",
+  "history": "Adopted by provincial law 4350 on 8 October 2009 after a public competition. The flag was designed by Antonio Hernandez. Its tricolour evokes the Patagonian landscape — sky, snow and valley — while the black canton with thirteen white stars honours the Mapuche heritage of the province and represents the thirteen departments of Rio Negro.",
+  "periods": [
+    {
+      "start": "2009-10-08"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_R%C3%ADo_Negro_Province",
+    "https://es.wikipedia.org/wiki/Bandera_de_la_provincia_de_R%C3%ADo_Negro"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        1,
+        1
+      ],
+      "symbolism": "blue for the Patagonian sky and the rivers Negro and Limay; white for the snow of the Andes and peace; green for the fertile valleys and forests of the province"
+    },
+    {
+      "type": "canton",
+      "color": "black",
+      "proportion": "1/3 width, 1/3 height",
+      "symbolism": "the canton represents the wisdom of the Mapuche people, original inhabitants of Rio Negro",
+      "features": [
+        {
+          "type": "star",
+          "count": 13,
+          "points": 5,
+          "color": "white",
+          "arrangement": "circle",
+          "role": "thirteen stars",
+          "symbolism": "the thirteen departments of the Province of Rio Negro arranged around the lucero (the morning star, Guñelve in Mapudungun)"
+        }
+      ]
+    }
   ]
 }

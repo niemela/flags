@@ -1,8 +1,68 @@
 {
   "id": "US-KY",
-  "title": "Kentucky (United States)",
-  "iso": "US-KY",
+  "name": "Kentucky (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-KY",
+    "fips_state": "21",
+    "wikidata": "Q1603"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "10:19",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A navy-blue field bearing in the centre the Commonwealth Seal of Kentucky: two men in formal dress embracing one another, encircled by the words 'COMMONWEALTH OF KENTUCKY' (above) and the state motto 'UNITED WE STAND, DIVIDED WE FALL' (below). Two sprays of goldenrod, the state flower, are arranged beneath the seal.",
+  "history": "The design was conceived by Jesse Burgess Cooper, an art teacher in Frankfort, and adopted by the Kentucky General Assembly on 26 March 1918. Minor proportional changes followed; the present official design was set out in 1962 and adopted by Senate Bill 80 in 1963. The seal itself dates to 1792, the year of Kentucky's admission to the Union as the 15th state.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1918-03-26"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Kentucky"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "Commonwealth Seal of Kentucky",
+      "symbolism": "two men in friendly embrace — traditionally interpreted as a frontiersman and a statesman — encircled by the words 'COMMONWEALTH OF KENTUCKY' and the motto 'UNITED WE STAND, DIVIDED WE FALL'"
+    },
+    {
+      "type": "flower",
+      "count": 2,
+      "color": "yellow",
+      "position": "bottom",
+      "role": "two sprays of goldenrod beneath the seal",
+      "symbolism": "the goldenrod, Kentucky's state flower"
+    }
   ]
 }

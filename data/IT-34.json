@@ -1,8 +1,69 @@
 {
   "id": "IT-34",
-  "title": "Veneto (Italy)",
-  "iso": "IT-34",
+  "name": "Veneto (Italy)",
   "type": [
     "subdivision"
+  ],
+  "parent": "IT",
+  "codes": {
+    "iso_3166_2": "IT-34",
+    "wikidata": "Q1243"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "shape": "complex",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field, recalling the historic gonfalone of the Republic of Venice"
+    },
+    {
+      "color": "red",
+      "symbolism": "the outermost pennon points and the fringes, drawn from the colours of the Republic of Saint Mark"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the central pennon point and the sea on which the Lion stands"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden Lion of Saint Mark, its halo, and the open book"
+    },
+    {
+      "color": "green",
+      "symbolism": "the verdant ground beneath the Lion"
+    }
+  ],
+  "description": "A white gonfalone-style flag terminating in the fly with seven swallow-tailed pennon points in red, white, blue, white and red, charged at the centre with the golden winged Lion of Saint Mark holding an open book over a blue sea and green ground.",
+  "history": "Adopted by Regional Law n. 56 of 20 May 1975, defined more precisely by Regional Law n. 23 of 20 November 1998. The design revives the gonfalone of the Republic of Venice (Serenissima Repubblica), which used the Lion of Saint Mark from at least the 13th century until the Republic's fall in 1797.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1975-05-20"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Veneto"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "A unique design known as the gonfalone of Saint Mark: a white field terminating in the fly with a series of multi-coloured swallow-tailed pennon points (red, white, blue, white, red), charged at centre with the winged Lion of Saint Mark."
+    },
+    {
+      "type": "lion",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "Lion of Saint Mark, winged and nimbed, holding an open Gospel inscribed PAX TIBI MARCE EVANGELISTA MEUS",
+      "symbolism": "The winged Lion is the symbol of the evangelist Saint Mark, patron of Venice; it has represented the Republic of Venice (Serenissima) since the Middle Ages and survives as the emblem of the modern region of Veneto."
+    }
   ]
 }

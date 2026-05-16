@@ -1,8 +1,81 @@
 {
   "id": "US-CT",
-  "title": "Connecticut (United States)",
-  "iso": "US-CT",
+  "name": "Connecticut (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-CT",
+    "fips_state": "09",
+    "wikidata": "Q779"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "11:21",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the colour of the field, evoking the flags of the colonial era"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "purple"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "gold"
+    }
+  ],
+  "description": "An azure-blue field bearing in the centre a white rococo shield charged with three grapevines, each with three bunches of purple grapes and green leaves; below the shield is a white scroll with the Latin motto 'QUI TRANSTULIT SUSTINET' in dark blue letters.",
+  "history": "The grapevines and motto have been associated with Connecticut since the 17th century, appearing on the colonial seal of Saybrook (1639) and later the colony as a whole. The arms in their modern form were settled by the General Assembly in 1882, and the flag itself — placing the arms on a blue field — was adopted by an Act of the General Assembly on 9 June 1897.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1897-06-09"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Connecticut"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "white rococo shield",
+      "symbolism": "Connecticut's coat of arms"
+    },
+    {
+      "type": "flower",
+      "count": 3,
+      "color": "purple",
+      "arrangement": "single",
+      "position": "center",
+      "role": "three grapevines on the shield, each bearing fruit",
+      "symbolism": "the three early Connecticut colonies (Hartford, New Haven, and Saybrook) transplanted from Europe"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "bottom",
+      "role": "Latin motto 'QUI TRANSTULIT SUSTINET' on a white scroll beneath the shield",
+      "symbolism": "'He who transplanted still sustains' — taken from Psalm 80, referring to God's protection of those transplanted from England"
+    }
   ]
 }

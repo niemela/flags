@@ -1,8 +1,84 @@
 {
   "id": "SY",
-  "title": "Syria",
-  "iso": "SY",
+  "name": "Syria",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "SY",
+    "iso_3166_1_alpha3": "SYR",
+    "fifa": "SYR",
+    "ioc": "SYR",
+    "wikidata": "Q858"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "MENA",
+    "Levant",
+    "Arab World"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the bloodshed in the struggle against colonialism and for Arab unity"
+    },
+    {
+      "color": "white",
+      "symbolism": "a bright future for the Arab nation"
+    },
+    {
+      "color": "black",
+      "symbolism": "the dark past of oppression and foreign domination"
+    },
+    {
+      "color": "green",
+      "symbolism": "Islam and the Fatimid dynasty; the colour of the two stars"
+    }
+  ],
+  "description": "Three equal horizontal stripes — red on top, white in the middle, black at the bottom — with two green five-pointed stars side by side, centred on the white middle stripe.",
+  "history": "Originally adopted in 1958 as the flag of the United Arab Republic (Egypt and Syria); Syria continued to use the design after the UAR's dissolution in 1961, then replaced it with other Arab tricolours, before re-adopting it on 30 March 1980 under the Ba'athist regime. It remained Syria's flag throughout the rule of Hafez al-Assad and his son Bashar al-Assad, until the fall of the Assad government on 8 December 2024, after which the post-Assad transitional government adopted the green-white-black 'independence flag' as Syria's national flag.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1958-02-22",
+      "end": "1961-09-29"
+    },
+    {
+      "start": "1980-03-30",
+      "end": "2024-12-08"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Syria"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "black"
+      ],
+      "count": 3,
+      "symbolism": "the colours of the Arab Liberation Flag of the 1952 Egyptian revolution — red for the struggle, white for a bright future, black for the dark past of oppression"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "green",
+      "position": "center",
+      "arrangement": "row",
+      "role": "two green five-pointed stars",
+      "symbolism": "originally the union of Egypt and Syria (and later, by extension, Iraq) as the United Arab Republic; after the UAR's dissolution the two stars were retained to represent the two then-united Ba'athist republics, Syria and Iraq"
+    }
   ]
 }

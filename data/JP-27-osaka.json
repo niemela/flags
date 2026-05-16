@@ -1,7 +1,52 @@
 {
   "id": "JP-27-osaka",
-  "title": "Ôsaka, Ôsaka (Japan)",
+  "name": "Osaka (Japan)",
   "type": [
     "city"
+  ],
+  "parent": "JP-27",
+  "codes": {
+    "wikidata": "Q35765"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the bay and river waters that shaped the historic port city"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the miotsukushi channel marker, the city's emblem"
+    }
+  ],
+  "description": "A navy-blue field charged at the centre with the golden miotsukushi (channel marker) emblem of the City of Osaka.",
+  "history": "The miotsukushi mark was adopted as the official emblem of Osaka City in 1894, and the dark-blue flag bearing the gold emblem has been used by the municipal government since then. The marker symbolises Osaka's historic role as Japan's water-borne commercial centre, with the Yodo River and Osaka Bay traditionally requiring extensive channel guidance for shipping.",
+  "periods": [
+    {
+      "start": "1894"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Osaka",
+    "https://en.wikipedia.org/wiki/Flag_of_Osaka"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy",
+      "symbolism": "the deep waters of Osaka Bay and the Yodo River, on which the city was founded as a port"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "Miotsukushi (澪標) — the city emblem of Osaka",
+      "symbolism": "Stylised representation of a miotsukushi, the wooden channel marker traditionally placed in shallow water to guide ships into Osaka's harbours. The emblem dates to 1894 and recalls the city's centuries-long identity as Japan's principal commercial port."
+    }
   ]
 }

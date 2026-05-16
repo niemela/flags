@@ -1,8 +1,56 @@
 {
   "id": "NL-OV",
-  "title": "Overijssel (Netherlands)",
-  "iso": "NL-OV",
+  "name": "Overijssel (Netherlands)",
   "type": [
     "subdivision"
+  ],
+  "parent": "NL",
+  "codes": {
+    "iso_3166_2": "NL-OV",
+    "wikidata": "Q773"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "from the gules of the historic provincial arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "from the or of the historic provincial arms"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the river IJssel"
+    }
+  ],
+  "description": "A horizontally tribanded field of red, yellow, and red in proportions 1:3:1, with a blue wavy band running horizontally across the centre of the yellow stripe.",
+  "history": "Adopted by the provincial states on 11 July 1948. The blue wave evokes the IJssel, the river that defines the province's name and its western boundary.",
+  "periods": [
+    {
+      "start": "1948-07-11"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Overijssel"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "the red and yellow are taken from the arms of the historic territory; the central blue wavy band represents the river IJssel, from which the province takes its name (Over-IJssel: the lands beyond the IJssel)"
+    },
+    {
+      "type": "wave",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "the river IJssel",
+      "symbolism": "the river IJssel that gives the province its name"
+    }
   ]
 }

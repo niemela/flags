@@ -1,8 +1,87 @@
 {
   "id": "UG",
-  "title": "Uganda",
-  "iso": "UG",
+  "name": "Uganda",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "UG",
+    "iso_3166_1_alpha3": "UGA",
+    "fifa": "UGA",
+    "ioc": "UGA",
+    "wikidata": "Q1036"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Eastern Africa",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the people of Africa"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the African sun"
+    },
+    {
+      "color": "red",
+      "symbolism": "African brotherhood — the colour shared by all peoples through the blood in their veins"
+    },
+    {
+      "color": "white",
+      "symbolism": "the disc behind the central crane"
+    },
+    {
+      "color": "grey",
+      "symbolism": "the body and wings of the grey crowned crane"
+    }
+  ],
+  "description": "Six equal horizontal stripes in repeating order — black, yellow, red, black, yellow, red — with a centred white disc bearing a grey crowned crane facing the hoist, one leg raised.",
+  "history": "Adopted on 9 October 1962, the day Uganda gained independence from the United Kingdom. The colours and tricolour pattern are taken from the flag of the Uganda People's Congress, which won the pre-independence elections; the crested crane on the central white disc was already the colonial badge of the Uganda Protectorate and was retained as a national symbol.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1962-10-09"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Uganda"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "yellow",
+        "red"
+      ],
+      "count": 6,
+      "symbolism": "the colours of the Uganda People's Congress, the party that led the country to independence: black for the African people, yellow for the African sun, and red for African brotherhood"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "central white disc",
+      "symbolism": "background for the crested crane"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "grey",
+      "position": "center",
+      "role": "grey crowned crane (Balearica regulorum)",
+      "symbolism": "Uganda's national bird; depicted with one leg raised to symbolise the country moving forward; the bird had been used as the badge of Ugandan soldiers under British rule"
+    }
   ]
 }

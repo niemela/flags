@@ -1,8 +1,63 @@
 {
   "id": "CI",
-  "title": "Ivory Coast",
-  "iso": "CI",
+  "name": "Côte d'Ivoire",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "CI",
+    "iso_3166_1_alpha3": "CIV",
+    "fifa": "CIV",
+    "ioc": "CIV",
+    "wikidata": "Q1008"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "orange",
+      "symbolism": "the savannas of the north; national development and the dynamic growth of the country"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace and the unity of all citizens"
+    },
+    {
+      "color": "green",
+      "symbolism": "hope and the forests of the south; agricultural wealth"
+    }
+  ],
+  "description": "Three equal vertical stripes — orange at the hoist, white in the centre, green at the fly. The arrangement is the mirror image of the flag of Ireland (which is green-white-orange).",
+  "history": "Adopted on 3 December 1959, ahead of independence from France on 7 August 1960, and inspired by the French tricolour. The colours echo the Pan-African green-yellow-red palette but are adapted to the country's own symbolism. Côte d'Ivoire's flag and Ireland's flag use the same three colours in opposite order, which has occasionally caused diplomatic confusion.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1959-12-03"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Ivory_Coast"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "orange",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "symbolism": "orange for the savannas of the north and the country's progress, white for peace and unity, green for hope and the forests of the south"
+    }
   ]
 }

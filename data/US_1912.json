@@ -1,9 +1,85 @@
 {
-  "id": "US_1908-1912",
-  "title": "United States (1908-1912)",
-  "iso": "US",
+  "id": "US_1912",
+  "name": "United States (1908–1912)",
   "type": [
     "historical",
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q1075587"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "10:19",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "valour and hardiness"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and innocence"
+    },
+    {
+      "color": "blue",
+      "symbolism": "vigilance, perseverance, and justice"
+    }
+  ],
+  "description": "Thirteen alternating red and white horizontal stripes (seven red, six white). In the upper hoist, a blue canton bearing 46 white five-pointed stars arranged in six rows of 8-7-8-8-7-8.",
+  "history": "Adopted on 4 July 1908 following the admission of Oklahoma as the 46th state on 16 November 1907. The 46-star flag was used during the William Howard Taft administration and the high tide of the Progressive Era. It was replaced on 4 July 1912 after the admission of New Mexico (6 January 1912) and Arizona (14 February 1912) as the 47th and 48th states, completing the contiguous lower 48.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1908-07-04",
+      "end": "1912-07-04"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_United_States"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 13,
+      "symbolism": "the thirteen original British colonies that declared independence in 1776"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "proportion": "7/13 height, 2/5 width",
+      "symbolism": "the union of the states",
+      "features": [
+        {
+          "type": "star",
+          "count": 46,
+          "points": 5,
+          "color": "white",
+          "arrangement": "grid",
+          "rows": [
+            8,
+            7,
+            8,
+            8,
+            7,
+            8
+          ],
+          "role": "Stars representing the states",
+          "symbolism": "the 46 states of the Union following the admission of Oklahoma"
+        }
+      ]
+    }
   ]
 }

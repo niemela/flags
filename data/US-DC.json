@@ -1,8 +1,66 @@
 {
   "id": "US-DC",
-  "title": "District of Columbia (United States)",
-  "iso": "US-DC",
+  "name": "District of Columbia (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-DC",
+    "wikidata": "Q3551781"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field of the Washington family arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "the bars and stars from the Washington family coat of arms"
+    }
+  ],
+  "description": "A white field charged with three red five-pointed stars in a horizontal row across the upper portion, above two horizontal red bars (a wide stripe and a narrower stripe, separated by white) running across the lower half.",
+  "history": "Designed by Charles A. R. Dunn in 1924 and adopted on 15 October 1938 by act of the United States Congress. The design is a direct banner-of-arms rendering of the coat of arms of the Washington family, the ancestors of George Washington, granted in the 14th century.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1938-10-15"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Washington,_D.C."
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "red",
+      "position": "top",
+      "arrangement": "row",
+      "role": "three mullets (stars)",
+      "symbolism": "from the Washington family arms; sometimes interpreted as honoring George Washington."
+    },
+    {
+      "type": "horizontal-stripes",
+      "count": 2,
+      "color": "red",
+      "position": "bottom",
+      "role": "two horizontal bars",
+      "symbolism": "from the Washington family arms; the entire design is a banner of arms based on the shield of George Washington's ancestors."
+    }
   ]
 }

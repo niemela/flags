@@ -1,8 +1,68 @@
 {
   "id": "FR",
-  "title": "France",
-  "iso": "FR",
+  "name": "France",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "FR",
+    "iso_3166_1_alpha3": "FRA",
+    "fifa": "FRA",
+    "ioc": "FRA",
+    "wikidata": "Q142"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "one of the traditional colours of Paris; associated with Saint Martin and historic French royal devices"
+    },
+    {
+      "color": "white",
+      "symbolism": "the colour of the French monarchy and of the Bourbons"
+    },
+    {
+      "color": "red",
+      "symbolism": "one of the traditional colours of Paris; associated with Saint Denis and the oriflamme"
+    }
+  ],
+  "description": "Three equal vertical stripes of blue (hoist), white, and red.",
+  "history": "The tricolour was created during the French Revolution: on 17 July 1789, three days after the storming of the Bastille, Lafayette is credited with combining the red and blue cockade of Paris with the white of the king to form a tricolour cockade. The vertical-striped flag was officially adopted by the National Convention as the national flag on 15 February 1794, with the design attributed to the painter Jacques-Louis David. It was abandoned during the Bourbon Restoration (1814–1830) in favour of the white royal flag, then restored in 1830 by Louis-Philippe. The design has been used continuously since, except during the Vichy period, and is enshrined in Article 2 of the current (1958) Constitution.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign",
+    "naval-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1794-02-15",
+      "end": "1814"
+    },
+    {
+      "start": "1830-08-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_France"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "the tricolore: blue and red are the historic colours of Paris, flanking the white of the Bourbon monarchy — combined by the Marquis de Lafayette in 1789 to symbolise the union of the people and the king during the French Revolution"
+    }
   ]
 }

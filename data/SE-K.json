@@ -1,8 +1,51 @@
 {
   "id": "SE-K",
-  "title": "Blekinge (Sweden)",
-  "iso": "SE-K",
+  "name": "Blekinge County (Sweden)",
   "type": [
     "subdivision"
+  ],
+  "parent": "SE",
+  "codes": {
+    "iso_3166_2": "SE-K",
+    "wikidata": "Q104238"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the azure field of the Blekinge arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold oak tree"
+    }
+  ],
+  "description": "A square blue flag charged centrally with a gold oak tree, the historic emblem of Blekinge.",
+  "history": "The flag is the heraldic banner of the arms of Blekinge County, derived from the coat of arms of the historic province of Blekinge.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Blekinge_County",
+    "https://sv.wikipedia.org/wiki/Blekinge_l%C3%A4ns_vapen"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the azure field of the historic Blekinge provincial arms"
+    },
+    {
+      "type": "tree",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "oak tree of Blekinge",
+      "symbolism": "a gold oak tree on a blue field, the historic emblem of the province of Blekinge, referring to the oak forests of the region (long protected as a source of timber for the Swedish navy)."
+    }
   ]
 }

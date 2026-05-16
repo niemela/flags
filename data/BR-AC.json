@@ -1,8 +1,62 @@
 {
   "id": "BR-AC",
-  "title": "Acre (Brazil)",
-  "iso": "BR-AC",
+  "name": "Acre (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-AC",
+    "wikidata": "Q40780"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "wealth, especially mineral and rubber wealth"
+    },
+    {
+      "color": "green",
+      "symbolism": "the forests of Acre"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood shed by the Acrean revolutionaries"
+    }
+  ],
+  "description": "A field divided diagonally from the upper hoist to the lower fly, yellow above and green below, with a single red five-pointed star in the upper-hoist corner.",
+  "history": "Based on the flag of the Republic of Acre proclaimed by Luis Galvez in 1899 and adapted by the revolutionaries of Placido de Castro; adopted as the flag of the Federal Territory of Acre in 1921 and confirmed for the State of Acre after its elevation to statehood in 1962.",
+  "periods": [
+    {
+      "start": "1921"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Acre"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "green",
+      "direction": "bend",
+      "symbolism": "Diagonally divided yellow (upper hoist) and green (lower fly), inherited from the flag of the short-lived independent Republic of Acre proclaimed against Bolivia in 1899"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "single red star",
+      "symbolism": "the Acrean Revolution led by Placido de Castro that secured the territory for Brazil"
+    }
   ]
 }

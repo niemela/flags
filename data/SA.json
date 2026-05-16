@@ -1,8 +1,71 @@
 {
   "id": "SA",
-  "title": "Saudi Arabia",
-  "iso": "SA",
+  "name": "Saudi Arabia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "SA",
+    "iso_3166_1_alpha3": "SAU",
+    "fifa": "KSA",
+    "ioc": "KSA",
+    "wikidata": "Q851"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "MENA",
+    "GCC",
+    "Arab World"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "Islam"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity; the colour of the shahada inscription and the sword"
+    }
+  ],
+  "description": "A green field bearing in white the Arabic shahada (the Islamic declaration of faith) written in Thuluth script, with a horizontal white sword beneath it (point toward the hoist). Both obverse and reverse show the inscription reading correctly (right-to-left), which requires that the flag be made of two stitched layers.",
+  "history": "The current design was adopted on 15 March 1973, refining earlier flags of the House of Saud that had borne the shahada and a sword from the early 20th century. The shahada-and-sword motif on a green field originates with the Wahhabi religious movement and the First Saudi State (1744). Because of the religious sanctity of the shahada, the flag is never lowered to half-mast, never reproduced on commercial merchandise, and is constructed with mirrored obverse and reverse so the inscription always reads correctly.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1973-03-15"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Saudi_Arabia",
+    "https://www.saudiembassy.net/about-saudi-arabia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green",
+      "symbolism": "Islam; the colour traditionally associated with the Prophet Muhammad and his banner"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Shahada (Islamic creed)",
+      "symbolism": "the shahada — 'There is no god but God; Muhammad is the Messenger of God' (لا إله إلا الله محمد رسول الله) — the central declaration of Islamic faith"
+    },
+    {
+      "type": "sword",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "sword beneath the shahada",
+      "symbolism": "the strict application of justice; commemorates the military conquests of King Abdulaziz Ibn Saud, founder of modern Saudi Arabia"
+    }
   ]
 }

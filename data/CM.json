@@ -1,8 +1,74 @@
 {
   "id": "CM",
-  "title": "Cameroon",
-  "iso": "CM",
+  "name": "Cameroon",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "CM",
+    "iso_3166_1_alpha3": "CMR",
+    "fifa": "CMR",
+    "ioc": "CMR",
+    "wikidata": "Q1009"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Middle Africa",
+    "Commonwealth",
+    "Anglosphere",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the dense forests of the south and hope for the future"
+    },
+    {
+      "color": "red",
+      "symbolism": "unity; sometimes also independence"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the savannas of the north and the sun"
+    }
+  ],
+  "description": "Three equal vertical stripes — green at the hoist, red in the centre, yellow at the fly — with a single yellow five-pointed star centred on the red stripe.",
+  "history": "Cameroon adopted a green-red-yellow vertical tricolour at independence on 1 January 1960. Following the 1961 reunification with the formerly British Southern Cameroons, two yellow stars were placed in the green stripe to represent the two component states of the federation. The single central 'star of unity' replaced the two stars on 20 May 1975 after the country became a unitary state in 1972; that design has remained in use ever since.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1975-05-20"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Cameroon"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "red",
+        "yellow"
+      ],
+      "count": 3,
+      "symbolism": "the Pan-African colours; green for the southern forests, red for unity, yellow for the northern savannas and the sun"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "five-pointed star (the 'star of unity')",
+      "symbolism": "national unity between the formerly French-administered south and east and the formerly British-administered northwest and southwest"
+    }
   ]
 }

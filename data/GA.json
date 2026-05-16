@@ -1,8 +1,63 @@
 {
   "id": "GA",
-  "title": "Gabon",
-  "iso": "GA",
+  "name": "Gabon",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "GA",
+    "iso_3166_1_alpha3": "GAB",
+    "fifa": "GAB",
+    "ioc": "GAB",
+    "wikidata": "Q1000"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Middle Africa",
+    "Francophonie"
+  ],
+  "aspect_ratio": "3:4",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the dense forests that cover much of the country and the timber industry"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the equator, which runs through Gabon, and the sun"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the South Atlantic Ocean along the country's west coast"
+    }
+  ],
+  "description": "Three equal horizontal stripes — green at the top, yellow in the middle and blue at the bottom. Aspect ratio 3:4.",
+  "history": "Adopted on 9 August 1960, eight days before Gabon's independence from France on 17 August 1960. It replaced an earlier 1959–1960 flag that had carried the French tricolour in the canton; in the new flag the canton was removed and the central yellow stripe was widened to equal the others. The unusual 3:4 proportions are inherited from the colonial-era flag.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1960-08-09"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Gabon"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "blue"
+      ],
+      "count": 3,
+      "symbolism": "green for the country's forests and natural resources, yellow for the equator that crosses Gabon and the sun, blue for the sea (the Atlantic coast)"
+    }
   ]
 }

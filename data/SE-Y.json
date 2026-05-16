@@ -1,8 +1,64 @@
 {
   "id": "SE-Y",
-  "title": "Västernorrland (Sweden)",
-  "iso": "SE-Y",
+  "name": "Vasternorrland County (Sweden)",
   "type": [
     "subdivision"
+  ],
+  "parent": "SE",
+  "codes": {
+    "iso_3166_2": "SE-Y",
+    "wikidata": "Q104246"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the gules portion derived from the historic Angermanland arms"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the azure portion derived from the historic Medelpad arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold charges of the constituent provincial arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "silver detailing in the charges"
+    },
+    {
+      "color": "black",
+      "symbolism": "outlining of the charges"
+    }
+  ],
+  "description": "A square flag divided per bend red and blue, charged centrally with the composite arms of Vasternorrland County, combining symbols of the historic provinces of Angermanland and Medelpad.",
+  "history": "The flag is the heraldic banner of the arms of Vasternorrland County, granted in 1943 and combining the historic arms of the provinces of Angermanland and Medelpad that make up the county.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/V%C3%A4sternorrland_County",
+    "https://sv.wikipedia.org/wiki/V%C3%A4sternorrlands_l%C3%A4ns_vapen"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "blue",
+      "direction": "bend",
+      "symbolism": "the field is divided per bend, combining elements from the historic provinces of Angermanland (the red field) and Medelpad (the azure field) that make up Vasternorrland County."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Vasternorrland County arms",
+      "symbolism": "a composite shield combining the salmon and crowns of Angermanland on the red field with the bridge of Medelpad on the azure field."
+    }
   ]
 }

@@ -1,8 +1,75 @@
 {
   "id": "US-AZ",
-  "title": "Arizona (United States)",
-  "iso": "US-AZ",
+  "name": "Arizona (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-AZ",
+    "fips_state": "04",
+    "wikidata": "Q816"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "liberty (the same blue as the U.S. flag)"
+    },
+    {
+      "color": "red",
+      "symbolism": "the red of the U.S. flag and the red of the Spanish flags carried by Coronado"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold (yellow) of the Spanish flags carried by Coronado"
+    },
+    {
+      "color": "orange",
+      "symbolism": "Arizona's vast copper deposits — the largest in the United States"
+    }
+  ],
+  "description": "A field divided horizontally: the lower half a solid blue, the upper half thirteen rays alternating red and yellow (gold) radiating from the flag's centre to the top, hoist and fly edges. A copper-coloured five-pointed star is superimposed at the centre, overlapping both halves.",
+  "history": "Designed by Charles W. Harris, then Adjutant General of the Arizona National Guard, with sewing attributed to Nan D. Hayden; first used as the standard for the territorial rifle team at the 1910 Camp Perry national matches. Adopted as the official state flag by the Arizona State Legislature on 27 February 1917, over the veto of Governor Thomas Edward Campbell — the legislature having passed the bill before the veto was filed.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1917-02-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Arizona"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "lower half a solid blue field; upper half thirteen alternating red and yellow rays radiating from the centre to the upper edges, evoking a setting sun"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 13,
+      "color": "red",
+      "position": "top",
+      "role": "thirteen rays of a setting sun (alternating red and yellow)",
+      "symbolism": "the original thirteen colonies; the colours evoke Arizona's spectacular sunsets and the flags of the Spanish conquistadors"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "orange",
+      "position": "center",
+      "role": "copper star",
+      "symbolism": "Arizona's status as the leading copper-producing state in the U.S."
+    }
   ]
 }

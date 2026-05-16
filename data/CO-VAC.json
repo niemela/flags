@@ -1,8 +1,44 @@
 {
   "id": "CO-VAC",
-  "title": "Valle del Cauca (Colombia)",
-  "iso": "CO-VAC",
+  "name": "Valle del Cauca (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-VAC",
+    "wikidata": "Q121131"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the Pacific Ocean and the sky over the Cauca valley"
+    },
+    {
+      "color": "white",
+      "symbolism": "the peace and integrity of the people of the valley"
+    }
+  ],
+  "description": "Two equal horizontal stripes, light blue over white.",
+  "history": "Valle del Cauca was created as a department in 1910 from the territory south of the Cauca River. Its bicolour flag of light blue over white represents the Pacific coast and the rivers of the fertile valley.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Valle_del_Cauca_Department"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "white"
+      ],
+      "count": 2
+    }
   ]
 }

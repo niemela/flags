@@ -1,8 +1,69 @@
 {
   "id": "US-MI",
-  "title": "Michigan (United States)",
-  "iso": "US-MI",
+  "name": "Michigan (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-MI",
+    "fips_state": "26",
+    "wikidata": "Q1166"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "A blue field bearing the Michigan state coat of arms in the centre. The arms feature a shield with a man on a peninsula at sunrise, supported by a moose and an elk, surmounted by a bald eagle holding an olive branch and arrows, with the mottos 'TUEBOR', 'E PLURIBUS UNUM', and 'SI QUAERIS PENINSULAM AMOENAM CIRCUMSPICE'.",
+  "history": "Michigan adopted its first state flag in 1837, modeled on regimental colours used by Michigan troops in the Mexican-American and Civil Wars. The current design — the state coat of arms on a plain blue field — was adopted by the legislature on 1 August 1911.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1911-08-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Michigan"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "the Michigan state coat of arms",
+      "symbolism": "shield with a man on a peninsula, sun rising over a lake, and the motto 'TUEBOR' ('I will defend'); supported by a moose and an elk; crested by a bald eagle holding olive branch and arrows; banner below reads 'SI QUAERIS PENINSULAM AMOENAM CIRCUMSPICE' ('If you seek a pleasant peninsula, look about you'); above the eagle the motto 'E PLURIBUS UNUM'"
+    }
   ]
 }

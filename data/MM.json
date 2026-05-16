@@ -1,8 +1,75 @@
 {
   "id": "MM",
-  "title": "Myanmar",
-  "iso": "MM",
+  "name": "Myanmar",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "MM",
+    "iso_3166_1_alpha3": "MMR",
+    "fifa": "MYA",
+    "ioc": "MYA",
+    "wikidata": "Q836"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "solidarity of the country's peoples"
+    },
+    {
+      "color": "green",
+      "symbolism": "peace, tranquillity and the lush greenery of the land"
+    },
+    {
+      "color": "red",
+      "symbolism": "courage and decisiveness"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity; the colour of the central star, signifying the integrity of the union"
+    }
+  ],
+  "description": "Three equal horizontal stripes — yellow over green over red — with a large white five-pointed star centred over all three stripes.",
+  "history": "Adopted on 21 October 2010 by the State Peace and Development Council, replacing the 1974 socialist-era flag (a red field with a blue canton bearing a cogwheel-and-rice-ears design and 14 stars). The new design accompanied the political reforms preceding the November 2010 elections, with the country's official name changing to the Republic of the Union of Myanmar. The yellow-green-red colour scheme is similar to that used in 1943–1945 under the Japanese-aligned Burmese government of Ba Maw.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "2010-10-21"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Myanmar"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "yellow for solidarity, green for peace, tranquillity and lush greenery, red for courage and decisiveness"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "size": "large",
+      "position": "center",
+      "role": "large central five-pointed star",
+      "symbolism": "the perpetual existence of the Union of Myanmar; the unity of the country's peoples"
+    }
   ]
 }

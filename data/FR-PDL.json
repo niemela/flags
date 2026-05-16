@@ -1,8 +1,62 @@
 {
   "id": "FR-PDL",
-  "title": "Pays-de-la-Loire (France)",
-  "iso": "FR-PDL",
+  "name": "Pays de la Loire (France)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FR",
+  "codes": {
+    "iso_3166_2": "FR-PDL",
+    "wikidata": "Q16994"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "7:12",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the azure of the historic arms of Anjou and Maine"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver / ermine field referencing the historic Breton heritage of the western Pays de la Loire"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold (or) of the fleurs-de-lis"
+    },
+    {
+      "color": "red",
+      "symbolism": "the gules detailing of the heraldic charges"
+    },
+    {
+      "color": "black",
+      "symbolism": "the ermine spots and outline detailing"
+    }
+  ],
+  "description": "A field divided per pale: a blue hoist charged with gold fleurs-de-lis (Anjou/Maine) and a white fly charged with the ermine of Brittany.",
+  "history": "Pays de la Loire is a French administrative region created in 1955 from parts of historic Anjou, Maine, Touraine, and Brittany. France traditionally does not promote regional flags, and this composite armorial banner is used in a de-facto capacity rather than as an officially adopted regional flag.",
+  "status": "de-facto",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pays_de_la_Loire"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2,
+      "symbolism": "A field divided per pale: a blue (azure) hoist half charged with the gold fleurs-de-lis of the historic counties of Anjou and Maine, and a white (ermine) fly half referencing the Breton heritage of the western parts of the modern region."
+    },
+    {
+      "type": "coat-of-arms",
+      "role": "fleurs-de-lis of Anjou / Maine on the hoist, ermine of Brittany on the fly",
+      "symbolism": "The two halves of the banner combine the heraldry of the historic provinces gathered in the modern Pays de la Loire region: Anjou and Maine on the azure hoist, Brittany on the ermine fly (a reference to the Breton-speaking heritage of Loire-Atlantique and the Vendee)."
+    }
   ]
 }

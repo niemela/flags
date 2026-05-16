@@ -1,8 +1,87 @@
 {
   "id": "TV",
-  "title": "Tuvalu",
-  "iso": "TV",
+  "name": "Tuvalu",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "TV",
+    "iso_3166_1_alpha3": "TUV",
+    "fifa": "TUV",
+    "wikidata": "Q672"
+  },
+  "region": [
+    "Oceania",
+    "Polynesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the Pacific Ocean and the sky over Tuvalu"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the nine stars representing the country's islands; the sun and happiness"
+    },
+    {
+      "color": "navy",
+      "symbolism": "the Union Flag canton"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross of St George and saltire of St Patrick within the Union Flag"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltire and cross fimbriations of the Union Flag"
+    }
+  ],
+  "symbolism": null,
+  "description": "A light-blue field with the Union Flag in the upper-hoist canton (one quarter of the flag) and nine yellow five-pointed stars scattered across the fly half in a pattern reflecting the geographical arrangement of Tuvalu's inhabited islands.",
+  "history": "Originally adopted on 1 October 1978, the day Tuvalu became independent from the United Kingdom, with the nine stars arranged on a light-blue field and the Union Flag in the canton. Replaced on 1 October 1995 by a markedly different design without the Union Flag, but the original was restored — with minor adjustments — on 11 April 1997 after political controversy. The 1997 design positioned the stars to better reflect the actual geography of the islands.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1978-10-01",
+      "end": "1995-10-01"
+    },
+    {
+      "start": "1997-04-11"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Tuvalu"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue",
+      "symbolism": "a light sky-blue field representing the Pacific Ocean, on which Tuvalu's nine inhabited islands are arranged in a map-like pattern of stars"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "role": "Union Flag canton",
+      "symbolism": "Tuvalu's continuing membership of the Commonwealth and status as a Commonwealth realm under the British Crown"
+    },
+    {
+      "type": "star",
+      "count": 9,
+      "points": 5,
+      "color": "yellow",
+      "position": "fly",
+      "arrangement": "scattered",
+      "role": "nine yellow stars in the map-like pattern of Tuvalu's islands",
+      "symbolism": "the nine inhabited islands of Tuvalu — Nanumea, Nanumanga, Niutao, Nui, Vaitupu, Nukufetau, Funafuti, Nukulaelae and Niulakita — arranged geographically as they appear on a map of the country, with the hoist edge oriented to the west"
+    }
   ]
 }

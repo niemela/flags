@@ -1,8 +1,81 @@
 {
   "id": "LS",
-  "title": "Lesotho",
-  "iso": "LS",
+  "name": "Lesotho",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "LS",
+    "iso_3166_1_alpha3": "LSO",
+    "fifa": "LES",
+    "ioc": "LES",
+    "wikidata": "Q1013"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Southern Africa",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "rain and the sky; in the national motto, an essential blessing"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace"
+    },
+    {
+      "color": "green",
+      "symbolism": "prosperity and the country's land"
+    },
+    {
+      "color": "black",
+      "symbolism": "the indigenous black African heritage of the Basotho nation (the central mokorotlo hat)"
+    }
+  ],
+  "description": "Three horizontal stripes — blue, white and green — in proportions roughly 3:4:3, with a black mokorotlo (the traditional conical straw hat of the Basotho) centred on the white middle stripe.",
+  "history": "Adopted on 4 October 2006, the fortieth anniversary of Lesotho's independence from the United Kingdom. The current flag replaced a 1987 design that had carried a Basotho shield, assegai and knobkerrie (military symbols introduced after a coup); the 2006 redesign deliberately replaced the weapons with the peaceful mokorotlo to mark the country's commitment to non-violence and stability. An earlier 1966–1987 flag had also used the mokorotlo emblem.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "2006-10-04"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Lesotho"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        3,
+        4,
+        3
+      ],
+      "symbolism": "blue for rain (vital in this mountainous country), white for peace, green for prosperity; together expressing the national motto Khotso, Pula, Nala ('Peace, Rain, Prosperity')"
+    },
+    {
+      "type": "human-figure",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "mokorotlo (Basotho conical straw hat)",
+      "symbolism": "the Basotho nation and its peaceful traditions; a culturally specific national symbol replacing the assegai-and-shield emblem of the previous flag"
+    }
   ]
 }

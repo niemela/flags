@@ -1,8 +1,66 @@
 {
   "id": "US-NJ",
-  "title": "New Jersey (United States)",
-  "iso": "US-NJ",
+  "name": "New Jersey (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-NJ",
+    "fips_state": "34",
+    "wikidata": "Q1408"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "Jersey buff — the buff facings of the New Jersey Continental Line uniforms"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the dark blue of the Continental Army uniform"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "A buff (pale yellow) field bearing the New Jersey coat of arms — a blue shield with three ploughs supported by the figures Liberty and Ceres, crested by a horse's head — with a banner below inscribed 'LIBERTY AND PROSPERITY · 1776'.",
+  "history": "The buff and dark blue of the flag were chosen by General George Washington on 2 September 1779 as the official colours of the New Jersey regiments of the Continental Army. The flag of these colours bearing the state coat of arms was officially adopted on 11 March 1896 (with the buff field codified as a precise shade in 1965).",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1896-03-11"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_New_Jersey"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow",
+      "symbolism": "buff (Jersey buff), one of the colours of the New Jersey Continental Line uniform facings prescribed by George Washington in 1779"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "the coat of arms of New Jersey",
+      "symbolism": "shield with three ploughs (agriculture); supported by Liberty (holding the Liberty Cap on a staff) and Ceres (Roman goddess of grain, holding a cornucopia); crested by a horse's head; banner reads 'LIBERTY AND PROSPERITY' with the year 1776"
+    }
   ]
 }

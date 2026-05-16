@@ -1,8 +1,70 @@
 {
   "id": "US-PA",
-  "title": "Pennsylvania (United States)",
-  "iso": "US-PA",
+  "name": "Pennsylvania (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-PA",
+    "fips_state": "42",
+    "wikidata": "Q1400"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "27:37",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A blue field bearing the state coat of arms of Pennsylvania — a shield with a sailing ship, a plough and three sheaves of wheat, supported by two black draft horses, surmounted by a bald eagle, with corn stalks and an olive branch crossed below a red banner inscribed 'VIRTUE LIBERTY AND INDEPENDENCE'.",
+  "history": "Pennsylvania troops carried regimental colours of this general design throughout the American Civil War. The state legislature formally authorized the flag on 13 June 1907, requiring it to be made of silk and to display the state coat of arms on a blue field matching that of the United States flag.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1907-06-13"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Pennsylvania"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "blue field matching the blue of the U.S. flag canton"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "the Pennsylvania state coat of arms",
+      "symbolism": "shield bearing a ship in full sail, a plough, and three sheaves of wheat — representing commerce, labor and agriculture; supported by two black draft horses; crested by a bald eagle; with stalks of Indian corn and an olive branch crossed beneath a red ribbon reading 'VIRTUE LIBERTY AND INDEPENDENCE'"
+    }
   ]
 }

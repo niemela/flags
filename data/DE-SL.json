@@ -1,8 +1,73 @@
 {
   "id": "DE-SL",
-  "title": "Saarland (Germany)",
-  "iso": "DE-SL",
+  "name": "Saarland (Germany)",
   "type": [
     "subdivision"
+  ],
+  "parent": "DE",
+  "codes": {
+    "iso_3166_2": "DE-SL",
+    "wikidata": "Q1201"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the German national colours"
+    },
+    {
+      "color": "red",
+      "symbolism": "the German national colours"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the German national colours"
+    },
+    {
+      "color": "white",
+      "symbolism": "field of the Nassau-Saarbrucken quarter and the Trier cross"
+    },
+    {
+      "color": "blue",
+      "symbolism": "field of the lion of Pfalz-Zweibrucken and of the Lorraine quarter"
+    }
+  ],
+  "description": "The German tricolour of black, red, and gold horizontal stripes, with the quartered Saarland coat of arms placed at the centre.",
+  "history": "Adopted on 9 July 1956, on the eve of the Saar Protectorate's political reintegration with West Germany on 1 January 1957. The flag combines the post-war federal tricolour with a quartered shield drawn from the four historic territories that make up the modern state.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1956-07-09"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Saarland"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "red",
+        "yellow"
+      ],
+      "count": 3,
+      "symbolism": "The German national tricolour, asserting the Saarland's identity as a German state after its return from French administration in 1957."
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "position": "center",
+      "role": "Saarland coat of arms (a quartered shield: the silver-and-blue lion of Nassau-Saarbrucken, the red Trier cross on silver, the gold-and-red lion of Pfalz-Zweibrucken on blue, and the silver alerions on red of the Duchy of Lorraine)",
+      "symbolism": "Each quarter recalls one of the four historical territories whose lands together make up the modern Saarland: the County of Saarbrucken, the Electorate of Trier, the Palatinate-Zweibrucken, and the Duchy of Lorraine."
+    }
   ]
 }

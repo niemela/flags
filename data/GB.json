@@ -1,8 +1,78 @@
 {
   "id": "GB",
-  "title": "United Kingdom",
-  "iso": "GB",
+  "name": "United Kingdom",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "GB",
+    "iso_3166_1_alpha3": "GBR",
+    "fifa": "ENG",
+    "ioc": "GBR",
+    "wikidata": "Q145"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the field of St Andrew's saltire (Scotland)"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltire of St Andrew (Scotland) and the fimbriation around the cross of St George and the saltire of St Patrick"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross of St George (England) and the saltire of St Patrick (Ireland)"
+    }
+  ],
+  "description": "A navy field bearing a counter-changed saltire of red on white (the saltires of St Patrick and St Andrew) overlaid by a centred red Greek cross fimbriated white (the cross of St George). The white fimbriation around the red cross of St George and the offset of the red saltire from the centre of the white saltire are defining heraldic details.",
+  "history": "Created by royal proclamation on 1 January 1801 to mark the Acts of Union 1800 between Great Britain and Ireland. The pre-1801 Union Flag (1606) combined only the cross of St George and the saltire of St Andrew, following the personal union of the English and Scottish crowns under James VI and I (1603); the saltire of St Patrick was added in 1801 to represent Ireland. The flag was originally a maritime ensign; popular use on land grew through the 19th century. It remains the United Kingdom's national flag despite Irish independence in 1922 (the cross of St Patrick is now interpreted as referring to Northern Ireland). Wales is not represented because at the time of the original union it was already considered part of the Kingdom of England.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1801-01-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Union_Jack",
+    "https://en.wikipedia.org/wiki/Flag_of_the_United_Kingdom"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "the Union Flag — a combined heraldic device superimposing the crosses of the patron saints of England (St George), Scotland (St Andrew) and Ireland (St Patrick), embodying the political union of the three kingdoms"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "center",
+      "role": "saltire of St Andrew (Scotland)",
+      "symbolism": "the patron saint of Scotland; an X-shaped cross commemorating St Andrew's martyrdom on a saltire cross"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "center",
+      "role": "saltire of St Patrick (Ireland)",
+      "symbolism": "the patron saint of Ireland; counter-changed with the white saltire of St Andrew so that the red lies offset from the centre of the white in each arm"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "center",
+      "role": "cross of St George (England)",
+      "symbolism": "the patron saint of England; a centred upright Greek cross fimbriated white"
+    }
   ]
 }

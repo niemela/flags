@@ -1,8 +1,72 @@
 {
   "id": "TO",
-  "title": "Tonga",
-  "iso": "TO",
+  "name": "Tonga",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "TO",
+    "iso_3166_1_alpha3": "TON",
+    "fifa": "TGA",
+    "ioc": "TGA",
+    "wikidata": "Q678"
+  },
+  "region": [
+    "Oceania",
+    "Polynesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the blood Christ shed at his crucifixion to redeem mankind"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity, in particular the purity of the cross of Christ; the canton field"
+    }
+  ],
+  "symbolism": null,
+  "description": "A red field with a white canton in the upper hoist (one quarter of the flag) bearing a red couped Greek cross at its centre.",
+  "history": "Adopted on 4 November 1875 with the proclamation of King George Tupou I's constitution; the same article of the constitution declares the flag may not be altered. Tonga's first flag (also designed by King George Tupou I in the 1860s) was a white field with a red cross — visually similar to the flag of the British Red Cross Society, prompting the redesign. The current design integrates the original cross within a canton on a red field. Tonga uniquely codifies the unalterability of its national flag in its constitution.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1875-11-04"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Tonga"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the red field represents the blood of Christ shed at the crucifixion; the design embeds Christianity at the heart of the Tongan kingdom"
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "proportion": "1/4",
+      "role": "white canton",
+      "symbolism": "purity",
+      "features": [
+        {
+          "type": "greek-cross",
+          "count": 1,
+          "color": "red",
+          "position": "center",
+          "role": "red couped Greek cross centred on the canton",
+          "symbolism": "Christianity, in particular Christ's sacrifice and the kingdom's identity as a Christian nation"
+        }
+      ]
+    }
   ]
 }

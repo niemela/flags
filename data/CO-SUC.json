@@ -1,8 +1,67 @@
 {
   "id": "CO-SUC",
-  "title": "Sucre (Colombia)",
-  "iso": "CO-SUC",
+  "name": "Sucre (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-SUC",
+    "wikidata": "Q121127"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the savannahs and fertile lands of the department"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace and the integrity of the people"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wealth and the sun of the Caribbean coast"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood of the patriots in the wars of independence"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the rivers and the Caribbean Sea"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the soil and earthen tones of the coat of arms"
+    }
+  ],
+  "description": "A field divided horizontally green over white, charged in the centre with the multicoloured departmental coat of arms.",
+  "history": "Sucre Department was created in 1966 from the northern part of Bolivar Department. It was named after Antonio Jose de Sucre, hero of South American independence. The flag combines the green of its savannahs and the white of peace, with the departmental coat of arms in the centre.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sucre_Department"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Sucre Department coat of arms",
+      "symbolism": "the departmental arms displaying the agricultural, livestock and historical symbols of Sucre"
+    }
   ]
 }

@@ -1,8 +1,68 @@
 {
   "id": "RU-BU",
-  "title": "Buryatia (Russia)",
-  "iso": "RU-BU",
+  "name": "Buryatia (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-BU",
+    "wikidata": "Q6809"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the eternal blue sky and Lake Baikal; the traditional sacred colour of the Mongol-Buryat peoples"
+    },
+    {
+      "color": "white",
+      "symbolism": "moral purity, hospitality, and the good thoughts of the Buryat people"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "Buddhism, the predominant religion of the Buryats"
+    }
+  ],
+  "description": "A horizontal triband of blue (broadest), white and yellow, with the golden soyombo (a stylised flame above a sun and crescent moon) in the upper hoist of the blue stripe.",
+  "history": "Adopted on 29 October 1992 by the Supreme Soviet of the Republic of Buryatia. The soyombo emblem and the colour palette draw on traditional Mongol-Buryat Buddhist symbolism.",
+  "periods": [
+    {
+      "start": "1992-10-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Buryatia",
+    "https://en.wikipedia.org/wiki/Buryatia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        1
+      ],
+      "symbolism": "blue stands for the eternal blue sky and the waters of Lake Baikal; white represents the moral purity, hospitality and good intentions of the Buryat people; yellow represents Buddhism, the dominant faith of the Buryats."
+    },
+    {
+      "type": "circle",
+      "count": 1,
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "soyombo",
+      "symbolism": "the soyombo, a traditional Mongol-Buryat ideogram showing a crescent moon, the sun, and a flame; symbolises eternal life, the heavens, and the hearth (family)."
+    }
   ]
 }

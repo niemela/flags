@@ -1,8 +1,68 @@
 {
   "id": "RU-KOS",
-  "title": "Kostroma Oblast (Russia)",
-  "iso": "RU-KOS",
+  "name": "Kostroma Oblast (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-KOS",
+    "wikidata": "Q2596"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the hoist and fly stripes"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the central field representing the Volga River"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central galley emblem"
+    }
+  ],
+  "description": "A vertical tricolour with a wide central blue stripe flanked by two narrower red stripes, charged in the centre with a golden galley.",
+  "history": "Adopted on 19 October 2000. The galley device recalls Empress Catherine the Great's visit to Kostroma by ship down the Volga.",
+  "periods": [
+    {
+      "start": "2000-10-19"
+    }
+  ],
+  "sources": [
+    "https://www.crwflags.com/fotw/flags/ru-44.html",
+    "https://en.wikipedia.org/wiki/Kostroma_Oblast"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "blue",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "ship",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "imperial galley from the Kostroma Oblast coat of arms",
+      "symbolism": "a golden galley recalling the ship on which Empress Catherine the Great sailed down the Volga to Kostroma; taken from the oblast's coat of arms."
+    }
   ]
 }

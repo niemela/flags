@@ -1,8 +1,81 @@
 {
   "id": "GM",
-  "title": "Gambia",
-  "iso": "GM",
+  "name": "Gambia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "GM",
+    "iso_3166_1_alpha3": "GMB",
+    "fifa": "GAM",
+    "ioc": "GAM",
+    "wikidata": "Q1005"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the sun overhead and the savannas of West Africa"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the Gambia River, the geographic and economic spine of the country"
+    },
+    {
+      "color": "green",
+      "symbolism": "the country's forests and agricultural land"
+    },
+    {
+      "color": "white",
+      "symbolism": "unity and peace (the narrow fimbriations between the main bands)"
+    }
+  ],
+  "description": "Five horizontal stripes — red, white (thin), blue, white (thin), green — with the two narrow white bands serving as fimbriations between the three main colours. Aspect ratio 2:3.",
+  "history": "Adopted on 18 February 1965, the day The Gambia gained independence from the United Kingdom. Designed by accountant Louis Thomasi, the flag deliberately avoids the Pan-African colour palette and any reference to political parties; the simple horizontal triband with white fimbriations was intended as a non-partisan national symbol. The flag was retained unchanged through the 1970–2017 republic and the 1982–1989 Senegambia confederation period.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1965-02-18"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Gambia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue",
+        "white",
+        "green"
+      ],
+      "count": 5,
+      "widths": [
+        6,
+        1,
+        4,
+        1,
+        6
+      ],
+      "fimbriation": {
+        "color": "white",
+        "around": "stripes"
+      },
+      "symbolism": "red for the savanna and the sun, blue for the Gambia River that defines the country, green for the land and agriculture; the narrow white fimbriations stand for unity and peace"
+    }
   ]
 }

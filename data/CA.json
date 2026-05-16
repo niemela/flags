@@ -1,8 +1,74 @@
 {
   "id": "CA",
-  "title": "Canada",
-  "iso": "CA",
+  "name": "Canada",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "CA",
+    "iso_3166_1_alpha3": "CAN",
+    "fifa": "CAN",
+    "ioc": "CAN",
+    "wikidata": "Q16"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth",
+    "Francophonie"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "one of Canada's national colours, proclaimed by King George V in 1921; recalls the cross of Saint George and the sacrifice of Canadians in the First World War"
+    },
+    {
+      "color": "white",
+      "symbolism": "Canada's other national colour, evoking the snow and the lily of France"
+    }
+  ],
+  "description": "A vertical triband in the proportions 1:2:1 — red, white, red — with a stylised red 11-pointed maple leaf centred on the broad white square (the Canadian Pale).",
+  "history": "Adopted on 15 February 1965 — now observed as National Flag of Canada Day — replacing the Canadian Red Ensign that had served as a de facto national flag since the late 19th century. The design was selected after the long and politically charged 'Great Canadian Flag Debate' under Prime Minister Lester B. Pearson; the chosen single-leaf design is generally credited to George F. G. Stanley, with final artwork by Jacques Saint-Cyr. Proclaimed by Queen Elizabeth II on 28 January 1965 to take effect 15 February 1965.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1965-02-15"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Canada",
+    "https://www.canada.ca/en/canadian-heritage/services/flag-canada-history.html"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ],
+      "symbolism": "the red-white-red Canadian Pale, derived from the design of the Royal Military College of Canada flag; the red bands recall the colours of England and France, the historic colonising powers"
+    },
+    {
+      "type": "maple-leaf",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "11-pointed maple leaf",
+      "symbolism": "a long-standing emblem of Canada, dating in popular use to at least the 1830s; the stylised eleven-point shape was chosen for clarity at a distance and bears no political meaning in the number of points"
+    }
   ]
 }

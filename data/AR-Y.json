@@ -1,8 +1,65 @@
 {
   "id": "AR-Y",
-  "title": "Jujuy (Argentina)",
-  "iso": "AR-Y",
+  "name": "Jujuy (Argentina)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AR",
+  "codes": {
+    "iso_3166_2": "AR-Y",
+    "wikidata": "Q44877"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the celestial blue of the Argentine national flag"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central stripe of the Argentine national flag"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the Sun of May"
+    }
+  ],
+  "description": "A horizontal triband of light blue, white and light blue, charged in the centre with a sixteen-rayed golden Sun of May.",
+  "history": "Adopted by provincial law 5790 on 22 July 2013, the flag is the so-called 'Bandera Nacional de la Libertad Civil' originally presented by General Manuel Belgrano to the people of Jujuy in 1813 in recognition of their support for the wars of independence and their participation in the 'Exodo Jujeno' of 1812.",
+  "periods": [
+    {
+      "start": "2013-07-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Jujuy_Province",
+    "https://es.wikipedia.org/wiki/Bandera_de_la_provincia_de_Jujuy"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "light-blue"
+      ],
+      "count": 3,
+      "symbolism": "the colours of the Argentine national flag, recognising Jujuy's historic role in the wars of independence"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 16,
+      "color": "yellow",
+      "position": "center",
+      "role": "Sun of May",
+      "symbolism": "the Sun of May from the Argentine national flag, which according to tradition was first hoisted in Jujuy by General Manuel Belgrano in 1813"
+    }
   ]
 }

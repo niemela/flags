@@ -1,9 +1,71 @@
 {
   "id": "CO-DC",
-  "title": "Distrito Capital (Colombia)",
-  "iso": "CO-DC",
+  "name": "Bogota Capital District (Colombia)",
   "type": [
     "subdivision",
     "city"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-DC",
+    "wikidata": "Q2841"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the wealth and sovereignty of the city; the upper band of the comunero banner of 1781"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood, valour, and sacrifice of the comuneros and of Bogota's defenders"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the central heraldic charge of the city's coat of arms (when displayed)"
+    }
+  ],
+  "description": "A horizontal bicolour with equal yellow (top) and red (bottom) bands; on the official state version, the coat of arms of Bogota is shown at the centre.",
+  "history": "Adopted as the official flag of Bogota by Decree 555 of 9 October 1952, the design takes its colours from the banner of the comunero revolt of 1781, an early Spanish-American uprising against colonial taxes that began in Socorro (then part of the Viceroyalty of New Granada) and threatened Santa Fe de Bogota. The coat of arms was granted by Emperor Charles V to the city in 1548 and is added to the flag for state and ceremonial use.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1952-10-09"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Bogot%C3%A1",
+    "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        1
+      ],
+      "symbolism": "yellow for the wealth of the New Granada lands; red for the blood and toil of the people, after the colours of the comuneros uprising of 1781"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "coat of arms of Bogota (granted by Emperor Charles V in 1548) shown on the official version of the flag for government use",
+      "symbolism": "the city's coat of arms: a black eagle holding nine pomegranates on a blue field, granted by Charles V of Spain in 1548. Shown only on the official 'state' version of the flag; the civil version is the plain yellow-and-red bicolour."
+    }
   ]
 }

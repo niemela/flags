@@ -1,8 +1,66 @@
 {
   "id": "RU-KK",
-  "title": "Khakassia (Russia)",
-  "iso": "RU-KK",
+  "name": "Khakassia (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-KK",
+    "wikidata": "Q6543"
+  },
+  "region": [
+    "Asia",
+    "Central Asia",
+    "Turkic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the upper stripe; mirrors the Russian tricolour"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central stripe; mirrors the Russian tricolour"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lower stripe; mirrors the Russian tricolour"
+    },
+    {
+      "color": "green",
+      "symbolism": "the hoist stripe, representing nature, the steppe and forests of Khakassia"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the sun emblem, a traditional Khakas solar symbol"
+    }
+  ],
+  "description": "Three equal horizontal stripes - blue, white, red - with a green vertical stripe along the hoist bearing a traditional yellow Khakas sun symbol.",
+  "history": "The current design was adopted on 25 September 2003. Khakassia first adopted a flag on 6 June 1992 with similar layout but a black sun and white-blue-red horizontal stripes; the sun was changed to yellow on 23 December 1993 and the tricolour reordered to its present form in 2003.",
+  "periods": [
+    {
+      "start": "2003-09-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Khakassia",
+    "https://en.wikipedia.org/wiki/Khakassia"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "blue-white-red horizontal tricolour with a green vertical band at the hoist bearing a yellow traditional sun device."
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "Khakas solar symbol",
+      "symbolism": "a traditional yellow Khakas sun device, ancient solar symbol of the Khakas people, set on the green hoist stripe."
+    }
   ]
 }

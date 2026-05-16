@@ -1,8 +1,80 @@
 {
   "id": "MD",
-  "title": "Moldova",
-  "iso": "MD",
+  "name": "Moldova",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "MD",
+    "iso_3166_1_alpha3": "MDA",
+    "fifa": "MDA",
+    "ioc": "MDA",
+    "wikidata": "Q217"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "an emerald-blue distinct from the ultramarine of the Romanian flag, drawn from the Voronet Monastery frescoes"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "from the Romanian tricolour; the gold of the Moldavian arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "from the Romanian tricolour"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the colour of the eagle of the coat of arms"
+    },
+    {
+      "color": "green",
+      "symbolism": "the laurel branch in the eagle's talons"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Three equal vertical stripes of blue (hoist), yellow, and red, charged in the centre of the yellow stripe with the Moldovan coat of arms — a dark golden eagle bearing on its breast a shield with the aurochs's head of historic Moldavia.",
+  "history": "Adopted by Decision of the Supreme Soviet of the Moldavian SSR No. 192-XII of 27 April 1990 (now celebrated as Flag Day), at the height of the national-revival movement that culminated in independence from the Soviet Union on 27 August 1991. The flag was designed by Gheorghe Vrabie, who also designed the coat of arms. Until the law of 26 November 2010 (effective from that date), the reverse of the flag was officially blank, making Moldova one of the very few countries — along with Paraguay — with a reverse different from the obverse; the 2010 law redefined the reverse as a mirror image of the obverse and standardised the colour shades.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1990-04-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Moldova",
+    "https://en.wikipedia.org/wiki/Coat_of_arms_of_Moldova"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "based on the Romanian tricolour, expressing the cultural and national affinity between Moldovans and Romanians; the blue is a distinctive emerald-tinged shade taken from the murals of Voronet Monastery"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Coat of arms of Moldova",
+      "symbolism": "a dark golden eagle holding an Orthodox cross in its beak, an olive branch (peace) in one talon and a sceptre in the other; on the eagle's breast a blue-and-red shield charged with the traditional emblems of historic Moldavia — an aurochs's head with a star between its horns, flanked by a rose and a crescent, all in gold"
+    }
   ]
 }

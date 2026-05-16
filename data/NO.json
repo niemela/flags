@@ -1,8 +1,62 @@
 {
   "id": "NO",
-  "title": "Norway",
-  "iso": "NO",
+  "name": "Norway",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "NO",
+    "iso_3166_1_alpha3": "NOR",
+    "fifa": "NOR",
+    "ioc": "NOR",
+    "wikidata": "Q20"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia"
+  ],
+  "aspect_ratio": "8:11",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "from the Dannebrog; recalls the union with Denmark"
+    },
+    {
+      "color": "white",
+      "symbolism": "from the Dannebrog; together with red and blue evokes the tricolours of liberty"
+    },
+    {
+      "color": "blue",
+      "symbolism": "freedom and independence; drawn from the French and American flags as emblems of liberty"
+    }
+  ],
+  "description": "A red field with a blue Nordic cross fimbriated white; the vertical arm is shifted toward the hoist.",
+  "history": "Designed by Storting member Fredrik Meltzer and adopted by the Norwegian parliament on 13 July 1821, during the union with Sweden, as a distinct merchant ensign. Norway was however required to fly the union mark (the 'sildesalat') in the canton until 1898 (merchant) and 1905 (state); the plain cross flag became the sole national flag with the dissolution of the union with Sweden on 7 June 1905. The design self-consciously combines the red-and-white of Denmark (with which Norway had been in union 1380–1814) and the blue of liberty associated with the post-1789 republican tradition.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1821-07-13"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Norway"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "red",
+      "cross": "blue",
+      "fimbriation": {
+        "color": "white",
+        "around": "cross"
+      },
+      "symbolism": "the off-centre Nordic cross expresses Christian heritage and kinship with the other Nordic nations; the colour scheme combines the red and white of the Danish Dannebrog (recalling the centuries-long Dano-Norwegian union) with the blue of liberty drawn from the French and American tricolours"
+    }
   ]
 }

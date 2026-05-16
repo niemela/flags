@@ -1,8 +1,80 @@
 {
   "id": "DZ",
-  "title": "Algeria",
-  "iso": "DZ",
+  "name": "Algeria",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "DZ",
+    "iso_3166_1_alpha3": "DZA",
+    "fifa": "ALG",
+    "ioc": "ALG",
+    "wikidata": "Q262"
+  },
+  "region": [
+    "Africa",
+    "Northern Africa",
+    "MENA",
+    "Maghreb",
+    "Arab World",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "Islam, nature, and paradise"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and peace"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood of those who died fighting for independence; liberty"
+    }
+  ],
+  "description": "Two equal vertical halves — green at the hoist, white at the fly — with a red crescent and a red five-pointed star centred on the dividing line. The crescent's horns face the fly and the star sits within its opening.",
+  "history": "Designed by Emir Abdelkader in the 19th century according to tradition, and adopted in its current form on 3 July 1962 at independence from France. The design was used by the Algerian National Liberation Front (FLN) during the war of independence (1954–1962), and is said to have been created by Messali Hadj's wife Emilie Busquant in 1934 for the Étoile Nord-Africaine movement.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1962-07-03"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Algeria"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 2,
+      "symbolism": "the two equal halves represent Islam (green) and the purity and peace of the nation (white)"
+    },
+    {
+      "type": "crescent",
+      "color": "red",
+      "position": "center",
+      "role": "crescent",
+      "symbolism": "Islam; the long horns of the crescent are said to bring happiness in Algerian tradition"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "center",
+      "role": "five-pointed star within the crescent",
+      "symbolism": "the five pillars of Islam"
+    }
   ]
 }

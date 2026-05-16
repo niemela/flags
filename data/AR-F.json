@@ -1,8 +1,83 @@
 {
   "id": "AR-F",
-  "title": "La Rioja (Argentina)",
-  "iso": "AR-F",
+  "name": "La Rioja (Argentina)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AR",
+  "codes": {
+    "iso_3166_2": "AR-F",
+    "wikidata": "Q44796"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "9:14",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the colours of the Argentine national flag"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the colours of the Argentine national flag"
+    },
+    {
+      "color": "red",
+      "symbolism": "the federalist red of Facundo Quiroga and the Federal League"
+    },
+    {
+      "color": "green",
+      "symbolism": "the laurel of the wreath"
+    },
+    {
+      "color": "gold"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Horizontally divided white over light blue, with a red diagonal stripe running from the upper fly to the lower hoist; the provincial coat of arms is set in the centre.",
+  "history": "Adopted by provincial law 7148 on 24 November 2001 after a public competition won by educator Marta Estela Quintero. The design recalls the bandera tricolor cruzada of the Federal League — the federalist confederation of which La Rioja was a member during the early-19th-century civil wars — and honours the Riojan caudillo Juan Facundo Quiroga (1788–1835).",
+  "periods": [
+    {
+      "start": "2001-11-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_La_Rioja_Province,_Argentina",
+    "https://es.wikipedia.org/wiki/Bandera_de_la_provincia_de_La_Rioja"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "light-blue"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        1
+      ],
+      "symbolism": "the celestial blue and white of the Argentine national flag"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "direction": "bend-sinister",
+      "role": "red diagonal stripe of the Federal League",
+      "symbolism": "the federalist cause led by Riojan caudillo Juan Facundo Quiroga; also recalls the Bandera de Artigas of the Liga Federal"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "coat of arms of La Rioja Province",
+      "symbolism": "the provincial coat of arms — a Sun of May above clasped hands holding a pike topped with a Phrygian cap, set within a wreath of laurel — recalling liberty, the May Revolution and the federalist heritage of the province"
+    }
   ]
 }

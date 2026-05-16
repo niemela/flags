@@ -1,8 +1,76 @@
 {
   "id": "EG",
-  "title": "Egypt",
-  "iso": "EG",
+  "name": "Egypt",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "EG",
+    "iso_3166_1_alpha3": "EGY",
+    "fifa": "EGY",
+    "ioc": "EGY",
+    "wikidata": "Q79"
+  },
+  "region": [
+    "Africa",
+    "Northern Africa",
+    "MENA",
+    "Arab World",
+    "Middle East"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the period before the 1952 revolution and the sacrifices of those who fought British rule"
+    },
+    {
+      "color": "white",
+      "symbolism": "the bloodless nature of the 1952 revolution"
+    },
+    {
+      "color": "black",
+      "symbolism": "the end of the era of foreign occupation and oppression"
+    },
+    {
+      "color": "gold",
+      "symbolism": "from the gilded eagle of Saladin"
+    }
+  ],
+  "description": "Three equal horizontal stripes — red over white over black — with a gold Eagle of Saladin centred on the white stripe. The eagle carries a shield charged with the national colours on its breast and stands above a scroll bearing the country's name in Arabic.",
+  "history": "The red-white-black tricolour is the Arab Liberation Flag introduced by the Free Officers after the 23 July 1952 revolution that overthrew King Farouk; it was first used by the United Arab Republic (Egypt and Syria) from 1958. The current design — a plain tricolour bearing the Eagle of Saladin — was adopted on 4 October 1984, replacing the earlier Federation of Arab Republics hawk (1972–1984). The eagle takes its name from a heraldic motif found on the western wall of Saladin's Citadel in Cairo.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1984-10-04"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Egypt",
+    "https://en.wikipedia.org/wiki/Eagle_of_Saladin"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "black"
+      ],
+      "count": 3,
+      "symbolism": "the colours of the Arab Liberation Flag — red for the bloody struggle against oppression, white for the bright future and the bloodless 1952 revolution, black for the dark past of foreign domination"
+    },
+    {
+      "type": "eagle",
+      "color": "gold",
+      "position": "center",
+      "role": "Eagle of Saladin",
+      "symbolism": "strength, power, and the link to Saladin (Salah ad-Din), the 12th-century sultan who united the Arabs against the Crusaders; on its breast a shield in the national colours, and below a scroll bearing the country's name in Kufic Arabic — جمهورية مصر العربية (Arab Republic of Egypt)"
+    }
   ]
 }

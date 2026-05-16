@@ -1,8 +1,73 @@
 {
   "id": "US-SD",
-  "title": "South Dakota (United States)",
-  "iso": "US-SD",
+  "name": "South Dakota (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-SD",
+    "fips_state": "46",
+    "wikidata": "Q1211"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A sky-blue field with the Great Seal of South Dakota in the center, surrounded by a stylized golden-yellow sun. The words 'SOUTH DAKOTA' arc above and 'THE MOUNT RUSHMORE STATE' arcs below, both in golden letters.",
+  "history": "South Dakota's first state flag was adopted in 1909 with the sun-blaze design and the slogan 'The Sunshine State'. In 1963 it was redesigned to add the state seal in the center of the sun, and the slogan was changed to 'The Mount Rushmore State' in 1992. The current arrangement and proportions were last adjusted in 1992.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1909"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_South_Dakota"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "rays": 24,
+      "role": "a stylized blazing sun behind the seal",
+      "symbolism": "the Mount Rushmore State; the rays radiating outward"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "the Great Seal of the State of South Dakota",
+      "symbolism": "depicts a Missouri River steamboat, a farmer plowing in the foreground, smelting works in the hills, and grazing cattle, recalling the state's commerce, agriculture, mining and ranching; the state motto 'Under God the People Rule' encircles the scene"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "the words 'SOUTH DAKOTA' arched above and 'THE MOUNT RUSHMORE STATE' below the central seal",
+      "symbolism": "the state's nickname, adopted in 1992"
+    }
   ]
 }

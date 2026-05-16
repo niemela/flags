@@ -1,8 +1,57 @@
 {
   "id": "EG-SUZ",
-  "title": "Suez (Egypt)",
-  "iso": "EG-SUZ",
+  "name": "Suez Governorate (Egypt)",
   "type": [
     "subdivision"
+  ],
+  "parent": "EG",
+  "codes": {
+    "iso_3166_2": "EG-SUZ",
+    "wikidata": "Q31954"
+  },
+  "region": [
+    "Africa",
+    "Northern Africa",
+    "MENA",
+    "Arab World",
+    "Middle East"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the Gulf of Suez and the Suez Canal at the southern end of which the governorate's capital lies"
+    },
+    {
+      "color": "red",
+      "symbolism": "the heroism of Suez during the October War of 1973 and the wider Arab-Israeli wars; one of Egypt's three 'cities of valour' alongside Port Said and Ismailia"
+    },
+    {
+      "color": "white",
+      "symbolism": "details of the governorate emblem"
+    }
+  ],
+  "description": "A blue field charged in the centre with the red-and-white emblem of Suez Governorate.",
+  "history": "The flag of Suez Governorate displays its emblem on a blue field reflecting the waters of the Gulf of Suez and the Suez Canal, adopted as part of the system of governorate flags introduced in the 2000s. Suez was honoured as a 'city of valour' for its resistance during the October War of 1973.",
+  "variant": [
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Suez_Governorate",
+    "https://en.wikipedia.org/wiki/Governorates_of_Egypt"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the Gulf of Suez and the Suez Canal"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Suez Governorate emblem",
+      "symbolism": "the emblem of Suez, with motifs of the Suez Canal, ships and the maritime gateway role of the city"
+    }
   ]
 }

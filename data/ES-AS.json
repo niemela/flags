@@ -1,8 +1,74 @@
 {
   "id": "ES-AS",
-  "title": "Asturias (Spain)",
-  "iso": "ES-AS",
+  "name": "Asturias (Spain)",
   "type": [
     "subdivision"
+  ],
+  "parent": "ES",
+  "codes": {
+    "iso_3166_2": "ES-AS",
+    "wikidata": "Q3934"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Iberian Peninsula",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the historic blue of the standard of the Asturian kings"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the Cross of Victory and the motto"
+    },
+    {
+      "color": "red",
+      "symbolism": "stones of the cross"
+    },
+    {
+      "color": "white",
+      "symbolism": "highlights and pearls of the cross"
+    }
+  ],
+  "description": "A blue field charged with the gold Cross of Victory in the centre, with the Greek letters Alpha and Omega hanging from its arms and the Latin motto arched above and below.",
+  "history": "Adopted on 27 April 1990 by Law 4/1990 of the Principality of Asturias. The blue field is the historic banner colour of the medieval Kingdom of Asturias, and the Cross of Victory is the principal Asturian heraldic emblem, taken from the relic preserved in Oviedo Cathedral and donated to the church in 908 by King Alfonso III.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1990-04-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Asturias"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "The blue field is taken from the historic standard of the Asturian kings, on which the Cross of Victory (the so-called Cruz de la Victoria) was carried."
+    },
+    {
+      "type": "greek-cross",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "Cruz de la Victoria (Cross of Victory), with hanging Greek letters Alpha and Omega",
+      "symbolism": "The Cross of Victory is the relic kept in Oviedo Cathedral, said to be the cross carried by King Pelayo at the Battle of Covadonga (722) which began the Reconquista; donated by King Alfonso III in 908. The Greek letters allude to Christ as 'the beginning and the end'."
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "motto 'HOC SIGNO TVETVR PIVS / HOC SIGNO VINCITVR INIMICVS' arched above and below the cross",
+      "symbolism": "Latin motto inscribed on the original Cross of Victory: 'With this sign the pious is protected; with this sign the enemy is conquered.'"
+    }
   ]
 }

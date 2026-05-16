@@ -1,8 +1,57 @@
 {
   "id": "PL-32",
-  "title": "West Pomerania (Poland)",
-  "iso": "PL-32",
+  "name": "West Pomeranian Voivodeship (Poland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "PL",
+  "codes": {
+    "iso_3166_2": "PL-32",
+    "wikidata": "Q54170"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the historic colour of Pomerania"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central field bearing the Pomeranian griffin"
+    }
+  ],
+  "description": "Three vertical stripes — red, white, red — with the red griffin of West Pomerania charged on the central white stripe.",
+  "history": "Adopted by the West Pomeranian Voivodeship after its formation in 1999, restoring the medieval heraldic device of the Duchy of Pomerania.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/West_Pomeranian_Voivodeship"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "red and white drawn from the historic colours of Pomerania and Poland"
+    },
+    {
+      "type": "mythical-creature",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "the West Pomeranian griffin",
+      "symbolism": "the historic emblem of the Duchy of Pomerania"
+    }
   ]
 }

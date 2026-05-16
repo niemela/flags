@@ -1,8 +1,58 @@
 {
   "id": "LT-UT",
-  "title": "Utena (Lithuania)",
-  "iso": "LT-UT",
+  "name": "Utena County (Lithuania)",
   "type": [
     "subdivision"
+  ],
+  "parent": "LT",
+  "codes": {
+    "iso_3166_2": "LT-UT",
+    "wikidata": "Q193519"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Baltics",
+    "European Union"
+  ],
+  "aspect_ratio": "5:6",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the standard outer field of Lithuanian county flags"
+    },
+    {
+      "color": "red",
+      "symbolism": "the field of the Utena coat of arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver figure of the central charge"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "gold details of the central coat of arms"
+    }
+  ],
+  "description": "A blue field with a red inner panel bearing the coat of arms of Utena County in the centre.",
+  "history": "Like the flags of all ten Lithuanian counties, Utena County's flag follows the uniform template introduced after the country's redivision into apskritys (counties) in 1994: a blue outer border surrounding the county's heraldic field, here red, charged with the county arms.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Utena_County",
+    "https://lt.wikipedia.org/wiki/Utenos_apskritis"
+  ],
+  "features": [
+    {
+      "type": "bordure",
+      "field": "red",
+      "border": "blue",
+      "symbolism": "blue outer border in the Lithuanian county pattern, with a red inner field bearing the county arms"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "coat of arms of Utena County",
+      "symbolism": "the county's heraldic device, referencing Utena's regional and historical identity"
+    }
   ]
 }

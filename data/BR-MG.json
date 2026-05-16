@@ -1,8 +1,66 @@
 {
   "id": "BR-MG",
-  "title": "Minas Gerais (Brazil)",
-  "iso": "BR-MG",
+  "name": "Minas Gerais (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-MG",
+    "wikidata": "Q39109"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "peace"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood of the Inconfidentes, martyrs of the 1789 Inconfidencia Mineira"
+    },
+    {
+      "color": "black",
+      "symbolism": "mourning for Tiradentes and the other Inconfidentes"
+    }
+  ],
+  "description": "A white field charged at the centre with a large red equilateral triangle, point upward, bearing the Latin inscription LIBERTAS QUAE SERA TAMEN in black across its interior.",
+  "history": "The design recalls the proposed flag of the Inconfidencia Mineira, the 1789 movement against Portuguese rule led by Tiradentes. Officially adopted as the flag of the State of Minas Gerais on 22 May 1963 by State Law No. 2.793.",
+  "periods": [
+    {
+      "start": "1963-05-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Minas_Gerais"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white",
+      "symbolism": "white field recalling peace and freedom"
+    },
+    {
+      "type": "triangle",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "red equilateral triangle",
+      "symbolism": "emblem of the Inconfidencia Mineira (1789), the failed independence movement; said to evoke the Holy Trinity invoked by the conspirators"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "Latin motto",
+      "symbolism": "LIBERTAS QUAE SERA TAMEN ('Freedom albeit late'), the motto of the Inconfidentes, taken from Virgil's First Eclogue"
+    }
   ]
 }

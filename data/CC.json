@@ -1,8 +1,77 @@
 {
   "id": "CC",
-  "title": "Cocos (Keeling) Islands",
-  "iso": "CC",
+  "name": "Cocos (Keeling) Islands",
   "type": [
     "subdivision"
+  ],
+  "parent": "AU",
+  "codes": {
+    "iso_3166_1_alpha2": "CC",
+    "iso_3166_1_alpha3": "CCK",
+    "wikidata": "Q36004"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the islands' tropical vegetation and the surrounding ocean"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central disc and stars — the sun and the islands' golden sand"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the trunk of the coconut palm at the heart of the local economy and culture"
+    }
+  ],
+  "description": "A green field bearing in the upper hoist a yellow disc with a crescent and a coconut palm tree, and in the fly the five stars of the Southern Cross in yellow.",
+  "history": "Designed by Mohammed Minkom and adopted on 6 April 2004 as the official flag of the Cocos (Keeling) Islands, an Australian external territory in the eastern Indian Ocean. The design combines elements representing the Malay Muslim majority population (the crescent), the islands' iconic palm trees, and the territory's place in the southern hemisphere and association with Australia (the Southern Cross).",
+  "periods": [
+    {
+      "start": "2004-04-06"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Cocos_(Keeling)_Islands"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green",
+      "symbolism": "the lush vegetation of the islands"
+    },
+    {
+      "type": "palm",
+      "count": 1,
+      "color": "brown",
+      "position": "upper-hoist",
+      "role": "coconut palm tree",
+      "symbolism": "The coconut palm — the dominant tree of the islands and the source of the territory's name and its principal historic export — placed on a yellow disc bearing a crescent moon, recalling the Malay Muslim heritage of the islanders descended from workers brought to the islands in the 19th century."
+    },
+    {
+      "type": "crescent",
+      "count": 1,
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "crescent on the disc behind the palm",
+      "symbolism": "Reflects the Sunni Muslim faith of the predominantly Malay (Cocos Malay) population descended from labourers brought to the islands by the Clunies-Ross family from the 1820s onward."
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "yellow",
+      "position": "fly",
+      "arrangement": "southern-cross",
+      "role": "Southern Cross",
+      "symbolism": "The Southern Cross constellation, a symbol of the southern skies and of the islands' political association with Australia."
+    }
   ]
 }

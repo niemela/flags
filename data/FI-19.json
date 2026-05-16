@@ -1,8 +1,53 @@
 {
   "id": "FI-19",
-  "title": "Varsinais-Suomi (Finland)",
-  "iso": "FI-19",
+  "name": "Finland Proper (Finland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FI",
+  "codes": {
+    "iso_3166_2": "FI-19",
+    "wikidata": "Q5794"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the gules field of the historic arms of Finland Proper"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden charges of the arms"
+    },
+    {
+      "color": "blue",
+      "symbolism": "azure heraldic detail in the arms"
+    }
+  ],
+  "description": "A square red flag charged centrally with the gold provincial arms of Finland Proper, depicting a crowned heraldic device on the red field.",
+  "history": "Finland Proper (Varsinais-Suomi) became a region under Finland's 1997 administrative reform; its banner is the heraldic flag of the regional coat of arms, derived from the historic arms of the medieval Finland Proper province around Turku, the original 'Finland' of the Swedish realm.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Finland_Proper",
+    "https://fi.wikipedia.org/wiki/Varsinais-Suomen_lippu"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "arms of Finland Proper",
+      "symbolism": "the historic provincial arms of Finland Proper (Varsinais-Suomi): a crowned figure with sword and shield evoking the medieval heart-province around Turku, the original Finland of the Swedish realm."
+    }
   ]
 }

@@ -1,8 +1,88 @@
 {
   "id": "US-NC",
-  "title": "North Carolina (United States)",
-  "iso": "US-NC",
+  "name": "North Carolina (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-NC",
+    "fips_state": "37",
+    "wikidata": "Q1454"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A vertical blue band at the hoist (one third of the flag's length) bearing a centred white five-pointed star flanked by gilt letters 'N' and 'C', with a scroll above (inscribed 'May 20th 1775') and a scroll below ('April 12th 1776'). The fly has two equal horizontal bands — red above white.",
+  "history": "The first state flag was adopted in 1861 upon secession. The current design — modeled on the 1861 flag but with the colour order reversed and the dates updated — was adopted by the General Assembly on 9 March 1885. The May 1775 date refers to the contested Mecklenburg Declaration of Independence; the April 1776 date refers to the Halifax Resolves, the first official action by an American colony calling for independence.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1885-03-09"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_North_Carolina"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red",
+        "white"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        1,
+        1
+      ],
+      "symbolism": "blue vertical band at the hoist (one third of the flag's length) with red over white horizontal bands on the fly — colours of the United States flag"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "hoist",
+      "role": "the star",
+      "symbolism": "North Carolina"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "the gilt letters 'N' and 'C' flanking the star"
+    },
+    {
+      "type": "glyph",
+      "count": 2,
+      "color": "white",
+      "position": "hoist",
+      "role": "two scrolls above and below the star",
+      "symbolism": "the upper scroll bears 'May 20th 1775' (the disputed Mecklenburg Declaration of Independence); the lower scroll bears 'April 12th 1776' (the Halifax Resolves authorizing North Carolina's delegates to vote for independence)"
+    }
   ]
 }

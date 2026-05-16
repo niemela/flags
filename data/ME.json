@@ -1,8 +1,73 @@
 {
   "id": "ME",
-  "title": "Montenegro",
-  "iso": "ME",
+  "name": "Montenegro",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "ME",
+    "iso_3166_1_alpha3": "MNE",
+    "fifa": "MNE",
+    "ioc": "MNE",
+    "wikidata": "Q236"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field of the medieval and 19th-century Montenegrin war flag"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold border, crown, and double-headed eagle of the historic state arms"
+    },
+    {
+      "color": "blue",
+      "symbolism": "from the inescutcheon of the coat of arms (a lion passant on a blue field)"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver detail and base of the inescutcheon's lion"
+    },
+    {
+      "color": "green",
+      "symbolism": "the green base on which the lion in the inescutcheon stands"
+    }
+  ],
+  "description": "A red field with a wide yellow (gold) border running all around, charged in the centre with the national coat of arms — a gold double-headed eagle bearing a crowned blue inescutcheon with a gold lion passant on a green base.",
+  "history": "Adopted on 13 July 2004 (Statehood Day) by the Republic of Montenegro, while the country was still in the State Union of Serbia and Montenegro; it remained the flag after the country declared independence on 3 June 2006. The design draws on the late-19th-century war flag of the Principality of Montenegro under Prince Nicholas I, which was a red field with the gold royal cypher.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "2004-07-13"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Montenegro"
+  ],
+  "features": [
+    {
+      "type": "bordure",
+      "field": "red",
+      "border": "yellow",
+      "symbolism": "the gold border and red field recall the historic war flag (alaj-barjak) used by the prince-bishops of Montenegro from the 19th century"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Coat of arms of Montenegro",
+      "symbolism": "a gold double-headed eagle displayed (echoing Byzantine imperial heritage and the historic Petrović-Njegoš dynastic arms), holding a sceptre and orb, surmounted by a gold royal crown; on its breast an inescutcheon with a gold lion passant on a blue and green field, recalling the lion of Saint Mark and the Christian heritage of Montenegro"
+    }
   ]
 }

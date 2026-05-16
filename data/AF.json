@@ -1,8 +1,74 @@
 {
   "id": "AF",
-  "title": "Afghanistan",
-  "iso": "AF",
+  "name": "Afghanistan",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "AF",
+    "iso_3166_1_alpha3": "AFG",
+    "fifa": "AFG",
+    "ioc": "AFG",
+    "wikidata": "Q889"
+  },
+  "region": [
+    "Asia",
+    "Southern Asia",
+    "Central Asia",
+    "Middle East"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the 19th-century era of foreign intervention and the dark past of the country"
+    },
+    {
+      "color": "red",
+      "symbolism": "the bloodshed in the struggle for independence"
+    },
+    {
+      "color": "green",
+      "symbolism": "hope, agricultural prosperity, and Islam"
+    },
+    {
+      "color": "white",
+      "symbolism": "the colour of the national emblem"
+    }
+  ],
+  "description": "Three equal vertical stripes — black at the hoist, red in the centre, green at the fly — with the white national emblem (a mosque flanked by sheaves of wheat, surmounted by Arabic inscriptions) centred on the red middle stripe.",
+  "history": "Adopted in this form by the Islamic Republic of Afghanistan on 19 August 2013, refining the post-Taliban flag re-introduced in 2002 (which itself was based on the 1928 royal flag of King Amanullah). The black-red-green tricolour, in various stripe orientations, has been used since 1928. Following the Taliban takeover on 15 August 2021, the Taliban replaced this flag in their territory with their own white field bearing the shahada in black; the tricolour, however, continues to fly at Afghan embassies of the recognised government, at the United Nations, and is widely used by the Afghan diaspora as the symbol of the republic.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2013-08-19",
+      "end": "2021-08-15"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Afghanistan"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black",
+        "red",
+        "green"
+      ],
+      "count": 3,
+      "symbolism": "black for the dark past of foreign occupation, red for the bloody struggle for independence, green for hope, prosperity and Islam"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "national emblem of Afghanistan",
+      "symbolism": "a mosque with mihrab and minbar facing Mecca, flanked by sheaves of wheat, surmounted by the shahada in Arabic and the takbir, with the Islamic year of independence (1298 AH = 1919 CE) and a scroll bearing the country's name; the central mosque represents the Islamic faith of the nation"
+    }
   ]
 }

@@ -1,8 +1,60 @@
 {
   "id": "JP",
-  "title": "Japan",
-  "iso": "JP",
+  "name": "Japan",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "JP",
+    "iso_3166_1_alpha3": "JPN",
+    "fifa": "JPN",
+    "ioc": "JPN",
+    "wikidata": "Q17"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "honesty, purity and integrity"
+    },
+    {
+      "color": "red",
+      "symbolism": "the sun; sincerity, brightness and warmth"
+    }
+  ],
+  "description": "A plain white field bearing a single red disc at its centre.",
+  "history": "The sun-disc has been used as an imperial and military emblem in Japan since at least the 7th century. The Hinomaru flag itself was adopted as the national merchant flag by the Tokugawa shogunate on 27 February 1870 (Daijō-kan Proclamation No. 57), to identify Japanese ships in the new era of foreign trade following the Meiji Restoration, and immediately afterwards as the national flag. It was used through the imperial era and continued de facto after WWII. The current specifications — with the red disc precisely centred (earlier specifications shifted it slightly toward the hoist) and a 2:3 ratio — were codified by the Act on National Flag and Anthem (Act No. 127 of 13 August 1999).",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1870-02-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Japan"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white",
+      "symbolism": "purity and integrity"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "Hi no Maru (sun-disc)",
+      "symbolism": "the sun; Japan's traditional name 'Nippon' / 'Nihon' means 'origin of the sun' (Land of the Rising Sun), and the imperial line is mythologically descended from the sun goddess Amaterasu"
+    }
   ]
 }

@@ -1,7 +1,59 @@
 {
   "id": "US-NC-raleigh",
-  "title": "Raleigh, NC (United States)",
+  "name": "Raleigh (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-NC",
+  "codes": {
+    "wikidata": "Q41087"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the hoist half; from the state flag of North Carolina"
+    },
+    {
+      "color": "white",
+      "symbolism": "the fly half; from the state flag of North Carolina"
+    },
+    {
+      "color": "green",
+      "symbolism": "the central oak tree, evoking Raleigh's nickname 'the City of Oaks'"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "accents on the central emblem"
+    }
+  ],
+  "description": "A field divided vertically — red at the hoist, white at the fly — with a green oak tree centred across the dividing line.",
+  "history": "Used by the City of Raleigh, the capital of North Carolina, founded in 1792 and named for Sir Walter Raleigh, the English colonial-era patron of the failed Roanoke Colony.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Raleigh,_North_Carolina"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "symbolism": "Red and white, the principal colours of the flag of North Carolina."
+    },
+    {
+      "type": "tree",
+      "count": 1,
+      "color": "green",
+      "position": "center",
+      "role": "oak tree",
+      "symbolism": "Raleigh's nickname, 'the City of Oaks', from the many oaks lining its streets."
+    }
   ]
 }

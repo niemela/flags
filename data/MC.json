@@ -1,9 +1,54 @@
 {
   "id": "MC",
-  "title": "Monaco",
-  "iso": "MC",
+  "name": "Monaco",
   "type": [
-    "country",
-    "city"
+    "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "MC",
+    "iso_3166_1_alpha3": "MCO",
+    "fifa": "MON",
+    "ioc": "MON",
+    "wikidata": "Q235"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "4:5",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the gules of the Grimaldi arms (a fusily of silver and red)"
+    },
+    {
+      "color": "white",
+      "symbolism": "the argent of the Grimaldi arms"
+    }
+  ],
+  "description": "Two equal horizontal stripes — red over white — in proportions 4:5.",
+  "history": "Red and white have been the heraldic livery colours of the House of Grimaldi, the ruling family of Monaco, since the late 13th century; the Grimaldi arms are 'fusily argent and gules' (lozenges of silver and red). The simple horizontal red-over-white bicolour was officially adopted by Prince Charles III on 4 April 1881. The flag is essentially identical in design to that of Indonesia (which is taller, 2:3) and the historical flag of Poland was the inverse (white over red); Monaco's predates the Indonesian flag.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1881-04-04"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Monaco"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "symbolism": "the heraldic livery colours of the House of Grimaldi, the ruling family of Monaco since 1297"
+    }
   ]
 }

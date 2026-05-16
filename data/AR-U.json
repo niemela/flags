@@ -1,8 +1,67 @@
 {
   "id": "AR-U",
-  "title": "Chubut (Argentina)",
-  "iso": "AR-U",
+  "name": "Chubut (Argentina)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AR",
+  "codes": {
+    "iso_3166_2": "AR-U",
+    "wikidata": "Q45007"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the Patagonian sky and the Atlantic Ocean that washes the province's coast"
+    },
+    {
+      "color": "white",
+      "symbolism": "the snow of the Andean cordillera and the foam of the sea"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the Sun of May and the wealth of Patagonia's natural resources"
+    }
+  ],
+  "description": "A light blue field crossed by two white wavy lines, with a sixteen-rayed yellow Sun of May in the upper hoist and a thin yellow horizontal line dividing the field.",
+  "history": "Adopted by provincial law 4924 on 31 May 2003 after a public competition. The colours and the Sun of May connect the province to the Argentine national flag, while the wavy lines evoke the Atlantic coast and the Andean rivers and lakes that define Chubut's geography.",
+  "periods": [
+    {
+      "start": "2003-05-31"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Chubut_Province",
+    "https://es.wikipedia.org/wiki/Bandera_de_la_provincia_del_Chubut"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue",
+      "symbolism": "the Patagonian sky and the waters of the Atlantic"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 16,
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "Sun of May",
+      "symbolism": "the Sun of May, common to several Argentine provincial flags"
+    },
+    {
+      "type": "wave",
+      "count": 2,
+      "color": "white",
+      "role": "stylised wavy lines across the field",
+      "symbolism": "the Atlantic Ocean and the rivers and lakes of Chubut"
+    }
   ]
 }

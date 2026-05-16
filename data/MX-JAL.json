@@ -1,8 +1,74 @@
 {
   "id": "MX-JAL",
-  "title": "Jalisco (Mexico)",
-  "iso": "MX-JAL",
+  "name": "Jalisco (Mexico)",
   "type": [
     "subdivision"
+  ],
+  "parent": "MX",
+  "codes": {
+    "iso_3166_2": "MX-JAL",
+    "wikidata": "Q79952"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Central America",
+    "Latin America"
+  ],
+  "aspect_ratio": "4:7",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "loyalty, justice and the historic colours of Guadalajara"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "wealth and the historic colours of Guadalajara"
+    },
+    {
+      "color": "red",
+      "symbolism": "details on the arms (lions, banner)"
+    },
+    {
+      "color": "white",
+      "symbolism": "details on the arms"
+    },
+    {
+      "color": "green",
+      "symbolism": "details on the arms"
+    }
+  ],
+  "description": "Two equal vertical stripes of blue (hoist) and yellow (fly), with the coat of arms of Jalisco centred over both.",
+  "history": "Adopted on 7 May 2011 by the Congress of the State of Jalisco, formalising a flag that had been used unofficially since the late 20th century. The colours derive from the 1539 grant of arms to the city of Guadalajara by Emperor Charles V.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2011-05-07"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Jalisco"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2,
+      "symbolism": "Blue and yellow are the historic colours of the city of Guadalajara and of the old Kingdom of Nueva Galicia, of which Jalisco is the heir."
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "coat of arms of Jalisco (two gold lions rampant on blue, with pine trees, surmounted by a banner)",
+      "symbolism": "The arms derive from those granted by Charles V to the city of Guadalajara on 8 November 1539: two gold lions rampant standing against a pine tree on a blue field, recalling Guadalajara in Castile (the namesake), with the helmet and banner of Spanish heraldic tradition."
+    }
   ]
 }

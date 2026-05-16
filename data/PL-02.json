@@ -1,8 +1,56 @@
 {
   "id": "PL-02",
-  "title": "Lower Silesia (Poland)",
-  "iso": "PL-02",
+  "name": "Lower Silesian Voivodeship (Poland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "PL",
+  "codes": {
+    "iso_3166_2": "PL-02",
+    "wikidata": "Q54151"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the historic colours of Silesia"
+    },
+    {
+      "color": "black",
+      "symbolism": "outline and details of the Silesian eagle"
+    },
+    {
+      "color": "white",
+      "symbolism": "the crescent and cross-charge on the eagle's chest"
+    }
+  ],
+  "description": "Yellow field charged at centre with the black eagle of Lower Silesia, bearing a white crescent and cross-charge on its chest.",
+  "history": "Adopted in 2006 by the Lower Silesian Voivodeship, restoring the medieval heraldic device of the Silesian Piasts.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lower_Silesian_Voivodeship"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow",
+      "symbolism": "the heraldic field colour of Lower Silesia"
+    },
+    {
+      "type": "eagle",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "Lower Silesian black eagle, with white crescent and cross-charge on its chest",
+      "symbolism": "the historic Piast emblem of the Duchy of Silesia"
+    }
   ]
 }

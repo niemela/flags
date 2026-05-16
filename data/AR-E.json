@@ -1,8 +1,62 @@
 {
   "id": "AR-E",
-  "title": "Entre Ríos (Argentina)",
-  "iso": "AR-E",
+  "name": "Entre Rios (Argentina)",
   "type": [
     "subdivision"
+  ],
+  "parent": "AR",
+  "codes": {
+    "iso_3166_2": "AR-E",
+    "wikidata": "Q44607"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the colours of the Argentine flag"
+    },
+    {
+      "color": "white",
+      "symbolism": "the colours of the Argentine flag"
+    },
+    {
+      "color": "red",
+      "symbolism": "the federalist red of Jose Gervasio Artigas and the Federal League"
+    }
+  ],
+  "description": "A horizontal triband of light blue, white and light blue in the proportions of the Argentine national flag, charged with a single red diagonal stripe running from the upper hoist to the lower fly.",
+  "history": "Adopted by provincial law 10.025 on 13 March 2011 to replace earlier unofficial designs. The flag revives the bandera tricolor cruzada used by the Federal League (Liga Federal) of Jose Gervasio Artigas in the 1810s — a confederation of the Banda Oriental, Entre Rios, Corrientes, Santa Fe, Cordoba and Misiones — by superimposing the federalist red diagonal on the celestial-and-white bands of the Argentine national flag.",
+  "periods": [
+    {
+      "start": "2011-03-13"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Entre_R%C3%ADos_Province",
+    "https://es.wikipedia.org/wiki/Bandera_de_la_provincia_de_Entre_R%C3%ADos"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "light-blue"
+      ],
+      "count": 3,
+      "symbolism": "the light-blue and white of the Argentine national flag"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "role": "red diagonal stripe of the Federal League of Artigas",
+      "symbolism": "federalism and the historic alliance of the Liga Federal led by Jose Gervasio Artigas, of which Entre Rios was a founding member"
+    }
   ]
 }

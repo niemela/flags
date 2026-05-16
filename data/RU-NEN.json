@@ -1,8 +1,68 @@
 {
   "id": "RU-NEN",
-  "title": "Nenets Autonomous Okrug (Russia)",
-  "iso": "RU-NEN",
+  "name": "Nenets Autonomous Okrug (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-NEN",
+    "wikidata": "Q2164"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "snow and the tundra"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the polar sky and the seas of the Arctic"
+    },
+    {
+      "color": "green",
+      "symbolism": "the tundra vegetation and the forest belt"
+    }
+  ],
+  "description": "A horizontal triband of white, blue and green in proportions 17:5:3; a stylised blue Nenets ornament evoking reindeer antlers runs diagonally across the white stripe.",
+  "history": "Adopted on 24 December 2007 by the Assembly of Deputies of the Nenets Autonomous Okrug.",
+  "periods": [
+    {
+      "start": "2007-12-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Nenets_Autonomous_Okrug",
+    "https://en.wikipedia.org/wiki/Nenets_Autonomous_Okrug"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        17,
+        5,
+        3
+      ],
+      "symbolism": "white represents the snow and ice of the tundra; blue stands for the polar sky and the seas; green for the brief vegetation of the tundra and the spruce forests."
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "Nenets reindeer-horn ornament",
+      "symbolism": "a traditional Nenets ornament reading 'rogá olenya' (reindeer antlers), running along the white stripe diagonally."
+    }
   ]
 }

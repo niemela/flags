@@ -1,8 +1,62 @@
 {
   "id": "RU-SPE",
-  "title": "Saint Petersburg (Russia)",
-  "iso": "RU-SPE",
+  "name": "Saint Petersburg (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-SPE",
+    "wikidata": "Q656"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the historic red field of Saint Petersburg's coat of arms"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the imperial scepter and the city's status as Russia's former imperial capital"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver of the anchors"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the rivers and seas to which the anchors refer"
+    }
+  ],
+  "description": "A red field charged at the centre with the city coat of arms: a vertical golden scepter, crossed at right angles by two silver anchors -- a two-fluked sea anchor and a four-fluked river anchor.",
+  "history": "The flag of Saint Petersburg was officially adopted on 8 June 1992 (re-confirmed 13 May 2003), with the central charges drawn from the historic coat of arms of the city granted by Empress Anna Ioannovna in 1730. The design symbolises Saint Petersburg's twin role as imperial capital (the scepter) and as Russia's principal sea-and-river port (the two anchors).",
+  "periods": [
+    {
+      "start": "1992-06-08"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Saint_Petersburg",
+    "https://en.wikipedia.org/wiki/Coat_of_arms_of_Saint_Petersburg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the historic red field of the city's 1730 coat of arms"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Saint Petersburg city arms",
+      "symbolism": "the imperial scepter (golden) crossed in saltire over a sea anchor (silver, with two flukes, representing maritime trade) and a river anchor (silver, four-fluked, representing river trade), all on a red field. The arms reflect Saint Petersburg's role as Russia's former imperial capital and a major sea and river port."
+    }
   ]
 }

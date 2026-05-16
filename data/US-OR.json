@@ -1,8 +1,71 @@
 {
   "id": "US-OR",
-  "title": "Oregon (United States)",
-  "iso": "US-OR",
+  "name": "Oregon (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-OR",
+    "fips_state": "41",
+    "wikidata": "Q824"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "500:833",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "one of the two national colors"
+    },
+    {
+      "color": "gold",
+      "symbolism": "one of the two national colors"
+    }
+  ],
+  "description": "A navy blue field with gold lettering and devices: the words 'STATE OF OREGON' arched across the top, an escutcheon from the state seal centered below, and the year '1859' beneath the shield. The reverse side carries a different design — a gold beaver on a navy field — making Oregon the only U.S. state with a two-sided state flag.",
+  "history": "Adopted in 1925. Oregon is the only U.S. state whose flag has different designs on its two sides — the obverse shows the state shield, and the reverse shows the state animal, the American beaver. Legislation has periodically been introduced to either standardize the obverse or replace the entire design but none has passed.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1925"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Oregon"
+  ],
+  "twosided": true,
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "glyph",
+      "color": "gold",
+      "position": "top",
+      "role": "the words 'STATE OF OREGON' across the upper portion"
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "color": "gold",
+      "position": "center",
+      "role": "an escutcheon from the state seal: surrounded by 33 stars, divided by an ordinary inscribed 'THE UNION'; in the upper half, mountains, an elk, a covered wagon, the Pacific Ocean with a setting sun, a departing British man-of-war and an arriving American merchant ship; in the lower half a sheaf of wheat, a plow, and a pickaxe",
+      "symbolism": "the state seal of Oregon: the elements depict Oregon's settlement and economy; the 33 stars indicate Oregon's admission as the 33rd state; the motto 'THE UNION' was adopted on the eve of the Civil War as a declaration of loyalty to the federal Union"
+    },
+    {
+      "type": "glyph",
+      "color": "gold",
+      "position": "bottom",
+      "role": "the year '1859' in Arabic numerals beneath the shield",
+      "symbolism": "the year of Oregon's admission to the Union"
+    }
   ]
 }

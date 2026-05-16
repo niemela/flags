@@ -1,8 +1,74 @@
 {
   "id": "NZ",
-  "title": "New Zealand",
-  "iso": "NZ",
+  "name": "New Zealand",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "NZ",
+    "iso_3166_1_alpha3": "NZL",
+    "fifa": "NZL",
+    "ioc": "NZL",
+    "wikidata": "Q664"
+  },
+  "region": [
+    "Oceania",
+    "Australia and New Zealand",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the blue sea and sky surrounding New Zealand"
+    },
+    {
+      "color": "red",
+      "symbolism": "the stars of the Southern Cross"
+    },
+    {
+      "color": "white",
+      "symbolism": "fimbriation around the stars"
+    }
+  ],
+  "description": "A defaced Blue Ensign: a navy-blue field with the Union Flag in the canton, and four red five-pointed stars (each fimbriated white) on the fly representing the Southern Cross. The stars are not equally sized; the eastern (rightmost) star is smaller.",
+  "history": "Adopted on 24 March 1902 by the Ensigns and Signals Act, replacing the previous Blue Ensign defaced with the letters 'NZ' (used from 1869). The Southern Cross design dates to 1869, when Sir George Bowen, Governor of New Zealand, requested a distinguishing emblem for ships of the colonial government. A 2015–2016 referendum on changing the flag (held in two rounds) chose the silver-fern alternative as the preferred replacement in the first round, but voters rejected the change in the second round, retaining the current flag.",
+  "variant": [
+    "civil",
+    "state",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1902-03-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_New_Zealand",
+    "https://nzhistory.govt.nz/politics/flags/nz-flags"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy",
+      "symbolism": "the blue sea and sky surrounding New Zealand; derived from the British Blue Ensign"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "New Zealand's historic ties to the United Kingdom and its origins as a British colony"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "red",
+      "position": "fly",
+      "arrangement": "southern-cross",
+      "role": "Southern Cross (Crux)",
+      "symbolism": "the constellation Crux, indicating New Zealand's location in the South Pacific"
+    }
   ]
 }

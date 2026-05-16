@@ -1,8 +1,81 @@
 {
   "id": "PA",
-  "title": "Panama",
-  "iso": "PA",
+  "name": "Panama",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "PA",
+    "iso_3166_1_alpha3": "PAN",
+    "fifa": "PAN",
+    "ioc": "PAN",
+    "wikidata": "Q804"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Central America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "peace and the purity of national life"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the Conservative Party"
+    },
+    {
+      "color": "red",
+      "symbolism": "the Liberal Party"
+    }
+  ],
+  "description": "The flag is divided into four equal rectangles: upper-hoist white containing a blue five-pointed star, upper-fly red, lower-hoist blue, and lower-fly white containing a red five-pointed star.",
+  "history": "Designed by María de la Ossa de Amador, wife of the first Panamanian president, in 1903 following Panama's separation from Colombia on 3 November 1903. The flag was first hoisted on 3 November 1903 and provisionally adopted on 4 June 1904 by Law 64; it was confirmed as the national flag by the National Assembly on 4 June 1904 and constitutionally fixed on 15 December 1949. The colours deliberately reference the United States flag — to acknowledge the role of the U.S. in Panamanian independence — while reorganising them to symbolise national reconciliation between the two political parties.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1925-03-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Panama"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "white",
+        "red",
+        "blue",
+        "white"
+      ],
+      "symbolism": "the quartered field represents the political compromise at independence — the white quarters for peace shared by both parties, with the blue (Conservative) and red (Liberal) quarters acknowledging the two principal political movements of the new republic"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "blue",
+      "position": "upper-hoist",
+      "role": "blue star (upper-hoist white quarter)",
+      "symbolism": "civic virtue and honesty"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "lower-fly",
+      "role": "red star (lower-fly white quarter)",
+      "symbolism": "the authority and law that uphold the two virtues"
+    }
   ]
 }

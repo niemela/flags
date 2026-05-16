@@ -1,8 +1,105 @@
 {
   "id": "BR-PR",
-  "title": "Paraná (Brazil)",
-  "iso": "BR-PR",
+  "name": "Parana (Brazil)",
   "type": [
     "subdivision"
+  ],
+  "parent": "BR",
+  "codes": {
+    "iso_3166_2": "BR-PR",
+    "wikidata": "Q40130"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the forests and natural wealth of Parana"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the night sky over Curitiba on 19 December 1853, when Parana was elevated to a province"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "wheat, recalling the agricultural wealth of the state"
+    }
+  ],
+  "description": "A green field crossed by a wide white diagonal band running from upper-hoist to lower-fly; centred on the band is a blue celestial sphere bearing the Southern Cross and the inscription ESTADO DO PARANA, flanked by a wheat sprig and a sprig of mate.",
+  "history": "First adopted in 1892 shortly after the Brazilian Republic; design refined and standardised by State Law No. 2.457 of 9 December 1955, with the modern arms regulated by subsequent state legislation.",
+  "periods": [
+    {
+      "start": "1955-12-09"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Paran%C3%A1"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "direction": "bend",
+      "widths": [
+        2,
+        3,
+        2
+      ],
+      "symbolism": "A wide white diagonal band across a green field bears the state's central emblem; the green corners and central sphere echo the national flag's republican symbolism"
+    },
+    {
+      "type": "disc",
+      "color": "blue",
+      "position": "center",
+      "role": "celestial sphere",
+      "symbolism": "depicts the night sky over Curitiba at the moment Parana was elevated to a province on 19 December 1853, charged with the Southern Cross constellation"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "arrangement": "southern-cross",
+      "role": "Southern Cross"
+    },
+    {
+      "type": "wheat",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "sprig of wheat",
+      "symbolism": "Parana's agricultural production, especially of wheat"
+    },
+    {
+      "type": "leaf",
+      "count": 1,
+      "color": "green",
+      "position": "center",
+      "role": "branch of mate (yerba mate)",
+      "symbolism": "the mate tree, a major economic crop of Parana"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "state name",
+      "symbolism": "ESTADO DO PARANA inscribed in white capitals across the central blue sphere"
+    }
   ]
 }

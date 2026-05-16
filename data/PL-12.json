@@ -1,8 +1,58 @@
 {
   "id": "PL-12",
-  "title": "Lesser Poland (Poland)",
-  "iso": "PL-12",
+  "name": "Lesser Poland Voivodeship (Poland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "PL",
+  "codes": {
+    "iso_3166_2": "PL-12",
+    "wikidata": "Q54159"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the colour of the Polish eagle"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the Lesser Poland coat of arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "the field of the historic coat of arms"
+    }
+  ],
+  "description": "Three horizontal stripes of white over yellow over red; the central yellow stripe is narrower than the outer two.",
+  "history": "Adopted by the Lesser Poland Voivodeship after its creation in 1999, drawing on the historic heraldic tinctures of the region.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lesser_Poland_Voivodeship"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        5,
+        2,
+        5
+      ],
+      "symbolism": "Combines the white and red of Poland with the gold of the historic Lesser Poland coat of arms."
+    }
   ]
 }

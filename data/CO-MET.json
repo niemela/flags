@@ -1,8 +1,40 @@
 {
   "id": "CO-MET",
-  "title": "Meta (Colombia)",
-  "iso": "CO-MET",
+  "name": "Meta (Colombia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "CO",
+  "codes": {
+    "iso_3166_2": "CO-MET",
+    "wikidata": "Q121128"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the savannahs and gallery forests of the Llanos Orientales"
+    },
+    {
+      "color": "white",
+      "symbolism": "the rivers that crisscross the eastern plains"
+    }
+  ],
+  "description": "A green field crossed by eight thin white horizontal lines spanning the flag from hoist to fly.",
+  "history": "Meta Department was created in 1959 from the former Meta Intendancy. The department lies in the Llanos Orientales (eastern plains) east of the Andes and is named after the Meta River, the principal tributary of the Orinoco in Colombia.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Meta_Department"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "a green field crossed by thin white horizontal lines, evoking the open savannahs of the eastern plains traversed by rivers"
+    }
   ]
 }

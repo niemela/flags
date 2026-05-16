@@ -1,8 +1,70 @@
 {
   "id": "SK",
-  "title": "Slovakia",
-  "iso": "SK",
+  "name": "Slovakia",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "SK",
+    "iso_3166_1_alpha3": "SVK",
+    "fifa": "SVK",
+    "ioc": "SVK",
+    "wikidata": "Q214"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "pan-Slavic"
+    },
+    {
+      "color": "blue",
+      "symbolism": "pan-Slavic; also from the azure base of the historic coat of arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "pan-Slavic; also the gules of the historic coat of arms"
+    }
+  ],
+  "description": "Three equal horizontal stripes — white, blue and red from top to bottom — with the national coat of arms placed off-centre toward the hoist, slightly above the geometric centre, spanning all three stripes.",
+  "history": "The white-blue-red tricolour was first hoisted by Slovak revolutionaries during the 1848 revolution as a Pan-Slavic banner; it was used unofficially through the Hungarian and Czechoslovak periods. After the Velvet Divorce, the present flag — tricolour with the coat of arms added to distinguish it from the Russian flag — was adopted by Slovakia on 1 September 1992, with the country becoming independent from Czechoslovakia on 1 January 1993.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1992-09-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Slovakia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "the pan-Slavic colours, derived from the Russian tricolour and adopted in 1848 by Slovak revolutionaries to express Slavic identity"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center-hoist",
+      "role": "Coat of arms of Slovakia",
+      "symbolism": "a red shield with a white double-barred Patriarchal Cross (the 'Slovak double cross', associated with Saint Stephen of Hungary and Christianity in Central Europe) standing on the central peak of three blue mountains (representing the three historic Slovak ranges: Tatra, Fatra and Mátra)"
+    }
   ]
 }

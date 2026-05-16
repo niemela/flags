@@ -1,8 +1,63 @@
 {
   "id": "RU-KB",
-  "title": "Kabardino-Balkaria (Russia)",
-  "iso": "RU-KB",
+  "name": "Kabardino-Balkaria (Russia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "RU",
+  "codes": {
+    "iso_3166_2": "RU-KB",
+    "wikidata": "Q5267"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Caucasus",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the boundless and clear sky of Kabardino-Balkaria, its rivers and waters; also revered among the Turkic peoples (the Balkars)"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace, purity, and Islam, the traditional religion of the republic"
+    },
+    {
+      "color": "green",
+      "symbolism": "fertility, beauty, the nature of Kabardino-Balkaria; revered by the Kabardians (Adyghe people) and in Islam"
+    }
+  ],
+  "description": "Horizontal tricolour of light blue, white, and green, with a central circle (light blue above, green below) bearing a white silhouette of Mount Elbrus.",
+  "history": "Adopted on 21 July 1994. Replaced the 1991-1994 variant of the Russian SFSR flag bearing the republic's name in Russian, Kabardian, and Balkar.",
+  "periods": [
+    {
+      "start": "1994-07-21"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Kabardino-Balkaria",
+    "https://en.wikipedia.org/wiki/Kabardino-Balkaria"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "mountain",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Mount Elbrus",
+      "symbolism": "Mount Elbrus, the highest mountain in Europe, displayed within a circle that crosses light-blue and green halves."
+    }
   ]
 }

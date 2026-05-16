@@ -1,7 +1,47 @@
 {
   "id": "US-GA-atlanta",
-  "title": "Atlanta, GA (United States)",
+  "name": "Atlanta (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-GA",
+  "codes": {
+    "wikidata": "Q23556"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the central seal and phoenix emblem"
+    }
+  ],
+  "description": "A white field bearing the blue municipal seal of Atlanta at the centre, depicting a phoenix rising from flames with the Latin motto 'Resurgens' and the date 1847.",
+  "history": "Atlanta's official municipal flag bears the city seal, whose phoenix-and-'Resurgens' device dates to the post-Civil-War rebuilding of the city; the seal was adopted in 1887 and is the city's longstanding civic emblem.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Atlanta",
+    "https://en.wikipedia.org/wiki/Seal_of_Atlanta"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "Seal of the City of Atlanta with the phoenix and motto 'Resurgens'",
+      "symbolism": "A phoenix rising from flames symbolising Atlanta's rebuilding after its destruction in the 1864 Civil War; encircled by the city's name, the founding date 1847 and the Latin motto 'Resurgens' ('rising again')."
+    }
   ]
 }

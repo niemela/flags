@@ -1,8 +1,71 @@
 {
   "id": "DO",
-  "title": "Dominican Republic",
-  "iso": "DO",
+  "name": "Dominican Republic",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "DO",
+    "iso_3166_1_alpha3": "DOM",
+    "fifa": "DOM",
+    "ioc": "DOM",
+    "wikidata": "Q786"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean",
+    "Latin America"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "liberty and the protection of God over the nation"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood of the heroes who fought for independence and the fire of patriotism"
+    },
+    {
+      "color": "white",
+      "symbolism": "salvation; the white cross expresses the struggle of the founders to leave the country free for future generations"
+    }
+  ],
+  "description": "A centred white cross divides the flag into four rectangles: blue at the upper hoist, red at the upper fly, red at the lower hoist, blue at the lower fly. The state flag bears the national coat of arms at the centre of the cross; the civil flag is plain.",
+  "history": "Adopted on 6 November 1844, ten months after the proclamation of independence from Haiti on 27 February 1844 by the Trinitaria movement led by Juan Pablo Duarte, Francisco del Rosario Sánchez and Matías Ramón Mella. The quartered cross design was Duarte's, derived from the earlier flag of Haiti by adding the white cross. The current detailed coat of arms used on the state flag was set by law in 2002, refining the central Bible, the laurel and palm branches, and the surrounding ribbons.",
+  "variant": [
+    "civil",
+    "civil-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1844-11-06"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Dominican_Republic"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "blue",
+        "red",
+        "red",
+        "blue"
+      ],
+      "fimbriation": {
+        "color": "white",
+        "around": "cross"
+      },
+      "symbolism": "a centred white cross fimbriating the four quarters into the colours of the Trinitarian secret society — blue and red — that led the country's independence from Haitian rule in 1844"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "national coat of arms (state flag only)",
+      "symbolism": "a quartered shield repeating the flag, surmounted by a Bible open to the Gospel of John 8:32 ('and ye shall know the truth, and the truth shall make you free') and a small gold cross; flanked by a laurel branch and a palm branch; above a blue ribbon reading DIOS, PATRIA, LIBERTAD ('God, Fatherland, Liberty') and below a red ribbon reading REPÚBLICA DOMINICANA. The coat of arms appears only on the state flag (variant 'state'); the civil flag is the plain quartered design"
+    }
   ]
 }

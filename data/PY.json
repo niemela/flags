@@ -1,8 +1,78 @@
 {
   "id": "PY",
-  "title": "Paraguay",
-  "iso": "PY",
+  "name": "Paraguay",
   "type": [
     "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "PY",
+    "iso_3166_1_alpha3": "PRY",
+    "fifa": "PAR",
+    "ioc": "PAR",
+    "wikidata": "Q733"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "justice, equality and the bravery of the Paraguayan patriots"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace, unity and the purity of the patriotic cause"
+    },
+    {
+      "color": "blue",
+      "symbolism": "liberty, generosity and truth"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the radiating sun within the national coat of arms (obverse)"
+    },
+    {
+      "color": "green",
+      "symbolism": "the laurel and palm wreath in both the obverse and reverse emblems"
+    }
+  ],
+  "description": "Three equal horizontal stripes — red, white, blue — with the national coat of arms (yellow Star of May within a palm-and-olive wreath) centred on the white stripe. Paraguay is unusual among national flags in that its reverse differs from its obverse, bearing the seal of the Treasury (Sello de la Hacienda) instead of the national arms.",
+  "history": "The red-white-blue tricolour was adopted shortly after the establishment of the Supreme Government Junta in 1811 and formally during the consulate of Carlos Antonio López; the present format with national arms on the obverse and Treasury seal on the reverse was decreed on 25 November 1842. The proportions and designs were further specified by Law 222/1990 and Law 5,237/2014, the latter restoring the historic 3:5 proportion.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1842-11-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Paraguay"
+  ],
+  "twosided": true,
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "symbolism": "the tricolour is traditionally said to recall the colours of the French Revolution, with red for justice and the bravery of patriots, white for peace and unity, and blue for liberty"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "national coat of arms (Escudo de la República)",
+      "symbolism": "a yellow five-pointed Star of May radiating outward, encircled by a green wreath of palm and olive branches and the inscription 'REPUBLICA DEL PARAGUAY' — commemorating the independence of 14–15 May 1811"
+    }
   ]
 }

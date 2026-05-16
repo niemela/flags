@@ -1,8 +1,46 @@
 {
   "id": "GB-SCT",
-  "title": "Scotland (United Kingdom)",
-  "iso": "GB-SCT",
+  "name": "Scotland (United Kingdom)",
   "type": [
     "subdivision"
+  ],
+  "parent": "GB",
+  "codes": {
+    "iso_3166_2": "GB-SCT",
+    "wikidata": "Q22"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "traditionally the blue of a Scottish sky behind the white saltire"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltire of Saint Andrew, patron saint of Scotland"
+    }
+  ],
+  "description": "A blue field bearing a white saltire (diagonal cross) extending to the corners; the Cross of Saint Andrew.",
+  "history": "Tradition (recorded in the 15th century but probably much older) holds that the saltire emerged in Scottish heraldry after King Angus II of the Picts saw a white cloud cross in a blue sky before a battle in 832. The flag is one of the oldest national flags in the world still in use, with documented heraldic usage from the 13th century. After the Acts of Union 1707 it was incorporated into the Union Jack but remains the flag of Scotland as a constituent country.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Scotland"
+  ],
+  "features": [
+    {
+      "type": "saltire",
+      "field": "blue",
+      "saltire": "white",
+      "symbolism": "The Saltire (Saint Andrew's Cross), the diagonal cross on which the apostle Andrew, patron saint of Scotland, was crucified."
+    }
   ]
 }

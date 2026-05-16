@@ -1,8 +1,68 @@
 {
   "id": "US-AK",
-  "title": "Alaska (United States)",
-  "iso": "US-AK",
+  "name": "Alaska (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-AK",
+    "wikidata": "Q797"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "125:177",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the evening sky, the sea, and the forget-me-not (state flower)"
+    },
+    {
+      "color": "gold",
+      "symbolism": "Alaska's gold-mining heritage and the rich gold of its future"
+    }
+  ],
+  "description": "A dark blue field with eight gold five-pointed stars: seven arranged as the Big Dipper in the centre, and a larger eighth star representing Polaris in the upper fly.",
+  "history": "Designed in 1927 by 13-year-old Benny Benson, an Alaska Native (Aleut) student who won a territorial flag-design contest. Adopted by the Alaska Territorial Legislature on 2 May 1927 and retained without change after Alaska became a U.S. state on 3 January 1959.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1927-05-02"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Alaska"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the evening sky, the blue of the sea and mountain lakes, and the wild flowers (the forget-me-not, Alaska's state flower) of Alaska"
+    },
+    {
+      "type": "star",
+      "count": 7,
+      "points": 5,
+      "color": "gold",
+      "position": "center",
+      "arrangement": "big-dipper",
+      "role": "Big Dipper (Ursa Major)",
+      "symbolism": "the constellation Ursa Major, symbolizing strength."
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "gold",
+      "position": "upper-fly",
+      "role": "North Star (Polaris)",
+      "symbolism": "Polaris, representing Alaska as the northernmost state in the union and its future as a state."
+    }
   ]
 }

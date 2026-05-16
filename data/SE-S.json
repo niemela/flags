@@ -1,8 +1,55 @@
 {
   "id": "SE-S",
-  "title": "Värmland (Sweden)",
-  "iso": "SE-S",
+  "name": "Varmland County (Sweden)",
   "type": [
     "subdivision"
+  ],
+  "parent": "SE",
+  "codes": {
+    "iso_3166_2": "SE-S",
+    "wikidata": "Q104241"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the silver field of the Varmland arms"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the azure eagle"
+    },
+    {
+      "color": "red",
+      "symbolism": "the eagle's tongue and detailing"
+    }
+  ],
+  "description": "A square silver flag charged centrally with a blue eagle displayed, the historic emblem of Varmland.",
+  "history": "The flag is the heraldic banner of the arms of Varmland County, derived from the medieval coat of arms of the historic province of Varmland.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/V%C3%A4rmland_County",
+    "https://sv.wikipedia.org/wiki/V%C3%A4rmlands_l%C3%A4ns_vapen"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white",
+      "symbolism": "the silver field of the historic Varmland provincial arms"
+    },
+    {
+      "type": "eagle",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "displayed eagle of Varmland",
+      "symbolism": "an azure eagle displayed on a silver field, the historic emblem of the province of Varmland."
+    }
   ]
 }

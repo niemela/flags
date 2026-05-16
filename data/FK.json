@@ -1,8 +1,80 @@
 {
   "id": "FK",
-  "title": "Falkland Islands",
-  "iso": "FK",
+  "name": "Falkland Islands (United Kingdom)",
   "type": [
     "subdivision"
+  ],
+  "parent": "GB",
+  "codes": {
+    "iso_3166_1_alpha2": "FK",
+    "iso_3166_1_alpha3": "FLK",
+    "wikidata": "Q9648"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the field of the British Blue Ensign"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltire and cross of the Union Flag canton; the sea around the ship Desire in the coat of arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross of St George and saltire of St Patrick in the Union Flag canton"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the sea on the coat of arms"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the ram and the ship Desire in the coat of arms"
+    },
+    {
+      "color": "green",
+      "symbolism": "the tussock grass on the coat of arms"
+    }
+  ],
+  "description": "A British Blue Ensign — navy field with the Union Flag in the upper-hoist canton — defaced in the fly with the coat of arms of the Falkland Islands: a ram above a three-masted sailing ship at sea, with the motto 'Desire the right' on a scroll below.",
+  "history": "The current design was adopted on 25 January 1999, replacing earlier versions in use from 1948 onwards (the coat of arms was redesigned in 1948 and updated in 1999). The Falkland Islands have been a British territory since 1833 (with continuous British administration since), although Argentina also claims sovereignty.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1999-01-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Falkland_Islands"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy",
+      "symbolism": "the field of the British Blue Ensign, denoting the Falkland Islands' status as a British Overseas Territory"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "role": "Union Flag",
+      "symbolism": "the Falkland Islands' status as a British Overseas Territory"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "fly",
+      "role": "coat of arms of the Falkland Islands",
+      "symbolism": "a ram (representing sheep farming, the islands' main industry) standing above a sailing ship, the Desire, on a sea of waves; below, a scroll bears the motto 'Desire the right' — a reference both to John Davis's ship Desire (which sighted the islands in 1592) and to the islanders' assertion of self-determination"
+    }
   ]
 }

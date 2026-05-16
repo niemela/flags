@@ -1,8 +1,74 @@
 {
   "id": "CK",
-  "title": "Cook Islands",
-  "iso": "CK",
+  "name": "Cook Islands",
   "type": [
     "country"
+  ],
+  "parent": null,
+  "codes": {
+    "iso_3166_1_alpha2": "CK",
+    "iso_3166_1_alpha3": "COK",
+    "ioc": "COK",
+    "wikidata": "Q26988"
+  },
+  "region": [
+    "Oceania",
+    "Polynesia",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the Pacific Ocean and the Blue Ensign tradition; ties to the United Kingdom"
+    },
+    {
+      "color": "white",
+      "symbolism": "the 15 stars representing the 15 islands; the white of the Union Jack"
+    },
+    {
+      "color": "red",
+      "symbolism": "the red of the Union Jack — historic ties to the British Crown"
+    }
+  ],
+  "description": "A Blue Ensign with the Union Jack in the upper-hoist canton and, in the fly, fifteen white five-pointed stars arranged in a circle.",
+  "history": "Adopted on 4 August 1979, replacing a green ensign with two interleaved circles of stars used from 1973. The Cook Islands are a self-governing nation in free association with New Zealand; the flag's Blue Ensign form, complete with Union Jack canton, reflects this constitutional status within the Commonwealth.",
+  "variant": [
+    "civil",
+    "state",
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1979-08-04"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Cook_Islands"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the blue field of the Blue Ensign — the surrounding Pacific Ocean and ties to the United Kingdom and the Commonwealth"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "ties to the United Kingdom and the Commonwealth; the Cook Islands are in free association with New Zealand, which itself remains a Commonwealth realm"
+    },
+    {
+      "type": "star",
+      "count": 15,
+      "points": 5,
+      "color": "white",
+      "position": "fly",
+      "arrangement": "circle",
+      "role": "the fifteen islands of the Cook Islands",
+      "symbolism": "Fifteen white five-pointed stars arranged in a circle, representing the fifteen islands of the Cook Islands group; the circle implies their unity."
+    }
   ]
 }

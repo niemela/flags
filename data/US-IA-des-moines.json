@@ -1,7 +1,64 @@
 {
   "id": "US-IA-des-moines",
-  "title": "Des Moines, IA (United States)",
+  "name": "Des Moines (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-IA",
+  "codes": {
+    "wikidata": "Q485176"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field, recalling the rivers that converge at Des Moines"
+    },
+    {
+      "color": "white",
+      "symbolism": "the wave-form bands representing the Des Moines and Raccoon rivers"
+    },
+    {
+      "color": "red",
+      "symbolism": "the hoist triangle, representing Fort Des Moines and the city's military origins"
+    }
+  ],
+  "description": "A blue field crossed by three white wave-form bands rising from hoist to fly, with a red triangle filling the hoist edge.",
+  "history": "Adopted by the Des Moines City Council in 2018, replacing an earlier flag. The design was selected from a public competition organised in cooperation with the local arts community.",
+  "periods": [
+    {
+      "start": "2018"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Des_Moines,_Iowa"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "Three white wave bands rise across a blue field, evoking the three rivers that meet in Des Moines (the Des Moines, Raccoon, and rivers); a red triangle at the hoist alludes to the role of Fort Des Moines and the city's founding."
+    },
+    {
+      "type": "wave",
+      "count": 3,
+      "color": "white",
+      "position": "center",
+      "arrangement": "row",
+      "role": "three white wave bands across the blue field",
+      "symbolism": "The three wave-form bands represent the Des Moines River and Raccoon River that converge in the city, and the bridges that span them."
+    },
+    {
+      "type": "triangle",
+      "count": 1,
+      "color": "red",
+      "position": "hoist",
+      "role": "red hoist triangle",
+      "symbolism": "Recalls Fort Des Moines, the U.S. Army post around which the city was founded in 1843."
+    }
   ]
 }

@@ -1,8 +1,73 @@
 {
-  "id": "US-WI-madison_1962-2018",
-  "title": "Madison, WI (United States, 1962-2018)",
+  "id": "US-WI-madison_2018",
+  "name": "Madison, 1962-2018 (United States)",
   "type": [
     "historical",
     "city"
+  ],
+  "parent": "US-WI",
+  "codes": {
+    "wikidata": "Q43788"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "Lakes Mendota and Monona, between which Madison lies"
+    },
+    {
+      "color": "black",
+      "symbolism": "the central sun and Native American heritage"
+    },
+    {
+      "color": "gold",
+      "symbolism": "the rising sun"
+    }
+  ],
+  "description": "A white field crossed corner-to-corner by two light-blue diagonal bands forming an X, framing a central black disc surmounted by a stylized gold sun with four rays pointing in the cardinal directions.",
+  "history": "Designed by University of Wisconsin art professor James Watrous and adopted by the Common Council in 1962. The pale-blue diagonals represent Lakes Mendota and Monona, which together form the isthmus on which downtown Madison sits; the central sun and disc allude to the city's Indigenous heritage. The flag was retired on 22 May 2018 after the Common Council voted to remove it following criticism that the central black disc and four-armed sun resembled an inverted swastika and that the design was insensitive to Indigenous communities. A new flag was adopted in 2018.",
+  "variant": [
+    "civil"
+  ],
+  "periods": [
+    {
+      "start": "1962",
+      "end": "2018-05-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Madison,_Wisconsin",
+    "https://en.wikipedia.org/wiki/Madison,_Wisconsin"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "an abstract representation of Madison's geography — the city built on an isthmus between two lakes, with a stylized rising sun"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 4,
+      "color": "gold",
+      "position": "center",
+      "role": "stylized sun with four gold rays in cardinal directions",
+      "symbolism": "the rising sun and Madison's Native American heritage"
+    },
+    {
+      "type": "circle",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "central black disc behind the sun",
+      "symbolism": "the unity of Madison's people"
+    }
   ]
 }

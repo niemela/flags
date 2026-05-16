@@ -1,8 +1,61 @@
 {
   "id": "DK-83",
-  "title": "Syddanmark (Denmark)",
-  "iso": "DK-83",
+  "name": "Region Syddanmark (Region of Southern Denmark)",
   "type": [
     "subdivision"
+  ],
+  "parent": "DK",
+  "codes": {
+    "iso_3166_2": "DK-83",
+    "wikidata": "Q26125"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the white field of the regional logo"
+    },
+    {
+      "color": "green",
+      "symbolism": "the green graphic of the Region Syddanmark logotype, evoking the region's countryside and forests"
+    },
+    {
+      "color": "grey",
+      "symbolism": "the grey wordmark 'Region Syddanmark'"
+    }
+  ],
+  "description": "A white field charged at the centre with the Region Syddanmark logotype: a green graphic mark beside grey lettering reading 'Region Syddanmark'.",
+  "history": "Region Syddanmark was established on 1 January 2007 by the Danish Local Government Reform (Strukturreformen). The flag carries the region's corporate identity.",
+  "variant": [
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2007-01-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Region_of_Southern_Denmark",
+    "https://en.wikipedia.org/wiki/Regions_of_Denmark"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "position": "center",
+      "role": "Region Syddanmark logotype",
+      "symbolism": "the official wordmark of Region Syddanmark (the Region of Southern Denmark), one of the five regions established in the 2007 local-government reform"
+    }
   ]
 }

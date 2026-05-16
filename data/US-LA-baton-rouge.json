@@ -1,7 +1,50 @@
 {
   "id": "US-LA-baton-rouge",
-  "title": "Baton Rouge, LA (United States)",
+  "name": "Baton Rouge (United States)",
   "type": [
     "city"
+  ],
+  "parent": "US-LA",
+  "codes": {
+    "wikidata": "Q28941"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field; the 'red stick' for which Baton Rouge is named"
+    },
+    {
+      "color": "navy",
+      "symbolism": "elements of the central seal"
+    },
+    {
+      "color": "white",
+      "symbolism": "elements of the central seal"
+    }
+  ],
+  "description": "A red field charged at the centre with the seal of the City of Baton Rouge.",
+  "history": "Used by the City of Baton Rouge, the capital of Louisiana, named in 1699 by French explorer Pierre Le Moyne d'Iberville after a red ceremonial pole marking a tribal boundary.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Baton_Rouge,_Louisiana"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "A red field, recalling the city's name — Baton Rouge means 'red stick' in French, after a red-stained cypress pole reported by early French explorers as marking the boundary between two indigenous nations."
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "Seal of the City of Baton Rouge",
+      "symbolism": "The municipal seal, featuring an upright red stick (le baton rouge) — the name given to the location by French explorer Pierre Le Moyne d'Iberville in 1699, after a red-stained pole he saw marking the boundary between Houma and Bayougoula tribal hunting grounds."
+    }
   ]
 }

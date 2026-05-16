@@ -1,8 +1,61 @@
 {
   "id": "AX",
-  "title": "Åland Islands",
-  "iso": "AX",
+  "name": "Åland Islands (Finland)",
   "type": [
     "subdivision"
+  ],
+  "parent": "FI",
+  "codes": {
+    "iso_3166_1_alpha2": "AX",
+    "iso_3166_1_alpha3": "ALA",
+    "iso_3166_2": "FI-01",
+    "wikidata": "Q5689"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "European Union"
+  ],
+  "aspect_ratio": "17:26",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the sky and the surrounding Baltic Sea; from the Swedish flag, reflecting the Swedish-speaking population of the islands"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fimbriation around the cross — the yellow of the Swedish flag"
+    },
+    {
+      "color": "red",
+      "symbolism": "the inner cross — the Finnish connection and the historic provincial heraldry of Åland"
+    }
+  ],
+  "description": "A blue field with a red Nordic cross fimbriated yellow; the cross is shifted toward the hoist in the standard Nordic-cross arrangement.",
+  "history": "Adopted on 7 April 1954 by the Åland Parliament after years of negotiation, the flag combines the colours of Sweden (Åland's mother culture and language) with red, reflecting the islands' status as an autonomous, demilitarised, and Swedish-speaking province of Finland. It was approved by the Finnish President in 1954 and first officially hoisted on 3 April 1954. Åland's autonomy was guaranteed by the League of Nations in 1921.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1954-04-07"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_%C3%85land"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "blue",
+      "cross": "red",
+      "fimbriation": {
+        "color": "yellow",
+        "around": "cross"
+      },
+      "symbolism": "a Nordic cross expressing membership in the Nordic family of nations; the colours combine those of Sweden (blue and yellow, reflecting Åland's Swedish-speaking population) with red recalling Finland's historic ties and the provincial coat of arms of Åland"
+    }
   ]
 }

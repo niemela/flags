@@ -1,8 +1,71 @@
 {
   "id": "LR-MY",
-  "title": "Maryland (Liberia)",
-  "iso": "LR-MY",
+  "name": "Maryland County (Liberia)",
   "type": [
     "subdivision"
+  ],
+  "parent": "LR",
+  "codes": {
+    "iso_3166_2": "LR-MY"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Yellow field with the Liberian national flag as a canton in the upper hoist; in the fly half a green palm-and-landscape device with brown trunks and pale-blue sky represents the coastal forests of Maryland County.",
+  "history": "Presented by President William V. S. Tubman on 29 November 1965 together with the flags of the other Liberian counties. Maryland was the original entity of the historic Republic of Maryland, founded by the Maryland State Colonization Society and merged with Liberia in 1857.",
+  "periods": [
+    {
+      "start": "1965-11-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maryland_County",
+    "https://en.wikipedia.org/wiki/Flags_of_the_counties_of_Liberia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "LR",
+      "proportion": "1/4",
+      "role": "the union",
+      "symbolism": "Maryland as part of the Republic of Liberia"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center-fly",
+      "role": "palm and landscape",
+      "symbolism": "the coastal palm groves and forests of Maryland County"
+    }
   ]
 }

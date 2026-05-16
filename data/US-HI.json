@@ -1,8 +1,70 @@
 {
   "id": "US-HI",
-  "title": "Hawaii (United States)",
-  "iso": "US-HI",
+  "name": "Hawaii (United States)",
   "type": [
     "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-HI",
+    "fips_state": "15",
+    "wikidata": "Q782"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Oceania",
+    "Polynesia"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Eight equal horizontal stripes alternating white, red, and blue (top to bottom: white, red, blue, white, red, blue, white, red), with a British Union Jack in the upper-hoist canton occupying roughly the upper quarter of the flag.",
+  "history": "Designed during the reign of King Kamehameha I, c. 1816, combining elements of the British and U.S. flags to signal Hawaii's diplomatic alignment with both powers; one tradition holds that an early version was given to Kamehameha I by Captain George Vancouver. Adopted in its current form by Kamehameha I in 1845; retained without change through the Hawaiian Kingdom (until 1893), the Republic of Hawaii (1894-1898), the Territory of Hawaii (1898-1959), and the U.S. State of Hawaii (since 21 August 1959). It is the only U.S. state flag to incorporate the flag of a foreign country.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1845"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Hawaii"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "blue",
+        "white",
+        "red",
+        "blue",
+        "white",
+        "red"
+      ],
+      "count": 8,
+      "symbolism": "the eight major islands of the Hawaiian archipelago"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "role": "British Union Jack canton in the upper hoist quarter",
+      "symbolism": "Hawaii's historical friendship with the United Kingdom; gifted by Captain George Vancouver to King Kamehameha I in the 1790s"
+    }
   ]
 }
