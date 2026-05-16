@@ -1,0 +1,31 @@
+{
+  "id": "GB-SCT-edinburgh",
+  "name": "Edinburgh (United Kingdom)",
+  "type": ["city"],
+  "parent": "GB-SCT",
+  "codes": {
+    "wikidata": "Q23436"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "white" },
+    { "color": "red", "symbolism": "the heraldic gules of Edinburgh's arms" },
+    { "color": "black", "symbolism": "the rock of Edinburgh Castle" }
+  ],
+  "description": "A white field bearing the coat of arms of the City of Edinburgh — a triple-towered castle on a rock between maiden and doe supporters, beneath the city's motto.",
+  "history": "Edinburgh's coat of arms has been used since at least 1732 (Lord Lyon Court) and the modern flag was confirmed by the City of Edinburgh Council in 2007.",
+  "periods": [{ "start": "2007" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Edinburgh"
+  ],
+  "features": [
+    { "type": "solid", "color": "white" },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Civic coat of arms of Edinburgh",
+      "symbolism": "a triple-towered castle on a rock between a maiden and a doe, with the city's motto 'Nisi Dominus Frustra' ('Without the Lord, [all is] in vain')"
+    }
+  ]
+}

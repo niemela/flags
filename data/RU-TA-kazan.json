@@ -1,0 +1,59 @@
+{
+  "id": "RU-TA-kazan",
+  "name": "Kazan (Russia)",
+  "type": ["city"],
+  "parent": "RU-TA",
+  "codes": {
+    "wikidata": "Q5757"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Turkic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the silver field of the city's medieval coat of arms — purity and peace"
+    },
+    {
+      "color": "green",
+      "symbolism": "the lower stripe — fertility and the Tatar national colour"
+    },
+    {
+      "color": "red",
+      "symbolism": "elements of the central charge"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the Zilant's crown"
+    },
+    {
+      "color": "black",
+      "symbolism": "elements of the Zilant"
+    }
+  ],
+  "description": "A white field with a narrow green stripe along the bottom, charged centrally with the Zilant — a winged dragon-like creature derived from Tatar legend — under a gold crown.",
+  "history": "The Zilant has been the emblem of Kazan since at least the 16th century, recorded on imperial Russian seals and grants. The modern city flag, restoring the Zilant on a white-and-green field, was adopted on 24 December 2004 by the Kazan City Duma.",
+  "periods": [{ "start": "2004-12-24" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Kazan",
+    "https://en.wikipedia.org/wiki/Kazan"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["white", "green"],
+      "count": 2,
+      "widths": [6, 1]
+    },
+    {
+      "type": "mythical-creature",
+      "position": "center",
+      "role": "Zilant — the winged dragon-like creature of Tatar legend",
+      "symbolism": "the historic emblem of Kazan, recorded on imperial seals from the 16th century"
+    }
+  ]
+}

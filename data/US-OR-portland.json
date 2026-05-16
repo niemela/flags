@@ -1,0 +1,72 @@
+{
+  "id": "US-OR-portland",
+  "name": "Portland (Oregon, United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-OR",
+  "codes": {
+    "wikidata": "Q6106"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the forests and the green city"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "agriculture and commerce"
+    },
+    {
+      "color": "blue",
+      "symbolism": "Portland's rivers — the Willamette and Columbia"
+    },
+    {
+      "color": "white",
+      "symbolism": "the narrow fimbriations separating the blue and yellow elements from the green field"
+    }
+  ],
+  "description": "A green field bearing a central white four-pointed star (a hypocycloid) from which radiate four blue stripes — each bordered by L-shaped (squared) yellow elements — outlined by narrow white fimbriation against the green background.",
+  "history": "Designed in 1969 by Portland resident and graphic designer R. Douglas Lynch, the original design (with a blue canton bearing the city seal) was adopted on 17 December 1969. City Ordinance 176874, adopted on 4 September 2002, removed the canton and established the simpler radiating-star design — the form now in use.",
+  "periods": [
+    {
+      "start": "2002-09-04"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Portland,_Oregon",
+    "https://www.portland.gov/code/1/06"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green",
+      "symbolism": "the green field representing Portland's forests and its identity as a green city"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 4,
+      "color": "white",
+      "position": "center",
+      "role": "central white four-pointed star (hypocycloid)",
+      "symbolism": "a stylised four-pointed star (hypocycloid) at the centre, emanating four blue stripes each flanked by yellow squarred (L-shaped) elements; the white fimbriations separate the elements from the green ground"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 4,
+      "direction": "bend",
+      "symbolism": "four blue stripes radiating from the central star, each bordered by yellow squarres (L-shaped corners): blue for the Willamette and Columbia rivers and yellow for agriculture and commerce"
+    }
+  ]
+}

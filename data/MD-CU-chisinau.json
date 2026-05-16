@@ -1,0 +1,38 @@
+{
+  "id": "MD-CU-chisinau",
+  "name": "Chișinău (Moldova)",
+  "type": ["city"],
+  "parent": "MD-CU",
+  "codes": {
+    "wikidata": "Q1813"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue", "symbolism": "the field — heraldic colour of the city" },
+    { "color": "white", "symbolism": "the central design" },
+    { "color": "yellow", "symbolism": "details of the city arms" },
+    { "color": "red", "symbolism": "details of the city arms" }
+  ],
+  "description": "A blue field bearing the coat of arms of Chișinău in the centre.",
+  "history": "Chișinău is the capital and largest city of Moldova.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "color": "yellow",
+      "role": "Coat of arms of Chișinău"
+    }
+  ]
+}

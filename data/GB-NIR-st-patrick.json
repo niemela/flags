@@ -1,0 +1,30 @@
+{
+  "id": "GB-NIR-st-patrick",
+  "name": "Northern Ireland (Saint Patrick's Saltire, alternative)",
+  "type": ["subdivision"],
+  "parent": "GB-NIR",
+  "codes": {
+    "wikidata": "Q1244464"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "white" },
+    { "color": "red" }
+  ],
+  "description": "A white field with a red diagonal cross (saltire) extending corner to corner.",
+  "history": "Adopted as the symbol of Saint Patrick by the Order of St Patrick in 1783; one of the three crosses combined into the modern Union Jack in 1801. Sometimes used as a less politically-charged alternative to the Ulster Banner for Northern Ireland.",
+  "status": "alternative",
+  "periods": [{ "start": "1783" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Patrick%27s_Saltire"
+  ],
+  "features": [
+    {
+      "type": "saltire",
+      "field": "white",
+      "saltire": "red",
+      "symbolism": "the diagonal cross of Saint Patrick — patron saint of Ireland — used as a more inclusive symbol than the Ulster Banner"
+    }
+  ]
+}

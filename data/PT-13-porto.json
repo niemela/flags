@@ -1,0 +1,40 @@
+{
+  "id": "PT-13-porto",
+  "name": "Porto (Portugal)",
+  "type": ["city"],
+  "parent": "PT-13",
+  "codes": {
+    "wikidata": "Q36433"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Iberian Peninsula",
+    "European Union",
+    "Lusophone"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    { "color": "white", "symbolism": "the field" },
+    { "color": "red", "symbolism": "details" },
+    { "color": "yellow", "symbolism": "details" },
+    { "color": "blue", "symbolism": "details" }
+  ],
+  "description": "A square white flag bearing the coat of arms of Porto in the centre.",
+  "history": "Porto is the second-largest city in Portugal. The arms include the Virgin Mary (Our Lady of Vandoma), patroness of the city.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Porto"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "color": "red",
+      "role": "Coat of arms of Porto"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "AU-VIC-melbourne",
+  "name": "Melbourne (Victoria, Australia)",
+  "type": ["city"],
+  "parent": "AU-VIC",
+  "codes": {
+    "wikidata": "Q3141"
+  },
+  "region": [
+    "Oceania",
+    "Australia and New Zealand",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "navy", "symbolism": "the field" },
+    { "color": "yellow", "symbolism": "the City of Melbourne logo" },
+    { "color": "white", "symbolism": "details" }
+  ],
+  "description": "A navy-blue field charged with the stylised yellow 'M' logo of the City of Melbourne.",
+  "history": "The City of Melbourne adopted its modern flag bearing the city's stylised 'M' logo. Melbourne is the capital of Victoria and was incorporated as a town in 1842, becoming a city in 1847.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/City_of_Melbourne"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "stylised 'M' logo of the City of Melbourne"
+    }
+  ]
+}

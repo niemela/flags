@@ -1,0 +1,40 @@
+{
+  "id": "AU-WA-perth",
+  "name": "Perth (Western Australia, Australia)",
+  "type": ["city"],
+  "parent": "AU-WA",
+  "codes": {
+    "wikidata": "Q3183"
+  },
+  "region": [
+    "Oceania",
+    "Australia and New Zealand",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "blue", "symbolism": "the field" },
+    { "color": "white", "symbolism": "design elements" },
+    { "color": "red", "symbolism": "details of the city arms" },
+    { "color": "yellow", "symbolism": "details of the city arms" },
+    { "color": "black", "symbolism": "details of the city arms" }
+  ],
+  "description": "A blue field bearing the coat of arms of the City of Perth centred.",
+  "history": "The flag of the City of Perth bears the city's coat of arms, originally granted in 1856. Perth was named after Perth, Scotland, and was incorporated as a city in 1856.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/City_of_Perth"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "color": "white",
+      "role": "Coat of arms of the City of Perth"
+    }
+  ]
+}

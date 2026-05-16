@@ -1,0 +1,32 @@
+{
+  "id": "GB-ENG-coventry",
+  "name": "Coventry (United Kingdom)",
+  "type": ["city"],
+  "parent": "GB-ENG",
+  "codes": {
+    "wikidata": "Q21716"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "white" },
+    { "color": "blue" },
+    { "color": "red" },
+    { "color": "yellow" }
+  ],
+  "description": "A field bearing the coat of arms of Coventry, featuring an elephant carrying a castle on its back.",
+  "history": "Based on the historic civic arms of Coventry, in use since the 14th century. The elephant-and-castle is a unique medieval emblem of the city.",
+  "periods": [{ "start": "1959" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Coventry"
+  ],
+  "features": [
+    { "type": "solid", "color": "white" },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Coat of arms of Coventry — elephant bearing a castle",
+      "symbolism": "the historic civic arms of Coventry; the elephant-and-castle is the city's medieval emblem"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GB-WLS-caernarfonshire",
+  "name": "Caernarfonshire (United Kingdom, historic)",
+  "type": ["subdivision"],
+  "parent": "GB-WLS",
+  "codes": {
+    "wikidata": "Q1031621"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "green" },
+    { "color": "yellow" },
+    { "color": "black" }
+  ],
+  "description": "A green field bearing three gold (yellow) eagles displayed.",
+  "history": "Based on the arms attributed to Owain Gwynedd, the medieval king of Gwynedd; recognised by the Flag Institute as the flag of the historic county of Caernarfonshire.",
+  "periods": [{ "start": "2012~" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Caernarfonshire"
+  ],
+  "features": [
+    { "type": "solid", "color": "green" },
+    {
+      "type": "eagle",
+      "count": 3,
+      "color": "yellow",
+      "arrangement": "grid",
+      "rows": [2, 1],
+      "role": "Three eagles displayed",
+      "symbolism": "from the medieval arms attributed to Owain Gwynedd, King of Gwynedd"
+    }
+  ]
+}

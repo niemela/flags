@@ -1,0 +1,40 @@
+{
+  "id": "LV-RIX-riga",
+  "name": "Riga (Latvia)",
+  "type": ["city"],
+  "parent": "LV-RIX",
+  "codes": {
+    "wikidata": "Q1773"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Baltics",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "blue", "symbolism": "the upper field" },
+    { "color": "white", "symbolism": "the lower field and the city arms" },
+    { "color": "red", "symbolism": "details of the city arms" },
+    { "color": "yellow", "symbolism": "details of the city arms" }
+  ],
+  "description": "Two horizontal stripes — blue over white — with the coat of arms of Riga at the hoist: a city gate with two crossed keys above and a lion's head between, surmounted by a crown.",
+  "history": "Riga is the capital of Latvia. The flag is divided horizontally blue and white with the city's historic coat of arms.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Riga"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["blue", "white"],
+      "count": 2
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "color": "red",
+      "role": "Coat of arms of Riga"
+    }
+  ]
+}

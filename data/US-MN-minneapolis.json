@@ -1,0 +1,93 @@
+{
+  "id": "US-MN-minneapolis",
+  "name": "Minneapolis (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-MN",
+  "codes": {
+    "wikidata": "Q36091"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "shape": "swallowtail",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field of the flag"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the central pennant and the four civic emblems on the central white disc"
+    }
+  ],
+  "description": "A swallow-tailed white field charged with a centred royal-blue pennant on which is set a white disc divided into four quadrants — each containing a blue emblem: a building (education and the arts), a cogwheel and square (labour and industry), a pilot wheel (the lakes and rivers), and a microscope (research and skilled craftsmanship).",
+  "history": "Adopted by the Minneapolis City Council on 27 May 1955.",
+  "periods": [
+    {
+      "start": "1955-05-27"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Minneapolis",
+    "https://www.minneapolismn.gov/government/departments/clerk/city-flag/"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white",
+      "symbolism": "white swallow-tailed field"
+    },
+    {
+      "type": "pennant",
+      "color": "blue",
+      "position": "center",
+      "role": "central royal-blue pennant",
+      "symbolism": "the blue pennant on which the four civic-virtue emblems are arranged"
+    },
+    {
+      "type": "circle",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "central white disc divided into four quadrants",
+      "symbolism": "white disc set on the blue pennant, divided into four equal quadrants by a thin cross — each quadrant bearing one of the four civic emblems"
+    },
+    {
+      "type": "building",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "building (in one quadrant)",
+      "symbolism": "represents education and the arts"
+    },
+    {
+      "type": "cogwheel",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "cogwheel and square (in one quadrant)",
+      "symbolism": "represents labour and industry"
+    },
+    {
+      "type": "wheel",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "ship's pilot wheel (in one quadrant)",
+      "symbolism": "represents Minneapolis's lakes and rivers and all activities identified with them"
+    },
+    {
+      "type": "tool",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "microscope (in one quadrant)",
+      "symbolism": "represents research, skilled craftsmanship and progress"
+    }
+  ]
+}

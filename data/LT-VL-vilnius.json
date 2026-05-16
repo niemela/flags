@@ -1,0 +1,38 @@
+{
+  "id": "LT-VL-vilnius",
+  "name": "Vilnius (Lithuania)",
+  "type": ["city"],
+  "parent": "LT-VL",
+  "codes": {
+    "wikidata": "Q3884"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Baltics",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "red", "symbolism": "the field of the city arms" },
+    { "color": "white", "symbolism": "Saint Christopher" },
+    { "color": "yellow", "symbolism": "details of the arms" }
+  ],
+  "description": "A red field bearing the coat of arms of Vilnius — Saint Christopher carrying the Christ Child across a river.",
+  "history": "Vilnius is the capital and largest city of Lithuania. Its coat of arms — Saint Christopher — has been used since at least the 16th century. The current flag uses the city arms on red.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Coat_of_arms_of_Vilnius"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "human-figure",
+      "position": "center",
+      "color": "white",
+      "role": "Saint Christopher carrying the Christ Child"
+    }
+  ]
+}

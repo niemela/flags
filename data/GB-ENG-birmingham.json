@@ -1,0 +1,31 @@
+{
+  "id": "GB-ENG-birmingham",
+  "name": "Birmingham (United Kingdom)",
+  "type": ["city"],
+  "parent": "GB-ENG",
+  "codes": {
+    "wikidata": "Q2256"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "blue" },
+    { "color": "yellow" },
+    { "color": "red" }
+  ],
+  "description": "A blue field bearing the coat of arms or civic emblem of Birmingham.",
+  "history": "Based on the civic arms of Birmingham; used as the city's flag.",
+  "periods": [{ "start": "1977~" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Birmingham"
+  ],
+  "features": [
+    { "type": "solid", "color": "blue" },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Coat of arms of Birmingham",
+      "symbolism": "the historic civic arms of Birmingham"
+    }
+  ]
+}

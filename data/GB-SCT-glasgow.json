@@ -1,0 +1,31 @@
+{
+  "id": "GB-SCT-glasgow",
+  "name": "Glasgow (United Kingdom)",
+  "type": ["city"],
+  "parent": "GB-SCT",
+  "codes": {
+    "wikidata": "Q4093"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "white" },
+    { "color": "green" },
+    { "color": "red" }
+  ],
+  "description": "A white field bearing the coat of arms of Glasgow — including the tree, bird, fish and bell associated with St Mungo.",
+  "history": "Based on the historic civic arms of Glasgow (granted by Lord Lyon in 1866); the four emblems recall the legend of St Mungo, the city's patron saint.",
+  "periods": [{ "start": "1866" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Glasgow"
+  ],
+  "features": [
+    { "type": "solid", "color": "white" },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Coat of arms of Glasgow",
+      "symbolism": "the tree, bird, fish and bell of the legend of St Mungo, patron saint of Glasgow"
+    }
+  ]
+}

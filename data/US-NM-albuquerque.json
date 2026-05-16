@@ -1,0 +1,68 @@
+{
+  "id": "US-NM-albuquerque",
+  "name": "Albuquerque (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-NM",
+  "codes": {
+    "wikidata": "Q34804"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field of the flag"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the Zia sun, the city name and the year of foundation"
+    }
+  ],
+  "description": "A red field with a yellow Zia sun symbol enclosing the year \"1706\" in the centre, the word \"Albuquerque\" written in yellow italics just below the sun, and a yellow flying thunderbird in the canton.",
+  "history": "The idea of a city flag was first discussed by the Albuquerque Chamber of Commerce in 1967, which announced a design contest running from December 1967 to March 1968. The winning entry, by local optometrist Richard P. Vann, was first flown on 21 June 1968.",
+  "periods": [
+    {
+      "start": "1968-06-21"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Albuquerque,_New_Mexico"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the red field of the flag"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "Zuni-style flying thunderbird in the canton",
+      "symbolism": "a stylised yellow thunderbird in the upper hoist, an emblem drawn from Pueblo iconography that situates the city in its Native and Southwestern context"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "rays": 16,
+      "role": "Zia sun symbol",
+      "symbolism": "the Zia sun — the same emblem that appears on the New Mexico state flag, drawn from the Zia Pueblo's traditional sun-of-four-directions; here it encloses the year 1706, the year Albuquerque was founded by Provincial Governor Francisco Cuervo y Valdés"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "the year \"1706\" inside the Zia sun, and the word \"Albuquerque\" in italics below it",
+      "symbolism": "1706 is the year of the city's founding; \"Albuquerque\" honours Francisco Fernández de la Cueva, 10th Duke of Alburquerque, then Viceroy of New Spain (the spelling lost the first \"r\" through usage)"
+    }
+  ]
+}

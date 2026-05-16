@@ -1,0 +1,37 @@
+{
+  "id": "GB-LND-london",
+  "name": "City of London (United Kingdom)",
+  "type": ["city"],
+  "parent": "GB-LND",
+  "codes": {
+    "iso_3166_2": "GB-LND",
+    "wikidata": "Q23311"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "white" },
+    { "color": "red", "symbolism": "the cross of St George and the sword of St Paul" }
+  ],
+  "description": "A white field bearing the red St George's Cross, with the sword of St Paul (a red sword pointing upward) in the upper-hoist canton.",
+  "history": "The City of London's banner of arms — a defaced English cross of St George — has been used since at least the early 17th century; the sword recalls St Paul, patron saint of the City. Used solely by the Square Mile (the historic City of London), distinct from any flag of Greater London.",
+  "periods": [{ "start": "1601~" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_City_of_London"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "white",
+      "cross": "red",
+      "symbolism": "the St George's Cross of England"
+    },
+    {
+      "type": "sword",
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "Sword of St Paul",
+      "symbolism": "St Paul, patron saint of London (whose cathedral stands in the City); legend holds that the sword represents the weapon used to behead him"
+    }
+  ]
+}

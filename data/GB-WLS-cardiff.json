@@ -1,0 +1,37 @@
+{
+  "id": "GB-WLS-cardiff",
+  "name": "Cardiff (United Kingdom)",
+  "type": ["city"],
+  "parent": "GB-WLS",
+  "codes": {
+    "wikidata": "Q10690"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "white" },
+    { "color": "blue", "symbolism": "from the city's coat of arms" },
+    { "color": "red", "symbolism": "the Welsh dragon" },
+    { "color": "yellow", "symbolism": "the gold of the heraldic charges" },
+    { "color": "green", "symbolism": "the leek of Wales" }
+  ],
+  "description": "A horizontal bicolour of white over blue with the city's coat of arms (a red Welsh dragon and Cardiff arms) at the centre.",
+  "history": "Adopted by Cardiff Council on 28 May 2008; the design replaced an earlier flag and incorporates the coat of arms of the City and County of Cardiff.",
+  "periods": [{ "start": "2008-05-28" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Cardiff"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["white", "blue"],
+      "count": 2
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Coat of arms of Cardiff",
+      "symbolism": "Welsh national identity through the red dragon, with the city's seahorse supporters and Cardiff Castle imagery"
+    }
+  ]
+}

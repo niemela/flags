@@ -1,0 +1,41 @@
+{
+  "id": "SI-061-ljubljana",
+  "name": "Ljubljana (Slovenia)",
+  "type": ["city"],
+  "parent": "SI-061",
+  "codes": {
+    "wikidata": "Q437"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "1:3",
+  "colors": [
+    { "color": "white", "symbolism": "the upper stripe" },
+    { "color": "green", "symbolism": "the lower stripe — derived from the city's heraldic colour" },
+    { "color": "yellow", "symbolism": "the city dragon and tower of the arms" },
+    { "color": "red", "symbolism": "details of the arms" }
+  ],
+  "description": "Two horizontal stripes — white over green — with the coat of arms of Ljubljana centred or in the upper hoist: a dragon atop a tower on green.",
+  "history": "Ljubljana is the capital and largest city of Slovenia. The city's symbol is the Ljubljana Dragon, prominently featured on its coat of arms.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ljubljana"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["white", "green"],
+      "count": 2
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "color": "yellow",
+      "role": "Coat of arms of Ljubljana (Dragon atop a tower)"
+    }
+  ]
+}

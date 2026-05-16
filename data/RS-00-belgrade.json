@@ -1,0 +1,39 @@
+{
+  "id": "RS-00-belgrade",
+  "name": "Belgrade (Serbia)",
+  "type": ["city"],
+  "parent": "RS-00",
+  "codes": {
+    "wikidata": "Q3711"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "red", "symbolism": "the field" },
+    { "color": "white", "symbolism": "the city walls" },
+    { "color": "blue", "symbolism": "the river" },
+    { "color": "yellow", "symbolism": "details" }
+  ],
+  "description": "A red field bearing the coat of arms of Belgrade — depicting the city walls of the old fortress of Kalemegdan above the confluence of the Sava and Danube rivers, with a Roman galley and a quadrant of figures.",
+  "history": "Belgrade is the capital and largest city of Serbia. Its flag and coat of arms reference the medieval and Roman heritage of the city at the confluence of the Sava and Danube.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Belgrade"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "color": "white",
+      "role": "Coat of arms of Belgrade"
+    }
+  ]
+}

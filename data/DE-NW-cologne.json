@@ -1,0 +1,68 @@
+{
+  "id": "DE-NW-cologne",
+  "name": "Cologne (North Rhine-Westphalia, Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q365"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "from the city's coat of arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver field bearing the three crowns and eleven flames"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the three crowns of the Magi"
+    },
+    {
+      "color": "black",
+      "symbolism": "the eleven flames symbolising Saint Ursula's companions"
+    }
+  ],
+  "description": "A horizontal bicolour of red over white, charged with the city's emblem of three gold crowns over eleven black flames.",
+  "history": "Cologne's flag combines two ancient symbols of the city: the three crowns of the Three Magi (whose relics were brought to Cologne in 1164 and rest in the cathedral) above, and the eleven flames representing Saint Ursula and her companions below.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Cologne"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "symbolism": "the city's historic livery colours"
+    },
+    {
+      "type": "crown",
+      "count": 3,
+      "color": "yellow",
+      "position": "upper-fly",
+      "arrangement": "row",
+      "role": "Three crowns of the Magi",
+      "symbolism": "the relics of the Three Magi were brought to Cologne in 1164 and rest in Cologne Cathedral"
+    },
+    {
+      "type": "glyph",
+      "count": 11,
+      "color": "black",
+      "position": "lower-fly",
+      "role": "Eleven flames",
+      "symbolism": "the eleven thousand virgin companions of Saint Ursula, patron saint of the city"
+    }
+  ]
+}

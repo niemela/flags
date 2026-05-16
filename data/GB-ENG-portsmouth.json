@@ -1,0 +1,39 @@
+{
+  "id": "GB-ENG-portsmouth",
+  "name": "Portsmouth (United Kingdom)",
+  "type": ["city"],
+  "parent": "GB-ENG",
+  "codes": {
+    "wikidata": "Q23086"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "blue" },
+    { "color": "yellow" }
+  ],
+  "description": "A blue field charged with a gold (yellow) crescent and an eight-pointed star above it (the historic arms of Portsmouth).",
+  "history": "Based on the historic civic arms of Portsmouth, granted in 1194 by Richard I — among the oldest civic arms in England. Adopted as the city's flag.",
+  "periods": [{ "start": "1194~" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Portsmouth"
+  ],
+  "features": [
+    { "type": "solid", "color": "blue" },
+    {
+      "type": "crescent",
+      "color": "yellow",
+      "position": "center",
+      "role": "Crescent moon",
+      "symbolism": "from the historic arms of Portsmouth, granted by Richard I in 1194 (recalling Richard's Crusader campaigns)"
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "points": 8,
+      "position": "center",
+      "role": "Eight-pointed star above the crescent",
+      "symbolism": "from the historic arms of Portsmouth"
+    }
+  ]
+}

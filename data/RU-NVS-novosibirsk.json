@@ -1,0 +1,64 @@
+{
+  "id": "RU-NVS-novosibirsk",
+  "name": "Novosibirsk (Russia)",
+  "type": ["city"],
+  "parent": "RU-NVS",
+  "codes": {
+    "wikidata": "Q883"
+  },
+  "region": [
+    "Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the silver Ob River and the Siberian winter"
+    },
+    {
+      "color": "green",
+      "symbolism": "the Siberian taiga and the agriculture of the region"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the Ob River, on whose banks the city stands"
+    },
+    {
+      "color": "black",
+      "symbolism": "the silhouette of the railway bridge over the Ob"
+    },
+    {
+      "color": "red",
+      "symbolism": "the courage and labour of the city's people"
+    }
+  ],
+  "description": "A horizontally divided white-and-green field with a blue wavy stripe across the centre representing the Ob River, charged centrally with a black silhouette of the rail bridge that gave rise to the city.",
+  "history": "Novosibirsk is the largest city in Siberia and the third-largest in Russia, founded in 1893 around the Trans-Siberian Railway bridge across the Ob. The city flag, adopted on 25 July 2003, depicts the bridge and river that defined the city's origins.",
+  "periods": [{ "start": "2003-07-25" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Novosibirsk",
+    "https://en.wikipedia.org/wiki/Novosibirsk"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["white", "green"],
+      "count": 2
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "symbolism": "the Ob River"
+    },
+    {
+      "type": "building",
+      "color": "black",
+      "position": "center",
+      "role": "Railway bridge over the Ob",
+      "symbolism": "the bridge whose construction founded the city in 1893"
+    }
+  ]
+}

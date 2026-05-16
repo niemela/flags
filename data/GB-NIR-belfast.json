@@ -1,0 +1,35 @@
+{
+  "id": "GB-NIR-belfast",
+  "name": "Belfast (United Kingdom)",
+  "type": ["city"],
+  "parent": "GB-NIR",
+  "codes": {
+    "wikidata": "Q10686"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "white" },
+    { "color": "red" }
+  ],
+  "description": "A white field bearing a red St George's Cross with the Belfast coat of arms in the centre or canton.",
+  "history": "Based on the historic civic arms of Belfast.",
+  "periods": [{ "start": "1890~" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Belfast"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "white",
+      "cross": "red",
+      "symbolism": "the cross of St George"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Coat of arms of Belfast",
+      "symbolism": "the historic civic arms of Belfast"
+    }
+  ]
+}

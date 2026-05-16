@@ -1,0 +1,34 @@
+{
+  "id": "PL-14-warsaw",
+  "name": "Warsaw (Mazowieckie, Poland)",
+  "type": ["city"],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q270"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    { "color": "yellow", "symbolism": "the upper stripe — heraldic gold" },
+    { "color": "red", "symbolism": "the lower stripe and traditional Polish colour" }
+  ],
+  "description": "Two horizontal stripes of equal width — yellow over red — the colours derived from the city's coat of arms (the Warsaw Mermaid, Syrenka).",
+  "history": "Warsaw is the capital and largest city of Poland. Its plain bicolour flag was adopted in 1938. The colours come from the city's historic coat of arms.",
+  "periods": [{ "start": "1938" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Warsaw"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["yellow", "red"],
+      "count": 2,
+      "symbolism": "the heraldic colours of Warsaw — gold and red — taken from the city's coat of arms (the Mermaid of Warsaw on red, with gold details)"
+    }
+  ]
+}

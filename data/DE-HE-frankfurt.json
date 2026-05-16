@@ -1,0 +1,59 @@
+{
+  "id": "DE-HE-frankfurt",
+  "name": "Frankfurt am Main (Hesse, Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-HE",
+  "codes": {
+    "wikidata": "Q1794"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the silver of the city's heraldic field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the city's historic livery and the eagle's tongue"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the imperial eagle's crown"
+    },
+    {
+      "color": "black",
+      "symbolism": "the imperial eagle"
+    }
+  ],
+  "description": "A horizontal bicolour of white over red, with the city's coat of arms (a crowned single-headed eagle) charged on the centre.",
+  "history": "Frankfurt's white-and-red colours and the imperial eagle date from the city's status as a Free Imperial City of the Holy Roman Empire; coronations of Holy Roman Emperors took place in Frankfurt's cathedral from 1562 onwards.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Frankfurt"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "symbolism": "the historic civic colours of Frankfurt"
+    },
+    {
+      "type": "eagle",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "Crowned single-headed eagle of Frankfurt",
+      "symbolism": "recalls Frankfurt's status as a Free Imperial City and seat of the imperial coronation"
+    }
+  ]
+}

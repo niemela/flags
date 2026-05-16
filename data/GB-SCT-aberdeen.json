@@ -1,0 +1,33 @@
+{
+  "id": "GB-SCT-aberdeen",
+  "name": "Aberdeen (United Kingdom)",
+  "type": ["city"],
+  "parent": "GB-SCT",
+  "codes": {
+    "wikidata": "Q36405"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "red" },
+    { "color": "yellow" },
+    { "color": "white" }
+  ],
+  "description": "A red field bearing three silver (white) towers from the city's coat of arms.",
+  "history": "Based on the historic arms of the city of Aberdeen, granted in 1430.",
+  "periods": [{ "start": "1430~" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Aberdeen"
+  ],
+  "features": [
+    { "type": "solid", "color": "red" },
+    {
+      "type": "building",
+      "count": 3,
+      "color": "white",
+      "position": "center",
+      "role": "Three towers",
+      "symbolism": "the three towers of Aberdeen's medieval defensive walls, from the city's arms"
+    }
+  ]
+}
