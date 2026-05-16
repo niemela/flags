@@ -1,0 +1,76 @@
+{
+  "id": "csa_1865-03",
+  "name": "Confederate States of America (Second National Flag, 1863–1865)",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q1262872"
+  },
+  "region": [
+    "Americas",
+    "Northern America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field — meant by William T. Thompson, who promoted the design, to symbolise (in his openly racist phrasing) \"the cause of a superior race\"; the Confederate Congress that adopted the flag did not officially endorse this interpretation"
+    },
+    {
+      "color": "red",
+      "symbolism": "the field of the battle-flag canton"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the saltire of the battle flag in the canton"
+    }
+  ],
+  "description": "A plain white field, with the Confederate Battle Flag (a red field with a blue saltire fimbriated white, bearing thirteen white stars on the saltire) set as a square canton in the upper hoist.",
+  "history": "Adopted by the Confederate Congress on 1 May 1863 to replace the easily-confused \"Stars and Bars\". Popularly known as the \"Stainless Banner\" because of its plain white field. The design followed editorials by William T. Thompson, editor of the Savannah Morning News, who argued for a flag incorporating the Confederate Army's battle flag (the Southern Cross). The first official use was on 12 May 1863 to drape the coffin of General \"Stonewall\" Jackson as he lay in state in the Virginia Capitol — earning the flag the alternate nickname of the \"Jackson Flag\". The design's mostly-white field tended to look like a flag of truce when hanging limp, contributing to its replacement on 4 March 1865 by the Third National Flag. Note: Thompson's own published rationale for the design (that the white field represented racial \"supremacy\") makes this design a particularly fraught one in its historical reception.",
+  "periods": [
+    {
+      "start": "1863-05-01",
+      "end": "1865-03-04"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_Confederate_States_of_America"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white",
+      "symbolism": "plain white field"
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "proportion": "1/2",
+      "role": "Confederate Battle Flag as a square canton",
+      "symbolism": "the Confederate Battle Flag — a red field with a blue saltire fimbriated white bearing thirteen white five-pointed stars — placed as a square canton at the upper hoist; introduced into the national flag because the army's battle flag had become widely recognised on the battlefield",
+      "features": [
+        {
+          "type": "saltire",
+          "field": "red",
+          "saltire": "blue",
+          "fimbriation": {
+            "color": "white",
+            "around": "saltire"
+          },
+          "symbolism": "the Saint Andrew's saltire of the Southern Cross — a blue saltire fimbriated white on the red battle-flag field"
+        },
+        {
+          "type": "star",
+          "count": 13,
+          "points": 5,
+          "color": "white",
+          "role": "stars on the saltire",
+          "symbolism": "thirteen white stars on the saltire — the eleven seceding states plus Missouri and Kentucky"
+        }
+      ]
+    }
+  ]
+}

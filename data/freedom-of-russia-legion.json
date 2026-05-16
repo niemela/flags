@@ -1,0 +1,45 @@
+{
+  "id": "freedom-of-russia-legion",
+  "name": "Freedom of Russia Legion",
+  "type": ["organization"],
+  "parent": null,
+  "status": "de-facto",
+  "codes": {
+    "wikidata": "Q113061117"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "white", "symbolism": "the outer stripes — the white-blue-white anti-war flag of the Russian opposition" },
+    { "color": "blue", "symbolism": "the central blue stripe — historic Russian heraldic blue" },
+    { "color": "red", "symbolism": "the unit emblem in the canton" }
+  ],
+  "description": "The white-blue-white flag (three equal horizontal stripes) charged in the upper hoist with the red emblem of the Freedom of Russia Legion.",
+  "history": "The Freedom of Russia Legion (Legion 'Svoboda Rossii') is a Russian volunteer military unit fighting alongside the Armed Forces of Ukraine against the Russian Federation. Formally announced in March 2022 and operating under the Ukrainian International Legion, it is composed mainly of Russian citizens and defectors. Its flag adopts the white-blue-white anti-war design of the Russian opposition, charged with the Legion's badge in the canton.",
+  "periods": [
+    { "start": "2022-03" }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Freedom_of_Russia_Legion",
+    "https://en.wikipedia.org/wiki/White-blue-white_flag"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["white", "blue", "white"],
+      "count": 3,
+      "symbolism": "the Russian anti-war white-blue-white tricolour"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "Freedom of Russia Legion emblem"
+    }
+  ]
+}

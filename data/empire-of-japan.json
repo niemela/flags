@@ -1,0 +1,37 @@
+{
+  "id": "empire-of-japan",
+  "name": "Empire of Japan (Rising Sun Flag, 1870–1945)",
+  "type": ["historical", "country"],
+  "codes": {
+    "wikidata": "Q188717"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "white", "symbolism": "the field" },
+    { "color": "red", "symbolism": "the sun and the rays" }
+  ],
+  "description": "A white field bearing a red sun-disc near the centre (offset slightly toward the hoist), with sixteen red rays extending outward to the edges of the flag.",
+  "history": "The Rising Sun Flag (旭日旗 Kyokujitsu-ki) was adopted as the war ensign of the Imperial Japanese Army in 1870 and the Imperial Japanese Navy in 1889. It remained in use until Japan's defeat in 1945. A modified 8-rayed version remains in use by the Japan Maritime Self-Defense Force, while the 16-rayed version is used by the Japan Ground Self-Defense Force.",
+  "variant": ["war"],
+  "periods": [{ "start": "1870", "end": "1945-09-02" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rising_Sun_Flag"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "sun",
+      "rays": 16,
+      "color": "red",
+      "position": "center-hoist",
+      "role": "Rising Sun"
+    }
+  ]
+}

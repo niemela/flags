@@ -1,0 +1,46 @@
+{
+  "id": "mercosur",
+  "name": "Mercosur (Common Market of the South)",
+  "type": ["intergovernmental"],
+  "codes": {
+    "wikidata": "Q47588"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "white", "symbolism": "the field" },
+    { "color": "green", "symbolism": "the lettering and the Southern Cross" },
+    { "color": "blue", "symbolism": "details" }
+  ],
+  "description": "A white field bearing the green name 'MERCOSUR' / 'MERCOSUL' in stylised script, with four green stars representing the Southern Cross constellation.",
+  "history": "Mercosur (Mercado Común del Sur) was established by the Treaty of Asunción in 1991. The flag features the organisation's name and the Southern Cross constellation on a white field.",
+  "periods": [{ "start": "1991-03-26" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mercosur"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "green",
+      "position": "center",
+      "arrangement": "southern-cross",
+      "symbolism": "the Southern Cross constellation, identifying the southern hemisphere"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "MERCOSUR / MERCOSUL lettering"
+    }
+  ]
+}

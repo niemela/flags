@@ -1,0 +1,72 @@
+{
+  "id": "csa_1863",
+  "name": "Confederate States of America (First National Flag, 1861–1863)",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q1262854"
+  },
+  "region": [
+    "Americas",
+    "Northern America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "valour and courage (per the Provisional Confederate Congress's flag committee, echoing the older U.S. tradition)"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and innocence"
+    },
+    {
+      "color": "blue",
+      "symbolism": "vigilance, perseverance and justice — the canton bearing the stars of the seceding states"
+    }
+  ],
+  "description": "Three horizontal stripes of equal height — red, white, red — with a blue square canton in the upper hoist (two-thirds the height of the flag). Inside the canton are white five-pointed stars arranged in a circle.",
+  "history": "The first official national flag of the Confederate States of America, popularly known as the \"Stars and Bars\". Adopted by the Provisional Confederate Congress at Montgomery, Alabama on 4 March 1861 — the same day Abraham Lincoln was inaugurated as U.S. President. Designed by the Prussian-born Alabama artist Nicola Marschall (with rival claims by others). The number of stars in the canton increased as more states acceded: 7 from 4 March 1861, 9 from 21 May 1861, 11 from 2 July 1861, 13 from 28 November 1861 (including the disputed states of Missouri and Kentucky which never effectively seceded). On the battlefield the flag was easily confused with the U.S. flag — particularly at First Manassas / Bull Run — which led to the development of the separate Confederate Battle Flag and ultimately to the replacement of the Stars and Bars by the Stainless Banner on 1 May 1863.",
+  "periods": [
+    {
+      "start": "1861-03-04",
+      "end": "1863-05-01"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_Confederate_States_of_America"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "three horizontal stripes (red-white-red) — drawn directly from the U.S. flag tradition that the Confederacy initially sought to emulate"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "proportion": "2/3",
+      "role": "the canton — bearing white stars in a circle for the states of the Confederacy",
+      "symbolism": "blue canton at the upper hoist (two-thirds the height of the flag) bearing white stars for the seceding states; the number of stars varied between 7 and 13 over the design's lifetime as states acceded",
+      "features": [
+        {
+          "type": "star",
+          "count": 13,
+          "points": 5,
+          "color": "white",
+          "arrangement": "circle",
+          "role": "stars of the Confederate States",
+          "symbolism": "one star per state — at the design's final form, 13 stars (the 11 states that effectively seceded plus Missouri and Kentucky, claimed by the Confederacy though their secessions were never effective)"
+        }
+      ]
+    }
+  ]
+}

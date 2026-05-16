@@ -1,0 +1,44 @@
+{
+  "id": "asean",
+  "name": "Association of Southeast Asian Nations (ASEAN)",
+  "type": ["intergovernmental"],
+  "codes": {
+    "wikidata": "Q7849"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue", "symbolism": "peace and stability" },
+    { "color": "red", "symbolism": "courage and dynamism" },
+    { "color": "white", "symbolism": "purity" },
+    { "color": "yellow", "symbolism": "prosperity" }
+  ],
+  "description": "A blue field bearing centred a red disc with a white border, charged with ten golden rice stalks bound together.",
+  "history": "The flag of ASEAN was officially adopted in 1997. The ten rice stalks represent the ten member states of ASEAN, bound together as a symbol of unity and solidarity.",
+  "periods": [{ "start": "1997" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Association_of_Southeast_Asian_Nations"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "circle",
+      "color": "red",
+      "position": "center",
+      "fimbriation": { "color": "white" }
+    },
+    {
+      "type": "wheat",
+      "count": 10,
+      "color": "yellow",
+      "position": "center",
+      "symbolism": "ten rice stalks bound together representing the ten ASEAN member states united in solidarity"
+    }
+  ]
+}

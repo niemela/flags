@@ -1,0 +1,36 @@
+{
+  "id": "roma",
+  "name": "Romani people",
+  "type": ["ethnic"],
+  "codes": {
+    "wikidata": "Q170485"
+  },
+  "region": [],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue", "symbolism": "the heavens" },
+    { "color": "green", "symbolism": "the earth" },
+    { "color": "red", "symbolism": "the chakra (cartwheel)" }
+  ],
+  "description": "Two horizontal stripes — blue over green — with a red 16-spoked chakra (cartwheel) in the centre.",
+  "history": "The Romani flag was approved at the first World Romani Congress in London in 1971. The cartwheel evokes the Romani journey from India and refers to the Indian flag's chakra, recalling the Romani's Indian origins.",
+  "periods": [{ "start": "1971-04-08" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Romani_flag"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["blue", "green"],
+      "count": 2,
+      "symbolism": "blue for the heavens (sky); green for the earth (and the traveller's life on the road)"
+    },
+    {
+      "type": "wheel",
+      "color": "red",
+      "position": "center",
+      "role": "chakra (16-spoked cartwheel)",
+      "symbolism": "the Romani journey westward from India; recalls the chakra in the flag of India, marking the Romani's Indian origin"
+    }
+  ]
+}

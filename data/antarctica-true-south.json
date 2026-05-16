@@ -1,0 +1,38 @@
+{
+  "id": "antarctica-true-south",
+  "name": "Antarctica (True South flag)",
+  "type": ["organization"],
+  "codes": {
+    "wikidata": "Q105794172"
+  },
+  "region": [
+    "Antarctica"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "navy", "symbolism": "the long polar nights" },
+    { "color": "white", "symbolism": "snow, ice, and the long polar days" }
+  ],
+  "description": "A horizontal bicolour with navy on top and white on bottom, with a centred chevron containing a white triangle (peak) above and a navy triangle (reflection) below — together suggesting a snow-capped mountain reflected in the water, and resembling a stylised compass needle pointing south.",
+  "history": "The True South flag was designed in 2018 by American researcher Evan Townsend during his time at McMurdo Station, Antarctica. It has been adopted unofficially by various Antarctic programs, scientific expeditions, and Antarctic enthusiasts and is one of the most widely recognised Antarctic flag designs.",
+  "status": "alternative",
+  "periods": [{ "start": "2018" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_Antarctica",
+    "https://truesouthflag.com/"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["navy", "white"],
+      "count": 2,
+      "symbolism": "the long polar nights (navy) and long polar days (white)"
+    },
+    {
+      "type": "lozenge",
+      "color": "white",
+      "position": "center",
+      "symbolism": "a white peak above and a navy reflection below — a snow-capped mountain mirrored in the water, also evoking a compass needle pointing south"
+    }
+  ]
+}

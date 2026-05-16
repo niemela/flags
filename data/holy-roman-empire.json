@@ -1,0 +1,35 @@
+{
+  "id": "holy-roman-empire",
+  "name": "Holy Roman Empire (Imperial Banner, c.1400–1806)",
+  "type": ["historical", "country"],
+  "codes": {
+    "wikidata": "Q12548"
+  },
+  "region": ["Europe", "Western Europe", "Eastern Europe", "Southern Europe"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "yellow", "symbolism": "the field — heraldic gold (or)" },
+    { "color": "black", "symbolism": "the eagle — heraldic sable" },
+    { "color": "red", "symbolism": "the eagle's tongue, beak and claws" }
+  ],
+  "description": "A gold (yellow) field bearing a black double-headed eagle facing forward with wings displayed, the heraldic emblem of the Holy Roman Emperor.",
+  "history": "The double-headed eagle on gold (Reichsadler) was used as the Imperial Banner of the Holy Roman Emperor from approximately 1400 (after Sigismund) until the empire's dissolution in 1806. The single-headed black eagle on gold predated this and remained associated with the German Kingship.",
+  "periods": [{ "start": "1400~", "end": "1806-08-06" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Holy_Roman_Empire",
+    "https://en.wikipedia.org/wiki/Reichsadler"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "eagle",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "double-headed Reichsadler"
+    }
+  ]
+}

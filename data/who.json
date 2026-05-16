@@ -1,0 +1,32 @@
+{
+  "id": "who",
+  "name": "World Health Organization",
+  "type": ["intergovernmental"],
+  "codes": {
+    "wikidata": "Q7817"
+  },
+  "region": [],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "light-blue", "symbolism": "the UN family of organisations" },
+    { "color": "white", "symbolism": "the emblem and lettering" }
+  ],
+  "description": "A light-blue field bearing the WHO emblem in the centre — the UN azimuthal world map encircled by olive branches, with a Rod of Asclepius (snake-entwined staff) superimposed — beneath or above the lettering 'WHO'.",
+  "history": "The World Health Organization was established on 7 April 1948. Its flag combines the UN emblem with the Rod of Asclepius — the traditional symbol of medicine.",
+  "periods": [{ "start": "1948-04-07" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/World_Health_Organization"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "seal",
+      "color": "white",
+      "position": "center",
+      "role": "WHO emblem (UN map with Rod of Asclepius)"
+    }
+  ]
+}

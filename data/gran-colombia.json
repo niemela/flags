@@ -1,0 +1,42 @@
+{
+  "id": "gran-colombia",
+  "name": "Gran Colombia (1821–1831)",
+  "type": ["historical", "country"],
+  "codes": {
+    "wikidata": "Q547570"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "yellow", "symbolism": "the gold of the Americas" },
+    { "color": "blue", "symbolism": "the sea separating from Spain" },
+    { "color": "red", "symbolism": "the blood shed in the struggle for independence" }
+  ],
+  "description": "Three horizontal stripes — yellow (top, broader), blue, red — with the coat of arms of Gran Colombia in the centre or upper hoist.",
+  "history": "Gran Colombia was the federation of present-day Colombia, Venezuela, Ecuador, Panama and parts of Peru and Brazil, established under Simón Bolívar after independence from Spain. The yellow-blue-red tricolour, designed by Francisco de Miranda, served as its national flag. After Gran Colombia's dissolution in 1831 the flag was inherited by Colombia, Ecuador and Venezuela in modified forms.",
+  "periods": [{ "start": "1821-10-06", "end": "1831-11-21" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gran_Colombia",
+    "https://en.wikipedia.org/wiki/Flag_of_Gran_Colombia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["yellow", "blue", "red"],
+      "count": 3,
+      "widths": [2, 1, 1]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "color": "blue",
+      "role": "Coat of arms of Gran Colombia"
+    }
+  ]
+}

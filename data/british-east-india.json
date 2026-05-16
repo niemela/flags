@@ -1,0 +1,37 @@
+{
+  "id": "british-east-india",
+  "name": "British East India Company (1801–1858)",
+  "type": ["historical", "organization"],
+  "codes": {
+    "wikidata": "Q188804"
+  },
+  "region": [
+    "Asia",
+    "Southern Asia"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "red", "symbolism": "the red stripes" },
+    { "color": "white", "symbolism": "the white stripes" },
+    { "color": "blue", "symbolism": "the canton" }
+  ],
+  "description": "Thirteen alternating red and white horizontal stripes, with the British Union Flag in the upper hoist canton.",
+  "history": "The flag of the British East India Company. Earlier versions (from the 17th century) used the cross of St George in the canton; after the 1801 Acts of Union the canton became the new Union Flag (with the saltire of St Patrick added). The flag is often cited as a possible inspiration for the early flags of the United States. The Company was dissolved in 1874 but lost its administrative role following the Indian Rebellion of 1857.",
+  "periods": [{ "start": "1801", "end": "1858" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/East_India_Company",
+    "https://en.wikipedia.org/wiki/Flag_of_the_East_India_Company"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["red", "white"],
+      "count": 13
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4"
+    }
+  ]
+}

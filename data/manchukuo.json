@@ -1,0 +1,44 @@
+{
+  "id": "manchukuo",
+  "name": "Manchukuo (1932–1945)",
+  "type": ["historical", "country"],
+  "codes": {
+    "wikidata": "Q161176"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "yellow", "symbolism": "the Manchu — the dominant colour" },
+    { "color": "red", "symbolism": "the Japanese (in the canton)" },
+    { "color": "blue", "symbolism": "the Han Chinese" },
+    { "color": "white", "symbolism": "the Mongols" },
+    { "color": "black", "symbolism": "the Koreans" }
+  ],
+  "description": "A yellow field with a horizontally-striped canton in the upper hoist comprising four narrow stripes — red, blue, white, black, from top to bottom.",
+  "history": "Flag of Manchukuo, the Japanese puppet state established in northeast China in 1932 with the former Qing emperor Puyi as its head. The flag inherited the four colours of the 1912 Republic of China (with yellow added/given dominance) to claim continuity with the Qing imperial tradition. Dissolved with Japan's defeat in 1945.",
+  "periods": [{ "start": "1932-03-01", "end": "1945-08-18" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Manchukuo"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "canton",
+      "color": "yellow",
+      "proportion": "1/3",
+      "features": [
+        {
+          "type": "horizontal-stripes",
+          "stripes": ["red", "blue", "white", "black"],
+          "count": 4
+        }
+      ]
+    }
+  ]
+}

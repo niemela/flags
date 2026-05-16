@@ -1,0 +1,31 @@
+{
+  "id": "red-crescent",
+  "name": "Red Crescent",
+  "type": ["organization"],
+  "codes": {
+    "wikidata": "Q1373183"
+  },
+  "region": [],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "white", "symbolism": "the field — neutrality" },
+    { "color": "red", "symbolism": "the crescent" }
+  ],
+  "description": "A white field charged with a red crescent in the centre, opening towards the fly.",
+  "history": "The Red Crescent emblem was first used by the Ottoman Empire in 1876 and recognised under the 1929 Geneva Convention. It is the protective emblem used by Red Crescent national societies in Muslim-majority countries.",
+  "periods": [{ "start": "1876" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Emblems_of_the_International_Red_Cross_and_Red_Crescent_Movement"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "crescent",
+      "color": "red",
+      "position": "center"
+    }
+  ]
+}

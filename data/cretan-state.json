@@ -1,0 +1,46 @@
+{
+  "id": "cretan-state",
+  "name": "Cretan State (1898–1913)",
+  "type": ["historical", "country"],
+  "codes": {
+    "wikidata": "Q1070625"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue", "symbolism": "the field of the Greek section" },
+    { "color": "white", "symbolism": "the cross" },
+    { "color": "red", "symbolism": "the canton — Ottoman suzerainty" }
+  ],
+  "description": "A blue field with a white cross extending to the edges, with a red canton in the upper hoist bearing a white five-pointed star.",
+  "history": "Flag of the Cretan State, the autonomous polity established on Crete in 1898 under nominal Ottoman suzerainty after the Greco-Turkish War. The blue and white cross represented the Greek population; the red canton signified continued Ottoman suzerainty. The state was dissolved when Crete united with Greece in 1913 following the Balkan Wars.",
+  "periods": [{ "start": "1898-12-09", "end": "1913-12-01" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cretan_State"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "blue",
+      "cross": "white"
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "proportion": "1/4",
+      "features": [
+        {
+          "type": "star",
+          "count": 1,
+          "points": 5,
+          "color": "white",
+          "position": "center"
+        }
+      ]
+    }
+  ]
+}

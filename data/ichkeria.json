@@ -1,0 +1,43 @@
+{
+  "id": "ichkeria",
+  "name": "Chechen Republic of Ichkeria (1991–2000)",
+  "type": ["historical", "country"],
+  "codes": {
+    "wikidata": "Q173305"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Western Asia",
+    "Caucasus",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "green", "symbolism": "Islam" },
+    { "color": "white", "symbolism": "the central stripe and details" },
+    { "color": "red", "symbolism": "the lower stripe and the blood of those who died" },
+    { "color": "yellow", "symbolism": "the wolf — Chechen national symbol" }
+  ],
+  "description": "Three horizontal stripes — green (top, broader), white (narrow), red (bottom) — with a yellow wolf lying beneath a yellow crescent moon and stars on the central white stripe.",
+  "history": "Flag of the Chechen Republic of Ichkeria, the de-facto independent state declared in 1991 in the wake of the Soviet collapse. The state was suppressed during the First and Second Chechen Wars (ending in 2000). The wolf is a Chechen national symbol and the green-white-red colours signal both Islamic identity (green) and revolutionary tradition.",
+  "status": "de-facto",
+  "periods": [{ "start": "1991-11-01", "end": "2000-02-06" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chechen_Republic_of_Ichkeria"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["green", "white", "red"],
+      "count": 3
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "center",
+      "role": "Lying wolf — Chechen national symbol"
+    }
+  ]
+}

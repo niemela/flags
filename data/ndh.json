@@ -1,0 +1,40 @@
+{
+  "id": "ndh",
+  "name": "Independent State of Croatia (1941–1945)",
+  "type": ["historical", "country"],
+  "codes": {
+    "wikidata": "Q165681"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans",
+    "Slavic"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "red", "symbolism": "the upper stripe — Croatian heraldic colours" },
+    { "color": "white", "symbolism": "the central stripe — Croatian heraldic colours" },
+    { "color": "blue", "symbolism": "the lower stripe — Croatian heraldic colours" },
+    { "color": "yellow", "symbolism": "the U-emblem and crown" }
+  ],
+  "description": "Three horizontal stripes — red, white, blue — with the Croatian chequy shield in the centre, surmounted in the upper hoist by the letter 'U' (for Ustaša) above the chequy.",
+  "history": "Flag of the Independent State of Croatia (Nezavisna Država Hrvatska, NDH), the Axis puppet state established by the Ustaše regime under Ante Pavelić in April 1941 following Yugoslavia's invasion. The flag combined the traditional Croatian tricolour with the Ustaše U-emblem. The state was dissolved with Allied victory in May 1945.",
+  "periods": [{ "start": "1941-04-10", "end": "1945-05-15" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Independent_State_of_Croatia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["red", "white", "blue"],
+      "count": 3
+    },
+    {
+      "type": "shield",
+      "position": "center",
+      "color": "red",
+      "role": "Croatian chequy shield with Ustaša 'U' emblem"
+    }
+  ]
+}

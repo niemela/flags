@@ -1,0 +1,44 @@
+{
+  "id": "qing",
+  "name": "Qing Dynasty (Yellow Dragon Flag, 1889–1912)",
+  "type": ["historical", "country"],
+  "codes": {
+    "wikidata": "Q8733"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    { "color": "yellow", "symbolism": "the field — Imperial gold, the colour of the Qing Manchu emperors" },
+    { "color": "blue", "symbolism": "the dragon — the Azure Dragon, the eastern guardian" },
+    { "color": "red", "symbolism": "the flaming pearl pursued by the dragon" }
+  ],
+  "description": "A rectangular yellow field bearing a blue Azure Dragon facing the upper-fly, chasing a red flaming pearl in the upper hoist.",
+  "history": "The Yellow Dragon Flag was the national flag of the Qing dynasty from 1889 to 1912 (replacing an earlier triangular version of 1862). It was the first official national flag of China. Used until the abdication of the last Qing emperor in February 1912.",
+  "periods": [{ "start": "1889", "end": "1912-02-12" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Qing_dynasty"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "dragon",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "Azure Dragon"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "flaming pearl"
+    }
+  ]
+}

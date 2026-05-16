@@ -1,0 +1,38 @@
+{
+  "id": "unesco",
+  "name": "UNESCO",
+  "type": ["intergovernmental"],
+  "codes": {
+    "wikidata": "Q7809"
+  },
+  "region": [],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "light-blue", "symbolism": "the UN family of organisations" },
+    { "color": "white", "symbolism": "the central design and lettering" }
+  ],
+  "description": "A light-blue field bearing the UNESCO emblem — a stylised Greek temple of pillars forming the letters U-N-E-S-C-O — beneath the lettering 'UNESCO'.",
+  "history": "The United Nations Educational, Scientific and Cultural Organization was founded on 16 November 1945. Its emblem and flag use the same UN light blue.",
+  "periods": [{ "start": "1945-11-16" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/UNESCO"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "temple",
+      "color": "white",
+      "position": "center",
+      "role": "UNESCO emblem (stylised Greek temple)"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "UNESCO lettering"
+    }
+  ]
+}

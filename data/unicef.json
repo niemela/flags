@@ -1,0 +1,38 @@
+{
+  "id": "unicef",
+  "name": "UNICEF",
+  "type": ["intergovernmental"],
+  "codes": {
+    "wikidata": "Q7825"
+  },
+  "region": [],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "light-blue", "symbolism": "the UN family of organisations" },
+    { "color": "white", "symbolism": "the central design" }
+  ],
+  "description": "A light-blue field bearing the UNICEF emblem in the centre — a mother holding a child within an outline of the UN azimuthal world map encircled by olive branches — accompanied by the lettering 'UNICEF'.",
+  "history": "The United Nations Children's Fund was established by the General Assembly on 11 December 1946. Its flag and emblem use the UN light blue.",
+  "periods": [{ "start": "1946-12-11" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/UNICEF"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "seal",
+      "color": "white",
+      "position": "center",
+      "role": "UNICEF emblem (mother and child within world map and olive branches)"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "UNICEF lettering"
+    }
+  ]
+}

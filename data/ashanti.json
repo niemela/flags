@@ -1,0 +1,39 @@
+{
+  "id": "ashanti",
+  "name": "Ashanti Kingdom",
+  "type": ["historical", "country"],
+  "codes": {
+    "wikidata": "Q1136313"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Western Africa"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "yellow", "symbolism": "the wealth and royalty of the Asante" },
+    { "color": "black", "symbolism": "the spirits of the ancestors" },
+    { "color": "green", "symbolism": "the land and forests" },
+    { "color": "brown", "symbolism": "the Golden Stool (Sika Dwa Kofi)" }
+  ],
+  "description": "Three horizontal stripes — yellow, black, green — with a brown Golden Stool (Sika Dwa Kofi) centred on the black stripe.",
+  "history": "The flag of the Ashanti Kingdom (Asante Empire), now a constituent kingdom within Ghana. The Golden Stool, central to the flag, is the sacred royal stool said to embody the soul of the Asante nation, descended (according to legend) from the heavens onto the lap of the first Asantehene, Osei Tutu.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ashanti_Empire"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["yellow", "black", "green"],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "Golden Stool (Sika Dwa Kofi)",
+      "symbolism": "the sacred stool of the Asante nation, embodying the soul of the people"
+    }
+  ]
+}

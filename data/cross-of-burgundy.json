@@ -1,0 +1,37 @@
+{
+  "id": "cross-of-burgundy",
+  "name": "Cross of Burgundy",
+  "type": ["historical", "country"],
+  "codes": {
+    "wikidata": "Q623427"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "white", "symbolism": "the field" },
+    { "color": "red", "symbolism": "the cross" }
+  ],
+  "description": "A white field bearing a red 'ragged' saltire — formed of two crossed branches with stub-like cuts (the Burgundian cross).",
+  "history": "The Cross of Burgundy (Cruz de Borgoña / Aspa de Borgoña) originated as the personal device of the Dukes of Burgundy (15th century) and passed via marriage to the Habsburgs. As the war flag of the Spanish Empire from c.1506 to 1843 it was carried throughout the empire, from the Low Countries to the Americas to the Philippines. It survives today on the regimental flags of several Carlist and Spanish military units, and in many regional and municipal arms in Spain and the Americas.",
+  "periods": [{ "start": "1506", "end": "1843" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cross_of_Burgundy"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "saltire",
+      "color": "red",
+      "field": "white",
+      "saltire": "red",
+      "role": "ragged saltire (Cross of Burgundy)"
+    }
+  ]
+}

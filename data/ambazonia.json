@@ -1,0 +1,49 @@
+{
+  "id": "ambazonia",
+  "name": "Ambazonia (proposed)",
+  "type": ["historical", "country"],
+  "codes": {
+    "wikidata": "Q4742413"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Middle Africa",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "status": "de-facto",
+  "colors": [
+    { "color": "blue", "symbolism": "the upper stripe — peace and the Atlantic" },
+    { "color": "white", "symbolism": "the central stripe and the stars" },
+    { "color": "blue", "symbolism": "the lower stripe — repeats the upper" }
+  ],
+  "description": "Three horizontal stripes — blue, white, blue — with a half-circle of small white five-pointed stars on the central white stripe; charged with a black or contrasting central element representing a dove or the territory.",
+  "history": "Flag of the self-declared Federal Republic of Ambazonia, the secessionist movement seeking independence for the Anglophone (former British) regions of Cameroon (Northwest and Southwest provinces). Independence was declared on 1 October 2017 in the context of the ongoing Anglophone Crisis. Internationally unrecognised.",
+  "periods": [{ "start": "2017-10-01" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ambazonia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["blue", "white", "blue"],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "count": 13,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "arrangement": "arc",
+      "symbolism": "the historical counties / divisions of Southern Cameroons"
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "position": "center",
+      "role": "dove of peace"
+    }
+  ]
+}

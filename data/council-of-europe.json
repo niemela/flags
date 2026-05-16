@@ -1,0 +1,38 @@
+{
+  "id": "council-of-europe",
+  "name": "Council of Europe",
+  "type": ["intergovernmental"],
+  "codes": {
+    "wikidata": "Q8908"
+  },
+  "region": [
+    "Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue", "symbolism": "the Western sky" },
+    { "color": "yellow", "symbolism": "perfection, unity and the gold of the stars" }
+  ],
+  "description": "A blue field bearing twelve five-pointed gold stars arranged in a circle.",
+  "history": "The flag of the Council of Europe was designed by Arsène Heitz and adopted by the Committee of Ministers on 8 December 1955. Twelve stars represents perfection and completeness, not the number of member states. The European Union later adopted the same flag in 1985 (formally 1986).",
+  "periods": [{ "start": "1955-12-08" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Europe",
+    "https://www.coe.int/en/web/about-us/the-european-flag"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "star",
+      "count": 12,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "arrangement": "circle",
+      "symbolism": "perfection, completeness and the union of European peoples — twelve being a traditional number of completeness, not a count of member states"
+    }
+  ]
+}

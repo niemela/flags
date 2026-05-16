@@ -1,0 +1,48 @@
+{
+  "id": "oic",
+  "name": "Organisation of Islamic Cooperation",
+  "type": ["intergovernmental"],
+  "codes": {
+    "wikidata": "Q221216"
+  },
+  "region": [
+    "Asia",
+    "Africa",
+    "MENA",
+    "Arab World"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "green", "symbolism": "Islam" },
+    { "color": "white", "symbolism": "purity and the central disc" },
+    { "color": "red", "symbolism": "the central crescent" }
+  ],
+  "description": "A green field bearing centred a white disc charged with a red crescent that surrounds Arabic script (the Kaaba and 'Allahu Akbar').",
+  "history": "The Organisation of Islamic Cooperation (formerly the Organisation of the Islamic Conference) was founded on 25 September 1969. Its flag features the OIC emblem on a green field, the traditional colour of Islam.",
+  "periods": [{ "start": "1969-09-25" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Organisation_of_Islamic_Cooperation"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center"
+    },
+    {
+      "type": "crescent",
+      "color": "red",
+      "position": "center"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "Arabic inscription"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "us-1846",
+  "name": "United States (1846–1847)",
+  "type": ["historical", "country"],
+  "codes": {
+    "iso_3166_1_alpha2": "US",
+    "wikidata": "Q30"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "10:19",
+  "colors": [
+    { "color": "red", "symbolism": "valour and bravery" },
+    { "color": "white", "symbolism": "purity and innocence" },
+    { "color": "navy", "symbolism": "vigilance, perseverance and justice" }
+  ],
+  "description": "Thirteen alternating red and white horizontal stripes, with a navy canton in the upper hoist bearing 28 white five-pointed stars.",
+  "history": "The 28-star flag of the United States, official from 4 July 1846 to 3 July 1847. The 28th star was added for Texas, admitted to the Union on 29 December 1845. Replaced by the 29-star flag in 1847 (when Iowa was admitted).",
+  "periods": [{ "start": "1846-07-04", "end": "1847-07-03" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_United_States"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["red", "white"],
+      "count": 13,
+      "symbolism": "the thirteen original colonies"
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "proportion": "1/4",
+      "features": [
+        {
+          "type": "star",
+          "count": 28,
+          "points": 5,
+          "color": "white",
+          "arrangement": "grid",
+          "rows": [7, 7, 7, 7],
+          "symbolism": "the 28 states then in the union, ending with Texas"
+        }
+      ]
+    }
+  ]
+}

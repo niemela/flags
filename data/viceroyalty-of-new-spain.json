@@ -1,0 +1,40 @@
+{
+  "id": "viceroyalty-of-new-spain",
+  "name": "Viceroyalty of New Spain (1535–1821)",
+  "type": ["historical", "country"],
+  "codes": {
+    "wikidata": "Q160285"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Central America",
+    "Northern America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "white", "symbolism": "the field" },
+    { "color": "red", "symbolism": "the cross — Habsburg Spain's heraldry" }
+  ],
+  "description": "A white field bearing a red 'ragged' saltire — the Cross of Burgundy.",
+  "history": "The Cross of Burgundy on a white field served as the war flag and de-facto identity flag of the Spanish Empire from the early 16th century, including the Viceroyalty of New Spain (covering modern Mexico, Central America, the Caribbean, the Philippines, and southwestern North America). Used until Mexican independence in 1821 and the dissolution of the empire's American holdings.",
+  "periods": [{ "start": "1535-04-17", "end": "1821-09-27" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/New_Spain",
+    "https://en.wikipedia.org/wiki/Cross_of_Burgundy"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "saltire",
+      "field": "white",
+      "saltire": "red",
+      "role": "Cross of Burgundy (ragged saltire)"
+    }
+  ]
+}

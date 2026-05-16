@@ -1,0 +1,38 @@
+{
+  "id": "france-royal",
+  "name": "France (Royal Standard, c.1638–1790)",
+  "type": ["historical", "country"],
+  "codes": {
+    "wikidata": "Q70972"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "white", "symbolism": "the personal colour of the Bourbon monarchs" },
+    { "color": "yellow", "symbolism": "the gold fleurs-de-lis" }
+  ],
+  "description": "A plain white field strewn with gold fleurs-de-lis (semé-de-lis), or sometimes a single gold fleur-de-lis or three fleurs-de-lis on a white field.",
+  "history": "The white royal banner became associated with the French monarchy under the Bourbons in the 17th century. After 1638 it was the standard royal flag of the kings of France. Replaced by the tricolour during the French Revolution (1790) but briefly restored during the Bourbon Restoration (1814–1830). Strongly associated with French royalist (Legitimist) movements thereafter.",
+  "periods": [{ "start": "1638", "end": "1790" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_France",
+    "https://en.wikipedia.org/wiki/Royal_Standard_of_the_King_of_France"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "fleur-de-lis",
+      "count": 3,
+      "color": "yellow",
+      "position": "center",
+      "role": "gold fleurs-de-lis"
+    }
+  ]
+}

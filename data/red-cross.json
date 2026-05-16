@@ -1,0 +1,31 @@
+{
+  "id": "red-cross",
+  "name": "Red Cross",
+  "type": ["organization"],
+  "codes": {
+    "wikidata": "Q190656"
+  },
+  "region": [],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "white", "symbolism": "the field — neutrality" },
+    { "color": "red", "symbolism": "the cross" }
+  ],
+  "description": "A white field charged with a red Greek cross in the centre.",
+  "history": "The Red Cross emblem, recognised under the Geneva Conventions, is the inverse of the Swiss national flag in honour of the Swiss founder of the movement, Henry Dunant. Adopted at the 1864 Geneva Convention.",
+  "periods": [{ "start": "1864" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Emblems_of_the_International_Red_Cross_and_Red_Crescent_Movement"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "center"
+    }
+  ]
+}

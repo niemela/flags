@@ -1,0 +1,45 @@
+{
+  "id": "ottoman",
+  "name": "Ottoman Empire (1844–1922)",
+  "type": ["historical", "country"],
+  "codes": {
+    "wikidata": "Q12560"
+  },
+  "region": [
+    "Europe",
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "MENA",
+    "Balkans"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "red", "symbolism": "the field — traditional colour of the Ottoman state" },
+    { "color": "white", "symbolism": "the crescent and star; Islam" }
+  ],
+  "description": "A red field bearing a white crescent and five-pointed star, opening towards the fly.",
+  "history": "The crescent-and-star flag was officially adopted by the Ottoman Empire in 1844 as part of the Tanzimat reforms, replacing earlier varied banners. It became the basis for the modern Turkish flag (1936) and influenced the flags of many post-Ottoman states.",
+  "periods": [{ "start": "1844", "end": "1922-11-01" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Ottoman_Empire"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "center"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "opec",
+  "name": "Organization of the Petroleum Exporting Countries (OPEC)",
+  "type": ["intergovernmental"],
+  "codes": {
+    "wikidata": "Q7795"
+  },
+  "region": [],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue", "symbolism": "the field" },
+    { "color": "white", "symbolism": "the lettering" }
+  ],
+  "description": "A blue field bearing the white letters 'OPEC' in stylised typography in the centre.",
+  "history": "OPEC was founded in Baghdad on 14 September 1960. The flag uses the organisation's blue colour with white lettering.",
+  "periods": [{ "start": "1960-09-14" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/OPEC"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "OPEC lettering"
+    }
+  ]
+}

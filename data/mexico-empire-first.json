@@ -1,0 +1,43 @@
+{
+  "id": "mexico-empire-first",
+  "name": "First Mexican Empire (1822–1823)",
+  "type": ["historical", "country"],
+  "codes": {
+    "wikidata": "Q461075"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Central America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "4:7",
+  "colors": [
+    { "color": "green", "symbolism": "independence" },
+    { "color": "white", "symbolism": "the Catholic religion" },
+    { "color": "red", "symbolism": "union" },
+    { "color": "yellow", "symbolism": "the imperial crown and details of the eagle" },
+    { "color": "brown", "symbolism": "the eagle's body" }
+  ],
+  "description": "Three vertical stripes — green, white, red — with the Mexican eagle (perched on a cactus, holding a serpent) crowned with the Imperial Crown in the centre.",
+  "history": "The flag of the First Mexican Empire under Emperor Agustín de Iturbide. Adopted on 2 November 1821 (after the Treaty of Córdoba). The design is the same as the modern Mexican flag's tricolour pattern, but the eagle wears the imperial crown rather than the modern republican wreath. The Empire was overthrown in 1823, replaced by the First Mexican Republic.",
+  "periods": [{ "start": "1821-11-02", "end": "1823-04-14" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Mexico",
+    "https://en.wikipedia.org/wiki/First_Mexican_Empire"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": ["green", "white", "red"],
+      "count": 3
+    },
+    {
+      "type": "eagle",
+      "color": "brown",
+      "position": "center",
+      "role": "Mexican eagle crowned with the Imperial Crown"
+    }
+  ]
+}

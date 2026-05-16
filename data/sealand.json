@@ -1,0 +1,38 @@
+{
+  "id": "sealand",
+  "name": "Principality of Sealand",
+  "type": ["country"],
+  "codes": {
+    "wikidata": "Q132408"
+  },
+  "region": [
+    "Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "status": "de-facto",
+  "colors": [
+    { "color": "red", "symbolism": "the diagonal stripe" },
+    { "color": "black", "symbolism": "the upper triangle" },
+    { "color": "white", "symbolism": "the lower triangle and the diagonal divider" }
+  ],
+  "description": "A field divided diagonally from the lower hoist to the upper fly: a black triangle in the upper hoist, a white triangle in the lower fly, with a red stripe along the diagonal.",
+  "history": "Flag of the Principality of Sealand, a self-proclaimed micronation occupying a former World War II sea fort (HM Fort Roughs) in the North Sea, off the coast of Suffolk, England. Declared independence in 1967 by Roy Bates. Internationally unrecognised but is the longest-running and most well-known micronation.",
+  "periods": [{ "start": "1967-09-02" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Principality_of_Sealand"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "black",
+      "bend": "white",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": ["red"],
+      "count": 1,
+      "direction": "bend"
+    }
+  ]
+}

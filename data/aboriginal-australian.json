@@ -1,0 +1,39 @@
+{
+  "id": "aboriginal-australian",
+  "name": "Australian Aboriginal Flag",
+  "type": ["ethnic"],
+  "codes": {
+    "wikidata": "Q723869"
+  },
+  "region": [
+    "Oceania",
+    "Australia and New Zealand"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "black", "symbolism": "the Aboriginal people of Australia" },
+    { "color": "red", "symbolism": "the red earth, ochre and the spiritual relationship with the land" },
+    { "color": "yellow", "symbolism": "the sun, giver and protector of life" }
+  ],
+  "description": "Two horizontal stripes — black on top, red on bottom — with a yellow disc centred on the join.",
+  "history": "Designed by Luritja artist Harold Thomas and first flown on National Aborigines Day in Adelaide on 12 July 1971. Officially proclaimed a Flag of Australia under the Flags Act 1953 on 14 July 1995.",
+  "status": "de-jure",
+  "periods": [{ "start": "1971-07-12" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Australian_Aboriginal_Flag"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["black", "red"],
+      "count": 2,
+      "symbolism": "black for the Aboriginal people; red for the earth and their spiritual connection to it"
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "position": "center",
+      "symbolism": "the sun, the giver of life and protector"
+    }
+  ]
+}

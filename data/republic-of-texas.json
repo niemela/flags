@@ -1,0 +1,45 @@
+{
+  "id": "republic-of-texas",
+  "name": "Republic of Texas (1839–1845)",
+  "type": ["historical", "country"],
+  "codes": {
+    "wikidata": "Q668615"
+  },
+  "region": [
+    "Americas",
+    "Northern America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue", "symbolism": "loyalty" },
+    { "color": "white", "symbolism": "purity" },
+    { "color": "red", "symbolism": "bravery" }
+  ],
+  "description": "A blue vertical band at the hoist (one third of the flag's length) bearing a centred white five-pointed star, with two horizontal stripes — white over red — filling the remainder of the fly.",
+  "history": "The 'Lone Star Flag' of the Republic of Texas, adopted by the Texas Congress on 25 January 1839. It remained the national flag until Texas joined the United States in 1845, after which it became (and remains) the state flag of Texas.",
+  "periods": [{ "start": "1839-01-25", "end": "1845-12-29" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Texas",
+    "https://en.wikipedia.org/wiki/Republic_of_Texas"
+  ],
+  "features": [
+    {
+      "type": "side",
+      "color": "blue",
+      "proportion": "1/3"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["white", "red"],
+      "count": 2
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "hoist",
+      "role": "Lone Star"
+    }
+  ]
+}

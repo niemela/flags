@@ -1,0 +1,35 @@
+{
+  "id": "scania",
+  "name": "Scania (Skåne, Sweden)",
+  "type": ["subdivision"],
+  "parent": "SE",
+  "codes": {
+    "wikidata": "Q26106"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    { "color": "red", "symbolism": "the field" },
+    { "color": "yellow", "symbolism": "the Nordic cross" }
+  ],
+  "description": "A red field with a yellow Nordic cross.",
+  "history": "Unofficial flag of the Swedish historical province (landskap) of Scania, designed in 1902 by Martin Weibull combining the Danish red with a Swedish-style cross. Scania was Danish until ceded to Sweden in 1658. The flag has gained widespread popular use as the symbol of Scanian regional identity.",
+  "status": "alternative",
+  "periods": [{ "start": "1902" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Scania"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "red",
+      "cross": "yellow",
+      "symbolism": "the red field of the Danish flag combined with a yellow cross in the Swedish style — reflecting Scania's history as a Danish province until 1658"
+    }
+  ]
+}

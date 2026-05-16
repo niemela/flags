@@ -1,0 +1,46 @@
+{
+  "id": "british-antarctic-territory",
+  "name": "British Antarctic Territory",
+  "type": ["subdivision"],
+  "parent": "GB",
+  "codes": {
+    "wikidata": "Q35314"
+  },
+  "region": [
+    "Antarctica",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "white", "symbolism": "the field — the snow and ice of Antarctica" },
+    { "color": "red", "symbolism": "the cross of St George and the lion of the territorial arms" },
+    { "color": "blue", "symbolism": "the canton" },
+    { "color": "yellow", "symbolism": "details of the territorial arms" }
+  ],
+  "description": "A British White Ensign — a white field with the cross of St George and the Union Flag in the canton — defaced in the fly with the coat of arms of the British Antarctic Territory.",
+  "history": "Flag of the British Antarctic Territory, a British Overseas Territory comprising part of Antarctica south of 60°S between longitudes 20°W and 80°W. The flag was granted by Queen Elizabeth II in 1963. The current flag (with refinements) has been in use since 1998.",
+  "periods": [{ "start": "1963" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/British_Antarctic_Territory",
+    "https://en.wikipedia.org/wiki/Flag_of_the_British_Antarctic_Territory"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "white",
+      "cross": "red"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center-fly",
+      "color": "white",
+      "role": "Coat of arms of the British Antarctic Territory"
+    }
+  ]
+}

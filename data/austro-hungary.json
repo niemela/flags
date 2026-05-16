@@ -1,0 +1,44 @@
+{
+  "id": "austro-hungary",
+  "name": "Austria-Hungary (1869–1918)",
+  "type": ["historical", "country"],
+  "codes": {
+    "wikidata": "Q28513"
+  },
+  "region": ["Europe", "Eastern Europe", "Western Europe", "Southern Europe"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "black", "symbolism": "the upper Austrian stripe" },
+    { "color": "yellow", "symbolism": "the lower Austrian stripe" },
+    { "color": "red", "symbolism": "the Hungarian stripes" },
+    { "color": "white", "symbolism": "the central Hungarian stripe" },
+    { "color": "green", "symbolism": "details of the coats of arms" }
+  ],
+  "description": "A horizontally divided dual flag — the upper half black-yellow (Austrian Imperial colours) and the lower half red-white-green (Hungarian colours) — with the coats of arms of Austria and Hungary placed centrally on each half.",
+  "history": "The dual monarchy of Austria-Hungary was created by the Compromise of 1867. The 'common' flag combining the colours of both halves, with the two coats of arms, was used by joint Austro-Hungarian institutions (notably the Imperial and Royal armed forces — the k.u.k. Kriegsmarine) until the empire's dissolution in 1918.",
+  "periods": [{ "start": "1869", "end": "1918" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Austria-Hungary"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["black", "yellow", "red", "white", "green"],
+      "count": 5,
+      "widths": [1, 1, 0.66, 0.66, 0.66],
+      "symbolism": "Austrian black-yellow above, Hungarian red-white-green below"
+    },
+    {
+      "type": "coat-of-arms",
+      "color": "yellow",
+      "position": "center-hoist",
+      "role": "Austrian coat of arms (Bindenschild)"
+    },
+    {
+      "type": "coat-of-arms",
+      "color": "red",
+      "position": "center-fly",
+      "role": "Hungarian coat of arms"
+    }
+  ]
+}

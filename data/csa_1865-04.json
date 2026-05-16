@@ -1,0 +1,82 @@
+{
+  "id": "csa_1865-04",
+  "name": "Confederate States of America (Third National Flag, 1865)",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q1262880"
+  },
+  "region": [
+    "Americas",
+    "Northern America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the vertical fly-side bar — added so the Stainless Banner would not be confused for a flag of truce when limp"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the saltire of the battle flag in the canton"
+    }
+  ],
+  "description": "A white field with a vertical red bar at the fly side, bearing in the upper hoist the square Confederate Battle Flag canton (a red field with a blue saltire fimbriated white bearing thirteen white stars).",
+  "history": "Also called the \"Blood-Stained Banner\". Adopted by the Confederate Congress on 4 March 1865 — the Flag Act of 1865 — to address the persistent complaint that the Stainless Banner of 1863 looked like a flag of truce when hanging limp. The fix was simply to add a vertical red bar at the fly. The flag was in use only for about a month before the surrender of the Army of Northern Virginia at Appomattox on 9 April 1865 ended the Confederacy's effective existence; little of it was actually produced.",
+  "periods": [
+    {
+      "start": "1865-03-04",
+      "end": "1865-05-05"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_Confederate_States_of_America"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white",
+      "symbolism": "the white field"
+    },
+    {
+      "type": "side-sinister",
+      "color": "red",
+      "proportion": "1/4",
+      "symbolism": "a vertical red bar on the fly added by the Flag Act of 1865 so that the flag would not be mistaken for a flag of truce when hanging limp — the addition that gave it the nickname \"Blood-Stained Banner\""
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "proportion": "1/2",
+      "role": "Confederate Battle Flag as a square canton",
+      "symbolism": "the same square Confederate Battle Flag canton carried over from the Stainless Banner — a red field with a blue saltire fimbriated white bearing thirteen white five-pointed stars",
+      "features": [
+        {
+          "type": "saltire",
+          "field": "red",
+          "saltire": "blue",
+          "fimbriation": {
+            "color": "white",
+            "around": "saltire"
+          },
+          "symbolism": "the Saint Andrew's saltire of the Southern Cross — a blue saltire fimbriated white on the red battle-flag field"
+        },
+        {
+          "type": "star",
+          "count": 13,
+          "points": 5,
+          "color": "white",
+          "role": "stars on the saltire",
+          "symbolism": "thirteen white stars on the saltire — the eleven seceding states plus Missouri and Kentucky"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "icrc",
+  "name": "International Committee of the Red Cross",
+  "type": ["organization"],
+  "codes": {
+    "wikidata": "Q207305"
+  },
+  "region": [],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "white", "symbolism": "the field — neutrality" },
+    { "color": "red", "symbolism": "the cross" }
+  ],
+  "description": "A white field bearing a red Greek cross in the centre with the surrounding lettering 'COMITÉ INTERNATIONAL GENÈVE'.",
+  "history": "The International Committee of the Red Cross was founded in Geneva in 1863. Its flag is the inverse of the Swiss flag — a tribute to the Swiss origins of the founder Henry Dunant — and is the protective emblem of medical neutrality under the Geneva Conventions.",
+  "periods": [{ "start": "1863" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross",
+    "https://en.wikipedia.org/wiki/Emblems_of_the_International_Red_Cross_and_Red_Crescent_Movement"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "center",
+      "role": "Red Cross"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "lettering 'COMITÉ INTERNATIONAL GENÈVE'"
+    }
+  ]
+}

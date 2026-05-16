@@ -1,0 +1,36 @@
+{
+  "id": "caricom",
+  "name": "Caribbean Community (CARICOM)",
+  "type": ["intergovernmental"],
+  "codes": {
+    "wikidata": "Q188024"
+  },
+  "region": [
+    "Americas",
+    "Caribbean"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "light-blue", "symbolism": "the upper field — the Caribbean Sea" },
+    { "color": "blue", "symbolism": "the lower field — the deeper sea" },
+    { "color": "yellow", "symbolism": "the sun and the central logo" }
+  ],
+  "description": "A field divided horizontally into light blue (upper) and dark blue (lower), charged in the centre with a yellow logo: a stylised circle broken by two narrow lines (representing the letter C and the unity of the member states).",
+  "history": "The Caribbean Community (CARICOM) was established by the Treaty of Chaguaramas in 1973, replacing the earlier CARIFTA. The flag features the organisation's emblem on a blue gradient field representing the Caribbean Sea.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/CARICOM"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["light-blue", "blue"],
+      "count": 2
+    },
+    {
+      "type": "circle",
+      "color": "yellow",
+      "position": "center",
+      "role": "CARICOM logo"
+    }
+  ]
+}

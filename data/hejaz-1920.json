@@ -1,0 +1,41 @@
+{
+  "id": "hejaz-1920",
+  "name": "Kingdom of Hejaz (1920–1925)",
+  "type": ["historical", "country"],
+  "codes": {
+    "wikidata": "Q205105"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "MENA",
+    "Arab World"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "red", "symbolism": "the Hashemite dynasty and the Arab Revolt" },
+    { "color": "white", "symbolism": "the Umayyad caliphate" },
+    { "color": "green", "symbolism": "the Fatimid caliphate" },
+    { "color": "black", "symbolism": "the Abbasid caliphate" }
+  ],
+  "description": "Three horizontal stripes — black, green, white from top to bottom — with a red triangle at the hoist (modified version, 1920–1925, with adjusted proportions of the triangle).",
+  "history": "Modified flag of the Kingdom of Hejaz used 1920–1925 with revised proportions. The kingdom was conquered by Ibn Saud's Sultanate of Nejd in 1925, ending the Hashemite rule of the Hejaz.",
+  "periods": [{ "start": "1920", "end": "1925-12-19" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Hejaz"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["black", "green", "white"],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "field": "white",
+      "triangle": "red",
+      "direction": "hoist"
+    }
+  ]
+}

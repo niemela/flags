@@ -1,0 +1,40 @@
+{
+  "id": "kurdish",
+  "name": "Kurdistan",
+  "type": ["ethnic"],
+  "codes": {
+    "wikidata": "Q205047"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "red", "symbolism": "the blood of Kurdish martyrs" },
+    { "color": "white", "symbolism": "peace and equality" },
+    { "color": "green", "symbolism": "the landscape and beauty of Kurdistan" },
+    { "color": "yellow", "symbolism": "the sun" }
+  ],
+  "description": "Three horizontal stripes — red, white, green — with a yellow sun (with 21 rays) centred on the white stripe.",
+  "history": "First adopted by the Republic of Mahabad (1946). Now used as the flag of the autonomous Kurdistan Region in Iraq (officially since 1992) and as the symbol of Kurdish national identity broadly.",
+  "periods": [{ "start": "1946" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Kurdistan"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["red", "white", "green"],
+      "count": 3
+    },
+    {
+      "type": "sun",
+      "rays": 21,
+      "color": "yellow",
+      "position": "center",
+      "symbolism": "the sun, an ancient Yazidi/Yarsani symbol; 21 rays — 21 being a sacred number in Yazidi tradition"
+    }
+  ]
+}

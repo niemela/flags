@@ -1,0 +1,34 @@
+{
+  "id": "antarctic-treaty",
+  "name": "Antarctic Treaty",
+  "type": ["intergovernmental"],
+  "codes": {
+    "wikidata": "Q193034"
+  },
+  "region": [
+    "Antarctica"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue", "symbolism": "the field" },
+    { "color": "white", "symbolism": "the map of Antarctica" }
+  ],
+  "description": "A blue field bearing a white map of Antarctica in the centre.",
+  "history": "The flag of the Antarctic Treaty was adopted on 13 April 2002 at the XXV Antarctic Treaty Consultative Meeting in Warsaw. It is used at sites and meetings of the Antarctic Treaty System.",
+  "periods": [{ "start": "2002-04-13" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_Antarctica"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "map",
+      "color": "white",
+      "position": "center",
+      "role": "polar projection of Antarctica"
+    }
+  ]
+}
