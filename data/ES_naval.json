@@ -1,0 +1,81 @@
+{
+  "id": "ES_naval",
+  "name": "Spain (naval jack)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q8083253"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Iberian Peninsula",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field of Castile, the pales of Aragon, and the field of Navarre"
+    },
+    {
+      "color": "white",
+      "symbolism": "the field of Leon"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the Castilian castle and Aragonese pales"
+    },
+    {
+      "color": "purple",
+      "symbolism": "the lion of Leon"
+    }
+  ],
+  "description": "A square flag quartered: the gold castle of Castile on red in the first and fourth quarters, the purple lion of Leon on white in the second and third, with the gold-on-red pales of Aragon as a central inescutcheon.",
+  "history": "Adopted on 28 May 1785 by King Charles III as the war ensign and jack of the Spanish Royal Navy.",
+  "variant": [
+    "jack"
+  ],
+  "periods": [
+    {
+      "start": "1785-05-28"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Naval_jack_of_Spain"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "red",
+        "white",
+        "white",
+        "red"
+      ]
+    },
+    {
+      "type": "building",
+      "count": 2,
+      "color": "yellow",
+      "role": "Castles of Castile in the 1st and 4th quarters",
+      "symbolism": "the Kingdom of Castile"
+    },
+    {
+      "type": "lion",
+      "count": 2,
+      "color": "purple",
+      "role": "Lions of Leon in the 2nd and 3rd quarters",
+      "symbolism": "the Kingdom of Leon"
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "Pales of Aragon (central inescutcheon)",
+      "symbolism": "the Crown of Aragon"
+    }
+  ]
+}

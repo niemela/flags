@@ -1,0 +1,46 @@
+{
+  "id": "JE_civil-ensign",
+  "name": "Jersey (civil ensign)",
+  "type": ["subdivision"],
+  "parent": "GB",
+  "codes": {
+    "wikidata": "Q785"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "red", "symbolism": "the Red Ensign field" },
+    { "color": "white", "symbolism": "the Union Flag canton and the central shield" },
+    { "color": "blue", "symbolism": "the Union Flag canton" },
+    { "color": "yellow", "symbolism": "details of the Jersey arms" }
+  ],
+  "description": "A British Red Ensign with the Union Flag in the canton, defaced in the fly with the badge of Jersey: the three leopards (lions passant guardant) of the bailiwick.",
+  "history": "The civil ensign of Jersey is the Red Ensign defaced with the bailiwick's badge.",
+  "variant": ["civil-ensign"],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Jersey"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4"
+    },
+    {
+      "type": "shield",
+      "position": "center-fly",
+      "color": "white",
+      "role": "Badge of Jersey (three leopards)"
+    }
+  ]
+}

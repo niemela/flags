@@ -1,0 +1,40 @@
+{
+  "id": "NO_naval",
+  "name": "Norway (naval ensign)",
+  "type": ["country"],
+  "codes": {
+    "iso_3166_1_alpha2": "NO",
+    "iso_3166_1_alpha3": "NOR",
+    "wikidata": "Q20"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia"
+  ],
+  "shape": "swallowtail",
+  "aspect_ratio": "16:27",
+  "colors": [
+    { "color": "red", "symbolism": "the field of the national flag" },
+    { "color": "white", "symbolism": "the fimbriation of the cross" },
+    { "color": "blue", "symbolism": "the cross" }
+  ],
+  "description": "A swallow-tailed and tongued (tre-tunget) version of the Norwegian flag — a red field with a blue Nordic cross fimbriated white — used as the state and naval ensign.",
+  "history": "The Norwegian naval ensign and state flag is a swallow-tailed-and-tongued version of the national flag, established in 1905 (re-confirmed under the Royal Decree of 17 February 1905) when Norway dissolved the union with Sweden. Used by the Royal Norwegian Navy.",
+  "variant": ["state", "war", "naval-ensign"],
+  "periods": [{ "start": "1905-02-17" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Norway",
+    "https://en.wikipedia.org/wiki/State_flag_and_state_ensign_of_Norway"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "red",
+      "cross": "blue",
+      "fimbriation": { "color": "white", "around": "cross" },
+      "symbolism": "Christianity and ties to the other Nordic nations"
+    }
+  ]
+}

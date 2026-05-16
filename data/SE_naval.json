@@ -1,0 +1,38 @@
+{
+  "id": "SE_naval",
+  "name": "Sweden (naval ensign)",
+  "type": ["country"],
+  "codes": {
+    "iso_3166_1_alpha2": "SE",
+    "iso_3166_1_alpha3": "SWE",
+    "wikidata": "Q34"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "shape": "swallowtail",
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "blue", "symbolism": "loyalty, truth and justice" },
+    { "color": "yellow", "symbolism": "generosity and strength" }
+  ],
+  "description": "A swallow-tailed and tongued (tretungad) version of the Swedish flag — a blue field with a yellow Nordic cross — used as the naval ensign and state ensign.",
+  "history": "The Swedish naval/state ensign (tretungad fana) is a triple-tailed version of the national flag. Used by the Swedish Armed Forces, particularly the Royal Swedish Navy. The current proportions were standardized by the 1906 Swedish Flag Act.",
+  "variant": ["war", "naval-ensign", "state-ensign"],
+  "periods": [{ "start": "1906" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Sweden"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "blue",
+      "cross": "yellow",
+      "symbolism": "Christianity and ties to the other Nordic nations"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "IS_hvitblainn",
+  "name": "Iceland (Hvítbláinn, proposed 1897–1915)",
+  "type": ["country"],
+  "codes": {
+    "iso_3166_1_alpha2": "IS",
+    "wikidata": "Q189"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics"
+  ],
+  "aspect_ratio": "18:25",
+  "colors": [
+    { "color": "blue", "symbolism": "the mountains and the sea" },
+    { "color": "white", "symbolism": "ice and snow" }
+  ],
+  "description": "A blue field bearing a white Nordic cross — the 'Hvítbláinn' (white-and-blue) design.",
+  "history": "Hvítbláinn ('the white-blue') was the unofficial Icelandic independence-movement flag from 1897, designed by Einar Benediktsson. It was widely used by independence campaigners but its similarity to the flag of Greece prevented official adoption. After the 1913 'flag dispute' a red cross was added to produce the modern Icelandic flag, officially adopted in 1915.",
+  "status": "proposed",
+  "periods": [{ "start": "1897", "end": "1915-06-19" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hv%C3%ADtbl%C3%A1inn",
+    "https://en.wikipedia.org/wiki/Flag_of_Iceland"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "blue",
+      "cross": "white",
+      "symbolism": "blue for the mountains and ocean of Iceland; white for ice and snow"
+    }
+  ]
+}

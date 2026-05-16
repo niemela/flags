@@ -1,0 +1,65 @@
+{
+  "id": "DE_naval",
+  "name": "Germany (naval ensign)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q1414378"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "shape": "swallowtail",
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "gold"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the heraldic gold of the federal eagle's beak and claws"
+    }
+  ],
+  "description": "Swallow-tailed black-red-gold tricolour with the federal eagle shield (Bundesschild) at the centre.",
+  "history": "Adopted on 25 May 1956 as the war flag and naval ensign of the Bundeswehr; designed deliberately distinct from the Imperial and Nazi-era German naval ensigns.",
+  "variant": [
+    "naval-ensign",
+    "war"
+  ],
+  "periods": [
+    {
+      "start": "1956-05-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Naval_ensign_of_Germany"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "red",
+        "gold"
+      ],
+      "count": 3,
+      "symbolism": "the German national tricolour, in swallow-tail form"
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "position": "center",
+      "role": "Bundesschild (federal shield)",
+      "symbolism": "marks the ship as belonging to the Bundeswehr (German Federal Navy)"
+    }
+  ]
+}

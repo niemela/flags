@@ -1,0 +1,63 @@
+{
+  "id": "FI_naval",
+  "name": "Finland (state and war flag)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q33"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "European Union"
+  ],
+  "shape": "swallowtail",
+  "aspect_ratio": "11:19",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the heraldic gold of the lion"
+    },
+    {
+      "color": "red",
+      "symbolism": "the heraldic red of the shield"
+    }
+  ],
+  "description": "Swallow-tailed and tongued variant of the Finnish blue Nordic cross on white, with the national coat of arms (a crowned lion on a red shield) at the cross intersection.",
+  "history": "Adopted on 29 May 1918 as the war flag and naval ensign of newly independent Finland; the swallow-tail and the coat-of-arms shield distinguish it from the civil flag.",
+  "variant": [
+    "state",
+    "war",
+    "naval-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1918-05-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Finland#State_flag"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "white",
+      "cross": "blue"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "Coat of arms of Finland (a crowned lion on a red shield)",
+      "symbolism": "national identity"
+    }
+  ]
+}

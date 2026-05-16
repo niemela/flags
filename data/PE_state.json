@@ -1,0 +1,44 @@
+{
+  "id": "PE_state",
+  "name": "Peru (state flag)",
+  "type": ["country"],
+  "codes": {
+    "iso_3166_1_alpha2": "PE",
+    "iso_3166_1_alpha3": "PER",
+    "wikidata": "Q419"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "red", "symbolism": "the blood shed for independence" },
+    { "color": "white", "symbolism": "peace, dignity and progress" },
+    { "color": "yellow", "symbolism": "details of the coat of arms" },
+    { "color": "blue", "symbolism": "details of the coat of arms" },
+    { "color": "green", "symbolism": "the chinchona tree of the coat of arms" }
+  ],
+  "description": "Three vertical stripes — red, white, red — with the coat of arms of Peru centred on the white stripe.",
+  "history": "The state flag of Peru (Pabellón Nacional / Bandera de Estado) is the national tricolour with the national coat of arms in the centre. It is flown over public buildings and government installations. The civil flag (without arms) is used by private citizens.",
+  "variant": ["state"],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Peru"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": ["red", "white", "red"],
+      "count": 3
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "color": "yellow",
+      "role": "Coat of arms of Peru — vicuña, chinchona tree, and cornucopia of gold coins"
+    }
+  ]
+}

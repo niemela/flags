@@ -1,0 +1,46 @@
+{
+  "id": "KY_civil-ensign",
+  "name": "Cayman Islands (civil ensign)",
+  "type": ["subdivision"],
+  "parent": "GB",
+  "codes": {
+    "wikidata": "Q5785"
+  },
+  "region": [
+    "Americas",
+    "Caribbean",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "red", "symbolism": "the Red Ensign field" },
+    { "color": "white", "symbolism": "details" },
+    { "color": "blue", "symbolism": "details" },
+    { "color": "yellow", "symbolism": "details of the territorial arms" },
+    { "color": "green", "symbolism": "details of the territorial arms" }
+  ],
+  "description": "A British Red Ensign with the Union Flag in the canton, defaced in the fly with the coat of arms of the Cayman Islands — three stars on blue and white wavy lines beneath a green chief and a turtle crest.",
+  "history": "The civil ensign of the Cayman Islands is the Red Ensign defaced with the territorial coat of arms.",
+  "variant": ["civil-ensign"],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Cayman_Islands"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center-fly",
+      "color": "white",
+      "role": "Coat of arms of the Cayman Islands"
+    }
+  ]
+}

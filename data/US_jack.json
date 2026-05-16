@@ -1,0 +1,73 @@
+{
+  "id": "US_jack",
+  "name": "United States (jack)",
+  "type": [
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "iso_3166_1_alpha2": "US",
+    "iso_3166_1_alpha3": "USA",
+    "wikidata": "Q1357441"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "71:100",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "vigilance, perseverance and justice — drawn from the canton of the U.S. national flag"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and innocence — the fifty stars of the Union"
+    }
+  ],
+  "description": "A navy-blue field bearing fifty white five-pointed stars arranged in nine offset horizontal rows of six and five (6-5-6-5-6-5-6-5-6) — identical to the canton (\"union\") of the U.S. national flag.",
+  "history": "The jack of the United States is the maritime jack flown on the bow of moored or anchored U.S. Navy ships, U.S. Coast Guard cutters, Military Sealift Command vessels and other federal ships. It consists of the canton of the national flag — the blue field of stars — and was adopted on 14 June 1777 alongside the national flag itself. Each star added to the national flag has been added to the jack also. The current 50-star jack was adopted on 4 July 1960 after Hawaii's admission to the Union. It was temporarily replaced by the First Navy Jack on U.S. Navy warships from 11 September 2002 until 4 June 2019, when use of the 50-star jack was reinstated. (The Coast Guard, Military Sealift Command, NOAA and civilian vessels continued to use the 50-star jack throughout that period.)",
+  "variant": [
+    "jack"
+  ],
+  "periods": [
+    {
+      "start": "1960-07-04",
+      "end": "2002-09-10"
+    },
+    {
+      "start": "2019-06-04"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jack_of_the_United_States"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy",
+      "symbolism": "the navy-blue field of the canton of the U.S. national flag"
+    },
+    {
+      "type": "star",
+      "count": 50,
+      "points": 5,
+      "color": "white",
+      "arrangement": "grid",
+      "rows": [
+        6,
+        5,
+        6,
+        5,
+        6,
+        5,
+        6,
+        5,
+        6
+      ],
+      "role": "fifty stars of the Union",
+      "symbolism": "the fifty states of the Union — identical in arrangement to the canton of the U.S. national flag"
+    }
+  ]
+}

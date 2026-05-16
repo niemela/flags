@@ -1,0 +1,60 @@
+{
+  "id": "JP_naval",
+  "name": "Japan (naval ensign)",
+  "type": [
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q686038"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "purity and honesty"
+    },
+    {
+      "color": "red",
+      "symbolism": "the rising sun and the energy of Japan"
+    }
+  ],
+  "description": "A white field bearing a red sun disc offset toward the hoist, with sixteen red rays extending to the edges of the flag.",
+  "history": "The Rising Sun Flag (Kyokujitsu-ki, 旭日旗) was originally adopted as the war flag of the Imperial Japanese Army on 7 October 1870, and as the naval ensign of the Imperial Japanese Navy on 7 October 1889 (with the sun-disc offset toward the hoist). After World War II it was discontinued, but a slightly modified version was readopted as the ensign of the Japan Maritime Self-Defense Force on 30 June 1954, and the original sixteen-ray Imperial Japanese Army version is used as the regimental colour of the Japan Ground Self-Defense Force.",
+  "variant": [
+    "naval-ensign",
+    "war"
+  ],
+  "periods": [
+    {
+      "start": "1870-10-07",
+      "end": "1945"
+    },
+    {
+      "start": "1954-06-30"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rising_Sun_Flag",
+    "https://en.wikipedia.org/wiki/Naval_ensign_of_Japan"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 16,
+      "color": "red",
+      "position": "center-hoist",
+      "role": "Kyokujitsu (Rising Sun) emblem",
+      "symbolism": "the sun, with sixteen rays radiating to the edge of the flag, evoking Japan's name 'Land of the Rising Sun' and historically the regimental colours of the Imperial Japanese Army and Navy"
+    }
+  ]
+}

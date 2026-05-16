@@ -1,0 +1,44 @@
+{
+  "id": "IS_presidential",
+  "name": "Iceland (presidential standard)",
+  "type": ["country"],
+  "codes": {
+    "iso_3166_1_alpha2": "IS",
+    "wikidata": "Q189"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics"
+  ],
+  "shape": "swallowtail",
+  "aspect_ratio": "9:16",
+  "colors": [
+    { "color": "blue", "symbolism": "the field of the state flag" },
+    { "color": "white", "symbolism": "the cross fimbriation and the central shield" },
+    { "color": "red", "symbolism": "the cross" },
+    { "color": "yellow", "symbolism": "details of the coat of arms" }
+  ],
+  "description": "The Icelandic state flag (swallow-tailed Nordic-cross flag) defaced in the centre with the coat of arms of Iceland — a silver shield with red cross fimbriated white, supported by the four traditional landvættir (land-spirits).",
+  "history": "The standard of the President of Iceland, used by the head of state since the establishment of the republic on 17 June 1944.",
+  "variant": ["presidential-standard"],
+  "periods": [{ "start": "1944-06-17" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Iceland",
+    "https://en.wikipedia.org/wiki/Coat_of_arms_of_Iceland"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "blue",
+      "cross": "red",
+      "fimbriation": { "color": "white", "around": "cross" }
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "color": "white",
+      "role": "Coat of arms of Iceland (with the four landvættir)"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "IS_proposed",
+  "name": "Iceland (proposed flag, 1914)",
+  "type": ["country"],
+  "codes": {
+    "iso_3166_1_alpha2": "IS",
+    "wikidata": "Q189"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics"
+  ],
+  "aspect_ratio": "18:25",
+  "colors": [
+    { "color": "white", "symbolism": "ice and snow" },
+    { "color": "light-blue", "symbolism": "the mountains seen from afar" },
+    { "color": "blue", "symbolism": "the deep ocean" }
+  ],
+  "description": "A white field charged with a Nordic cross of two shades of blue — a wider light-blue cross with a narrower medium-blue inner stripe.",
+  "history": "One of the alternative designs proposed during the Icelandic flag debate of 1913–1915 — featuring two shades of blue on a white field. It was among the candidates considered alongside the eventually-adopted blue/white/red design.",
+  "status": "proposed",
+  "periods": [{ "start": "1913", "end": "1915" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Iceland"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "white",
+      "cross": "light-blue",
+      "fimbriation": { "color": "white", "around": "cross" }
+    }
+  ]
+}

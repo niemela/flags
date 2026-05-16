@@ -1,0 +1,36 @@
+{
+  "id": "IS_state_1944",
+  "name": "Iceland (state flag, 1944–1991)",
+  "type": ["country"],
+  "codes": {
+    "iso_3166_1_alpha2": "IS",
+    "wikidata": "Q189"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics"
+  ],
+  "shape": "swallowtail",
+  "aspect_ratio": "9:16",
+  "colors": [
+    { "color": "blue", "symbolism": "the Atlantic Ocean and the mountains of Iceland" },
+    { "color": "white", "symbolism": "ice and snow" },
+    { "color": "red", "symbolism": "fire from Iceland's volcanoes" }
+  ],
+  "description": "The 1944–1991 state flag of Iceland — a swallow-tailed version of the national flag with the original 1944 deep cobalt blue and brighter red, prior to the colour standardization of 1991.",
+  "history": "When Iceland became a republic on 17 June 1944, the existing flag designs (in use as a kingdom from 1918) were retained. The exact shades were standardized in 1991, slightly darkening the blue and adjusting the red.",
+  "variant": ["state", "naval-ensign"],
+  "periods": [{ "start": "1944-06-17", "end": "1991" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Iceland"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "blue",
+      "cross": "red",
+      "fimbriation": { "color": "white", "around": "cross" }
+    }
+  ]
+}

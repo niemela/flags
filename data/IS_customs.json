@@ -1,0 +1,42 @@
+{
+  "id": "IS_customs",
+  "name": "Iceland (customs flag)",
+  "type": ["country"],
+  "codes": {
+    "iso_3166_1_alpha2": "IS",
+    "wikidata": "Q189"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics"
+  ],
+  "shape": "swallowtail",
+  "aspect_ratio": "9:16",
+  "colors": [
+    { "color": "blue", "symbolism": "the Atlantic Ocean and the mountains" },
+    { "color": "white", "symbolism": "ice and snow" },
+    { "color": "red", "symbolism": "volcanic fire" },
+    { "color": "grey", "symbolism": "the customs letter T (toll)" }
+  ],
+  "description": "The Icelandic state flag (swallow-tailed Nordic-cross flag) defaced in the upper-hoist quadrant with a grey/silver letter 'T' — the symbol of the Icelandic customs (Tollur).",
+  "history": "The Icelandic customs flag is the state ensign with a 'T' added to denote use by the customs authority.",
+  "variant": ["government"],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Iceland"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "blue",
+      "cross": "red",
+      "fimbriation": { "color": "white", "around": "cross" }
+    },
+    {
+      "type": "glyph",
+      "color": "grey",
+      "position": "upper-hoist",
+      "role": "letter T (Tollur — Icelandic customs)"
+    }
+  ]
+}

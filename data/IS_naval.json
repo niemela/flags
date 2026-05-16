@@ -1,0 +1,37 @@
+{
+  "id": "IS_naval",
+  "name": "Iceland (naval ensign)",
+  "type": ["country"],
+  "codes": {
+    "iso_3166_1_alpha2": "IS",
+    "iso_3166_1_alpha3": "ISL",
+    "wikidata": "Q189"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics"
+  ],
+  "shape": "swallowtail",
+  "aspect_ratio": "9:16",
+  "colors": [
+    { "color": "blue", "symbolism": "the Atlantic Ocean and the mountains of Iceland" },
+    { "color": "white", "symbolism": "ice and snow" },
+    { "color": "red", "symbolism": "fire from Iceland's volcanoes" }
+  ],
+  "description": "A swallow-tailed version of the Icelandic flag — a blue field with a white-fimbriated red Nordic cross — used as the state ensign and customs/coast-guard flag.",
+  "history": "The Icelandic state flag (Tjugufáni — 'fork flag') is a swallow-tailed version of the national flag. Used by the Icelandic Coast Guard and Customs Service, and as the official state flag of Iceland.",
+  "variant": ["state", "naval-ensign"],
+  "periods": [{ "start": "1944-06-17" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Iceland"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "blue",
+      "cross": "red",
+      "fimbriation": { "color": "white", "around": "cross" }
+    }
+  ]
+}

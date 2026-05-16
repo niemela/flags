@@ -1,0 +1,45 @@
+{
+  "id": "UA_naval",
+  "name": "Ukraine (naval ensign)",
+  "type": ["country"],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q1135313"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "white", "symbolism": "the field of the ensign — purity and the tradition of European naval white ensigns" },
+    { "color": "blue", "symbolism": "the Cross of Saint Andrew (Saint George's cross in heraldic blue), patron of seafarers; matches the national flag's blue" },
+    { "color": "yellow", "symbolism": "the canton — the national flag's yellow" }
+  ],
+  "description": "A white field charged with a blue Saint George's cross (a couped cross of blue extending to the edges of the flag), with the Ukrainian national flag (blue over yellow) in the canton.",
+  "history": "The current Ukrainian naval ensign was adopted on 20 June 2006 by presidential decree of Viktor Yushchenko, replacing an earlier post-Soviet design. The white-and-blue Saint George's cross with a national canton consciously echoes the Russian Empire's Saint Andrew's ensign and the broader European naval white-ensign tradition.",
+  "variant": ["naval-ensign", "war"],
+  "periods": [
+    { "start": "2006-06-20" }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Naval_Ensign_of_Ukraine",
+    "https://en.wikipedia.org/wiki/Flag_of_Ukraine"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "white",
+      "cross": "blue",
+      "role": "Saint George's cross extending to the edges of the flag"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "UA",
+      "proportion": "1/4",
+      "symbolism": "the national flag of Ukraine"
+    }
+  ]
+}

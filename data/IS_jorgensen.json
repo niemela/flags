@@ -1,0 +1,40 @@
+{
+  "id": "IS_jorgensen",
+  "name": "Iceland (Jørgensen's flag, 1809)",
+  "type": ["historical", "country"],
+  "codes": {
+    "wikidata": "Q381117"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue", "symbolism": "the field" },
+    { "color": "white", "symbolism": "the three stockfish" }
+  ],
+  "description": "A blue field charged with three white stockfish (klipfisk) arranged in a vertical line near the hoist.",
+  "history": "Flag proposed by Jørgen Jørgensen, a Danish-British adventurer who briefly seized power in Iceland during the summer of 1809 (the so-called 'Dog-Days Revolution') and proclaimed himself 'Protector of Iceland'. His regime lasted only two months before he was deposed by the British. The flag was never officially adopted but is the first known design intended specifically as a flag of an independent Iceland.",
+  "status": "historical",
+  "periods": [{ "start": "1809-06-26", "end": "1809-08-22" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/J%C3%B8rgen_J%C3%B8rgensen",
+    "https://en.wikipedia.org/wiki/Icelandic_Revolution"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "animal-other",
+      "count": 3,
+      "color": "white",
+      "position": "hoist",
+      "arrangement": "row",
+      "role": "three stockfish (klipfisk)"
+    }
+  ]
+}

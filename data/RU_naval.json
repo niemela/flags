@@ -1,0 +1,45 @@
+{
+  "id": "RU_naval",
+  "name": "Russia (Saint Andrew's Ensign)",
+  "type": ["country"],
+  "codes": {
+    "wikidata": "Q175140"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field of the flag"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the cross of Saint Andrew, patron saint of Russia and of sailors"
+    }
+  ],
+  "description": "A white field with a blue saltire (the cross of Saint Andrew) extending corner to corner.",
+  "history": "Originally introduced by Peter the Great as the ensign of the Imperial Russian Navy from around 1712; abolished after the 1917 Revolution and replaced by Soviet naval ensigns; restored by presidential decree on 26 July 1992 as the official ensign of the Russian Navy.",
+  "variant": ["naval-ensign", "war"],
+  "periods": [
+    { "start": "1712~", "end": "1917-11-18" },
+    { "start": "1992-07-26" }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Naval_Ensign_of_Russia",
+    "https://en.wikipedia.org/wiki/Flag_of_the_Russian_Navy"
+  ],
+  "features": [
+    {
+      "type": "saltire",
+      "field": "white",
+      "saltire": "blue",
+      "symbolism": "the X-shaped cross of Saint Andrew the Apostle, patron saint of Russia"
+    }
+  ]
+}

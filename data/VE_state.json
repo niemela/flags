@@ -1,0 +1,53 @@
+{
+  "id": "VE_state",
+  "name": "Venezuela (state flag)",
+  "type": ["country"],
+  "codes": {
+    "iso_3166_1_alpha2": "VE",
+    "iso_3166_1_alpha3": "VEN",
+    "wikidata": "Q717"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "South America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "yellow", "symbolism": "the wealth of Venezuela" },
+    { "color": "blue", "symbolism": "the Caribbean Sea separating from Spain" },
+    { "color": "red", "symbolism": "the blood shed in the struggle for independence" },
+    { "color": "white", "symbolism": "the eight stars and details of the arms" }
+  ],
+  "description": "Three horizontal stripes — yellow, blue, red — with an arc of eight white five-pointed stars on the blue stripe and the coat of arms of Venezuela in the upper hoist.",
+  "history": "The state flag of Venezuela bears the national coat of arms in the upper hoist (canton). It is the variant flown by government institutions, while the civil flag (without arms) is used by private citizens. The eighth star — for Guayana — was added in 2006 by President Hugo Chávez.",
+  "variant": ["state"],
+  "periods": [{ "start": "2006-03-12" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Venezuela"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["yellow", "blue", "red"],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "count": 8,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "arrangement": "arc",
+      "symbolism": "the seven provinces that joined the independence movement (Caracas, Cumaná, Barcelona, Barinas, Margarita, Mérida and Trujillo) plus Guayana, added in 2006"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "upper-hoist",
+      "color": "yellow",
+      "role": "Coat of arms of Venezuela"
+    }
+  ]
+}
