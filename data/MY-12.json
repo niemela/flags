@@ -1,0 +1,71 @@
+{
+  "id": "MY-12",
+  "name": "Sabah (Malaysia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "MY",
+  "codes": {
+    "iso_3166_2": "MY-12",
+    "wikidata": "Q177314"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "peace and tranquility"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and justice"
+    },
+    {
+      "color": "red",
+      "symbolism": "courage and sacrifice"
+    },
+    {
+      "color": "navy",
+      "symbolism": "the unity of Sabah's peoples"
+    }
+  ],
+  "description": "A horizontal triband of light blue over white over red, with a dark blue canton in the upper hoist charged with a silhouette of Mount Kinabalu in light blue.",
+  "history": "Sabah, on the northern tip of Borneo, became part of Malaysia in 1963. The current flag — adopted in 1988 — features the silhouette of Mount Kinabalu, the highest mountain in Southeast Asia, in the canton.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Sabah"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "proportion": "1/4",
+      "features": [
+        {
+          "type": "mountain",
+          "color": "light-blue",
+          "position": "center",
+          "role": "Mount Kinabalu"
+        }
+      ],
+      "symbolism": "Mount Kinabalu, the iconic peak of Sabah"
+    }
+  ]
+}

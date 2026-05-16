@@ -1,0 +1,59 @@
+{
+  "id": "GE-AJ",
+  "name": "Adjara (Georgia)",
+  "type": ["subdivision"],
+  "parent": "GE",
+  "codes": {
+    "iso_3166_2": "GE-AJ",
+    "wikidata": "Q5061"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Caucasus",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field of the flag, derived from the Georgian national flag"
+    },
+    {
+      "color": "red",
+      "symbolism": "the central Saint George's cross, derived from the Georgian national flag"
+    },
+    {
+      "color": "blue",
+      "symbolism": "seven blue horizontal stripes representing the seven historical regions of Adjara"
+    }
+  ],
+  "description": "A white field with a central red Saint George's cross, and seven thin blue horizontal stripes alternating with white in the upper-hoist canton.",
+  "history": "Adopted on 8 December 2004 by the Supreme Council of the Adjara Autonomous Republic, after the 2004 Adjara crisis and the return of the region to direct Georgian government control. The flag combines elements of the Georgian national flag — the red Saint George's cross — with seven blue stripes in the canton representing the seven historical regions of Adjara.",
+  "periods": [{ "start": "2004-12-08" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Adjara",
+    "https://en.wikipedia.org/wiki/Adjara"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "white",
+      "cross": "red",
+      "symbolism": "Saint George's cross — drawn from the Georgian national flag"
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "proportion": "1/4",
+      "features": [
+        {
+          "type": "horizontal-stripes",
+          "stripes": ["blue", "white"],
+          "count": 7,
+          "symbolism": "the seven historical regions of Adjara"
+        }
+      ]
+    }
+  ]
+}

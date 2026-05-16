@@ -1,0 +1,31 @@
+{
+  "id": "GB-AGY",
+  "name": "Anglesey (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-WLS",
+  "codes": {
+    "iso_3166_2": "GB-AGY",
+    "wikidata": "Q23052"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "red" },
+    { "color": "white" }
+  ],
+  "description": "A red field with three white chevrons across.",
+  "history": "Based on the historic arms attributed to Hwfa ap Cynddelw, lord of Anglesey; recognised by the Flag Institute as the flag of Anglesey.",
+  "periods": [{ "start": "2014~" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Anglesey"
+  ],
+  "features": [
+    { "type": "solid", "color": "red" },
+    {
+      "type": "chevron",
+      "count": 3,
+      "color": "white",
+      "symbolism": "from the medieval arms attributed to Hwfa ap Cynddelw, the chief of one of the Fifteen Tribes of Gwynedd"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GB-ORK",
+  "name": "Orkney (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-SCT",
+  "codes": {
+    "iso_3166_2": "GB-ORK",
+    "wikidata": "Q1244440"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "yellow" },
+    { "color": "red" }
+  ],
+  "description": "A gold (yellow) field with a red Nordic cross extending to the edges.",
+  "history": "Adopted by Orkney Islands Council in April 2007 after a public competition; recognises Orkney's Norse heritage as a former part of Norway (until 1472). Replaced an unofficial flag.",
+  "periods": [{ "start": "2007-04-19" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Orkney"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "yellow",
+      "cross": "red",
+      "symbolism": "the Nordic cross marks Orkney's Norse heritage; the gold-and-red colours derive from the historic Norwegian royal arms"
+    }
+  ]
+}

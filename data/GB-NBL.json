@@ -1,0 +1,30 @@
+{
+  "id": "GB-NBL",
+  "name": "Northumberland (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-NBL",
+    "wikidata": "Q1240552"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "5:8",
+  "colors": [
+    { "color": "red" },
+    { "color": "yellow" }
+  ],
+  "description": "Eight horizontal alternating stripes of red and yellow.",
+  "history": "Based on the banner attributed in Bede's Ecclesiastical History to King Oswald of Northumbria (c. 604–642). The modern flag was adopted by Northumberland County Council in 1951 (registered with the Flag Institute in 1995).",
+  "periods": [{ "start": "1951" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Northumberland"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["red", "yellow"],
+      "count": 8,
+      "symbolism": "from the banner attributed to St Oswald, the 7th-century King of Northumbria, displayed at his shrine at Bamburgh"
+    }
+  ]
+}

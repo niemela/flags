@@ -1,0 +1,41 @@
+{
+  "id": "GB-SFK",
+  "name": "Suffolk (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-SFK",
+    "wikidata": "Q19792050"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "blue", "symbolism": "the Suffolk coast and skies" },
+    { "color": "yellow", "symbolism": "the gold of the crown of King Edmund the Martyr" }
+  ],
+  "description": "A blue field with two gold crowns of St Edmund above, and a single arrow piercing a crown below.",
+  "history": "Adopted in 2017 after a public competition organised by the Suffolk Society and Suffolk County Council; registered with the Flag Institute on 16 August 2017.",
+  "periods": [{ "start": "2017-08-16" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Suffolk"
+  ],
+  "features": [
+    { "type": "solid", "color": "blue" },
+    {
+      "type": "crown",
+      "count": 2,
+      "color": "yellow",
+      "arrangement": "row",
+      "position": "top",
+      "role": "Two crowns of St Edmund",
+      "symbolism": "King Edmund the Martyr, patron saint of Suffolk and former patron of England"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "Crown pierced by an arrow",
+      "symbolism": "St Edmund's martyrdom by the Danes in 869"
+    }
+  ]
+}

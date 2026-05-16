@@ -1,0 +1,32 @@
+{
+  "id": "GB-POW",
+  "name": "Powys (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-WLS",
+  "codes": {
+    "iso_3166_2": "GB-POW",
+    "wikidata": "Q23058"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "yellow" },
+    { "color": "red" }
+  ],
+  "description": "A yellow field with a red lion rampant.",
+  "history": "Based on the historic arms of the medieval Princes of Powys (Bleddyn ap Cynfyn); recognised as the flag of Powys.",
+  "periods": [{ "start": "2016~" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Powys"
+  ],
+  "features": [
+    { "type": "solid", "color": "yellow" },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "center",
+      "role": "Lion rampant",
+      "symbolism": "from the historic arms of the Princes of Powys"
+    }
+  ]
+}

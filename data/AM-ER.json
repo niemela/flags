@@ -1,0 +1,63 @@
+{
+  "id": "AM-ER",
+  "name": "Yerevan (Armenia)",
+  "type": ["city", "subdivision"],
+  "parent": "AM",
+  "codes": {
+    "iso_3166_2": "AM-ER",
+    "wikidata": "Q3192"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Caucasus",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "drawn from the city's coat of arms — the colour of the lion's field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the gold of the lion and crown on the city arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "the city's coat of arms and Mount Ararat in the background"
+    },
+    {
+      "color": "white",
+      "symbolism": "the snowy peak of Mount Ararat depicted in the arms"
+    }
+  ],
+  "description": "A blue field with twelve small gold stars in a circular arrangement around the central coat of arms of Yerevan — a crowned golden lion before Mount Ararat — bordered above and below by the cross-stitched ornamental band of an Armenian carpet.",
+  "history": "Adopted on 27 September 2004 by the Yerevan City Council, simultaneously with a new coat of arms for the city. Yerevan is both the capital and one of the eleven first-level subdivisions (administered as a separate city of republican significance) of Armenia.",
+  "periods": [{ "start": "2004-09-27" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Yerevan",
+    "https://en.wikipedia.org/wiki/Yerevan"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Coat of arms of Yerevan",
+      "symbolism": "a crowned golden lion in front of Mount Ararat — the symbol of the historical kingdom of Armenia restored to the modern city"
+    },
+    {
+      "type": "star",
+      "points": 5,
+      "count": 12,
+      "color": "yellow",
+      "arrangement": "circle",
+      "position": "center",
+      "symbolism": "the twelve historical capitals of Armenia"
+    }
+  ]
+}

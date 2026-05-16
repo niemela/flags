@@ -1,0 +1,35 @@
+{
+  "id": "GB-IOW",
+  "name": "Isle of Wight (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-IOW",
+    "wikidata": "Q9679"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "white" },
+    { "color": "blue" }
+  ],
+  "description": "A horizontal bicolour of white over blue with the Isle of Wight coat of arms (three diamond-shaped lozenges) at the centre.",
+  "history": "Adopted by the Isle of Wight Council in 2009 following a public competition; replaced an older 'islander' flag.",
+  "periods": [{ "start": "2009" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Isle_of_Wight"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["white", "blue"],
+      "count": 2
+    },
+    {
+      "type": "shield",
+      "position": "center",
+      "role": "Coat of arms with three diamond-shaped lozenges",
+      "symbolism": "from the historic arms of the Isle of Wight"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GB-WIL",
+  "name": "Wiltshire (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-WIL",
+    "wikidata": "Q23183"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "white" },
+    { "color": "green" },
+    { "color": "yellow" },
+    { "color": "black" }
+  ],
+  "description": "A white field with a stylised great bustard standing on the chalk downs.",
+  "history": "Designed by Mike Prior; registered with the Flag Institute as the flag of Wiltshire on 1 December 2009. The bustard is Wiltshire's county bird, reintroduced to Salisbury Plain.",
+  "periods": [{ "start": "2009-12-01" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Wiltshire"
+  ],
+  "features": [
+    { "type": "solid", "color": "white" },
+    {
+      "type": "bird",
+      "position": "center",
+      "role": "Great bustard",
+      "symbolism": "the great bustard, Wiltshire's county bird, reintroduced to Salisbury Plain"
+    }
+  ]
+}

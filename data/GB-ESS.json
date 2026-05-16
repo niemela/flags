@@ -1,0 +1,33 @@
+{
+  "id": "GB-ESS",
+  "name": "Essex (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-ESS",
+    "wikidata": "Q5392574"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "red", "symbolism": "the historic East Saxon banner" },
+    { "color": "yellow", "symbolism": "the gold of the heraldic seaxes" }
+  ],
+  "description": "A red field bearing three gold seaxes (notched Saxon swords) arranged horizontally with the blades pointing upward.",
+  "history": "The arms of the historic Kingdom of Essex (c. 527–825) and later the Essex County Council; recognised as the county flag and registered with the Flag Institute on 19 July 2013.",
+  "periods": [{ "start": "2013-07-19" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Essex"
+  ],
+  "features": [
+    { "type": "solid", "color": "red" },
+    {
+      "type": "sword",
+      "count": 3,
+      "color": "yellow",
+      "arrangement": "row",
+      "role": "Three Saxon notched swords (seaxes)",
+      "symbolism": "the Saxons of Essex; the curved notch on the blade is the eponymous 'seax' from which the East Saxons took their name"
+    }
+  ]
+}

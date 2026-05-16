@@ -1,0 +1,33 @@
+{
+  "id": "GB-SUS",
+  "name": "Sussex (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "wikidata": "Q1244451"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "blue", "symbolism": "the historic blue of the South Saxon arms" },
+    { "color": "yellow", "symbolism": "the gold of the heraldic martlets" }
+  ],
+  "description": "A blue field charged with six gold martlets arranged 3-2-1 (three across, then two, then one).",
+  "history": "Based on arms attributed to the historic Kingdom of Sussex; registered with the Flag Institute on 20 May 2011 as the flag of the historic county.",
+  "periods": [{ "start": "2011-05-20" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Sussex"
+  ],
+  "features": [
+    { "type": "solid", "color": "blue" },
+    {
+      "type": "bird",
+      "count": 6,
+      "color": "yellow",
+      "arrangement": "grid",
+      "rows": [3, 2, 1],
+      "role": "Six gold martlets",
+      "symbolism": "the heraldic martlet (a stylised footless swift); six of them, in the medieval arms attributed to the South Saxon kingdom"
+    }
+  ]
+}

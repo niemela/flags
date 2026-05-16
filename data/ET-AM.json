@@ -1,0 +1,53 @@
+{
+  "id": "ET-AM",
+  "name": "Amhara Region (Ethiopia)",
+  "type": ["subdivision"],
+  "parent": "ET",
+  "codes": {
+    "iso_3166_2": "ET-AM",
+    "wikidata": "Q202156"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Eastern Africa",
+    "Horn of Africa"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the heraldic gold of the Amhara people"
+    },
+    {
+      "color": "red",
+      "symbolism": "the courage of the Amhara people"
+    }
+  ],
+  "description": "A yellow field with a large red triangle issuing from the hoist (forming a per-bend/triangular division) and a yellow Star of Solomon (eight-pointed star) at the centre.",
+  "history": "The Amhara Region is one of the regional states of the Federal Democratic Republic of Ethiopia, established under the 1995 Constitution. The eight-pointed Star of Solomon recalls the Solomonic dynasty that long ruled the Ethiopian highlands.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Amhara_Region",
+    "https://en.wikipedia.org/wiki/Amhara_Region"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "field": "yellow",
+      "triangle": "red",
+      "direction": "hoist"
+    },
+    {
+      "type": "star",
+      "points": 8,
+      "color": "yellow",
+      "position": "center",
+      "role": "Star of Solomon",
+      "symbolism": "the Solomonic dynasty and Ethiopian Christian heritage"
+    }
+  ]
+}

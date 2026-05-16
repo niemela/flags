@@ -1,0 +1,40 @@
+{
+  "id": "GB-DBY",
+  "name": "Derbyshire (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-DBY",
+    "wikidata": "Q23105"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "light-blue" },
+    { "color": "white" },
+    { "color": "green" },
+    { "color": "yellow" }
+  ],
+  "description": "A light-blue field with a green cross fimbriated white, charged at the centre with a gold (yellow) Tudor rose.",
+  "history": "Adopted in 2006 following a poll in the Derby Telegraph and registered with the Flag Institute. The cross uses the green of the Peak District and the colours of Derbyshire's traditional rose; the Tudor rose recalls the dual White-and-Red rose tradition.",
+  "periods": [{ "start": "2006" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Derbyshire"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "light-blue",
+      "cross": "green",
+      "fimbriation": { "color": "white", "around": "cross" },
+      "symbolism": "blue for the Derbyshire skies, green for the Peak District landscape"
+    },
+    {
+      "type": "flower",
+      "color": "yellow",
+      "position": "center",
+      "role": "Tudor rose",
+      "symbolism": "England and Derbyshire's heritage"
+    }
+  ]
+}

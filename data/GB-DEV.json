@@ -1,0 +1,32 @@
+{
+  "id": "GB-DEV",
+  "name": "Devon (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-DEV",
+    "wikidata": "Q1244478"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "green", "symbolism": "the rolling Devon hills" },
+    { "color": "white", "symbolism": "the salt of the surrounding sea" },
+    { "color": "black", "symbolism": "the high moors" }
+  ],
+  "description": "A green field with a black cross fimbriated white extending to the edges (the Cross of Saint Petroc).",
+  "history": "Designed by Ryan Sealey from the winning entry of a 2003 BBC Radio Devon competition; subsequently registered with the Flag Institute and now widely flown by Devon County Council.",
+  "periods": [{ "start": "2003" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Devon"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "green",
+      "cross": "black",
+      "fimbriation": { "color": "white", "around": "cross" },
+      "symbolism": "the cross of St Petroc, patron saint of Devon"
+    }
+  ]
+}

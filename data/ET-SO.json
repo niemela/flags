@@ -1,0 +1,52 @@
+{
+  "id": "ET-SO",
+  "name": "Somali Region (Ethiopia)",
+  "type": ["subdivision"],
+  "parent": "ET",
+  "codes": {
+    "iso_3166_2": "ET-SO",
+    "wikidata": "Q202165"
+  },
+  "region": [
+    "Africa",
+    "Sub-Saharan Africa",
+    "Eastern Africa",
+    "Horn of Africa"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the courage and sacrifice of the region's people"
+    },
+    {
+      "color": "green",
+      "symbolism": "the land and pastoralism"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central charge — peace"
+    }
+  ],
+  "description": "A red field with a green horizontal stripe along the top and a stylised white camel and acacia tree at the centre.",
+  "history": "The Somali Region (also known as Region 5) is one of the regional states of the Federal Democratic Republic of Ethiopia, established under the 1995 Constitution and home to ethnic Somalis in the Ogaden and adjoining areas. The flag's white camel symbolises the central role of pastoralism in the region's economy.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Somali_Region",
+    "https://en.wikipedia.org/wiki/Somali_Region"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["green", "red"],
+      "count": 2,
+      "widths": [1, 2]
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "center",
+      "role": "Camel and acacia tree",
+      "symbolism": "the camel — central to Somali pastoralism — beside an acacia tree"
+    }
+  ]
+}

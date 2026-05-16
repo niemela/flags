@@ -1,0 +1,39 @@
+{
+  "id": "GB-HRT",
+  "name": "Hertfordshire (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-HRT",
+    "wikidata": "Q23138"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "blue" },
+    { "color": "yellow" },
+    { "color": "white" }
+  ],
+  "description": "A blue field with a centred yellow stag (a hart) leaping out of water represented by white wavy lines beneath.",
+  "history": "Designed by JR Loftus and chosen in a 2008 county-wide vote organised by BBC Three Counties Radio; registered with the Flag Institute. The hart-and-water motif puns on the county name (Hertford = 'hart's ford').",
+  "periods": [{ "start": "2008" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Hertfordshire"
+  ],
+  "features": [
+    { "type": "solid", "color": "blue" },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "bottom",
+      "symbolism": "the ford of the river"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "center",
+      "role": "Hart leaping out of water",
+      "symbolism": "the canting (punning) emblem of Hertford — 'hart's ford'"
+    }
+  ]
+}

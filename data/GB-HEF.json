@@ -1,0 +1,44 @@
+{
+  "id": "GB-HEF",
+  "name": "Herefordshire (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-HEF",
+    "wikidata": "Q23116"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "white" },
+    { "color": "red" },
+    { "color": "blue" },
+    { "color": "yellow" }
+  ],
+  "description": "A red and white horizontal bicolour bearing a yellow Herefordshire bull's head and three blue wavy stripes recalling the River Wye.",
+  "history": "Designed by Brady Ells; chosen in a 2019 county-wide poll and registered with the Flag Institute on 26 February 2019. The bull is a reference to the Hereford breed of cattle.",
+  "periods": [{ "start": "2019-02-26" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Herefordshire"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["white", "red"],
+      "count": 2
+    },
+    {
+      "type": "wave",
+      "count": 3,
+      "color": "blue",
+      "symbolism": "the River Wye"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "center",
+      "role": "Hereford bull's head",
+      "symbolism": "the Hereford breed of cattle"
+    }
+  ]
+}

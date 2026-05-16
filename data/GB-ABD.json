@@ -1,0 +1,33 @@
+{
+  "id": "GB-ABD",
+  "name": "Aberdeenshire (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-SCT",
+  "codes": {
+    "iso_3166_2": "GB-ABD",
+    "wikidata": "Q189912"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "blue" },
+    { "color": "white" },
+    { "color": "red" },
+    { "color": "yellow" }
+  ],
+  "description": "A blue field with a white saltire (the Scottish saltire) and superimposed heraldic charges drawn from the arms of Aberdeenshire.",
+  "history": "Recognised by the Flag Institute as the flag of Aberdeenshire.",
+  "periods": [{ "start": "2013~" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Aberdeenshire"
+  ],
+  "features": [
+    {
+      "type": "saltire",
+      "field": "blue",
+      "saltire": "white",
+      "symbolism": "the Scottish saltire of St Andrew"
+    },
+    { "type": "complex", "symbolism": "heraldic charges from the historic arms of Aberdeenshire" }
+  ]
+}

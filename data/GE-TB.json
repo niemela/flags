@@ -1,0 +1,65 @@
+{
+  "id": "GE-TB",
+  "name": "Tbilisi (Georgia)",
+  "type": ["city", "subdivision"],
+  "parent": "GE",
+  "codes": {
+    "iso_3166_2": "GE-TB",
+    "wikidata": "Q994"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Caucasus",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field of the flag, taken from the Georgian national flag"
+    },
+    {
+      "color": "red",
+      "symbolism": "the central cross and the four bolnur-katskhuri crosses, taken from the Georgian national flag"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the heraldic gold of the Tbilisi coat of arms in the canton"
+    }
+  ],
+  "description": "A Georgian-style five-cross flag — a large red Saint George's cross dividing the white field into quarters with smaller red bolnur-katskhuri crosses — with a yellow canton at the upper hoist bearing the coat of arms of Tbilisi.",
+  "history": "Adopted on 27 April 2009 by the Tbilisi City Assembly. The design echoes the Georgian national flag (the five-cross flag of Saint George) and adds a canton with the city's coat of arms.",
+  "periods": [{ "start": "2009-04-27" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Tbilisi",
+    "https://en.wikipedia.org/wiki/Tbilisi"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "white",
+      "cross": "red"
+    },
+    {
+      "type": "greek-cross",
+      "field": "white",
+      "cross": "red",
+      "count": 4,
+      "size": "small",
+      "symbolism": "the four bolnur-katskhuri crosses of the Georgian flag"
+    },
+    {
+      "type": "canton",
+      "color": "yellow",
+      "proportion": "1/4",
+      "features": [
+        {
+          "type": "coat-of-arms",
+          "position": "center",
+          "role": "Coat of arms of Tbilisi"
+        }
+      ]
+    }
+  ]
+}

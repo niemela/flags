@@ -1,0 +1,31 @@
+{
+  "id": "GB-YOR",
+  "name": "Yorkshire (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "wikidata": "Q1244485"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "light-blue", "symbolism": "the historic blue of the House of York" },
+    { "color": "white", "symbolism": "the White Rose of York" }
+  ],
+  "description": "A light-blue field charged with a single white rose at the centre.",
+  "history": "Adopted as the flag of the historic county of Yorkshire on 29 July 2008 (Yorkshire Day); registered with the Flag Institute the same year.",
+  "periods": [{ "start": "2008-07-29" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Yorkshire"
+  ],
+  "features": [
+    { "type": "solid", "color": "light-blue" },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "center",
+      "role": "White Rose of York",
+      "symbolism": "the heraldic badge of the House of York; emblematic of Yorkshire since at least the 14th century"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GB-DOR",
+  "name": "Dorset (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-DOR",
+    "wikidata": "Q1240543"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "yellow", "symbolism": "the sands of the Dorset coast" },
+    { "color": "white", "symbolism": "the chalk cliffs" },
+    { "color": "red", "symbolism": "for St Wite" }
+  ],
+  "description": "A gold (yellow) field with a red cross fimbriated white extending to the edges (the Cross of Saint Wite).",
+  "history": "The 'Dorset Cross' or 'Cross of St Wite' was the winning entry in a 2008 public competition organised by Dorset County Council and BBC Radio Solent; designed by Stephen Coombs.",
+  "periods": [{ "start": "2008" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Dorset"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "yellow",
+      "cross": "red",
+      "fimbriation": { "color": "white", "around": "cross" },
+      "symbolism": "the cross of St Wite (or Candida), Dorset's patron saint"
+    }
+  ]
+}

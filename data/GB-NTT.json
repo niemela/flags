@@ -1,0 +1,39 @@
+{
+  "id": "GB-NTT",
+  "name": "Nottinghamshire (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-NTT",
+    "wikidata": "Q21068213"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "green", "symbolism": "Sherwood Forest" },
+    { "color": "white" },
+    { "color": "yellow", "symbolism": "the gold of the central charge" },
+    { "color": "black", "symbolism": "the figure of Robin Hood" }
+  ],
+  "description": "A green field with a white cross, charged at the centre with a circular badge depicting Robin Hood drawing his longbow.",
+  "history": "The result of a public competition organised by Nottinghamshire County Council and the Nottingham Post in 2011, won by Brian Diggle; registered with the Flag Institute on 25 April 2011.",
+  "periods": [{ "start": "2011-04-25" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Nottinghamshire"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "green",
+      "cross": "white",
+      "symbolism": "the green of Sherwood Forest with a white cross"
+    },
+    {
+      "type": "human-figure",
+      "color": "black",
+      "position": "center",
+      "role": "Robin Hood drawing his bow",
+      "symbolism": "the legendary outlaw of Sherwood Forest, the county's most famous association"
+    }
+  ]
+}

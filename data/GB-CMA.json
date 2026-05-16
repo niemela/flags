@@ -1,0 +1,44 @@
+{
+  "id": "GB-CMA",
+  "name": "Cumbria (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-CMA",
+    "wikidata": "Q23100"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "navy" },
+    { "color": "green" },
+    { "color": "white" },
+    { "color": "yellow" }
+  ],
+  "description": "A field divided per fess green over navy, with a wide white wavy stripe near the lower edge and a yellow rose with green leaves at the centre.",
+  "history": "Designed by Iain Johnson in 2008; registered with the Flag Institute as the flag of Cumbria. Symbolises the lakes (white wavy band), the fells (green), the sea (blue) and the parnassus or 'Grass of Parnassus' flower.",
+  "periods": [{ "start": "2008" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Cumbria"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["green", "navy"],
+      "count": 2,
+      "symbolism": "green for the fells, blue for the sea"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "symbolism": "the Lake District"
+    },
+    {
+      "type": "flower",
+      "color": "yellow",
+      "position": "center",
+      "role": "Grass of Parnassus",
+      "symbolism": "Cumbria's county flower"
+    }
+  ]
+}

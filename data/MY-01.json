@@ -1,0 +1,68 @@
+{
+  "id": "MY-01",
+  "name": "Johor (Malaysia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "MY",
+  "codes": {
+    "iso_3166_2": "MY-01",
+    "wikidata": "Q188085"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the people of Johor"
+    },
+    {
+      "color": "red",
+      "symbolism": "the armed forces"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the Sultan, the head of state"
+    }
+  ],
+  "description": "A blue field with a red rectangle in the upper hoist canton, charged in the centre of the canton with a yellow crescent and a five-pointed yellow star.",
+  "history": "The state flag of Johor in southern Peninsular Malaysia, in use since the late 19th century during the rule of the Johor Sultanate. The dark-blue field represents the people, the red canton the army, and the yellow crescent and star the Sultan and his Islamic faith.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Johor"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "proportion": "1/4",
+      "features": [
+        {
+          "type": "crescent",
+          "color": "yellow",
+          "position": "center"
+        },
+        {
+          "type": "star",
+          "count": 1,
+          "points": 5,
+          "color": "yellow",
+          "position": "center"
+        }
+      ],
+      "symbolism": "a red canton charged with a yellow crescent and star — Islam and the Sultan"
+    }
+  ]
+}

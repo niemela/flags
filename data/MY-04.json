@@ -1,0 +1,76 @@
+{
+  "id": "MY-04",
+  "name": "Malacca (Malaysia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "MY",
+  "codes": {
+    "iso_3166_2": "MY-04",
+    "wikidata": "Q210551"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "courage"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the unity of the people"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "royalty / the Yang di-Pertuan Agong"
+    }
+  ],
+  "description": "A horizontal tricolour of red over white over red with a blue canton in the upper hoist charged with a yellow crescent and a five-pointed yellow star. (Adopted in 1989; the design echoes the national flag.)",
+  "history": "The state flag of Malacca (Melaka), one of the three Malaysian states without a hereditary ruler. The design (1989) is closely modelled on the Jalur Gemilang (national flag): the dark-blue canton with crescent and star represents the federation; the colours echo the national flag.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Malacca"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "proportion": "1/4",
+      "features": [
+        {
+          "type": "crescent",
+          "color": "yellow",
+          "position": "center"
+        },
+        {
+          "type": "star",
+          "count": 1,
+          "points": 5,
+          "color": "yellow",
+          "position": "center"
+        }
+      ]
+    }
+  ]
+}

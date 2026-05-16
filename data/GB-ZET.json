@@ -1,0 +1,30 @@
+{
+  "id": "GB-ZET",
+  "name": "Shetland (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-SCT",
+  "codes": {
+    "iso_3166_2": "GB-ZET",
+    "wikidata": "Q1244448"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue", "symbolism": "from the Scottish saltire — the modern political affiliation" },
+    { "color": "white", "symbolism": "the Nordic cross — the ancient Norse heritage" }
+  ],
+  "description": "A blue field with a white Nordic cross extending to the edges.",
+  "history": "Adopted in 2005 by Shetland Islands Council after a public competition; the design recognises Shetland's dual Norse-Scottish identity (Shetland was Norwegian until 1469).",
+  "periods": [{ "start": "2005" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Shetland"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "blue",
+      "cross": "white",
+      "symbolism": "the Nordic cross asserts Shetland's Norse heritage; the colours match the Scottish saltire"
+    }
+  ]
+}

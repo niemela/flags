@@ -1,0 +1,39 @@
+{
+  "id": "GB-MSY",
+  "name": "Merseyside (United Kingdom, de facto)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-MSY",
+    "wikidata": "Q23070"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "blue" },
+    { "color": "white" },
+    { "color": "yellow" }
+  ],
+  "description": "A blue field with a white wavy band representing the River Mersey, charged with the liver bird of Liverpool.",
+  "history": "An unofficial design representing the metropolitan county of Merseyside. The liver bird is the traditional emblem of Liverpool.",
+  "status": "de-facto",
+  "periods": [{ "start": "2010~" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Merseyside"
+  ],
+  "features": [
+    { "type": "solid", "color": "blue" },
+    {
+      "type": "wave",
+      "color": "white",
+      "symbolism": "the River Mersey"
+    },
+    {
+      "type": "bird",
+      "color": "yellow",
+      "position": "center",
+      "role": "Liver bird",
+      "symbolism": "the legendary cormorant-like bird that is the emblem of Liverpool"
+    }
+  ]
+}

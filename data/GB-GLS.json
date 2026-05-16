@@ -1,0 +1,32 @@
+{
+  "id": "GB-GLS",
+  "name": "Gloucestershire (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-GLS",
+    "wikidata": "Q23119"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "green" },
+    { "color": "white" },
+    { "color": "blue" }
+  ],
+  "description": "A green field with a blue cross fimbriated white extending to the edges (the 'Severn Cross').",
+  "history": "Designed by Bart Lacey and chosen in a 2008 public competition; registered with the Flag Institute on 14 February 2008 as the flag of Gloucestershire. Green represents the Cotswolds, blue and white the River Severn.",
+  "periods": [{ "start": "2008-02-14" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Gloucestershire"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "green",
+      "cross": "blue",
+      "fimbriation": { "color": "white", "around": "cross" },
+      "symbolism": "green for the Cotswold countryside, blue and white for the River Severn"
+    }
+  ]
+}

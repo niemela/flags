@@ -1,0 +1,53 @@
+{
+  "id": "IN-JK",
+  "name": "Jammu and Kashmir (India, 1952–2019)",
+  "type": ["historical", "subdivision"],
+  "parent": "IN",
+  "codes": {
+    "iso_3166_2": "IN-JK",
+    "wikidata": "Q1184949"
+  },
+  "region": [
+    "Asia",
+    "Southern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the blood of the people who toiled and a symbol of the labour movement"
+    },
+    {
+      "color": "white",
+      "symbolism": "the three vertical stripes representing Jammu, the Kashmir Valley, and Ladakh, and the plough representing labour"
+    }
+  ],
+  "description": "A red field with three thin white vertical stripes at the hoist and a white plough oriented toward the fly at the centre.",
+  "history": "Jammu and Kashmir was the only state in India with its own official flag, granted under the special status of Article 370 of the Indian Constitution and adopted on 7 June 1952. The flag ceased to have official status when Article 370 was abrogated and the state was reorganised into the Union Territories of Jammu and Kashmir and Ladakh, taking effect on 31 October 2019.",
+  "periods": [{ "start": "1952-06-07", "end": "2019-10-31" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Jammu_and_Kashmir",
+    "https://en.wikipedia.org/wiki/Jammu_and_Kashmir_(state)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": ["white"],
+      "count": 3,
+      "position": "hoist",
+      "size": "small",
+      "symbolism": "the three regions of the state — Jammu, the Kashmir Valley, and Ladakh"
+    },
+    {
+      "type": "tool",
+      "color": "white",
+      "position": "center-fly",
+      "role": "Plough",
+      "symbolism": "labour and the rural economy of the state"
+    }
+  ]
+}

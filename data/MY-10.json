@@ -1,0 +1,72 @@
+{
+  "id": "MY-10",
+  "name": "Selangor (Malaysia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "MY",
+  "codes": {
+    "iso_3166_2": "MY-10",
+    "wikidata": "Q186230"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the people"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the Sultan and Islam"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity (the crescent and star)"
+    }
+  ],
+  "description": "A field divided per saltire (X-pattern) into red and yellow quarters with a yellow canton in the upper hoist charged with a white crescent and a five-pointed white star.",
+  "history": "The state flag of Selangor, in central Peninsular Malaysia. Adopted in 1965 by the Selangor Sultanate; the colours red and yellow represent the people and the Sultan respectively.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Selangor"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "yellow",
+        "red",
+        "yellow",
+        "red"
+      ]
+    },
+    {
+      "type": "canton",
+      "color": "yellow",
+      "proportion": "1/4",
+      "features": [
+        {
+          "type": "crescent",
+          "color": "white",
+          "position": "center"
+        },
+        {
+          "type": "star",
+          "count": 1,
+          "points": 5,
+          "color": "white",
+          "position": "center"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GB-WOR",
+  "name": "Worcestershire (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-WOR",
+    "wikidata": "Q23184"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "9:5",
+  "colors": [
+    { "color": "blue" },
+    { "color": "white" },
+    { "color": "green" },
+    { "color": "black" }
+  ],
+  "description": "A blue field with white wavy stripes representing rivers, charged at the centre with three black pears (the historic emblem of Worcestershire).",
+  "history": "Based on the historic Worcestershire arms (three pears); registered with the Flag Institute as the flag of Worcestershire on 14 May 2013.",
+  "periods": [{ "start": "2013-05-14" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Worcestershire"
+  ],
+  "features": [
+    { "type": "solid", "color": "blue" },
+    {
+      "type": "wave",
+      "count": 2,
+      "color": "white",
+      "symbolism": "the rivers Severn and Avon"
+    },
+    {
+      "type": "flora",
+      "count": 3,
+      "color": "black",
+      "position": "center",
+      "role": "Three black pears",
+      "symbolism": "the historic emblem of Worcestershire — three black Worcester pears"
+    }
+  ]
+}

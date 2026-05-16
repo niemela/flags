@@ -1,0 +1,41 @@
+{
+  "id": "GB-RUT",
+  "name": "Rutland (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-RUT",
+    "wikidata": "Q23092"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "green" },
+    { "color": "brown" },
+    { "color": "yellow" },
+    { "color": "red" }
+  ],
+  "description": "A green field with a central acorn-and-oak motif and a horseshoe — emblems of England's smallest historic county.",
+  "history": "Adopted by Rutland County Council and registered with the Flag Institute in 2014. The acorn alludes to Rutland's woodland; the horseshoe to the medieval Oakham horseshoe tradition.",
+  "periods": [{ "start": "2014" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Rutland"
+  ],
+  "features": [
+    { "type": "solid", "color": "green" },
+    {
+      "type": "leaf",
+      "color": "brown",
+      "position": "center",
+      "role": "Acorn and oak",
+      "symbolism": "Rutland's woodland heritage"
+    },
+    {
+      "type": "tool",
+      "color": "yellow",
+      "position": "center",
+      "role": "Oakham horseshoe",
+      "symbolism": "the centuries-old Oakham Castle tradition by which visiting nobles forfeit a horseshoe"
+    }
+  ]
+}

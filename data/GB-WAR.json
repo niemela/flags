@@ -1,0 +1,38 @@
+{
+  "id": "GB-WAR",
+  "name": "Warwickshire (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-WAR",
+    "wikidata": "Q23158"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "yellow" },
+    { "color": "red" },
+    { "color": "white" },
+    { "color": "black" }
+  ],
+  "description": "A field divided horizontally yellow over red bearing the chained bear and ragged staff of Warwick.",
+  "history": "Based on the historic Bear and Ragged Staff badge of the Earls of Warwick; registered with the Flag Institute as the flag of Warwickshire on 16 April 2016.",
+  "periods": [{ "start": "2016-04-16" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Warwickshire"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["yellow", "red"],
+      "count": 2
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "center",
+      "role": "Bear and ragged staff",
+      "symbolism": "the historic badge of the Earls of Warwick — a chained bear holding a ragged (knotty) staff"
+    }
+  ]
+}

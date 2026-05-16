@@ -1,0 +1,33 @@
+{
+  "id": "GB-LAN",
+  "name": "Lancashire (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-LAN",
+    "wikidata": "Q3070869"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "yellow", "symbolism": "the gold of the historic Lancastrian arms" },
+    { "color": "red", "symbolism": "the Red Rose of Lancaster" },
+    { "color": "green", "symbolism": "the leaves and stem of the rose" }
+  ],
+  "description": "A gold field with a single red rose (the Red Rose of Lancaster) at the centre.",
+  "history": "Registered with the Flag Institute on 27 November 2008; the Red Rose of Lancaster on gold echoes the medieval livery of the House of Lancaster.",
+  "periods": [{ "start": "2008-11-27" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Lancashire"
+  ],
+  "features": [
+    { "type": "solid", "color": "yellow" },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "center",
+      "role": "Red Rose of Lancaster",
+      "symbolism": "the heraldic badge of the House of Lancaster, in use since the 14th century"
+    }
+  ]
+}

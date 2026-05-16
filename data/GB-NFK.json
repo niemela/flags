@@ -1,0 +1,44 @@
+{
+  "id": "GB-NFK",
+  "name": "Norfolk (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-NFK",
+    "wikidata": "Q21068216"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "yellow" },
+    { "color": "black" },
+    { "color": "white", "symbolism": "the diagonal stripe and central rose" }
+  ],
+  "description": "Field divided diagonally per bend yellow over black, with a wide white diagonal stripe charged with a single white rose at the centre.",
+  "history": "The result of a 2014 Norfolk-wide poll organised by the Friends of Norfolk Dialect; designed by Andrew Rogerson; registered with the Flag Institute on 28 May 2014.",
+  "periods": [{ "start": "2014-05-28" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Norfolk"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "black",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": ["white"],
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "center",
+      "role": "White rose",
+      "symbolism": "the heritage flower of Norfolk"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GB-BKM",
+  "name": "Buckinghamshire (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-BKM",
+    "wikidata": "Q23129"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "red" },
+    { "color": "white" },
+    { "color": "black" },
+    { "color": "yellow" }
+  ],
+  "description": "A red and white field divided per pale, charged with a chained white swan with raised wings.",
+  "history": "Adopted in 2011 after a public competition; the swan derives from the Buckinghamshire county arms and the medieval badge of the de Bohun earls of Buckingham. Registered with the Flag Institute on 19 May 2011.",
+  "periods": [{ "start": "2011-05-19" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Buckinghamshire"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": ["red", "white"],
+      "count": 2
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "position": "center",
+      "role": "Chained swan of Buckingham",
+      "symbolism": "the de Bohun swan, a heraldic badge associated with Buckinghamshire since the medieval period"
+    }
+  ]
+}

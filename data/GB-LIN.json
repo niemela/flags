@@ -1,0 +1,36 @@
+{
+  "id": "GB-LIN",
+  "name": "Lincolnshire (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-LIN",
+    "wikidata": "Q23080"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "green" },
+    { "color": "blue" },
+    { "color": "yellow" },
+    { "color": "red" }
+  ],
+  "description": "A field quartered in green and blue by a yellow cross bordered red, with the colours alternating.",
+  "history": "Designed by schoolgirl Andrea Bowes-Catton (then 13) and selected by public vote in a 2005 BBC Radio Lincolnshire / Lincolnshire Echo competition; registered with the Flag Institute on 24 October 2005. Green represents agricultural land, blue the sea and the historic kingdom of Lindsey.",
+  "periods": [{ "start": "2005-10-24" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Lincolnshire"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": ["blue", "green", "blue", "green"]
+    },
+    {
+      "type": "greek-cross",
+      "color": "yellow",
+      "fimbriation": { "color": "red", "around": "cross" },
+      "symbolism": "the cross fimbriated red separating the four quarters"
+    }
+  ]
+}

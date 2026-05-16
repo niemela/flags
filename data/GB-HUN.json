@@ -1,0 +1,31 @@
+{
+  "id": "GB-HUN",
+  "name": "Huntingdonshire (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "wikidata": "Q1243990"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "green" },
+    { "color": "yellow" }
+  ],
+  "description": "A green field with a yellow hunting horn at the centre.",
+  "history": "Designed in 2009 to recognise the historic county of Huntingdonshire; registered with the Flag Institute on 27 April 2009. The hunting horn refers to the county's name and traditions of royal hunting in the area.",
+  "periods": [{ "start": "2009-04-27" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Huntingdonshire"
+  ],
+  "features": [
+    { "type": "solid", "color": "green" },
+    {
+      "type": "tool",
+      "color": "yellow",
+      "position": "center",
+      "role": "Hunting horn",
+      "symbolism": "a canting (punning) reference to the county name 'Huntingdon' and to the historic royal hunting forests in the area"
+    }
+  ]
+}

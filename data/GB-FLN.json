@@ -1,0 +1,32 @@
+{
+  "id": "GB-FLN",
+  "name": "Flintshire (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-WLS",
+  "codes": {
+    "iso_3166_2": "GB-FLN",
+    "wikidata": "Q23054"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "white" },
+    { "color": "blue" },
+    { "color": "black" }
+  ],
+  "description": "A white field with a black cross overall, with a blue stripe across.",
+  "history": "Recognised by the Flag Institute as the flag of the historic county of Flintshire; the design draws on the arms of the medieval lordship.",
+  "periods": [{ "start": "2018~" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Flintshire"
+  ],
+  "features": [
+    { "type": "solid", "color": "white" },
+    {
+      "type": "greek-cross",
+      "color": "black",
+      "symbolism": "from the historic arms of the lordship of Flint"
+    },
+    { "type": "horizontal-stripes", "stripes": ["blue"], "count": 1 }
+  ]
+}

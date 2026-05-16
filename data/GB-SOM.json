@@ -1,0 +1,32 @@
+{
+  "id": "GB-SOM",
+  "name": "Somerset (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-SOM",
+    "wikidata": "Q23156"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "red" },
+    { "color": "yellow" }
+  ],
+  "description": "A red field charged with a yellow heraldic dragon (the Wessex wyvern).",
+  "history": "Based on arms attributed to the historic county; registered with the Flag Institute on 17 May 2013 as the flag of Somerset.",
+  "periods": [{ "start": "2013-05-17" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Somerset"
+  ],
+  "features": [
+    { "type": "solid", "color": "red" },
+    {
+      "type": "dragon",
+      "color": "yellow",
+      "position": "center",
+      "role": "Wessex wyvern",
+      "symbolism": "the dragon of the historic Kingdom of Wessex, of which Somerset was a part"
+    }
+  ]
+}

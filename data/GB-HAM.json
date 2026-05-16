@@ -1,0 +1,43 @@
+{
+  "id": "GB-HAM",
+  "name": "Hampshire (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-HAM",
+    "wikidata": "Q23117"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "red" },
+    { "color": "yellow" }
+  ],
+  "description": "A red over yellow horizontal bicolour bearing a stylised yellow Tudor rose in the upper portion and a yellow crown in the lower.",
+  "history": "Based on the historic arms of Hampshire (the rose-and-crown emblem of Henry V); the modern flag was adopted by Hampshire County Council and registered with the Flag Institute in 2019.",
+  "periods": [{ "start": "2019" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Hampshire"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["red", "yellow"],
+      "count": 2
+    },
+    {
+      "type": "flower",
+      "color": "yellow",
+      "position": "top",
+      "role": "Tudor rose",
+      "symbolism": "the rose of Hampshire, traditionally associated with Henry V"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "Royal crown",
+      "symbolism": "the crown of Henry V, symbol of the historic Kingdom of Wessex's royal seat at Winchester"
+    }
+  ]
+}

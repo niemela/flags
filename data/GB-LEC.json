@@ -1,0 +1,33 @@
+{
+  "id": "GB-LEC",
+  "name": "Leicestershire (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-LEC",
+    "wikidata": "Q23069"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "white" },
+    { "color": "red" },
+    { "color": "yellow" }
+  ],
+  "description": "A white field charged with a red five-petalled cinquefoil (the badge of the Earls of Leicester).",
+  "history": "Based on the cinquefoil badge of the historic Earls of Leicester; registered with the Flag Institute as the flag of Leicestershire on 7 February 2021.",
+  "periods": [{ "start": "2021-02-07" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Leicestershire"
+  ],
+  "features": [
+    { "type": "solid", "color": "white" },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "center",
+      "role": "Cinquefoil of Leicester",
+      "symbolism": "the heraldic five-petalled cinquefoil, badge of the Earls of Leicester since the 12th century"
+    }
+  ]
+}

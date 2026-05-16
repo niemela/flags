@@ -1,0 +1,33 @@
+{
+  "id": "GB-GWN",
+  "name": "Gwynedd (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-WLS",
+  "codes": {
+    "iso_3166_2": "GB-GWN",
+    "wikidata": "Q23055"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "yellow" },
+    { "color": "red" }
+  ],
+  "description": "A field quartered yellow and red, bearing four lions counter-changed (the arms of Llywelyn ap Gruffudd).",
+  "history": "Based on the historic arms of Llywelyn ap Gruffudd, the last sovereign Prince of Wales (d. 1282), and the medieval Kingdom of Gwynedd; recognised as the flag of Gwynedd.",
+  "periods": [{ "start": "1996~" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Gwynedd"
+  ],
+  "features": [
+    { "type": "quartered", "quarters": ["yellow", "red", "yellow", "red"] },
+    {
+      "type": "lion",
+      "count": 4,
+      "arrangement": "grid",
+      "rows": [2, 2],
+      "role": "Four lions passant counter-changed",
+      "symbolism": "the arms of Llywelyn ap Gruffudd, the last sovereign Prince of Wales"
+    }
+  ]
+}

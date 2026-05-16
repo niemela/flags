@@ -1,0 +1,32 @@
+{
+  "id": "GB-STS",
+  "name": "Staffordshire (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-STS",
+    "wikidata": "Q23159"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "yellow" },
+    { "color": "red" }
+  ],
+  "description": "A yellow field with a red Stafford knot at the centre.",
+  "history": "Based on the Stafford knot, the historic emblem of the medieval Earls of Stafford and of Staffordshire. Registered with the Flag Institute as the county flag of Staffordshire on 30 April 2016.",
+  "periods": [{ "start": "2016-04-30" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Staffordshire"
+  ],
+  "features": [
+    { "type": "solid", "color": "yellow" },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "Stafford knot",
+      "symbolism": "the heraldic Stafford knot, the historic badge of Staffordshire and the Earls of Stafford"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GB-KEN",
+  "name": "Kent (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-KEN",
+    "wikidata": "Q1233183"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "red", "symbolism": "the gules of the historic Kentish arms" },
+    { "color": "white", "symbolism": "the rampant horse, Invicta" }
+  ],
+  "description": "A red field with a rampant white horse at the centre.",
+  "history": "Used by the Kent County Council since 1933 and registered with the Flag Institute in 2002; based on much older heraldic associations of the white horse with Kent dating back to traditions of the 8th-century chronicler Bede.",
+  "periods": [{ "start": "1933" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Kent"
+  ],
+  "features": [
+    { "type": "solid", "color": "red" },
+    {
+      "type": "horse",
+      "color": "white",
+      "position": "center",
+      "role": "Invicta — the white horse of Kent",
+      "symbolism": "the legendary white horse of the Jutish king Hengist; 'Invicta' (unconquered) refers to the tradition that Kent never submitted to William the Conqueror"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GB-CON",
+  "name": "Cornwall (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-CON",
+    "wikidata": "Q1075814"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "black", "symbolism": "the dark hearthstone / black tin ore" },
+    { "color": "white", "symbolism": "the molten tin / pure metal" }
+  ],
+  "description": "A black field with a white cross extending to the edges (Saint Piran's Flag).",
+  "history": "Saint Piran's Flag has been the symbol of Cornwall and the Cornish people since at least the 19th century, with origins traced to St Piran, the patron saint of tinners. Widely flown at Cornish cultural events and recognised by the Flag Institute as the flag of Cornwall.",
+  "periods": [{ "start": "1838~" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Piran%27s_Flag"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "black",
+      "cross": "white",
+      "symbolism": "according to legend, St Piran (5th century) saw a white tin trickle out of a black hearthstone — taking it as a sign and producing the white-on-black cross"
+    }
+  ]
+}

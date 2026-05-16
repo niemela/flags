@@ -1,0 +1,69 @@
+{
+  "id": "GE-AB",
+  "name": "Abkhazia (Georgia)",
+  "type": ["subdivision"],
+  "parent": "GE",
+  "codes": {
+    "iso_3166_2": "GE-AB",
+    "wikidata": "Q23334"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Caucasus",
+    "Post-Soviet"
+  ],
+  "status": "de-facto",
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "Islam and the alternating broad horizontal stripes"
+    },
+    {
+      "color": "white",
+      "symbolism": "Christianity, the alternating stripes, and the seven stars and the open hand"
+    },
+    {
+      "color": "red",
+      "symbolism": "the canton — recalling the medieval Kingdom of Abkhazia"
+    }
+  ],
+  "description": "Seven horizontal stripes alternating green and white, with a red rectangular canton at the upper hoist bearing a white open right hand and seven white five-pointed stars in an arc above it.",
+  "history": "Adopted on 23 July 1992 by the Supreme Council of the de-facto Abkhaz Republic. The seven stripes and seven stars represent the seven historical regions of Abkhazia. Abkhazia is internationally recognised as a Georgian autonomous republic but has been administered as a de-facto independent state since the 1992–1993 war; the flag is used in this de-facto capacity.",
+  "periods": [{ "start": "1992-07-23" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Abkhazia",
+    "https://en.wikipedia.org/wiki/Abkhazia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["green", "white"],
+      "count": 7,
+      "symbolism": "the seven historical regions of Abkhazia"
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "proportion": "3/8",
+      "features": [
+        {
+          "type": "hand",
+          "color": "white",
+          "position": "center",
+          "symbolism": "an open right hand — the Abkhaz greeting and the medieval kingdom's emblem"
+        },
+        {
+          "type": "star",
+          "points": 5,
+          "count": 7,
+          "color": "white",
+          "arrangement": "arc",
+          "position": "top",
+          "symbolism": "the seven historical regions"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "MY-02",
+  "name": "Kedah (Malaysia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "MY",
+  "codes": {
+    "iso_3166_2": "MY-02",
+    "wikidata": "Q210555"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the people"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the Sultan"
+    },
+    {
+      "color": "green",
+      "symbolism": "Islam and the agricultural prosperity of the rice fields"
+    }
+  ],
+  "description": "A red field with a yellow rectangular canton in the upper hoist, charged with a green wreath of paddy stalks surmounted by a crescent moon.",
+  "history": "The state flag of Kedah, one of Malaysia's northern states. The yellow canton represents the Sultan; the red field represents the people; the wreath of paddy refers to Kedah's role as the rice bowl of Malaysia.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Kedah"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "canton",
+      "color": "yellow",
+      "proportion": "1/4",
+      "features": [
+        {
+          "type": "crescent",
+          "color": "green",
+          "position": "center"
+        },
+        {
+          "type": "wheat",
+          "color": "green",
+          "position": "center",
+          "role": "wreath of paddy stalks"
+        }
+      ],
+      "symbolism": "a yellow canton charged with a green wreath of paddy and crescent — the Sultan's authority and Kedah as the rice bowl of Malaysia"
+    }
+  ]
+}

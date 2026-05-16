@@ -1,0 +1,41 @@
+{
+  "id": "GB-CHE",
+  "name": "Cheshire (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-CHE",
+    "wikidata": "Q23090"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "blue" },
+    { "color": "yellow" },
+    { "color": "red" }
+  ],
+  "description": "A blue field bearing a yellow wheatsheaf between three yellow wheatsheaves and a sword in the lower hoist, with the field divided to suggest a sword across — based on the arms of the Earls of Chester.",
+  "history": "Based on the arms of the historic Earldom of Chester; registered with the Flag Institute as the county flag of Cheshire on 7 June 2013.",
+  "periods": [{ "start": "2013-06-07" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Cheshire"
+  ],
+  "features": [
+    { "type": "solid", "color": "blue" },
+    {
+      "type": "wheat",
+      "count": 3,
+      "color": "yellow",
+      "arrangement": "grid",
+      "rows": [2, 1],
+      "role": "Three wheatsheaves (garbs)",
+      "symbolism": "from the arms of the Earls of Chester"
+    },
+    {
+      "type": "sword",
+      "color": "yellow",
+      "role": "Sword of the Earl of Chester",
+      "symbolism": "the ceremonial sword of the Earldom"
+    }
+  ]
+}

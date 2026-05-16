@@ -1,0 +1,30 @@
+{
+  "id": "GB-DUR",
+  "name": "County Durham (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-DUR",
+    "wikidata": "Q23109"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "blue" },
+    { "color": "yellow" }
+  ],
+  "description": "A blue field bearing a yellow cross of Saint Cuthbert (a cross with each arm ending in four small balls / pommels).",
+  "history": "Based on the cross of Saint Cuthbert (the patron saint of Durham); chosen in a public competition organised by Durham County Council and registered with the Flag Institute on 21 November 2013.",
+  "periods": [{ "start": "2013-11-21" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_County_Durham"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "blue",
+      "cross": "yellow",
+      "symbolism": "the cross of Saint Cuthbert, patron saint of County Durham; the four balls on each arm refer to the cross's heraldic 'pommetty' form"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GB-BRK",
+  "name": "Berkshire (United Kingdom)",
+  "type": ["subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "wikidata": "Q23147"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "blue" },
+    { "color": "white" },
+    { "color": "yellow" },
+    { "color": "red" }
+  ],
+  "description": "A blue field with a white stag standing beneath a stylised oak tree.",
+  "history": "Designed in 2017 by David Smith and chosen in a public competition; registered with the Flag Institute on 11 January 2017. The hart and oak refer to Windsor Forest and the historic arms of Berkshire.",
+  "periods": [{ "start": "2017-01-11" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Berkshire"
+  ],
+  "features": [
+    { "type": "solid", "color": "blue" },
+    {
+      "type": "tree",
+      "color": "yellow",
+      "position": "center",
+      "role": "Stylised oak tree",
+      "symbolism": "Windsor Forest and the Royal Oak"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "center",
+      "role": "Stag (hart) beneath the oak",
+      "symbolism": "from the arms of Berkshire and the royal forest"
+    }
+  ]
+}
