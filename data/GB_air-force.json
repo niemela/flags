@@ -1,0 +1,57 @@
+{
+  "id": "GB_air-force",
+  "name": "United Kingdom (Royal Air Force Ensign)",
+  "type": [
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q1392364"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "light-blue", "symbolism": "'air force blue', derived from the light blue RAF uniform introduced in 1920" },
+    { "color": "navy", "symbolism": "the blue of the Union canton and the outer ring of the roundel" },
+    { "color": "white", "symbolism": "the white details of the canton and the middle ring of the roundel" },
+    { "color": "red", "symbolism": "the red details of the canton and the centre of the roundel" }
+  ],
+  "symbolism": null,
+  "description": "An air-force-blue field with the Union Flag in the canton and the Royal Air Force roundel (concentric red, white and blue rings) in the centre of the fly.",
+  "history": "The Royal Air Force Ensign was approved by the Admiralty in December 1920 and ratified by an Order in Council signed by the King on 24 March 1921, after initial opposition from the Royal Navy. The air-force-blue field matches the RAF uniform introduced in 1920.",
+  "variant": [
+    "war"
+  ],
+  "periods": [
+    { "start": "1921" }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Royal_Air_Force_Ensign"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue",
+      "symbolism": "'air force blue', the colour of the RAF"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Flag, marking the ensign as British"
+    },
+    {
+      "type": "disc",
+      "color": "red",
+      "position": "center-fly",
+      "role": "Royal Air Force roundel",
+      "symbolism": "concentric red, white and blue rings — the RAF roundel"
+    }
+  ]
+}

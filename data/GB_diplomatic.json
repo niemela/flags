@@ -1,0 +1,53 @@
+{
+  "id": "GB_diplomatic",
+  "name": "United Kingdom (Diplomatic Flag)",
+  "type": [
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q113977625"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "navy", "symbolism": "the blue of the Union Flag field" },
+    { "color": "white", "symbolism": "the central disc and the white of the Union Flag" },
+    { "color": "red", "symbolism": "the red of the Union Flag" },
+    { "color": "gold", "symbolism": "the Royal Arms and surrounding garland" }
+  ],
+  "symbolism": null,
+  "description": "The Union Flag defaced in the centre with the Royal Arms of the United Kingdom on a white disc, encircled by a garland.",
+  "history": "Flown by British ambassadors, ministers and chargés d'affaires over embassies and legations on prescribed days and when afloat. The defacement — the Royal Arms on a white roundel within a garland — distinguishes the diplomatic flag from the plain Union Flag and from consular flags (which bear a crown or the arms without the white disc).",
+  "variant": [
+    "government"
+  ],
+  "sources": [
+    "https://www.fotw.info/flags/gb-cons.html"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "symbolism": "the Union Flag of the United Kingdom forms the field"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center",
+      "role": "white roundel behind the Royal Arms"
+    },
+    {
+      "type": "coat-of-arms",
+      "color": "gold",
+      "position": "center",
+      "role": "Royal Arms of the United Kingdom within a garland",
+      "symbolism": "the sovereign's arms, marking the diplomatic service"
+    }
+  ]
+}

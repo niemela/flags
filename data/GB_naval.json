@@ -1,0 +1,52 @@
+{
+  "id": "GB_naval",
+  "name": "United Kingdom (White Ensign)",
+  "type": [
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q1262787"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "white", "symbolism": "the field of the ensign" },
+    { "color": "red", "symbolism": "the Cross of St George" },
+    { "color": "navy", "symbolism": "the blue of the Union canton" }
+  ],
+  "symbolism": null,
+  "description": "A white field bearing the red Cross of St George extending to the edges, with the Union Flag in the canton.",
+  "history": "The White Ensign became the sole ensign of the Royal Navy in 1864, when the colour-coded squadron system (red, white and blue squadrons) was abolished. It is also flown by the Royal Yacht Squadron and at Royal Navy shore establishments.",
+  "variant": [
+    "naval-ensign",
+    "war"
+  ],
+  "periods": [
+    { "start": "1864" }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/White_Ensign"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "white",
+      "color": "red",
+      "role": "Cross of St George",
+      "symbolism": "a red Greek cross extending to the edges of the white field"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Flag, marking the ensign as British"
+    }
+  ]
+}

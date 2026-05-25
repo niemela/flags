@@ -1,0 +1,50 @@
+{
+  "id": "GB_state-ensign",
+  "name": "United Kingdom (Blue Ensign)",
+  "type": [
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q1153171"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "navy", "symbolism": "the field, from the Royal Navy's historic Blue Squadron" },
+    { "color": "red", "symbolism": "the red details of the Union canton" },
+    { "color": "white", "symbolism": "the white details of the Union canton" }
+  ],
+  "symbolism": null,
+  "description": "A dark blue field with the Union Flag in the canton; flown plain by government vessels or defaced with a departmental or territorial badge.",
+  "history": "Originally the ensign of the Royal Navy's Blue Squadron, the Blue Ensign became the ensign of British government (non-military) vessels in 1864. Defaced with badges it serves the Royal Naval Reserve, government departments, and many British territories and Commonwealth states as the basis of their own ensigns.",
+  "variant": [
+    "state-ensign",
+    "government"
+  ],
+  "periods": [
+    { "start": "1801" }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Blue_Ensign"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy",
+      "symbolism": "the historic colour of the Royal Navy's Blue Squadron and of British government service"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Flag, marking the ensign as British"
+    }
+  ]
+}

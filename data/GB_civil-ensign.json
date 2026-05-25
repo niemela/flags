@@ -1,0 +1,49 @@
+{
+  "id": "GB_civil-ensign",
+  "name": "United Kingdom (Red Ensign)",
+  "type": [
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q11139"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "red", "symbolism": "the field, from the Royal Navy's historic Red Squadron" },
+    { "color": "navy", "symbolism": "the blue of the Union canton" },
+    { "color": "white", "symbolism": "the white details of the Union canton" }
+  ],
+  "symbolism": null,
+  "description": "A red field with the Union Flag in the canton.",
+  "history": "The 'Red Duster' descends from the ensign of the Royal Navy's Red Squadron in the 17th century. It was designated the ensign of British merchant shipping by the Merchant Shipping Acts; its present form dates from the 1801 Union with Ireland, which gave the Union Flag in the canton its modern design.",
+  "variant": [
+    "civil-ensign"
+  ],
+  "periods": [
+    { "start": "1801-01-01" }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Red_Ensign"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the historic colour of the Royal Navy's Red Squadron and of the British merchant marine"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Flag, marking the ensign as British"
+    }
+  ]
+}

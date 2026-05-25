@@ -1,0 +1,50 @@
+{
+  "id": "GB_civil-air",
+  "name": "United Kingdom (Civil Air Ensign)",
+  "type": [
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q5123622"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "light-blue", "symbolism": "'air force blue' field, denoting civil aviation" },
+    { "color": "navy", "symbolism": "the dark blue cross and the canton" },
+    { "color": "white", "symbolism": "the fimbriation of the cross and details of the canton" },
+    { "color": "red", "symbolism": "the red details of the Union canton" }
+  ],
+  "symbolism": null,
+  "description": "An air-force-blue field bearing a dark blue cross fimbriated white extending to the edges, with the Union Flag in the canton.",
+  "history": "The British Civil Air Ensign was instituted by an Order in Council on 11 August 1931 for use at civil aerodromes and by civil aviation authorities. Its air-force-blue field with a dark blue cross distinguishes it from the military RAF Ensign.",
+  "periods": [
+    { "start": "1931" }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/British_civil_air_ensign"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "light-blue",
+      "color": "navy",
+      "fimbriation": { "color": "white" },
+      "role": "dark blue cross fimbriated white, extending to the edges",
+      "symbolism": "a cross throughout dividing the air-force-blue field"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Flag, marking the ensign as British"
+    }
+  ]
+}

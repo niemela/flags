@@ -1,0 +1,58 @@
+{
+  "id": "GB_rfa",
+  "name": "United Kingdom (Royal Fleet Auxiliary Ensign)",
+  "type": [
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q105451797"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "navy", "symbolism": "the Blue Ensign field" },
+    { "color": "red", "symbolism": "the red details of the Union canton" },
+    { "color": "white", "symbolism": "the white details of the Union canton" },
+    { "color": "gold", "symbolism": "the upright anchor of the Royal Fleet Auxiliary" }
+  ],
+  "symbolism": null,
+  "description": "A Blue Ensign defaced in the fly with an upright gold anchor; the Union Flag is in the canton.",
+  "history": "A distinct ensign for the Royal Fleet Auxiliary — a Blue Ensign with a plain vertical gold anchor — was approved by Queen Elizabeth II in 1968 and introduced from 16 June 1969. The upright anchor distinguishes it from the earlier government auxiliary ensign, which bore a horizontal anchor.",
+  "variant": [
+    "government"
+  ],
+  "periods": [
+    { "start": "1969" }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Government_Service_Ensign",
+    "https://www.fotw.info/flags/gb-rfas.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy",
+      "symbolism": "the Blue Ensign field of British government service"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "the Union Flag, marking the ensign as British"
+    },
+    {
+      "type": "anchor",
+      "color": "gold",
+      "position": "center-fly",
+      "role": "upright anchor of the Royal Fleet Auxiliary",
+      "symbolism": "the Royal Fleet Auxiliary Service"
+    }
+  ]
+}
