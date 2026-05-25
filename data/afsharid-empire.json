@@ -1,0 +1,22 @@
+{
+  "id": "afsharid-empire",
+  "name": "Afsharid Iran (1736–1796)",
+  "type": ["historical","country"],
+  "parent": null,
+  "codes": { "wikidata": "Q63149558" },
+  "region": ["Asia","Western Asia","Middle East"],
+  "colors": [
+    {"color":"red","symbolism":"hardiness and valour"},
+    {"color":"yellow","symbolism":"wisdom and wealth"},
+    {"color":"gold","symbolism":"the Lion and Sun device"}
+  ],
+  "description": "A red field bearing the gold Lion and Sun (Shir-o-Khorshid), with yellow detailing. Nader Shah deliberately avoided the Safavid green, replacing it with red and yellow.",
+  "history": "Standard associated with Nader Shah, founder of the Afsharid dynasty (1736–1796), who deposed the last Safavid and avoided the green of his Shiʿa Safavid predecessors, substituting red and yellow while retaining the Lion and Sun motif.",
+  "periods": [{"start":"1736","end":"1796"}],
+  "sources": ["https://en.wikipedia.org/wiki/Afsharid_Iran","https://en.wikipedia.org/wiki/Lion_and_Sun"],
+  "features": [
+    {"type":"solid","color":"red"},
+    {"type":"lion","count":1,"color":"gold","position":"center","role":"lion of the Shir-o-Khorshid"},
+    {"type":"sun","count":1,"color":"gold","position":"center","role":"rising sun"}
+  ]
+}

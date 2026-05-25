@@ -1,0 +1,26 @@
+{
+  "id": "IR_1980",
+  "name": "Iran (state flag, 1964–1980)",
+  "type": ["historical","country"],
+  "parent": null,
+  "codes": { "wikidata": "Q794" },
+  "region": ["Asia","Western Asia","Southern Asia","Middle East"],
+  "aspect_ratio": "4:7",
+  "variant": ["state"],
+  "colors": [
+    {"color":"green","symbolism":"Islam"},
+    {"color":"white","symbolism":"peace"},
+    {"color":"red","symbolism":"courage"},
+    {"color":"gold","symbolism":"the crowned Lion and Sun emblem"}
+  ],
+  "description": "A green–white–red horizontal tricolour with a gold Lion and Sun (Shir-o-Khorshid) on the white band surmounted by the Pahlavi crown, in proportions 4:7.",
+  "history": "State flag of Pahlavi Iran from 1964, when the proportions were changed from 1:3 to 4:7. It remained in use until the lion-and-sun was abolished after the 1979 Islamic Revolution and the current emblem flag was adopted in 1980.",
+  "periods": [{"start":"1964","end":"1980"}],
+  "sources": ["https://en.wikipedia.org/wiki/Lion_and_Sun_flag","https://commons.wikimedia.org/wiki/File:State_flag_of_Iran_(1964%E2%80%931980).svg"],
+  "features": [
+    {"type":"horizontal-stripes","stripes":["green","white","red"],"count":3},
+    {"type":"lion","count":1,"color":"gold","position":"center","role":"lion of the Shir-o-Khorshid holding a sword"},
+    {"type":"sun","count":1,"color":"gold","position":"center","role":"rising sun without face"},
+    {"type":"crown","count":1,"color":"gold","position":"center","role":"Pahlavi crown surmounting the emblem"}
+  ]
+}

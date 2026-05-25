@@ -1,0 +1,48 @@
+{
+  "id": "US_1877",
+  "name": "United States (1867–1877)",
+  "type": ["historical", "country"],
+  "parent": null,
+  "codes": {},
+  "region": ["Americas", "Northern America", "Anglosphere"],
+  "aspect_ratio": "10:19",
+  "colors": [
+    { "color": "red", "symbolism": "valour and hardiness" },
+    { "color": "white", "symbolism": "purity and innocence" },
+    { "color": "blue", "symbolism": "vigilance, perseverance, and justice" }
+  ],
+  "description": "Thirteen alternating red and white horizontal stripes (seven red, six white). In the upper hoist, a blue canton bearing 37 white five-pointed stars in five rows of 8-7-7-7-8.",
+  "history": "Adopted on 4 July 1867 following the admission of Nebraska as the 37th state on 1 March 1867. Sometimes called the 'Nebraska flag', it served as the official flag for ten years until 4 July 1877, when Colorado's admission brought the count to 38.",
+  "variant": ["civil", "state", "civil-ensign", "state-ensign"],
+  "periods": [{ "start": "1867-07-04", "end": "1877-07-03" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_United_States",
+    "https://www.crwflags.com/fotw/flags/us-1867.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["red", "white"],
+      "count": 13,
+      "symbolism": "the thirteen original colonies"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "proportion": "7/13 height, 2/5 width",
+      "symbolism": "the union of the states; a new constellation",
+      "features": [
+        {
+          "type": "star",
+          "count": 37,
+          "points": 5,
+          "color": "white",
+          "arrangement": "grid",
+          "rows": [8, 7, 7, 7, 8],
+          "role": "stars representing the states",
+          "symbolism": "the 37 states of the Union as of 4 July 1867"
+        }
+      ]
+    }
+  ]
+}

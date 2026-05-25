@@ -1,0 +1,48 @@
+{
+  "id": "US_1890",
+  "name": "United States (1877–1890)",
+  "type": ["historical", "country"],
+  "parent": null,
+  "codes": {},
+  "region": ["Americas", "Northern America", "Anglosphere"],
+  "aspect_ratio": "10:19",
+  "colors": [
+    { "color": "red", "symbolism": "valour and hardiness" },
+    { "color": "white", "symbolism": "purity and innocence" },
+    { "color": "blue", "symbolism": "vigilance, perseverance, and justice" }
+  ],
+  "description": "Thirteen alternating red and white horizontal stripes (seven red, six white). In the upper hoist, a blue canton bearing 38 white five-pointed stars in five rows of 7-8-8-8-7.",
+  "history": "Adopted on 4 July 1877 following the admission of Colorado as the 38th state on 1 August 1876. It served as the official flag for thirteen years until 4 July 1890, when the 43-star flag was introduced. As star arrangements were not regulated before 1912, many other patterns of this flag also circulated.",
+  "variant": ["civil", "state", "civil-ensign", "state-ensign"],
+  "periods": [{ "start": "1877-07-04", "end": "1890-07-03" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_United_States",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_(1877%E2%80%931890).svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["red", "white"],
+      "count": 13,
+      "symbolism": "the thirteen original colonies"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "proportion": "7/13 height, 2/5 width",
+      "symbolism": "the union of the states; a new constellation",
+      "features": [
+        {
+          "type": "star",
+          "count": 38,
+          "points": 5,
+          "color": "white",
+          "arrangement": "grid",
+          "rows": [7, 8, 8, 8, 7],
+          "role": "stars representing the states",
+          "symbolism": "the 38 states of the Union as of 4 July 1877"
+        }
+      ]
+    }
+  ]
+}

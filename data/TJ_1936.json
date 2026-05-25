@@ -1,0 +1,37 @@
+{
+  "id": "TJ_1936",
+  "name": "Tajik Soviet Socialist Republic (1935–1936)",
+  "type": ["historical", "country"],
+  "parent": null,
+  "codes": { "wikidata": "Q199711" },
+  "region": ["Asia", "Central Asia", "Post-Soviet"],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "red", "symbolism": "the workers' revolution and socialism" },
+    { "color": "gold", "symbolism": "the hammer and sickle and the inscription" }
+  ],
+  "description": "A red field with a gold hammer and sickle in the upper hoist, beneath which the name of the republic is inscribed in gold in the Latin Tajik script ('ÇSS Toçikiston').",
+  "history": "Established by a decree of the Presidium of the Tajik Central Committee dated 4 July 1935: a red flag with a gold sickle and hammer in the upper hoist over the Romanised Tajik inscription 'ÇSS Toçikiston'. It was superseded on 26 September 1936 when a Cyrillic inscription was added.",
+  "variant": ["civil", "state", "civil-ensign", "state-ensign"],
+  "periods": [{ "start": "1935-07-04", "end": "1936-09-26" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Tajik_Soviet_Socialist_Republic"
+  ],
+  "features": [
+    { "type": "solid", "color": "red", "symbolism": "the workers' revolution" },
+    {
+      "type": "hammer-and-sickle",
+      "count": 1,
+      "color": "gold",
+      "position": "upper-hoist",
+      "symbolism": "the union of industrial workers and peasants"
+    },
+    {
+      "type": "glyph",
+      "color": "gold",
+      "position": "upper-hoist",
+      "role": "Latin Tajik inscription 'ÇSS Toçikiston'",
+      "symbolism": "the name of the Tajik Soviet Socialist Republic"
+    }
+  ]
+}

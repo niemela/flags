@@ -1,0 +1,21 @@
+{
+  "id": "safavid-empire",
+  "name": "Safavid Iran (1501–1736)",
+  "type": ["historical","country"],
+  "parent": null,
+  "codes": { "wikidata": "Q18234383" },
+  "region": ["Asia","Western Asia","Middle East"],
+  "colors": [
+    {"color":"green","symbolism":"Islam and the Shiʿa creed promoted as the state religion"},
+    {"color":"gold","symbolism":"the embroidered Lion and Sun device"}
+  ],
+  "description": "A green field bearing a gold Lion and Sun (Shir-o-Khorshid) device — a couchant lion before a rising sun — embroidered in the centre.",
+  "history": "Banner of Safavid Iran (1501–1736). Early Safavid standards under Ismail I bore a gold device on green; from the later 16th century the Lion and Sun became the established emblem, remaining in use to the end of the dynasty in 1736.",
+  "periods": [{"start":"1576","end":"1736"}],
+  "sources": ["https://en.wikipedia.org/wiki/Safavid_Iran","https://en.wikipedia.org/wiki/Lion_and_Sun"],
+  "features": [
+    {"type":"solid","color":"green"},
+    {"type":"lion","count":1,"color":"gold","position":"center","role":"Lion of the Shir-o-Khorshid emblem"},
+    {"type":"sun","count":1,"color":"gold","position":"center","role":"rising sun of the Shir-o-Khorshid emblem"}
+  ]
+}

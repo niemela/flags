@@ -1,0 +1,30 @@
+{
+  "id": "DE_1918",
+  "name": "Germany (1867–1918)",
+  "type": ["historical", "country"],
+  "parent": null,
+  "codes": { "wikidata": "Q43287" },
+  "region": ["Europe", "Western Europe"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "black", "symbolism": "from the black-and-white of Prussia" },
+    { "color": "white", "symbolism": "from the colours of Prussia, the Hanseatic League and Brandenburg" },
+    { "color": "red", "symbolism": "from the red-and-white of the Hanseatic League and Brandenburg" }
+  ],
+  "description": "A horizontal tricolour of black, white, and red in equal bands.",
+  "history": "Adopted by the North German Confederation in 1867, combining the black-white of Prussia with the red-white of the Hanseatic cities. It became the merchant flag of the German Empire in 1871 and the national flag in 1892, serving until the Empire's dissolution in the November Revolution of 1918. It was revived briefly as a national flag under the early Nazi government in 1933.",
+  "variant": ["civil", "state"],
+  "periods": [{ "start": "1867", "end": "1918-11-09" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_German_Empire",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Germany_(1867%E2%80%931918).svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["black", "white", "red"],
+      "count": 3,
+      "symbolism": "the imperial German colours combining Prussian and Hanseatic heraldry"
+    }
+  ]
+}

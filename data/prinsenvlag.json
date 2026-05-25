@@ -1,0 +1,30 @@
+{
+  "id": "prinsenvlag",
+  "name": "Prinsenvlag (Dutch Republic)",
+  "type": ["historical", "country"],
+  "parent": null,
+  "codes": { "wikidata": "Q170072" },
+  "region": ["Europe", "Western Europe"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "orange", "symbolism": "the House of Orange-Nassau and William the Silent" },
+    { "color": "white", "symbolism": "from the livery colours of the Prince of Orange" },
+    { "color": "blue", "symbolism": "from the livery colours of the Prince of Orange" }
+  ],
+  "description": "A horizontal tricolour of orange, white, and blue in equal bands.",
+  "history": "The 'Prince's Flag', based on the livery of William the Silent, Prince of Orange, first recorded in 1572 when the Sea Beggars captured Brielle. It served as the de-facto flag of the rebelling provinces and the early Dutch Republic during the Eighty Years' War. From around 1630 the orange band was increasingly replaced by red, and after about 1660 the orange version had become rare, giving way to the red-white-blue Statenvlag. The orange-white-blue design was later revived by some groups in the 19th and 20th centuries.",
+  "variant": ["civil", "state"],
+  "periods": [{ "start": "1572", "end": "1660" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Prince%27s_Flag",
+    "https://en.wikipedia.org/wiki/Flag_of_the_Netherlands"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["orange", "white", "blue"],
+      "count": 3,
+      "symbolism": "the livery colours of the Prince of Orange"
+    }
+  ]
+}

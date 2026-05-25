@@ -1,0 +1,29 @@
+{
+  "id": "courland",
+  "name": "Duchy of Courland and Semigallia (state flag)",
+  "type": ["historical", "country"],
+  "parent": null,
+  "codes": { "wikidata": "Q156038" },
+  "region": ["Europe", "Northern Europe", "Baltics"],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "red", "symbolism": "the ducal colours of Courland" },
+    { "color": "white", "symbolism": "the ducal colours of Courland" }
+  ],
+  "description": "A horizontal bicolour of two equal stripes, red over white.",
+  "history": "The state flag of the Duchy of Courland and Semigallia (1561–1795), a Baltic duchy and vassal of the Polish–Lithuanian Commonwealth, known for its brief colonial ventures under Duke Jacob Kettler. The duchy was annexed by the Russian Empire in 1795.",
+  "variant": ["state"],
+  "periods": [{ "start": "1561", "end": "1795" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Courland",
+    "https://en.wikipedia.org/wiki/Duchy_of_Courland_and_Semigallia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["red", "white"],
+      "count": 2,
+      "symbolism": "the ducal colours of Courland"
+    }
+  ]
+}

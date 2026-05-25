@@ -1,0 +1,38 @@
+{
+  "id": "LV_1953",
+  "name": "Latvian Soviet Socialist Republic (1940–1953)",
+  "type": ["historical", "country"],
+  "parent": null,
+  "codes": { "wikidata": "Q192180" },
+  "region": ["Europe", "Northern Europe", "Baltics", "Post-Soviet"],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "red", "symbolism": "the workers' revolution and socialism" },
+    { "color": "gold", "symbolism": "the hammer and sickle and the inscription" }
+  ],
+  "description": "A plain red field with a gold hammer and sickle in the upper hoist, surmounted by the gold serif Latin initials 'LPSR' (Latvijas Padomju Sociālistiskā Republika).",
+  "history": "Adopted on 25 August 1940 following the Soviet annexation of Latvia, this was the standard Soviet red banner with the republic's gold initials over a hammer and sickle. It was replaced by the wave-pattern flag adopted on 17 January 1953.",
+  "variant": ["civil", "state", "civil-ensign", "state-ensign"],
+  "periods": [{ "start": "1940-08-25", "end": "1953-01-17" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Latvian_Soviet_Socialist_Republic",
+    "https://en.wikipedia.org/wiki/Latvian_Soviet_Socialist_Republic"
+  ],
+  "features": [
+    { "type": "solid", "color": "red", "symbolism": "the workers' revolution" },
+    {
+      "type": "hammer-and-sickle",
+      "count": 1,
+      "color": "gold",
+      "position": "upper-hoist",
+      "symbolism": "the union of industrial workers and peasants"
+    },
+    {
+      "type": "glyph",
+      "color": "gold",
+      "position": "upper-hoist",
+      "role": "Latin initials 'LPSR' (Latvijas Padomju Sociālistiskā Republika)",
+      "symbolism": "the name of the Latvian Soviet Socialist Republic"
+    }
+  ]
+}

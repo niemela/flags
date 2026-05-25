@@ -1,0 +1,48 @@
+{
+  "id": "LV_1990",
+  "name": "Latvian Soviet Socialist Republic (1953–1990)",
+  "type": ["historical", "country"],
+  "parent": null,
+  "codes": { "wikidata": "Q192180" },
+  "region": ["Europe", "Northern Europe", "Baltics", "Post-Soviet"],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "red", "symbolism": "the workers' revolution and socialism" },
+    { "color": "gold", "symbolism": "the hammer and sickle and the star border" },
+    { "color": "blue", "symbolism": "the Baltic Sea, in the wavy stripes" },
+    { "color": "white", "symbolism": "the sea's crests, in the wavy stripes" }
+  ],
+  "description": "A red field with a gold hammer and sickle and a gold-bordered red five-pointed star in the upper hoist, and blue and white wavy stripes representing the sea running along the bottom edge.",
+  "history": "Adopted on 17 January 1953, this flag added the Baltic Sea wave motif to the standard Soviet red banner, distinguishing it from other republics' flags. It was officially replaced on 27 February 1990 when the historic maroon-and-white flag of Latvia was reinstated.",
+  "variant": ["civil", "state", "civil-ensign", "state-ensign"],
+  "periods": [{ "start": "1953-01-17", "end": "1990-02-27" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Latvian_Soviet_Socialist_Republic",
+    "https://en.wikipedia.org/wiki/Latvian_Soviet_Socialist_Republic"
+  ],
+  "features": [
+    { "type": "solid", "color": "red", "symbolism": "the workers' revolution" },
+    {
+      "type": "wave",
+      "stripes": ["blue", "white"],
+      "position": "bottom",
+      "symbolism": "the Baltic Sea"
+    },
+    {
+      "type": "hammer-and-sickle",
+      "count": 1,
+      "color": "gold",
+      "position": "upper-hoist",
+      "symbolism": "the union of industrial workers and peasants"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "upper-hoist",
+      "fimbriation": { "color": "gold" },
+      "symbolism": "the Communist Party leading the proletariat"
+    }
+  ]
+}

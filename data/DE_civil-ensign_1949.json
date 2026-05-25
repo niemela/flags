@@ -1,0 +1,30 @@
+{
+  "id": "DE_civil-ensign_1949",
+  "name": "Germany (merchant flag, 1946–1949)",
+  "type": ["historical", "country"],
+  "parent": null,
+  "codes": { "wikidata": "Q2415901" },
+  "region": ["Europe", "Western Europe"],
+  "shape": "swallowtail",
+  "colors": [
+    { "color": "blue", "symbolism": "the outer bands of the international 'C' signal flag" },
+    { "color": "white", "symbolism": "the inner bands of the 'C' signal flag" },
+    { "color": "red", "symbolism": "the central band of the 'C' signal flag" }
+  ],
+  "description": "The international maritime 'C' signal flag — five horizontal bands of blue, white, red, white, blue — with a triangular swallowtail cut taken from the fly.",
+  "history": "After World War II the Allies denied defeated Germany the use of any national or merchant flag. Allied Control Council Law No. 39 (1946) imposed the so-called C-Pennant or C-Doppelstander, the international code signal flag for the letter 'C' with a triangle cut from the fly, as the compulsory ensign of German merchant ships. It served until 1949–1950, when German vessels were again permitted to fly the black-red-gold flag.",
+  "variant": ["civil-ensign"],
+  "periods": [{ "start": "1946", "end": "1949" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_German_flags",
+    "https://commons.wikimedia.org/wiki/File:Merchant_flag_of_Germany_(1946%E2%80%931949).svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["blue", "white", "red", "white", "blue"],
+      "count": 5,
+      "symbolism": "the international 'C' signal flag imposed as a mark of occupation"
+    }
+  ]
+}

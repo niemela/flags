@@ -1,0 +1,75 @@
+{
+  "id": "sweden-norway",
+  "name": "Sweden and Norway (1815–1844)",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q62589"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia"
+  ],
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the Swedish national colours"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the Swedish national colours"
+    },
+    {
+      "color": "red",
+      "symbolism": "the union badge, taken to represent Norway"
+    },
+    {
+      "color": "white",
+      "symbolism": "the union saltire"
+    }
+  ],
+  "description": "The Swedish flag — a blue field with a yellow Nordic cross — defaced in the upper-hoist canton with a union badge: a white saltire on a red square marking the union with Norway.",
+  "history": "Common ensign of the United Kingdoms of Sweden and Norway, introduced from 1815 (a common civil/merchant ensign on this pattern followed in 1818). The Swedish blue-and-yellow cross flag was charged in the canton with a white saltire on red representing Norway, which had previously shared the Dano-Norwegian flag. It was used until the royal resolution of 20 June 1844, which replaced the simple badge with the quartered Swedish-Norwegian union mark (the 'sillsallad') denoting the equal status of the two kingdoms.",
+  "variant": [
+    "civil-ensign",
+    "state-ensign"
+  ],
+  "periods": [
+    {
+      "start": "1815",
+      "end": "1844-06-20"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Sweden",
+    "https://en.wikipedia.org/wiki/Union_between_Sweden_and_Norway",
+    "https://commons.wikimedia.org/wiki/File:Ensign_of_Sweden_and_Norway_(1815%E2%80%931844).svg"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "blue",
+      "cross": "yellow",
+      "symbolism": "the historic Swedish national colours"
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "role": "union badge",
+      "symbolism": "the union with Norway; the red canton with a white saltire was taken to represent Norway",
+      "features": [
+        {
+          "type": "saltire",
+          "color": "white",
+          "role": "union saltire",
+          "symbolism": "Norway within the union"
+        }
+      ]
+    }
+  ]
+}

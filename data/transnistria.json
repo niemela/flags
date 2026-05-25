@@ -1,0 +1,46 @@
+{
+  "id": "transnistria",
+  "name": "Transnistria",
+  "type": ["country"],
+  "parent": null,
+  "codes": { "wikidata": "Q907112" },
+  "region": ["Europe", "Eastern Europe", "Post-Soviet"],
+  "aspect_ratio": "1:2",
+  "status": "de-facto",
+  "colors": [
+    { "color": "red", "symbolism": "the outer bands, retained from the Moldavian SSR flag" },
+    { "color": "green", "symbolism": "the central band" },
+    { "color": "gold", "symbolism": "the hammer and sickle and the star's border" }
+  ],
+  "description": "A horizontal triband of red, green, and red, charged in the canton with a gold hammer and sickle beneath a gold-bordered red five-pointed star.",
+  "history": "The state flag of the unrecognised Pridnestrovian Moldavian Republic (Transnistria), which broke away from Moldova in 1990. The current design, retaining the Soviet symbolism of the former Moldavian SSR, was confirmed by the state-symbols law adopted on 18 July 2000. Transnistria functions as a de-facto independent state but is internationally recognised as part of Moldova.",
+  "variant": ["state", "civil"],
+  "periods": [{ "start": "2000" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Transnistria",
+    "https://en.wikipedia.org/wiki/Transnistria"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["red", "green", "red"],
+      "count": 3,
+      "symbolism": "based on the flag of the Moldavian Soviet Socialist Republic"
+    },
+    {
+      "type": "hammer-and-sickle",
+      "count": 1,
+      "color": "gold",
+      "position": "canton",
+      "symbolism": "Soviet-era heritage"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "canton",
+      "role": "gold-bordered red star above the hammer and sickle"
+    }
+  ]
+}

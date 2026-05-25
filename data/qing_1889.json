@@ -1,0 +1,26 @@
+{
+  "id": "qing_1889",
+  "name": "Qing Dynasty (Triangular Yellow Dragon Flag, 1862–1889)",
+  "type": ["historical", "country"],
+  "parent": null,
+  "codes": { "wikidata": "Q8733" },
+  "region": ["Asia", "Eastern Asia"],
+  "shape": "pennant",
+  "colors": [
+    { "color": "yellow", "symbolism": "the field — Imperial gold of the Manchu emperors" },
+    { "color": "blue", "symbolism": "the Azure Dragon, the eastern guardian" },
+    { "color": "red", "symbolism": "the flaming pearl pursued by the dragon" }
+  ],
+  "description": "A triangular yellow banner bearing a blue Azure Dragon chasing a red flaming pearl. The first dragon flag of the Qing, with one corner cut off to give a triangular form distinguishing it from the Plain Yellow Banner.",
+  "history": "Adopted in 1862 as the ensign of Qing naval and official vessels, the triangular Yellow Dragon Flag preceded the rectangular version standardised in 1889. Zeng Guofan removed a corner to distinguish it from the Plain Yellow Banner of the Eight Banners.",
+  "periods": [{ "start": "1862", "end": "1889" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Qing_dynasty",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_China_(1862%E2%80%931889).svg"
+  ],
+  "features": [
+    { "type": "solid", "color": "yellow" },
+    { "type": "dragon", "count": 1, "color": "blue", "position": "center", "role": "Azure Dragon" },
+    { "type": "disc", "count": 1, "color": "red", "position": "upper-hoist", "role": "flaming pearl" }
+  ]
+}

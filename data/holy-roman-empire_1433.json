@@ -1,0 +1,37 @@
+{
+  "id": "holy-roman-empire_1433",
+  "name": "Holy Roman Empire (Reichssturmfahne, before 1433)",
+  "type": ["historical", "country"],
+  "parent": null,
+  "codes": { "wikidata": "Q12548" },
+  "region": ["Europe", "Western Europe"],
+  "colors": [
+    { "color": "gold", "symbolism": "the imperial field (Or)" },
+    { "color": "black", "symbolism": "the imperial eagle (sable)" },
+    { "color": "red", "symbolism": "the Schwenkel (pennon) attached at the top, and the eagle's beak and claws" }
+  ],
+  "description": "A gold field bearing a black single-headed imperial eagle, with a red Schwenkel (pennon) attached along the top edge.",
+  "history": "The Reichssturmfahne ('Imperial War Banner') of the Holy Roman Empire, an imperial fief traditionally granted to Swabian nobles and given to Ulrich III, Count of Württemberg, in 1336. It bore the single-headed black eagle on a gold field used before Emperor Sigismund introduced the double-headed eagle in the early 15th century. The original banner was kept in Stuttgart until destroyed in a 1944 bombing raid.",
+  "periods": [{ "end": "1433" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Reichssturmfahne",
+    "https://commons.wikimedia.org/wiki/File:Heiliges_R%C3%B6misches_Reich_-_Reichssturmfahne_vor_1433.svg"
+  ],
+  "features": [
+    { "type": "solid", "color": "gold" },
+    {
+      "type": "eagle",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "single-headed imperial eagle (Reichsadler)",
+      "symbolism": "the imperial authority of the Holy Roman Emperor"
+    },
+    {
+      "type": "side",
+      "color": "red",
+      "position": "top",
+      "role": "Schwenkel (pennon) attached at the top of the banner"
+    }
+  ]
+}

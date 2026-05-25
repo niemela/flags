@@ -1,0 +1,21 @@
+{
+  "id": "safavid-empire_1665",
+  "name": "Safavid Iran (1665)",
+  "type": ["historical","country"],
+  "parent": null,
+  "codes": { "wikidata": "Q18234383" },
+  "region": ["Asia","Western Asia","Middle East"],
+  "colors": [
+    {"color":"green","symbolism":"Islam and the Shiʿa creed of the Safavid state"},
+    {"color":"gold","symbolism":"the Lion and Sun device"}
+  ],
+  "description": "A green field charged with a gold Lion and Sun (Shir-o-Khorshid), the sun depicted with an anthropomorphic face above a couchant lion — a 1665-era depiction of the Safavid Persian standard.",
+  "history": "A mid-17th-century (1665) rendering of the Safavid Persian Lion and Sun banner, recorded by European travellers during the reign of the later Safavid shahs.",
+  "periods": [{"start":"1665"}],
+  "sources": ["https://en.wikipedia.org/wiki/Lion_and_Sun_flag","https://www.iranicaonline.org/articles/flags-i/"],
+  "features": [
+    {"type":"solid","color":"green"},
+    {"type":"lion","count":1,"color":"gold","position":"center","role":"Lion of the Shir-o-Khorshid emblem"},
+    {"type":"sun","count":1,"color":"gold","position":"center","role":"rising sun with face"}
+  ]
+}

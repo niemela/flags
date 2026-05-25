@@ -1,0 +1,30 @@
+{
+  "id": "DE_1935",
+  "name": "Germany (1933–1935)",
+  "type": ["historical", "country"],
+  "parent": null,
+  "codes": { "wikidata": "Q7318" },
+  "region": ["Europe", "Western Europe"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "black", "symbolism": "from the black-and-white of Prussia" },
+    { "color": "white", "symbolism": "from the colours of Prussia and the Hanseatic League" },
+    { "color": "red", "symbolism": "from the red-and-white of the Hanseatic League" }
+  ],
+  "description": "A horizontal tricolour of black, white, and red in equal bands.",
+  "history": "After the Nazi seizure of power, a ruling of 12 March 1933 banned the black-red-gold flag of the Weimar Republic and reinstated the old imperial black-white-red tricolour as one of two national flags, flown alongside the Nazi Party flag. This arrangement ended on 15 September 1935, when the swastika flag became the sole national flag.",
+  "variant": ["civil", "state"],
+  "periods": [{ "start": "1933-03-12", "end": "1935-09-15" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Germany",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Germany_(1933%E2%80%931935).svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["black", "white", "red"],
+      "count": 3,
+      "symbolism": "the old imperial German colours"
+    }
+  ]
+}

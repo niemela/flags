@@ -1,0 +1,29 @@
+{
+  "id": "livonia-governorate",
+  "name": "Governorate of Livonia (Russian Empire)",
+  "type": ["historical", "subdivision"],
+  "parent": null,
+  "codes": { "wikidata": "Q1419584" },
+  "region": ["Europe", "Northern Europe", "Baltics", "Eastern Europe"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "red", "symbolism": "derived from the governorate's heraldic colours" },
+    { "color": "green", "symbolism": "the provincial colours of Livonia" },
+    { "color": "white", "symbolism": "the provincial colours of Livonia" }
+  ],
+  "description": "A horizontal tricolour of red, green and white in equal bands.",
+  "history": "The Governorate of Livonia (Liflandia) was a Baltic governorate of the Russian Empire from 1796 until 1918, centred on Riga and covering much of present-day Vidzeme (Latvia) and southern Estonia. Its provincial tricolour of red, green and white derived from the Baltic-German Livonian provincial colours.",
+  "periods": [{ "start": "1796", "end": "1918" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Governorate_of_Livonia",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_the_Liflandia_Governorate.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["red", "green", "white"],
+      "count": 3,
+      "symbolism": "the provincial colours of Livonia"
+    }
+  ]
+}

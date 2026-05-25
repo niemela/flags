@@ -1,0 +1,25 @@
+{
+  "id": "tungning",
+  "name": "Kingdom of Tungning",
+  "type": ["historical", "country"],
+  "parent": null,
+  "codes": { "wikidata": "Q152855" },
+  "region": ["Asia", "Eastern Asia"],
+  "colors": [
+    { "color": "white", "symbolism": "the field" },
+    { "color": "black", "symbolism": "the character 鄭 (Zheng), surname of the ruling House of Koxinga" },
+    { "color": "red", "symbolism": "the bordered circle enclosing the character" }
+  ],
+  "description": "A white field bearing the Chinese character 鄭 (Zheng) — the surname of the ruling Zheng (Koxinga) house — set within a red-bordered circle at the centre.",
+  "history": "Banner of the Kingdom of Tungning, the Ming-loyalist Zheng (Koxinga) regime that ruled southwestern Formosa and the Penghu islands from 1661 until its annexation by the Qing dynasty in 1683.",
+  "periods": [{ "start": "1661", "end": "1683" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kingdom_of_Tungning",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Ming_Cheng.svg"
+  ],
+  "features": [
+    { "type": "solid", "color": "white" },
+    { "type": "circle", "count": 1, "color": "red", "position": "center", "role": "red-bordered circle" },
+    { "type": "glyph", "color": "black", "position": "center", "role": "the character 鄭 (Zheng)" }
+  ]
+}

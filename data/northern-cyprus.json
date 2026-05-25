@@ -1,0 +1,45 @@
+{
+  "id": "northern-cyprus",
+  "name": "Northern Cyprus",
+  "type": ["country"],
+  "parent": null,
+  "codes": { "wikidata": "Q23681" },
+  "region": ["Asia", "Western Asia", "Middle East"],
+  "aspect_ratio": "2:3",
+  "status": "de-facto",
+  "colors": [
+    { "color": "white", "symbolism": "the field" },
+    { "color": "red", "symbolism": "the two stripes, the crescent and the star — recalling the flag of Turkey" }
+  ],
+  "description": "A white field with a horizontal red stripe near the top and another near the bottom, and a centred red crescent and red five-pointed star — a colour-reversed version of the flag of Turkey.",
+  "history": "The flag of the Turkish Republic of Northern Cyprus, a de-facto state proclaimed in 1983 that is recognised only by Turkey; the international community regards the territory as part of the Republic of Cyprus under Turkish occupation. The design inverts the colours of the Turkish flag and adds two red bars, and was adopted in 1984.",
+  "periods": [{ "start": "1984" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Northern_Cyprus",
+    "https://en.wikipedia.org/wiki/Northern_Cyprus"
+  ],
+  "features": [
+    { "type": "solid", "color": "white" },
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["red"],
+      "count": 2,
+      "position": "near top and bottom",
+      "role": "two red horizontal bars"
+    },
+    {
+      "type": "crescent",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "symbolism": "recalling the flag of Turkey"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "center"
+    }
+  ]
+}

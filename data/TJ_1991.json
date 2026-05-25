@@ -1,0 +1,51 @@
+{
+  "id": "TJ_1991",
+  "name": "Tajikistan (1953–1992)",
+  "type": ["historical", "country"],
+  "parent": null,
+  "codes": { "wikidata": "Q199711" },
+  "region": ["Asia", "Central Asia", "Post-Soviet"],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "red", "symbolism": "the unity of the republic and the workers' revolution" },
+    { "color": "white", "symbolism": "cotton production, the basis of Tajik agriculture" },
+    { "color": "green", "symbolism": "the republic's orchards and other agricultural produce" },
+    { "color": "gold", "symbolism": "the hammer and sickle of socialism" }
+  ],
+  "description": "A red field charged with a horizontal white stripe and a narrower green stripe across the centre, with a gold hammer and sickle and a gold-bordered red five-pointed star in the upper hoist. The bands run red (top half), white, green, and red along the bottom.",
+  "history": "The final flag of the Tajik SSR, designed by M.P. Shlykov and adopted on 20 March 1953 (effective 20 April 1953). The white and green stripes evoke the pan-Iranian colours of the republic's Persian-descended culture. After Tajikistan's independence on 9 September 1991, the flag remained in use as the national flag until a wholly new flag was adopted on 24 November 1992 — the last post-Soviet state to replace its Soviet-era flag.",
+  "variant": ["civil", "state", "civil-ensign", "state-ensign"],
+  "periods": [
+    { "start": "1953-04-20", "end": "1991" },
+    { "start": "1991", "end": "1992-11-24" }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Tajik_Soviet_Socialist_Republic",
+    "https://en.wikipedia.org/wiki/Tajik_Soviet_Socialist_Republic"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["red", "white", "green", "red"],
+      "count": 4,
+      "widths": [5, 2, 1, 2],
+      "symbolism": "red for the workers' revolution, white for cotton, green for agriculture"
+    },
+    {
+      "type": "hammer-and-sickle",
+      "count": 1,
+      "color": "gold",
+      "position": "upper-hoist",
+      "symbolism": "the union of industrial workers and peasants"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "upper-hoist",
+      "fimbriation": { "color": "gold" },
+      "symbolism": "the Communist Party leading the proletariat"
+    }
+  ]
+}

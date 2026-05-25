@@ -1,0 +1,33 @@
+{
+  "id": "DE_1945",
+  "name": "Germany (1935–1945)",
+  "type": ["historical", "country"],
+  "parent": null,
+  "codes": { "wikidata": "Q7318" },
+  "region": ["Europe", "Western Europe"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "red", "symbolism": "the field of the flag" },
+    { "color": "white", "symbolism": "the central disc" },
+    { "color": "black", "symbolism": "the swastika" }
+  ],
+  "description": "A red field charged with a white disc bearing a black swastika canted at 45 degrees. Documented here as a historical artifact of the Nazi German state.",
+  "history": "Instituted as the sole national flag of Germany on 15 September 1935 by the Reich Flag Law, replacing the dual-flag arrangement of 1933–1935. It remained the national and state flag of Nazi Germany until the regime's defeat in May 1945, after which it was abolished and its display banned in post-war Germany.",
+  "periods": [{ "start": "1935-09-15", "end": "1945-05" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Nazi_Germany",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Germany_(1935%E2%80%931945).svg"
+  ],
+  "features": [
+    { "type": "solid", "color": "red" },
+    { "type": "disc", "count": 1, "color": "white", "position": "center" },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "swastika (Hakenkreuz), canted at 45 degrees",
+      "symbolism": "emblem of the Nazi Party and the Nazi German state"
+    }
+  ]
+}

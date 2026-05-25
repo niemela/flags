@@ -1,0 +1,25 @@
+{
+  "id": "RU_1918",
+  "name": "Russia (1896–1918)",
+  "type": ["historical", "country"],
+  "parent": null,
+  "codes": { "wikidata": "Q34266" },
+  "region": ["Europe", "Eastern Europe", "Slavic"],
+  "aspect_ratio": "2:3",
+  "variant": ["civil", "state"],
+  "colors": [
+    { "color": "white" },
+    { "color": "blue" },
+    { "color": "red" }
+  ],
+  "description": "A horizontal tricolour of white, blue and red bands of equal width.",
+  "history": "Adopted in 1896 by Nicholas II as the national and state flag of the Russian Empire, replacing the black-yellow-white tricolour. It remained in use under the Russian Provisional Government until abolished by the Soviet government in April 1918.",
+  "periods": [{ "start": "1896", "end": "1918" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Russia",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Russia_(1896%E2%80%931918).svg"
+  ],
+  "features": [
+    { "type": "horizontal-stripes", "stripes": ["white", "blue", "red"], "count": 3 }
+  ]
+}
