@@ -1,0 +1,30 @@
+{
+  "id": "fiav",
+  "name": "FIAV (International Federation of Vexillological Associations)",
+  "type": ["organization"],
+  "parent": null,
+  "codes": { "wikidata": "Q734704" },
+  "region": [],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue", "symbolism": "the field — Pantone Matching System U293" },
+    { "color": "yellow", "symbolism": "the halyards — Pantone Matching System U123" }
+  ],
+  "description": "A blue field charged with two interlaced yellow halyards forming a sheet-bend knot, extending horizontally from hoist to fly.",
+  "history": "Designed by Klaes Sierksma and slightly modified by the organising committee of the Second International Congress of Vexillology, the flag was introduced on 3 September 1967 at Rüschlikon, Switzerland, when FIAV itself was provisionally organised. FIAV was officially created on 7 September 1969 at the Third ICV in Boston. The central knot device is reused on FIAV's Laureate and Fellow of the Federation medals.",
+  "periods": [{ "start": "1967-09-03" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/International_Federation_of_Vexillological_Associations",
+    "https://fiav.org/fiav-flag/"
+  ],
+  "features": [
+    { "type": "solid", "color": "blue" },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "two interlaced halyards forming a sheet-bend knot",
+      "symbolism": "the bond among vexillological associations worldwide"
+    }
+  ]
+}
