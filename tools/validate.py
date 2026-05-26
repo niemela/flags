@@ -41,7 +41,8 @@ STATUS_ENUM = {"de-jure", "de-facto", "proposed", "alternative", "reconstructed"
 
 VARIANT_ENUM = {
     "civil", "state", "war", "civil-ensign", "state-ensign", "naval-ensign",
-    "royal-standard", "presidential-standard", "jack", "government",
+    "royal-standard", "presidential-standard", "vice-presidential-standard",
+    "jack", "government",
 }
 
 COLOR_ENUM = {

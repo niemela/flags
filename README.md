@@ -93,6 +93,7 @@ naval           naval ensign / war ensign (warships)
 jack            naval jack (bow flag of a warship)
 royal           royal / monarch's standard
 presidential    presidential standard
+vice-presidential   vice-presidential standard
 government      generic government / service flag (when no narrower slug fits)
 ```
 
@@ -349,6 +350,7 @@ state-ensign        government ship ensign
 naval-ensign        warship ensign
 royal-standard      monarch's personal flag
 presidential-standard
+vice-presidential-standard
 jack                bow flag of a warship
 government          ministerial / departmental flag
 ```
