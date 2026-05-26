@@ -1,0 +1,31 @@
+{
+  "id": "HU_1956-11",
+  "name": "Hungary (1956 revolution flag, \"lyukas zászló\")",
+  "type": ["historical", "country"],
+  "parent": null,
+  "codes": { "wikidata": "Q16410" },
+  "region": ["Europe", "Eastern Europe"],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "red", "symbolism": "strength" },
+    { "color": "white", "symbolism": "fidelity" },
+    { "color": "green", "symbolism": "hope" }
+  ],
+  "description": "Horizontal triband of red, white and green with a circular hole in the centre of the white band, where the Rákosi-era coat of arms has been cut out — the iconic 'lyukas zászló' (flag with a hole) of the 1956 Hungarian Revolution.",
+  "history": "From 23 October 1956 demonstrators cut the Stalinist Rákosi coat of arms out of state flags, leaving a circular hole in the white band; the resulting 'lyukas zászló' became the visual symbol of the uprising. It was flown widely until Soviet forces crushed the revolution on 4 November 1956. The State Council briefly reinstated the historical Kossuth arms (12 November 1956) before the Kádár coat of arms was decreed on 23 May 1957.",
+  "status": "de-facto",
+  "periods": [{ "start": "1956-10-23", "end": "1956-11" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956",
+    "https://en.wikipedia.org/wiki/Flag_of_Hungary"
+  ],
+  "features": [
+    { "type": "horizontal-stripes", "stripes": ["red", "white", "green"], "count": 3 },
+    {
+      "type": "circle",
+      "position": "center",
+      "role": "circular cut-out where the Rákosi coat of arms had been",
+      "symbolism": "removal of the imposed Soviet-style emblem — the defining mark of the 1956 revolution"
+    }
+  ]
+}
