@@ -304,6 +304,8 @@ Square flags (Switzerland, Vatican) use `shape: "rectangular"` with `aspect_rati
 
 Aspect ratio in the vexillological convention `height:width` (also called "proportion"). Common values: `"1:2"` (UK), `"2:3"` (most flags), `"3:5"` (Germany), `"5:8"` (Sweden), `"10:19"` (US), `"1:1"` (Switzerland, Vatican). Omit if unknown.
 
+Values are normally integer:integer. The two national flags with irrational proportions are written symbolically rather than approximated: Togo's golden ratio is `"1:phi"`, and Nepal — the only flag taller than wide — is `"~1.219:1"` (height ≈ 1.21901033 × width; the leading `~` marks the rounded irrational). Both keep the `height:width` order, so Nepal's larger number comes first.
+
 #### `features` *(array of objects, required, non-empty)*
 
 The visual elements that compose the flag — both layout and devices. See [Features](#features-1) below for the full attribute reference and type enum.
@@ -318,7 +320,7 @@ The flag's color palette as an ordered array, by visual prominence. Each entry:
 
 The `symbolism` field is optional. The `color` value must come from the closed [color enum](#colors-1).
 
-The validator enforces consistency: every color used in any `features` entry (as `color`, `field`, `cross`, etc.) must appear in this list, and every entry in this list must be used somewhere.
+Consistency requirement: every color used in any `features` entry (as `color`, `field`, `cross`, etc.) must appear in this list. `tools/validate.py` enforces this (see [Tooling](#tooling)). The converse is *not* required — a pictorial device such as a coat of arms, seal, or animal charge legitimately carries colors that are catalogued here without being broken out feature by feature, so a declared color need not be referenced by any feature.
 
 #### `symbolism` *(string or null, default `null`)*
 
@@ -721,7 +723,7 @@ A flag placed as a charge somewhere on the field, distinct from canton:
 
 Used when an entire flag appears as a symbolic device — e.g., the three small flags charged onto the central white stripe of the 1928–1994 South African flag.
 
-`embedded_flag_id` is the `id` of another flag in this database. The reference may point to a flag that does not yet exist; validators emit warnings (not errors) for dangling references so flags can be added incrementally.
+`embedded_flag_id` is the `id` of another flag in this database. The reference may point to a flag that does not yet exist; dangling references are allowed (`tools/validate.py` treats them as warnings, not errors) so flags can be added incrementally.
 
 ### Feature type notes and conventions
 
@@ -810,9 +812,34 @@ twosided            false
 
 A minimal country JSON can be ~10–15 lines.
 
+## Tooling
+
+All tooling lives in `tools/` and requires only Python 3 (no third-party dependencies):
+
+- **`tools/build_index.py`** — regenerates `data/flags.json` from the per-flag JSON. Run it after adding, removing, or changing any flag JSON *or* SVG (the index carries a content hash of each SVG, used to cache-bust the image URLs). `--check` exits non-zero if the committed index is stale; CI uses this and rebuilds the index on deploy.
+
+  ```
+  python3 tools/build_index.py            # rebuild data/flags.json
+  python3 tools/build_index.py --check    # verify it is up to date
+  ```
+
+- **`tools/serve.py`** — a local dev server that mimics GitHub Pages (serves the site under `/flags/` and returns `404.html` for clean-URL routes), so deep links behave the same locally as in production.
+
+  ```
+  python3 tools/serve.py                  # http://localhost:8000/flags/
+  python3 tools/serve.py 8080             # custom port
+  ```
+
+- **`tools/validate.py`** — checks each flag against the schema and filename grammar: required fields; `type` / `region` / `shape` / `status` / `variant` / feature-type / color enum membership; the color-consistency rule (every color used in a feature is declared in `colors`); `aspect_ratio` format; ASCII-only filenames; and `id` ↔ filename agreement. Cross-reference issues (`parent` / `embedded_flag_id` pointing at an id not in the set, `codes` disagreeing with the filename) are reported as warnings, since they can be legitimate. Errors exit non-zero; `--strict` also fails on warnings.
+
+  ```
+  python3 tools/validate.py                 # validate the whole corpus
+  python3 tools/validate.py data/SE.json    # validate specific files
+  ```
+
 ## Aggregator
 
-`data/flags.json` is a single file containing all per-flag metadata, built from individual JSON files by tooling. It is the recommended consumer entry point for clients that need to scan or query the whole corpus. Do not edit it by hand; it is rebuilt by CI.
+`data/flags.json` is a single file containing all per-flag metadata, built from individual JSON files by `tools/build_index.py` (see [Tooling](#tooling)). It is the recommended consumer entry point for clients that need to scan or query the whole corpus. Do not edit it by hand; it is rebuilt by CI.
 
 ## Contributing
 
@@ -821,7 +848,7 @@ When adding a new flag:
 1. Choose the right `<id>` per the naming conventions above.
 2. Save the SVG as `data/<id>.svg`.
 3. Create `data/<id>.json` with at minimum `id`, `name`, `type`, `description`, `features`, `colors`. Populate other fields as data is available.
-4. Run the validator (see tooling) to check the schema and filename pattern.
+4. Validate it: `python3 tools/validate.py data/<id>.json`, then rebuild and check the index: `python3 tools/build_index.py --check` (see [Tooling](#tooling)).
 5. The aggregator `flags.json` is rebuilt by CI.
 
 ### Inclusion bar
@@ -841,4 +868,8 @@ Reject ad-hoc designs without independent documentation.
 
 ## License
 
-TODO.
+This repository is licensed in three layers (see [LICENSE](LICENSE) for the full text):
+
+- **Metadata and the database as a whole** (`data/*.json`, `data/flags.json`, the schema and curation) — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- **Code and tooling** (`tools/`, `app.js`, and the rest of the site source) — [MIT](https://opensource.org/license/mit).
+- **Flag images** (`data/*.svg`) — these are mostly third-party works (Wikimedia Commons and similar) and retain their original licenses; see each flag's `sources`. Some emblems are additionally trademark-protected.
