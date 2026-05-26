@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Flag Browser</title>
+  <script>
+    /* GitHub Pages SPA redirect (rafgraph/spa-github-pages technique).
+       GitHub Pages has no server-side rewrites, so a request for a clean
+       route like /flags/SE returns this 404 page. We encode the path into a
+       query string and bounce to the app root; index.html decodes it back. */
+
+    // Number of leading path segments that are part of the site's base URL.
+    // Custom domain or user/org page at the root         -> 0
+    // Project page served at username.github.io/flags/  -> 1
+    var pathSegmentsToKeep = 0;
+
+    var l = window.location;
+    l.replace(
+      l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+      l.pathname.split('/').slice(0, 1 + pathSegmentsToKeep).join('/') + '/?/' +
+      l.pathname.slice(1).split('/').slice(pathSegmentsToKeep).join('/').replace(/&/g, '~and~') +
+      (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
+      l.hash
+    );
+  </script>
+</head>
+<body></body>
+</html>
