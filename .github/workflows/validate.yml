@@ -1,0 +1,29 @@
+name: Validate
+
+# Gate that prevents a stale data/flags.json from reaching master.
+# Pair this with a branch-protection rule on master that marks the
+# "Index up to date" check as a required status check.
+
+on:
+  pull_request:
+  push:
+    branches: [master]
+
+permissions:
+  contents: read
+
+jobs:
+  index-up-to-date:
+    name: Index up to date
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verify data/flags.json matches the per-flag sources
+        run: python3 tools/build_index.py --check
