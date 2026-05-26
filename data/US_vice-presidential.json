@@ -1,0 +1,42 @@
+{
+  "id": "US_vice-presidential",
+  "name": "United States (vice-presidential standard)",
+  "type": ["country"],
+  "codes": {
+    "iso_3166_1_alpha2": "US",
+    "wikidata": "Q30"
+  },
+  "region": ["Americas", "Northern America", "Anglosphere"],
+  "colors": [
+    { "color": "white",  "symbolism": "the field" },
+    { "color": "navy",   "symbolism": "the eagle's chief and the four stars of office" },
+    { "color": "yellow", "symbolism": "the eagle's olive branch, beak, talons and the rays of the seal" },
+    { "color": "red",    "symbolism": "the stripes of the shield and the eagle's tongue" },
+    { "color": "blue",   "symbolism": "the shield's chief" }
+  ],
+  "description": "A white field bearing in the centre the Seal of the Vice President of the United States: a bald eagle with outstretched wings clasping an olive branch and a bundle of arrows, with a striped shield on its breast and a scroll reading E PLURIBUS UNUM, surrounded by a ring of stars and a circular band; a five-pointed dark-blue star is set in each of the four corners.",
+  "history": "The modern vice-presidential flag was redesigned in 1975 under President Gerald Ford to align stylistically with the presidential standard. A dark-blue star in each corner distinguishes it from the president's flag.",
+  "variant": ["vice-presidential-standard"],
+  "periods": [{ "start": "1975" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_vice_president_of_the_United_States",
+    "https://en.wikipedia.org/wiki/Seal_of_the_vice_president_of_the_United_States"
+  ],
+  "features": [
+    { "type": "solid", "color": "white" },
+    {
+      "type": "seal",
+      "position": "center",
+      "role": "Seal of the Vice President of the United States",
+      "symbolism": "an eagle clutching olive branch and arrows, with the shield of the United States on its breast"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "navy",
+      "arrangement": "scattered",
+      "role": "one star in each corner of the flag"
+    }
+  ]
+}

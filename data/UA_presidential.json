@@ -1,0 +1,39 @@
+{
+  "id": "UA_presidential",
+  "name": "Ukraine (presidential standard)",
+  "type": ["country"],
+  "codes": {
+    "iso_3166_1_alpha2": "UA",
+    "wikidata": "Q212"
+  },
+  "region": ["Europe", "Eastern Europe", "Slavic"],
+  "aspect_ratio": "1:1",
+  "colors": [
+    { "color": "blue",   "symbolism": "the field — the sky over the Ukrainian steppe" },
+    { "color": "yellow", "symbolism": "the cross fleury and the trident — wheat fields, prosperity" }
+  ],
+  "description": "A square blue field charged with a yellow cross fleury (with trefoil ends), bearing in the centre the small coat of arms of Ukraine — a yellow trident (Tryzub) on a blue square inset.",
+  "history": "Adopted on 29 November 1999 by presidential decree under President Leonid Kuchma. The crosier-style cross is drawn from medieval Ruthenian and Cossack regalia; the central Tryzub is the historic emblem of the Princes of Kyiv reinstated as Ukraine's state symbol in 1992.",
+  "variant": ["presidential-standard"],
+  "periods": [{ "start": "1999-11-29" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_President_of_Ukraine",
+    "https://en.wikipedia.org/wiki/Coat_of_arms_of_Ukraine"
+  ],
+  "features": [
+    { "type": "solid", "color": "blue" },
+    {
+      "type": "greek-cross",
+      "field": "blue",
+      "cross": "yellow",
+      "role": "cross fleury (with trefoil ends)",
+      "symbolism": "drawn from medieval Ruthenian regalia"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "color": "yellow",
+      "role": "Tryzub (small coat of arms of Ukraine) on a blue square inset"
+    }
+  ]
+}

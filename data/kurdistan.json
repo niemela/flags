@@ -1,0 +1,39 @@
+{
+  "id": "kurdistan",
+  "name": "Kurdistan",
+  "type": ["ethnic"],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q41470"
+  },
+  "region": ["Asia", "Western Asia", "Middle East"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "red",    "symbolism": "the upper band — the blood of martyrs and the struggle for freedom" },
+    { "color": "white",  "symbolism": "the middle band — peace and equality" },
+    { "color": "green",  "symbolism": "the lower band — the land and beauty of Kurdistan" },
+    { "color": "yellow", "symbolism": "the golden sun (Roj) — the source of life" }
+  ],
+  "description": "A horizontal triband of red, white and green, charged centrally with a golden sun (the Roj) of twenty-one rays.",
+  "history": "Adopted as the flag of the Republic of Mahabad on 22 January 1946 and subsequently embraced as the pan-Kurdish national flag. It is the official flag of the Kurdistan Regional Government in Iraqi Kurdistan (statutory since 1992) and is used as an unofficial ethnic flag by Kurds across Turkey, Iran and Syria, often with legal restrictions on its display.",
+  "periods": [{ "start": "1946-01-22" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Kurdistan",
+    "https://en.wikipedia.org/wiki/Kurdistan"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["red", "white", "green"],
+      "count": 3
+    },
+    {
+      "type": "sun",
+      "rays": 21,
+      "color": "yellow",
+      "position": "center",
+      "role": "the Roj — the golden sun-disc, an ancient Kurdish symbol",
+      "symbolism": "the number 21 (Newroz, the Kurdish new year on 21 March) and the source of life"
+    }
+  ]
+}

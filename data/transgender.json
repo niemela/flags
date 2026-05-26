@@ -1,0 +1,28 @@
+{
+  "id": "transgender",
+  "name": "Transgender pride flag",
+  "type": ["ethnic"],
+  "parent": null,
+  "codes": {},
+  "region": [],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "light-blue", "symbolism": "the traditional colour for baby boys" },
+    { "color": "pink",       "symbolism": "the traditional colour for baby girls" },
+    { "color": "white",      "symbolism": "those who are transitioning, intersex, or who consider themselves non-binary" }
+  ],
+  "description": "Five horizontal stripes in a palindromic pattern — from top to bottom: light blue, pink, white, pink, light blue.",
+  "history": "Designed by US Navy veteran Monica Helms in 1999 and first flown at the Phoenix Pride parade in 2000. The palindromic stripe order is deliberate: 'the pattern is such that no matter which way you fly it, it will always be correct, signifying us trying to find correctness in our own lives.'",
+  "periods": [{ "start": "1999" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Transgender_flag"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["light-blue", "pink", "white", "pink", "light-blue"],
+      "count": 5,
+      "symbolism": "the palindromic stripe order is intentional so the flag is correct flown either way"
+    }
+  ]
+}

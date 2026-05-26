@@ -1,0 +1,34 @@
+{
+  "id": "PH_presidential",
+  "name": "Philippines (presidential standard)",
+  "type": ["country"],
+  "codes": {
+    "iso_3166_1_alpha2": "PH",
+    "wikidata": "Q928"
+  },
+  "region": ["Asia", "South-eastern Asia"],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "blue",   "symbolism": "the field" },
+    { "color": "yellow", "symbolism": "the sun, stars and the seal's rays — courage and patriotism" },
+    { "color": "red",    "symbolism": "the seal's chief — valour" },
+    { "color": "white",  "symbolism": "details of the seal" }
+  ],
+  "description": "A blue field bearing in the centre the Seal of the President of the Philippines — a sun of eight rays above three small five-pointed stars, encircled by a ring inscribed 'SEAL OF THE PRESIDENT OF THE PHILIPPINES' between two laurel sprays, all on a roundel.",
+  "history": "The presidential standard was authorised under Executive Order No. 310 (1950) and has been refined over subsequent administrations; the current emblem and proportions are set by Executive Order No. 310 and its amendments. The flag is reserved exclusively for the head of state.",
+  "variant": ["presidential-standard"],
+  "periods": [{ "start": "1950" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_president_of_the_Philippines",
+    "https://en.wikipedia.org/wiki/Seal_of_the_president_of_the_Philippines"
+  ],
+  "features": [
+    { "type": "solid", "color": "blue" },
+    {
+      "type": "seal",
+      "position": "center",
+      "role": "Seal of the President of the Philippines",
+      "symbolism": "the sun of liberty above three stars representing Luzon, Visayas and Mindanao, encircled by laurel and the seal's legend"
+    }
+  ]
+}

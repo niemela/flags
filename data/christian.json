@@ -1,0 +1,39 @@
+{
+  "id": "christian",
+  "name": "Christian Flag",
+  "type": ["organization"],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q5043"
+  },
+  "region": [],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "white", "symbolism": "the purity and peace of Christ" },
+    { "color": "blue",  "symbolism": "the canton — faithfulness, truth, and the waters of baptism" },
+    { "color": "red",   "symbolism": "the cross — the blood of Christ" }
+  ],
+  "description": "A white field with a blue canton in the upper hoist bearing a single red Latin cross.",
+  "history": "Designed in 1897 by Charles Overton, superintendent of a Sunday school in Brooklyn, New York, and popularised by Methodist youth-work secretary Ralph Diffendorfer. It was formally adopted by the (Protestant) Federal Council of Churches in 1942 and is widely used by Protestant denominations across the world; the Catholic and Eastern Orthodox churches do not use it.",
+  "periods": [{ "start": "1897" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Christian_Flag"
+  ],
+  "features": [
+    { "type": "solid", "color": "white" },
+    {
+      "type": "canton",
+      "color": "blue",
+      "proportion": "1/4",
+      "features": [
+        {
+          "type": "latin-cross",
+          "field": "blue",
+          "cross": "red",
+          "role": "the Latin cross of Christ"
+        }
+      ],
+      "symbolism": "the canton with the cross of Christ"
+    }
+  ]
+}

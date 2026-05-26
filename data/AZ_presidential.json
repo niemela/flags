@@ -1,0 +1,40 @@
+{
+  "id": "AZ_presidential",
+  "name": "Azerbaijan (presidential standard)",
+  "type": ["country"],
+  "codes": {
+    "iso_3166_1_alpha2": "AZ",
+    "wikidata": "Q227"
+  },
+  "region": ["Asia", "Western Asia", "Caucasus", "Post-Soviet", "Turkic"],
+  "aspect_ratio": "1:1",
+  "colors": [
+    { "color": "light-blue", "symbolism": "the upper band — Turkic heritage" },
+    { "color": "red",        "symbolism": "the middle band — progress and the building of a modern state" },
+    { "color": "green",      "symbolism": "the lower band — Islamic civilisation" },
+    { "color": "gold",       "symbolism": "the surrounding fringe and details of the emblem" },
+    { "color": "white",      "symbolism": "details of the emblem" }
+  ],
+  "description": "A square version of the Azerbaijani national tricolour (light-blue, red and green horizontal bands) charged on the red band with the national emblem of Azerbaijan (in place of the white crescent and eight-pointed star of the national flag). The standard is framed with golden fringes.",
+  "history": "Adopted on 15 September 2008 by Decree No. 828 of the president of Azerbaijan, as the official symbol of the head of state. The original is kept at the Presidential Palace; duplicates may be flown at presidential residences and other locations where the president is present. The pole carries a metal hood in the shape of a crescent and eight-pointed star and a silver cord bearing the president's name and term of office.",
+  "variant": ["presidential-standard"],
+  "periods": [{ "start": "2008-09-15" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Presidential_standard_of_Azerbaijan",
+    "https://en.wikipedia.org/wiki/National_emblem_of_Azerbaijan",
+    "https://en.wikipedia.org/wiki/Flag_of_Azerbaijan"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["light-blue", "red", "green"],
+      "count": 3
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "National Emblem of Azerbaijan (octagonal star with stylised flame on a tricolour ground, framed by a wreath of wheat and oak)",
+      "symbolism": "replaces the crescent-and-star of the civil flag"
+    }
+  ]
+}

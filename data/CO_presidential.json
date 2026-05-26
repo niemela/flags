@@ -1,0 +1,37 @@
+{
+  "id": "CO_presidential",
+  "name": "Colombia (presidential standard)",
+  "type": ["country"],
+  "codes": {
+    "iso_3166_1_alpha2": "CO",
+    "wikidata": "Q739"
+  },
+  "region": ["Americas", "South America", "Latin America and the Caribbean", "Latin America", "Hispanic"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "yellow", "symbolism": "the upper band — the gold of Colombia and its sovereignty" },
+    { "color": "blue",   "symbolism": "the middle band — the two oceans bordering Colombia" },
+    { "color": "red",    "symbolism": "the lower band — the blood spilt for independence" }
+  ],
+  "description": "The Colombian national tricolour (a 2-1-1 horizontal triband of yellow, blue and red) defaced in the centre with the national coat of arms — a shield with pomegranate, cornucopias and Phrygian cap, flanked by four Colombian flags and surmounted by an Andean condor with an olive wreath and the motto LIBERTAD Y ORDEN.",
+  "history": "The presidential standard adapts the national flag with the full national coat of arms as a personal flag of the President of Colombia as head of state and commander-in-chief.",
+  "variant": ["presidential-standard"],
+  "periods": [{ "start": "1834" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_president_of_Colombia",
+    "https://en.wikipedia.org/wiki/Coat_of_arms_of_Colombia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["yellow", "blue", "red"],
+      "count": 3,
+      "widths": [2, 1, 1]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Coat of arms of Colombia (full version, with condor, flags and motto scroll)"
+    }
+  ]
+}

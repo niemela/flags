@@ -1,0 +1,44 @@
+{
+  "id": "US_presidential",
+  "name": "United States (presidential standard)",
+  "type": ["country"],
+  "codes": {
+    "iso_3166_1_alpha2": "US",
+    "wikidata": "Q30"
+  },
+  "region": ["Americas", "Northern America", "Anglosphere"],
+  "colors": [
+    { "color": "navy",   "symbolism": "the dark blue field" },
+    { "color": "white",  "symbolism": "the stars and shield field" },
+    { "color": "yellow", "symbolism": "the eagle's olive branch, beak, talons and the rays and stars surrounding the eagle" },
+    { "color": "red",    "symbolism": "the stripes of the shield, the eagle's tongue and the ribbon" },
+    { "color": "blue",   "symbolism": "the chief of the shield" }
+  ],
+  "description": "A dark blue field bearing in the centre the Seal of the President of the United States: a bald eagle with outstretched wings clasping an olive branch in its dexter talon and a bundle of thirteen arrows in its sinister, with a striped (red and white) shield on its breast surmounted by a blue chief, holding in its beak a scroll inscribed E PLURIBUS UNUM, surrounded by a ring of fifty white five-pointed stars.",
+  "history": "The modern presidential flag was adopted by President Truman on 25 October 1945, replacing the 1916 design. A fiftieth star was added in 1959 with the admission of Hawaii.",
+  "variant": ["presidential-standard"],
+  "periods": [{ "start": "1959-08-21" }],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_president_of_the_United_States",
+    "https://en.wikipedia.org/wiki/Seal_of_the_president_of_the_United_States"
+  ],
+  "features": [
+    { "type": "solid", "color": "navy" },
+    {
+      "type": "seal",
+      "position": "center",
+      "color": "white",
+      "role": "Seal of the President of the United States",
+      "symbolism": "an eagle clutching olive branch and arrows, with the shield of the United States on its breast"
+    },
+    {
+      "type": "star",
+      "count": 50,
+      "points": 5,
+      "color": "white",
+      "arrangement": "circle",
+      "position": "center",
+      "role": "the fifty states surrounding the seal"
+    }
+  ]
+}
