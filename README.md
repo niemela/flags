@@ -487,11 +487,11 @@ nordic-cross                off-center cross (Scandinavian style)
 latin-cross                 cross with longer lower limb
 greek-cross                 equal-arm centered cross
 saltire                     X-shape (St Andrew, St Patrick, Jamaica, etc.)
-pile                        wedge crossing the flag (apex meets opposite edge — Cuba, Czech, Bahamas, Eritrea)
+pile                        wedge charge on a field whose other divisions do not align with the apex to form a Y-pattern (Cuba, Bahamas, Sudan, Palestine, Eritrea)
 triangle                    triangular fragment, typically hoist-positioned, that does NOT span the flag
 arrowhead                   pile-on-pile (Guyana)
 chevron                     V-shape stripe
-pall                        Y-shape (South Africa)
+pall                        Y-shape (South Africa, Vanuatu) OR field divided per pall into three triangles meeting at a single point (Czechia, Philippines, Djibouti, Sint Maarten)
 canton                      upper-hoist sub-region with its own field and content
 side                        full-height vertical band on the hoist side (Pakistan, UAE)
 side-sinister               full-height vertical band on the fly side
@@ -729,12 +729,15 @@ Used when an entire flag appears as a symbolic device — e.g., the three small 
 
 ### Feature type notes and conventions
 
-#### `pile` vs `triangle`
+#### `pall` vs `pile` vs `triangle`
 
-- **`pile`** — a wedge whose apex meets the opposite edge of the flag (spans the flag). Examples: Czech Republic, Cuba, Bahamas, Djibouti, Eritrea, São Tomé, Sudan, South Sudan.
-- **`triangle`** — a triangular fragment whose apex does NOT span the flag (typically a hoist triangle stopping at or before the flag's center). Less common as a structural pattern.
+A hoist (or fly) wedge can fall into one of three categories depending on what the rest of the field looks like:
 
-When in doubt, look at where the apex falls. If it touches the fly edge, it's a pile.
+- **`pall`** — covers two cases that produce the same Y-shaped division: an explicit Y-shaped charge sitting on the field (South Africa, Vanuatu — the green Y / yellow Y is itself a separate band) **and** a *party per pall* division, where a bicolour (not triband) field's horizontal split meets the apex of a hoist triangle at a single interior point, dividing the flag into three triangles separated by Y-shaped lines. The 3-region division is the more common case among national flags — examples: Czechia, Philippines, Djibouti, Sint Maarten, Khabarovsk Krai, Zabaykalsky Krai, Tuva (white pall, opening to the fly).
+- **`pile`** — a wedge charge sitting on a field whose other elements do *not* line up with the apex to produce that three-region Y-division. The two diagnostic cases are (a) a solid (single-colour) field with a wedge across it (American Samoa, Chukotka), and (b) a triband (or multi-stripe) field with a hoist wedge — the apex may sit on the meridian of the middle stripe but the stripe has thickness, so the boundary lines don't all meet at one point (Cuba, Bahamas, Sudan, South Sudan, Palestine, São Tomé, Eritrea, Jordan, Puerto Rico).
+- **`triangle`** — a triangular fragment whose apex does NOT span the flag (typically a hoist triangle stopping well short of the centre). Less common as a structural pattern.
+
+When in doubt: count regions. A flag with three regions divided by three lines meeting at one point is `pall`. A wedge on top of a striped or solid field is `pile`. A small corner wedge is `triangle`.
 
 #### Cross types as both structure and charge
 
