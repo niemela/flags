@@ -1,0 +1,77 @@
+{
+  "id": "US-PR",
+  "name": "Puerto Rico (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_1_alpha2": "PR",
+    "iso_3166_2": "US-PR",
+    "wikidata": "Q1183"
+  },
+  "region": [
+    "Americas",
+    "Latin America and the Caribbean",
+    "Caribbean",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the blood that nourishes the three branches of government"
+    },
+    {
+      "color": "white",
+      "symbolism": "individual liberty and the rights that keep government in balance"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the sky over Puerto Rico, the coastal waters, and the republican form of government (in the original revolutionary design)"
+    }
+  ],
+  "description": "Five equal horizontal stripes alternating red and white (red top and bottom), with a blue equilateral triangle based on the hoist bearing a single white five-pointed star in its centre.",
+  "history": "Designed in 1892 by members of the Puerto Rican Section of the Cuban Revolutionary Party in New York City, mirroring the Cuban flag with the colours of the stripes and triangle reversed in solidarity. Used by the independence movement, the flag was officially adopted by the Commonwealth of Puerto Rico on 24 July 1952. The shade of blue has changed over time, with a darker navy used historically and the lighter sky-blue defined by Public Law 1 of 1952; the dark/navy variant was reaffirmed in 1995.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1952-07-24"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Puerto_Rico"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 5,
+      "symbolism": "the five stripes (three red and two white) symbolize the blood that nourishes the three branches of government (legislative, executive, and judicial) and the rights of man and the freedom of the individual"
+    },
+    {
+      "type": "pile",
+      "count": 1,
+      "field": "red",
+      "pile": "blue",
+      "position": "hoist",
+      "role": "blue equilateral pile on the hoist",
+      "symbolism": "the three branches of the republican form of government (legislative, executive, judicial)."
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "hoist",
+      "role": "white five-pointed star (Lone Star) within the triangle",
+      "symbolism": "the Commonwealth of Puerto Rico itself."
+    }
+  ]
+}
