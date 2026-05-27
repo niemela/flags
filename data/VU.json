@@ -56,8 +56,31 @@
   ],
   "features": [
     {
-      "type": "complex",
-      "symbolism": "the flag combines a horizontal red-and-green division with a black hoist triangle and a yellow Y-shape (pall) — red for the blood of boars and humans (signifying unity in life), green for the richness of the islands, black for the Melanesian people, and yellow for the light of the Christian Gospel spread through the Y-shape, which also approximates the geographical layout of the archipelago"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2,
+      "symbolism": "the underlying division — red above for the blood of boars and humans (signifying unity in life), green below for the richness of the islands' vegetation"
+    },
+    {
+      "type": "pall",
+      "field": "red",
+      "pall": "yellow",
+      "fimbriation": {
+        "color": "black",
+        "around": "pall"
+      },
+      "symbolism": "a horizontal yellow Y-shape (pall lying on its side, opening to the hoist) outlined in narrow black; the arms run from the upper- and lower-hoist corners to meet at the hoist side and continue horizontally to the fly. The yellow stands for the sunshine and the light of the Christian Gospel, and the Y approximates the geographical layout of the Vanuatu archipelago"
+    },
+    {
+      "type": "triangle",
+      "field": "red",
+      "triangle": "black",
+      "position": "hoist",
+      "role": "black hoist triangle nested in the opening of the pall",
+      "symbolism": "the Melanesian people of Vanuatu"
     },
     {
       "type": "tool",
