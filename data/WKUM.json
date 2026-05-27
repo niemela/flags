@@ -41,8 +41,19 @@
   ],
   "features": [
     {
-      "type": "complex",
-      "symbolism": "A field divided diagonally between white above and red below, with a blue wedge along the hoist."
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend-sinister",
+      "symbolism": "the field is divided diagonally from upper-fly to lower-hoist: white above for the calm sky over the atoll, red below recalling the bloodshed of the 1941 Battle of Wake Island"
+    },
+    {
+      "type": "pile",
+      "field": "red",
+      "pile": "blue",
+      "position": "hoist",
+      "role": "blue hoist pile",
+      "symbolism": "the surrounding Pacific Ocean and the territory's American sovereignty"
     },
     {
       "type": "disc",
@@ -58,7 +69,7 @@
       "points": 5,
       "color": "yellow",
       "arrangement": "scattered",
-      "role": "three golden stars on the hoist wedge",
+      "role": "three golden stars on the hoist pile",
       "symbolism": "the three islets of the Wake atoll: Wake, Wilkes, and Peale"
     },
     {

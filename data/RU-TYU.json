@@ -29,12 +29,16 @@
       "symbolism": "the taiga forests and farmland of the southern oblast"
     },
     {
+      "color": "red",
+      "symbolism": "the courage and labour of the people; the historical struggle to settle and develop Siberia"
+    },
+    {
       "color": "yellow",
-      "symbolism": "the gold sun and discs in the upper hoist"
+      "symbolism": "the gold crowns of the historic coats of arms of the three constituent regions"
     }
   ],
-  "description": "A horizontal triband of white, blue and green with three small yellow discs arranged in a row in the upper hoist, on the white stripe.",
-  "history": "The flag of Tyumen Oblast was adopted on 24 May 1995. The three discs symbolise the south of the oblast together with the two autonomous okrugs (Khanty-Mansi and Yamalo-Nenets) that historically formed part of it.",
+  "description": "A horizontal triband of white, blue and green with a red isoceles pile based on the hoist and three yellow crowns arranged in a row in the upper hoist, on the white stripe.",
+  "history": "The flag of Tyumen Oblast was adopted on 24 May 1995. The three crowns symbolise the south of the oblast together with the two autonomous okrugs (Khanty-Mansi and Yamalo-Nenets) that historically formed part of it.",
   "periods": [
     {
       "start": "1995-05-24"
@@ -56,12 +60,21 @@
       "symbolism": "the white-blue-green tricolour represents the snowy north, the rivers and seas, and the southern taiga and steppes of the vast Tyumen Oblast."
     },
     {
-      "type": "circle",
+      "type": "pile",
+      "count": 1,
+      "field": "white",
+      "pile": "red",
+      "position": "hoist",
+      "role": "red hoist pile",
+      "symbolism": "the courage and labour of the people and the historical struggle to settle and develop Siberia"
+    },
+    {
+      "type": "crown",
       "count": 3,
       "color": "yellow",
       "position": "upper-hoist",
       "arrangement": "row",
-      "role": "three gold discs",
+      "role": "three gold crowns",
       "symbolism": "represent the three constituent regions of the historical Tyumen Oblast: the south, the Khanty-Mansi Autonomous Okrug and the Yamalo-Nenets Autonomous Okrug."
     }
   ]

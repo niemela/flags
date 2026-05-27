@@ -56,16 +56,22 @@
   ],
   "features": [
     {
-      "type": "complex",
-      "field": "black",
-      "symbolism": "based on the flag of the 1916 Arab Revolt against the Ottoman Empire; three horizontal stripes (black, white, green) with a red triangle at the hoist representing the four Arab caliphates"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "symbolism": "based on the flag of the 1916 Arab Revolt against the Ottoman Empire; the three horizontal stripes represent the Abbasid, Umayyad and Fatimid Caliphates"
     },
     {
-      "type": "triangle",
+      "type": "pile",
       "count": 1,
-      "color": "red",
+      "field": "white",
+      "pile": "red",
       "position": "hoist",
-      "role": "hoist triangle (Hashemite dynasty / Arab Revolt)",
+      "role": "hoist pile (Hashemite dynasty / Arab Revolt)",
       "symbolism": "the Hashemite dynasty, descendants of the Prophet Muhammad and the leaders of the 1916 Arab Revolt against Ottoman rule"
     },
     {

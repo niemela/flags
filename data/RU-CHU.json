@@ -46,16 +46,18 @@
   ],
   "features": [
     {
-      "type": "complex",
-      "symbolism": "the blue field stands for the Bering and Chukchi Seas; the white triangle at the hoist evokes the Arctic snows and ice; the smaller red-blue-white triband within recalls the colours of the Russian flag; the golden circle echoes the polar sun."
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the blue field stands for the Bering and Chukchi Seas around Chukotka"
     },
     {
-      "type": "triangle",
+      "type": "pile",
       "count": 1,
-      "color": "white",
+      "field": "blue",
+      "pile": "white",
       "position": "hoist",
-      "role": "white hoist triangle",
-      "symbolism": "a white isoceles triangle whose base lies along the hoist edge, point toward the centre; represents the Arctic snows and ice of Chukotka."
+      "role": "white hoist pile",
+      "symbolism": "a white isoceles pile whose base lies along the hoist edge and apex extends past the centre toward the fly; represents the Arctic snows and ice of Chukotka"
     },
     {
       "type": "circle",

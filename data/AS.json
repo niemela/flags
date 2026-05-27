@@ -55,8 +55,15 @@
   ],
   "features": [
     {
-      "type": "complex",
-      "symbolism": "a triangle of white pointing toward the hoist divides the field, separating an upper red triangle from a lower red triangle; the white triangle bears a bald eagle clutching a uatogi (war club) and fue (whisk), traditional Samoan symbols of authority"
+      "type": "pile",
+      "field": "blue",
+      "pile": "white",
+      "direction": "hoist",
+      "fimbriation": {
+        "color": "red",
+        "around": "pile"
+      },
+      "symbolism": "a white pile fimbriated red runs from the fly edge toward the hoist, leaving dark blue triangles above and below; the red bands frame the white wedge"
     },
     {
       "type": "eagle",
