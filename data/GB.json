@@ -50,28 +50,24 @@
   ],
   "features": [
     {
-      "type": "complex",
-      "symbolism": "the Union Flag — a combined heraldic device superimposing the crosses of the patron saints of England (St George), Scotland (St Andrew) and Ireland (St Patrick), embodying the political union of the three kingdoms"
+      "type": "saltire",
+      "field": "navy",
+      "saltire": "white",
+      "role": "Saltire of St Andrew (Scotland)",
+      "symbolism": "the patron saint of Scotland; an X-shaped cross commemorating St Andrew's martyrdom on a saltire"
     },
     {
-      "type": "greek-cross",
-      "color": "white",
-      "position": "center",
-      "role": "saltire of St Andrew (Scotland)",
-      "symbolism": "the patron saint of Scotland; an X-shaped cross commemorating St Andrew's martyrdom on a saltire cross"
+      "type": "saltire",
+      "color": "red",
+      "fimbriation": { "color": "white", "around": "saltire" },
+      "role": "Saltire of St Patrick (Ireland)",
+      "symbolism": "the patron saint of Ireland; counter-changed with the white saltire of St Andrew so that the red lies offset from the centre of the white in each arm, fimbriated white"
     },
     {
       "type": "greek-cross",
       "color": "red",
-      "position": "center",
-      "role": "saltire of St Patrick (Ireland)",
-      "symbolism": "the patron saint of Ireland; counter-changed with the white saltire of St Andrew so that the red lies offset from the centre of the white in each arm"
-    },
-    {
-      "type": "greek-cross",
-      "color": "red",
-      "position": "center",
-      "role": "cross of St George (England)",
+      "fimbriation": { "color": "white", "around": "cross" },
+      "role": "Cross of St George (England)",
       "symbolism": "the patron saint of England; a centred upright Greek cross fimbriated white"
     }
   ]
