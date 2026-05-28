@@ -1,10 +1,14 @@
 {
-  "id": "IQ-BG-baghdad",
+  "id": "IQ-BG",
   "name": "Baghdad (Iraq)",
-  "type": ["city"],
-  "parent": "IQ-BG",
+  "type": [
+    "city",
+    "subdivision"
+  ],
+  "parent": "IQ",
   "codes": {
-    "wikidata": "Q1530"
+    "wikidata": "Q1530",
+    "iso_3166_2": "IQ-BG"
   },
   "region": [
     "Asia",
@@ -15,9 +19,18 @@
   ],
   "aspect_ratio": "2:3",
   "colors": [
-    { "color": "white", "symbolism": "the field" },
-    { "color": "blue", "symbolism": "elements of the city emblem" },
-    { "color": "green", "symbolism": "elements of the city emblem" }
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "elements of the city emblem"
+    },
+    {
+      "color": "green",
+      "symbolism": "elements of the city emblem"
+    }
   ],
   "description": "The official flag of the Baghdad governorate / municipality bearing the city's emblem.",
   "history": "Baghdad is the capital and largest city of Iraq.",
