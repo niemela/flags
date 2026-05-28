@@ -47,8 +47,20 @@
   ],
   "features": [
     {
-      "type": "complex",
-      "symbolism": "the horizontal blue, yellow and red bands recall the historic Cossack flag of the Don, while the white vertical stripe at the hoist represents the unity of the Don Cossacks with the Russian state."
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "the historic Don Cossack tricolour (1918)"
+    },
+    {
+      "type": "side",
+      "color": "white",
+      "proportion": "1/9",
+      "symbolism": "the white hoist stripe added in 1996 to represent the union of the Don land with the Russian state"
     }
   ]
 }

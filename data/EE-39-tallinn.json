@@ -23,15 +23,20 @@
       "color": "blue"
     }
   ],
-  "description": "A white field charged with three vertical blue rectangles centred along the vertical axis, derived from the colours of the medieval Tallinn coat of arms.",
-  "history": "Tallinn's flag, in white and blue, references the city's historic coat of arms (a white cross on red), reinterpreted in the late 20th century. The three-rectangle design was adopted by the Tallinn City Council in modern Estonia.",
+  "description": "Six equal horizontal stripes alternating blue and white (blue at the top and bottom, with three blue stripes total separated by two white stripes), in the city's traditional civic colours.",
+  "history": "Tallinn's white-and-blue civic colours derive from the city's medieval coat of arms. The horizontally-banded flag in this form is the modern municipal flag adopted by the Tallinn City Council.",
   "sources": [
     "https://en.wikipedia.org/wiki/Flag_of_Tallinn"
   ],
   "features": [
     {
-      "type": "complex",
-      "symbolism": "Three vertical blue rectangles on a white field, recalling the city's historic civic colours."
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 6,
+      "symbolism": "Tallinn's traditional civic colours"
     }
   ]
 }
