@@ -70,6 +70,16 @@ Pick the most natural composite key. If two entities collide under the simpler f
 
 The same pattern applies to counties and other sub-subdivisions, tagged in JSON as `type: ["subdivision"]` with their parent in `parent`.
 
+#### Dual-coded entities and political perspective
+
+A number of entities have both an ISO 3166-1 alpha-2 code *and* an ISO 3166-2 subdivision code — typically dependent territories ISO lists at both levels (PR, AS, GU, MP, VI, AX, MF, TW, FO, GL, …). For these:
+
+1. **Use the ISO 3166-1 code as the file id.** Record the 3166-2 code in `codes.iso_3166_2` for cross-reference. `parent` still carries the administrative containment (Puerto Rico's `parent` is `US`).
+2. **Same flag → one file.** Mere political dispute does *not* justify a second entry. The 1992 Crimean tricolour is the same flag whether viewed from Kyiv or Moscow, so it lives at `UA-43` only.
+3. **Distinct flag artifacts from different perspectives → separate files.** When the containing state publishes a *different* flag for the same territory, both belong in the corpus as independent entries: the entity's own under the 3166-1 id, the containing state's flag for the territory under the 3166-2 id. The PRC's [Flag of Taiwan Province](https://en.wikipedia.org/wiki/File:Flag_of_Taiwan_Province.svg) is the canonical example — `TW` carries Taiwan's own flag, and a separate `CN-TW` carries the PRC's published provincial flag. Use `name` to make the framing clear ("Taiwan", "Taiwan Province (China)") and `status` (`proposed`, `de-facto`, `alternative`) to indicate the flag's actual usage if it isn't widely flown.
+
+When an entity's actual flag is *its own* but the existing file id reflects only a claimant's administrative naming, prefer a slug (or the entity's own ISO code if one exists) over the claimant-side 3166-2 code. Kosovo's flag is the Republic of Kosovo's own flag, not Serbia's flag for the Autonomous Province of Kosovo and Metohija (`RS-KM`), so the file belongs at `kosovo`. Self-proclaimed or breakaway entities without ISO codes use descriptive slugs in the existing style (`northern-cyprus`, `west-ukrainian-peoples-republic`); a Donetsk People's Republic flag belongs at `donetsk-peoples-republic`, distinct from the Ukrainian oblast at `UA-14`.
+
 #### Slug rules
 
 When constructing a slug from a name:
