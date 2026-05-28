@@ -1,7 +1,10 @@
 {
   "id": "IS_regent",
   "name": "Iceland (Regent's standard, 1941–1944)",
-  "type": ["historical", "country"],
+  "type": [
+    "historical",
+    "country"
+  ],
   "codes": {
     "iso_3166_1_alpha2": "IS",
     "wikidata": "Q189"
@@ -14,16 +17,34 @@
   "shape": "swallowtail",
   "aspect_ratio": "9:16",
   "colors": [
-    { "color": "blue", "symbolism": "the field of the state flag" },
-    { "color": "white", "symbolism": "the cross fimbriation and central shield" },
-    { "color": "red", "symbolism": "the cross" },
-    { "color": "yellow", "symbolism": "details of the coat of arms" }
+    {
+      "color": "blue",
+      "symbolism": "the field of the state flag"
+    },
+    {
+      "color": "white",
+      "symbolism": "the cross fimbriation and central shield"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "details of the coat of arms"
+    }
   ],
   "description": "The Icelandic state flag (swallow-tailed Nordic-cross flag) defaced in the centre with the coat of arms of the Kingdom of Iceland.",
   "history": "Standard of the Regent of Iceland (Ríkisstjóri Íslands), an office created on 17 June 1941 after the German occupation of Denmark severed Iceland from the Danish king. Sveinn Björnsson held the office until Iceland became a republic on 17 June 1944, when he was elected the first president.",
-  "variant": ["royal-standard"],
-  "status": "de-jure",
-  "periods": [{ "start": "1941-06-17", "end": "1944-06-17" }],
+  "variant": [
+    "royal-standard"
+  ],
+  "periods": [
+    {
+      "start": "1941-06-17",
+      "end": "1944-06-17"
+    }
+  ],
   "sources": [
     "https://en.wikipedia.org/wiki/Regent_of_Iceland"
   ],
@@ -32,7 +53,10 @@
       "type": "nordic-cross",
       "field": "blue",
       "cross": "red",
-      "fimbriation": { "color": "white", "around": "cross" }
+      "fimbriation": {
+        "color": "white",
+        "around": "cross"
+      }
     },
     {
       "type": "coat-of-arms",

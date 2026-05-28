@@ -1,7 +1,10 @@
 {
   "id": "IS_royal",
   "name": "Iceland (Royal Standard, 1921–1944)",
-  "type": ["historical", "country"],
+  "type": [
+    "historical",
+    "country"
+  ],
   "codes": {
     "iso_3166_1_alpha2": "IS",
     "wikidata": "Q189"
@@ -14,16 +17,34 @@
   "shape": "swallowtail",
   "aspect_ratio": "9:16",
   "colors": [
-    { "color": "blue", "symbolism": "the field of the state flag" },
-    { "color": "white", "symbolism": "the cross fimbriation and central shield" },
-    { "color": "red", "symbolism": "the cross" },
-    { "color": "yellow", "symbolism": "the crown and details of the arms" }
+    {
+      "color": "blue",
+      "symbolism": "the field of the state flag"
+    },
+    {
+      "color": "white",
+      "symbolism": "the cross fimbriation and central shield"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the crown and details of the arms"
+    }
   ],
   "description": "The Icelandic state flag (swallow-tailed Nordic-cross flag) defaced in the centre with the crowned royal arms of the King of Iceland.",
   "history": "Royal standard of the King of Iceland — used during the personal union with Denmark (Kingdom of Iceland, 1918–1944) by the Danish monarch in his capacity as King of Iceland. The design dates from approximately 1921.",
-  "variant": ["royal-standard"],
-  "status": "de-jure",
-  "periods": [{ "start": "1921", "end": "1944-06-17" }],
+  "variant": [
+    "royal-standard"
+  ],
+  "periods": [
+    {
+      "start": "1921",
+      "end": "1944-06-17"
+    }
+  ],
   "sources": [
     "https://en.wikipedia.org/wiki/Kingdom_of_Iceland"
   ],
@@ -32,7 +53,10 @@
       "type": "nordic-cross",
       "field": "blue",
       "cross": "red",
-      "fimbriation": { "color": "white", "around": "cross" }
+      "fimbriation": {
+        "color": "white",
+        "around": "cross"
+      }
     },
     {
       "type": "coat-of-arms",

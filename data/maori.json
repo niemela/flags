@@ -1,7 +1,9 @@
 {
   "id": "maori",
   "name": "Māori (Tino Rangatiratanga flag)",
-  "type": ["ethnic"],
+  "type": [
+    "ethnic"
+  ],
   "codes": {
     "wikidata": "Q3146641"
   },
@@ -11,21 +13,37 @@
   ],
   "aspect_ratio": "1:2",
   "colors": [
-    { "color": "black", "symbolism": "Te Korekore — the realm of potential being" },
-    { "color": "white", "symbolism": "Te Ao Mārama — the realm of being and light; the koru" },
-    { "color": "red", "symbolism": "Te Whei Ao — the realm of coming into being; Papatūānuku, the earth mother" }
+    {
+      "color": "black",
+      "symbolism": "Te Korekore — the realm of potential being"
+    },
+    {
+      "color": "white",
+      "symbolism": "Te Ao Mārama — the realm of being and light; the koru"
+    },
+    {
+      "color": "red",
+      "symbolism": "Te Whei Ao — the realm of coming into being; Papatūānuku, the earth mother"
+    }
   ],
   "description": "Three horizontal bands — black (top), white (middle, narrower, curving), red (bottom) — with a koru (an unfurling fern frond) in white extending from the white stripe into the black band at the hoist.",
   "history": "Designed in 1990 by Hiraina Marsden, Jan Smith and Linda Munn for the centennial of the Treaty of Waitangi. Recognised by the New Zealand Cabinet on 14 December 2009 as the national Māori flag, flown alongside the New Zealand flag on Waitangi Day.",
-  "status": "de-jure",
-  "periods": [{ "start": "1990" }],
+  "periods": [
+    {
+      "start": "1990"
+    }
+  ],
   "sources": [
     "https://en.wikipedia.org/wiki/Tino_rangatiratanga_flag"
   ],
   "features": [
     {
       "type": "horizontal-stripes",
-      "stripes": ["black", "white", "red"],
+      "stripes": [
+        "black",
+        "white",
+        "red"
+      ],
       "count": 3,
       "symbolism": "the three realms — Te Korekore (potential), Te Ao Mārama (light/being), Te Whei Ao (becoming)"
     },

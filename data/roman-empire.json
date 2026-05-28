@@ -1,7 +1,10 @@
 {
   "id": "roman-empire",
   "name": "Roman Empire (vexillum, c.27 BC–AD 476)",
-  "type": ["historical", "country"],
+  "type": [
+    "historical",
+    "country"
+  ],
   "codes": {
     "wikidata": "Q2277"
   },
@@ -13,16 +16,26 @@
     "Southern Europe",
     "Western Asia"
   ],
-  "shape": "rectangular",
   "aspect_ratio": "1:1",
   "status": "reconstructed",
   "colors": [
-    { "color": "red", "symbolism": "the field — the colour traditionally associated with the Roman legions" },
-    { "color": "yellow", "symbolism": "the SPQR lettering" }
+    {
+      "color": "red",
+      "symbolism": "the field — the colour traditionally associated with the Roman legions"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the SPQR lettering"
+    }
   ],
   "description": "A red square (or rectangle) bearing the gold lettering 'SPQR' — Senatus Populusque Romanus ('the Senate and People of Rome') — typically hung vertically from a horizontal crossbar.",
   "history": "The vexillum was a Roman military and ceremonial banner — a square cloth hung from a crossbar atop a pole, distinguishing it from the more iconic legionary aquila (eagle standard). Surviving evidence (notably the Trajan's Column reliefs, Roman frescoes and a single archaeological example of a vexillum from Egypt) suggests red as the dominant colour. SPQR appeared on standards and military insignia. Modern reconstructions of 'the' Roman flag use this design, though the empire had no national flag in the modern sense.",
-  "periods": [{ "start": "-0027", "end": "0476" }],
+  "periods": [
+    {
+      "start": "-0027",
+      "end": "0476"
+    }
+  ],
   "sources": [
     "https://en.wikipedia.org/wiki/Vexillum",
     "https://en.wikipedia.org/wiki/SPQR"
