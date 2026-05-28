@@ -297,6 +297,8 @@ swallowtail     Ohio, several naval ensigns
 double-pennant  Nepal (only national flag)
 pennant         single-tailed
 burgee          yacht-club / sports-team style
+gonfalone       multi-pointed pennon (Italian regional flags like Veneto)
+complex         irregular outline that doesn't fit a category; describe in prose
 ```
 
 Square flags (Switzerland, Vatican) use `shape: "rectangular"` with `aspect_ratio: "1:1"` rather than a separate `square` value.
@@ -432,7 +434,7 @@ rays           optional        for suns and similar radiating charges (8, 16, 32
 size           optional        large | medium | small (only when the flag distinguishes)
 position       default center  placement region (see below)
 proportion     optional        relative size, e.g., "1/4" for cantons, "1/3" for sides
-direction      optional        "hoist" / "fly" / "chief" / "base" for piles; "bend" / "bend-sinister" for diagonal-stripes
+direction      optional        for piles and palls: "hoist" / "fly" / "chief" / "base" — names the direction the apex (pile) or stem (pall) points; for diagonal-stripes and per-bend: "bend" / "bend-sinister" (see below)
 arrangement    optional        for charge groups (see below)
 rows           optional        for grid arrangements; per-row counts
 rotation       default 0       degrees of rotation
@@ -455,16 +457,21 @@ center-hoist, center-fly
 ### Arrangement values
 
 ```
-single, row, grid, circle, arc,
+single, row, grid, circle, arc, border,
 southern-cross, big-dipper, scattered,
 cross-pattern, saltire-pattern, constellation-other
 ```
 
 For grid arrangements, `rows` lists per-row counts. The US flag's 50 stars are `arrangement: "grid", rows: [6, 5, 6, 5, 6, 5, 6, 5, 6]`.
 
+- **`single`** implies `count: 1`; multi-star arrangements must use one of the other values.
+- **`row`** is direction-agnostic — a row can be horizontal, vertical, or aligned along any feature (e.g. along a stripe or along a pile edge). Describe the orientation in `role` when not obvious from the flag's geometry.
+- **`border`** is for charges following the outline of an underlying shape (Arkansas's 25 stars around the perimeter of the blue diamond).
+- When no pre-defined arrangement fits (e.g. Philippines's three stars at the corners of the hoist triangle), use `scattered` and spell out the placement in `role`.
+
 ### Feature type enum
 
-The enum is the union of layout types and charge types. Many types work in both modes — as a full-field structural pattern when first/dominant, as a placed device when smaller or positioned.
+The enum is the union of layout types and charge types. The category headings below (**Layout / division types**, **Cross / saltire / wedge types**, **Astronomical charges**, etc.) are organisational aids only — *they are not valid feature types themselves*. Pick a specific value from inside each section. Many types work in both modes — as a full-field structural pattern when first/dominant, as a placed device when smaller or positioned.
 
 #### Layout / division types (typically dominant)
 
@@ -476,6 +483,7 @@ diagonal-stripes            stripes along a diagonal (with `direction`)
 per-bend                    diagonal split into two solid halves
 per-saltire                 X-divided into four triangles
 quartered                   four equal fields
+chequy                      chequered / checkerboard field (Bremen canton, several heraldic banners)
 bordure                     solid border around a different field
 complex                     does not decompose; describe in `description`
 ```
@@ -504,25 +512,29 @@ lozenge                     diamond shape (rhombus); use for placed diamond-shap
 star, sun, crescent, moon
 ```
 
-#### Heraldic charges
+#### Heraldic devices
 
 ```
 coat-of-arms, shield, seal, crest, crown, wreath
 ```
 
-#### Fauna
+#### Fauna (animal charges)
 
 ```
-eagle, bird, lion, dragon, horse, serpent, animal-other, mythical-creature
+eagle, bird, lion, dragon, horse, serpent, shell, animal-other, mythical-creature
 ```
 
-#### Flora
+`shell` covers escallops and other marine-shell charges (common in English county heraldry).
+
+#### Flora (plant charges)
 
 ```
-tree, palm, cedar, maple-leaf, flower, olive-branch, wheat, leaf, cactus
+tree, palm, cedar, maple-leaf, flower, fruit, olive-branch, wheat, leaf, cactus
 ```
 
-#### Tools / weapons
+`fruit` is generic; capture the specific kind (apple, pear, orange, etc.) in `role`.
+
+#### Implements and weapons
 
 ```
 hammer-and-sickle, sword, spear, axe, anchor, key, tool, firearm, cogwheel, chain
@@ -575,12 +587,13 @@ diagonal-stripes    stripes, count, direction
 per-bend            field (top), bend (bottom), direction
 per-saltire         hoist, top, fly, bottom (four triangle colors)
 quartered           quarters (array of 4 colors, hoist-top first, clockwise)
+chequy              field, chequy (second color), columns, rows
 bordure             field, border
 nordic-cross        field, cross
 latin-cross         field, cross
 greek-cross         field, cross
 saltire             field, saltire
-pall                field, pall
+pall                field, pall, direction
 pile                field, pile, direction
 triangle            field, triangle
 arrowhead           field, outer, inner
@@ -733,11 +746,36 @@ Used when an entire flag appears as a symbolic device — e.g., the three small 
 
 A hoist (or fly) wedge can fall into one of three categories depending on what the rest of the field looks like:
 
-- **`pall`** — covers two cases that produce the same Y-shaped division: an explicit Y-shaped charge sitting on the field (South Africa, Vanuatu — the green Y / yellow Y is itself a separate band) **and** a *party per pall* division, where a bicolour (not triband) field's horizontal split meets the apex of a hoist triangle at a single interior point, dividing the flag into three triangles separated by Y-shaped lines. The 3-region division is the more common case among national flags — examples: Czechia, Philippines, Djibouti, Sint Maarten, Khabarovsk Krai, Zabaykalsky Krai, Tuva (white pall, opening to the fly).
+- **`pall`** — covers two cases that produce the same Y-shaped division: an explicit Y-shaped charge sitting on the field (South Africa, Vanuatu — the green Y / yellow Y is itself a separate band) **and** a *party per pall* division, where a bicolour (not triband) field's horizontal split meets the apex of a hoist triangle at a single interior point, dividing the flag into three triangles separated by Y-shaped lines. The 3-region division is the more common case among national flags — examples: Czechia, Philippines, Djibouti, Sint Maarten, Khabarovsk Krai, Zabaykalsky Krai, Tuva (white pall, arms to the hoist, stem extending to the fly).
 - **`pile`** — a wedge charge sitting on a field whose other elements do *not* line up with the apex to produce that three-region Y-division. The two diagnostic cases are (a) a solid (single-colour) field with a wedge across it (American Samoa, Chukotka), and (b) a triband (or multi-stripe) field with a hoist wedge — the apex may sit on the meridian of the middle stripe but the stripe has thickness, so the boundary lines don't all meet at one point (Cuba, Bahamas, Sudan, South Sudan, Palestine, São Tomé, Eritrea, Jordan, Puerto Rico).
 - **`triangle`** — a triangular fragment whose apex does NOT span the flag (typically a hoist triangle stopping well short of the centre). Less common as a structural pattern.
 
 When in doubt: count regions. A flag with three regions divided by three lines meeting at one point is `pall`. A wedge on top of a striped or solid field is `pile`. A small corner wedge is `triangle`.
+
+##### `pall` direction
+
+A pall may have any of four orientations, named for the side toward which the *stem* of the Y points (per FOTW). The two arms of the Y diverge toward the opposite side.
+
+```
+direction       stem       arms                   examples
+---------       -----      -----------------      ----------------------------------------
+"fly"           fly        upper-hoist,           Czechia, Philippines, Djibouti, Sint Maarten,
+                           lower-hoist            Tuva, Vanuatu, South Africa (default)
+"hoist"         hoist      upper-fly, lower-fly   (rare; FOTW "reversed pall")
+"base"          base       upper-hoist, upper-fly US-MO-saint-louis
+"chief"         chief      lower-hoist, lower-fly (rare; FOTW "inverted pall")
+```
+
+Default is `"fly"` (FOTW "simple pall"); omit `direction` when it applies.
+
+#### `bend` vs `bend-sinister`
+
+For `per-bend` and `diagonal-stripes`, the `direction` attribute names the diagonal **axis**, following the heraldic convention:
+
+- **`bend`** — the axis runs from upper-hoist (dexter chief) to lower-fly (sinister base). A flag described as "divided diagonally from upper hoist to lower fly" uses `direction: "bend"`.
+- **`bend-sinister`** — the axis runs from lower-hoist (dexter base) to upper-fly (sinister chief). A flag described as "divided diagonally from lower hoist to upper fly" uses `direction: "bend-sinister"`.
+
+The direction names the line, not the order of colours along it.
 
 #### Cross types as both structure and charge
 

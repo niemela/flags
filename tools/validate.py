@@ -35,7 +35,7 @@ TYPE_ENUM = {
     "organization", "ethnic", "historical",
 }
 
-SHAPE_ENUM = {"rectangular", "swallowtail", "double-pennant", "pennant", "burgee"}
+SHAPE_ENUM = {"rectangular", "swallowtail", "double-pennant", "pennant", "burgee", "gonfalone", "complex"}
 
 STATUS_ENUM = {"de-jure", "de-facto", "proposed", "alternative", "reconstructed"}
 
@@ -75,7 +75,7 @@ REGION_ENUM = {
 FEATURE_ENUM = {
     # layout / division
     "solid", "horizontal-stripes", "vertical-stripes", "diagonal-stripes",
-    "per-bend", "per-saltire", "quartered", "bordure", "complex",
+    "per-bend", "per-saltire", "quartered", "chequy", "bordure", "complex",
     # cross / saltire / wedge
     "nordic-cross", "latin-cross", "greek-cross", "saltire", "pile", "triangle",
     "arrowhead", "chevron", "pall", "canton", "side", "side-sinister", "lozenge",
@@ -84,11 +84,11 @@ FEATURE_ENUM = {
     # heraldic
     "coat-of-arms", "shield", "seal", "crest", "crown", "wreath",
     # fauna
-    "eagle", "bird", "lion", "dragon", "horse", "serpent", "animal-other",
-    "mythical-creature",
+    "eagle", "bird", "lion", "dragon", "horse", "serpent", "shell",
+    "animal-other", "mythical-creature",
     # flora
-    "tree", "palm", "cedar", "maple-leaf", "flower", "olive-branch", "wheat",
-    "leaf", "cactus",
+    "tree", "palm", "cedar", "maple-leaf", "flower", "fruit", "olive-branch",
+    "wheat", "leaf", "cactus",
     # tools / weapons
     "hammer-and-sickle", "sword", "spear", "axe", "anchor", "key", "tool",
     "firearm", "cogwheel", "chain",
@@ -111,7 +111,8 @@ REQUIRED_FIELDS = ("id", "name", "type", "description", "features", "colors")
 # Feature keys that carry a single color value, and those that carry a list.
 SCALAR_COLOR_KEYS = {
     "color", "field", "cross", "saltire", "pall", "pile", "triangle", "bend",
-    "chevron", "border", "outer", "inner", "hoist", "top", "fly", "bottom",
+    "chequy", "chevron", "border", "outer", "inner", "hoist", "top", "fly",
+    "bottom",
 }
 ARRAY_COLOR_KEYS = {"stripes", "quarters"}
 
