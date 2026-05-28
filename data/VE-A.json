@@ -1,10 +1,14 @@
 {
-  "id": "VE-A-caracas",
+  "id": "VE-A",
   "name": "Caracas (Venezuela)",
-  "type": ["city"],
-  "parent": "VE-A",
+  "type": [
+    "city",
+    "subdivision"
+  ],
+  "parent": "VE",
   "codes": {
-    "wikidata": "Q1533"
+    "wikidata": "Q1533",
+    "iso_3166_2": "VE-A"
   },
   "region": [
     "Americas",
@@ -14,10 +18,22 @@
   ],
   "aspect_ratio": "2:3",
   "colors": [
-    { "color": "red", "symbolism": "details" },
-    { "color": "yellow", "symbolism": "details" },
-    { "color": "white", "symbolism": "details" },
-    { "color": "blue", "symbolism": "details" }
+    {
+      "color": "red",
+      "symbolism": "details"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "details"
+    },
+    {
+      "color": "white",
+      "symbolism": "details"
+    },
+    {
+      "color": "blue",
+      "symbolism": "details"
+    }
   ],
   "description": "Flag of Caracas (Capital District) bearing the city's coat of arms.",
   "history": "Caracas is the capital and largest city of Venezuela.",

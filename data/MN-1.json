@@ -1,10 +1,14 @@
 {
-  "id": "MN-1-ulaanbaatar",
+  "id": "MN-1",
   "name": "Ulaanbaatar (Mongolia)",
-  "type": ["city"],
-  "parent": "MN-1",
+  "type": [
+    "city",
+    "subdivision"
+  ],
+  "parent": "MN",
   "codes": {
-    "wikidata": "Q1514"
+    "wikidata": "Q1514",
+    "iso_3166_2": "MN-1"
   },
   "region": [
     "Asia",
@@ -12,9 +16,18 @@
   ],
   "aspect_ratio": "1:2",
   "colors": [
-    { "color": "blue", "symbolism": "the eternal blue sky" },
-    { "color": "yellow", "symbolism": "Buddhist tradition and the city emblem" },
-    { "color": "white", "symbolism": "purity" }
+    {
+      "color": "blue",
+      "symbolism": "the eternal blue sky"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "Buddhist tradition and the city emblem"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity"
+    }
   ],
   "description": "Flag of Ulaanbaatar (the Mongolian capital), with the city emblem on a blue field.",
   "history": "Ulaanbaatar is the capital and largest city of Mongolia.",

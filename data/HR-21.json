@@ -1,10 +1,14 @@
 {
-  "id": "HR-21-zagreb",
+  "id": "HR-21",
   "name": "Zagreb (Croatia)",
-  "type": ["city"],
-  "parent": "HR-21",
+  "type": [
+    "city",
+    "subdivision"
+  ],
+  "parent": "HR",
   "codes": {
-    "wikidata": "Q1435"
+    "wikidata": "Q1435",
+    "iso_3166_2": "HR-21"
   },
   "region": [
     "Europe",
@@ -15,10 +19,22 @@
   ],
   "aspect_ratio": "1:2",
   "colors": [
-    { "color": "blue", "symbolism": "the field — heraldic colour of Zagreb's arms" },
-    { "color": "white", "symbolism": "the city walls and gate of the coat of arms" },
-    { "color": "yellow", "symbolism": "details of the coat of arms" },
-    { "color": "red", "symbolism": "details of the coat of arms" }
+    {
+      "color": "blue",
+      "symbolism": "the field — heraldic colour of Zagreb's arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "the city walls and gate of the coat of arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "details of the coat of arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "details of the coat of arms"
+    }
   ],
   "description": "A blue field bearing the coat of arms of Zagreb in the centre — a white walled city with three towers and an open gate, on a blue shield.",
   "history": "The flag of Zagreb is blue with the city's coat of arms in the centre. The arms, depicting an open gate beneath the walls of the medieval town with three towers, have been in use since the 16th century.",

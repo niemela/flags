@@ -1,10 +1,14 @@
 {
-  "id": "BY-HM-minsk",
+  "id": "BY-HM",
   "name": "Minsk (Belarus)",
-  "type": ["city"],
-  "parent": "BY-HM",
+  "type": [
+    "city",
+    "subdivision"
+  ],
+  "parent": "BY",
   "codes": {
-    "wikidata": "Q2280"
+    "wikidata": "Q2280",
+    "iso_3166_2": "BY-HM"
   },
   "region": [
     "Europe",
@@ -14,14 +18,30 @@
   ],
   "aspect_ratio": "1:2",
   "colors": [
-    { "color": "red", "symbolism": "the field" },
-    { "color": "blue", "symbolism": "the central design and water" },
-    { "color": "white", "symbolism": "the Virgin Mary depiction and details" },
-    { "color": "yellow", "symbolism": "details of the coat of arms" }
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the central design and water"
+    },
+    {
+      "color": "white",
+      "symbolism": "the Virgin Mary depiction and details"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "details of the coat of arms"
+    }
   ],
   "description": "A red field charged with the coat of arms of Minsk: a depiction of the Virgin Mary in a blue oval shield, flanked by angels.",
   "history": "The current flag of Minsk was adopted on 27 July 2001. It uses the city's coat of arms, which dates back to the city's Magdeburg-rights charter of 1591. The arms depict the Ascension of the Virgin Mary, supported by two angels.",
-  "periods": [{ "start": "2001-07-27" }],
+  "periods": [
+    {
+      "start": "2001-07-27"
+    }
+  ],
   "sources": [
     "https://en.wikipedia.org/wiki/Flag_of_Minsk"
   ],

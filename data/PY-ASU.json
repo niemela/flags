@@ -1,10 +1,14 @@
 {
-  "id": "PY-ASU-asuncion",
+  "id": "PY-ASU",
   "name": "Asunción (Paraguay)",
-  "type": ["city"],
-  "parent": "PY-ASU",
+  "type": [
+    "city",
+    "subdivision"
+  ],
+  "parent": "PY",
   "codes": {
-    "wikidata": "Q2933"
+    "wikidata": "Q2933",
+    "iso_3166_2": "PY-ASU"
   },
   "region": [
     "Americas",
@@ -14,10 +18,22 @@
   ],
   "aspect_ratio": "2:3",
   "colors": [
-    { "color": "white", "symbolism": "the field" },
-    { "color": "blue", "symbolism": "details" },
-    { "color": "yellow", "symbolism": "details" },
-    { "color": "red", "symbolism": "details" }
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "details"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "details"
+    },
+    {
+      "color": "red",
+      "symbolism": "details"
+    }
   ],
   "description": "A flag of Asunción bearing the city's coat of arms.",
   "history": "Asunción is the capital and largest city of Paraguay, and one of the oldest cities in South America (founded 1537).",

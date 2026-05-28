@@ -1,10 +1,14 @@
 {
-  "id": "RO-B-bucharest",
+  "id": "RO-B",
   "name": "Bucharest (Romania)",
-  "type": ["city"],
-  "parent": "RO-B",
+  "type": [
+    "city",
+    "subdivision"
+  ],
+  "parent": "RO",
   "codes": {
-    "wikidata": "Q19660"
+    "wikidata": "Q19660",
+    "iso_3166_2": "RO-B"
   },
   "region": [
     "Europe",
@@ -14,10 +18,22 @@
   ],
   "aspect_ratio": "2:3",
   "colors": [
-    { "color": "yellow", "symbolism": "the field" },
-    { "color": "blue", "symbolism": "details of the arms" },
-    { "color": "red", "symbolism": "details of the arms" },
-    { "color": "white", "symbolism": "details" }
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "details of the arms"
+    },
+    {
+      "color": "red",
+      "symbolism": "details of the arms"
+    },
+    {
+      "color": "white",
+      "symbolism": "details"
+    }
   ],
   "description": "A yellow (gold) field bearing the coat of arms of Bucharest in the centre — the figure of Saint Demetrius (Sfântul Dumitru), the city's patron saint.",
   "history": "Bucharest is the capital and largest city of Romania. The city's patron is Saint Demetrius the New, depicted in the city arms.",

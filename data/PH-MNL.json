@@ -1,10 +1,14 @@
 {
-  "id": "PH-MNL-manila",
+  "id": "PH-MNL",
   "name": "Manila (Philippines)",
-  "type": ["city"],
-  "parent": "PH-MNL",
+  "type": [
+    "city",
+    "subdivision"
+  ],
+  "parent": "PH",
   "codes": {
-    "wikidata": "Q1461"
+    "wikidata": "Q1461",
+    "iso_3166_2": "PH-MNL"
   },
   "region": [
     "Asia",
@@ -12,10 +16,22 @@
   ],
   "aspect_ratio": "1:2",
   "colors": [
-    { "color": "white", "symbolism": "the field" },
-    { "color": "blue", "symbolism": "details of the seal" },
-    { "color": "red", "symbolism": "details of the seal" },
-    { "color": "yellow", "symbolism": "details of the seal" }
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "details of the seal"
+    },
+    {
+      "color": "red",
+      "symbolism": "details of the seal"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "details of the seal"
+    }
   ],
   "description": "A flag of the City of Manila bearing the city's seal in the centre.",
   "history": "Manila is the capital and the second-most populous city of the Philippines.",
