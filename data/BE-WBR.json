@@ -1,0 +1,65 @@
+{
+  "id": "BE-WBR",
+  "name": "Walloon Brabant (Belgium)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "BE-WAL",
+  "codes": {
+    "iso_3166_2": "BE-WBR",
+    "wikidata": "Q1122"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the sable field of the historic Brabant arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the Brabant lion"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lion's tongue and claws and the two Walloon roosters in the corners"
+    }
+  ],
+  "description": "A black field charged with a yellow lion rampant with red tongue and claws (the Brabant lion); in the upper hoist and upper fly corners, two red Walloon roosters facing each other.",
+  "history": "Adopted on 2 January 1995, after the 1995 partition of the historic Province of Brabant. The lion is the Brabant lion of the medieval Duchy of Brabant; the two red roosters in the chief recall the Coq hardi of the Walloon Region and mark the province's Walloon identity.",
+  "periods": [
+    {
+      "start": "1995-01-02"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_and_coat_of_arms_of_Walloon_Brabant"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "black"
+    },
+    {
+      "type": "lion",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "Brabant lion (Leo Belgicus), rampant lion with red tongue and claws",
+      "symbolism": "the historic lion of the Duchy of Brabant"
+    },
+    {
+      "type": "bird",
+      "count": 2,
+      "color": "red",
+      "position": "top",
+      "arrangement": "row",
+      "role": "two Walloon roosters (Coq hardi) in the upper hoist and upper fly corners",
+      "symbolism": "the rooster of the Walloon Region, identifying the province with French-speaking Wallonia after the 1995 split of the Province of Brabant"
+    }
+  ]
+}
