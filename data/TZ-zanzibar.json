@@ -1,36 +1,60 @@
 {
   "id": "TZ-zanzibar",
   "name": "Zanzibar (Tanzania)",
-  "type": ["subdivision"],
+  "type": [
+    "subdivision"
+  ],
   "parent": "TZ",
   "codes": {
     "wikidata": "Q1774"
   },
   "region": [
     "Africa",
-    "Sub-Saharan Africa",
     "Eastern Africa",
     "Anglosphere",
     "Commonwealth"
   ],
   "aspect_ratio": "2:3",
   "colors": [
-    { "color": "blue", "symbolism": "the Indian Ocean" },
-    { "color": "black", "symbolism": "the people of Zanzibar" },
-    { "color": "green", "symbolism": "the land and Islam" },
-    { "color": "yellow", "symbolism": "details of the canton flag" },
-    { "color": "white", "symbolism": "details" }
+    {
+      "color": "blue",
+      "symbolism": "the Indian Ocean"
+    },
+    {
+      "color": "black",
+      "symbolism": "the people of Zanzibar"
+    },
+    {
+      "color": "green",
+      "symbolism": "the land and Islam"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "details of the canton flag"
+    },
+    {
+      "color": "white",
+      "symbolism": "details"
+    }
   ],
   "description": "Three horizontal stripes — blue, black, green — with the flag of Tanzania as a canton in the upper hoist.",
   "history": "Zanzibar is a semi-autonomous archipelago region of Tanzania. Its current flag was adopted on 9 January 2005, and combines the colours of the People's Republic of Zanzibar flag with the Tanzanian flag in the canton.",
-  "periods": [{ "start": "2005-01-09" }],
+  "periods": [
+    {
+      "start": "2005-01-09"
+    }
+  ],
   "sources": [
     "https://en.wikipedia.org/wiki/Flag_of_Zanzibar"
   ],
   "features": [
     {
       "type": "horizontal-stripes",
-      "stripes": ["blue", "black", "green"],
+      "stripes": [
+        "blue",
+        "black",
+        "green"
+      ],
       "count": 3
     },
     {

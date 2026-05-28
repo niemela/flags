@@ -1,14 +1,15 @@
 {
   "id": "SO-PL",
   "name": "Puntland (Somalia)",
-  "type": ["subdivision"],
+  "type": [
+    "subdivision"
+  ],
   "parent": "SO",
   "codes": {
     "wikidata": "Q485112"
   },
   "region": [
     "Africa",
-    "Sub-Saharan Africa",
     "Eastern Africa",
     "Horn of Africa",
     "MENA",
@@ -16,13 +17,26 @@
   ],
   "aspect_ratio": "1:2",
   "colors": [
-    { "color": "light-blue", "symbolism": "the central stripe — the Somali field" },
-    { "color": "white", "symbolism": "the star and the fimbriations" },
-    { "color": "green", "symbolism": "Islam and the land" }
+    {
+      "color": "light-blue",
+      "symbolism": "the central stripe — the Somali field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the star and the fimbriations"
+    },
+    {
+      "color": "green",
+      "symbolism": "Islam and the land"
+    }
   ],
   "description": "Three horizontal stripes — light blue (broad central), with thin white stripes above and below, and green stripes at the top and bottom — charged with a white five-pointed star centred on the blue, and Arabic script.",
   "history": "Puntland is an autonomous region of Somalia in the northeast (Horn of Africa) declared in 1998. The flag mirrors the broader Somali flag (the central blue with white star) but adds green stripes for Islam and Puntland's specific identity.",
-  "periods": [{ "start": "1998" }],
+  "periods": [
+    {
+      "start": "1998"
+    }
+  ],
   "sources": [
     "https://en.wikipedia.org/wiki/Puntland",
     "https://en.wikipedia.org/wiki/Flag_of_Puntland"
@@ -30,7 +44,13 @@
   "features": [
     {
       "type": "horizontal-stripes",
-      "stripes": ["green", "white", "light-blue", "white", "green"],
+      "stripes": [
+        "green",
+        "white",
+        "light-blue",
+        "white",
+        "green"
+      ],
       "count": 5
     },
     {

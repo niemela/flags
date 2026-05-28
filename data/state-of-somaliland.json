@@ -1,25 +1,48 @@
 {
   "id": "state-of-somaliland",
   "name": "State of Somaliland (1960)",
-  "type": ["historical", "country"],
+  "type": [
+    "historical",
+    "country"
+  ],
   "parent": null,
-  "codes": { "wikidata": "Q1106857" },
-  "region": ["Africa", "Sub-Saharan Africa", "Eastern Africa", "Horn of Africa"],
+  "codes": {
+    "wikidata": "Q1106857"
+  },
+  "region": [
+    "Africa",
+    "Eastern Africa",
+    "Horn of Africa"
+  ],
   "aspect_ratio": "2:3",
   "colors": [
-    { "color": "light-blue", "symbolism": "the field, recalling the United Nations and the pan-Somali blue" },
-    { "color": "white", "symbolism": "the five-pointed star" }
+    {
+      "color": "light-blue",
+      "symbolism": "the field, recalling the United Nations and the pan-Somali blue"
+    },
+    {
+      "color": "white",
+      "symbolism": "the five-pointed star"
+    }
   ],
   "description": "A light-blue field charged with a centred white five-pointed star.",
   "history": "Flag of the State of Somaliland, the briefly independent state formed when the British Somaliland Protectorate gained independence on 26 June 1960. It adopted a light-blue flag with a white star similar to that of the Italian-administered Trust Territory of Somaliland. After only five days, on 1 July 1960, it united with the Trust Territory to form the Somali Republic.",
-  "periods": [{ "start": "1960-06-26", "end": "1960-07-01" }],
+  "periods": [
+    {
+      "start": "1960-06-26",
+      "end": "1960-07-01"
+    }
+  ],
   "sources": [
     "https://en.wikipedia.org/wiki/State_of_Somaliland",
     "https://en.wikipedia.org/wiki/Flag_of_Somaliland",
     "https://commons.wikimedia.org/wiki/File:Flag_of_State_of_Somaliland.svg"
   ],
   "features": [
-    { "type": "solid", "color": "light-blue" },
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
     {
       "type": "star",
       "count": 1,

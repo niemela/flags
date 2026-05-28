@@ -1,7 +1,9 @@
 {
   "id": "NG-OS",
   "name": "Osun State (Nigeria)",
-  "type": ["subdivision"],
+  "type": [
+    "subdivision"
+  ],
   "parent": "NG",
   "codes": {
     "iso_3166_2": "NG-OS",
@@ -9,7 +11,6 @@
   },
   "region": [
     "Africa",
-    "Sub-Saharan Africa",
     "Western Africa",
     "Anglosphere",
     "Commonwealth"
@@ -46,7 +47,11 @@
     },
     {
       "type": "vertical-stripes",
-      "stripes": ["red", "green", "yellow"],
+      "stripes": [
+        "red",
+        "green",
+        "yellow"
+      ],
       "count": 3,
       "position": "lower-fly",
       "size": "small"

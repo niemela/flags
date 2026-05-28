@@ -828,6 +828,7 @@ Nordics, Scandinavia, Baltics, Balkans, Iberian Peninsula, British Isles, Europe
 - Where a cultural tag is identical to an M49 sub-region (Caribbean, Polynesia, Central Asia), use only the M49 name; don't double-tag.
 - Where a cultural tag is a strict subset of an M49 sub-region (Scandinavia ⊂ Nordics ⊂ Northern Europe; Baltics ⊂ Northern Europe; Maghreb ⊂ Northern Africa), tag both.
 - Where a cultural tag crosses M49 boundaries (MENA, Anglosphere, Latin America, Hispanic), tag the cultural tag *and* all relevant M49 sub-regions.
+- Within M49, don't add a parent grouping tag when a child M49 tag is already present. `Latin America and the Caribbean` contains `Caribbean`, `Central America`, `South America`; `Sub-Saharan Africa` contains `Eastern Africa`, `Middle Africa`, `Southern Africa`, `Western Africa`. Use the child tag alone — `Caribbean` (not `Caribbean` + `Latin America and the Caribbean`), `Eastern Africa` (not `Eastern Africa` + `Sub-Saharan Africa`). The top-level region (`Africa`, `Americas`) stays, since it doesn't have a direct child overlapping with the M49 intermediate region.
 
 It is fine for some entities — supraregional bodies like the UN, NATO, the Olympic movement — to have an empty `region` array. Don't invent tags to fill them.
 

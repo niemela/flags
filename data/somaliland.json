@@ -1,13 +1,14 @@
 {
   "id": "somaliland",
   "name": "Somaliland",
-  "type": ["country"],
+  "type": [
+    "country"
+  ],
   "codes": {
     "wikidata": "Q34754"
   },
   "region": [
     "Africa",
-    "Sub-Saharan Africa",
     "Eastern Africa",
     "Horn of Africa",
     "MENA",
@@ -16,21 +17,41 @@
   "aspect_ratio": "1:2",
   "status": "de-facto",
   "colors": [
-    { "color": "green", "symbolism": "Islam — and the upper stripe bears the Shahada" },
-    { "color": "white", "symbolism": "peace" },
-    { "color": "red", "symbolism": "the blood of those who died for independence" },
-    { "color": "black", "symbolism": "the star and the Shahada inscription" }
+    {
+      "color": "green",
+      "symbolism": "Islam — and the upper stripe bears the Shahada"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blood of those who died for independence"
+    },
+    {
+      "color": "black",
+      "symbolism": "the star and the Shahada inscription"
+    }
   ],
   "description": "Three horizontal stripes — green, white, red — with the Arabic inscription of the Islamic shahada in black on the green stripe and a black five-pointed star centred on the white stripe.",
   "history": "Flag of the de-facto independent Republic of Somaliland, declared on 18 May 1991 after the collapse of the Siad Barre government in Somalia. Adopted on 14 October 1996. Although Somaliland operates as a sovereign state with its own government, currency, and military, it has not received international recognition.",
-  "periods": [{ "start": "1996-10-14" }],
+  "periods": [
+    {
+      "start": "1996-10-14"
+    }
+  ],
   "sources": [
     "https://en.wikipedia.org/wiki/Flag_of_Somaliland"
   ],
   "features": [
     {
       "type": "horizontal-stripes",
-      "stripes": ["green", "white", "red"],
+      "stripes": [
+        "green",
+        "white",
+        "red"
+      ],
       "count": 3
     },
     {

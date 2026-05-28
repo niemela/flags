@@ -1,31 +1,51 @@
 {
   "id": "transkei",
   "name": "Transkei (1976–1994)",
-  "type": ["historical", "country"],
+  "type": [
+    "historical",
+    "country"
+  ],
   "codes": {
     "wikidata": "Q210277"
   },
   "region": [
     "Africa",
-    "Sub-Saharan Africa",
     "Southern Africa"
   ],
   "aspect_ratio": "2:3",
   "colors": [
-    { "color": "orange", "symbolism": "the upper stripe" },
-    { "color": "white", "symbolism": "the central stripe" },
-    { "color": "green", "symbolism": "the lower stripe and the land" }
+    {
+      "color": "orange",
+      "symbolism": "the upper stripe"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central stripe"
+    },
+    {
+      "color": "green",
+      "symbolism": "the lower stripe and the land"
+    }
   ],
   "description": "Three horizontal stripes — ochre/orange (top), white, and green — with the white stripe slightly narrower.",
   "history": "Flag of Transkei, the first of the four nominally independent 'Bantustans' created by apartheid-era South Africa (independence declared 26 October 1976) as a 'homeland' for the Xhosa people. Internationally unrecognised. Reincorporated into South Africa in 1994.",
-  "periods": [{ "start": "1976-10-26", "end": "1994-04-27" }],
+  "periods": [
+    {
+      "start": "1976-10-26",
+      "end": "1994-04-27"
+    }
+  ],
   "sources": [
     "https://en.wikipedia.org/wiki/Transkei"
   ],
   "features": [
     {
       "type": "horizontal-stripes",
-      "stripes": ["orange", "white", "green"],
+      "stripes": [
+        "orange",
+        "white",
+        "green"
+      ],
       "count": 3
     }
   ]
