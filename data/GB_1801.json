@@ -15,9 +15,18 @@
   ],
   "aspect_ratio": "1:2",
   "colors": [
-    { "color": "navy", "symbolism": "the blue field, from the Scottish saltire of St Andrew" },
-    { "color": "white", "symbolism": "the saltire of St Andrew and the fimbriation of St George's Cross" },
-    { "color": "red", "symbolism": "the Cross of St George of England" }
+    {
+      "color": "navy",
+      "symbolism": "the blue field, from the Scottish saltire of St Andrew"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltire of St Andrew and the fimbriation of St George's Cross"
+    },
+    {
+      "color": "red",
+      "symbolism": "the Cross of St George of England"
+    }
   ],
   "symbolism": null,
   "description": "The original Union Flag: the white saltire of St Andrew on a blue field, overlaid by the red Cross of St George fimbriated white. It lacks the red saltire of St Patrick added in 1801.",
@@ -27,16 +36,15 @@
     "state"
   ],
   "periods": [
-    { "start": "1606-04-12", "end": "1801-01-01" }
+    {
+      "start": "1606-04-12",
+      "end": "1801-01-01"
+    }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Union_Jack#Pre-1801"
   ],
   "features": [
-    {
-      "type": "complex",
-      "symbolism": "the original Union Flag superimposing the Cross of St George (England) on the Saltire of St Andrew (Scotland), without the later Cross of St Patrick"
-    },
     {
       "type": "saltire",
       "field": "navy",
@@ -47,7 +55,9 @@
     {
       "type": "greek-cross",
       "color": "red",
-      "fimbriation": { "color": "white" },
+      "fimbriation": {
+        "color": "white"
+      },
       "position": "center",
       "role": "Cross of St George (England)",
       "symbolism": "the patron saint of England"
