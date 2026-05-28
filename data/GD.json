@@ -51,8 +51,18 @@
   ],
   "features": [
     {
-      "type": "complex",
-      "symbolism": "a red rectangular border encloses an inner field divided per-saltire into two yellow triangles (top and bottom) and two green triangles (hoist and fly); a red disc with a yellow star sits at the centre, six smaller yellow stars sit on the red border, and a yellow nutmeg pod is placed on the hoist green triangle"
+      "type": "bordure",
+      "field": "yellow",
+      "border": "red",
+      "symbolism": "the wide red rectangular border framing the inner field"
+    },
+    {
+      "type": "per-saltire",
+      "hoist": "green",
+      "top": "yellow",
+      "fly": "green",
+      "bottom": "yellow",
+      "symbolism": "the inner field divided per saltire by yellow diagonals into two green triangles (hoist and fly) and two yellow triangles (chief and base)"
     },
     {
       "type": "disc",
