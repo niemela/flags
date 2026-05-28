@@ -1,0 +1,73 @@
+{
+  "id": "EC-SD",
+  "name": "Santo Domingo de los Tsáchilas (Ecuador)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "EC",
+  "codes": {
+    "iso_3166_2": "EC-SD",
+    "wikidata": "Q1123208"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A white field with four narrow triangular spikes pointing inward from the four edges — red triangles from the top and bottom and green triangles from the hoist and fly — meeting at the centre, where the provincial coat of arms is displayed.",
+  "history": "Santo Domingo de los Tsáchilas was established as a province on 6 November 2007 from territory previously in Pichincha Province; its capital is Santo Domingo. The province takes its second name from the Tsáchila people, indigenous to the area.",
+  "periods": [
+    {
+      "start": "2007-11-06"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Santo_Domingo_de_los_Ts%C3%A1chilas_Province"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "count": 2,
+      "position": "top",
+      "arrangement": "scattered",
+      "role": "two narrow red triangles pointing inward from the top and bottom edges, meeting at the centre"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "count": 2,
+      "position": "center",
+      "arrangement": "scattered",
+      "role": "two narrow green triangles pointing inward from the hoist and fly edges, meeting at the centre"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "provincial coat of arms"
+    }
+  ]
+}

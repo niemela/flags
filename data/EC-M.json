@@ -1,0 +1,65 @@
+{
+  "id": "EC-M",
+  "name": "Manabí (Ecuador)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "EC",
+  "codes": {
+    "iso_3166_2": "EC-M",
+    "wikidata": "Q504666"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Five equal horizontal stripes alternating green and white, beginning and ending with green; a red isosceles triangle along the hoist with its apex at the centre of the flag, charged with five white five-pointed stars.",
+  "history": "Manabí Province was established on 25 June 1824; its capital is Portoviejo and its largest city Manta, a major Pacific port. The pattern recalls the Cuban national flag, rendered in Manabí's green and white.",
+  "periods": [
+    {
+      "start": "1824-06-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Manab%C3%AD_Province"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 5
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "red isosceles triangle along the hoist with its apex at the centre of the flag"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "position": "hoist",
+      "arrangement": "scattered",
+      "role": "five white five-pointed stars arranged on the red hoist triangle"
+    }
+  ]
+}

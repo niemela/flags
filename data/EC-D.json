@@ -1,0 +1,69 @@
+{
+  "id": "EC-D",
+  "name": "Orellana (Ecuador)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "EC",
+  "codes": {
+    "iso_3166_2": "EC-D",
+    "wikidata": "Q499475"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A black vertical band along the hoist (about one-fifth of the width) charged with four white five-pointed stars arranged in a vertical column; the remaining fly bears three horizontal stripes — white, green and yellow.",
+  "history": "Orellana Province was created on 30 July 1998 from territory previously in Napo Province, the most recent of Ecuador's Amazonian provinces. Its capital is Puerto Francisco de Orellana (Coca); the province is named for the explorer Francisco de Orellana.",
+  "periods": [
+    {
+      "start": "1998-07-30"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Orellana_Province"
+  ],
+  "features": [
+    {
+      "type": "side",
+      "color": "black",
+      "proportion": "1/5"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "white",
+      "position": "hoist",
+      "arrangement": "row",
+      "role": "four white stars in a vertical column on the black hoist band"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "yellow"
+      ],
+      "count": 3,
+      "symbolism": "horizontal triband on the fly side of the flag"
+    }
+  ]
+}

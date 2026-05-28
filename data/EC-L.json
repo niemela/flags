@@ -1,0 +1,72 @@
+{
+  "id": "EC-L",
+  "name": "Loja (Ecuador)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "EC",
+  "codes": {
+    "iso_3166_2": "EC-L",
+    "wikidata": "Q504238"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Five horizontal stripes in proportions 2:1:2:1:2 — red, blue, yellow, blue, red from top to bottom — charged with eight white five-pointed stars arranged in a ring around the centre of the flag.",
+  "history": "Loja Province was established on 25 June 1824; its capital is the city of Loja, known as Ecuador's musical capital.",
+  "periods": [
+    {
+      "start": "1824-06-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Loja_Province"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue",
+        "yellow",
+        "blue",
+        "red"
+      ],
+      "count": 5,
+      "widths": [
+        2,
+        1,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "star",
+      "count": 8,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "arrangement": "circle",
+      "role": "eight white five-pointed stars arranged in a ring around the centre of the flag"
+    }
+  ]
+}
