@@ -764,14 +764,16 @@ A handful of patterns that would each support only 1–2 flags in our corpus are
 Flat tag set drawn from a mix of UN M49 geographic regions and cultural / political groupings. Apply all that fit.
 
 **Geographic (UN M49):**
-Africa, Northern Africa, Sub-Saharan Africa, Eastern Africa, Middle Africa, Southern Africa, Western Africa, Americas, Northern America, Latin America and the Caribbean, Caribbean, Central America, South America, Asia, Central Asia, Eastern Asia, South-eastern Asia, Southern Asia, Western Asia, Europe, Eastern Europe, Northern Europe, Southern Europe, Western Europe, Oceania, Australia and New Zealand, Melanesia, Micronesia, Polynesia, Antarctica.
+Africa, Northern Africa, Sub-Saharan Africa, Eastern Africa, Middle Africa, Southern Africa, Western Africa, Americas, Northern America, Caribbean, Central America, South America, Asia, Central Asia, Eastern Asia, South-eastern Asia, Southern Asia, Western Asia, Europe, Eastern Europe, Northern Europe, Southern Europe, Western Europe, Oceania, Melanesia, Micronesia, Polynesia, Antarctica.
+
+(The M49 names `Latin America and the Caribbean` and `Australia and New Zealand` are not used; their flags are covered by `Latin America` — see cultural note below — and by `Oceania` plus the relevant sub-tag.)
 
 **Cultural / political:**
 Nordics, Scandinavia, Baltics, Balkans, Iberian Peninsula, British Isles, European Union, Caucasus, Middle East, MENA, Maghreb, Levant, GCC, Horn of Africa, Sahel, Pacific Islands, Anglosphere, Commonwealth, Francophonie, Lusophone, Hispanic, Slavic, Turkic, Post-Soviet, Latin America, Arab World.
 
 **Notes on cultural tags:**
 - `Hispanic` ([Hispanidad](https://en.wikipedia.org/wiki/Hispanidad)) is the linguistic-cultural grouping of Spanish-speaking nations: Spain plus the Spanish-speaking Hispanic American countries (Mexico, most of Central and South America except Brazil/Suriname/Guyana, Spanish-speaking Caribbean — Cuba, DR, PR — plus Equatorial Guinea). Symmetric to `Lusophone` and `Francophonie`.
-- `Latin America` is the regional/cultural grouping that *includes* Brazil and other non-Hispanic Latin American states. A Brazilian flag carries `Latin America` and `Lusophone` but not `Hispanic`. A Mexican flag carries `Latin America` and `Hispanic`. Spain carries `Hispanic` and `Iberian Peninsula` but not `Latin America`.
+- `Latin America` is the regional/cultural grouping covering Mexico, Central America, South America, and the Caribbean — i.e., what UN M49 separately labels *Latin America and the Caribbean*. It *includes* Brazil and other non-Hispanic Latin American states. A Brazilian flag carries `Latin America` and `Lusophone` but not `Hispanic`. A Mexican flag carries `Latin America` and `Hispanic`. A Jamaican flag carries `Latin America`, `Caribbean`, `Anglosphere`, and `Commonwealth`. Spain carries `Hispanic` and `Iberian Peninsula` but not `Latin America`.
 
 **Overlap rules:**
 
