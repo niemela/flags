@@ -43,8 +43,19 @@
   ],
   "features": [
     {
-      "type": "complex",
-      "symbolism": "blue over green field with a white vertical stripe at the fly and a stylized white crown (Yugra Element) at the upper hoist."
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2,
+      "symbolism": "blue above green, the basic field of the okrug flag"
+    },
+    {
+      "type": "side-sinister",
+      "color": "white",
+      "proportion": "1/14",
+      "symbolism": "the narrow white stripe along the fly edge"
     },
     {
       "type": "crown",

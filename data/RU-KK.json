@@ -51,8 +51,20 @@
   ],
   "features": [
     {
-      "type": "complex",
-      "symbolism": "blue-white-red horizontal tricolour with a green vertical band at the hoist bearing a yellow traditional sun device."
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "symbolism": "blue-white-red horizontal tricolour drawn from the Russian national flag"
+    },
+    {
+      "type": "side",
+      "color": "green",
+      "proportion": "1/4",
+      "symbolism": "the green hoist band bearing the traditional Khakas sun device"
     },
     {
       "type": "sun",

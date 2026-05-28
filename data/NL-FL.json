@@ -45,8 +45,20 @@
   ],
   "features": [
     {
-      "type": "complex",
-      "symbolism": "blue above, green below, separated by a yellow horizontal wavy band: water (the IJsselmeer and former Zuiderzee) over reclaimed agricultural land, joined by a band of rapeseed-yellow representing the lily that gave the province its name and the new soil"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2,
+      "symbolism": "blue above, green below — water (the IJsselmeer and former Zuiderzee) over reclaimed agricultural land"
+    },
+    {
+      "type": "wave",
+      "color": "yellow",
+      "position": "center",
+      "role": "horizontal yellow wavy band along the centreline",
+      "symbolism": "rapeseed-yellow band evoking the yellow flag iris that gave the province its name"
     },
     {
       "type": "fleur-de-lis",
