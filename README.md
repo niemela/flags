@@ -793,7 +793,7 @@ A handful of patterns that would each support only 1–2 flags in our corpus are
 
 - **Lozengy / diaper patterns** (Bavarian *Rautenflagge*) → `complex` with description.
 - **Compass roses** (NATO) → `circle` with a centered cross-like or star-like charge; describe in prose.
-- **Heraldic silver / argent** → use `white` in the colors array. The `silver` term is a heraldic synonym for white in flag rendering; we don't model it separately. `grey` is reserved for actual visible grey.
+- **Heraldic gold / Or and silver / argent** → use `yellow` and `white` respectively in the colors array. The metals are visually identical to their everyday colour counterparts in flag rendering; we don't model them separately. `grey` is reserved for actual visible grey.
 
 ## Controlled vocabularies
 
@@ -826,13 +826,13 @@ It is fine for some entities — supraregional bodies like the UN, NATO, the Oly
 ```
 white, black, grey,
 red, maroon, pink,
-orange, yellow, gold,
+orange, yellow,
 green,
 light-blue, blue, navy,
 purple, brown
 ```
 
-15 values. The closed enum is intentionally compact; flag colors are usually defined abstractly (each country's "blue" or "red" is a different shade) and the SVG carries the precise hex values when needed.
+14 values. The closed enum is intentionally compact; flag colors are usually defined abstractly (each country's "blue" or "red" is a different shade) and the SVG carries the precise hex values when needed. Heraldic *Or* (gold) and *Argent* (silver) are recorded as `yellow` and `white` respectively — visually identical, and the SVG carries any metallic shading when needed.
 
 ### Variant, status, shape, feature types
 

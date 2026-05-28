@@ -48,7 +48,7 @@ VARIANT_ENUM = {
 COLOR_ENUM = {
     "white", "black", "grey",
     "red", "maroon", "pink",
-    "orange", "yellow", "gold",
+    "orange", "yellow",
     "green",
     "light-blue", "blue", "navy",
     "purple", "brown",
