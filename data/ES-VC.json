@@ -50,8 +50,30 @@
   ],
   "features": [
     {
-      "type": "complex",
-      "symbolism": "The Senyera Coronada: the historic Senyera (yellow field with four red bars, the arms of the Crown of Aragon) augmented with a crowned blue stripe at the hoist, representing the crowned status of the City and Kingdom of Valencia."
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 9,
+      "widths": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "symbolism": "the Senyera (yellow field with four red bars), the historic arms of the Crown of Aragon"
+    },
+    {
+      "type": "side",
+      "color": "blue",
+      "proportion": "1/8",
+      "symbolism": "the crowned blue hoist stripe added in recognition of Valencia's royal status"
     },
     {
       "type": "crown",

@@ -50,8 +50,19 @@
   ],
   "features": [
     {
-      "type": "complex",
-      "symbolism": "a white vertical band at the hoist taking the inner third, with two equal horizontal stripes (red over green) on the outer two-thirds; the colours echo the historic Merina kingdom (red and white) and the Malagasy peasantry (green)"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2,
+      "symbolism": "red and green at the fly, recalling the Merina kingdom (red) and the Malagasy peasantry (green)"
+    },
+    {
+      "type": "side",
+      "color": "white",
+      "proportion": "1/3",
+      "symbolism": "the white hoist band, the colour of the historic Merina monarchy"
     }
   ]
 }

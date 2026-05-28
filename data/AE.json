@@ -56,8 +56,20 @@
   ],
   "features": [
     {
-      "type": "complex",
-      "symbolism": "the four Pan-Arab colours (red, green, white, black) of the Arab Revolt; a vertical red band at the hoist with three equal horizontal stripes — green, white, black — filling the rest of the field"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "black"
+      ],
+      "count": 3,
+      "symbolism": "the Pan-Arab colours of the 1916 Arab Revolt"
+    },
+    {
+      "type": "side",
+      "color": "red",
+      "proportion": "1/4",
+      "symbolism": "red for the unity of the seven emirates and the historic Trucial States; the fourth Pan-Arab colour"
     }
   ]
 }
