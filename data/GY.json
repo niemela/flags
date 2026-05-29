@@ -63,10 +63,16 @@
       "field": "green",
       "outer": "yellow",
       "inner": "red",
-      "fimbriation": {
-        "color": "white",
-        "around": "all-edges"
-      },
+      "fimbriation": [
+        {
+          "color": "white",
+          "around": "all-edges"
+        },
+        {
+          "color": "black",
+          "around": "triangle"
+        }
+      ],
       "symbolism": "a green field with a long golden triangle (pile, fimbriated white) issuing from the hoist and overlaid by a shorter red triangle (fimbriated black); known as the Golden Arrowhead"
     }
   ]
