@@ -1,7 +1,9 @@
 {
   "id": "PK-AJK",
   "name": "Azad Jammu and Kashmir (Pakistan)",
-  "type": ["subdivision"],
+  "type": [
+    "subdivision"
+  ],
   "parent": "PK",
   "codes": {
     "iso_3166_2": "PK-AJK",
@@ -14,27 +16,16 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "green",
-      "symbolism": "Islam — drawn from the Pakistani national flag"
+      "color": "green"
     },
     {
-      "color": "orange",
-      "symbolism": "the four canton stripes — representing the geography and peoples of the region"
+      "color": "orange"
     },
     {
-      "color": "white",
-      "symbolism": "the four canton stripes, the crescent and star, and the four-pointed star — representing peace"
-    },
-    {
-      "color": "red",
-      "symbolism": "the four canton stripes — courage"
-    },
-    {
-      "color": "blue",
-      "symbolism": "the four canton stripes — the rivers of the territory"
+      "color": "white"
     }
   ],
-  "description": "A green field with a white crescent and four-pointed star at the centre, and a canton at the upper hoist with four horizontal stripes — orange, white, red, and blue — for the territory's regions.",
+  "description": "A green field with an orange band at the hoist and a canton bearing a white crescent and star.",
   "history": "Azad Jammu and Kashmir is an autonomous self-governing territory administered by Pakistan but not formally part of any of the four provinces. Its flag, adopted in the 1970s, combines the green field, crescent, and star of the Pakistani national flag with a canton of four horizontal stripes representing the territory's four regions and rivers.",
   "sources": [
     "https://en.wikipedia.org/wiki/Flag_of_Azad_Kashmir",
@@ -46,27 +37,27 @@
       "color": "green"
     },
     {
-      "type": "canton",
-      "color": "white",
+      "type": "side",
+      "color": "orange",
+      "position": "hoist",
       "proportion": "1/4",
+      "role": "orange band at the hoist"
+    },
+    {
+      "type": "canton",
+      "color": "green",
       "features": [
         {
-          "type": "horizontal-stripes",
-          "stripes": ["orange", "white", "red", "blue"],
-          "count": 4
+          "type": "crescent",
+          "color": "white"
+        },
+        {
+          "type": "star",
+          "points": 5,
+          "color": "white"
         }
-      ]
-    },
-    {
-      "type": "crescent",
-      "color": "white",
-      "position": "center"
-    },
-    {
-      "type": "star",
-      "points": 4,
-      "color": "white",
-      "position": "center"
+      ],
+      "role": "white crescent and star"
     }
   ]
 }
