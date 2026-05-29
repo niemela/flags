@@ -9,18 +9,39 @@
   "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
   "aspect_ratio": "3:5",
   "colors": [
+    { "color": "orange" },
     { "color": "white" },
-    { "color": "black" },
     { "color": "blue" }
   ],
-  "description": "A design representing the historic county of Banffshire.",
-  "history": "Recognised by the Flag Institute as the flag of the historic county of Banffshire.",
-  "periods": [{ "start": "2018~" }],
+  "description": "An orange field over a white band over a blue base; a white blazing sun in the upper hoist, and a row of orange-and-white roundels (whisky-barrel tops) along the base.",
+  "history": "Registered with the Flag Institute on 28 October 2023 as the flag of the historic county of Banffshire. Orange recalls the county's sunsets and agriculture; the white band its many bridges; the blue base its rivers and the sea; and the barrel-top roundels the whisky distilled from its waters.",
+  "periods": [{ "start": "2023-10-28" }],
   "sources": [
     "https://en.wikipedia.org/wiki/Flag_of_Banffshire"
   ],
   "features": [
-    { "type": "solid", "color": "white" },
-    { "type": "complex", "symbolism": "elements drawn from the historic arms of Banffshire" }
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["orange", "white", "blue"],
+      "count": 3,
+      "widths": [6, 1, 5],
+      "role": "orange field above a white band over a blue base",
+      "symbolism": "orange for sunsets and agriculture; the white band for the county's bridges; blue for its rivers and the sea"
+    },
+    {
+      "type": "sun",
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "white blazing sun in the upper hoist",
+      "symbolism": "Banffshire's sunsets and agriculture"
+    },
+    {
+      "type": "circle",
+      "color": "orange",
+      "count": 5,
+      "position": "base",
+      "role": "five roundels (orange over white) along the base — the tops of whisky barrels",
+      "symbolism": "the whisky distilled from the county's waters; orange for the amber spirit"
+    }
   ]
 }

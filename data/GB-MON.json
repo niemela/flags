@@ -10,18 +10,31 @@
   "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
   "aspect_ratio": "3:5",
   "colors": [
-    { "color": "white" },
-    { "color": "red" },
-    { "color": "black" }
+    { "color": "blue" },
+    { "color": "black" },
+    { "color": "yellow" }
   ],
-  "description": "A white field with a red and black design featuring a Welsh-style heraldic charge.",
-  "history": "Recognised by the Flag Institute as the flag of the historic county of Monmouthshire.",
+  "description": "Party per pale blue and black, with three gold fleurs-de-lis arranged two and one.",
+  "history": "Recognised by the Flag Institute as the flag of the historic county of Monmouthshire. The design is a banner of the historic arms — per pale azure and sable, three fleurs-de-lis or.",
   "periods": [{ "start": "2011~" }],
   "sources": [
     "https://en.wikipedia.org/wiki/Flag_of_Monmouthshire"
   ],
   "features": [
-    { "type": "solid", "color": "white" },
-    { "type": "complex", "symbolism": "elements drawn from the historic arms of Monmouthshire" }
+    {
+      "type": "vertical-stripes",
+      "stripes": ["blue", "black"],
+      "count": 2,
+      "role": "field party per pale — blue at the hoist, black at the fly"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "count": 3,
+      "arrangement": "2-and-1",
+      "position": "center",
+      "role": "three gold fleurs-de-lis (two and one)",
+      "symbolism": "from the historic arms of Monmouthshire"
+    }
   ]
 }

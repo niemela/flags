@@ -16,35 +16,42 @@
   ],
   "aspect_ratio": "3:5",
   "colors": [
-    {
-      "color": "blue"
-    },
-    {
-      "color": "white"
-    }
+    { "color": "white" },
+    { "color": "blue" },
+    { "color": "red" },
+    { "color": "yellow" }
   ],
-  "description": "A blue field bearing the white Greater London Authority emblem — the curving 'London' wordmark used by the GLA, Mayor of London, and Transport for London.",
-  "history": "Adopted in 2000 with the establishment of the Greater London Authority. Distinct from the centuries-old flag of the City of London (which is the St George's Cross with the sword of St Paul).",
+  "description": "A banner of the arms of Greater London: barry wavy of six white and blue across the lower two-thirds, with a red chief bearing a gold Saxon crown.",
+  "history": "The banner of the coat of arms granted in 1965 to the Greater London Council. The barry-wavy base (from the London County Council arms) represents the River Thames; the Saxon crown (from the Middlesex County Council arms) the Saxon origins of London. The arms became dormant when the GLC was abolished in 1986 and were transferred to the Greater London Authority in 2025. Distinct from the flag of the City of London (the St George's Cross with the sword of St Paul).",
   "status": "de-facto",
   "periods": [
-    {
-      "start": "2000-07-03"
-    }
+    { "start": "1965" }
   ],
   "sources": [
+    "https://en.wikipedia.org/wiki/Coat_of_arms_of_Greater_London",
     "https://en.wikipedia.org/wiki/Greater_London"
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "blue"
+      "type": "wave",
+      "count": 6,
+      "color": "blue",
+      "position": "base",
+      "role": "barry wavy of six — alternating white and blue wavy bars across the lower two-thirds",
+      "symbolism": "the River Thames"
     },
     {
-      "type": "glyph",
-      "color": "white",
-      "position": "center",
-      "role": "Greater London Authority emblem — 'London' wordmark with the curved 'GLA' device",
-      "symbolism": "Greater London — the metropolitan area — distinct from the historic City of London"
+      "type": "complex",
+      "color": "red",
+      "position": "chief",
+      "role": "red chief across the top third"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "chief",
+      "role": "gold Saxon crown on the chief",
+      "symbolism": "the Saxon origins of London; from the arms of the former Middlesex County Council"
     }
   ]
 }

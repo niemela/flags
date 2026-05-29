@@ -10,22 +10,46 @@
   "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
   "aspect_ratio": "3:5",
   "colors": [
-    { "color": "blue" },
     { "color": "white" },
-    { "color": "yellow" }
+    { "color": "red" },
+    { "color": "black" }
   ],
-  "description": "A blue field with a central white rose of York and other heraldic charges — an unofficial design representing South Yorkshire.",
-  "history": "An unofficial flag for the South Yorkshire metropolitan county. South Yorkshire has no Flag Institute–registered county flag of its own; this design draws on the white rose tradition of the historic Yorkshire.",
+  "description": "An unofficial design: a red-and-white chevronny (zig-zag) field overlaid with black triangles at the hoist and fly and a central black lozenge, each bearing a white rose of York — the central rose whole, those at the ends halved.",
+  "history": "An unofficial flag for the South Yorkshire metropolitan county, which has no Flag Institute–registered county flag of its own. The design draws on the white rose tradition of the historic county of Yorkshire; the stylised letters 'SY' form the stem of the central rose.",
   "status": "de-facto",
   "periods": [{ "start": "2010~" }],
   "sources": [
-    "https://en.wikipedia.org/wiki/Flag_of_South_Yorkshire"
+    "https://en.wikipedia.org/wiki/Flags_and_symbols_of_Yorkshire",
+    "https://www.crwflags.com/fotw/flags/gb-ensyk.html"
   ],
   "features": [
-    { "type": "solid", "color": "blue" },
     {
-      "type": "complex",
-      "symbolism": "an unofficial design featuring the white rose of York and other emblems for the metropolitan county"
+      "type": "chevron",
+      "field": "white",
+      "chevron": "red",
+      "count": 8,
+      "role": "red-and-white chevronny (zig-zag) field"
+    },
+    {
+      "type": "triangle",
+      "color": "black",
+      "count": 2,
+      "position": "hoist and fly",
+      "role": "black triangles at the hoist and fly, each charged with half of a white rose"
+    },
+    {
+      "type": "lozenge",
+      "color": "black",
+      "position": "center",
+      "role": "central black lozenge (rhombus) charged with the full white rose"
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "count": 3,
+      "position": "center",
+      "role": "white roses of York — one whole at the centre, two halves at the ends",
+      "symbolism": "the White Rose of York"
     }
   ]
 }

@@ -10,30 +10,41 @@
   "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
   "aspect_ratio": "9:5",
   "colors": [
-    { "color": "blue" },
+    { "color": "green" },
     { "color": "white" },
+    { "color": "light-blue" },
     { "color": "black" }
   ],
-  "description": "A blue field with white wavy stripes representing rivers, charged at the centre with three black pears (the historic emblem of Worcestershire).",
-  "history": "Based on the historic Worcestershire arms (three pears); registered with the Flag Institute as the flag of Worcestershire on 14 May 2013.",
+  "description": "A green field crossed by light-blue and white wavy bars (rivers), charged at the centre with a white shield bearing three black pears.",
+  "history": "Based on the historic Worcestershire arms (three black pears); registered with the Flag Institute as the flag of Worcestershire on 14 May 2013. The green field and wavy bars represent the verdant flood plain and rivers of the county.",
   "periods": [{ "start": "2013-05-14" }],
   "sources": [
     "https://en.wikipedia.org/wiki/Flag_of_Worcestershire"
   ],
   "features": [
-    { "type": "solid", "color": "blue" },
+    {
+      "type": "solid",
+      "color": "green"
+    },
     {
       "type": "wave",
       "count": 2,
+      "color": "light-blue",
+      "role": "two wavy bands (light-blue edged with white) — the rivers Severn and Avon",
+      "symbolism": "the rivers and verdant flood plain of the county"
+    },
+    {
+      "type": "shield",
       "color": "white",
-      "symbolism": "the rivers Severn and Avon"
+      "position": "center",
+      "role": "white shield bearing the three pears"
     },
     {
       "type": "fruit",
       "count": 3,
       "color": "black",
       "position": "center",
-      "role": "Three black Worcester pears",
+      "role": "three black Worcester pears",
       "symbolism": "the historic emblem of Worcestershire"
     }
   ]

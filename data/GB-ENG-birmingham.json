@@ -9,21 +9,32 @@
   "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
   "aspect_ratio": "3:5",
   "colors": [
+    { "color": "red" },
+    { "color": "yellow" },
     { "color": "blue" }
   ],
-  "description": "A blue field bearing the coat of arms or civic emblem of Birmingham.",
-  "history": "Based on the civic arms of Birmingham; used as the city's flag.",
-  "periods": [{ "start": "1977~" }],
+  "description": "A field divided per pale indented — blue at the hoist, red at the fly, separated by a gold zig-zag line — charged with a gold bull's head at the centre.",
+  "history": "Adopted on 23 July 2015 following a public competition. The blue-and-gold indented division derives from the medieval arms of the de Birmingham family, lords of the manor; the bull's head recalls the Bull Ring, the city's historic market.",
+  "periods": [{ "start": "2015-07-23" }],
   "sources": [
     "https://en.wikipedia.org/wiki/Flag_of_Birmingham"
   ],
   "features": [
-    { "type": "solid", "color": "blue" },
     {
-      "type": "coat-of-arms",
+      "type": "vertical-stripes",
+      "stripes": ["blue", "red"],
+      "count": 2,
+      "widths": [1, 3],
+      "fimbriation": { "color": "yellow", "around": "stripes" },
+      "role": "field divided per pale indented — blue at the hoist, red at the fly, separated by a gold zig-zag (indented) line",
+      "symbolism": "from the arms of the de Birmingham family (per pale indented or and gules)"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
       "position": "center",
-      "role": "Coat of arms of Birmingham",
-      "symbolism": "the historic civic arms of Birmingham"
+      "role": "golden bull's head",
+      "symbolism": "the Bull Ring, Birmingham's historic market"
     }
   ]
 }
