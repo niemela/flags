@@ -7,7 +7,7 @@
   "parent": "ET",
   "codes": {
     "iso_3166_2": "ET-AF",
-    "wikidata": "Q202753"
+    "wikidata": "Q193494"
   },
   "region": [
     "Africa",
@@ -29,15 +29,19 @@
       "symbolism": "the land and pastoralism"
     },
     {
+      "color": "red",
+      "symbolism": "the blood shed by the Afar people"
+    },
+    {
       "color": "yellow",
       "symbolism": "the central region emblem"
     }
   ],
-  "description": "Three horizontal stripes of blue (top), white (middle), and green (bottom), with a regional emblem at the centre.",
+  "description": "Three horizontal stripes of blue (top), white (middle), and green (bottom), with a red triangular pile at the hoist and a regional emblem at the centre.",
   "history": "The Afar Region is one of the regional states of the Federal Democratic Republic of Ethiopia, established under the 1995 Constitution. The region's flag was officially adopted as part of the symbols of the regional state.",
   "sources": [
-    "https://en.wikipedia.org/wiki/Flag_of_Afar_Region",
-    "https://en.wikipedia.org/wiki/Afar_Region"
+    "https://en.wikipedia.org/wiki/Afar_Region",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_the_Afar_Region.svg"
   ],
   "features": [
     {
@@ -48,6 +52,15 @@
         "green"
       ],
       "count": 3
+    },
+    {
+      "type": "pile",
+      "count": 1,
+      "field": "white",
+      "pile": "red",
+      "position": "hoist",
+      "direction": "fly",
+      "symbolism": "the bravery and sacrifice of the Afar people"
     },
     {
       "type": "seal",

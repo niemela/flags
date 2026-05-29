@@ -16,32 +16,40 @@
   "aspect_ratio": "1:2",
   "colors": [
     {
+      "color": "red",
+      "symbolism": "the outer hoist and fly bands and the central star"
+    },
+    {
       "color": "white",
-      "symbolism": "the field"
+      "symbolism": "the central band on which the seal is charged"
     },
     {
       "color": "yellow",
       "symbolism": "the city's iron-and-steel heritage and the sun on the seal"
-    },
-    {
-      "color": "black",
-      "symbolism": "outlines and detailing of the seal"
-    },
-    {
-      "color": "red",
-      "symbolism": "minor accents on the seal"
     }
   ],
-  "description": "A white field charged with the seal of the City of Birmingham at the centre, rendered chiefly in gold and black.",
+  "description": "Three vertical bands of red, white, and red (with the central white band wider than the outer red bands), charged at the centre with a large red five-pointed star and the gold seal of the City of Birmingham overlaid on the star.",
   "history": "Used by the City of Birmingham, the largest city in Alabama, founded in 1871 as an industrial centre during Reconstruction.",
   "sources": [
     "https://en.wikipedia.org/wiki/Birmingham,_Alabama"
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "white",
-      "symbolism": "a white field bearing the city seal in gold and black"
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 3,
+      "widths": [4, 7, 4]
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "center",
+      "role": "large red five-pointed star centred on the white band"
     },
     {
       "type": "seal",

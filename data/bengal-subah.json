@@ -5,17 +5,23 @@
   "parent": "mughal-empire",
   "codes": { "wikidata": "Q4083684" },
   "region": ["Asia","Southern Asia"],
+  "variant": ["civil-ensign"],
   "colors": [
-    {"color":"green","symbolism":"field of the provincial standard"},
-    {"color":"yellow","symbolism":"the Lion and Sun device inherited from the Mughal Alam"}
+    {"color":"white","symbolism":"field of the nautical standard"},
+    {"color":"black","symbolism":"the blade of the scimitar"},
+    {"color":"yellow","symbolism":"the scimitar hilt and the three barrels (gold)"}
   ],
-  "description": "A green field bearing a gold lion and rising sun, a nautical standard of the Bengal Subah derived from the Mughal imperial Alam.",
-  "history": "Bengal Subah was the largest province (subah) of the Mughal Empire. After 1717 it became the de facto independent domain of the hereditary Nawabs of Bengal under nominal Mughal suzerainty, until the British East India Company gained control following Plassey (1757).",
+  "description": "A white field bearing a black scimitar with a gold hilt and three gold barrels.",
+  "history": "Bengal Subah was the largest province (subah) of the Mughal Empire. After 1717 it became the de facto independent domain of the hereditary Nawabs of Bengal under nominal Mughal suzerainty, until the British East India Company gained control following Plassey (1757). The reconstruction shown here is the nautical (merchant) flag attributed to Bengal in Flags of all nations (1862).",
   "periods": [{"start":"1576","end":"1757"}],
-  "sources": ["https://en.wikipedia.org/wiki/Bengal_Subah","https://en.wikipedia.org/wiki/Nawabs_of_Bengal"],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bengal_Subah",
+    "https://en.wikipedia.org/wiki/Nawabs_of_Bengal",
+    "https://commons.wikimedia.org/wiki/File:Bengal_subah_flag_(Nautical).svg"
+  ],
   "features": [
-    {"type":"solid","color":"green"},
-    {"type":"lion","count":1,"color":"yellow","position":"center","role":"lion of the Sher-o-khurshid"},
-    {"type":"sun","count":1,"color":"yellow","position":"center","role":"rising sun"}
+    {"type":"solid","color":"white"},
+    {"type":"sword","count":1,"color":"black","position":"center","role":"scimitar with gold hilt"},
+    {"type":"tool","count":3,"color":"yellow","position":"center","role":"three barrels (tuns)"}
   ]
 }
