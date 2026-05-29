@@ -6,7 +6,8 @@
   ],
   "parent": "EE-74",
   "codes": {
-    "iso_3166_2": "EE-689"
+    "iso_3166_2": "EE-689",
+    "wikidata": "Q604504"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "black"
     }
   ],
-  "description": "Banner of the coat of arms of Ruhnu rural municipality.",
+  "description": "A blue field charged with the coat of arms of Ruhnu rural municipality in white and black.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Ruhnu"
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the field of the Ruhnu flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Ruhnu rural municipality"
     }
   ]
 }

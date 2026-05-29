@@ -6,7 +6,8 @@
   ],
   "parent": "EE-56",
   "codes": {
-    "iso_3166_2": "EE-441"
+    "iso_3166_2": "EE-441",
+    "wikidata": "Q43281154"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "black"
     }
   ],
-  "description": "Banner of the coat of arms of Lääne-Nigula rural municipality.",
+  "description": "A white field charged with the coat of arms of Lääne-Nigula rural municipality in green and black.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Lääne-Nigula"
+      "type": "solid",
+      "color": "white",
+      "symbolism": "the field of the Lääne-Nigula flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Lääne-Nigula rural municipality"
     }
   ]
 }

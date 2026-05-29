@@ -6,7 +6,8 @@
   ],
   "parent": "EE-84",
   "codes": {
-    "iso_3166_2": "EE-899"
+    "iso_3166_2": "EE-899",
+    "wikidata": "Q15100022"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "white"
     }
   ],
-  "description": "Banner of the coat of arms of Viljandi rural municipality.",
+  "description": "A blue field charged with the coat of arms of Viljandi rural municipality in yellow and white.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Viljandi"
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the field of the Viljandi flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Viljandi rural municipality"
     }
   ]
 }

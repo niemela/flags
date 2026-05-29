@@ -6,7 +6,8 @@
   ],
   "parent": "EE-56",
   "codes": {
-    "iso_3166_2": "EE-184"
+    "iso_3166_2": "EE-184",
+    "wikidata": "Q43281004"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "black"
     }
   ],
-  "description": "Banner of the coat of arms of Haapsalu urban municipality.",
+  "description": "A white field charged with the coat of arms of Haapsalu urban municipality in blue and black.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Haapsalu"
+      "type": "solid",
+      "color": "white",
+      "symbolism": "the field of the Haapsalu flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Haapsalu urban municipality"
     }
   ]
 }

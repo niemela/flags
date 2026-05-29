@@ -6,7 +6,8 @@
   ],
   "parent": "EE-74",
   "codes": {
-    "iso_3166_2": "EE-478"
+    "iso_3166_2": "EE-478",
+    "wikidata": "Q12370512"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "blue"
     }
   ],
-  "description": "Banner of the coat of arms of Muhu rural municipality.",
+  "description": "A white field charged with the coat of arms of Muhu rural municipality in black and blue.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Muhu"
+      "type": "solid",
+      "color": "white",
+      "symbolism": "the field of the Muhu flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Muhu rural municipality"
     }
   ]
 }

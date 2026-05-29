@@ -6,7 +6,8 @@
   ],
   "parent": "EE-60",
   "codes": {
-    "iso_3166_2": "EE-901"
+    "iso_3166_2": "EE-901",
+    "wikidata": "Q61392943"
   },
   "region": [
     "Europe",
@@ -20,14 +21,20 @@
       "color": "green"
     },
     {
-      "color": "blue"
+      "color": "navy"
     }
   ],
-  "description": "Banner of the coat of arms of Vinni rural municipality.",
+  "description": "A green field charged with the coat of arms of Vinni rural municipality in dark blue.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Vinni"
+      "type": "solid",
+      "color": "green",
+      "symbolism": "the field of the Vinni flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Vinni rural municipality"
     }
   ]
 }

@@ -6,7 +6,8 @@
   ],
   "parent": "EE-37",
   "codes": {
-    "iso_3166_2": "EE-726"
+    "iso_3166_2": "EE-726",
+    "wikidata": "Q44822024"
   },
   "region": [
     "Europe",
@@ -29,11 +30,17 @@
       "color": "grey"
     }
   ],
-  "description": "Banner of the coat of arms of Saue rural municipality.",
+  "description": "A red field charged with the coat of arms of Saue rural municipality in black, white, and grey.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Saue"
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the field of the Saue flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Saue rural municipality"
     }
   ]
 }

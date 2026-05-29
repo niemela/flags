@@ -6,7 +6,8 @@
   ],
   "parent": "EE-45",
   "codes": {
-    "iso_3166_2": "EE-803"
+    "iso_3166_2": "EE-803",
+    "wikidata": "Q1018469"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "yellow"
     }
   ],
-  "description": "Banner of the coat of arms of Toila rural municipality.",
+  "description": "A blue field charged with the coat of arms of Toila rural municipality in white and yellow.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Toila"
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the field of the Toila flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Toila rural municipality"
     }
   ]
 }

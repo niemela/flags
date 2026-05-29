@@ -6,7 +6,8 @@
   ],
   "parent": "EE-64",
   "codes": {
-    "iso_3166_2": "EE-708"
+    "iso_3166_2": "EE-708",
+    "wikidata": "Q44846768"
   },
   "region": [
     "Europe",
@@ -23,11 +24,17 @@
       "color": "white"
     }
   ],
-  "description": "Banner of the coat of arms of Räpina rural municipality.",
+  "description": "A blue field charged with the coat of arms of Räpina rural municipality in white.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Räpina"
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the field of the Räpina flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Räpina rural municipality"
     }
   ]
 }

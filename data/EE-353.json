@@ -6,7 +6,8 @@
   ],
   "parent": "EE-37",
   "codes": {
-    "iso_3166_2": "EE-353"
+    "iso_3166_2": "EE-353",
+    "wikidata": "Q990542"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "red"
     }
   ],
-  "description": "Banner of the coat of arms of Kuusalu rural municipality.",
+  "description": "A white field charged with the coat of arms of Kuusalu rural municipality in blue and red.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Kuusalu"
+      "type": "solid",
+      "color": "white",
+      "symbolism": "the field of the Kuusalu flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Kuusalu rural municipality"
     }
   ]
 }

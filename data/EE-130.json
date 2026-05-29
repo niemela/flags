@@ -6,7 +6,8 @@
   ],
   "parent": "EE-45",
   "codes": {
-    "iso_3166_2": "EE-130"
+    "iso_3166_2": "EE-130",
+    "wikidata": "Q42892510"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "black"
     }
   ],
-  "description": "Banner of the coat of arms of Alutaguse rural municipality.",
+  "description": "A blue field charged with the coat of arms of Alutaguse rural municipality in yellow and black.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Alutaguse"
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the field of the Alutaguse flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Alutaguse rural municipality"
     }
   ]
 }

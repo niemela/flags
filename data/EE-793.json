@@ -6,7 +6,8 @@
   ],
   "parent": "EE-79",
   "codes": {
-    "iso_3166_2": "EE-793"
+    "iso_3166_2": "EE-793",
+    "wikidata": "Q42307965"
   },
   "region": [
     "Europe",
@@ -29,11 +30,17 @@
       "color": "grey"
     }
   ],
-  "description": "Banner of the coat of arms of Tartu urban municipality.",
+  "description": "A red field charged with the coat of arms of Tartu urban municipality in white, black, and grey.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Tartu"
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the field of the Tartu flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Tartu urban municipality"
     }
   ]
 }

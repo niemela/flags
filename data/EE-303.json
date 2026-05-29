@@ -6,7 +6,8 @@
   ],
   "parent": "EE-68",
   "codes": {
-    "iso_3166_2": "EE-303"
+    "iso_3166_2": "EE-303",
+    "wikidata": "Q2633508"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "blue"
     }
   ],
-  "description": "Banner of the coat of arms of Kihnu rural municipality.",
+  "description": "A white field charged with the coat of arms of Kihnu rural municipality in black and blue.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Kihnu"
+      "type": "solid",
+      "color": "white",
+      "symbolism": "the field of the Kihnu flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Kihnu rural municipality"
     }
   ]
 }

@@ -6,7 +6,8 @@
   ],
   "parent": "EE-52",
   "codes": {
-    "iso_3166_2": "EE-834"
+    "iso_3166_2": "EE-834",
+    "wikidata": "Q12377629"
   },
   "region": [
     "Europe",
@@ -27,13 +28,22 @@
     },
     {
       "color": "yellow"
+    },
+    {
+      "color": "red"
     }
   ],
-  "description": "Banner of the coat of arms of Türi rural municipality.",
+  "description": "A green field charged with the coat of arms of Türi rural municipality in white, black, yellow, and red.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Türi"
+      "type": "solid",
+      "color": "green",
+      "symbolism": "the field of the Türi flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Türi rural municipality"
     }
   ]
 }

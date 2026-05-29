@@ -6,7 +6,8 @@
   ],
   "parent": "EE-79",
   "codes": {
-    "iso_3166_2": "EE-283"
+    "iso_3166_2": "EE-283",
+    "wikidata": "Q14915525"
   },
   "region": [
     "Europe",
@@ -23,11 +24,17 @@
       "color": "yellow"
     }
   ],
-  "description": "Banner of the coat of arms of Kambja rural municipality.",
+  "description": "A green field charged with the coat of arms of Kambja rural municipality in yellow.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Kambja"
+      "type": "solid",
+      "color": "green",
+      "symbolism": "the field of the Kambja flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Kambja rural municipality"
     }
   ]
 }

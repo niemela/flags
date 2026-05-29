@@ -6,7 +6,8 @@
   ],
   "parent": "EE-71",
   "codes": {
-    "iso_3166_2": "EE-317"
+    "iso_3166_2": "EE-317",
+    "wikidata": "Q1024708"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "black"
     }
   ],
-  "description": "Banner of the coat of arms of Kohila rural municipality.",
+  "description": "A white field charged with the coat of arms of Kohila rural municipality in green and black.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Kohila"
+      "type": "solid",
+      "color": "white",
+      "symbolism": "the field of the Kohila flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Kohila rural municipality"
     }
   ]
 }

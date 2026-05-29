@@ -6,7 +6,8 @@
   ],
   "parent": "EE-68",
   "codes": {
-    "iso_3166_2": "EE-809"
+    "iso_3166_2": "EE-809",
+    "wikidata": "Q11183696"
   },
   "region": [
     "Europe",
@@ -29,11 +30,17 @@
       "color": "white"
     }
   ],
-  "description": "Banner of the coat of arms of Tori rural municipality.",
+  "description": "A red field charged with the coat of arms of Tori rural municipality in black, yellow, and white.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Tori"
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the field of the Tori flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Tori rural municipality"
     }
   ]
 }

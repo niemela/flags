@@ -6,7 +6,8 @@
   ],
   "parent": "EE-37",
   "codes": {
-    "iso_3166_2": "EE-653"
+    "iso_3166_2": "EE-653",
+    "wikidata": "Q1009353"
   },
   "region": [
     "Europe",
@@ -29,11 +30,17 @@
       "color": "red"
     }
   ],
-  "description": "Banner of the coat of arms of Rae rural municipality.",
+  "description": "A white field charged with the coat of arms of Rae rural municipality in blue, black, and red.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Rae"
+      "type": "solid",
+      "color": "white",
+      "symbolism": "the field of the Rae flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Rae rural municipality"
     }
   ]
 }

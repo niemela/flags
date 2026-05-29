@@ -6,7 +6,8 @@
   ],
   "parent": "EE-81",
   "codes": {
-    "iso_3166_2": "EE-855"
+    "iso_3166_2": "EE-855",
+    "wikidata": "Q42846054"
   },
   "region": [
     "Europe",
@@ -29,11 +30,17 @@
       "color": "black"
     }
   ],
-  "description": "Banner of the coat of arms of Valga rural municipality.",
+  "description": "A green field charged with the coat of arms of Valga rural municipality in white, yellow, and black.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Valga"
+      "type": "solid",
+      "color": "green",
+      "symbolism": "the field of the Valga flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Valga rural municipality"
     }
   ]
 }

@@ -6,7 +6,8 @@
   ],
   "parent": "EE-37",
   "codes": {
-    "iso_3166_2": "EE-719"
+    "iso_3166_2": "EE-719",
+    "wikidata": "Q527669"
   },
   "region": [
     "Europe",
@@ -29,11 +30,17 @@
       "color": "red"
     }
   ],
-  "description": "Banner of the coat of arms of Saku rural municipality.",
+  "description": "A black field charged with the coat of arms of Saku rural municipality in green, white, and red.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Saku"
+      "type": "solid",
+      "color": "black",
+      "symbolism": "the field of the Saku flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Saku rural municipality"
     }
   ]
 }

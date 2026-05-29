@@ -6,7 +6,8 @@
   ],
   "parent": "EE-37",
   "codes": {
-    "iso_3166_2": "EE-198"
+    "iso_3166_2": "EE-198",
+    "wikidata": "Q23890574"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "black"
     }
   ],
-  "description": "Banner of the coat of arms of Harku rural municipality.",
+  "description": "A blue field charged with the coat of arms of Harku rural municipality in white and black.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Harku"
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the field of the Harku flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Harku rural municipality"
     }
   ]
 }

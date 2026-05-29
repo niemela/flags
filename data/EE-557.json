@@ -6,7 +6,8 @@
   ],
   "parent": "EE-81",
   "codes": {
-    "iso_3166_2": "EE-557"
+    "iso_3166_2": "EE-557",
+    "wikidata": "Q12371644"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "black"
     }
   ],
-  "description": "Banner of the coat of arms of Otepää rural municipality.",
+  "description": "A yellow field charged with the coat of arms of Otepää rural municipality in white and black.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Otepää"
+      "type": "solid",
+      "color": "yellow",
+      "symbolism": "the field of the Otepää flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Otepää rural municipality"
     }
   ]
 }

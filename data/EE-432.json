@@ -6,7 +6,8 @@
   ],
   "parent": "EE-79",
   "codes": {
-    "iso_3166_2": "EE-432"
+    "iso_3166_2": "EE-432",
+    "wikidata": "Q1639142"
   },
   "region": [
     "Europe",
@@ -29,11 +30,17 @@
       "color": "yellow"
     }
   ],
-  "description": "Banner of the coat of arms of Luunja rural municipality.",
+  "description": "A green field charged with the coat of arms of Luunja rural municipality in blue, black, and yellow.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Luunja"
+      "type": "solid",
+      "color": "green",
+      "symbolism": "the field of the Luunja flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Luunja rural municipality"
     }
   ]
 }

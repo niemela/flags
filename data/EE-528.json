@@ -6,7 +6,8 @@
   ],
   "parent": "EE-79",
   "codes": {
-    "iso_3166_2": "EE-528"
+    "iso_3166_2": "EE-528",
+    "wikidata": "Q1020142"
   },
   "region": [
     "Europe",
@@ -23,11 +24,17 @@
       "color": "white"
     }
   ],
-  "description": "Banner of the coat of arms of Nõo rural municipality.",
+  "description": "A blue field charged with the coat of arms of Nõo rural municipality in white.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Nõo"
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the field of the Nõo flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Nõo rural municipality"
     }
   ]
 }

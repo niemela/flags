@@ -6,7 +6,8 @@
   ],
   "parent": "EE-37",
   "codes": {
-    "iso_3166_2": "EE-890"
+    "iso_3166_2": "EE-890",
+    "wikidata": "Q993014"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "white"
     }
   ],
-  "description": "Banner of the coat of arms of Viimsi rural municipality.",
+  "description": "A blue field charged with the coat of arms of Viimsi rural municipality in black and white.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Viimsi"
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the field of the Viimsi flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Viimsi rural municipality"
     }
   ]
 }

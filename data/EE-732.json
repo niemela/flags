@@ -6,7 +6,8 @@
   ],
   "parent": "EE-87",
   "codes": {
-    "iso_3166_2": "EE-732"
+    "iso_3166_2": "EE-732",
+    "wikidata": "Q42900601"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "red"
     }
   ],
-  "description": "Banner of the coat of arms of Setomaa rural municipality.",
+  "description": "A white field charged with the coat of arms of Setomaa rural municipality in black and red.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Setomaa"
+      "type": "solid",
+      "color": "white",
+      "symbolism": "the field of the Setomaa flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Setomaa rural municipality"
     }
   ]
 }

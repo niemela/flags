@@ -6,7 +6,8 @@
   ],
   "parent": "EE-37",
   "codes": {
-    "iso_3166_2": "EE-424"
+    "iso_3166_2": "EE-424",
+    "wikidata": "Q23890528"
   },
   "region": [
     "Europe",
@@ -29,11 +30,17 @@
       "color": "black"
     }
   ],
-  "description": "Banner of the coat of arms of Loksa urban municipality.",
+  "description": "A red field charged with the coat of arms of Loksa urban municipality in white, yellow, and black.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Loksa"
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the field of the Loksa flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Loksa urban municipality"
     }
   ]
 }

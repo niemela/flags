@@ -6,7 +6,8 @@
   ],
   "parent": "EE-68",
   "codes": {
-    "iso_3166_2": "EE-430"
+    "iso_3166_2": "EE-430",
+    "wikidata": "Q31273628"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "black"
     }
   ],
-  "description": "Banner of the coat of arms of Lääneranna rural municipality.",
+  "description": "A blue field charged with the coat of arms of Lääneranna rural municipality in white and black.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Lääneranna"
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the field of the Lääneranna flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Lääneranna rural municipality"
     }
   ]
 }

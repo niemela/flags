@@ -18,10 +18,10 @@
   "aspect_ratio": "7:11",
   "colors": [
     {
-      "color": "green"
+      "color": "white"
     },
     {
-      "color": "white"
+      "color": "green"
     },
     {
       "color": "blue"
@@ -30,14 +30,24 @@
       "color": "black"
     }
   ],
-  "description": "Banner of the coat of arms of Võru County.",
+  "description": "A horizontal bicolour of white over green in equal widths, with the Võru County coat of arms centred on the white upper stripe.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Võru"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2,
+      "symbolism": "white over green, the standard pattern shared by all 15 Estonian county flags"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center-hoist",
+      "role": "coat of arms of Võru County, centred on the white upper stripe"
     }
   ],
-  "history": "Võru (Estonian: Võrumaa) is one of Estonia's 15 counties; the modern flag is the banner of the county's coat of arms.",
+  "history": "Võru County (Estonian: Võrumaa) is one of Estonia's 15 counties. All Estonian county flags follow the same pattern: a white-over-green horizontal bicolour with the county's coat of arms centred on the white upper stripe. The county flags were established by President Konstantin Päts's decree of 7 August 1939 (\"Riigi Teataja\" 1939 No. 68 Art. 554), suppressed during the Soviet occupation, and restored after Estonia regained independence in 1991.",
   "sources": [
     "https://en.wikipedia.org/wiki/Võru_County"
   ]

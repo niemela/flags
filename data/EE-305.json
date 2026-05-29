@@ -6,7 +6,8 @@
   ],
   "parent": "EE-37",
   "codes": {
-    "iso_3166_2": "EE-305"
+    "iso_3166_2": "EE-305",
+    "wikidata": "Q992974"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "red"
     }
   ],
-  "description": "Banner of the coat of arms of Kiili rural municipality.",
+  "description": "A blue field charged with the coat of arms of Kiili rural municipality in white and red.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Kiili"
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the field of the Kiili flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Kiili rural municipality"
     }
   ]
 }

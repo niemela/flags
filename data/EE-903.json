@@ -6,7 +6,8 @@
   ],
   "parent": "EE-60",
   "codes": {
-    "iso_3166_2": "EE-903"
+    "iso_3166_2": "EE-903",
+    "wikidata": "Q1018598"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "white"
     }
   ],
-  "description": "Banner of the coat of arms of Viru-Nigula rural municipality.",
+  "description": "A blue field charged with the coat of arms of Viru-Nigula rural municipality in black and white.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Viru-Nigula"
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the field of the Viru-Nigula flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Viru-Nigula rural municipality"
     }
   ]
 }

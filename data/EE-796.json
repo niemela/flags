@@ -6,7 +6,8 @@
   ],
   "parent": "EE-79",
   "codes": {
-    "iso_3166_2": "EE-796"
+    "iso_3166_2": "EE-796",
+    "wikidata": "Q1266078"
   },
   "region": [
     "Europe",
@@ -23,11 +24,17 @@
       "color": "blue"
     }
   ],
-  "description": "Banner of the coat of arms of Tartu rural municipality.",
+  "description": "A white field charged with the coat of arms of Tartu rural municipality in blue.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Tartu"
+      "type": "solid",
+      "color": "white",
+      "symbolism": "the field of the Tartu flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Tartu rural municipality"
     }
   ]
 }

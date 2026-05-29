@@ -6,7 +6,8 @@
   ],
   "parent": "EE-64",
   "codes": {
-    "iso_3166_2": "EE-622"
+    "iso_3166_2": "EE-622",
+    "wikidata": "Q44489788"
   },
   "region": [
     "Europe",
@@ -29,11 +30,17 @@
       "color": "black"
     }
   ],
-  "description": "Banner of the coat of arms of Põlva rural municipality.",
+  "description": "A white field charged with the coat of arms of Põlva rural municipality in green, blue, and black.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Põlva"
+      "type": "solid",
+      "color": "white",
+      "symbolism": "the field of the Põlva flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Põlva rural municipality"
     }
   ]
 }

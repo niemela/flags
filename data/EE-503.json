@@ -6,7 +6,8 @@
   ],
   "parent": "EE-71",
   "codes": {
-    "iso_3166_2": "EE-503"
+    "iso_3166_2": "EE-503",
+    "wikidata": "Q11129269"
   },
   "region": [
     "Europe",
@@ -29,11 +30,17 @@
       "color": "yellow"
     }
   ],
-  "description": "Banner of the coat of arms of Märjamaa rural municipality.",
+  "description": "A green field charged with the coat of arms of Märjamaa rural municipality in black, white, and yellow.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Märjamaa"
+      "type": "solid",
+      "color": "green",
+      "symbolism": "the field of the Märjamaa flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Märjamaa rural municipality"
     }
   ]
 }

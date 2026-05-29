@@ -6,7 +6,8 @@
   ],
   "parent": "EE-60",
   "codes": {
-    "iso_3166_2": "EE-663"
+    "iso_3166_2": "EE-663",
+    "wikidata": "Q191889"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "black"
     }
   ],
-  "description": "Banner of the coat of arms of Rakvere urban municipality.",
+  "description": "A blue field charged with the coat of arms of Rakvere urban municipality in yellow and black.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Rakvere"
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the field of the Rakvere flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Rakvere urban municipality"
     }
   ]
 }

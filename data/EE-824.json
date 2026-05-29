@@ -6,7 +6,8 @@
   ],
   "parent": "EE-81",
   "codes": {
-    "iso_3166_2": "EE-824"
+    "iso_3166_2": "EE-824",
+    "wikidata": "Q42814725"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "black"
     }
   ],
-  "description": "Banner of the coat of arms of Tõrva rural municipality.",
+  "description": "A blue field charged with the coat of arms of Tõrva rural municipality in white and black.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Tõrva"
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the field of the Tõrva flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Tõrva rural municipality"
     }
   ]
 }

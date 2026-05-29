@@ -6,7 +6,8 @@
   ],
   "parent": "EE-37",
   "codes": {
-    "iso_3166_2": "EE-784"
+    "iso_3166_2": "EE-784",
+    "wikidata": "Q1770"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "black"
     }
   ],
-  "description": "Banner of the coat of arms of Tallinn urban municipality.",
+  "description": "A blue field charged with the coat of arms of Tallinn urban municipality in white and black.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Tallinn"
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the field of the Tallinn flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Tallinn urban municipality"
     }
   ]
 }

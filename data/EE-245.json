@@ -6,7 +6,8 @@
   ],
   "parent": "EE-37",
   "codes": {
-    "iso_3166_2": "EE-245"
+    "iso_3166_2": "EE-245",
+    "wikidata": "Q11098820"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "black"
     }
   ],
-  "description": "Banner of the coat of arms of Jõelähtme rural municipality.",
+  "description": "A red field charged with the coat of arms of Jõelähtme rural municipality in white and black.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Jõelähtme"
+      "type": "solid",
+      "color": "red",
+      "symbolism": "the field of the Jõelähtme flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Jõelähtme rural municipality"
     }
   ]
 }

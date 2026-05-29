@@ -6,7 +6,8 @@
   ],
   "parent": "EE-87",
   "codes": {
-    "iso_3166_2": "EE-142"
+    "iso_3166_2": "EE-142",
+    "wikidata": "Q44491738"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "black"
     }
   ],
-  "description": "Banner of the coat of arms of Antsla rural municipality.",
+  "description": "A yellow field charged with the coat of arms of Antsla rural municipality in green and black.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Antsla"
+      "type": "solid",
+      "color": "yellow",
+      "symbolism": "the field of the Antsla flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Antsla rural municipality"
     }
   ]
 }

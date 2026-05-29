@@ -6,7 +6,8 @@
   ],
   "parent": "EE-64",
   "codes": {
-    "iso_3166_2": "EE-284"
+    "iso_3166_2": "EE-284",
+    "wikidata": "Q11100308"
   },
   "region": [
     "Europe",
@@ -26,11 +27,17 @@
       "color": "black"
     }
   ],
-  "description": "Banner of the coat of arms of Kanepi rural municipality.",
+  "description": "A white field charged with the coat of arms of Kanepi rural municipality in green and black.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Kanepi"
+      "type": "solid",
+      "color": "white",
+      "symbolism": "the field of the Kanepi flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Kanepi rural municipality"
     }
   ]
 }

@@ -6,7 +6,8 @@
   ],
   "parent": "EE-50",
   "codes": {
-    "iso_3166_2": "EE-247"
+    "iso_3166_2": "EE-247",
+    "wikidata": "Q44624256"
   },
   "region": [
     "Europe",
@@ -29,11 +30,17 @@
       "color": "light-blue"
     }
   ],
-  "description": "Banner of the coat of arms of Jõgeva rural municipality.",
+  "description": "A blue field charged with the coat of arms of Jõgeva rural municipality in white, black, and light blue.",
   "features": [
     {
-      "type": "complex",
-      "symbolism": "banner of the coat of arms of Jõgeva"
+      "type": "solid",
+      "color": "blue",
+      "symbolism": "the field of the Jõgeva flag"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Jõgeva rural municipality"
     }
   ]
 }
