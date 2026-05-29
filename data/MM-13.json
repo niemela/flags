@@ -16,20 +16,16 @@
   "aspect_ratio": "5:9",
   "colors": [
     {
-      "color": "white",
-      "symbolism": "primary field colour"
+      "color": "navy"
+    },
+    {
+      "color": "white"
     },
     {
       "color": "red"
-    },
-    {
-      "color": "blue"
-    },
-    {
-      "color": "yellow"
     }
   ],
-  "description": "Flag of Kayin State, with the Kayin (Karen) state emblem at the centre on a horizontally-banded field.",
+  "description": "A horizontal tricolour of navy, white, and red with a rising sun — the Karen (Kayin) national flag.",
   "history": "Used by the Kayin State government as one of Myanmar's 14 first-level administrative subdivisions (seven regions and seven states, plus Naypyidaw Union Territory). Many regional and state flag designs follow a common pattern based on the national flag, charged with the regional seal.",
   "variant": [
     "civil",
@@ -40,9 +36,13 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "white",
-      "symbolism": "the primary field colour"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "white",
+        "red"
+      ],
+      "count": 3
     },
     {
       "type": "complex",
