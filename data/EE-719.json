@@ -18,20 +18,35 @@
   "aspect_ratio": "1:1",
   "colors": [
     {
-      "color": "black"
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
     }
   ],
-  "description": "A black field charged with the coat of arms of Saku rural municipality in green, white, and red.",
+  "description": "A green field within a saw-toothed (dancetty) red-and-white border, charged with three white shields.",
   "features": [
     {
       "type": "solid",
-      "color": "black",
-      "symbolism": "the field of the Saku flag"
+      "color": "green",
+      "symbolism": "the green field of the Saku flag"
     },
     {
-      "type": "coat-of-arms",
+      "type": "triangle",
+      "color": "red",
+      "count": 40,
+      "arrangement": "border",
+      "role": "saw-toothed red-and-white border (red triangles on white)"
+    },
+    {
+      "type": "shield",
+      "color": "white",
+      "count": 3,
       "position": "center",
-      "role": "coat of arms of Saku rural municipality"
+      "role": "three silver shields"
     }
   ]
 }

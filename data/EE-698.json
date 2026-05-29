@@ -18,20 +18,34 @@
   "aspect_ratio": "1:1",
   "colors": [
     {
-      "color": "black"
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
     }
   ],
-  "description": "A black field charged with the coat of arms of Rõuge rural municipality in white, green, and blue.",
+  "description": "A white field with three green pine trees on a green hill, above a blue wavy stripe along the bottom.",
   "features": [
     {
       "type": "solid",
-      "color": "black",
+      "color": "white",
       "symbolism": "the field of the Rõuge flag"
     },
     {
-      "type": "coat-of-arms",
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom",
+      "role": "blue wavy stripe (the lakes of Rõuge)"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "count": 3,
       "position": "center",
-      "role": "coat of arms of Rõuge rural municipality"
+      "role": "three green pines on a green hill"
     }
   ]
 }

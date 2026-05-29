@@ -18,20 +18,21 @@
   "aspect_ratio": "7:11",
   "colors": [
     {
-      "color": "blue"
-    }
-  ],
-  "description": "A blue field charged with the coat of arms of Narva urban municipality in yellow and black.",
-  "features": [
-    {
-      "type": "solid",
-      "color": "blue",
-      "symbolism": "the field of the Narva flag"
+      "color": "yellow"
     },
     {
-      "type": "coat-of-arms",
-      "position": "center",
-      "role": "coat of arms of Narva urban municipality"
+      "color": "green"
+    }
+  ],
+  "description": "A horizontal bicolour of yellow over teal-green.",
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2
     }
   ]
 }

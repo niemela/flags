@@ -19,19 +19,39 @@
   "colors": [
     {
       "color": "blue"
-    }
-  ],
-  "description": "A blue field charged with the coat of arms of Põltsamaa rural municipality in green, yellow, and black.",
-  "features": [
-    {
-      "type": "solid",
-      "color": "blue",
-      "symbolism": "the field of the Põltsamaa flag"
     },
     {
-      "type": "coat-of-arms",
-      "position": "center",
-      "role": "coat of arms of Põltsamaa rural municipality"
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally by a wavy golden band into a blue upper-fly field and a green lower-hoist field, with three golden ears of wheat in the lower hoist and a golden crown in the upper fly.",
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "green",
+      "direction": "bend",
+      "fimbriation": {
+        "color": "yellow",
+        "around": "all-edges"
+      },
+      "symbolism": "a wavy golden bend dividing blue (sky and water) above from green (land) below"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "count": 3,
+      "position": "lower-hoist",
+      "role": "three golden ears of wheat"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "upper-fly",
+      "role": "golden crown"
     }
   ]
 }

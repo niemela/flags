@@ -19,19 +19,43 @@
   "colors": [
     {
       "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
     }
   ],
-  "description": "A red field charged with the coat of arms of Loksa urban municipality in white, yellow, and black.",
+  "description": "A red field bearing a golden oak tree above two golden boats at the hoist, with red-and-white horizontal stripes across the fly half (a banner of the Loksa arms).",
   "features": [
     {
       "type": "solid",
       "color": "red",
-      "symbolism": "the field of the Loksa flag"
+      "symbolism": "the red field of the Loksa arms"
     },
     {
-      "type": "coat-of-arms",
-      "position": "center",
-      "role": "coat of arms of Loksa urban municipality"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 9,
+      "position": "fly",
+      "role": "barry of red and white across the fly half"
+    },
+    {
+      "type": "tree",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "golden oak tree of the Loksa arms"
+    },
+    {
+      "type": "ship",
+      "color": "yellow",
+      "count": 2,
+      "position": "hoist",
+      "role": "two golden boats at the foot of the oak"
     }
   ]
 }

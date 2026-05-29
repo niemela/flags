@@ -19,9 +19,12 @@
   "colors": [
     {
       "color": "blue"
+    },
+    {
+      "color": "white"
     }
   ],
-  "description": "A blue field charged with the coat of arms of Hiiumaa rural municipality in white and black.",
+  "description": "A blue field with three white wavy stripes across the lower portion.",
   "features": [
     {
       "type": "solid",
@@ -29,9 +32,11 @@
       "symbolism": "the field of the Hiiumaa flag"
     },
     {
-      "type": "coat-of-arms",
-      "position": "center",
-      "role": "coat of arms of Hiiumaa rural municipality"
+      "type": "wave",
+      "color": "white",
+      "count": 3,
+      "position": "bottom",
+      "role": "three white wavy stripes (the Baltic Sea around the island of Hiiumaa)"
     }
   ]
 }
