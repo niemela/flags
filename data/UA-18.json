@@ -18,15 +18,15 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "blue",
-      "symbolism": "the central field — the Polissian sky and Teteriv river"
+      "color": "red",
+      "symbolism": "the red field of the flag"
     },
     {
       "color": "yellow",
-      "symbolism": "the bordure and details — wheat, the Drevlianian heritage"
+      "symbolism": "the cross beneath the coat of arms"
     }
   ],
-  "description": "A blue field within a wide yellow bordure, charged in the centre with the coat of arms of Zhytomyr Oblast.",
+  "description": "A red field charged at the centre with the coat of arms of Zhytomyr, set upon a straight yellow cross.",
   "history": "Officially adopted on 31 October 2002 by a resolution of the eighth session of the Zhytomyr Oblast Council of the 24th convocation. Zhytomyr Oblast covers the historic Drevlianian and Polissian lands.",
   "sources": [
     "https://en.wikipedia.org/wiki/Flag_of_Zhytomyr_Oblast",
@@ -34,9 +34,14 @@
   ],
   "features": [
     {
-      "type": "bordure",
-      "field": "blue",
-      "border": "yellow"
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "greek-cross",
+      "color": "yellow",
+      "position": "center",
+      "role": "yellow cross beneath the arms"
     },
     {
       "type": "coat-of-arms",

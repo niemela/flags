@@ -18,15 +18,13 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "white",
-      "symbolism": "purity and the silver heraldic field of historic Chernihiv"
+      "color": "green"
     },
     {
-      "color": "red",
-      "symbolism": "the historic banner of Chernihiv princes"
+      "color": "white"
     }
   ],
-  "description": "A white field with a red bordure, charged in the centre with the historic black double-headed eagle of Chernihiv (a saint or cross above), referencing the medieval Chernihiv Principality.",
+  "description": "A green field with a central white band, charged with the coat of arms (a black eagle).",
   "history": "Designed by I. Sytyi, A. Hrechylo, and I. Pavlenko and officially adopted on 11 July 2000 by the Chernihiv Oblast Council. The arms derive from the medieval seal of the Chernihiv Principality.",
   "sources": [
     "https://en.wikipedia.org/wiki/Flag_of_Chernihiv_Oblast",
@@ -34,9 +32,13 @@
   ],
   "features": [
     {
-      "type": "bordure",
-      "field": "white",
-      "border": "red"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 3
     },
     {
       "type": "coat-of-arms",
