@@ -16,11 +16,16 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "white",
-      "symbolism": "the field of the provincial flag"
+      "color": "blue"
+    },
+    {
+      "color": "grey"
+    },
+    {
+      "color": "yellow"
     }
   ],
-  "description": "A white field charged with the provincial seal of Tak in the centre.",
+  "description": "A a blue field with a grey triangle at the hoist, charged at the centre with the seal of Tak and the province name in Thai script.",
   "history": "Used as the official flag of Tak province by the provincial government (changwat). Most Thai provincial flags follow a common formula: the provincial seal (the same seal used on the provincial coat of arms) charged on a single-colour field. The designs are traditional and date back to the formation of modern provincial administration in Thailand.",
   "variant": [
     "civil",
@@ -33,14 +38,20 @@
   "features": [
     {
       "type": "solid",
-      "color": "white",
-      "symbolism": "the field of the provincial flag"
+      "color": "blue"
+    },
+    {
+      "type": "triangle",
+      "color": "grey",
+      "position": "hoist",
+      "role": "grey hoist triangle"
     },
     {
       "type": "seal",
       "position": "center",
       "role": "Provincial seal of Tak",
-      "symbolism": "the provincial seal — a heraldic emblem depicting iconography (a Buddhist stupa, sacred mountain, river, or other local landmark) characteristic of the province; see the Wikipedia article for details."
+      "symbolism": "the provincial seal — a heraldic emblem depicting iconography (a Buddhist stupa, sacred mountain, river, or other local landmark) characteristic of the province; see the Wikipedia article for details.",
+      "color": "yellow"
     }
   ]
 }

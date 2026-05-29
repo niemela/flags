@@ -16,11 +16,13 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "white",
-      "symbolism": "the field of the provincial flag"
+      "color": "navy"
+    },
+    {
+      "color": "orange"
     }
   ],
-  "description": "A white field charged with the provincial seal of Uttaradit in the centre.",
+  "description": "A a navy field with an orange triangle at the hoist, charged at the centre with the seal of Uttaradit and the province name in Thai script.",
   "history": "Used as the official flag of Uttaradit province by the provincial government (changwat). Most Thai provincial flags follow a common formula: the provincial seal (the same seal used on the provincial coat of arms) charged on a single-colour field. The designs are traditional and date back to the formation of modern provincial administration in Thailand.",
   "variant": [
     "civil",
@@ -33,8 +35,13 @@
   "features": [
     {
       "type": "solid",
-      "color": "white",
-      "symbolism": "the field of the provincial flag"
+      "color": "navy"
+    },
+    {
+      "type": "triangle",
+      "color": "orange",
+      "position": "hoist",
+      "role": "orange hoist triangle"
     },
     {
       "type": "seal",
