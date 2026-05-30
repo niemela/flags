@@ -1,0 +1,77 @@
+{
+  "id": "GB-NIR_1953",
+  "name": "Northern Ireland (United Kingdom, 1924-1953)",
+  "type": [
+    "historical",
+    "subdivision"
+  ],
+  "parent": "GB",
+  "codes": {
+    "iso_3166_2": "GB-NIR",
+    "wikidata": "Q26"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    { "color": "white" },
+    { "color": "red" },
+    { "color": "yellow", "symbolism": "the gold of the crown and star" }
+  ],
+  "symbolism": "Based on the coat of arms granted to the Government of Northern Ireland in 1924: a six-pointed star (one point per county) charged with the Red Hand of Ulster on a small shield, surmounted by a crown, all centred on the Cross of Saint George.",
+  "description": "A white field with a red Cross of Saint George. In the centre of the cross, a white six-pointed star bearing the red hand of Ulster on a small white shield, surmounted by a gold Tudor Crown — the earlier (pre-1953) version of the Ulster Banner.",
+  "history": "The original version of the Ulster Banner, based on the coat of arms granted to the Government of Northern Ireland by royal warrant in 1924. This version carried the Tudor Crown (the 'King's Crown'); in 1953 the crown was changed to St Edward's Crown following the accession of Queen Elizabeth II. Northern Ireland's government flag from the 1920s until 1953.",
+  "variant": [
+    "state",
+    "government"
+  ],
+  "periods": [
+    {
+      "start": "1924",
+      "end": "1953-05-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ulster_Banner",
+    "https://en.wikipedia.org/wiki/Government_of_Northern_Ireland"
+  ],
+  "features": [
+    { "type": "solid", "color": "white" },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "role": "Cross of Saint George",
+      "symbolism": "the cross of Saint George, drawing on the heraldry of England and Northern Ireland's status within the United Kingdom"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "white",
+      "position": "center",
+      "role": "six-pointed star",
+      "symbolism": "the six counties of Northern Ireland"
+    },
+    {
+      "type": "hand",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "Red Hand of Ulster (within the star, on a white shield)",
+      "symbolism": "the ancient symbol of the province of Ulster, derived from the heraldry of the O'Neill dynasty"
+    },
+    {
+      "type": "crown",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "Tudor Crown (atop the star)",
+      "symbolism": "loyalty to the British Crown; the King's Crown used until 1953"
+    }
+  ]
+}
