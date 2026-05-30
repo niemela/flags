@@ -1,0 +1,32 @@
+{
+  "id": "FR-12",
+  "name": "Aveyron (France)",
+  "type": ["subdivision"],
+  "parent": "FR-OCC",
+  "codes": {
+    "iso_3166_2": "FR-12",
+    "wikidata": "Q3216"
+  },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "red" },
+    { "color": "yellow" }
+  ],
+  "description": "A banner of the arms of the historic Rouergue (the département of Aveyron): a gold lion rampant on a red field.",
+  "history": "The gold lion on red is the medieval arms of the counts of Rouergue, the historic province corresponding to the modern département of Aveyron.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aveyron"
+  ],
+  "features": [
+    { "type": "solid", "color": "red" },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "count": 1,
+      "position": "center",
+      "role": "gold lion rampant",
+      "symbolism": "the arms of the historic county of Rouergue"
+    }
+  ]
+}

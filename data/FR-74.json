@@ -1,0 +1,19 @@
+{
+  "id": "FR-74",
+  "name": "Haute-Savoie (France)",
+  "type": ["subdivision"],
+  "parent": "FR-ARA",
+  "codes": { "iso_3166_2": "FR-74", "wikidata": "Q12751" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [ { "color": "blue" }, { "color": "white" }, { "color": "red" } ],
+  "description": "A blue field bearing a large white triangle rising from the base, charged at its centre with the shield of Savoy: red with a white couped cross.",
+  "history": "The Savoy shield recalls the House of Savoy that ruled the region, set on a blue field divided by a white mountain-like triangle.",
+  "sources": ["https://en.wikipedia.org/wiki/Haute-Savoie"],
+  "features": [
+    { "type": "solid", "role": "field", "color": "blue" },
+    { "type": "triangle", "role": "white triangle from base", "color": "white" },
+    { "type": "shield", "role": "shield of Savoy", "color": "red" },
+    { "type": "greek-cross", "role": "cross of Savoy on shield", "color": "white" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "FR-6AE",
+  "name": "European Collectivity of Alsace",
+  "type": ["subdivision"],
+  "parent": "FR-GES",
+  "codes": { "iso_3166_2": "FR-6AE", "wikidata": "Q2982948" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "red" },
+    { "color": "white" },
+    { "color": "yellow" }
+  ],
+  "description": "A red field crossed diagonally by a white band (bend) edged with white trefoil-like lobes; in the upper fly two yellow crowns and in the lower hoist three yellow crowns.",
+  "history": "The flag combines the white bend of Lower Alsace with the crowns of Upper Alsace, uniting the two former departments into the European Collectivity of Alsace in 2021.",
+  "sources": ["https://en.wikipedia.org/wiki/European_Collectivity_of_Alsace"],
+  "features": [
+    { "type": "solid", "role": "field", "color": "red" },
+    { "type": "diagonal-stripes", "role": "white bend with lobed edging", "color": "white" },
+    { "type": "crown", "role": "five crowns flanking the bend", "color": "yellow" }
+  ]
+}

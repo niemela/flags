@@ -1,0 +1,21 @@
+{
+  "id": "FR-11",
+  "name": "Aude (France)",
+  "type": ["subdivision"],
+  "parent": "FR-OCC",
+  "codes": { "iso_3166_2": "FR-11", "wikidata": "Q3207" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "red" },
+    { "color": "yellow" }
+  ],
+  "description": "A red field with an embattled (crenellated) edge, charged in the centre with a yellow Occitan cross (a cross clechée, voided and pommetty of twelve).",
+  "history": "The Occitan cross derives from the arms of the Counts of Toulouse and symbolises the region's Occitan identity.",
+  "sources": ["https://en.wikipedia.org/wiki/Aude"],
+  "features": [
+    { "type": "solid", "color": "red" },
+    { "type": "bordure", "color": "red", "role": "embattled crenellated edge" },
+    { "type": "greek-cross", "color": "yellow", "position": "center", "role": "yellow Occitan cross, clechée voided and pommetty" }
+  ]
+}

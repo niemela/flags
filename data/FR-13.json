@@ -1,0 +1,43 @@
+{
+  "id": "FR-13",
+  "name": "Bouches-du-Rhône (France)",
+  "type": ["subdivision"],
+  "parent": "FR-PAC",
+  "codes": {
+    "iso_3166_2": "FR-13",
+    "wikidata": "Q3240"
+  },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "yellow" },
+    { "color": "blue" },
+    { "color": "red" }
+  ],
+  "description": "A gold field with a blue pall (evoking the delta — the 'mouths' — of the Rhône), charged with a gold fleur-de-lis, and a red device across the top.",
+  "history": "The arms of the département of Bouches-du-Rhône; the blue pall represents the mouths of the Rhône and the fleur-de-lis recalls royal France.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bouches-du-Rh%C3%B4ne"
+  ],
+  "features": [
+    {
+      "type": "pall",
+      "field": "yellow",
+      "pall": "blue",
+      "role": "blue pall on gold — the mouths of the Rhône"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "count": 1,
+      "position": "center",
+      "role": "gold fleur-de-lis on the pall"
+    },
+    {
+      "type": "complex",
+      "color": "red",
+      "position": "chief",
+      "role": "a red device across the top of the pall"
+    }
+  ]
+}

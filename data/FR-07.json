@@ -1,0 +1,30 @@
+{
+  "id": "FR-07",
+  "name": "Ardèche (France)",
+  "type": ["subdivision"],
+  "parent": "FR-ARA",
+  "codes": {
+    "iso_3166_2": "FR-07",
+    "wikidata": "Q3148"
+  },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue" },
+    { "color": "yellow" }
+  ],
+  "description": "Azure semé-de-lis or — a blue field strewn with gold fleurs-de-lis — the arms of the historic Vivarais (the département of Ardèche).",
+  "history": "The blue field strewn with gold fleurs-de-lis derives from the royal arms of France, the Vivarais having been a royal seneschalsy.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ard%C3%A8che"
+  ],
+  "features": [
+    { "type": "solid", "color": "blue" },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "arrangement": "semé",
+      "role": "field strewn (semé) with gold fleurs-de-lis"
+    }
+  ]
+}

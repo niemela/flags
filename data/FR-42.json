@@ -1,0 +1,20 @@
+{
+  "id": "FR-42",
+  "name": "Loire (France)",
+  "type": ["subdivision"],
+  "parent": "FR-ARA",
+  "codes": { "iso_3166_2": "FR-42", "wikidata": "Q12569" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "red" },
+    { "color": "yellow" }
+  ],
+  "description": "Red field charged with a gold dolphin.",
+  "history": "The gold dolphin on red derives from the arms of the Forez, the historic county covering much of the department.",
+  "sources": ["https://en.wikipedia.org/wiki/Loire_(department)"],
+  "features": [
+    { "type": "solid", "color": "red", "role": "field" },
+    { "type": "animal-other", "color": "yellow", "count": 1, "position": "center", "role": "dolphin of the Forez" }
+  ]
+}

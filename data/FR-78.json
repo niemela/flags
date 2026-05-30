@@ -1,0 +1,18 @@
+{
+  "id": "FR-78",
+  "name": "Yvelines (France)",
+  "type": ["subdivision"],
+  "parent": "FR-IDF",
+  "codes": { "iso_3166_2": "FR-78", "wikidata": "Q12820" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [ { "color": "blue" }, { "color": "yellow" }, { "color": "white" } ],
+  "description": "A blue field strewn with gold fleurs-de-lis, crossed diagonally by two wavy white bends.",
+  "history": "The blue field semé of fleurs-de-lis recalls the royal arms of France, with the two wavy diagonal bands evoking the department's rivers.",
+  "sources": ["https://en.wikipedia.org/wiki/Yvelines"],
+  "features": [
+    { "type": "solid", "role": "field", "color": "blue" },
+    { "type": "fleur-de-lis", "role": "semé of fleurs-de-lis", "color": "yellow" },
+    { "type": "diagonal-stripes", "role": "two wavy bends", "color": "white" }
+  ]
+}

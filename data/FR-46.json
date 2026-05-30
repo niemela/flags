@@ -1,0 +1,23 @@
+{
+  "id": "FR-46",
+  "name": "Lot (France)",
+  "type": ["subdivision"],
+  "parent": "FR-OCC",
+  "codes": { "iso_3166_2": "FR-46", "wikidata": "Q12576" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "red" },
+    { "color": "white" },
+    { "color": "yellow" },
+    { "color": "blue" }
+  ],
+  "description": "Red field charged with a white fortified bridge of five towers topped with gold fleurs-de-lis, over blue wavy water along the base.",
+  "history": "The towered bridge depicts the Pont Valentré of Cahors, the historic capital of the Quercy.",
+  "sources": ["https://en.wikipedia.org/wiki/Lot_(department)"],
+  "features": [
+    { "type": "solid", "color": "red", "role": "field" },
+    { "type": "complex", "color": "white", "role": "fortified bridge of towers (Pont Valentre) with gold fleurs-de-lis above" },
+    { "type": "wave", "color": "blue", "role": "wavy water at base for the river Lot" }
+  ]
+}

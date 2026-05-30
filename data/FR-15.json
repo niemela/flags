@@ -1,0 +1,24 @@
+{
+  "id": "FR-15",
+  "name": "Cantal (France)",
+  "type": ["subdivision"],
+  "parent": "FR-ARA",
+  "codes": { "iso_3166_2": "FR-15", "wikidata": "Q3259" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "green" },
+    { "color": "blue" },
+    { "color": "yellow" },
+    { "color": "white" },
+    { "color": "red" }
+  ],
+  "description": "A green field bearing a red pavilion (mantling) draped from three gold rings, enclosing a blue shield charged with a gold bend and six white scallop shells.",
+  "history": "The blue shield with bend and scallops is the historic arms of the Duchy of Auvergne, of which Cantal was part.",
+  "sources": ["https://en.wikipedia.org/wiki/Cantal"],
+  "features": [
+    { "type": "solid", "color": "green" },
+    { "type": "shield", "color": "blue", "position": "center", "role": "blue shield with a gold bend and six white scallop shells, within a red pavilion" },
+    { "type": "shell", "color": "white", "count": 6, "role": "six white scallop shells flanking the gold bend" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "FR-86",
+  "name": "Vienne (France)",
+  "type": ["subdivision"],
+  "parent": "FR-NAQ",
+  "codes": { "iso_3166_2": "FR-86", "wikidata": "Q12804" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [ { "color": "red" }, { "color": "white" }, { "color": "yellow" } ],
+  "description": "A red field with a wavy white pale down the centre, charged with five gold castles, four on the red and one on the white pale.",
+  "history": "The wavy white band represents the river Vienne, with castles recalling the fortified towns of the historic Poitou.",
+  "sources": ["https://en.wikipedia.org/wiki/Vienne_(department)"],
+  "features": [
+    { "type": "solid", "role": "field", "color": "red" },
+    { "type": "vertical-stripes", "role": "wavy pale", "color": "white" },
+    { "type": "building", "role": "five castles", "color": "yellow" }
+  ]
+}

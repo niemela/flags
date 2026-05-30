@@ -1,0 +1,19 @@
+{
+  "id": "FR-89",
+  "name": "Yonne (France)",
+  "type": ["subdivision"],
+  "parent": "FR-BFC",
+  "codes": { "iso_3166_2": "FR-89", "wikidata": "Q12816" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [ { "color": "yellow" }, { "color": "blue" }, { "color": "red" }, { "color": "white" } ],
+  "description": "In chief two panels: at the hoist, blue strewn with gold fleurs-de-lis within a red-and-white chequered border; at the fly, gold and blue diagonal stripes within a red border. Below, a gold field charged with a blue pall.",
+  "history": "The two upper panels combine the old arms of France and of Burgundy, the duchy to which the area historically belonged.",
+  "sources": ["https://en.wikipedia.org/wiki/Yonne"],
+  "features": [
+    { "type": "complex", "role": "two heraldic panels in chief" },
+    { "type": "fleur-de-lis", "role": "fleurs-de-lis in hoist panel", "color": "yellow" },
+    { "type": "solid", "role": "lower field", "color": "yellow" },
+    { "type": "pall", "role": "blue pall on lower field", "color": "blue" }
+  ]
+}

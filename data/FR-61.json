@@ -1,0 +1,25 @@
+{
+  "id": "FR-61",
+  "name": "Orne (France)",
+  "type": ["subdivision"],
+  "parent": "FR-NOR",
+  "codes": { "iso_3166_2": "FR-61", "wikidata": "Q12679" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "red" },
+    { "color": "yellow" },
+    { "color": "blue" },
+    { "color": "white" }
+  ],
+  "description": "A red field; in the upper half two yellow lions passant (leopards); in the lower half a blue horizontal band charged with three yellow fleurs-de-lis and flanked above and below by rows of white roundels.",
+  "history": "The flag combines the leopards of Normandy with a fleur-de-lis band recalling royal France.",
+  "sources": ["https://en.wikipedia.org/wiki/Orne"],
+  "features": [
+    { "type": "solid", "role": "field", "color": "red" },
+    { "type": "lion", "role": "two lions passant in chief", "color": "yellow" },
+    { "type": "horizontal-stripes", "role": "blue band in base", "color": "blue" },
+    { "type": "fleur-de-lis", "role": "three fleurs-de-lis on the band", "color": "yellow" },
+    { "type": "circle", "role": "rows of white roundels", "color": "white" }
+  ]
+}

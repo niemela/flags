@@ -1,0 +1,24 @@
+{
+  "id": "FR-16",
+  "name": "Charente (France)",
+  "type": ["subdivision"],
+  "parent": "FR-NAQ",
+  "codes": { "iso_3166_2": "FR-16", "wikidata": "Q3266" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue" },
+    { "color": "yellow" },
+    { "color": "red" },
+    { "color": "white" }
+  ],
+  "description": "Divided by a white wavy fess: above, a blue field with a white label of three points over three gold fleurs-de-lis; below, a field lozengy of red and yellow.",
+  "history": "The blue field with fleurs-de-lis and a label recalls the arms of the House of Valois-Angoulême, the lozengy panel evoking local heraldry.",
+  "sources": ["https://en.wikipedia.org/wiki/Charente"],
+  "features": [
+    { "type": "horizontal-stripes", "stripes": ["blue", "yellow"], "role": "blue chief over a lozengy lower field, divided by a white wavy fess" },
+    { "type": "wave", "color": "white", "role": "white wavy fess dividing the field" },
+    { "type": "fleur-de-lis", "color": "yellow", "count": 3, "position": "top", "role": "three gold fleurs-de-lis beneath a white label" },
+    { "type": "lozenge", "stripes": ["red", "yellow"], "position": "bottom", "role": "lower field lozengy of red and yellow" }
+  ]
+}

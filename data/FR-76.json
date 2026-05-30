@@ -1,0 +1,18 @@
+{
+  "id": "FR-76",
+  "name": "Seine-Maritime (France)",
+  "type": ["subdivision"],
+  "parent": "FR-NOR",
+  "codes": { "iso_3166_2": "FR-76", "wikidata": "Q12758" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "3:5",
+  "colors": [ { "color": "red" }, { "color": "yellow" }, { "color": "white" } ],
+  "description": "A red field bearing two gold lions passant guardant, one above and one below a wavy white fess.",
+  "history": "The two gold lions are the historic leopards of Normandy, here separated by a wavy bar representing the river Seine and the sea.",
+  "sources": ["https://en.wikipedia.org/wiki/Seine-Maritime"],
+  "features": [
+    { "type": "solid", "role": "field", "color": "red" },
+    { "type": "horizontal-stripes", "role": "wavy fess", "color": "white" },
+    { "type": "lion", "role": "lions of Normandy", "color": "yellow" }
+  ]
+}

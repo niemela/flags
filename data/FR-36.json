@@ -1,0 +1,24 @@
+{
+  "id": "FR-36",
+  "name": "Indre (France)",
+  "type": ["subdivision"],
+  "parent": "FR-CVL",
+  "codes": { "iso_3166_2": "FR-36", "wikidata": "Q12553" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue" },
+    { "color": "yellow" },
+    { "color": "white" },
+    { "color": "red" }
+  ],
+  "description": "Blue field charged with three gold fleurs-de-lis and a white wavy fess, within a red scalloped border.",
+  "history": "The fleurs-de-lis recall the royal province of Berry, while the wavy bar represents the river Indre.",
+  "sources": ["https://en.wikipedia.org/wiki/Indre_(department)"],
+  "features": [
+    { "type": "solid", "color": "blue", "role": "field" },
+    { "type": "fleur-de-lis", "color": "yellow", "count": 3, "role": "three fleurs-de-lis" },
+    { "type": "wave", "color": "white", "count": 1, "position": "center", "role": "wavy fess for the river Indre" },
+    { "type": "bordure", "color": "red", "role": "scalloped border" }
+  ]
+}

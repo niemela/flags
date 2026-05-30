@@ -1,0 +1,22 @@
+{
+  "id": "FR-56",
+  "name": "Morbihan (France)",
+  "type": ["subdivision"],
+  "parent": "FR-BRE",
+  "codes": { "iso_3166_2": "FR-56", "wikidata": "Q12642" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "white" },
+    { "color": "blue" },
+    { "color": "black" }
+  ],
+  "description": "Per fess wavy: the upper part white strewn with black ermine spots, the lower part blue.",
+  "history": "The ermine recalls Brittany while the blue lower half evokes the Gulf of Morbihan from which the department takes its name.",
+  "sources": ["https://en.wikipedia.org/wiki/Morbihan"],
+  "features": [
+    { "type": "horizontal-stripes", "role": "field divided per fess wavy", "color": "white" },
+    { "type": "wave", "role": "wavy division to blue lower half", "color": "blue" },
+    { "type": "glyph", "role": "black ermine spots on white", "color": "black" }
+  ]
+}

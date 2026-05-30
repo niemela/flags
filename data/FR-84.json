@@ -1,0 +1,19 @@
+{
+  "id": "FR-84",
+  "name": "Vaucluse (France)",
+  "type": ["subdivision"],
+  "parent": "FR-PAC",
+  "codes": { "iso_3166_2": "FR-84", "wikidata": "Q12792" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [ { "color": "red" }, { "color": "blue" }, { "color": "yellow" }, { "color": "white" }, { "color": "green" } ],
+  "description": "Quarterly: first quarter red with two crossed keys, one gold and one white; second quarter blue with a gold fleur-de-lis below a red bar; third quarter blue with a gold fess, a blue horn above and green plants below; fourth quarter red with three gold keys in pale.",
+  "history": "The arms quarter the crossed keys of the papal Comtat Venaissin with the fleur-de-lis of Provence and emblems of the territories joined to form the department.",
+  "sources": ["https://en.wikipedia.org/wiki/Vaucluse"],
+  "features": [
+    { "type": "quartered", "role": "field" },
+    { "type": "key", "role": "crossed keys in first quarter and keys in fourth quarter", "color": "yellow" },
+    { "type": "fleur-de-lis", "role": "fleur-de-lis in second quarter", "color": "yellow" },
+    { "type": "complex", "role": "horn and plants in third quarter" }
+  ]
+}

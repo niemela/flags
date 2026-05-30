@@ -1,0 +1,19 @@
+{
+  "id": "FR-83",
+  "name": "Var (France)",
+  "type": ["subdivision"],
+  "parent": "FR-PAC",
+  "codes": { "iso_3166_2": "FR-83", "wikidata": "Q12789" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [ { "color": "yellow" }, { "color": "blue" }, { "color": "red" } ],
+  "description": "A gold field bearing a large blue inverted triangle issuing from the chief, charged with a gold fleur-de-lis below a red bar with three pendants near the top.",
+  "history": "The blue with a gold fleur-de-lis beneath a red label is drawn from the arms of Provence, of which the department forms part.",
+  "sources": ["https://en.wikipedia.org/wiki/Var_(department)"],
+  "features": [
+    { "type": "solid", "role": "field", "color": "yellow" },
+    { "type": "triangle", "role": "blue inverted triangle from chief", "color": "blue" },
+    { "type": "complex", "role": "red label with pendants", "color": "red" },
+    { "type": "fleur-de-lis", "role": "fleur-de-lis", "color": "yellow" }
+  ]
+}

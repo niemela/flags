@@ -1,0 +1,20 @@
+{
+  "id": "FR-88",
+  "name": "Vosges (France)",
+  "type": ["subdivision"],
+  "parent": "FR-GES",
+  "codes": { "iso_3166_2": "FR-88", "wikidata": "Q3105" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "3:4",
+  "colors": [ { "color": "yellow" }, { "color": "red" }, { "color": "white" }, { "color": "green" } ],
+  "description": "In chief, a gold band with a red diagonal bend bearing three white eaglets; below, a green field with a white chevron and three white fir trees.",
+  "history": "The red bend with three alerions is the arms of Lorraine, set above green and fir trees evoking the wooded Vosges mountains.",
+  "sources": ["https://en.wikipedia.org/wiki/Vosges_(department)"],
+  "features": [
+    { "type": "horizontal-stripes", "role": "gold chief and green field", "color": "yellow" },
+    { "type": "diagonal-stripes", "role": "red bend of Lorraine", "color": "red" },
+    { "type": "bird", "role": "three eaglets on bend", "color": "white" },
+    { "type": "chevron", "role": "white chevron", "color": "white" },
+    { "type": "tree", "role": "three fir trees", "color": "white" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "FR-34",
+  "name": "Hérault (France)",
+  "type": ["subdivision"],
+  "parent": "FR-OCC",
+  "codes": { "iso_3166_2": "FR-34", "wikidata": "Q12545" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "white" },
+    { "color": "red" },
+    { "color": "yellow" }
+  ],
+  "description": "White field charged with a red roundel bearing a gold Occitan cross (cross of Toulouse).",
+  "history": "The gold cross of Toulouse recalls the medieval county of Toulouse to which Languedoc belonged.",
+  "sources": ["https://en.wikipedia.org/wiki/H%C3%A9rault"],
+  "features": [
+    { "type": "solid", "color": "white", "role": "field" },
+    { "type": "disc", "color": "red", "count": 1, "position": "center", "role": "red roundel" },
+    { "type": "glyph", "color": "yellow", "count": 1, "position": "center", "role": "Occitan cross of Toulouse on the roundel" }
+  ]
+}

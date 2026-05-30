@@ -1,0 +1,36 @@
+{
+  "id": "FR-01",
+  "name": "Ain (France)",
+  "type": ["subdivision"],
+  "parent": "FR-ARA",
+  "codes": {
+    "iso_3166_2": "FR-01",
+    "wikidata": "Q3083"
+  },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "blue" },
+    { "color": "white" },
+    { "color": "red" },
+    { "color": "yellow" }
+  ],
+  "description": "A banner of the composite arms of the département of Ain: quarterly under an overall silver cross, combining the emblems of its historic territories — Bresse (a silver lion on blue), Bugey (a red lion on silver), Dombes (blue strewn with gold fleurs-de-lis under a red bend) and Gex.",
+  "history": "The département of Ain was assembled from several historic territories; its arms quarter their emblems beneath an overall silver cross.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ain"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": ["blue", "white", "blue", "red"],
+      "role": "quarterly for Bresse, Bugey, Dombes and Gex"
+    },
+    {
+      "type": "greek-cross",
+      "field": "blue",
+      "cross": "white",
+      "role": "an overall silver cross dividing the quarters"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FR-65",
+  "name": "Hautes-Pyrénées (France)",
+  "type": ["subdivision"],
+  "parent": "FR-OCC",
+  "codes": { "iso_3166_2": "FR-65", "wikidata": "Q12700" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "yellow" },
+    { "color": "red" },
+    { "color": "blue" }
+  ],
+  "description": "A yellow field charged with two red lions passant (leopards), armed and langued blue, placed one above the other.",
+  "history": "The two red leopards are the historic arms of the County of Bigorre.",
+  "sources": ["https://en.wikipedia.org/wiki/Hautes-Pyr%C3%A9n%C3%A9es"],
+  "features": [
+    { "type": "solid", "role": "field", "color": "yellow" },
+    { "type": "lion", "role": "two lions passant", "color": "red" }
+  ]
+}

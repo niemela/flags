@@ -1,0 +1,20 @@
+{
+  "id": "FR-82",
+  "name": "Tarn-et-Garonne (France)",
+  "type": ["subdivision"],
+  "parent": "FR-OCC",
+  "codes": { "iso_3166_2": "FR-82", "wikidata": "Q12779" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [ { "color": "red" }, { "color": "yellow" }, { "color": "blue" }, { "color": "white" } ],
+  "description": "A red field bearing several gold charges: a lion rampant in the upper hoist, an Occitan cross in the lower hoist, a lion passant in the lower fly, and in the upper fly a quartered panel with white lions on blue and gold wheat sheaves.",
+  "history": "The composite arms gather the Occitan cross and the lions and garbs of the medieval territories that were combined to form the department in 1808.",
+  "sources": ["https://en.wikipedia.org/wiki/Tarn-et-Garonne"],
+  "features": [
+    { "type": "solid", "role": "field", "color": "red" },
+    { "type": "lion", "role": "lion rampant in upper hoist", "color": "yellow" },
+    { "type": "glyph", "role": "Occitan cross in lower hoist", "color": "yellow" },
+    { "type": "lion", "role": "lion passant in lower fly", "color": "yellow" },
+    { "type": "complex", "role": "quartered panel of lions and wheat sheaves in upper fly" }
+  ]
+}

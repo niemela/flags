@@ -1,0 +1,24 @@
+{
+  "id": "FR-23",
+  "name": "Creuse (France)",
+  "type": ["subdivision"],
+  "parent": "FR-NAQ",
+  "codes": { "iso_3166_2": "FR-23", "wikidata": "Q3353" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue" },
+    { "color": "yellow" },
+    { "color": "red" },
+    { "color": "white" }
+  ],
+  "description": "A blue field strewn with gold fleurs-de-lis, over all a red bend charged with three white lions passant.",
+  "history": "These are the arms of the County of La Marche, the historic territory corresponding to the modern Creuse.",
+  "sources": ["https://en.wikipedia.org/wiki/Creuse"],
+  "features": [
+    { "type": "solid", "color": "blue" },
+    { "type": "fleur-de-lis", "color": "yellow", "role": "blue field semé of gold fleurs-de-lis" },
+    { "type": "diagonal-stripes", "color": "red", "role": "red bend overall" },
+    { "type": "lion", "color": "white", "count": 3, "role": "three white lions passant along the bend" }
+  ]
+}

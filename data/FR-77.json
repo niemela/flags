@@ -1,0 +1,18 @@
+{
+  "id": "FR-77",
+  "name": "Seine-et-Marne (France)",
+  "type": ["subdivision"],
+  "parent": "FR-IDF",
+  "codes": { "iso_3166_2": "FR-77", "wikidata": "Q12753" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [ { "color": "blue" }, { "color": "yellow" }, { "color": "white" } ],
+  "description": "A blue field strewn with gold fleurs-de-lis, divided by two wavy white fesses.",
+  "history": "The blue field semé of fleurs-de-lis recalls the royal arms of France, with the two wavy bars standing for the rivers Seine and Marne.",
+  "sources": ["https://en.wikipedia.org/wiki/Seine-et-Marne"],
+  "features": [
+    { "type": "solid", "role": "field", "color": "blue" },
+    { "type": "fleur-de-lis", "role": "semé of fleurs-de-lis", "color": "yellow" },
+    { "type": "horizontal-stripes", "role": "two wavy fesses", "color": "white" }
+  ]
+}

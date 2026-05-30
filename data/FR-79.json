@@ -1,0 +1,18 @@
+{
+  "id": "FR-79",
+  "name": "Deux-Sèvres (France)",
+  "type": ["subdivision"],
+  "parent": "FR-NAQ",
+  "codes": { "iso_3166_2": "FR-79", "wikidata": "Q12765" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [ { "color": "red" }, { "color": "white" }, { "color": "yellow" } ],
+  "description": "A red field with two wavy white fesses, charged with five gold towers arranged two, one and two.",
+  "history": "The two wavy bars represent the two rivers Sèvre that give the department its name, with towers recalling its medieval fortified towns.",
+  "sources": ["https://en.wikipedia.org/wiki/Deux-S%C3%A8vres"],
+  "features": [
+    { "type": "solid", "role": "field", "color": "red" },
+    { "type": "horizontal-stripes", "role": "two wavy fesses", "color": "white" },
+    { "type": "building", "role": "five towers", "color": "yellow" }
+  ]
+}

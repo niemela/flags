@@ -1,0 +1,17 @@
+{
+  "id": "FR-90",
+  "name": "Territoire de Belfort (France)",
+  "type": ["subdivision"],
+  "parent": "FR-BFC",
+  "codes": { "iso_3166_2": "FR-90", "wikidata": "Q12782" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [ { "color": "blue" }, { "color": "yellow" } ],
+  "description": "A blue field with gold horizontal bars, charged in the centre with a gold tower flying a pennant from its summit.",
+  "history": "The tower recalls the fortress of Belfort and its renowned defence, on a field of gold bars on blue.",
+  "sources": ["https://en.wikipedia.org/wiki/Territoire_de_Belfort"],
+  "features": [
+    { "type": "horizontal-stripes", "role": "gold bars on blue field", "color": "yellow" },
+    { "type": "building", "role": "central tower", "color": "yellow" }
+  ]
+}

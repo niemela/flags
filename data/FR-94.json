@@ -1,0 +1,19 @@
+{
+  "id": "FR-94",
+  "name": "Val-de-Marne (France)",
+  "type": ["subdivision"],
+  "parent": "FR-IDF",
+  "codes": { "iso_3166_2": "FR-94", "wikidata": "Q12788" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [ { "color": "yellow" }, { "color": "blue" }, { "color": "white" } ],
+  "description": "A gold field bearing a large blue inverted triangle issuing from the chief, strewn with gold fleurs-de-lis and crossed by two wavy white bands meeting in a point at the base.",
+  "history": "The fleurs-de-lis recall the royal arms of France, with the wavy bands evoking the confluence of the Marne and the Seine.",
+  "sources": ["https://en.wikipedia.org/wiki/Val-de-Marne"],
+  "features": [
+    { "type": "solid", "role": "field", "color": "yellow" },
+    { "type": "triangle", "role": "blue inverted triangle from chief", "color": "blue" },
+    { "type": "fleur-de-lis", "role": "semé of fleurs-de-lis", "color": "yellow" },
+    { "type": "diagonal-stripes", "role": "two wavy bands meeting at base", "color": "white" }
+  ]
+}

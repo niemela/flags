@@ -1,0 +1,38 @@
+{
+  "id": "FR-03",
+  "name": "Allier (France)",
+  "type": ["subdivision"],
+  "parent": "FR-ARA",
+  "codes": {
+    "iso_3166_2": "FR-03",
+    "wikidata": "Q3113"
+  },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue" },
+    { "color": "yellow" },
+    { "color": "red" }
+  ],
+  "description": "A banner of the arms of the Bourbonnais (the département of Allier): a blue field strewn with gold fleurs-de-lis, overall a red bend.",
+  "history": "The arms of the Dukes of Bourbon, whose seat the Bourbonnais corresponds to the modern département of Allier.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Allier"
+  ],
+  "features": [
+    { "type": "solid", "color": "blue" },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "arrangement": "semé",
+      "role": "field strewn (semé) with gold fleurs-de-lis"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": ["red"],
+      "count": 1,
+      "direction": "bend",
+      "role": "a red bend over all"
+    }
+  ]
+}

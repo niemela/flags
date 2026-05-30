@@ -1,0 +1,17 @@
+{
+  "id": "FR-85",
+  "name": "Vendée (France)",
+  "type": ["subdivision"],
+  "parent": "FR-PDL",
+  "codes": { "iso_3166_2": "FR-85", "wikidata": "Q12798" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [ { "color": "red" }, { "color": "white" } ],
+  "description": "Per pale red and white, with a heart surmounted by a cross in the centre, counterchanged of the two colours.",
+  "history": "The heart topped by a cross is the Vendéen Sacred Heart emblem worn during the Wars of the Vendée, set on a field divided red and white.",
+  "sources": ["https://en.wikipedia.org/wiki/Vend%C3%A9e"],
+  "features": [
+    { "type": "vertical-stripes", "role": "field per pale", "color": "red" },
+    { "type": "complex", "role": "Sacred Heart with cross", "color": "white" }
+  ]
+}

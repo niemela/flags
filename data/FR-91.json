@@ -1,0 +1,19 @@
+{
+  "id": "FR-91",
+  "name": "Essonne (France)",
+  "type": ["subdivision"],
+  "parent": "FR-IDF",
+  "codes": { "iso_3166_2": "FR-91", "wikidata": "Q3368" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [ { "color": "blue" }, { "color": "yellow" }, { "color": "white" } ],
+  "description": "A blue field divided by a wavy white diagonal band; the lower hoist strewn with gold fleurs-de-lis, the upper fly bearing a gold sunburst whose rays end in small discs.",
+  "history": "The fleurs-de-lis recall the royal arms of France, with a wavy band for the river Essonne and a radiant emblem of the modern department.",
+  "sources": ["https://en.wikipedia.org/wiki/Essonne"],
+  "features": [
+    { "type": "solid", "role": "field", "color": "blue" },
+    { "type": "diagonal-stripes", "role": "wavy bend", "color": "white" },
+    { "type": "fleur-de-lis", "role": "semé of fleurs-de-lis in lower hoist", "color": "yellow" },
+    { "type": "sun", "role": "sunburst in upper fly", "color": "yellow" }
+  ]
+}

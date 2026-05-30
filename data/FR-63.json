@@ -1,0 +1,24 @@
+{
+  "id": "FR-63",
+  "name": "Puy-de-Dôme (France)",
+  "type": ["subdivision"],
+  "parent": "FR-ARA",
+  "codes": { "iso_3166_2": "FR-63", "wikidata": "Q12694" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "yellow" },
+    { "color": "red" },
+    { "color": "green" },
+    { "color": "white" }
+  ],
+  "description": "A yellow field bearing a red gonfanon (a hanging banner with three rounded pendants) edged in green; over its centre a white shield charged with a green winged dragon.",
+  "history": "The red gonfanon is the historic emblem of the province of Auvergne.",
+  "sources": ["https://en.wikipedia.org/wiki/Puy-de-D%C3%B4me"],
+  "features": [
+    { "type": "solid", "role": "field", "color": "yellow" },
+    { "type": "complex", "role": "red gonfanon edged green", "color": "red" },
+    { "type": "shield", "role": "white inescutcheon", "color": "white" },
+    { "type": "dragon", "role": "green dragon on the shield", "color": "green" }
+  ]
+}

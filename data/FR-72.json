@@ -1,0 +1,23 @@
+{
+  "id": "FR-72",
+  "name": "Sarthe (France)",
+  "type": ["subdivision"],
+  "parent": "FR-PDL",
+  "codes": { "iso_3166_2": "FR-72", "wikidata": "Q12740" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue" },
+    { "color": "yellow" },
+    { "color": "red" }
+  ],
+  "description": "A blue field strewn with yellow fleurs-de-lis within a red border, with a small red rampant lion in the upper hoist canton.",
+  "history": "The fleur-de-lis field with a red border is the historic arms of the province of Maine.",
+  "sources": ["https://en.wikipedia.org/wiki/Sarthe"],
+  "features": [
+    { "type": "solid", "role": "field strewn with fleurs-de-lis", "color": "blue" },
+    { "type": "fleur-de-lis", "role": "strewn fleurs-de-lis", "color": "yellow" },
+    { "type": "bordure", "role": "red border", "color": "red" },
+    { "type": "lion", "role": "small red lion in canton", "color": "red" }
+  ]
+}

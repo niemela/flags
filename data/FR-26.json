@@ -1,0 +1,23 @@
+{
+  "id": "FR-26",
+  "name": "Drôme (France)",
+  "type": ["subdivision"],
+  "parent": "FR-ARA",
+  "codes": { "iso_3166_2": "FR-26", "wikidata": "Q3364" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "yellow" },
+    { "color": "blue" },
+    { "color": "white" },
+    { "color": "red" }
+  ],
+  "description": "Gold field charged with a blue dolphin with red fins, over blue and white wavy bars along the base.",
+  "history": "The blue dolphin recalls the Dauphiné, the historic province to which the area belonged.",
+  "sources": ["https://en.wikipedia.org/wiki/Dr%C3%B4me"],
+  "features": [
+    { "type": "solid", "color": "yellow", "role": "field" },
+    { "type": "animal-other", "color": "blue", "count": 1, "position": "center", "role": "dolphin of the Dauphine" },
+    { "type": "wave", "color": "blue", "role": "wavy bars at base for the river Drome" }
+  ]
+}

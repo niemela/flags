@@ -1,0 +1,24 @@
+{
+  "id": "FR-19",
+  "name": "Corrèze (France)",
+  "type": ["subdivision"],
+  "parent": "FR-NAQ",
+  "codes": { "iso_3166_2": "FR-19", "wikidata": "Q3326" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "yellow" },
+    { "color": "red" },
+    { "color": "blue" },
+    { "color": "white" }
+  ],
+  "description": "Quartered: first, gold with two red lions passant; second, chequy of red and white; third, gold with red diagonal stripes (bendy); fourth, gold with three blue lions rampant.",
+  "history": "The quarters combine the arms of the historic lordships of the Limousin and Bas-Limousin that make up the modern département.",
+  "sources": ["https://en.wikipedia.org/wiki/Corr%C3%A8ze"],
+  "features": [
+    { "type": "quartered", "role": "four quarters combining local lordship arms", "color": "yellow" },
+    { "type": "lion", "color": "red", "count": 2, "position": "canton", "role": "two red lions passant in the first quarter" },
+    { "type": "chequy", "stripes": ["red", "white"], "role": "chequy red and white in the second quarter" },
+    { "type": "lion", "color": "blue", "count": 3, "role": "three blue lions rampant in the fourth quarter" }
+  ]
+}

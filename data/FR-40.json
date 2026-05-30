@@ -1,0 +1,22 @@
+{
+  "id": "FR-40",
+  "name": "Landes (France)",
+  "type": ["subdivision"],
+  "parent": "FR-NAQ",
+  "codes": { "iso_3166_2": "FR-40", "wikidata": "Q12563" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "blue" },
+    { "color": "yellow" },
+    { "color": "red" }
+  ],
+  "description": "Quartered: first and fourth blue with three gold fleurs-de-lis, second and third red with a gold lion passant.",
+  "history": "The arms combine the fleurs-de-lis of France with the gold leopard of the duchy of Guyenne, the historic lordships of the area.",
+  "sources": ["https://en.wikipedia.org/wiki/Landes_(department)"],
+  "features": [
+    { "type": "quartered", "role": "quartered field" },
+    { "type": "fleur-de-lis", "color": "yellow", "count": 6, "role": "three fleurs-de-lis in each blue quarter" },
+    { "type": "lion", "color": "yellow", "count": 2, "role": "gold lion passant in each red quarter" }
+  ]
+}

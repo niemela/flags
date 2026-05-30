@@ -1,0 +1,23 @@
+{
+  "id": "FR-39",
+  "name": "Jura (France)",
+  "type": ["subdivision"],
+  "parent": "FR-BFC",
+  "codes": { "iso_3166_2": "FR-39", "wikidata": "Q3120" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue" },
+    { "color": "yellow" },
+    { "color": "red" },
+    { "color": "white" }
+  ],
+  "description": "Blue field strewn with gold billets and charged with a gold lion rampant crowned with red claws and tongue, over a red base with a white indented (saw-tooth) upper edge.",
+  "history": "The crowned gold lion and billets are the arms of Franche-Comté, and the saw-tooth base alludes to the Jura mountains.",
+  "sources": ["https://en.wikipedia.org/wiki/Jura_(department)"],
+  "features": [
+    { "type": "solid", "color": "blue", "role": "field" },
+    { "type": "lion", "color": "yellow", "count": 1, "position": "center", "role": "crowned lion of Franche-Comte over scattered billets" },
+    { "type": "complex", "color": "red", "role": "red base with white saw-tooth edge for the Jura mountains" }
+  ]
+}

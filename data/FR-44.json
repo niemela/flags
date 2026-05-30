@@ -1,0 +1,22 @@
+{
+  "id": "FR-44",
+  "name": "Loire-Atlantique (France)",
+  "type": ["subdivision"],
+  "parent": "FR-PDL",
+  "codes": { "iso_3166_2": "FR-44", "wikidata": "Q3068" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "white" },
+    { "color": "black" },
+    { "color": "blue" }
+  ],
+  "description": "Ermine field (white strewn with black ermine spots) charged with a blue wavy fess.",
+  "history": "The ermine recalls Brittany, of which Nantes was the historic capital, and the wavy bar represents the Loire.",
+  "sources": ["https://en.wikipedia.org/wiki/Loire-Atlantique"],
+  "features": [
+    { "type": "solid", "color": "white", "role": "ermine field" },
+    { "type": "glyph", "color": "black", "role": "ermine spots strewn across the field" },
+    { "type": "wave", "color": "blue", "count": 1, "position": "center", "role": "wavy fess for the river Loire" }
+  ]
+}

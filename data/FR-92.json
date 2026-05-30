@@ -1,0 +1,19 @@
+{
+  "id": "FR-92",
+  "name": "Hauts-de-Seine (France)",
+  "type": ["subdivision"],
+  "parent": "FR-IDF",
+  "codes": { "iso_3166_2": "FR-92", "wikidata": "Q12543" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [ { "color": "blue" }, { "color": "red" }, { "color": "white" }, { "color": "yellow" } ],
+  "description": "Beneath a blue chief crossed by a wavy white fess, the field is divided per pale: the hoist blue with a gold fleur-de-lis, the fly red with a white sailing ship.",
+  "history": "The arms join the fleur-de-lis of France with the silver ship of Paris, the wavy bar standing for the river Seine that names the department.",
+  "sources": ["https://en.wikipedia.org/wiki/Hauts-de-Seine"],
+  "features": [
+    { "type": "vertical-stripes", "role": "field per pale blue and red", "color": "blue" },
+    { "type": "horizontal-stripes", "role": "wavy fess in chief", "color": "white" },
+    { "type": "fleur-de-lis", "role": "fleur-de-lis in hoist", "color": "yellow" },
+    { "type": "complex", "role": "sailing ship in fly", "color": "white" }
+  ]
+}

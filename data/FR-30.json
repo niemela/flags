@@ -1,0 +1,22 @@
+{
+  "id": "FR-30",
+  "name": "Gard (France)",
+  "type": ["subdivision"],
+  "parent": "FR-OCC",
+  "codes": { "iso_3166_2": "FR-30", "wikidata": "Q12515" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "red" },
+    { "color": "yellow" },
+    { "color": "white" }
+  ],
+  "description": "Red field charged with a gold Occitan cross (cross of Toulouse), beneath a white chief with a scalloped lower edge.",
+  "history": "The gold cross of Toulouse on red is the historic emblem of the counts of Toulouse and of Occitania.",
+  "sources": ["https://en.wikipedia.org/wiki/Gard_(department)"],
+  "features": [
+    { "type": "solid", "color": "red", "role": "field" },
+    { "type": "glyph", "color": "yellow", "count": 1, "position": "center", "role": "Occitan cross of Toulouse" },
+    { "type": "complex", "color": "white", "role": "white chief with scalloped edge" }
+  ]
+}

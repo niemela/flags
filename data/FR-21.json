@@ -1,0 +1,23 @@
+{
+  "id": "FR-21",
+  "name": "Côte-d'Or (France)",
+  "type": ["subdivision"],
+  "parent": "FR-BFC",
+  "codes": { "iso_3166_2": "FR-21", "wikidata": "Q3342" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "yellow" },
+    { "color": "blue" },
+    { "color": "red" },
+    { "color": "white" }
+  ],
+  "description": "A gold lower field beneath two shields in the upper part: at the hoist a blue shield semé of gold fleurs-de-lis within a red-and-white checkered border, and at the fly a shield bendy of blue and gold within a red border.",
+  "history": "The two shields are the arms of modern and ancient Burgundy, the duchy of which the Côte-d'Or was the heartland.",
+  "sources": ["https://en.wikipedia.org/wiki/C%C3%B4te-d%27Or"],
+  "features": [
+    { "type": "solid", "color": "yellow" },
+    { "type": "shield", "color": "blue", "position": "hoist", "role": "blue shield semé of gold fleurs-de-lis within a checkered red-and-white border (modern Burgundy)" },
+    { "type": "shield", "stripes": ["blue", "yellow"], "position": "fly", "role": "shield bendy of blue and gold within a red border (ancient Burgundy)" }
+  ]
+}

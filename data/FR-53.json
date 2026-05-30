@@ -1,0 +1,23 @@
+{
+  "id": "FR-53",
+  "name": "Mayenne (France)",
+  "type": ["subdivision"],
+  "parent": "FR-PDL",
+  "codes": { "iso_3166_2": "FR-53", "wikidata": "Q12620" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue" },
+    { "color": "white" },
+    { "color": "yellow" },
+    { "color": "red" },
+    { "color": "black" }
+  ],
+  "description": "A blue field within a red border, divided down the centre by a wavy white pale strewn with black ermine spots; over all a yellow lion at the hoist and two yellow fleurs-de-lis flanking the lower part of the pale.",
+  "history": "The flag blends emblems of Maine, Anjou and Brittany (the ermine), provinces over which the department spreads.",
+  "sources": ["https://en.wikipedia.org/wiki/Mayenne"],
+  "features": [
+    { "type": "complex", "role": "blue field with wavy ermine pale, lion and fleurs-de-lis", "color": "blue" },
+    { "type": "bordure", "role": "red border", "color": "red" }
+  ]
+}

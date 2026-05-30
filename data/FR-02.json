@@ -1,0 +1,29 @@
+{
+  "id": "FR-02",
+  "name": "Aisne (France)",
+  "type": ["subdivision"],
+  "parent": "FR-HDF",
+  "codes": {
+    "iso_3166_2": "FR-02",
+    "wikidata": "Q3093"
+  },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "white" },
+    { "color": "blue" },
+    { "color": "yellow" }
+  ],
+  "description": "The composite arms of the département of Aisne on a white field: a bendy gold-and-blue device at the chief, a wavy blue band, and an ornamented gold band — drawn from the historic provinces (Île-de-France, Champagne, Picardy) that meet in the department.",
+  "history": "The département of Aisne was assembled from parts of several historic provinces, whose emblems are combined in its arms.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aisne"
+  ],
+  "features": [
+    { "type": "solid", "color": "white" },
+    {
+      "type": "complex",
+      "role": "composite charges (bendy gold-and-blue, a wavy blue band, an ornamented gold band) for the historic provinces of the Aisne"
+    }
+  ]
+}

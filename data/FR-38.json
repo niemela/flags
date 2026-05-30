@@ -1,0 +1,20 @@
+{
+  "id": "FR-38",
+  "name": "Isère (France)",
+  "type": ["subdivision"],
+  "parent": "FR-ARA",
+  "codes": { "iso_3166_2": "FR-38", "wikidata": "Q12559" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "yellow" },
+    { "color": "blue" }
+  ],
+  "description": "Per pale, gold at the hoist and blue at the fly; on the gold half a blue crowned dolphin within a narrow frame.",
+  "history": "The crowned dolphin is the emblem of the Dauphiné, the historic province centred on Grenoble in this department.",
+  "sources": ["https://en.wikipedia.org/wiki/Is%C3%A8re"],
+  "features": [
+    { "type": "vertical-stripes", "color": "yellow", "count": 2, "role": "per pale gold and blue field" },
+    { "type": "animal-other", "color": "blue", "count": 1, "position": "hoist", "role": "crowned dolphin of the Dauphine" }
+  ]
+}

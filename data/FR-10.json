@@ -1,0 +1,22 @@
+{
+  "id": "FR-10",
+  "name": "Aube (France)",
+  "type": ["subdivision"],
+  "parent": "FR-GES",
+  "codes": { "iso_3166_2": "FR-10", "wikidata": "Q3194" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue" },
+    { "color": "yellow" },
+    { "color": "white" }
+  ],
+  "description": "A blue field, the upper part yellow with a wavy lower edge, crossed by a white diagonal band edged on both sides with a yellow Greek-key (meander) pattern.",
+  "history": "The flag evokes the Aube and Seine rivers crossing the historic county of Champagne, whose Greek-key motif recalls the region.",
+  "sources": ["https://en.wikipedia.org/wiki/Aube"],
+  "features": [
+    { "type": "solid", "color": "blue" },
+    { "type": "wave", "color": "yellow", "position": "top", "role": "yellow upper field with a wavy lower edge" },
+    { "type": "diagonal-stripes", "color": "white", "role": "white bend edged with yellow Greek-key meander pattern" }
+  ]
+}

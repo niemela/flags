@@ -1,0 +1,21 @@
+{
+  "id": "FR-55",
+  "name": "Meuse (France)",
+  "type": ["subdivision"],
+  "parent": "FR-GES",
+  "codes": { "iso_3166_2": "FR-55", "wikidata": "Q12631" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue" },
+    { "color": "yellow" }
+  ],
+  "description": "A blue field strewn with yellow crosses crosslet fitchy (crosses ending in points below), charged with two addorsed yellow fish (barbels).",
+  "history": "The two barbels strewn with crosslets are the historic arms of the Duchy of Bar.",
+  "sources": ["https://en.wikipedia.org/wiki/Meuse_(department)"],
+  "features": [
+    { "type": "solid", "role": "field strewn with crosslets", "color": "blue" },
+    { "type": "animal-other", "role": "two addorsed barbels", "color": "yellow" },
+    { "type": "glyph", "role": "strewn crosses crosslet", "color": "yellow" }
+  ]
+}

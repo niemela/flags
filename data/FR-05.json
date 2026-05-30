@@ -1,0 +1,44 @@
+{
+  "id": "FR-05",
+  "name": "Hautes-Alpes (France)",
+  "type": ["subdivision"],
+  "parent": "FR-PAC",
+  "codes": {
+    "iso_3166_2": "FR-05",
+    "wikidata": "Q3125"
+  },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "red" },
+    { "color": "white" },
+    { "color": "blue" },
+    { "color": "yellow" }
+  ],
+  "description": "Per pale: at the hoist, red with a gold Occitan cross; at the fly, silver with a red dolphin (for the Dauphiné); over all a blue chief strewn with gold fleurs-de-lis — the arms of the département of Hautes-Alpes.",
+  "history": "Combines the Occitan cross of the south with the dolphin of the Dauphiné, beneath a fleur-de-lis chief for France.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hautes-Alpes"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": ["red", "white"],
+      "count": 2,
+      "role": "per pale — red (Occitan cross) at the hoist, silver (dolphin) at the fly"
+    },
+    {
+      "type": "animal-other",
+      "color": "red",
+      "position": "fly",
+      "role": "a red dolphin, for the Dauphiné"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "arrangement": "semé",
+      "position": "chief",
+      "role": "a blue chief strewn with gold fleurs-de-lis"
+    }
+  ]
+}

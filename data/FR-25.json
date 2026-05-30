@@ -1,0 +1,22 @@
+{
+  "id": "FR-25",
+  "name": "Doubs (France)",
+  "type": ["subdivision"],
+  "parent": "FR-BFC",
+  "codes": { "iso_3166_2": "FR-25", "wikidata": "Q3361" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue" },
+    { "color": "yellow" },
+    { "color": "red" }
+  ],
+  "description": "Blue field strewn with gold billets, charged with a gold lion rampant crowned with red claws and tongue, over two gold wavy bars along the base.",
+  "history": "The arms combine the crowned gold lion of the former county of Franche-Comté with wavy bars representing the river Doubs.",
+  "sources": ["https://en.wikipedia.org/wiki/Doubs"],
+  "features": [
+    { "type": "solid", "color": "blue", "role": "field" },
+    { "type": "lion", "color": "yellow", "count": 1, "position": "center", "role": "crowned lion rampant of Franche-Comte" },
+    { "type": "wave", "color": "yellow", "role": "wavy bars at base for the river Doubs" }
+  ]
+}

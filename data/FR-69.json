@@ -1,0 +1,25 @@
+{
+  "id": "FR-69",
+  "name": "Rhône (France)",
+  "type": ["subdivision"],
+  "parent": "FR-ARA",
+  "codes": { "iso_3166_2": "FR-69", "wikidata": "Q46130" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "red" },
+    { "color": "yellow" },
+    { "color": "blue" },
+    { "color": "white" },
+    { "color": "black" }
+  ],
+  "description": "Per pale: at the hoist a red field with a white rampant lion beneath a blue chief bearing three yellow fleurs-de-lis (arms of Lyon); at the fly a yellow field with a black rampant lion, armed and langued red, charged with a red label (arms of Beaujolais).",
+  "history": "The flag impales the arms of the city of Lyon with those of the Beaujolais.",
+  "sources": ["https://en.wikipedia.org/wiki/Rh%C3%B4ne_(department)"],
+  "features": [
+    { "type": "vertical-stripes", "role": "field divided per pale", "color": "red" },
+    { "type": "lion", "role": "white lion of Lyon at hoist", "color": "white" },
+    { "type": "fleur-de-lis", "role": "three fleurs-de-lis in the chief", "color": "yellow" },
+    { "type": "lion", "role": "black lion of Beaujolais at fly", "color": "black" }
+  ]
+}

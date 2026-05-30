@@ -1,0 +1,21 @@
+{
+  "id": "FR-95",
+  "name": "Val-d'Oise (France)",
+  "type": ["subdivision"],
+  "parent": "FR-IDF",
+  "codes": { "iso_3166_2": "FR-95", "wikidata": "Q12784" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [ { "color": "red" }, { "color": "blue" }, { "color": "yellow" }, { "color": "white" } ],
+  "description": "A red panel within a blue border strewn with gold fleurs-de-lis; the panel crossed by a wavy white diagonal band, with a gold eagle in the upper hoist and a gold cross in the lower fly.",
+  "history": "The fleur-de-lis border recalls the royal domain, with a wavy band for the river Oise and emblems of the local lordships.",
+  "sources": ["https://en.wikipedia.org/wiki/Val-d%27Oise"],
+  "features": [
+    { "type": "solid", "role": "red panel", "color": "red" },
+    { "type": "bordure", "role": "blue border with fleurs-de-lis", "color": "blue" },
+    { "type": "fleur-de-lis", "role": "fleurs-de-lis on border", "color": "yellow" },
+    { "type": "diagonal-stripes", "role": "wavy bend", "color": "white" },
+    { "type": "eagle", "role": "eagle in upper hoist", "color": "yellow" },
+    { "type": "greek-cross", "role": "cross in lower fly", "color": "yellow" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "FR-35",
+  "name": "Ille-et-Vilaine (France)",
+  "type": ["subdivision"],
+  "parent": "FR-BRE",
+  "codes": { "iso_3166_2": "FR-35", "wikidata": "Q12549" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "white" },
+    { "color": "black" },
+    { "color": "blue" }
+  ],
+  "description": "Ermine field (white strewn with black ermine spots) charged with two blue wavy pales.",
+  "history": "The ermine recalls Brittany while the two wavy bands represent the rivers Ille and Vilaine that name the department.",
+  "sources": ["https://en.wikipedia.org/wiki/Ille-et-Vilaine"],
+  "features": [
+    { "type": "solid", "color": "white", "role": "ermine field" },
+    { "type": "glyph", "color": "black", "role": "ermine spots strewn across the field" },
+    { "type": "wave", "color": "blue", "count": 2, "role": "two wavy pales for the rivers Ille and Vilaine" }
+  ]
+}

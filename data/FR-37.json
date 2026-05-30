@@ -1,0 +1,23 @@
+{
+  "id": "FR-37",
+  "name": "Indre-et-Loire (France)",
+  "type": ["subdivision"],
+  "parent": "FR-CVL",
+  "codes": { "iso_3166_2": "FR-37", "wikidata": "Q12556" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue" },
+    { "color": "yellow" },
+    { "color": "red" },
+    { "color": "white" }
+  ],
+  "description": "Blue field strewn with gold fleurs-de-lis, within a red-and-white chequy border.",
+  "history": "These are the arms of the historic province of Touraine, France ancient within a gobony border.",
+  "sources": ["https://en.wikipedia.org/wiki/Indre-et-Loire"],
+  "features": [
+    { "type": "solid", "color": "blue", "role": "field" },
+    { "type": "fleur-de-lis", "color": "yellow", "role": "fleurs-de-lis strewn across the field" },
+    { "type": "bordure", "color": "red", "role": "chequy red and white border" }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FR-50",
+  "name": "Manche (France)",
+  "type": ["subdivision"],
+  "parent": "FR-NOR",
+  "codes": { "iso_3166_2": "FR-50", "wikidata": "Q12589" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "red" },
+    { "color": "blue" },
+    { "color": "yellow" }
+  ],
+  "description": "Per pale blue and red, charged with two yellow lions passant (leopards) placed one above the other.",
+  "history": "The two leopards derive from the historic arms of Normandy.",
+  "sources": ["https://en.wikipedia.org/wiki/Manche_(department)"],
+  "features": [
+    { "type": "vertical-stripes", "role": "field divided per pale", "color": "blue" },
+    { "type": "lion", "role": "two lions passant", "color": "yellow" }
+  ]
+}

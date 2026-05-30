@@ -1,0 +1,21 @@
+{
+  "id": "FR-24",
+  "name": "Dordogne (France)",
+  "type": ["subdivision"],
+  "parent": "FR-NAQ",
+  "codes": { "iso_3166_2": "FR-24", "wikidata": "Q3357" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "red" },
+    { "color": "yellow" },
+    { "color": "blue" }
+  ],
+  "description": "A red field with three gold lions rampant, each crowned blue, arranged two and one.",
+  "history": "The three crowned gold lions are the historic arms of the County of Périgord, which corresponds to the modern Dordogne.",
+  "sources": ["https://en.wikipedia.org/wiki/Dordogne"],
+  "features": [
+    { "type": "solid", "color": "red" },
+    { "type": "lion", "color": "yellow", "count": 3, "role": "three gold lions rampant, each crowned blue, two and one" }
+  ]
+}

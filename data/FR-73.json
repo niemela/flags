@@ -1,0 +1,17 @@
+{
+  "id": "FR-73",
+  "name": "Savoie (France)",
+  "type": ["subdivision"],
+  "parent": "FR-ARA",
+  "codes": { "iso_3166_2": "FR-73", "wikidata": "Q12745" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "3:5",
+  "colors": [ { "color": "red" }, { "color": "white" } ],
+  "description": "A red field charged with a white couped cross, the arms of the House of Savoy.",
+  "history": "The white cross on red is the historic arms of the House of Savoy, which ruled the region for centuries.",
+  "sources": ["https://en.wikipedia.org/wiki/Savoie_(department)"],
+  "features": [
+    { "type": "solid", "role": "field", "color": "red" },
+    { "type": "greek-cross", "role": "cross of Savoy", "color": "white" }
+  ]
+}

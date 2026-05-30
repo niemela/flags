@@ -1,0 +1,23 @@
+{
+  "id": "FR-62",
+  "name": "Pas-de-Calais (France)",
+  "type": ["subdivision"],
+  "parent": "FR-HDF",
+  "codes": { "iso_3166_2": "FR-62", "wikidata": "Q12689" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue" },
+    { "color": "yellow" },
+    { "color": "red" }
+  ],
+  "description": "A blue field strewn with yellow fleurs-de-lis, surmounted by a red label of three pendants each charged with yellow castles; the whole within a yellow border set with red roundels.",
+  "history": "This is the historic coat of arms of the County of Artois, France ancien differenced by a label of Castile.",
+  "sources": ["https://en.wikipedia.org/wiki/Pas-de-Calais"],
+  "features": [
+    { "type": "solid", "role": "field strewn with fleurs-de-lis", "color": "blue" },
+    { "type": "fleur-de-lis", "role": "strewn fleurs-de-lis", "color": "yellow" },
+    { "type": "glyph", "role": "red label of three points bearing castles", "color": "red" },
+    { "type": "bordure", "role": "yellow border with red roundels", "color": "yellow" }
+  ]
+}

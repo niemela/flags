@@ -1,0 +1,21 @@
+{
+  "id": "FR-68",
+  "name": "Haut-Rhin (France)",
+  "type": ["subdivision"],
+  "parent": "FR-GES",
+  "codes": { "iso_3166_2": "FR-68", "wikidata": "Q12722" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "red" },
+    { "color": "yellow" }
+  ],
+  "description": "A red field crossed diagonally by a yellow band (bend), accompanied by six yellow crowns, three above and three below the band.",
+  "history": "This is the historic arms of Upper Alsace (the Landgraviate of Sundgau).",
+  "sources": ["https://en.wikipedia.org/wiki/Haut-Rhin"],
+  "features": [
+    { "type": "solid", "role": "field", "color": "red" },
+    { "type": "diagonal-stripes", "role": "yellow bend", "color": "yellow" },
+    { "type": "crown", "role": "six crowns flanking the bend", "color": "yellow" }
+  ]
+}

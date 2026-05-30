@@ -1,0 +1,24 @@
+{
+  "id": "FR-18",
+  "name": "Cher (France)",
+  "type": ["subdivision"],
+  "parent": "FR-CVL",
+  "codes": { "iso_3166_2": "FR-18", "wikidata": "Q3286" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue" },
+    { "color": "yellow" },
+    { "color": "white" },
+    { "color": "red" }
+  ],
+  "description": "A blue field strewn with gold fleurs-de-lis, debruised by a white wavy fess, the whole within a red border.",
+  "history": "The blue field semé of fleurs-de-lis is the arms of the old province of Berry, the wavy bar evoking the river Cher.",
+  "sources": ["https://en.wikipedia.org/wiki/Cher_(department)"],
+  "features": [
+    { "type": "solid", "color": "blue" },
+    { "type": "fleur-de-lis", "color": "yellow", "role": "blue field semé of gold fleurs-de-lis" },
+    { "type": "wave", "color": "white", "position": "center", "role": "white wavy fess across the field" },
+    { "type": "bordure", "color": "red", "role": "red border" }
+  ]
+}

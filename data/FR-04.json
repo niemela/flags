@@ -1,0 +1,45 @@
+{
+  "id": "FR-04",
+  "name": "Alpes-de-Haute-Provence (France)",
+  "type": ["subdivision"],
+  "parent": "FR-PAC",
+  "codes": {
+    "iso_3166_2": "FR-04",
+    "wikidata": "Q3131"
+  },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue" },
+    { "color": "yellow" },
+    { "color": "white" },
+    { "color": "red" }
+  ],
+  "description": "A blue field with silver mountains at the base and a gold fleur-de-lis at the centre, beneath a red device across the top — the arms of the département of Alpes-de-Haute-Provence.",
+  "history": "The arms combine the fleur-de-lis of France with silver mountains for the Alpine terrain of the department.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alpes-de-Haute-Provence"
+  ],
+  "features": [
+    { "type": "solid", "color": "blue" },
+    {
+      "type": "mountain",
+      "color": "white",
+      "position": "base",
+      "role": "silver mountains along the base"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "count": 1,
+      "position": "center",
+      "role": "gold fleur-de-lis"
+    },
+    {
+      "type": "complex",
+      "color": "red",
+      "position": "chief",
+      "role": "a red device across the top"
+    }
+  ]
+}

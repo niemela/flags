@@ -1,0 +1,20 @@
+{
+  "id": "FR-93",
+  "name": "Seine-Saint-Denis (France)",
+  "type": ["subdivision"],
+  "parent": "FR-IDF",
+  "codes": { "iso_3166_2": "FR-93", "wikidata": "Q12761" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [ { "color": "blue" }, { "color": "red" }, { "color": "yellow" }, { "color": "white" } ],
+  "description": "Per fess: above, blue strewn with gold fleurs-de-lis; below, red charged with a white cogwheel, three gold wheat ears and a white chevron at the base.",
+  "history": "The fleurs-de-lis recall the royal abbey of Saint-Denis, while the cogwheel and wheat ears stand for the department's industry and agriculture.",
+  "sources": ["https://en.wikipedia.org/wiki/Seine-Saint-Denis"],
+  "features": [
+    { "type": "horizontal-stripes", "role": "field per fess blue and red", "color": "blue" },
+    { "type": "fleur-de-lis", "role": "semé of fleurs-de-lis above", "color": "yellow" },
+    { "type": "circle", "role": "cogwheel", "color": "white" },
+    { "type": "wheat", "role": "three wheat ears", "color": "yellow" },
+    { "type": "chevron", "role": "chevron at base", "color": "white" }
+  ]
+}

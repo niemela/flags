@@ -1,0 +1,20 @@
+{
+  "id": "FR-32",
+  "name": "Gers (France)",
+  "type": ["subdivision"],
+  "parent": "FR-OCC",
+  "codes": { "iso_3166_2": "FR-32", "wikidata": "Q12517" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "white" },
+    { "color": "red" }
+  ],
+  "description": "White field charged with a red lion rampant.",
+  "history": "The red lion on white derives from the arms of the historic county of Armagnac, which covered much of the area.",
+  "sources": ["https://en.wikipedia.org/wiki/Gers"],
+  "features": [
+    { "type": "solid", "color": "white", "role": "field" },
+    { "type": "lion", "color": "red", "count": 1, "position": "center", "role": "lion rampant of Armagnac" }
+  ]
+}

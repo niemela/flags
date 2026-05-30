@@ -1,0 +1,23 @@
+{
+  "id": "FR-49",
+  "name": "Maine-et-Loire (France)",
+  "type": ["subdivision"],
+  "parent": "FR-PDL",
+  "codes": { "iso_3166_2": "FR-49", "wikidata": "Q12584" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue" },
+    { "color": "red" },
+    { "color": "yellow" }
+  ],
+  "description": "Per pale: at the hoist a blue square bearing two yellow fleurs-de-lis within a red border (arms of Anjou); at the fly a blue field charged with a red Cross of Lorraine (double cross) fimbriated yellow.",
+  "history": "The flag combines the Angevin arms (Anjou) with the Cross of Lorraine, emblems associated with the historic province of Anjou.",
+  "sources": ["https://en.wikipedia.org/wiki/Maine-et-Loire"],
+  "features": [
+    { "type": "vertical-stripes", "role": "field divided per pale", "color": "blue" },
+    { "type": "fleur-de-lis", "role": "two fleurs-de-lis at hoist", "color": "yellow" },
+    { "type": "bordure", "role": "red border around hoist panel", "color": "red" },
+    { "type": "latin-cross", "role": "Cross of Lorraine at fly", "color": "red" }
+  ]
+}

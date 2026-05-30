@@ -1,0 +1,37 @@
+{
+  "id": "FR-09",
+  "name": "Ariège (France)",
+  "type": ["subdivision"],
+  "parent": "FR-OCC",
+  "codes": {
+    "iso_3166_2": "FR-09",
+    "wikidata": "Q3184"
+  },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "yellow" },
+    { "color": "red" },
+    { "color": "blue" },
+    { "color": "white" }
+  ],
+  "description": "Paly of gold and red (the arms of the counts of Foix), charged at the centre with a blue shield bearing a silver bell — the arms of the département of Ariège.",
+  "history": "Combines the gold-and-red pales of the counts of Foix with a bell for the Couserans, the two historic territories of the département of Ariège.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ari%C3%A8ge"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": ["yellow", "red"],
+      "count": 6,
+      "role": "paly of gold and red — the arms of the counts of Foix"
+    },
+    {
+      "type": "shield",
+      "color": "blue",
+      "position": "center",
+      "role": "a blue shield bearing a silver bell (for the Couserans)"
+    }
+  ]
+}

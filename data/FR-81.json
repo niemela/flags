@@ -1,0 +1,18 @@
+{
+  "id": "FR-81",
+  "name": "Tarn (France)",
+  "type": ["subdivision"],
+  "parent": "FR-OCC",
+  "codes": { "iso_3166_2": "FR-81", "wikidata": "Q12772" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [ { "color": "red" }, { "color": "yellow" } ],
+  "description": "A red field with a gold Occitan cross in the upper hoist, and two gold panels in the lower corners that leave a red cross-shaped band between and above them.",
+  "history": "The gold Occitan cross of Toulouse on red marks the department's place in the historic county of Toulouse and the Occitan cultural region.",
+  "sources": ["https://en.wikipedia.org/wiki/Tarn_(department)"],
+  "features": [
+    { "type": "solid", "role": "field", "color": "red" },
+    { "type": "glyph", "role": "Occitan cross", "color": "yellow" },
+    { "type": "complex", "role": "two gold panels in lower corners", "color": "yellow" }
+  ]
+}

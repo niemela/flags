@@ -1,0 +1,22 @@
+{
+  "id": "FR-52",
+  "name": "Haute-Marne (France)",
+  "type": ["subdivision"],
+  "parent": "FR-GES",
+  "codes": { "iso_3166_2": "FR-52", "wikidata": "Q12607" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "blue" },
+    { "color": "white" },
+    { "color": "yellow" }
+  ],
+  "description": "A blue field with a broad white vertical stripe down the centre, flanked on each side by a yellow Greek-key (fret) pattern.",
+  "history": "The fretty pattern recalls the arms of the County of Champagne.",
+  "sources": ["https://en.wikipedia.org/wiki/Haute-Marne"],
+  "features": [
+    { "type": "solid", "role": "field", "color": "blue" },
+    { "type": "vertical-stripes", "role": "central white band", "color": "white" },
+    { "type": "glyph", "role": "yellow Greek-key fretwork bands", "color": "yellow" }
+  ]
+}

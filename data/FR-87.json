@@ -1,0 +1,19 @@
+{
+  "id": "FR-87",
+  "name": "Haute-Vienne (France)",
+  "type": ["subdivision"],
+  "parent": "FR-NAQ",
+  "codes": { "iso_3166_2": "FR-87", "wikidata": "Q12808" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [ { "color": "white" }, { "color": "black" }, { "color": "blue" }, { "color": "red" } ],
+  "description": "A white field strewn with black ermine spots, crossed by a wavy blue fess, the whole within a red border.",
+  "history": "The ermine and red border derive from the arms of the Marche and Limousin, with a wavy blue bar for the river Vienne.",
+  "sources": ["https://en.wikipedia.org/wiki/Haute-Vienne"],
+  "features": [
+    { "type": "solid", "role": "field", "color": "white" },
+    { "type": "glyph", "role": "ermine spots", "color": "black" },
+    { "type": "horizontal-stripes", "role": "wavy fess", "color": "blue" },
+    { "type": "bordure", "role": "border", "color": "red" }
+  ]
+}

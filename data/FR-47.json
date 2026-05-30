@@ -1,0 +1,23 @@
+{
+  "id": "FR-47",
+  "name": "Lot-et-Garonne (France)",
+  "type": ["subdivision"],
+  "parent": "FR-NAQ",
+  "codes": { "iso_3166_2": "FR-47", "wikidata": "Q12578" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "red" },
+    { "color": "yellow" },
+    { "color": "white" },
+    { "color": "blue" }
+  ],
+  "description": "Red field charged with a gold lion passant with blue claws and tongue, between two white wavy fesses at top and bottom.",
+  "history": "The gold leopard recalls the duchy of Guyenne and the two wavy bars the rivers Lot and Garonne.",
+  "sources": ["https://en.wikipedia.org/wiki/Lot-et-Garonne"],
+  "features": [
+    { "type": "solid", "color": "red", "role": "field" },
+    { "type": "lion", "color": "yellow", "count": 1, "position": "center", "role": "lion passant of Guyenne" },
+    { "type": "wave", "color": "white", "count": 2, "role": "two wavy fesses for the rivers Lot and Garonne" }
+  ]
+}

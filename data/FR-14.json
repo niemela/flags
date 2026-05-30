@@ -1,0 +1,22 @@
+{
+  "id": "FR-14",
+  "name": "Calvados (France)",
+  "type": ["subdivision"],
+  "parent": "FR-NOR",
+  "codes": { "iso_3166_2": "FR-14", "wikidata": "Q3249" },
+  "region": ["Europe", "Western Europe", "European Union"],
+  "aspect_ratio": "2:3",
+  "colors": [
+    { "color": "red" },
+    { "color": "blue" },
+    { "color": "yellow" }
+  ],
+  "description": "Per fess wavy, blue over red, with two gold lions passant guardant placed one above the other in the lower red portion.",
+  "history": "The two gold lions on red are the historic arms of Normandy, here divided from blue by a wavy line.",
+  "sources": ["https://en.wikipedia.org/wiki/Calvados_(department)"],
+  "features": [
+    { "type": "horizontal-stripes", "stripes": ["blue", "red"], "role": "per fess wavy, blue over red" },
+    { "type": "wave", "color": "blue", "role": "wavy dividing line" },
+    { "type": "lion", "color": "yellow", "count": 2, "position": "center", "role": "two gold lions passant guardant in the red field" }
+  ]
+}
