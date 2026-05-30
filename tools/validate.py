@@ -299,12 +299,18 @@ def validate_file(path: Path, all_ids: set[str], rep: Report) -> None:
         if ref not in all_ids:
             rep.warn(fid, f"`embedded_flag_id` references unknown id: {ref!r}")
 
-    # codes vs filename (warning — dual-coded entities legitimately differ).
+    # codes vs filename (warning — but the dual-coding pattern legitimately differs).
     codes = flag.get("codes") or {}
     base = stem.split("_", 1)[0]
     iso2 = codes.get("iso_3166_2")
     if iso2 and iso2 != base:
-        rep.warn(fid, f"`codes.iso_3166_2` ({iso2}) differs from filename base ({base}) — ok only if dual-coded")
+        # Dual-coding: a territory filed under its own ISO 3166-1 alpha-2 id (e.g. PR, AX,
+        # AS) legitimately cross-references its ISO 3166-2 subdivision code (US-PR, FI-01,
+        # US-AS). Don't warn when the filename base is a 2-letter country code and iso_3166_2
+        # is a subdivision code — that's the documented convention, not a mismatch.
+        dual_coded = re.fullmatch(r"[A-Z]{2}", base) and re.match(r"[A-Z]{2}-", iso2)
+        if not dual_coded:
+            rep.warn(fid, f"`codes.iso_3166_2` ({iso2}) differs from filename base ({base}) — ok only if dual-coded")
 
     # two-sided companion (warning).
     if flag.get("twosided") and not stem.endswith("_reverse"):
