@@ -1,0 +1,39 @@
+{
+  "id": "GB-YOR",
+  "name": "York (United Kingdom)",
+  "type": ["city", "subdivision"],
+  "parent": "GB-ENG",
+  "codes": {
+    "iso_3166_2": "GB-YOR",
+    "wikidata": "Q20986421"
+  },
+  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "aspect_ratio": "3:5",
+  "colors": [
+    { "color": "white" },
+    { "color": "red", "symbolism": "the Cross of St George" },
+    { "color": "yellow", "symbolism": "the five gold lions of the city arms" }
+  ],
+  "description": "A white field bearing the red Cross of St George, charged with five gold lions passant guardant — one on each arm of the cross and one at the centre — the banner of the arms of the City of York.",
+  "history": "A banner of the civic arms of the City of York: argent, on a cross gules five lions passant guardant or — the red Cross of St George charged with five gold lions. The five lions have featured in the city's arms since the medieval period.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/File:Flag_of_York.svg",
+    "https://en.wikipedia.org/wiki/Flags_and_symbols_of_Yorkshire"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "white",
+      "cross": "red",
+      "symbolism": "the Cross of St George of England"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "count": 5,
+      "position": "center",
+      "role": "five gold lions passant guardant — one on each arm of the cross and one at the centre",
+      "symbolism": "from the historic arms of the City of York"
+    }
+  ]
+}
