@@ -85,6 +85,7 @@
 
     if (segs.length === 0) return { view: "browse", state: emptyState(params) };
     if (segs[0] === "random") return { view: "random" };
+    if (segs[0] === "about") return { view: "about" };
     if (KEY_ALIASES[segs[0]]) return { view: "browse", state: parseFacetState(segs, params) };
     return { view: "detail", id: segs[0] };
   }
@@ -188,6 +189,7 @@
       return;
     }
     if (r.view === "detail") { renderDetail(r.id); return; }
+    if (r.view === "about") { renderAbout(); return; }
     renderBrowse(r.state);
   }
 
@@ -559,6 +561,74 @@
     return '<a class="related-card" data-nav href="' + detailURL(rid) + '">' +
       '<div class="thumb"><img loading="lazy" alt="" src="' + svgURL(rid) + '"></div>' +
       '<div class="rl"><div class="rl-name">' + esc(f.name) + '</div><div class="rl-rel">' + esc(rid) + "</div></div></a>";
+  }
+
+  /* ------------------------------- about ------------------------------- */
+  function renderAbout() {
+    document.title = "About — Flag Browser";
+    var f = INDEX.facets;
+    var stats = [
+      [INDEX.count, "flags"],
+      [f.regions.length, "regions"],
+      [f.types.length, "types"],
+      [f.features.length, "features"],
+      [f.colors.length, "colours"],
+      [f.variants.length, "variants"],
+      [f.proportion.length, "proportions"],
+    ];
+    var statsHTML = stats.map(function (s) {
+      return '<div><dt>' + s[0].toLocaleString() + '</dt><dd>' + esc(s[1]) + '</dd></div>';
+    }).join("");
+
+    var REPO = "https://github.com/niemela/flags";
+    var license = INDEX.license_md
+      ? mdToHtml(INDEX.license_md)
+      : '<p>See <a href="' + REPO + '/blob/master/LICENSE" target="_blank" rel="noopener">LICENSE</a> in the repository.</p>';
+
+    var html = '<a class="detail-back" data-nav href="' + APP_ROOT + '">&larr; All flags</a>' +
+      '<div class="about">' +
+      '<h1>About</h1>' +
+      '<p>Flag Browser is a curated dataset and viewer for flags of countries, ' +
+      'subdivisions, cities, intergovernmental organizations, ethnic groups, and ' +
+      'historical entities. Every entry carries structured metadata — colours, ' +
+      'features, regions, variants, proportions, sources — so the dataset is ' +
+      'browsable, filterable, and reusable.</p>' +
+      '<h2>By the numbers</h2>' +
+      '<dl class="about-stats">' + statsHTML + '</dl>' +
+      '<h2>License</h2>' + license +
+      '<h2>Contributing</h2>' +
+      '<p>Found an error? Open an ' +
+      '<a href="' + REPO + '/issues" target="_blank" rel="noopener">issue</a>' +
+      ' or — even better — a ' +
+      '<a href="' + REPO + '/pulls" target="_blank" rel="noopener">pull request</a>.</p>' +
+      '</div>';
+    app.innerHTML = html;
+  }
+
+  // Tiny Markdown renderer covering only the subset used in the synced
+  // License section: paragraphs, unordered lists, **bold**, `code`, and
+  // [text](url) links. External links open in a new tab.
+  function mdToHtml(md) {
+    function inline(s) {
+      s = String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+      s = s.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
+      s = s.replace(/`([^`]+)`/g, "<code>$1</code>");
+      s = s.replace(/\[([^\]]+)\]\(([^)]+)\)/g, function (_, text, url) {
+        var ext = /^https?:/.test(url);
+        var attrs = ext ? ' target="_blank" rel="noopener"' : "";
+        return '<a href="' + url + '"' + attrs + '>' + text + '</a>';
+      });
+      return s;
+    }
+    return md.trim().split(/\n\s*\n/).map(function (block) {
+      var lines = block.split("\n");
+      if (lines.every(function (l) { return /^- /.test(l); })) {
+        return "<ul>" + lines.map(function (l) {
+          return "<li>" + inline(l.slice(2)) + "</li>";
+        }).join("") + "</ul>";
+      }
+      return "<p>" + inline(block.replace(/\n/g, " ")) + "</p>";
+    }).join("");
   }
 
   /* ------------------------------ helpers ------------------------------ */

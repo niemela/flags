@@ -16,11 +16,38 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import re
 import sys
 from pathlib import Path
 
-DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+REPO_ROOT = Path(__file__).resolve().parent.parent
+DATA_DIR = REPO_ROOT / "data"
+README = REPO_ROOT / "README.md"
 INDEX_FILE = DATA_DIR / "flags.json"
+
+# Used to rewrite the README's relative [LICENSE](LICENSE) link to an absolute
+# URL when extracting the License section into flags.json.
+REPO_URL = "https://github.com/niemela/flags"
+
+
+def extract_license_md() -> str | None:
+    """Pull the README's `## License` section so the about page can show it
+    without duplicating the text. The section's relative `[LICENSE](LICENSE)`
+    link is rewritten to an absolute GitHub URL so it works from the served
+    site (which doesn't bundle the LICENSE file)."""
+    try:
+        text = README.read_text(encoding="utf-8")
+    except OSError:
+        return None
+    m = re.search(r'^## License\s*\n(.*?)(?=\n## |\Z)', text, flags=re.MULTILINE | re.DOTALL)
+    if not m:
+        return None
+    section = m.group(1).strip()
+    section = section.replace(
+        "[LICENSE](LICENSE)",
+        f"[LICENSE]({REPO_URL}/blob/master/LICENSE)",
+    )
+    return section
 
 
 def svg_rev(svg_path: Path) -> str | None:
@@ -136,12 +163,16 @@ def build() -> dict:
     def sorted_facet(d: dict) -> list[list]:
         return [[k, v] for k, v in sorted(d.items(), key=lambda kv: (-kv[1], kv[0]))]
 
-    return {
+    index = {
         "version": 1,
         "count": len(flags),
         "facets": {k: sorted_facet(v) for k, v in facets.items()},
         "flags": flags,
     }
+    license_md = extract_license_md()
+    if license_md:
+        index["license_md"] = license_md
+    return index
 
 
 def main() -> int:
