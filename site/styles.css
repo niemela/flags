@@ -162,6 +162,26 @@ main {
 .match-mode { font-size: 12px; color: var(--muted); margin-top: 4px; display: flex; align-items: center; gap: 6px; }
 .match-mode select { background: var(--panel-2); color: var(--text); border: 1px solid var(--line); border-radius: 6px; padding: 2px 4px; }
 
+/* ---------- time filter ---------- */
+.time-filter .seg { display: flex; flex-wrap: wrap; gap: 4px; }
+.seg-btn {
+  padding: 4px 9px; background: var(--panel-2); border: 1px solid var(--line);
+  border-radius: 999px; font-size: 12px; color: var(--text); cursor: pointer;
+}
+.seg-btn:hover { border-color: var(--accent); }
+.seg-btn.on { background: var(--accent-soft); border-color: var(--accent); color: #dce8ff; }
+.time-body { margin-top: 9px; }
+.time-row { display: flex; align-items: center; gap: 8px; }
+.time-slider { flex: 1; min-width: 0; accent-color: var(--accent); }
+.time-year, .time-from, .time-to {
+  width: 62px; padding: 4px 6px; background: var(--panel-2);
+  border: 1px solid var(--line); border-radius: 6px; color: var(--text); font-size: 12.5px;
+}
+.time-range .time-from, .time-range .time-to { flex: 1; width: auto; }
+.time-dash { color: var(--muted); }
+.time-hint { color: var(--muted); font-size: 12px; margin: 0; }
+.time-year:focus, .time-from:focus, .time-to:focus, .time-slider:focus { outline: none; border-color: var(--accent); }
+
 .results-bar {
   display: flex; align-items: center; gap: 12px;
   margin-bottom: 14px; flex-wrap: wrap;

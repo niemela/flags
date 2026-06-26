@@ -39,7 +39,8 @@
     region: "regions", regions: "regions",
     type: "types", types: "types",
     variant: "variants", variants: "variants",
-    proportion: "proportion", proportions: "proportion", ratio: "proportion", ratios: "proportion"
+    proportion: "proportion", proportions: "proportion", ratio: "proportion", ratios: "proportion",
+    date: "date", year: "date", "as-of": "date", asof: "date", when: "date"
   };
   // facet key -> the field on each flag entry (proportion is single-valued)
   var FACET_FIELD = {
@@ -54,6 +55,8 @@
   var BY_ID = {};       // id -> entry
   var EMBEDDED_BY = {}; // id -> [ids that embed it]
   var renderLimit = 240;
+  var NOW_YEAR = new Date().getFullYear();
+  var SLIDER_FLOOR = 1700; // slider's left edge; older years still reachable by typed input/URL
 
   /* ----------------------------- data load ----------------------------- */
   // Always revalidate the index: it carries the per-flag `rev` hashes that
@@ -99,6 +102,7 @@
       colors: { inc: [], exc: [] }, features: { inc: [], exc: [] },
       regions: { inc: [], exc: [] }, types: { inc: [], exc: [] },
       variants: { inc: [], exc: [] }, proportion: { inc: [], exc: [] },
+      date: null,
       q: (params.get("q") || "").trim()
     };
   }
@@ -109,6 +113,7 @@
       var key = KEY_ALIASES[segs[i]];
       var val = segs[i + 1];
       if (!key || !val) continue;
+      if (key === "date") { var dv = normalizeDateValue(val); if (dv) st.date = dv; continue; }
       val.split("+").filter(Boolean).forEach(function (tok) {
         if (tok.charAt(0) === "!") {
           var v = tok.slice(1);
@@ -129,12 +134,73 @@
         .concat(f.exc.slice().sort().map(function (v) { return "!" + v; }));
       if (toks.length) parts.push(k, toks.join("+"));
     });
+    if (st.date) parts.push("date", st.date);
     var url = APP_ROOT + parts.join("/");
     if (st.q) url += "?q=" + encodeURIComponent(st.q);
     return url;
   }
 
   function detailURL(id) { return APP_ROOT + encodeURIComponent(id); }
+
+  /* --------------------------- date facet ------------------------------ */
+  // The `date` facet is single-valued (one time query) and predicate-based, so
+  // it lives outside the include/exclude machinery. A value is one of:
+  //   current | <year> | <year>-<mm>[-<dd>] | <a>..<b> | <a>.. | ..<b>
+  // and `YYYY-YYYY` is accepted as a friendly alias for the `YYYY..YYYY` range.
+  // Matching is year-granular against each flag's resolved `t` spans.
+  function yearOf(s) {
+    if (s == null || s === "") return null;
+    var m = String(s).match(/^(\d{1,4})/);
+    return m ? parseInt(m[1], 10) : null;
+  }
+  function datePart(s) {
+    s = (s || "").trim().replace(/[~?]$/, "");
+    if (!s) return null;
+    return /^\d{1,4}(-\d{2}(-\d{2})?)?$/.test(s) ? s : null;
+  }
+  function normalizeDateValue(v) {
+    if (!v) return null;
+    v = String(v).trim().toLowerCase();
+    if (v === "current") return "current";
+    if (v.indexOf("..") >= 0) {
+      var p = v.split(".."), a = datePart(p[0]), b = datePart(p[1]);
+      if (a === null && b === null) return null;
+      return (a || "") + ".." + (b || "");
+    }
+    var parts = v.split("-");
+    if (parts.length === 2 && /^\d{4}$/.test(parts[0]) && /^\d{4}$/.test(parts[1])) {
+      return parts[0] + ".." + parts[1]; // YYYY-YYYY range alias -> canonical ..
+    }
+    var d = datePart(v);
+    return d; // single point, or null if unparseable
+  }
+  function timeMode(dv) {
+    if (!dv) return "all";
+    if (dv === "current") return "current";
+    if (dv.indexOf("..") >= 0) return "range";
+    return "point";
+  }
+  function matchesDate(f, dv) {
+    var spans = f.t; // array of [lo,hi] (hi null = ongoing), or undefined = always-on
+    if (dv === "current") {
+      if ((f.type || []).indexOf("historical") >= 0) return false;
+      if (!spans) return true;
+      return spans.some(function (s) { return s[1] === null; });
+    }
+    if (!spans) return true; // no temporal data -> matches any year/range
+    if (dv.indexOf("..") >= 0) {
+      var p = dv.split(".."), a = yearOf(p[0]), b = yearOf(p[1]);
+      return spans.some(function (s) {
+        return (a === null || s[1] === null || s[1] >= a) &&
+               (b === null || s[0] === null || s[0] <= b);
+      });
+    }
+    var y = yearOf(dv);
+    if (y === null) return true;
+    return spans.some(function (s) {
+      return (s[0] === null || s[0] <= y) && (s[1] === null || s[1] >= y);
+    });
+  }
 
   function navigate(href, replace) {
     if (replace) history.replaceState({}, "", href);
@@ -226,6 +292,8 @@
     if (st.proportion.inc.length && !hasAny(fp, st.proportion.inc)) return false;
     if (hasAny(fp, st.proportion.exc)) return false;
 
+    if (st.date && !matchesDate(f, st.date)) return false;
+
     if (st.q) {
       var q = st.q.toLowerCase();
       if ((f.name || "").toLowerCase().indexOf(q) < 0 && (f.id || "").toLowerCase().indexOf(q) < 0) return false;
@@ -272,6 +340,7 @@
   function renderFilters(st) {
     var f = INDEX.facets;
     var h = '<aside class="filters">';
+    h += timeFilter(st);
     h += filterGroup("Colour", "colors", f.colors, st.colors, true, "");
     h += filterGroup("Feature", "features", f.features, st.features, false, "", 16);
     h += filterGroup("Region", "regions", f.regions, st.regions, false, "", 12);
@@ -309,6 +378,52 @@
     return h;
   }
 
+  // The time filter renders as a segmented mode switch (All / Current / As of /
+  // Range) with a year slider + number box for a point, or from/to boxes for a
+  // range — continuous inputs, not chips, since time is a continuum.
+  function timeFilter(st) {
+    var mode = timeMode(st.date);
+    var h = '<div class="filter-group time-filter" data-group="date"><h3>Time</h3>';
+    h += '<div class="seg">';
+    [["all", "All"], ["current", "Current"], ["point", "As of"], ["range", "Range"]].forEach(function (m) {
+      h += '<button type="button" class="seg-btn' + (mode === m[0] ? " on" : "") +
+        '" data-mode="' + m[0] + '">' + m[1] + "</button>";
+    });
+    h += "</div><div class=\"time-body\">";
+    if (mode === "point") {
+      var y = yearOf(st.date) || NOW_YEAR;
+      var smin = Math.min(SLIDER_FLOOR, y);
+      h += '<div class="time-row">' +
+        '<input type="range" class="time-slider" min="' + smin + '" max="' + NOW_YEAR + '" value="' + y + '">' +
+        '<input type="number" class="time-year" min="0" max="' + NOW_YEAR + '" value="' + y + '"></div>';
+    } else if (mode === "range") {
+      var p = st.date.split(".."), a = yearOf(p[0]), b = yearOf(p[1]);
+      h += '<div class="time-row time-range">' +
+        '<input type="number" class="time-from" placeholder="from" value="' + (a != null ? a : "") + '">' +
+        '<span class="time-dash">…</span>' +
+        '<input type="number" class="time-to" placeholder="to" value="' + (b != null ? b : "") + '"></div>';
+    } else if (mode === "current") {
+      h += '<p class="time-hint">Flags in use today.</p>';
+    } else {
+      h += '<p class="time-hint">All flags, any era.</p>';
+    }
+    h += "</div></div>";
+    return h;
+  }
+
+  function dateLabel(dv) {
+    if (dv === "current") return "current";
+    if (dv.indexOf("..") >= 0) {
+      var p = dv.split("..");
+      return (p[0] || "…") + "–" + (p[1] || "…");
+    }
+    return "as of " + dv;
+  }
+  function dateFacetPill(dv) {
+    return '<span class="facet-pill time-pill">' + esc(dateLabel(dv)) +
+      '<button type="button" data-removedate="1" title="Remove">&times;</button></span>';
+  }
+
   function facetPill(k, v, neg) {
     return '<span class="facet-pill' + (neg ? " neg" : "") + '">' + (neg ? "not " : "") + esc(prettify(v)) +
       '<button type="button" data-remove="' + k + '" data-val="' + esc(v) + '" title="Remove">&times;</button></span>';
@@ -322,6 +437,7 @@
       st[k].inc.forEach(function (v) { pills += facetPill(k, v, false); });
       st[k].exc.forEach(function (v) { pills += facetPill(k, v, true); });
     });
+    if (st.date) pills += dateFacetPill(st.date);
     if (st.q) pills += '<span class="facet-pill">“' + esc(st.q) + '”<button type="button" data-clearq="1">&times;</button></span>';
     if (pills) h += '<div class="active-facets">' + pills + "</div>";
     if (pills) h += '<button class="clear-all" id="clear-all">Clear all</button>';
@@ -352,6 +468,52 @@
     if (clearQ) clearQ.addEventListener("click", function () {
       var ns = cloneState(st); ns.q = ""; navigate(browseURL(ns));
     });
+    wireTime(st);
+  }
+
+  function setDate(st, dv) {
+    var ns = cloneState(st);
+    ns.date = dv;
+    renderLimit = 240;
+    navigate(browseURL(ns));
+  }
+
+  function wireTime(st) {
+    app.querySelectorAll(".time-filter .seg-btn").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var m = btn.dataset.mode;
+        if (m === "all") setDate(st, null);
+        else if (m === "current") setDate(st, "current");
+        else if (m === "point") setDate(st, String(yearOf(st.date) || NOW_YEAR));
+        else if (m === "range") {
+          var p = (st.date || "").split("..");
+          var a = yearOf(p[0]) || (NOW_YEAR - 50), b = yearOf(p[1]) || NOW_YEAR;
+          setDate(st, a + ".." + b);
+        }
+      });
+    });
+    // Point: live-update the number box while dragging; only navigate on release.
+    var slider = app.querySelector(".time-slider"), yearBox = app.querySelector(".time-year");
+    if (slider && yearBox) {
+      slider.addEventListener("input", function () { yearBox.value = slider.value; });
+      slider.addEventListener("change", function () { setDate(st, String(slider.value)); });
+      yearBox.addEventListener("change", function () {
+        var v = parseInt(yearBox.value, 10);
+        if (!isNaN(v)) setDate(st, String(v));
+      });
+    }
+    var from = app.querySelector(".time-from"), to = app.querySelector(".time-to");
+    if (from && to) {
+      var commit = function () {
+        var a = from.value.trim(), b = to.value.trim();
+        if (!a && !b) return;
+        setDate(st, (a || "") + ".." + (b || ""));
+      };
+      from.addEventListener("change", commit);
+      to.addEventListener("change", commit);
+    }
+    var rmDate = app.querySelector("[data-removedate]");
+    if (rmDate) rmDate.addEventListener("click", function () { setDate(st, null); });
   }
 
   // Cycle a value through the three states: none -> include -> exclude -> none.
@@ -380,6 +542,7 @@
       colors: c(st.colors), features: c(st.features),
       regions: c(st.regions), types: c(st.types),
       variants: c(st.variants), proportion: c(st.proportion),
+      date: st.date,
       q: st.q
     };
   }
