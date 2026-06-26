@@ -1,0 +1,70 @@
+{
+  "id": "VE-B",
+  "name": "Anzoátegui (Venezuela)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "VE",
+  "codes": {
+    "iso_3166_2": "VE-B",
+    "wikidata": "Q190922"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Horizontal tricolour of light blue, yellow and green, with a black outline of the state in the centre and the state coat of arms on the hoist of the light blue band.",
+  "history": "Adopted in 1999.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1999"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_flags_of_Venezuela",
+    "https://www.wikidata.org/wiki/Q190922"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "yellow",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "map",
+      "color": "black",
+      "position": "center",
+      "role": "black outline of the state"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "state coat of arms on the light blue band"
+    }
+  ]
+}

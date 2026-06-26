@@ -1,0 +1,78 @@
+{
+  "id": "PT-20",
+  "name": "Azores (Portugal)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PT",
+  "codes": {
+    "iso_3166_2": "PT-20",
+    "wikidata": "Q25263"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A vertical bicolour of blue at the hoist and white, with a gold goshawk above an arc of nine gold stars across the division, and the historic Portuguese shield in the upper hoist canton.",
+  "history": "Adopted in 1979 with the region's autonomy. The goshawk (Portuguese açor) is the bird that gave the islands their name.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1979"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Azores",
+    "https://www.wikidata.org/wiki/Q25263"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "bird",
+      "color": "yellow",
+      "count": 1,
+      "position": "center",
+      "role": "goshawk (açor)"
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "count": 9,
+      "points": 5,
+      "arrangement": "arc",
+      "role": "nine stars for the nine islands"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "canton",
+      "role": "historic Portuguese shield"
+    }
+  ]
+}
