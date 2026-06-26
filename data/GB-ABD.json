@@ -10,24 +10,34 @@
   "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
   "aspect_ratio": "3:5",
   "colors": [
-    { "color": "blue" },
-    { "color": "white" },
-    { "color": "red" },
-    { "color": "yellow" }
+    { "color": "orange", "symbolism": "the county's fields of ripe barley and the whisky distilled from it" },
+    { "color": "purple", "symbolism": "the heather-covered mountains of the county" },
+    { "color": "white" }
   ],
-  "description": "A blue field with a white saltire (the Scottish saltire) and superimposed heraldic charges drawn from the arms of Aberdeenshire.",
-  "history": "Recognised by the Flag Institute as the flag of Aberdeenshire.",
-  "periods": [{ "start": "2013~" }],
+  "description": "A field divided vertically, orange at the hoist and purple at the fly, charged in the centre with a white triple-towered castle bearing an ancient crown counterchanged in the two field colours.",
+  "history": "Chosen through a public design competition launched in September 2022 by The Press & Journal with the Aberdeenshire Lieutenancy, the Court of the Lord Lyon and the Flag Institute. The winning entry, by school pupils Meryn Wilson, Eliana Irwin, Zara Sim, Iris Main and Tristan Davidson, took 34% of a public vote and was registered with the Flag Institute and unveiled at Castle Fraser on 22 April 2023.",
+  "periods": [{ "start": "2023-04-22" }],
   "sources": [
-    "https://en.wikipedia.org/wiki/Flag_of_Aberdeenshire"
+    "https://en.wikipedia.org/wiki/Flag_of_Aberdeenshire",
+    "https://www.flaginstitute.org/wp/flags/aberdeenshire-flag/"
   ],
   "features": [
     {
-      "type": "saltire",
-      "field": "blue",
-      "saltire": "white",
-      "symbolism": "the Scottish saltire of St Andrew"
+      "type": "vertical-stripes",
+      "stripes": ["orange", "purple"],
+      "count": 2,
+      "symbolism": "per pale: orange for barley and whisky, purple for the heather-clad hills"
     },
-    { "type": "complex", "symbolism": "heraldic charges from the historic arms of Aberdeenshire" }
+    {
+      "type": "building",
+      "color": "white",
+      "role": "triple-towered castle",
+      "symbolism": "Aberdeenshire's many castles - 'Scotland's Castle Country', with over 260 - and, with the crown, the royal residence of Balmoral"
+    },
+    {
+      "type": "crown",
+      "role": "ancient crown, counterchanged of the field",
+      "symbolism": "the county's royal connections"
+    }
   ]
 }
