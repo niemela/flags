@@ -36,6 +36,18 @@ jobs:
           cp -r site/. _deploy/
           cp -r data _deploy/data
 
+      - name: Cache-bust app.js and styles.css
+        # index.html loads these by bare name, so browsers serve a stale copy
+        # after a deploy. Stamp a content hash onto each reference so a changed
+        # asset busts the cache while an unchanged one stays cacheable.
+        run: |
+          cd _deploy
+          js=$(sha256sum app.js | cut -c1-8)
+          css=$(sha256sum styles.css | cut -c1-8)
+          sed -i "s|\"app\.js\"|\"app.js?v=$js\"|; s|\"styles\.css\"|\"styles.css?v=$css\"|" index.html
+          echo "stamped app.js?v=$js, styles.css?v=$css"
+          grep -nE '(app\.js|styles\.css)' index.html
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
