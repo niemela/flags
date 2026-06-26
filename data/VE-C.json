@@ -1,0 +1,76 @@
+{
+  "id": "VE-C",
+  "name": "Apure (Venezuela)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "VE",
+  "codes": {
+    "iso_3166_2": "VE-C",
+    "wikidata": "Q41146"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontal triband of yellow, blue and green, with a white triangle at the hoist bearing the state coat of arms, and seven white stars on the blue band.",
+  "history": "Adopted in 1996.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1996"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_flags_of_Venezuela",
+    "https://www.wikidata.org/wiki/Q41146"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "triangle": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "state coat of arms on the white triangle"
+    },
+    {
+      "type": "star",
+      "color": "white",
+      "count": 7,
+      "position": "fly",
+      "role": "seven white stars on the blue band"
+    }
+  ]
+}

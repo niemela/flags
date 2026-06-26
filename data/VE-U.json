@@ -1,0 +1,66 @@
+{
+  "id": "VE-U",
+  "name": "Yaracuy (Venezuela)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "VE",
+  "codes": {
+    "iso_3166_2": "VE-U",
+    "wikidata": "Q201121"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided by a white diagonal band rising from the lower hoist: the upper triangle red, the lower triangle blue, with a yellow sun at the centre enclosing a landscape.",
+  "history": "Adopted in 1995.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1995"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_flags_of_Venezuela",
+    "https://www.wikidata.org/wiki/Q201121"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "blue",
+      "direction": "bend-sinister",
+      "fimbriation": {
+        "color": "white"
+      },
+      "role": "white diagonal band dividing a red upper and blue lower triangle"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "center",
+      "role": "sun enclosing a landscape of fields, mountains, sky and clouds"
+    }
+  ]
+}

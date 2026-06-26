@@ -1,0 +1,63 @@
+{
+  "id": "VE-R",
+  "name": "Sucre (Venezuela)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "VE",
+  "codes": {
+    "iso_3166_2": "VE-R",
+    "wikidata": "Q205824"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "Diagonally divided white over sky blue, with the state coat of arms in the upper hoist and fifteen white stars on the lower fly.",
+  "history": "Adopted in 2002.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2002"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_flags_of_Venezuela",
+    "https://www.wikidata.org/wiki/Q205824"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "light-blue",
+      "direction": "bend",
+      "role": "diagonal bisection, white over sky blue"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "upper-hoist",
+      "role": "state coat of arms"
+    },
+    {
+      "type": "star",
+      "color": "white",
+      "count": 15,
+      "position": "fly",
+      "role": "fifteen white stars on the lower fly"
+    }
+  ]
+}

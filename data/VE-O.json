@@ -1,0 +1,77 @@
+{
+  "id": "VE-O",
+  "name": "Nueva Esparta (Venezuela)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "VE",
+  "codes": {
+    "iso_3166_2": "VE-O",
+    "wikidata": "Q204876"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontal tricolour of yellow, green and blue (the yellow band half the height), with three white stars on the green band and a white semicircle on the yellow band.",
+  "history": "Adopted in 1998.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1998"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_flags_of_Venezuela",
+    "https://www.wikidata.org/wiki/Q204876"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "star",
+      "color": "white",
+      "count": 3,
+      "position": "center",
+      "role": "three white stars on the green band"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center",
+      "role": "white semicircle on the yellow band"
+    }
+  ]
+}

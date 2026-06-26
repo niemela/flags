@@ -1,0 +1,90 @@
+{
+  "id": "VE-N",
+  "name": "Monagas (Venezuela)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "VE",
+  "codes": {
+    "iso_3166_2": "VE-N",
+    "wikidata": "Q205776"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A light blue field with three bands of blue, green and black across the lower part, a yellow sun on the green band, and a black silhouette of Juana Ramirez beneath an arc of thirteen white stars.",
+  "history": "Adopted in 2002.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2002"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_flags_of_Venezuela",
+    "https://www.wikidata.org/wiki/Q205776"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green",
+        "black"
+      ],
+      "count": 3,
+      "position": "base",
+      "role": "three bands across the lower flag"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "center",
+      "role": "sun on the green band"
+    },
+    {
+      "type": "human-figure",
+      "color": "black",
+      "position": "center",
+      "role": "silhouette of Juana Ramirez, heroine of independence"
+    },
+    {
+      "type": "star",
+      "color": "white",
+      "count": 13,
+      "position": "center",
+      "role": "arc of thirteen white stars"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "VE-F",
+  "name": "Bolívar (Venezuela)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "VE",
+  "codes": {
+    "iso_3166_2": "VE-F",
+    "wikidata": "Q191164"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "110:168",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A yellow field with a green disc at the centre crossed by three blue bars; the state coat of arms in the upper hoist, and eight white stars on the central blue bar.",
+  "history": "Adopted in 1930. Its proportions are an unusual 110:168.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1930"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_flags_of_Venezuela",
+    "https://www.wikidata.org/wiki/Q191164"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "circle",
+      "color": "green",
+      "position": "center",
+      "role": "green disc"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 3,
+      "position": "center",
+      "role": "three blue bars across the disc"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "upper-hoist",
+      "role": "state coat of arms"
+    },
+    {
+      "type": "star",
+      "color": "white",
+      "count": 8,
+      "position": "center",
+      "role": "eight white stars on the central bar"
+    }
+  ]
+}

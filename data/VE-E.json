@@ -1,0 +1,80 @@
+{
+  "id": "VE-E",
+  "name": "Barinas (Venezuela)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "VE",
+  "codes": {
+    "iso_3166_2": "VE-E",
+    "wikidata": "Q43271"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal tricolour of light blue, white and green, with a red square in the centre of the white band bearing a yellow rising sun, a road and a green palm tree.",
+  "history": "Adopted in 1958.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1958"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_flags_of_Venezuela",
+    "https://www.wikidata.org/wiki/Q43271"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "square",
+      "color": "red",
+      "position": "center",
+      "role": "red square bearing the state emblem"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "center",
+      "role": "rising sun"
+    },
+    {
+      "type": "palm",
+      "color": "green",
+      "position": "center",
+      "role": "palm tree"
+    }
+  ]
+}

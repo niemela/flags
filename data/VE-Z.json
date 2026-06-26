@@ -1,0 +1,78 @@
+{
+  "id": "VE-Z",
+  "name": "Amazonas (Venezuela)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "VE",
+  "codes": {
+    "iso_3166_2": "VE-Z",
+    "wikidata": "Q170453"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal tricolour of blue, green and red, with a brown outline of the state (edged yellow) in the centre bearing seven white stars, Cerro Autana and a Yanomami face.",
+  "history": "Adopted in 2002.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "2002"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_flags_of_Venezuela",
+    "https://www.wikidata.org/wiki/Q170453"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "map",
+      "color": "brown",
+      "position": "center",
+      "role": "outline of the state, edged yellow, showing Cerro Autana and a Yanomami face"
+    },
+    {
+      "type": "star",
+      "color": "white",
+      "count": 7,
+      "position": "center",
+      "role": "seven white stars for the state's municipalities"
+    }
+  ]
+}

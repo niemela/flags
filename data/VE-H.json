@@ -1,0 +1,76 @@
+{
+  "id": "VE-H",
+  "name": "Cojedes (Venezuela)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "VE",
+  "codes": {
+    "iso_3166_2": "VE-H",
+    "wikidata": "Q205460"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "orange"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal triband of orange, black and blue (the orange band two thirds of the height), with a blue disc bearing a yellow sun on the hoist of the orange band.",
+  "history": "Adopted in 1997.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1997"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_flags_of_Venezuela",
+    "https://www.wikidata.org/wiki/Q205460"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "orange",
+        "black",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "circle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "blue disc"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "sun on the disc"
+    }
+  ]
+}
