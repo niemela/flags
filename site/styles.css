@@ -177,7 +177,7 @@ main {
   width: 62px; padding: 4px 6px; background: var(--panel-2);
   border: 1px solid var(--line); border-radius: 6px; color: var(--text); font-size: 12.5px;
 }
-.time-range .time-from, .time-range .time-to { flex: 1; width: auto; }
+.time-range .time-from, .time-range .time-to { flex: 1; width: auto; min-width: 0; }
 .time-dash { color: var(--muted); }
 .time-hint { color: var(--muted); font-size: 12px; margin: 0; }
 .time-year:focus, .time-from:focus, .time-to:focus, .time-slider:focus { outline: none; border-color: var(--accent); }
