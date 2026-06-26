@@ -1,0 +1,70 @@
+{
+  "id": "CH-GE",
+  "name": "Geneva (Switzerland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "CH",
+  "codes": {
+    "iso_3166_2": "CH-GE",
+    "wikidata": "Q11917"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A square flag divided vertically: the hoist half gold with a black half (dimidiated) imperial eagle, the fly half red with a gold key.",
+  "history": "The historic arms of the city of Geneva combine the Imperial Eagle (its status as a free Imperial city) and the Key of Saint Peter (its episcopal seat), in use since the 15th century and adopted as the cantonal arms on Geneva's accession to the Confederation in 1815.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1815"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_and_arms_of_cantons_of_Switzerland",
+    "https://www.wikidata.org/wiki/Q11917"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2,
+      "symbolism": "per pale gold and red"
+    },
+    {
+      "type": "eagle",
+      "color": "black",
+      "count": 1,
+      "position": "hoist",
+      "role": "dimidiated crowned imperial eagle, beaked and armed red",
+      "symbolism": "Geneva as a free Imperial city"
+    },
+    {
+      "type": "key",
+      "color": "yellow",
+      "count": 1,
+      "position": "fly",
+      "role": "the Key of Saint Peter",
+      "symbolism": "Geneva as an episcopal seat"
+    }
+  ]
+}

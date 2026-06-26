@@ -1,0 +1,70 @@
+{
+  "id": "CH-AG",
+  "name": "Aargau (Switzerland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "CH",
+  "codes": {
+    "iso_3166_2": "CH-AG",
+    "wikidata": "Q11972"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A square flag divided vertically: the hoist half black with three white wavy bars (the river Aare), the fly half blue with three white five-pointed stars.",
+  "history": "An original 1803 design by Samuel Ringier-Seelmatter for the new canton of the Helvetic Republic; the stars were specified as five-pointed in 1930.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1803"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_and_arms_of_cantons_of_Switzerland",
+    "https://www.wikidata.org/wiki/Q11972"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black",
+        "blue"
+      ],
+      "count": 2,
+      "symbolism": "per pale: black at the hoist, blue at the fly"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "count": 3,
+      "position": "hoist",
+      "role": "three white wavy bars representing the river Aare"
+    },
+    {
+      "type": "star",
+      "color": "white",
+      "count": 3,
+      "points": 5,
+      "position": "fly",
+      "arrangement": "pale",
+      "role": "three white five-pointed stars"
+    }
+  ]
+}

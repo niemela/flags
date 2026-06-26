@@ -1,0 +1,69 @@
+{
+  "id": "CH-JU",
+  "name": "Jura (Switzerland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "CH",
+  "codes": {
+    "iso_3166_2": "CH-JU",
+    "wikidata": "Q12755"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A square flag divided vertically: the hoist half white with a red crosier, the fly half red with three white bars.",
+  "history": "Designed by Paul Boesch in 1943; the crosier recalls the former Prince-Bishopric of Basel and the seven stripes the seven districts of the Bernese Jura. It became the official flag when the canton of Jura was created in 1979.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1979"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_and_arms_of_cantons_of_Switzerland",
+    "https://www.wikidata.org/wiki/Q12755"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "symbolism": "per pale white and red"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "count": 1,
+      "position": "hoist",
+      "role": "red Baselstab (crosier) on the white half",
+      "symbolism": "the former Prince-Bishopric of Basel"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 7,
+      "position": "fly",
+      "role": "three white bars on red (seven stripes) for the seven districts of the Bernese Jura"
+    }
+  ]
+}

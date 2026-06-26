@@ -1,0 +1,59 @@
+{
+  "id": "CH-TG",
+  "name": "Thurgau (Switzerland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "CH",
+  "codes": {
+    "iso_3166_2": "CH-TG",
+    "wikidata": "Q12713"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A square flag divided diagonally, white over green, with two gold lions passant along the division.",
+  "history": "An 1803 design based on the two lions of the House of Kyburg, which ruled Thurgau in the 13th century; green and white were 'revolutionary' colours of the cantons newly created from former subject territories.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1803"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_and_arms_of_cantons_of_Switzerland",
+    "https://www.wikidata.org/wiki/Q12713"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "green",
+      "direction": "bend",
+      "symbolism": "a diagonal division of white over green"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "count": 2,
+      "role": "two lions passant along the bend",
+      "symbolism": "from the arms of the House of Kyburg"
+    }
+  ]
+}

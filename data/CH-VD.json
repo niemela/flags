@@ -1,0 +1,60 @@
+{
+  "id": "CH-VD",
+  "name": "Vaud (Switzerland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "CH",
+  "codes": {
+    "iso_3166_2": "CH-VD",
+    "wikidata": "Q12771"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A square flag of two horizontal bands, white over green, with the gold motto 'LIBERTÉ ET PATRIE' on the white band.",
+  "history": "Based on the green flag of the 1790s Vaudois insurrection against Bernese rule; the gold lettering was added with the cantonal army in 1819, famously breaking the heraldic rule against placing gold on silver (white).",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1803"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_and_arms_of_cantons_of_Switzerland",
+    "https://www.wikidata.org/wiki/Q12771"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "top",
+      "role": "the motto 'LIBERTÉ ET PATRIE' in gold on the white band",
+      "symbolism": "liberty and homeland"
+    }
+  ]
+}
