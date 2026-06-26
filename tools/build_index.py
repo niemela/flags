@@ -100,6 +100,43 @@ def embedded_refs(flag: dict) -> list[str]:
     return refs
 
 
+def _year_bound(edtf, *, upper: bool) -> int | None:
+    """Resolve an EDTF start/end value to a single integer year.
+
+    Matching is year-granular, so month/day precision is dropped. Handles the
+    shapes that actually occur in the data (``1906``, ``1906-06``, ``1906-06-22``,
+    approximate ``1840~``) plus decade/century masks (``184X`` -> 1840/1849)
+    for forward-compatibility; ``upper`` picks the high end of a masked span."""
+    if edtf is None:
+        return None
+    s = str(edtf).strip().rstrip("~?%")
+    if not s:
+        return None
+    if "X" in s.upper():
+        su = s.upper()
+        return int(su.replace("X", "9" if upper else "0"))
+    m = re.match(r"^(\d{1,4})", s)
+    return int(m.group(1)) if m else None
+
+
+def temporal_spans(flag: dict) -> list[list] | None:
+    """Per-period ``[start_year, end_year]`` pairs for client-side time filtering.
+
+    ``None`` end means ongoing/current; ``None`` start means unbounded-before.
+    Returns ``None`` when the flag carries no periods at all (treated as
+    "always on" by the browser)."""
+    periods = flag.get("periods")
+    if not periods:
+        return None
+    spans = []
+    for p in periods:
+        if not isinstance(p, dict):
+            continue
+        spans.append([_year_bound(p.get("start"), upper=False),
+                      _year_bound(p.get("end"), upper=True)])
+    return spans or None
+
+
 def build_entry(flag: dict) -> dict:
     entry = {
         "id": flag.get("id"),
@@ -114,6 +151,9 @@ def build_entry(flag: dict) -> dict:
     refs = embedded_refs(flag)
     if refs:
         entry["embeds"] = refs
+    spans = temporal_spans(flag)
+    if spans:
+        entry["t"] = spans
     # drop null/empty optional keys to keep the index compact
     return {k: v for k, v in entry.items() if v not in (None, [], "")}
 
