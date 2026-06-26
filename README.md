@@ -9,7 +9,7 @@ Each flag is represented by two files with matching basenames in `data/`:
 - `data/{id}.svg` — the flag image in SVG format
 - `data/{id}.json` — structured metadata about the flag
 
-A `data/flags.json` aggregator file collects all per-flag metadata into a single index for fast querying. It is built from the individual JSON files by tooling; do not edit it by hand.
+A `data/flags.json` aggregator file collects a lightweight subset of each flag's metadata into a single index for fast querying (see [Aggregator](#aggregator)). It is built from the individual JSON files by tooling; do not edit it by hand.
 
 ## Filename conventions
 
@@ -897,7 +897,69 @@ All tooling lives in `tools/` and requires only Python 3 (no third-party depende
 
 ## Aggregator
 
-`data/flags.json` is a single file containing all per-flag metadata, built from individual JSON files by `tools/build_index.py` (see [Tooling](#tooling)). It is the recommended consumer entry point for clients that need to scan or query the whole corpus. Do not edit it by hand; it is rebuilt by CI.
+`data/flags.json` is a single pre-built **index** over the whole corpus, generated from the per-flag JSON by `tools/build_index.py` (see [Tooling](#tooling)). It is the recommended entry point for clients that scan or filter the whole set: the [browser](#browser) loads it once for the gallery and filtering, then fetches an individual `data/{id}.json` on demand for the rich detail view. Do not edit it by hand; it is rebuilt by CI.
+
+It is deliberately **not** a full copy of the metadata — it carries only the fields needed for fast client-side filtering and rendering, some of them flattened or derived. Top-level shape:
+
+- `version` — index schema version (currently `1`).
+- `count` — number of flags.
+- `facets` — `{ colors, features, regions, types, variants, proportion }`; each is a list of `[value, count]` pairs sorted by descending count, used to build the filter menus.
+- `flags` — the array of per-flag entries (described below).
+- `license_md` — the README's License section, carried so the about page can render it without duplicating the text.
+
+Each entry in `flags` carries:
+
+- `id`, `name` — verbatim from the source JSON.
+- `type`, `region`, `variant` — the source arrays (omitted when empty).
+- `colors` — colour **names** only (the source's `{ "color": …, … }` objects reduced to their `color`).
+- `features` — the distinct feature **`type`** strings, in first-seen order.
+- `aspect_ratio` — verbatim from the source.
+- `embeds` — ids referenced through any feature's `embedded_flag_id` (omitted when none).
+- `t` — temporal spans derived from the per-flag `periods` field: an array of `[start_year, end_year]` pairs at **year** granularity. `end` is `null` for an ongoing/current flag, and the whole field is omitted when the flag has no `periods`. Drives the browser's `date` filter (see [Browser](#browser)).
+- `rev` — short content hash of the SVG, used to cache-bust the image URL; it changes only when the SVG bytes change.
+
+A representative entry:
+
+```json
+{ "id": "AI", "name": "Anguilla (United Kingdom)", "type": ["subdivision"],
+  "region": ["Americas", "Latin America", "Caribbean", "Commonwealth", "Anglosphere"],
+  "colors": ["navy", "white", "red"], "features": ["solid", "canton", "coat-of-arms"],
+  "variant": ["civil", "state"], "aspect_ratio": "1:2", "embeds": ["GB"],
+  "t": [[1990, null]], "rev": "6162957e" }
+```
+
+## Browser
+
+`site/` is a dependency-free single-page app over `flags.json`, published at [flags.niemela.se](https://flags.niemela.se) and served locally by `tools/serve.py` (see [Tooling](#tooling)). Routes are clean paths resolved against wherever the app is served from, so they behave the same at a domain root or under a project-pages base like `/flags/`:
+
+- `/` — the gallery of all flags.
+- `/<id>` — the detail view for one flag (e.g. `/SE`, `/US_1960`).
+- `/random` and `/about` — a random flag, and the about page.
+- one or more `/<facet>/<value>` pairs — a filtered gallery.
+
+Filter pairs combine with **AND** across facets: `/types/country/colors/red` is country flags that use red. Within a single facet, multiple values joined with `+` mean **all of them** for `colors` and `features` (the flag must carry every one) but **any of them** for `regions`, `types`, `variants`, and `proportion`. A leading `!` excludes (the flag must have none of those): `/colors/!red` finds flags without red, and it combines with includes in one facet as `/colors/blue+!red`. A free-text query rides in `?q=…`.
+
+Each facet accepts a singular and a plural key:
+
+- `colors` / `color` — colour names (see [Colors](#colors)).
+- `features` / `feature` — feature-type names.
+- `regions` / `region` — region names (see [Region](#region)).
+- `types` / `type` — entity types.
+- `variants` / `variant` — variant names.
+- `proportion` / `ratio` — aspect ratios such as `2:3`.
+- `date` / `year` / `as-of` / `when` — the time filter (below).
+
+### Time filter
+
+The `date` facet is single-valued and selects flags by **when they were in use**, matched at year granularity against each flag's `t` spans (see [Aggregator](#aggregator)):
+
+- `current` — in use today. This additionally excludes `historical`-typed entities, so a defunct entity is never "current" even when its end date is unrecorded.
+- `1979` — in use in that year; a more precise point also works (`1979-04`, `1979-04-30`).
+- `1939..1945` — in use at any time within the range, inclusive (interval overlap).
+- `1939..` or `..1945` — open-ended ranges.
+- `1939-1945` — accepted as a friendly alias for `1939..1945` (two four-digit years), and rewritten to the `..` form in the address bar. Ranges use `..` precisely so a lone `-` is never ambiguous against a `YYYY-MM-DD` date.
+
+Flags with no `periods` (no `t` in the index) are treated as always in use, so they pass any year or range filter — and count as current unless the entity is `historical`-typed. Thus `/types/country/date/current` lists the current country flags, and `/types/country/date/1979` lists every country flag flown in 1979.
 
 ## Contributing
 
