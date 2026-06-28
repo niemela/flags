@@ -1,7 +1,10 @@
 {
   "id": "AZ-BA",
   "name": "Baku (Azerbaijan)",
-  "type": ["city", "subdivision"],
+  "type": [
+    "city",
+    "subdivision"
+  ],
   "parent": "AZ",
   "codes": {
     "iso_3166_2": "AZ-BA",
@@ -16,11 +19,19 @@
   "aspect_ratio": "1:2",
   "colors": [
     {
+      "color": "light-blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the three golden flames of the city arms"
+    },
+    {
       "color": "white",
-      "symbolism": "the field of the flag"
+      "symbolism": "the wave in the arms"
     }
   ],
-  "description": "A white field charged centrally with the coat of arms of Baku — three golden flames over a stylised wave on a shield, surrounded by the city's emblems.",
+  "description": "A light-blue field charged centrally with the coat of arms of Baku — three golden flames over a stylised wave on a shield, surrounded by the city's emblems.",
   "history": "Baku, capital of Azerbaijan and one of its eleven cities of republican significance, adopted its modern flag together with a restored coat of arms after independence in 1991. The three flames recall both the city's name (from Persian for \"city of God / wind\") and the natural petroleum fires of the Absheron Peninsula that have made Baku famous since antiquity.",
   "sources": [
     "https://en.wikipedia.org/wiki/Flag_of_Baku",
@@ -29,7 +40,7 @@
   "features": [
     {
       "type": "solid",
-      "color": "white"
+      "color": "light-blue"
     },
     {
       "type": "coat-of-arms",
