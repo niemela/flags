@@ -641,10 +641,16 @@
   function featureItem(feat) {
     if (typeof feat === "string") return '<div class="feature-item"><span class="f-type">' + esc(prettify(feat)) + "</span></div>";
     var attrs = [];
-    ["field", "cross", "color", "count", "points", "rays", "position", "arrangement", "size", "direction"].forEach(function (k) {
+    ["field", "cross", "saltire", "pall", "pile", "triangle", "chevron", "bend", "color", "count", "points", "rays", "position", "arrangement", "size", "direction"].forEach(function (k) {
       if (feat[k] !== undefined && feat[k] !== null) attrs.push(k + ": " + prettify(String(feat[k])));
     });
     if (feat.stripes) attrs.push(feat.stripes.map(prettify).join(", "));
+    if (feat.fimbriation) {
+      var fim = Array.isArray(feat.fimbriation) ? feat.fimbriation : [feat.fimbriation];
+      var fcols = fim.map(function (x) { return x && x.color ? prettify(String(x.color)) : null; })
+                     .filter(function (x) { return x; });
+      if (fcols.length) attrs.push("fimbriation: " + fcols.join(", "));
+    }
     var role = feat.role ? " (" + esc(feat.role) + ")" : "";
     return '<div class="feature-item"><span class="f-type">' + esc(prettify(feat.type || "?")) + "</span>" + role +
       (attrs.length ? '<div class="f-attrs">' + esc(attrs.join(" · ")) + "</div>" : "") +
