@@ -16,17 +16,26 @@
     "European Union"
   ],
   "aspect_ratio": "5:8",
+  "shape": "swallowtail",
   "colors": [
     {
-      "color": "red",
-      "symbolism": "the gules field of the historic Satakunta arms"
+      "color": "blue",
+      "symbolism": "the azure chief of the Satakunta arms"
     },
     {
       "color": "yellow",
-      "symbolism": "the golden charges of the arms"
+      "symbolism": "the golden base of the arms and the ducal crown"
+    },
+    {
+      "color": "black",
+      "symbolism": "the sable bear of Satakunta"
+    },
+    {
+      "color": "white",
+      "symbolism": "the silver sword and the two stars"
     }
   ],
-  "description": "A rectangular red flag charged centrally with the gold provincial arms of Satakunta, depicting a crowned bear-and-sword device on the red field.",
+  "description": "A swallow-tailed flag divided per fess blue over yellow, charged with a crowned black bear brandishing a silver sword, flanked by two silver seven-pointed stars in the blue chief — the banner of the Satakunta coat of arms.",
   "history": "Satakunta became a region under Finland's 1997 administrative reform; its banner is the heraldic flag of the regional coat of arms, derived from the historic arms of the Satakunta province documented from the late sixteenth century.",
   "sources": [
     "https://en.wikipedia.org/wiki/Satakunta",
@@ -34,16 +43,26 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "red"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2
     },
     {
-      "type": "coat-of-arms",
+      "type": "star",
+      "count": 2,
+      "color": "white",
+      "role": "two silver seven-pointed stars flanking the bear in the blue chief"
+    },
+    {
+      "type": "animal-other",
       "count": 1,
-      "color": "yellow",
+      "color": "black",
       "position": "center",
-      "role": "arms of Satakunta",
-      "symbolism": "the historic provincial arms of Satakunta: a black bear holding a crowned sword, recalling the medieval province on the western Finnish coast."
+      "role": "a crowned black bear brandishing a silver sword — the bear of Satakunta",
+      "symbolism": "the wild forests of Satakunta; the bear as 'king of the forest' in Finnish tradition"
     }
   ]
 }

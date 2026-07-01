@@ -15,14 +15,19 @@
     "Nordics",
     "European Union"
   ],
+  "aspect_ratio": "4:3",
   "colors": [
     {
-      "color": "red",
-      "symbolism": "the gules field of the historic Tavastian arms"
+      "color": "blue",
+      "symbolism": "the azure field of the Päijänne Tavastia arms, evoking Lake Päijänne"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden mermaid and cuckoo of the arms"
     }
   ],
-  "description": "A banner-format red flag charged centrally with the gold and silver provincial arms of Päijänne Tavastia.",
-  "history": "Päijänne Tavastia (Päijät-Häme) became a region under Finland's 1997 administrative reform; its banner is the heraldic flag of the regional coat of arms, drawing on the historic arms of the Häme province.",
+  "description": "A blue banner-format flag charged with the golden arms of Päijänne Tavastia: a mermaid, with a cuckoo in the upper hoist, all in gold on the blue field.",
+  "history": "Päijänne Tavastia (Päijät-Häme) became a region under Finland's 1997 administrative reform. Its banner is the heraldic flag of the regional coat of arms, whose mermaid (the water-goddess Vellamo) and cuckoo refer to Lake Päijänne and the region's long ridges.",
   "sources": [
     "https://en.wikipedia.org/wiki/P%C3%A4ij%C3%A4nne_Tavastia",
     "https://fi.wikipedia.org/wiki/P%C3%A4ij%C3%A4t-H%C3%A4meen_lippu"
@@ -30,14 +35,22 @@
   "features": [
     {
       "type": "solid",
-      "color": "red"
+      "color": "blue"
     },
     {
-      "type": "coat-of-arms",
+      "type": "mythical-creature",
       "count": 1,
+      "color": "yellow",
       "position": "center",
-      "role": "arms of Päijänne Tavastia",
-      "symbolism": "a heraldic composition derived from the historic Häme arms, with elements specific to the lakeland region around Lake Päijänne; gold and silver charges on a red field."
+      "role": "a golden mermaid (the water-goddess Vellamo)",
+      "symbolism": "Lake Päijänne and the waters of the region"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "yellow",
+      "role": "a golden cuckoo in the dexter chief (upper hoist)",
+      "symbolism": "the forests and ridges of Päijänne Tavastia"
     }
   ]
 }
