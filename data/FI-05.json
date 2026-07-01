@@ -14,15 +14,19 @@
     "Northern Europe",
     "European Union"
   ],
-  "aspect_ratio": "1:1",
+  "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "black",
-      "symbolism": "the sable field of the regional arms"
+      "color": "yellow",
+      "symbolism": "the yellow field of the flag"
+    },
+    {
+      "color": "green",
+      "symbolism": "the coniferous forest and the wavy waterline, evoking Kainuu's woodlands and lakes"
     }
   ],
-  "description": "A square black flag charged centrally with the gold and silver provincial arms of Kainuu, featuring a heraldic capercaillie and forest motifs.",
-  "history": "Kainuu became a region under Finland's 1997 administrative reform; its banner is the heraldic flag of the regional coat of arms.",
+  "description": "A yellow flag charged with a green stylised forest of fir trees above a green wavy stripe, evoking the woodlands and waters of Kainuu.",
+  "history": "Kainuu became a region under Finland's 1997 administrative reform. Its flag depicts a stylised coniferous forest above a wavy waterline, referring to the region's extensive forests and lakes in eastern Finland.",
   "sources": [
     "https://en.wikipedia.org/wiki/Kainuu",
     "https://fi.wikipedia.org/wiki/Kainuun_lippu"
@@ -30,14 +34,22 @@
   "features": [
     {
       "type": "solid",
-      "color": "black"
+      "color": "yellow"
     },
     {
-      "type": "coat-of-arms",
+      "type": "tree",
+      "count": 8,
+      "color": "green",
+      "role": "a row of stylised fir (spruce) trees forming a forest across the flag",
+      "symbolism": "the coniferous forests that cover much of Kainuu"
+    },
+    {
+      "type": "wave",
       "count": 1,
-      "position": "center",
-      "role": "arms of Kainuu",
-      "symbolism": "a heraldic composition combining a flying capercaillie with elements drawn from the surrounding wilderness; the design references Kainuu's deep forests and historic frontier hunting culture."
+      "color": "green",
+      "position": "bottom",
+      "role": "a green wavy stripe below the forest",
+      "symbolism": "the lakes and waters of the region"
     }
   ]
 }
