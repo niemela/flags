@@ -15,7 +15,7 @@
     "Nordics",
     "European Union"
   ],
-  "aspect_ratio": "1:1",
+  "aspect_ratio": "2:3",
   "colors": [
     {
       "color": "blue",
@@ -23,10 +23,14 @@
     },
     {
       "color": "white",
-      "symbolism": "the silver charges of the arms"
+      "symbolism": "the two silver wavy fesses of the arms, evoking the sea and the waters of the region"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden boat of the arms, referring to the seafaring, coastal character of the region"
     }
   ],
-  "description": "A square blue flag bearing six silver heraldic figures arranged in a 2x3 grid, the heraldic banner of the Uusimaa coat of arms.",
+  "description": "A blue flag bearing a golden boat with a rudder between two silver wavy fesses, the heraldic banner of the Uusimaa coat of arms.",
   "history": "Uusimaa became a region under Finland's 1997 administrative reform; its banner is the heraldic flag of the regional coat of arms, derived from the historic arms of the Uusimaa province on Finland's southern coast.",
   "sources": [
     "https://en.wikipedia.org/wiki/Uusimaa",
@@ -38,12 +42,19 @@
       "color": "blue"
     },
     {
-      "type": "coat-of-arms",
-      "count": 6,
+      "type": "wave",
+      "count": 2,
       "color": "white",
+      "role": "two silver wavy fesses, one near the top and one near the base, spanning the width of the flag",
+      "symbolism": "the silver wavy bars of the Uusimaa arms, evoking the sea and the waters of the region"
+    },
+    {
+      "type": "ship",
+      "count": 1,
+      "color": "yellow",
       "position": "center",
-      "role": "wave-like charges of Uusimaa",
-      "symbolism": "six silver wave-like figures arranged in a 2x3 grid on the blue field, derived from the historic provincial arms of Uusimaa and referring to the maritime character of Finland's southern coast."
+      "role": "golden boat with a rudder",
+      "symbolism": "the golden boat of the Uusimaa arms, referring to the seafaring, coastal character of Finland's southern shore"
     }
   ]
 }
