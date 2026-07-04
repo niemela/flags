@@ -15,20 +15,20 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
+      "color": "light-blue",
+      "symbolism": "the sky-blue field"
+    },
+    {
       "color": "white",
-      "symbolism": "the field"
+      "symbolism": "the bend sinister and the edging of the crane"
     },
     {
-      "color": "red",
-      "symbolism": "the chevron — life-blood of the people"
-    },
-    {
-      "color": "yellow",
-      "symbolism": "details of the central emblem"
+      "color": "black",
+      "symbolism": "the Blue Crane (Indwe)"
     }
   ],
-  "description": "A white field with a red chevron pointing from hoist to fly, charged with the Ciskeian coat of arms in the centre.",
-  "history": "Flag of Ciskei, one of the four nominally independent 'Bantustans' created by apartheid-era South Africa as a 'homeland' for the Xhosa-speaking people of the Ciskei region. Independence declared 4 December 1981, internationally unrecognised. Reincorporated into South Africa in 1994.",
+  "description": "A sky-blue field crossed by a white bend sinister (a diagonal white band running from the lower hoist to the upper fly), with a Blue Crane (Indwe) in black silhouette, edged white, over the centre.",
+  "history": "Flag of Ciskei, one of the four nominally independent 'Bantustans' created by apartheid-era South Africa as a 'homeland' for the Xhosa-speaking people of the Ciskei region. The Ciskei Flag Act specified a blue field with a white bend sinister and, over all, a Blue Crane proper edged white. Independence declared 4 December 1981, internationally unrecognised; reincorporated into South Africa in 1994.",
   "periods": [
     {
       "start": "1981-12-04",
@@ -36,20 +36,33 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/Ciskei"
+    "https://en.wikipedia.org/wiki/Flag_of_Ciskei"
   ],
   "features": [
     {
-      "type": "chevron",
-      "field": "white",
-      "chevron": "red",
-      "direction": "hoist"
+      "type": "diagonal-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "light-blue"
+      ],
+      "count": 3,
+      "widths": [
+        5,
+        1,
+        5
+      ],
+      "direction": "bend-sinister"
     },
     {
-      "type": "coat-of-arms",
+      "type": "bird",
+      "count": 1,
+      "color": "black",
       "position": "center",
-      "color": "yellow",
-      "role": "Coat of arms of Ciskei"
+      "role": "Blue Crane (Indwe), the national bird",
+      "fimbriation": {
+        "color": "white"
+      }
     }
   ]
 }
