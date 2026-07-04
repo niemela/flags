@@ -1,0 +1,57 @@
+{
+  "id": "tuareg-amazigh",
+  "name": "Tuareg Amazighs",
+  "type": [
+    "ethnic"
+  ],
+  "codes": {
+    "wikidata": "Q58843"
+  },
+  "region": [
+    "Africa",
+    "Northern Africa",
+    "Maghreb",
+    "Sahel"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green, red and black horizontal bands with a yellow triangle at the hoist and a red Tifinagh yaz — a Tuareg/Amazigh flag.",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q58843",
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Touareg%20People%20Flag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "red",
+        "black"
+      ],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "role": "Tifinagh yaz"
+    }
+  ]
+}
