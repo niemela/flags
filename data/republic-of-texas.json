@@ -1,6 +1,6 @@
 {
   "id": "republic-of-texas",
-  "name": "Republic of Texas (1839–1845)",
+  "name": "Republic of Texas (1836–1839)",
   "type": ["historical", "country"],
   "codes": {
     "wikidata": "Q170588"
@@ -11,35 +11,28 @@
   ],
   "aspect_ratio": "2:3",
   "colors": [
-    { "color": "blue", "symbolism": "loyalty" },
-    { "color": "white", "symbolism": "purity" },
-    { "color": "red", "symbolism": "bravery" }
+    { "color": "navy", "symbolism": "the azure field" },
+    { "color": "yellow", "symbolism": "the golden star" }
   ],
-  "description": "A blue vertical band at the hoist (one third of the flag's length) bearing a centred white five-pointed star, with two horizontal stripes — white over red — filling the remainder of the fly.",
-  "history": "The 'Lone Star Flag' of the Republic of Texas, adopted by the Texas Congress on 25 January 1839. It remained the national flag until Texas joined the United States in 1845, after which it became (and remains) the state flag of Texas.",
-  "periods": [{ "start": "1839-01-25", "end": "1845-12-29" }],
+  "description": "An azure (dark blue) field bearing a single large gold five-pointed star in the centre — the 'Burnet flag'.",
+  "history": "The first national flag of the Republic of Texas, known as the 'Burnet flag' after President David G. Burnet. Adopted on 10 December 1836, it bore a single gold star on an azure field. It was superseded as the national flag by the Lone Star flag on 25 January 1839, though it continued in use as the Republic's war flag until 1845.",
+  "periods": [{ "start": "1836-12-10", "end": "1839-01-25" }],
   "sources": [
     "https://en.wikipedia.org/wiki/Flag_of_Texas",
     "https://en.wikipedia.org/wiki/Republic_of_Texas"
   ],
   "features": [
     {
-      "type": "side",
-      "color": "blue",
-      "proportion": "1/3"
-    },
-    {
-      "type": "horizontal-stripes",
-      "stripes": ["white", "red"],
-      "count": 2
+      "type": "solid",
+      "color": "navy"
     },
     {
       "type": "star",
       "count": 1,
       "points": 5,
-      "color": "white",
-      "position": "hoist",
-      "role": "Lone Star"
+      "color": "yellow",
+      "position": "center",
+      "role": "the golden star of the Burnet flag"
     }
   ]
 }
