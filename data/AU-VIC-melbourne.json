@@ -13,30 +13,50 @@
   ],
   "aspect_ratio": "1:2",
   "colors": [
-    { "color": "navy", "symbolism": "the field" },
-    { "color": "yellow", "symbolism": "the City of Melbourne logo" }
+    { "color": "white", "symbolism": "the field" },
+    { "color": "red", "symbolism": "the Cross of St George and its cotises" },
+    { "color": "yellow", "symbolism": "the royal crown and the golden fleece" },
+    { "color": "black", "symbolism": "the bull" }
   ],
-  "description": "A navy-blue field charged with the stylised yellow 'M' logo of the City of Melbourne.",
-  "history": "The City of Melbourne adopted its modern flag bearing the city's stylised 'M' logo. Melbourne is the capital of Victoria and was incorporated as a town in 1842, becoming a city in 1847.",
+  "description": "A white field quartered by the red Cross of St George (flanked by narrow red cotises), with a royal crown at the centre; the quarters bear a golden fleece on a red ring, a black bull, a three-masted ship, and a spouting whale — the arms of the City of Melbourne.",
+  "history": "The flag is a banner of the City of Melbourne's coat of arms, granted by letters patent on 30 January 1940 and derived from the city's 1848 common seal. In 1970 the positions of the bull and the whale were exchanged so that the two land emblems occupy the upper row. Melbourne is the capital of Victoria.",
   "periods": [
-    {
-      "start": "1970"
-    }
+    { "start": "1940" }
   ],
   "sources": [
-    "https://www.wikidata.org/wiki/Q5456860",
-    "https://en.wikipedia.org/wiki/City_of_Melbourne"
+    "https://en.wikipedia.org/wiki/Flag_of_Melbourne",
+    "https://en.wikipedia.org/wiki/Coat_of_arms_of_Melbourne"
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "navy"
+      "type": "greek-cross",
+      "field": "white",
+      "cross": "red",
+      "role": "Cross of Saint George (with red cotises) quartering the field"
     },
     {
-      "type": "glyph",
-      "color": "yellow",
+      "type": "crown",
       "position": "center",
-      "role": "stylised 'M' logo of the City of Melbourne"
+      "color": "yellow",
+      "role": "royal crown"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "role": "bull (cattle industry)"
+    },
+    {
+      "type": "ship",
+      "role": "three-masted ship (trade and shipping)"
+    },
+    {
+      "type": "animal-other",
+      "role": "spouting whale (whaling industry)"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "role": "golden fleece on a red ring (wool industry)"
     }
   ]
 }
