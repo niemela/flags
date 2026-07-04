@@ -1,0 +1,52 @@
+{
+  "id": "joseon",
+  "name": "Joseon",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q28179"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "519:706",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A red field bearing a taegeuk encircled by the Eight Trigrams, within a black flame border — the royal standard of Joseon Korea.",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q28179",
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20king%20of%20Joseon.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "taegeuk",
+      "role": "taegeuk"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "role": "Eight Trigrams"
+    },
+    {
+      "type": "border",
+      "color": "black",
+      "role": "flame border"
+    }
+  ]
+}
