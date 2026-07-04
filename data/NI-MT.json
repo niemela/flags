@@ -1,0 +1,56 @@
+{
+  "id": "NI-MT",
+  "name": "Matagalpa Department (Nicaragua)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "NI",
+  "codes": {
+    "iso_3166_2": "NI-MT",
+    "wikidata": "Q728099"
+  },
+  "region": [
+    "Americas",
+    "Central America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue over green with a yellow triangle at the hoist and a white outline of the department at the fly — Matagalpa Department.",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q728099",
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Matagalpa.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "hoist"
+    },
+    {
+      "type": "map",
+      "color": "white"
+    }
+  ]
+}
