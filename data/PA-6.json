@@ -1,0 +1,54 @@
+{
+  "id": "PA-6",
+  "name": "Herrera Province (Panama)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PA",
+  "codes": {
+    "iso_3166_2": "PA-6",
+    "wikidata": "Q842886"
+  },
+  "region": [
+    "Americas",
+    "Central America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Yellow over blue, bearing an orange map of the province ringed by blue stars — Herrera Province.",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q842886",
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Bandera%20de%20la%20Provincia%20de%20Herrera.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "map",
+      "color": "orange",
+      "role": "province map"
+    },
+    {
+      "type": "star",
+      "count": 9,
+      "color": "blue"
+    }
+  ]
+}

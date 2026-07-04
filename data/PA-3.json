@@ -1,0 +1,54 @@
+{
+  "id": "PA-3",
+  "name": "Colón Province (Panama)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PA",
+  "codes": {
+    "iso_3166_2": "PA-3",
+    "wikidata": "Q820514"
+  },
+  "region": [
+    "Americas",
+    "Central America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Light-blue, white and yellow horizontal bands with golden stars and the provincial arms — Colón Province.",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q820514",
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Bandera%20de%20la%20Provincia%20de%20Col%C3%B3n.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "color": "yellow"
+    }
+  ]
+}
