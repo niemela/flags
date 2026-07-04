@@ -9,27 +9,35 @@
     "Asia",
     "Southern Asia"
   ],
-  "aspect_ratio": "2:3",
+  "aspect_ratio": "1:2",
   "colors": [
-    { "color": "yellow", "symbolism": "the field" },
-    { "color": "black", "symbolism": "the central charge — the kulcha" }
+    { "color": "green", "symbolism": "the hoist half" },
+    { "color": "red", "symbolism": "the fly half" },
+    { "color": "white", "symbolism": "the crescent and star" }
   ],
-  "description": "A yellow field bearing a black kulcha (a stylised round flatbread) in the centre.",
-  "history": "Flag of the princely state of Hyderabad, the largest and wealthiest of the Indian princely states under British paramountcy, ruled by the Asaf Jahi Nizams from Hyderabad. The kulcha emblem is said to derive from a traditional account of the dynasty's founder, Asaf Jah I, having eaten seven kulchas before founding his line. After Indian independence (1947), Hyderabad was annexed by India in Operation Polo (September 1948).",
+  "description": "A vertical bicolour of green at the hoist and red at the fly, with a white crescent and five-pointed star in the centre.",
+  "history": "Flag of the princely state of Hyderabad (1900–1947), the largest and wealthiest of the Indian princely states under British paramountcy, ruled by the Asaf Jahi Nizams. The Nizam's own dynastic standard (the Asafia flag) was a separate yellow flag. After Indian independence, Hyderabad was annexed by India in Operation Polo (September 1948).",
   "periods": [{ "start": "1900~", "end": "1948-09-17" }],
   "sources": [
     "https://en.wikipedia.org/wiki/Hyderabad_State"
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "yellow"
+      "type": "vertical-stripes",
+      "stripes": ["green", "red"],
+      "count": 2
     },
     {
-      "type": "disc",
-      "color": "black",
-      "position": "center",
-      "role": "Kulcha (round flatbread)"
+      "type": "crescent",
+      "color": "white",
+      "position": "center"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center"
     }
   ]
 }
