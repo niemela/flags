@@ -1,0 +1,54 @@
+{
+  "id": "CR-G",
+  "name": "Guanacaste Province (Costa Rica)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "CR",
+  "codes": {
+    "iso_3166_2": "CR-G",
+    "wikidata": "Q690026"
+  },
+  "region": [
+    "Americas",
+    "Central America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue, white and green horizontal bands with a red triangle at the hoist.",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q690026",
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Bandera%20de%20la%20Provincia%20de%20Guanacaste.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist"
+    }
+  ]
+}
