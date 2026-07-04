@@ -1,6 +1,6 @@
 {
   "id": "cis",
-  "name": "Commonwealth of Independent States",
+  "name": "Commonwealth of Independent States (CIS)",
   "type": [
     "intergovernmental"
   ],
@@ -8,7 +8,6 @@
     "wikidata": "Q7779"
   },
   "region": [
-    "Europe",
     "Post-Soviet"
   ],
   "aspect_ratio": "1:2",
@@ -17,16 +16,21 @@
       "color": "blue"
     },
     {
-      "color": "white"
+      "color": "yellow"
     },
     {
-      "color": "yellow"
+      "color": "white"
     }
   ],
-  "description": "A blue field bearing the white radiating emblem of the Commonwealth of Independent States around a golden centre.",
+  "description": "A blue field bearing a golden-and-white emblem of interlinked forms symbolising partnership.",
+  "history": "Flag of the Commonwealth of Independent States, the regional organisation of former Soviet republics formed in 1991.",
+  "periods": [
+    {
+      "start": "1991"
+    }
+  ],
   "sources": [
-    "https://www.wikidata.org/wiki/Q7779",
-    "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20CIS.svg"
+    "https://www.wikidata.org/wiki/Q7779"
   ],
   "features": [
     {
@@ -35,13 +39,9 @@
     },
     {
       "type": "glyph",
-      "color": "white",
-      "role": "CIS emblem"
-    },
-    {
-      "type": "disc",
       "color": "yellow",
-      "role": "golden centre"
+      "position": "center",
+      "role": "emblem of interlinked figures symbolising partnership"
     }
   ]
 }
