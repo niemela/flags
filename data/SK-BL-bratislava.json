@@ -12,34 +12,28 @@
     "European Union",
     "Slavic"
   ],
+  "shape": "swallowtail",
   "aspect_ratio": "2:3",
   "colors": [
-    { "color": "white", "symbolism": "the upper stripe" },
-    { "color": "red", "symbolism": "the central stripe and the city's heraldic colour" },
-    { "color": "green", "symbolism": "the lower stripe" },
-    { "color": "yellow", "symbolism": "details of the city arms" }
+    { "color": "white", "symbolism": "the upper stripe; the silver (argent) of the city's arms" },
+    { "color": "red", "symbolism": "the lower stripe and the city's heraldic colour" }
   ],
-  "description": "Three horizontal stripes — white, red, green — with the coat of arms of Bratislava centred: a yellow city gate with three towers and an open gate, on a red field.",
-  "history": "Bratislava is the capital and largest city of Slovakia. Its tricolour flag and arms have been used since the medieval period.",
+  "description": "Two equal horizontal stripes, an upper white and a lower red, capped with a swallowtail cut into the fly.",
+  "history": "Bratislava is the capital and largest city of Slovakia. The white-over-red flag takes its colours from the city's arms — a silver three-towered fortification on a red field — a design dating to the medieval period. The arms are a separate municipal symbol and do not appear on the flag.",
   "periods": [
     {
       "start": "1991~"
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/Bratislava"
+    "https://en.wikipedia.org/wiki/Bratislava",
+    "https://bratislava.sk/en/city-of-bratislava/city-administration/the-citys-visual-identity/symbols-of-bratislava"
   ],
   "features": [
     {
       "type": "horizontal-stripes",
-      "stripes": ["white", "red", "green"],
-      "count": 3
-    },
-    {
-      "type": "coat-of-arms",
-      "position": "center",
-      "color": "yellow",
-      "role": "Coat of arms of Bratislava"
+      "stripes": ["white", "red"],
+      "count": 2
     }
   ]
 }
