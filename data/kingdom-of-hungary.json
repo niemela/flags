@@ -12,6 +12,7 @@
     "Europe",
     "Eastern Europe"
   ],
+  "shape": "swallowtail",
   "aspect_ratio": "1:2",
   "colors": [
     {
@@ -21,14 +22,21 @@
       "color": "white"
     }
   ],
-  "description": "A medieval Hungarian banner — a red field at the hoist bearing a white double cross, tapering to a white swallow-tailed fly.",
+  "description": "A red swallow-tailed banner bearing a white double (patriarchal) cross toward the hoist — an early medieval Hungarian flag.",
   "sources": [
     "https://www.wikidata.org/wiki/Q171150",
     "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hungary%20%2811th-12th%20century%29.svg"
   ],
   "features": [
     {
-      "type": "complex"
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "latin-cross",
+      "color": "white",
+      "position": "hoist",
+      "role": "double (patriarchal) cross"
     }
   ]
 }
