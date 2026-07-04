@@ -13,29 +13,33 @@
   ],
   "aspect_ratio": "1:2",
   "colors": [
-    { "color": "blue", "symbolism": "the field" },
-    { "color": "white", "symbolism": "design elements" }
+    { "color": "white", "symbolism": "the field" },
+    { "color": "red", "symbolism": "the Cross of St George" },
+    { "color": "black", "symbolism": "the black swans of the city arms" }
   ],
-  "description": "A blue field bearing the coat of arms of the City of Perth centred.",
-  "history": "The flag of the City of Perth bears the city's coat of arms, originally granted in 1856. Perth was named after Perth, Scotland, and was incorporated as a city in 1856.",
+  "description": "A white field bearing the red Cross of St George, with the coat of arms of the City of Perth (black swans supporting a shield beneath a mural crown) superimposed at the centre.",
+  "history": "The flag is the red Cross of St George on white with the City of Perth's coat of arms at the centre. The arms were granted in 1926 and altered in 1949 to add elements of the arms of Perth, Scotland, after which the city was named.",
   "periods": [
     {
       "start": "1970~"
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/City_of_Perth"
+    "https://en.wikipedia.org/wiki/City_of_Perth",
+    "https://www.crwflags.com/fotw/flags/au-wa-pe.html"
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "blue"
+      "type": "greek-cross",
+      "field": "white",
+      "cross": "red",
+      "role": "Cross of St George"
     },
     {
       "type": "coat-of-arms",
       "position": "center",
-      "color": "white",
-      "role": "Coat of arms of the City of Perth"
+      "color": "black",
+      "role": "Coat of arms of the City of Perth (black swans, mural crown)"
     }
   ]
 }

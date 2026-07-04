@@ -10,12 +10,10 @@
   "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
   "aspect_ratio": "3:5",
   "colors": [
-    { "color": "red" },
-    { "color": "blue" },
     { "color": "yellow" },
-    { "color": "white" }
+    { "color": "black" }
   ],
-  "description": "An unofficial design for the West Midlands metropolitan county, combining symbols of its constituent cities and boroughs.",
+  "description": "A gold (yellow) field bearing a black interlaced knotwork pattern.",
   "history": "The West Midlands metropolitan county has no Flag Institute–registered flag; this is an unofficial design used informally.",
   "status": "de-facto",
   "periods": [{ "start": "2010~" }],
@@ -23,9 +21,11 @@
     "https://en.wikipedia.org/wiki/Flag_of_West_Midlands"
   ],
   "features": [
+    { "type": "solid", "color": "yellow" },
     {
-      "type": "complex",
-      "symbolism": "an unofficial design combining emblems of Birmingham, Coventry, Wolverhampton and the Black Country"
+      "type": "glyph",
+      "color": "black",
+      "role": "interlaced knotwork pattern"
     }
   ]
 }

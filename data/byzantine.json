@@ -14,26 +14,28 @@
   ],
   "aspect_ratio": "2:3",
   "colors": [
-    { "color": "yellow", "symbolism": "the field — heraldic gold" },
-    { "color": "black", "symbolism": "the double-headed eagle" }
+    { "color": "red", "symbolism": "the field" },
+    { "color": "yellow", "symbolism": "the gold cross and the four fire-steels" }
   ],
-  "description": "A yellow (gold) field charged with a black double-headed eagle facing forward, often shown crowned and holding a sword and orb in its talons.",
-  "history": "The double-headed eagle on gold became closely associated with the Palaiologos dynasty (1261–1453), the last imperial house of the Byzantine Empire. The eagle's two heads symbolised the emperor's claim to authority over both East and West (the legacy of Old and New Rome). The motif was adopted by many subsequent Orthodox states (Russia, Serbia, the Holy Roman Empire and others).",
+  "description": "A red field bearing a gold cross, with a gold fire-steel (a letter 'B' / beta) in each of the four quarters — the tetragrammic cross of the Palaiologos dynasty.",
+  "history": "The gold cross with four 'B'-shaped fire-steels on red is the best-known flag associated with the Palaiologos dynasty (1261–1453), the last imperial house of the Byzantine Empire. The four devices are usually read as fire-steels or as the initial beta of an imperial motto ('King of Kings ruling over rulers'). A separate imperial banner bore a black double-headed eagle on gold.",
   "periods": [{ "start": "1261", "end": "1453-05-29" }],
   "sources": [
     "https://en.wikipedia.org/wiki/Byzantine_flags_and_insignia"
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "yellow"
+      "type": "greek-cross",
+      "field": "red",
+      "cross": "yellow",
+      "role": "gold cross dividing the field"
     },
     {
-      "type": "eagle",
-      "count": 1,
-      "color": "black",
-      "position": "center",
-      "role": "double-headed eagle of the Palaiologoi"
+      "type": "glyph",
+      "count": 4,
+      "color": "yellow",
+      "arrangement": "cross-pattern",
+      "role": "fire-steel (letter 'B' / beta) in each quarter"
     }
   ]
 }

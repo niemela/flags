@@ -5,17 +5,22 @@
   "parent": null,
   "codes": { "wikidata": "Q18234383" },
   "region": ["Asia","Western Asia","Middle East"],
+  "aspect_ratio": "2:3",
   "colors": [
-    {"color":"green","symbolism":"Islam and the Shiʿa creed of the Safavid state"},
-    {"color":"yellow","symbolism":"the Lion and Sun device"}
+    {"color":"red"},
+    {"color":"blue"},
+    {"color":"white"},
+    {"color":"yellow"}
   ],
-  "description": "A green field charged with a gold Lion and Sun (Shir-o-Khorshid), the sun depicted with an anthropomorphic face above a couchant lion — a 1665-era depiction of the Safavid Persian standard.",
-  "history": "A mid-17th-century (1665) rendering of the Safavid Persian Lion and Sun banner, recorded by European travellers during the reign of the later Safavid shahs.",
+  "description": "Seven horizontal stripes — red, blue, white, red, blue, white, and gold — a 1665 European depiction of the Safavid Persian flag.",
+  "history": "A mid-17th-century (1665) European rendering of a Safavid Persian flag as a striped banner, of the kind recorded in contemporary Dutch and other European flag charts. It differs from the green Lion-and-Sun military banner also associated with the later Safavids.",
   "periods": [{"start":"1665","end":"1665"}],
-  "sources": ["https://en.wikipedia.org/wiki/Lion_and_Sun_flag","https://www.iranicaonline.org/articles/flags-i/"],
+  "sources": ["https://en.wikipedia.org/wiki/Flag_of_Iran","https://www.iranicaonline.org/articles/flags-i/"],
   "features": [
-    {"type":"solid","color":"green"},
-    {"type":"lion","count":1,"color":"yellow","position":"center","role":"Lion of the Shir-o-Khorshid emblem"},
-    {"type":"sun","count":1,"color":"yellow","position":"center","role":"rising sun with face"}
+    {
+      "type":"horizontal-stripes",
+      "stripes":["red","blue","white","red","blue","white","yellow"],
+      "count":7
+    }
   ]
 }

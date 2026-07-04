@@ -9,31 +9,31 @@
   "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
   "aspect_ratio": "3:5",
   "colors": [
-    { "color": "blue" },
-    { "color": "white" },
-    { "color": "yellow" }
+    { "color": "yellow", "symbolism": "the gold field" },
+    { "color": "brown", "symbolism": "the stag and the oak" },
+    { "color": "green", "symbolism": "the oak's foliage and the grass" }
   ],
-  "description": "A blue field with a white stag standing beneath a stylised oak tree.",
-  "history": "Designed in 2017 by David Smith and chosen in a public competition; registered with the Flag Institute on 11 January 2017. The hart and oak refer to Windsor Forest and the historic arms of Berkshire.",
-  "periods": [{ "start": "2017-01-11" }],
+  "description": "A gold field bearing a naturally-coloured brown stag standing beneath a green-leaved oak tree on a grassy mount — the traditional Stag and Oak of the Royal County of Berkshire.",
+  "history": "Registered with the Flag Institute in 2017 after a public competition. The stag (a twelve-point 'royal' hart) beneath an oak refers to the county's 'Royal County' title and to a symbol associated with Berkshire since at least Michael Drayton's 1627 poem.",
+  "periods": [{ "start": "2017" }],
   "sources": [
     "https://en.wikipedia.org/wiki/Flag_of_Berkshire"
   ],
   "features": [
-    { "type": "solid", "color": "blue" },
+    { "type": "solid", "color": "yellow" },
     {
       "type": "tree",
-      "color": "yellow",
+      "color": "green",
       "position": "center",
-      "role": "Stylised oak tree",
+      "role": "oak tree",
       "symbolism": "Windsor Forest and the Royal Oak"
     },
     {
       "type": "animal-other",
-      "color": "white",
+      "color": "brown",
       "position": "center",
-      "role": "Stag (hart) beneath the oak",
-      "symbolism": "from the arms of Berkshire and the royal forest"
+      "role": "stag (hart) beneath the oak",
+      "symbolism": "the Royal County of Berkshire"
     }
   ]
 }

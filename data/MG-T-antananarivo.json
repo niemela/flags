@@ -15,21 +15,12 @@
   ],
   "aspect_ratio": "2:3",
   "colors": [
-    {
-      "color": "white",
-      "symbolism": "the field"
-    },
-    {
-      "color": "red",
-      "symbolism": "the city emblem"
-    },
-    {
-      "color": "green",
-      "symbolism": "the city emblem"
-    }
+    { "color": "yellow", "symbolism": "two of the quarters and the fleurs-de-lis" },
+    { "color": "purple", "symbolism": "two of the quarters" },
+    { "color": "white", "symbolism": "the zebu (ox) heads" }
   ],
-  "description": "A flag of Antananarivo bearing the city's emblem.",
-  "history": "Antananarivo is the capital and largest city of Madagascar.",
+  "description": "Quartered in gold and purple: the two gold quarters each bear a zebu (ox) head, and the two purple quarters each bear a golden fleur-de-lis.",
+  "history": "Antananarivo is the capital and largest city of Madagascar. The quartered arms combine the zebu (a symbol of Madagascar) with the fleur-de-lis.",
   "periods": [
     {
       "start": "1970~"
@@ -40,8 +31,20 @@
   ],
   "features": [
     {
-      "type": "complex",
-      "symbolism": "Flag of Antananarivo with city emblem"
+      "type": "quartered",
+      "quarters": ["yellow", "purple", "yellow", "purple"]
+    },
+    {
+      "type": "animal-other",
+      "count": 2,
+      "color": "white",
+      "role": "zebu (ox) head, in the two gold quarters"
+    },
+    {
+      "type": "fleur-de-lis",
+      "count": 2,
+      "color": "yellow",
+      "role": "fleur-de-lis, in the two purple quarters"
     }
   ]
 }

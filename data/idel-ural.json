@@ -13,21 +13,23 @@
   ],
   "aspect_ratio": "2:3",
   "colors": [
-    { "color": "green", "symbolism": "Islam and the Volga Tatars / Bashkirs" },
-    { "color": "white", "symbolism": "purity and central design" },
-    { "color": "red", "symbolism": "courage and revolution" }
+    { "color": "light-blue", "symbolism": "the sky-blue field" },
+    { "color": "yellow", "symbolism": "the golden tamga emblem" }
   ],
-  "description": "Three horizontal stripes — green, white, red.",
+  "description": "A light-blue field bearing a golden tamga (a Turkic clan emblem) in the upper fly.",
   "history": "Flag of the Idel-Ural State (Volga-Ural state), a short-lived Tatar-Bashkir-led entity proclaimed in March 1918 in the wake of the Russian Revolution, encompassing the Tatar, Bashkir and Chuvash territories of the middle Volga and southern Urals. Suppressed by the Bolsheviks within months. The flag remains a symbol for Tatar and Volga-region cultural movements.",
   "periods": [{ "start": "1917-12", "end": "1918-04" }],
   "sources": [
     "https://en.wikipedia.org/wiki/Idel-Ural_State"
   ],
   "features": [
+    { "type": "solid", "color": "light-blue" },
     {
-      "type": "horizontal-stripes",
-      "stripes": ["green", "white", "red"],
-      "count": 3
+      "type": "glyph",
+      "count": 1,
+      "color": "yellow",
+      "position": "upper-fly",
+      "role": "tamga (Turkic clan emblem)"
     }
   ]
 }
