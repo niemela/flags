@@ -9,18 +9,40 @@
   "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
   "aspect_ratio": "3:5",
   "colors": [
-    { "color": "white" },
-    { "color": "blue" },
-    { "color": "yellow" }
+    { "color": "blue", "symbolism": "the upper field and the sea" },
+    { "color": "green", "symbolism": "the lower field and the agricultural hinterland" },
+    { "color": "white", "symbolism": "the chain and the salmon" },
+    { "color": "yellow", "symbolism": "the golden ear of barley" }
   ],
-  "description": "A design representing the historic county of Berwickshire.",
-  "history": "Recognised by the Flag Institute as the flag of the historic county of Berwickshire.",
-  "periods": [{ "start": "2018~" }],
+  "description": "Horizontally divided blue over green by a white chain of seven links; a white salmon on the blue field and a golden ear of barley on the green field.",
+  "history": "Recognised by the Lord Lyon as the flag of the historic county of Berwickshire in November 2023. The chain represents the Union Chain Bridge (the link between Scotland and England), the salmon the local fishing industry, and the barley the county's agriculture.",
+  "periods": [{ "start": "2023" }],
   "sources": [
     "https://en.wikipedia.org/wiki/Flag_of_Berwickshire"
   ],
   "features": [
-    { "type": "solid", "color": "white" },
-    { "type": "complex", "symbolism": "elements drawn from the historic arms of Berwickshire" }
+    {
+      "type": "horizontal-stripes",
+      "stripes": ["blue", "green"],
+      "count": 2
+    },
+    {
+      "type": "chain",
+      "color": "white",
+      "position": "center",
+      "role": "chain of seven links (the Union Chain Bridge)"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "top",
+      "role": "salmon"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "ear of barley"
+    }
   ]
 }

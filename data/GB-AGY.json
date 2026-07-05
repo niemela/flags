@@ -10,12 +10,12 @@
   "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
   "aspect_ratio": "3:5",
   "colors": [
-    { "color": "red" },
-    { "color": "white" }
+    { "color": "red", "symbolism": "the field" },
+    { "color": "yellow", "symbolism": "the gold chevron and lions" }
   ],
-  "description": "A red field with three white chevrons across.",
-  "history": "Based on the historic arms attributed to Hwfa ap Cynddelw, lord of Anglesey; recognised by the Flag Institute as the flag of Anglesey.",
-  "periods": [{ "start": "2014~" }],
+  "description": "A red field with a gold chevron between three gold lions rampant (two above the chevron, one below) — the arms attributed to Hwfa ap Cynddelw.",
+  "history": "Registered by the Flag Institute in March 2014 following a campaign by Ymgyrch Baner Sir Fôn. The design is based on the arms attributed to Hwfa ap Cynddelw, a 12th-century ruler from Anglesey.",
+  "periods": [{ "start": "2014" }],
   "sources": [
     "https://en.wikipedia.org/wiki/Flag_of_Anglesey"
   ],
@@ -23,9 +23,15 @@
     { "type": "solid", "color": "red" },
     {
       "type": "chevron",
+      "color": "yellow",
+      "field": "red",
+      "symbolism": "the gold chevron of the arms attributed to Hwfa ap Cynddelw"
+    },
+    {
+      "type": "lion",
       "count": 3,
-      "color": "white",
-      "symbolism": "from the medieval arms attributed to Hwfa ap Cynddelw, the chief of one of the Fifteen Tribes of Gwynedd"
+      "color": "yellow",
+      "role": "three gold lions rampant, two above the chevron and one below"
     }
   ]
 }
