@@ -16,24 +16,11 @@
   ],
   "aspect_ratio": "1:2",
   "colors": [
-    {
-      "color": "white",
-      "symbolism": "the field"
-    },
-    {
-      "color": "blue",
-      "symbolism": "details of the seal"
-    },
-    {
-      "color": "red",
-      "symbolism": "details of the seal"
-    },
-    {
-      "color": "yellow",
-      "symbolism": "details of the seal"
-    }
+    { "color": "green", "symbolism": "the field" },
+    { "color": "yellow", "symbolism": "the gold city seal" },
+    { "color": "white", "symbolism": "the white ring of the seal" }
   ],
-  "description": "A flag of the City of Manila bearing the city's seal in the centre.",
+  "description": "A green field bearing the gold seal of the City of Manila in the centre.",
   "history": "Manila is the capital and the second-most populous city of the Philippines.",
   "periods": [
     {
@@ -45,8 +32,14 @@
   ],
   "features": [
     {
-      "type": "complex",
-      "symbolism": "Flag of Manila with the city seal"
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "seal",
+      "color": "yellow",
+      "position": "center",
+      "role": "Seal of the City of Manila"
     }
   ]
 }

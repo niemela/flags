@@ -17,17 +17,12 @@
   ],
   "aspect_ratio": "5:6",
   "colors": [
-    {
-      "color": "blue",
-      "symbolism": "the standard outer field of Lithuanian county flags"
-    },
-    {
-      "color": "black",
-      "symbolism": "the field of the county coat of arms"
-    }
+    { "color": "blue", "symbolism": "the outer field, standard for Lithuanian county flags" },
+    { "color": "white", "symbolism": "the ornate border and the knight of the arms" },
+    { "color": "yellow", "symbolism": "the golden crosses of the border" }
   ],
-  "description": "A blue field with an inner black panel set off by a narrow white-and-yellow border, bearing the coat of arms of Alytus County in the centre.",
-  "history": "Like the flags of all ten Lithuanian counties, the flag of Alytus County follows a uniform template introduced after the country's redivision into apskritys (counties) in 1994: a blue outer border surrounding the county's heraldic field with the county arms at the centre.",
+  "description": "A blue field within an ornate white-and-gold border, bearing at the centre the coat of arms of Alytus County — a white armoured knight on horseback (the Vytis).",
+  "history": "Like the flags of all ten Lithuanian counties, the flag of Alytus County follows a uniform template introduced after the country's redivision into apskritys (counties) in 1994: a blue field with an ornate border surrounding the county arms at the centre.",
   "periods": [
     {
       "start": "1994"
@@ -40,16 +35,17 @@
   "features": [
     {
       "type": "bordure",
-      "field": "black",
-      "border": "blue",
-      "symbolism": "blue border in the Lithuanian county pattern, with a black inner field referring to the county arms"
+      "field": "blue",
+      "border": "white",
+      "symbolism": "blue field within a white-and-gold ornamental border in the Lithuanian county pattern"
     },
     {
       "type": "coat-of-arms",
       "count": 1,
+      "color": "white",
       "position": "center",
       "role": "coat of arms of Alytus County",
-      "symbolism": "an armoured knight on horseback charging with raised sword on a shield, derived from the historic Vytis but in the colours of Alytus"
+      "symbolism": "an armoured knight on horseback charging with raised sword (the Vytis), in the colours of Alytus"
     }
   ]
 }

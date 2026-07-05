@@ -15,21 +15,12 @@
   ],
   "aspect_ratio": "2:3",
   "colors": [
-    {
-      "color": "blue",
-      "symbolism": "the field"
-    },
-    {
-      "color": "red",
-      "symbolism": "the central disc"
-    },
-    {
-      "color": "white",
-      "symbolism": "the central white emblem within the disc"
-    }
+    { "color": "navy", "symbolism": "the hoist band and the star field" },
+    { "color": "white", "symbolism": "the star and the upper stripe" },
+    { "color": "light-blue", "symbolism": "the lower stripe" }
   ],
-  "description": "A blue field bearing a red disc at the centre, charged with a white stylised emblem representing Dallas County.",
-  "history": "Flag of Dallas County, the second-most-populous county in Texas and a sub-state subdivision encompassing the city of Dallas and surrounding municipalities.",
+  "description": "A flag in the style of the Texas Lone Star flag: a navy vertical band at the hoist bearing a centred white star, with two equal horizontal stripes in the fly — white over light-blue.",
+  "history": "Flag of Dallas County, the second-most-populous county in Texas and a sub-state subdivision encompassing the city of Dallas and surrounding municipalities. Its design echoes the Texas state flag but substitutes light blue for red.",
   "periods": [
     {
       "start": "1960~"
@@ -40,24 +31,22 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "blue"
+      "type": "side",
+      "color": "navy",
+      "proportion": "1/3"
     },
     {
-      "type": "disc",
-      "count": 1,
-      "color": "red",
-      "position": "center",
-      "role": "central red disc",
-      "symbolism": "Frames the central white emblem of Dallas County."
+      "type": "horizontal-stripes",
+      "stripes": ["white", "light-blue"],
+      "count": 2
     },
     {
-      "type": "seal",
+      "type": "star",
       "count": 1,
+      "points": 5,
       "color": "white",
-      "position": "center",
-      "role": "stylised white emblem within the central disc",
-      "symbolism": "A stylised device within the red disc representing Dallas County and the Lone Star State."
+      "position": "hoist",
+      "role": "Lone Star"
     }
   ]
 }
