@@ -1,0 +1,63 @@
+{
+  "id": "PE-PIU",
+  "name": "Piura Department (Peru)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PE",
+  "codes": {
+    "iso_3166_2": "PE-PIU",
+    "wikidata": "Q208183"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A white field with a broad red horizontal band, and a green canton at the hoist bearing seven golden stars.",
+  "history": "The flag of the Piura Department of Peru.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "sources": [
+    "https://www.wikidata.org/wiki/Q208183",
+    "https://commons.wikimedia.org/wiki/Category:Flags_of_Peru"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "canton",
+      "color": "green",
+      "position": "canton"
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "count": 7,
+      "position": "canton"
+    },
+    {
+      "type": "complex",
+      "role": "a broad red horizontal band across the fly"
+    }
+  ]
+}
