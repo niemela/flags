@@ -18,16 +18,11 @@
   ],
   "aspect_ratio": "1:1",
   "colors": [
-    {
-      "color": "red",
-      "symbolism": "the gules field of the Smaland-derived arms"
-    },
-    {
-      "color": "yellow",
-      "symbolism": "the gold star and crossbow"
-    }
+    { "color": "red", "symbolism": "the central escutcheon of Kalmar" },
+    { "color": "yellow", "symbolism": "the gold quarters, lions and star" },
+    { "color": "blue", "symbolism": "the blue quarters of the arms" }
   ],
-  "description": "A square red flag charged centrally with a gold six-pointed star, the historic emblem of Kalmar.",
+  "description": "A banner of the quartered arms of Kalmar County — blue and gold quarters with crowned heraldic lions — bearing a central red escutcheon charged with a gold six-pointed star, the historic emblem of Kalmar.",
   "history": "The flag is the heraldic banner of the arms of Kalmar County, derived from the medieval arms of the city of Kalmar combined with elements from the historic province of Smaland.",
   "periods": [
     {
@@ -41,9 +36,15 @@
   ],
   "features": [
     {
-      "type": "solid",
+      "type": "quartered",
+      "quarters": ["blue", "yellow", "blue", "yellow"],
+      "role": "quartered field with crowned lions"
+    },
+    {
+      "type": "shield",
       "color": "red",
-      "symbolism": "the gules field of the historic Smaland provincial arms, on which the Kalmar charges are set"
+      "position": "center",
+      "role": "central escutcheon of Kalmar"
     },
     {
       "type": "star",
@@ -52,7 +53,7 @@
       "color": "yellow",
       "position": "center",
       "role": "six-pointed star of Kalmar",
-      "symbolism": "a gold six-pointed star on a red field, the historic emblem of Kalmar from the city's medieval arms."
+      "symbolism": "a gold six-pointed star, the historic emblem of Kalmar from the city's medieval arms"
     }
   ]
 }
