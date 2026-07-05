@@ -17,20 +17,14 @@
   ],
   "aspect_ratio": "2:3",
   "colors": [
-    {
-      "color": "white"
-    },
-    {
-      "color": "black"
-    },
-    {
-      "color": "yellow"
-    },
-    {
-      "color": "blue"
-    }
+    { "color": "red" },
+    { "color": "white" },
+    { "color": "blue" },
+    { "color": "green" },
+    { "color": "yellow" },
+    { "color": "black" }
   ],
-  "description": "A banner of the quartered Ústí nad Labem arms, combining the Bohemian lion with further regional charges.",
+  "description": "A banner of the quartered Ústí nad Labem Region arms: the silver Bohemian lion on red, a white castle on blue, mining emblems on green, and a further Bohemian lion — combining the arms of the region's constituent territories.",
   "history": "The self-governing regions were created on 1 January 2000; like all Czech regional flags this is a banner of the quartered regional arms, adopted in the early 2000s.",
   "variant": [
     "civil",
@@ -47,7 +41,8 @@
   ],
   "features": [
     {
-      "type": "complex",
+      "type": "quartered",
+      "quarters": ["red", "blue", "green", "red"],
       "role": "quartered banner of the regional coat of arms"
     },
     {

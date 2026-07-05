@@ -13,11 +13,11 @@
   ],
   "aspect_ratio": "2:3",
   "colors": [
-    { "color": "blue", "symbolism": "details" },
-    { "color": "yellow", "symbolism": "details" },
-    { "color": "red", "symbolism": "details" }
+    { "color": "white", "symbolism": "the field" },
+    { "color": "maroon", "symbolism": "the provincial emblem animal" },
+    { "color": "yellow", "symbolism": "the golden sun and border charges" }
   ],
-  "description": "Provincial flag of the North Western Province of Sri Lanka.",
+  "description": "A white field bearing the emblem of the North Western Province — a maroon animal and a golden sun — within an ornate patterned border.",
   "history": "The North Western Province is one of the nine provinces of Sri Lanka, with its capital at Kurunegala.",
   "periods": [
     {
@@ -29,8 +29,20 @@
   ],
   "features": [
     {
-      "type": "complex",
-      "symbolism": "Provincial flag of North Western Province of Sri Lanka"
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "animal-other",
+      "color": "maroon",
+      "position": "center",
+      "role": "the provincial emblem animal"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "center",
+      "role": "golden sun"
     }
   ]
 }

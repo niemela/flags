@@ -17,20 +17,13 @@
   ],
   "aspect_ratio": "2:3",
   "colors": [
-    {
-      "color": "black"
-    },
-    {
-      "color": "white"
-    },
-    {
-      "color": "yellow"
-    },
-    {
-      "color": "red"
-    }
+    { "color": "red" },
+    { "color": "green" },
+    { "color": "white" },
+    { "color": "yellow" },
+    { "color": "black" }
   ],
-  "description": "A banner of the quartered Plzeň Region arms, combining the Bohemian lion with the arms of the city of Plzeň and other regional charges.",
+  "description": "A banner of the quartered Plzeň Region arms: the silver Bohemian lion on red, a gold camel on green, green-and-white stripes, and a white building on red — combining the arms of the region's constituent territories.",
   "history": "The self-governing regions were created on 1 January 2000; like all Czech regional flags this is a banner of the quartered regional arms, adopted in the early 2000s.",
   "variant": [
     "civil",
@@ -47,7 +40,8 @@
   ],
   "features": [
     {
-      "type": "complex",
+      "type": "quartered",
+      "quarters": ["red", "green", "green", "red"],
       "role": "quartered banner of the regional coat of arms"
     },
     {

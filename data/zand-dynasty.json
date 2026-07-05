@@ -6,15 +6,18 @@
   "codes": { "wikidata": "Q146597" },
   "region": ["Asia","Western Asia","Middle East"],
   "colors": [
-    {"color":"green","symbolism":"field of the Zand standard"},
+    {"color":"white","symbolism":"the field"},
+    {"color":"green","symbolism":"a diagonal band"},
+    {"color":"black","symbolism":"a diagonal band"},
     {"color":"yellow","symbolism":"the Lion and Sun device"}
   ],
-  "description": "A green field charged with a gold Lion and Sun (Shir-o-Khorshid) — a couchant lion holding a sword before a rising sun — used by Karim Khan Zand and his successors.",
+  "description": "A white field with diagonal green and black bands, charged with a gold Lion and Sun (Shir-o-Khorshid) — a couchant lion holding a sword before a rising sun — used by Karim Khan Zand and his successors.",
   "history": "Banner of Zand Iran (1751–1794), the dynasty founded by Karim Khan Zand that ruled most of Persia between the Afsharid and Qajar periods. The Lion and Sun motif was carried over from earlier Persian standards.",
   "periods": [{"start":"1751","end":"1794"}],
   "sources": ["https://en.wikipedia.org/wiki/Zand_Iran","https://commons.wikimedia.org/wiki/File:Zand_Dynasty_flag.svg"],
   "features": [
-    {"type":"solid","color":"green"},
+    {"type":"solid","color":"white"},
+    {"type":"diagonal-stripes","stripes":["green","black"],"count":2,"direction":"bend","role":"green and black diagonal bands"},
     {"type":"lion","count":1,"color":"yellow","position":"center","role":"lion of the Shir-o-Khorshid holding a sword"},
     {"type":"sun","count":1,"color":"yellow","position":"center","role":"rising sun"}
   ]
