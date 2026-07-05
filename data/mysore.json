@@ -12,9 +12,9 @@
   "aspect_ratio": "2:3",
   "colors": [
     { "color": "red", "symbolism": "the field" },
-    { "color": "white", "symbolism": "the central design and the Gandaberunda" }
+    { "color": "maroon", "symbolism": "the darker band and the Gandaberunda" }
   ],
-  "description": "A red field charged with the Gandaberunda — a stylised two-headed bird emblem — in the centre.",
+  "description": "A red-and-maroon field charged with the Gandaberunda — a stylised two-headed bird emblem — in the centre.",
   "history": "Flag of the Kingdom of Mysore under the Wadiyar dynasty (after the death of Tipu Sultan in 1799). The Gandaberunda is an ancient mythological two-headed bird from Hindu/Vaishnav tradition, associated with the Wadiyars since the 16th century. The kingdom acceded to the Indian Union in 1947 and was incorporated into the new Mysore State.",
   "periods": [{ "start": "1799-05-04", "end": "1947-08-15" }],
   "sources": [
@@ -22,13 +22,13 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "red"
+      "type": "horizontal-stripes",
+      "stripes": ["red", "maroon"],
+      "count": 2
     },
     {
       "type": "bird",
       "count": 1,
-      "color": "white",
       "position": "center",
       "role": "Gandaberunda (two-headed mythological bird)",
       "symbolism": "the heraldic emblem of the Wadiyar dynasty of Mysore — symbolises strength and the dual aspect of divine power"

@@ -18,16 +18,12 @@
   ],
   "aspect_ratio": "1:2",
   "colors": [
-    {
-      "color": "green",
-      "symbolism": "the lush vegetation of Mayotte"
-    },
-    {
-      "color": "white",
-      "symbolism": "the central panel bearing the territorial arms"
-    }
+    { "color": "white", "symbolism": "the field" },
+    { "color": "blue", "symbolism": "the shield of the territorial arms" },
+    { "color": "red", "symbolism": "details of the arms" },
+    { "color": "yellow", "symbolism": "the crescent and ylang-ylang flower" }
   ],
-  "description": "A vertical tricolour of green, white and green with a wider central white stripe charged with the territorial coat of arms — a blue shield supported by two white seahorses, with a motto scroll below.",
+  "description": "A white flag bearing the name 'MAYOTTE' above the territorial coat of arms — a blue shield with a white wavy band, a crescent and an ylang-ylang flower, supported by two white seahorses, with a motto ribbon below.",
   "history": "The official flag of Mayotte is the French Tricolore; this local flag, based on the territorial coat of arms granted in 1982, is widely used as a regional emblem. Mayotte separated from the rest of the Comoros at independence in 1975, choosing to remain French; it became an Overseas Department (DOM) on 31 March 2011 and is part of the European Union as an outermost region.",
   "status": "de-facto",
   "periods": [
@@ -41,25 +37,19 @@
   ],
   "features": [
     {
-      "type": "vertical-stripes",
-      "stripes": [
-        "green",
-        "white",
-        "green"
-      ],
-      "count": 3,
-      "widths": [
-        7,
-        9,
-        7
-      ],
-      "symbolism": "green stripes flanking a wide white central panel that bears the territorial coat of arms"
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "position": "top",
+      "role": "the name 'MAYOTTE'"
     },
     {
       "type": "coat-of-arms",
       "position": "center",
       "role": "Coat of arms of Mayotte",
-      "symbolism": "the territorial arms feature a blue shield with a horizontal white wavy band (the lagoon) over a crescent (recalling the Comorian Sultanate that historically ruled Mayotte) and an ylang-ylang flower (Mayotte's chief export); two seahorses serve as supporters, with the motto 'RA HACHIRI' ('we are vigilant') on a ribbon below"
+      "symbolism": "a blue shield with a horizontal white wavy band (the lagoon) over a crescent (recalling the Comorian Sultanate) and an ylang-ylang flower (Mayotte's chief export); two seahorses serve as supporters, with the motto 'RA HACHIRI' ('we are vigilant') on a ribbon below"
     }
   ]
 }
