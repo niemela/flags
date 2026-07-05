@@ -17,16 +17,16 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "white",
-      "symbolism": "the field"
+      "color": "blue",
+      "symbolism": "the azure field and the four wavy bands"
     },
     {
-      "color": "red",
-      "symbolism": "the stylised regional emblem"
+      "color": "white",
+      "symbolism": "the silver shield of the emblem"
     }
   ],
-  "description": "A white field charged at the centre with the regional emblem of Basilicata: four red wavy bands representing the region's four principal rivers.",
-  "history": "Adopted by Regional Law n. 1 of 12 October 1971, in implementation of Article 1 of the Regional Statute. The flag's emblem evokes the four major rivers (Bradano, Basento, Agri, Sinni) that drain the region to the Ionian Sea, an ancient Lucanian symbol associated with the historical name Lucania (used officially in place of Basilicata between 1932 and 1947).",
+  "description": "An azure (blue) field charged at the centre with the regional emblem of Basilicata: a silver shield bearing four blue wavy bands representing the region's four principal rivers.",
+  "history": "Adopted by Regional Law n. 1 of 12 October 1971, in implementation of Article 1 of the Regional Statute. The emblem evokes the four major rivers (Bradano, Basento, Agri, Sinni) that drain the region to the Ionian Sea, an ancient Lucanian symbol associated with the historical name Lucania (used officially in place of Basilicata between 1932 and 1947).",
   "variant": [
     "civil",
     "state"
@@ -37,22 +37,26 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/Basilicata"
+    "https://en.wikipedia.org/wiki/Flag_of_Basilicata"
   ],
   "features": [
     {
       "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "shield",
       "color": "white",
-      "symbolism": "A white field charged with the regional emblem, a stylised composition representing the four rivers of the region."
+      "position": "center",
+      "role": "silver shield bearing the four rivers"
     },
     {
       "type": "wave",
       "count": 4,
-      "color": "red",
+      "color": "blue",
       "position": "center",
       "arrangement": "row",
-      "role": "four wavy bars representing the principal rivers of Basilicata (Bradano, Basento, Agri and Sinni)",
-      "symbolism": "The four wavy bands evoke the four major rivers that descend from the Lucanian Apennines to the Ionian Sea (the Bradano, Basento, Agri and Sinni), the principal hydrographic features of the region."
+      "role": "four wavy bars representing the principal rivers of Basilicata (Bradano, Basento, Agri and Sinni)"
     }
   ]
 }

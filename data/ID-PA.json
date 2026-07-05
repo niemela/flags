@@ -17,17 +17,11 @@
   ],
   "aspect_ratio": "2:3",
   "colors": [
-    {
-      "color": "blue"
-    },
-    {
-      "color": "white"
-    },
-    {
-      "color": "red"
-    }
+    { "color": "navy", "symbolism": "the field" },
+    { "color": "yellow", "symbolism": "the golden provincial coat of arms" },
+    { "color": "white", "symbolism": "details of the arms" }
   ],
-  "description": "Provincial flag of Papua bearing the provincial coat of arms — distinct from the Morning Star (Bintang Kejora) flag of West Papuan independence aspirations, which is banned by the Indonesian government.",
+  "description": "A navy field bearing the golden coat of arms of the Province of Papua at the centre — distinct from the Morning Star (Bintang Kejora) flag of West Papuan independence aspirations, whose display is banned by the Indonesian government.",
   "history": "Used by the Provincial Government of Papua. The Indonesian central government distinguishes this provincial flag from the Morning Star flag (which is internationally recognised as a Papuan independence symbol but its display is illegal in Indonesia).",
   "variant": [
     "civil",
@@ -38,11 +32,12 @@
   ],
   "features": [
     {
-      "type": "complex",
-      "symbolism": "provincial flag of Papua bearing the official coat of arms"
+      "type": "solid",
+      "color": "navy"
     },
     {
       "type": "coat-of-arms",
+      "color": "yellow",
       "position": "center",
       "role": "Coat of arms of the Province of Papua"
     }
