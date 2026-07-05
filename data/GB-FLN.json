@@ -11,10 +11,9 @@
   "aspect_ratio": "3:5",
   "colors": [
     { "color": "white" },
-    { "color": "blue" },
     { "color": "black" }
   ],
-  "description": "A white field with a black cross overall, with a blue stripe across.",
+  "description": "A white field with a black cross overall, charged with black birds (choughs) from the historic arms of Flint.",
   "history": "Recognised by the Flag Institute as the flag of the historic county of Flintshire; the design draws on the arms of the medieval lordship.",
   "periods": [{ "start": "2018~" }],
   "sources": [
@@ -27,6 +26,11 @@
       "color": "black",
       "symbolism": "from the historic arms of the lordship of Flint"
     },
-    { "type": "horizontal-stripes", "stripes": ["blue"], "count": 1 }
+    {
+      "type": "bird",
+      "count": 4,
+      "color": "black",
+      "role": "choughs from the arms of Flint"
+    }
   ]
 }
