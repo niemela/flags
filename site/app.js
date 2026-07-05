@@ -99,9 +99,9 @@
   // hyphenated names like greek-cross / light-blue are never mis-parsed.
   function emptyState(params) {
     return {
-      colors: { inc: [], exc: [] }, features: { inc: [], exc: [] },
-      regions: { inc: [], exc: [] }, types: { inc: [], exc: [] },
-      variants: { inc: [], exc: [] }, proportion: { inc: [], exc: [] },
+      colors: { inc: [], exc: [], only: false }, features: { inc: [], exc: [], only: false },
+      regions: { inc: [], exc: [], only: false }, types: { inc: [], exc: [], only: false },
+      variants: { inc: [], exc: [], only: false }, proportion: { inc: [], exc: [], only: false },
       date: null,
       q: (params.get("q") || "").trim()
     };
@@ -115,6 +115,7 @@
       if (!key || !val) continue;
       if (key === "date") { var dv = normalizeDateValue(val); if (dv) st.date = dv; continue; }
       val.split("+").filter(Boolean).forEach(function (tok) {
+        if (tok === "only") { st[key].only = true; return; }
         if (tok.charAt(0) === "!") {
           var v = tok.slice(1);
           if (v && st[key].exc.indexOf(v) < 0) st[key].exc.push(v);
@@ -132,6 +133,7 @@
       var f = st[k];
       var toks = f.inc.slice().sort()
         .concat(f.exc.slice().sort().map(function (v) { return "!" + v; }));
+      if (k !== "proportion" && f.only && f.inc.length) toks.push("only");
       if (toks.length) parts.push(k, toks.join("+"));
     });
     if (st.date) parts.push("date", st.date);
@@ -262,30 +264,43 @@
   /* ------------------------------ browse ------------------------------- */
   function hasAny(list, vals) { return vals.some(function (v) { return list.indexOf(v) >= 0; }); }
   function hasAll(list, vals) { return vals.every(function (v) { return list.indexOf(v) >= 0; }); }
+  // "only" upper bound: the flag's values for a facet must not stray outside the
+  // included set. Inert without includes. Combined with the include lower bound
+  // it yields exact-set on the AND-facets (colours/features) and subset on the
+  // OR-facets (regions/types/variants).
+  function withinOnly(vals, facet) {
+    if (!facet.only || !facet.inc.length) return true;
+    return vals.every(function (v) { return facet.inc.indexOf(v) >= 0; });
+  }
 
   function matches(f, st) {
     // Colours & features: include = must have ALL selected; exclude = must have none.
     var fc = f.colors || [];
     if (!hasAll(fc, st.colors.inc)) return false;
     if (hasAny(fc, st.colors.exc)) return false;
+    if (!withinOnly(fc, st.colors)) return false;
 
     var ff = f.features || [];
     if (!hasAll(ff, st.features.inc)) return false;
     if (hasAny(ff, st.features.exc)) return false;
+    if (!withinOnly(ff, st.features)) return false;
 
     // Region / type / variant: include = must match at least one (these are
     // lists where a flag legitimately carries several); exclude = match none.
     var fr = f.region || [];
     if (st.regions.inc.length && !hasAny(fr, st.regions.inc)) return false;
     if (hasAny(fr, st.regions.exc)) return false;
+    if (!withinOnly(fr, st.regions)) return false;
 
     var ft = f.type || [];
     if (st.types.inc.length && !hasAny(ft, st.types.inc)) return false;
     if (hasAny(ft, st.types.exc)) return false;
+    if (!withinOnly(ft, st.types)) return false;
 
     var fv = f.variant || [];
     if (st.variants.inc.length && !hasAny(fv, st.variants.inc)) return false;
     if (hasAny(fv, st.variants.exc)) return false;
+    if (!withinOnly(fv, st.variants)) return false;
 
     // Proportion is a single value per flag; multiple selected values mean OR.
     var fp = f.aspect_ratio ? [f.aspect_ratio] : [];
@@ -355,6 +370,12 @@
     limit = limit || facet.length;
     var h = '<div class="filter-group" data-group="' + key + '"><h3>' + title + "</h3>";
     h += extra || "";
+    if (key !== "proportion" && active.inc.length) {
+      h += '<button type="button" class="only-toggle' + (active.only ? " on" : "") +
+        '" data-only="' + key + '" aria-pressed="' + (active.only ? "true" : "false") +
+        '" title="Only these — match flags with nothing outside this set">' +
+        (active.only ? "✓ " : "") + "only these</button>";
+    }
     h += '<div class="chips">';
     facet.forEach(function (pair, i) {
       var val = pair[0], count = pair[1];
@@ -428,6 +449,10 @@
     return '<span class="facet-pill' + (neg ? " neg" : "") + '">' + (neg ? "not " : "") + esc(prettify(v)) +
       '<button type="button" data-remove="' + k + '" data-val="' + esc(v) + '" title="Remove">&times;</button></span>';
   }
+  function onlyPill(k) {
+    return '<span class="facet-pill only-pill" title="Only these — nothing outside this set">only' +
+      '<button type="button" data-removeonly="' + k + '" title="Remove only">&times;</button></span>';
+  }
 
   function renderResultsBar(st, count) {
     var h = '<div class="results-bar"><span class="results-count">' +
@@ -436,6 +461,7 @@
     FACET_KEYS.forEach(function (k) {
       st[k].inc.forEach(function (v) { pills += facetPill(k, v, false); });
       st[k].exc.forEach(function (v) { pills += facetPill(k, v, true); });
+      if (k !== "proportion" && st[k].only && st[k].inc.length) pills += onlyPill(k);
     });
     if (st.date) pills += dateFacetPill(st.date);
     if (st.q) pills += '<span class="facet-pill">“' + esc(st.q) + '”<button type="button" data-clearq="1">&times;</button></span>';
@@ -461,6 +487,12 @@
     });
     app.querySelectorAll("[data-remove]").forEach(function (btn) {
       btn.addEventListener("click", function () { removeFacet(st, btn.dataset.remove, btn.dataset.val); });
+    });
+    app.querySelectorAll("[data-only]").forEach(function (btn) {
+      btn.addEventListener("click", function () { setOnly(st, btn.dataset.only, !st[btn.dataset.only].only); });
+    });
+    app.querySelectorAll("[data-removeonly]").forEach(function (btn) {
+      btn.addEventListener("click", function () { setOnly(st, btn.dataset.removeonly, false); });
     });
     var clearAll = document.getElementById("clear-all");
     if (clearAll) clearAll.addEventListener("click", function () { navigate(APP_ROOT); });
@@ -517,10 +549,16 @@
   }
 
   // Cycle a value through the three states: none -> include -> exclude -> none.
+  // While "only" is active, exclude is meaningless (the set is already closed),
+  // so the chip runs two-state (none <-> include); emptying the set drops "only".
   function cycleFacet(st, key, val) {
     var ns = cloneState(st), f = ns[key];
     var i = f.inc.indexOf(val), j = f.exc.indexOf(val);
-    if (i < 0 && j < 0) f.inc.push(val);                       // none -> include
+    if (f.only) {
+      if (j >= 0) f.exc.splice(j, 1);
+      if (i >= 0) { f.inc.splice(i, 1); if (!f.inc.length) f.only = false; }
+      else f.inc.push(val);
+    } else if (i < 0 && j < 0) f.inc.push(val);                // none -> include
     else if (i >= 0) { f.inc.splice(i, 1); f.exc.push(val); }  // include -> exclude
     else f.exc.splice(j, 1);                                   // exclude -> none
     renderLimit = 240;
@@ -532,12 +570,23 @@
     var ns = cloneState(st), f = ns[key];
     var i = f.inc.indexOf(val); if (i >= 0) f.inc.splice(i, 1);
     var j = f.exc.indexOf(val); if (j >= 0) f.exc.splice(j, 1);
+    if (!f.inc.length) f.only = false;
+    renderLimit = 240;
+    navigate(browseURL(ns));
+  }
+
+  // Toggle a facet's "only" modifier. Turning it on clears that facet's
+  // excludes — they're subsumed, since nothing outside the set survives anyway.
+  function setOnly(st, key, on) {
+    var ns = cloneState(st), f = ns[key];
+    f.only = on;
+    if (on) f.exc = [];
     renderLimit = 240;
     navigate(browseURL(ns));
   }
 
   function cloneState(st) {
-    function c(f) { return { inc: f.inc.slice(), exc: f.exc.slice() }; }
+    function c(f) { return { inc: f.inc.slice(), exc: f.exc.slice(), only: !!f.only }; }
     return {
       colors: c(st.colors), features: c(st.features),
       regions: c(st.regions), types: c(st.types),
