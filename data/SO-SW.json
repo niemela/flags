@@ -1,0 +1,75 @@
+{
+  "id": "SO-SW",
+  "name": "South West State (Somalia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "SO",
+  "codes": {
+    "wikidata": "Q1136259"
+  },
+  "region": [
+    "Africa",
+    "Eastern Africa",
+    "Horn of Africa",
+    "MENA",
+    "Arab World"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the upper hoist division, the Somali blue"
+    },
+    {
+      "color": "red",
+      "symbolism": "the central diagonal band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the lower fly division"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stars"
+    }
+  ],
+  "description": "A diagonally divided flag - light blue at the upper hoist, a red diagonal band, and green at the lower fly - with a large white five-pointed star on the blue and five smaller white stars in a ring on the green.",
+  "history": "The South West State of Somalia (Koonfur Galbeed) is a federal member state in south-western Somalia, first proclaimed in 2002 and re-established in November 2014; its administrative centre is Baidoa.",
+  "periods": [
+    {
+      "start": "2002~"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/South_West_State_of_Somalia",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_South_West_State_of_Somalia.svg"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "light-blue",
+        "red",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "canton",
+      "role": "large star on the blue division"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "position": "fly",
+      "role": "five stars in a ring on the green division"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "SO-GM",
+  "name": "Galmudug (Somalia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "SO",
+  "codes": {
+    "wikidata": "Q927467"
+  },
+  "region": [
+    "Africa",
+    "Eastern Africa",
+    "Horn of Africa",
+    "MENA",
+    "Arab World"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the field, the Somali blue"
+    },
+    {
+      "color": "white",
+      "symbolism": "the hoist triangle and the central star"
+    },
+    {
+      "color": "green",
+      "symbolism": "the two stars on the hoist triangle"
+    }
+  ],
+  "description": "A light blue field with a white triangle at the hoist bearing two green five-pointed stars, and a large white five-pointed star toward the fly.",
+  "history": "Galmudug is a federal member state in central Somalia, established in 2006 and reorganised as a federal member state in 2015; its capital is Dhusamareb.",
+  "periods": [
+    {
+      "start": "2015~"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Galmudug",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Galmudug.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "white hoist triangle"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "green",
+      "position": "hoist",
+      "role": "two green stars on the hoist triangle"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "fly",
+      "role": "large central star"
+    }
+  ]
+}

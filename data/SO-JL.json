@@ -1,0 +1,69 @@
+{
+  "id": "SO-JL",
+  "name": "Jubaland (Somalia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "SO",
+  "codes": {
+    "wikidata": "Q949280"
+  },
+  "region": [
+    "Africa",
+    "Eastern Africa",
+    "Horn of Africa",
+    "MENA",
+    "Arab World"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the central band and hoist triangle, the Somali blue"
+    },
+    {
+      "color": "white",
+      "symbolism": "the lower band and the star"
+    }
+  ],
+  "description": "Three horizontal bands of green, light blue and white, with a light-blue triangle at the hoist bearing a white five-pointed star.",
+  "history": "Jubaland is a federal member state in southern Somalia, formed in its modern form in 2013 with its administrative centre at Kismayo.",
+  "periods": [
+    {
+      "start": "2013~"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jubaland",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Jubaland_(Somalia).svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "light-blue",
+        "white"
+      ],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "color": "light-blue",
+      "position": "hoist",
+      "role": "hoist triangle"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "hoist",
+      "role": "star on the hoist triangle"
+    }
+  ]
+}
