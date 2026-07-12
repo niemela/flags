@@ -1,0 +1,65 @@
+{
+  "id": "central-ethiopia",
+  "name": "Central Ethiopia Regional State (Ethiopia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "ET",
+  "codes": {
+    "wikidata": "Q122415622"
+  },
+  "region": [
+    "Africa",
+    "Eastern Africa",
+    "Horn of Africa"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lower band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the ring of stars"
+    }
+  ],
+  "description": "Three horizontal bands of green, white, and red, with a ring of ten blue five-pointed stars on the central white band.",
+  "history": "The Central Ethiopia Regional State was formed in August 2023 from several zones and special woredas of the former Southern Nations, Nationalities, and Peoples' Region; its capital is Hosaena. As a newly created region it had not yet been assigned an ISO 3166-2 code.",
+  "periods": [
+    {
+      "start": "2023"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Central_Ethiopia_Regional_State",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Central_Ethiopia_Regional_State.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "count": 10,
+      "points": 5,
+      "color": "blue",
+      "position": "center",
+      "role": "ring of stars on the central band"
+    }
+  ]
+}
