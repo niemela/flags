@@ -1,0 +1,75 @@
+{
+  "id": "MY-15",
+  "name": "Labuan (Malaysia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "MY",
+  "codes": {
+    "iso_3166_2": "MY-15",
+    "wikidata": "Q214504"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "courage, on the upper band"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity, on the middle band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "unity, on the lower band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the sovereignty of the Yang di-Pertuan Agong, on the crescent and star"
+    }
+  ],
+  "description": "Three horizontal bands of red, white, and blue, with a yellow crescent and a yellow fourteen-pointed federal star (Bintang Persekutuan) in the centre.",
+  "history": "Labuan, an island off the coast of Borneo, became a Federal Territory of Malaysia on 16 April 1984. Its flag, adopted on 31 August 1992, uses three horizontal bands of red, white and blue charged with the crescent and fourteen-pointed federal star of Malaysia, marking its federal-territory status. Its main town is Victoria.",
+  "periods": [
+    {
+      "start": "1992-08-31"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Labuan",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Labuan.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "crescent",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "symbolism": "Islam, the official religion of Malaysia"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 14,
+      "color": "yellow",
+      "position": "center",
+      "role": "Federal Star (Bintang Persekutuan)",
+      "symbolism": "the unity of the states and federal territories of Malaysia"
+    }
+  ]
+}

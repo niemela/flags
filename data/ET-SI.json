@@ -1,0 +1,74 @@
+{
+  "id": "ET-SI",
+  "name": "Sidama Region (Ethiopia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "ET",
+  "codes": {
+    "iso_3166_2": "ET-SI",
+    "wikidata": "Q1070673"
+  },
+  "region": [
+    "Africa",
+    "Eastern Africa",
+    "Horn of Africa"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the fertile highlands and agriculture of Sidama"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the central band, bearing the stars"
+    },
+    {
+      "color": "red",
+      "symbolism": "the sacrifice made in the struggle for self-administration"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace, shown in the dividing fimbriations and the stars"
+    }
+  ],
+  "description": "Three horizontal bands of green, blue, and red separated by thin white fimbriations, with a large white five-pointed star and three smaller white stars on the central blue band.",
+  "history": "Sidama became the tenth regional state of Ethiopia in 2020, after the Sidama Zone voted in a November 2019 referendum to separate from the Southern Nations, Nationalities, and Peoples' Region. Its capital is Hawassa, and the flag was adopted with the new region.",
+  "periods": [
+    {
+      "start": "2020"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sidama_Region",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Sidama.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "blue",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "role": "large white star on the blue band"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "role": "three smaller white stars on the blue band"
+    }
+  ]
+}

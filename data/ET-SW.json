@@ -1,0 +1,89 @@
+{
+  "id": "ET-SW",
+  "name": "South West Ethiopia Peoples' Region (Ethiopia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "ET",
+  "codes": {
+    "iso_3166_2": "ET-SW",
+    "wikidata": "Q109788993"
+  },
+  "region": [
+    "Africa",
+    "Eastern Africa",
+    "Horn of Africa"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field, for the land and its peoples"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the outer band of the hoist triangle"
+    },
+    {
+      "color": "white",
+      "symbolism": "peace, in the middle band of the hoist triangle"
+    },
+    {
+      "color": "red",
+      "symbolism": "the inner band of the hoist triangle"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the star of unity"
+    }
+  ],
+  "description": "A green field with a triangular pile at the hoist layered in blue, white, and red, and a yellow five-pointed star fimbriated in white toward the fly.",
+  "history": "The South West Ethiopia Peoples' Region was formed in November 2021 from five zones and one special woreda that voted in a 2021 referendum to leave the Southern Nations, Nationalities, and Peoples' Region. Its capital is Bonga, and the flag was adopted with the new region.",
+  "periods": [
+    {
+      "start": "2021"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/South_West_Ethiopia_Peoples'_Region",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_South_West_Ethiopia.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "pile",
+      "count": 1,
+      "field": "green",
+      "pile": "blue",
+      "position": "hoist",
+      "direction": "fly"
+    },
+    {
+      "type": "pile",
+      "count": 1,
+      "field": "blue",
+      "pile": "white",
+      "position": "hoist",
+      "direction": "fly"
+    },
+    {
+      "type": "pile",
+      "count": 1,
+      "field": "white",
+      "pile": "red",
+      "position": "hoist",
+      "direction": "fly"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "fly",
+      "role": "yellow star fimbriated white"
+    }
+  ]
+}
