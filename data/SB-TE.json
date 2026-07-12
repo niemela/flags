@@ -1,0 +1,76 @@
+{
+  "id": "SB-TE",
+  "name": "Temotu Province (Solomon Islands)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "SB",
+  "codes": {
+    "iso_3166_2": "SB-TE",
+    "wikidata": "Q936088"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the canton"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the diagonal stripe"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stars"
+    }
+  ],
+  "description": "A red field with a blue canton bearing five white five-pointed stars separated by a yellow diagonal stripe (echoing the national flag), and two large white stars on the fly.",
+  "history": "Temotu is the easternmost province of the Solomon Islands, comprising the Santa Cruz Islands and other outliers; established under the 1981 provincial reorganisation, its capital is Lata.",
+  "periods": [
+    {
+      "start": "1981~"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Temotu_Province",
+    "https://commons.wikimedia.org/wiki/File:Temotu_province_flag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "position": "canton",
+      "role": "blue canton with five stars and a yellow diagonal"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "position": "canton",
+      "role": "five stars in the canton"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "white",
+      "position": "fly",
+      "role": "two stars on the red field"
+    }
+  ]
+}

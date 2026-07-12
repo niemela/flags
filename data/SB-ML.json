@@ -1,0 +1,82 @@
+{
+  "id": "SB-ML",
+  "name": "Malaita Province (Solomon Islands)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "SB",
+  "codes": {
+    "iso_3166_2": "SB-ML",
+    "wikidata": "Q1190896"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central band and the stars"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the lower band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the ring around the emblem"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the frigatebird emblem"
+    }
+  ],
+  "description": "Three horizontal bands of red, white and light blue, with a central emblem of a brown frigatebird within a yellow ring bearing four white five-pointed stars.",
+  "history": "Malaita is the most populous province of the Solomon Islands, established under the 1981 provincial reorganisation; its capital is Auki. The frigatebird is a traditional Malaitan symbol.",
+  "periods": [
+    {
+      "start": "1981~"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Malaita_Province",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Malaita.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "light-blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "circle",
+      "color": "yellow",
+      "position": "center",
+      "role": "ring bearing four stars"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "role": "four stars around the ring"
+    },
+    {
+      "type": "seal",
+      "position": "center",
+      "role": "frigatebird emblem"
+    }
+  ]
+}
