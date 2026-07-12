@@ -1,0 +1,68 @@
+{
+  "id": "VU-MAP",
+  "name": "Malampa (Vanuatu)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "VU",
+  "codes": {
+    "iso_3166_2": "VU-MAP",
+    "wikidata": "Q740656"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth",
+    "Francophonie"
+  ],
+  "aspect_ratio": "10:19",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the lower hoist division"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the diagonal band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the upper fly division"
+    },
+    {
+      "color": "black",
+      "symbolism": "the outrigger canoe and the three stars"
+    }
+  ],
+  "description": "Diagonally divided green at the lower hoist and blue at the upper fly, with a broad yellow diagonal band bearing a black outrigger canoe and three black five-pointed stars for the islands of Malekula, Ambrym and Paama.",
+  "history": "Malampa is a province of Vanuatu formed in 1994, its name an acronym of its three main islands - Malekula, Ambrym and Paama - represented by the three stars.",
+  "periods": [
+    {
+      "start": "1994~"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Malampa_Province",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Malampa_Province.svg"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "black",
+      "position": "center",
+      "role": "three stars for Malekula, Ambrym and Paama"
+    }
+  ]
+}

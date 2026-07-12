@@ -1,0 +1,69 @@
+{
+  "id": "VU-SAM",
+  "name": "Sanma (Vanuatu)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "VU",
+  "codes": {
+    "iso_3166_2": "VU-SAM",
+    "wikidata": "Q740640"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth",
+    "Francophonie"
+  ],
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the nine stars"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the cogwheel"
+    }
+  ],
+  "description": "A light blue field with the national flag of Vanuatu in the canton, a yellow cogwheel at the hoist, and nine white five-pointed stars arranged in three rows toward the fly.",
+  "history": "Sanma is a province of Vanuatu comprising the islands of Espiritu Santo and Malo (from which its name derives); its capital is Luganville, the country's second-largest town.",
+  "periods": [
+    {
+      "start": "1994~"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sanma_Province",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Sanma_Province.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "circle",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "cogwheel"
+    },
+    {
+      "type": "star",
+      "count": 9,
+      "points": 5,
+      "color": "white",
+      "position": "fly",
+      "role": "nine stars in three rows"
+    },
+    {
+      "type": "seal",
+      "position": "canton",
+      "role": "national flag of Vanuatu"
+    }
+  ]
+}

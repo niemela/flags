@@ -1,0 +1,86 @@
+{
+  "id": "VU-PAM",
+  "name": "Penama (Vanuatu)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "VU",
+  "codes": {
+    "iso_3166_2": "VU-PAM",
+    "wikidata": "Q836649"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth",
+    "Francophonie"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the lower band"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "a narrow dividing stripe"
+    },
+    {
+      "color": "black",
+      "symbolism": "a narrow dividing stripe"
+    },
+    {
+      "color": "white",
+      "symbolism": "the three stars"
+    }
+  ],
+  "description": "A red band over a green band divided by narrow light-blue and black stripes, with a white star on the red band and two white stars on the green band (for the islands of Pentecost, Ambae and Maewo), and the provincial emblem in a canton at the upper hoist.",
+  "history": "Penama is a province of Vanuatu formed in 1994, its name an acronym of its three islands - Pentecost, Ambae and Maewo - represented by the three stars.",
+  "periods": [
+    {
+      "start": "1994~"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Penama_Province",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Penama_Province.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "light-blue",
+        "black",
+        "green"
+      ],
+      "count": 4
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "role": "star on the red band"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "white",
+      "position": "fly",
+      "role": "two stars on the green band"
+    },
+    {
+      "type": "seal",
+      "position": "canton",
+      "role": "provincial emblem"
+    }
+  ]
+}

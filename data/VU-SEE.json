@@ -1,0 +1,75 @@
+{
+  "id": "VU-SEE",
+  "name": "Shefa (Vanuatu)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "VU",
+  "codes": {
+    "iso_3166_2": "VU-SEE",
+    "wikidata": "Q650617"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth",
+    "Francophonie"
+  ],
+  "aspect_ratio": "3:4",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the lower band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the rising-sun disc"
+    },
+    {
+      "color": "white",
+      "symbolism": "the ring around the sun"
+    }
+  ],
+  "description": "Three horizontal bands of blue, red and green, with the national flag of Vanuatu in the canton and a large yellow disc (a rising sun) ringed in white toward the lower fly.",
+  "history": "Shefa is a province of Vanuatu comprising the Shepherd Islands and the island of Efate, home to the national capital, Port Vila.",
+  "periods": [
+    {
+      "start": "1994~"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shefa_Province",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Shefa_Province.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "circle",
+      "color": "yellow",
+      "position": "fly",
+      "role": "rising-sun disc ringed in white"
+    },
+    {
+      "type": "seal",
+      "position": "canton",
+      "role": "national flag of Vanuatu"
+    }
+  ]
+}
