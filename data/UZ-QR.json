@@ -1,0 +1,73 @@
+{
+  "id": "UZ-QR",
+  "name": "Karakalpakstan (Uzbekistan)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "UZ",
+  "codes": {
+    "iso_3166_2": "UZ-QR",
+    "wikidata": "Q484245"
+  },
+  "region": [
+    "Asia",
+    "Central Asia"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the lower band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the narrow separating stripes"
+    },
+    {
+      "color": "white",
+      "symbolism": "the crescent and stars"
+    }
+  ],
+  "description": "A horizontal triband of light blue, yellow and green separated by narrow red stripes, with a white crescent and five white stars in the upper hoist.",
+  "history": "Flag of the Republic of Karakalpakstan, an autonomous republic within Uzbekistan. The crescent and stars echo the national flag of Uzbekistan.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Karakalpakstan",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Karakalpakstan.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "red",
+        "yellow",
+        "red",
+        "green"
+      ],
+      "count": 5,
+      "role": "light blue, yellow and green bands separated by narrow red stripes"
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "canton",
+      "role": "a white crescent"
+    },
+    {
+      "type": "star",
+      "color": "white",
+      "count": 5,
+      "points": 5,
+      "position": "canton",
+      "role": "five white stars"
+    }
+  ]
+}
