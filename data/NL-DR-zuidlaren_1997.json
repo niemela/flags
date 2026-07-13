@@ -1,0 +1,64 @@
+{
+  "id": "NL-DR-zuidlaren_1997",
+  "name": "Zuidlaren (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q228666"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "green",
+      "symbolism": "central band"
+    },
+    {
+      "color": "red",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the horse"
+    }
+  ],
+  "description": "Yellow, green and red bands with a white galloping horse at the centre.",
+  "history": "A former municipality in the province of Drenthe, abolished on 1 January 1998 in the reorganisation of the province's municipalities.",
+  "periods": [
+    {
+      "end": "1997"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Zuidlaren",
+    "https://commons.wikimedia.org/wiki/File:Zuidlaren_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "horse",
+      "color": "white",
+      "position": "center",
+      "role": "a white galloping horse"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "NL-DR-odoorn_1997",
+  "name": "Odoorn (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q2694139"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "black",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the tower"
+    }
+  ],
+  "description": "Yellow over black with a red tower at the centre.",
+  "history": "A former municipality in the province of Drenthe, abolished on 1 January 1998 in the reorganisation of the province's municipalities.",
+  "periods": [
+    {
+      "end": "1997"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Odoorn",
+    "https://commons.wikimedia.org/wiki/File:Odoorn_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "black"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "center",
+      "role": "a red tower"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "NL-DR-dalen_1997",
+  "name": "Dalen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q1974246"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the eagle"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "black",
+      "symbolism": "the stripes and lettering"
+    }
+  ],
+  "description": "A yellow field with a red double-headed eagle, blue-black-blue stripes across the centre, and the name 'DALEN'.",
+  "history": "A former municipality in the province of Drenthe, abolished on 1 January 1998 in the reorganisation of the province's municipalities.",
+  "periods": [
+    {
+      "end": "1997"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Dalen",
+    "https://commons.wikimedia.org/wiki/File:Dalen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "eagle",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red double-headed eagle"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "black",
+        "blue"
+      ],
+      "count": 3,
+      "position": "center",
+      "role": "blue-black-blue stripes"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "fly",
+      "role": "the name DALEN"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "NL-DR-peize_1997",
+  "name": "Peize (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q1985729"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "white",
+      "symbolism": "central band"
+    },
+    {
+      "color": "green",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the hop-cone"
+    }
+  ],
+  "description": "Red, white and green bands with a gold hop-cone plant on the white band.",
+  "history": "A former municipality in the province of Drenthe, abolished on 1 January 1998 in the reorganisation of the province's municipalities.",
+  "periods": [
+    {
+      "end": "1997"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Peize",
+    "https://commons.wikimedia.org/wiki/File:Peize_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "flower",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold hop-cone plant"
+    }
+  ]
+}

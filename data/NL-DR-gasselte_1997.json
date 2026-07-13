@@ -1,0 +1,59 @@
+{
+  "id": "NL-DR-gasselte_1997",
+  "name": "Gasselte (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q2015118"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "green",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the ship"
+    }
+  ],
+  "description": "Yellow over green with a red sailing ship at the centre.",
+  "history": "A former municipality in the province of Drenthe, abolished on 1 January 1998 in the reorganisation of the province's municipalities.",
+  "periods": [
+    {
+      "end": "1997"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Gasselte",
+    "https://commons.wikimedia.org/wiki/File:Gasselte_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "ship",
+      "color": "red",
+      "position": "center",
+      "role": "a red sailing ship"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "NL-DR-vries_1997",
+  "name": "Vries (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q501788"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the central band"
+    }
+  ],
+  "description": "A white field with a red band bearing three white four-pointed stars.",
+  "history": "A former municipality in the province of Drenthe, abolished on 1 January 1998 in the reorganisation of the province's municipalities.",
+  "periods": [
+    {
+      "end": "1997"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Vries",
+    "https://commons.wikimedia.org/wiki/File:Vries_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "color": "white",
+      "count": 3,
+      "points": 4,
+      "position": "center",
+      "role": "three white four-pointed stars on the red band"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "NL-DR-eelde_1997",
+  "name": "Eelde (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q51208859"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the cross"
+    },
+    {
+      "color": "red",
+      "symbolism": "the edging and tower"
+    },
+    {
+      "color": "black",
+      "symbolism": "the roundel"
+    }
+  ],
+  "description": "A yellow field with a blue cross edged red, and a black roundel bearing a red tower at the upper hoist.",
+  "history": "A former municipality in the province of Drenthe, abolished on 1 January 1998 in the reorganisation of the province's municipalities.",
+  "periods": [
+    {
+      "end": "1997"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Eelde",
+    "https://commons.wikimedia.org/wiki/File:Eelde_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "greek-cross",
+      "color": "blue",
+      "fimbriation": [
+        {
+          "color": "red"
+        }
+      ],
+      "role": "a blue cross edged red"
+    },
+    {
+      "type": "circle",
+      "color": "black",
+      "position": "canton",
+      "role": "a black roundel"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "canton",
+      "role": "a red tower on the roundel"
+    }
+  ]
+}

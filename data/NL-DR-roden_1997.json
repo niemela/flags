@@ -1,0 +1,83 @@
+{
+  "id": "NL-DR-roden_1997",
+  "name": "Roden (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q2405988"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the vertical bar"
+    },
+    {
+      "color": "red",
+      "symbolism": "the horizontal bar and castle"
+    },
+    {
+      "color": "black",
+      "symbolism": "the fir tree"
+    }
+  ],
+  "description": "A yellow field with a blue vertical bar and red horizontal bar forming a cross, a black fir tree at the upper hoist and a red castle.",
+  "history": "A former municipality in the province of Drenthe, abolished on 1 January 1998 in the reorganisation of the province's municipalities.",
+  "periods": [
+    {
+      "end": "1997"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Roden",
+    "https://commons.wikimedia.org/wiki/File:Roden_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a blue vertical bar"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a red horizontal bar"
+    },
+    {
+      "type": "tree",
+      "color": "black",
+      "position": "canton",
+      "role": "a black fir tree"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red castle"
+    }
+  ]
+}

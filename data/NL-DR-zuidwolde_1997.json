@@ -1,0 +1,75 @@
+{
+  "id": "NL-DR-zuidwolde_1997",
+  "name": "Zuidwolde (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q2754055"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the cross"
+    },
+    {
+      "color": "red",
+      "symbolism": "the edging"
+    },
+    {
+      "color": "black",
+      "symbolism": "the eagle"
+    }
+  ],
+  "description": "A yellow field with a green cross edged red, a black eagle at the upper hoist and a green oak leaf at the lower hoist.",
+  "history": "A former municipality in the province of Drenthe, abolished on 1 January 1998 in the reorganisation of the province's municipalities.",
+  "periods": [
+    {
+      "end": "1997"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Zuidwolde",
+    "https://commons.wikimedia.org/wiki/File:Zuidwolde_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "greek-cross",
+      "color": "green",
+      "fimbriation": [
+        {
+          "color": "red"
+        }
+      ],
+      "role": "a green cross edged red"
+    },
+    {
+      "type": "eagle",
+      "color": "black",
+      "position": "canton",
+      "role": "a black eagle"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "hoist",
+      "role": "a green oak leaf"
+    }
+  ]
+}

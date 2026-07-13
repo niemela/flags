@@ -1,0 +1,65 @@
+{
+  "id": "NL-DR-rolde_1997",
+  "name": "Rolde (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q2182709"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "red",
+      "symbolism": "lower band and cross"
+    },
+    {
+      "color": "white",
+      "symbolism": "the sword"
+    }
+  ],
+  "description": "Yellow over red with a red cross on the yellow and a silver sword on the red.",
+  "history": "A former municipality in the province of Drenthe, abolished on 1 January 1998 in the reorganisation of the province's municipalities.",
+  "periods": [
+    {
+      "end": "1997"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Rolde",
+    "https://commons.wikimedia.org/wiki/File:Rolde_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "top",
+      "role": "a red cross on the yellow"
+    },
+    {
+      "type": "sword",
+      "color": "white",
+      "position": "bottom",
+      "role": "a silver sword on the red"
+    }
+  ]
+}

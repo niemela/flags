@@ -1,0 +1,75 @@
+{
+  "id": "NL-DR-smilde_1997",
+  "name": "Smilde (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q2165973"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "black",
+      "symbolism": "the bird"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the waves"
+    }
+  ],
+  "description": "A barry of white and red with a black bird over blue-and-white waves at the upper hoist.",
+  "history": "A former municipality in the province of Drenthe, abolished on 1 January 1998 in the reorganisation of the province's municipalities.",
+  "periods": [
+    {
+      "end": "1997"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Smilde",
+    "https://commons.wikimedia.org/wiki/File:Smilde_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 7,
+      "role": "barry of white and red"
+    },
+    {
+      "type": "bird",
+      "color": "black",
+      "position": "canton",
+      "role": "a black bird"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "canton",
+      "role": "blue and white waves"
+    }
+  ]
+}
