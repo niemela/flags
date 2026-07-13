@@ -1,0 +1,54 @@
+{
+  "id": "NL-OV-enschede",
+  "name": "Enschede (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q10002"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the central band"
+    }
+  ],
+  "description": "A white field with a red horizontal band bearing a white knot-like device.",
+  "history": "Flag of the municipality of Enschede in the province of Overijssel, the largest city of the Twente region.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Enschede",
+    "https://commons.wikimedia.org/wiki/File:Vlag_stad_Enschede.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a red band across the centre"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "a white knot-like device on the red band"
+    }
+  ]
+}

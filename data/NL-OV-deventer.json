@@ -1,0 +1,53 @@
+{
+  "id": "NL-OV-deventer",
+  "name": "Deventer (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q10001"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lower band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the eagle"
+    }
+  ],
+  "description": "White over red, charged in the centre with a black double-headed imperial eagle.",
+  "history": "Flag of the municipality of Deventer in the province of Overijssel, a former Hanseatic and imperial city.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Deventer",
+    "https://commons.wikimedia.org/wiki/File:Deventer_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "eagle",
+      "color": "black",
+      "position": "center",
+      "role": "a black double-headed imperial eagle"
+    }
+  ]
+}

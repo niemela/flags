@@ -1,0 +1,45 @@
+{
+  "id": "NL-OV-tubbergen",
+  "name": "Tubbergen (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q10023"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the mounds"
+    }
+  ],
+  "description": "A blue field with three gold mounds (hills).",
+  "history": "Flag of the municipality of Tubbergen in the province of Overijssel.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Tubbergen",
+    "https://commons.wikimedia.org/wiki/File:Tubbergen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "mountain",
+      "color": "yellow",
+      "count": 3,
+      "role": "three gold mounds"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "NL-OV-wierden",
+  "name": "Wierden (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q10025"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the cross"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wheat and the clog"
+    }
+  ],
+  "description": "A white field with an off-centre blue cross, a gold ear of wheat at the upper hoist and a gold clog at the lower hoist.",
+  "history": "Flag of the municipality of Wierden in the province of Overijssel.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Wierden",
+    "https://commons.wikimedia.org/wiki/File:Wierden_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "nordic-cross",
+      "color": "blue",
+      "role": "an off-centre blue cross"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "canton",
+      "role": "a gold ear of wheat (upper hoist)"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold clog at the lower hoist"
+    }
+  ]
+}

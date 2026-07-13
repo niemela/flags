@@ -1,0 +1,64 @@
+{
+  "id": "NL-OV-hellendoorn",
+  "name": "Hellendoorn (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q10005"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central band and the stag"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the lower band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the canton"
+    }
+  ],
+  "description": "Three horizontal bands of red, yellow and blue, with a green canton bearing a gold stag beside a tree.",
+  "history": "Flag of the municipality of Hellendoorn in the province of Overijssel.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Hellendoorn",
+    "https://commons.wikimedia.org/wiki/File:Hellendoorn_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "canton",
+      "color": "green",
+      "position": "canton",
+      "role": "a green canton"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "canton",
+      "role": "a gold stag beside a tree"
+    }
+  ]
+}

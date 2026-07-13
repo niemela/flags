@@ -1,0 +1,51 @@
+{
+  "id": "NL-OV-staphorst",
+  "name": "Staphorst (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q10021"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the outer bands and the churches"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the central band"
+    }
+  ],
+  "description": "A blue field between yellow bands, charged with three gold churches.",
+  "history": "Flag of the municipality of Staphorst in the province of Overijssel.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Staphorst",
+    "https://commons.wikimedia.org/wiki/File:Staphorst_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "count": 3,
+      "position": "center",
+      "role": "three gold churches"
+    }
+  ]
+}

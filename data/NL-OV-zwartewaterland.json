@@ -1,0 +1,57 @@
+{
+  "id": "NL-OV-zwartewaterland",
+  "name": "Zwartewaterland (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q10026"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "orange",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the lower band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the checkered band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the checkered band"
+    }
+  ],
+  "description": "Orange over blue with a red-and-white checkered band across the centre.",
+  "history": "Flag of the municipality of Zwartewaterland in the province of Overijssel, formed in 2001.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Zwartewaterland",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Zwartewaterland.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "orange",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "chequy",
+      "color": "red",
+      "position": "center",
+      "role": "a red-and-white checkered band"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "NL-OV-haaksbergen",
+  "name": "Haaksbergen (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q10003"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the lower band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the star"
+    }
+  ],
+  "description": "Red over blue, charged with a large inverted gold five-pointed star.",
+  "history": "Flag of the municipality of Haaksbergen in the province of Overijssel.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Haaksbergen",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Haaksbergen.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "count": 1,
+      "points": 5,
+      "position": "center",
+      "role": "a large inverted gold star"
+    }
+  ]
+}
