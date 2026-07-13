@@ -1,0 +1,57 @@
+{
+  "id": "NL-GE-hengelo_2004",
+  "name": "Hengelo (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q1605184"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the pile and figure"
+    }
+  ],
+  "description": "A blue field with a white pile at the fly and a white figure bearing grapes.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 2004 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2004"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Hengelo",
+    "https://commons.wikimedia.org/wiki/File:Hengelo,_Gelderland_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "fly",
+      "role": "a white pile at the fly"
+    },
+    {
+      "type": "human-figure",
+      "color": "white",
+      "position": "center",
+      "role": "a white figure bearing grapes"
+    }
+  ]
+}

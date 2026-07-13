@@ -1,0 +1,66 @@
+{
+  "id": "NL-FR-ferwert_1815",
+  "name": "Ferwert (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q924547"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the cross"
+    },
+    {
+      "color": "red",
+      "symbolism": "the canton"
+    }
+  ],
+  "description": "A yellow field with a blue cross and a red canton bearing a gold star.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Ferwert",
+    "https://commons.wikimedia.org/wiki/File:Ferwert_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "nordic-cross",
+      "color": "blue",
+      "role": "a blue cross"
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red canton"
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "position": "canton",
+      "role": "a gold star"
+    }
+  ]
+}

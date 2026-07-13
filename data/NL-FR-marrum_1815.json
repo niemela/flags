@@ -1,0 +1,72 @@
+{
+  "id": "NL-FR-marrum_1815",
+  "name": "Marrum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2304407"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the triangles"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lozenge"
+    },
+    {
+      "color": "black",
+      "symbolism": "the birds"
+    }
+  ],
+  "description": "A blue field with green triangles at the corners and a gold lozenge bearing two black birds.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Marrum",
+    "https://commons.wikimedia.org/wiki/File:Marrum_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "count": 2,
+      "role": "green triangles at the corners"
+    },
+    {
+      "type": "lozenge",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold lozenge"
+    },
+    {
+      "type": "bird",
+      "color": "black",
+      "count": 2,
+      "position": "center",
+      "role": "two black birds"
+    }
+  ]
+}

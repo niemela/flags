@@ -1,0 +1,65 @@
+{
+  "id": "NL-OV-holten_2000",
+  "name": "Holten (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q3112138"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "red",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the star and boar"
+    }
+  ],
+  "description": "Per pale green and red with a gold star at the hoist and a gold boar's head at the fly.",
+  "history": "A former municipality in the province of Overijssel, dissolved at the end of 2000 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2000"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Holten",
+    "https://commons.wikimedia.org/wiki/File:Holten_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold star"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "fly",
+      "role": "a gold boar's head"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "NL-FR-balk_1816",
+  "name": "Balk (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2240991"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "green",
+      "symbolism": "the band and tree"
+    }
+  ],
+  "description": "A red hoist with a gold star, a green band, and a green tree on yellow.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Balk",
+    "https://commons.wikimedia.org/wiki/File:Balk_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold star"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a green band"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "top",
+      "role": "a green tree"
+    }
+  ]
+}

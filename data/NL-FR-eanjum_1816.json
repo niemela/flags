@@ -1,0 +1,67 @@
+{
+  "id": "NL-FR-eanjum_1816",
+  "name": "Eanjum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q551562"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "green",
+      "symbolism": "the charge"
+    },
+    {
+      "color": "red",
+      "symbolism": "the charge centre"
+    }
+  ],
+  "description": "A white field with blue diagonal stripes and a green star-charge at the hoist.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Eanjum",
+    "https://commons.wikimedia.org/wiki/File:Anjum_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "role": "blue diagonal stripes"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "hoist",
+      "role": "a green star-charge with a red centre"
+    }
+  ]
+}

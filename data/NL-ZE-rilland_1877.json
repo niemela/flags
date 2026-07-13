@@ -1,0 +1,53 @@
+{
+  "id": "NL-ZE-rilland_1877",
+  "name": "Rilland (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q1815745"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the bend"
+    }
+  ],
+  "description": "A black field with a white diagonal band.",
+  "history": "A former municipality in the province of Zeeland, dissolved at the end of 1877 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1877"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Rilland",
+    "https://commons.wikimedia.org/wiki/File:Vlag_Rilland.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "black"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "role": "a white bend"
+    }
+  ]
+}

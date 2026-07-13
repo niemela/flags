@@ -1,0 +1,70 @@
+{
+  "id": "NL-FR-dronryp_1816",
+  "name": "Dronryp (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q578267"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "white",
+      "symbolism": "the church and stripes"
+    },
+    {
+      "color": "orange",
+      "symbolism": "the stripes"
+    }
+  ],
+  "description": "A green hoist bearing a white church, and an orange-and-white striped fly.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Dronryp",
+    "https://commons.wikimedia.org/wiki/File:Dronryp_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "side",
+      "color": "green",
+      "position": "hoist",
+      "role": "a green hoist"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white church"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "orange",
+        "white",
+        "orange",
+        "white",
+        "orange"
+      ],
+      "count": 5,
+      "position": "fly",
+      "role": "orange and white stripes"
+    }
+  ]
+}

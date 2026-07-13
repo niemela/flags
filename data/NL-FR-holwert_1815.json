@@ -1,0 +1,69 @@
+{
+  "id": "NL-FR-holwert_1815",
+  "name": "Holwert (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q611277"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the upper field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lower field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the wings"
+    },
+    {
+      "color": "red",
+      "symbolism": "the caduceus"
+    }
+  ],
+  "description": "Blue over yellow with white wings and a red caduceus.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Holwert",
+    "https://commons.wikimedia.org/wiki/File:Holwerd_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "top",
+      "role": "white wings"
+    },
+    {
+      "type": "serpent",
+      "color": "red",
+      "position": "center",
+      "role": "a red caduceus"
+    }
+  ]
+}

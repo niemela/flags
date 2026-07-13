@@ -1,0 +1,66 @@
+{
+  "id": "NL-GR-eenrum_1989",
+  "name": "Eenrum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q2573259"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "red",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the star"
+    }
+  ],
+  "description": "A blue field with white stripes and a red central band bearing a gold star.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 1989 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1989"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Eenrum",
+    "https://commons.wikimedia.org/wiki/File:Eenrum_flag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 5
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold star"
+    }
+  ]
+}

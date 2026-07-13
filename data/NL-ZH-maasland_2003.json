@@ -1,0 +1,60 @@
+{
+  "id": "NL-ZH-maasland_2003",
+  "name": "Maasland (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q1055703"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the pale"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the charge"
+    }
+  ],
+  "description": "A green field with a white pale bearing a blue charge.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2003 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2003"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Maasland",
+    "https://commons.wikimedia.org/wiki/File:Maasland_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "a blue charge"
+    }
+  ]
+}

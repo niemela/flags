@@ -1,0 +1,74 @@
+{
+  "id": "NL-FR-sint-jacobiparochie_1816",
+  "name": "Sint Jacobiparochie (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2367586"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "white",
+      "symbolism": "the shells"
+    },
+    {
+      "color": "red",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stripes"
+    }
+  ],
+  "description": "A blue triangle at the hoist bearing three white shells, and a red-and-yellow striped fly.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Sint_Jacobiparochie",
+    "https://commons.wikimedia.org/wiki/File:Sint-Jabik_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue triangle at the hoist"
+    },
+    {
+      "type": "shell",
+      "color": "white",
+      "count": 3,
+      "position": "hoist",
+      "role": "three white shells"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 4,
+      "position": "fly",
+      "role": "red and yellow stripes"
+    }
+  ]
+}

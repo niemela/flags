@@ -1,0 +1,79 @@
+{
+  "id": "NL-ZH-bleskensgraaf-en-hofwegen_1985",
+  "name": "Bleskensgraaf en Hofwegen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q883881"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the hoist and arrowhead"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lion"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the band"
+    }
+  ],
+  "description": "A yellow field with a red hoist bearing a gold lion, a red arrowhead, and a blue band.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 1985 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1985"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Bleskensgraaf_en_Hofwegen",
+    "https://commons.wikimedia.org/wiki/File:Bleskensgraaf_en_Hofwegen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "side",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red hoist"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold lion"
+    },
+    {
+      "type": "arrowhead",
+      "color": "red",
+      "role": "a red arrowhead"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a blue band"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "NL-ZH-rijnsburg_2005",
+  "name": "Rijnsburg (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q1615333"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the tower and base"
+    }
+  ],
+  "description": "A white field with a red tower and a red band at the base.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2005 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2005"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Rijnsburg",
+    "https://commons.wikimedia.org/wiki/File:Rijnsburg_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "center",
+      "role": "a red tower"
+    }
+  ]
+}

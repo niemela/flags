@@ -1,0 +1,57 @@
+{
+  "id": "NL-FR-aldeboarn_1815",
+  "name": "Aldeboarn (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q1982962"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the boar and fly band"
+    }
+  ],
+  "description": "A red field with a gold boar's head and a gold band at the fly.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Aldeboarn",
+    "https://commons.wikimedia.org/wiki/File:Aldeboarn_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold boar's head"
+    },
+    {
+      "type": "side",
+      "color": "yellow",
+      "position": "fly",
+      "role": "a gold band at the fly"
+    }
+  ]
+}

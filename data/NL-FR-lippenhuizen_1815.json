@@ -1,0 +1,70 @@
+{
+  "id": "NL-FR-lippenhuizen_1815",
+  "name": "Lippenhuizen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2478279"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bee and stripes"
+    },
+    {
+      "color": "red",
+      "symbolism": "the stripes"
+    }
+  ],
+  "description": "A green hoist with a gold bee and a red-and-yellow striped fly.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Lippenhuizen",
+    "https://commons.wikimedia.org/wiki/File:Lippenhuzen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "side",
+      "color": "green",
+      "position": "hoist",
+      "role": "a green hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold bee"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 5,
+      "position": "fly",
+      "role": "red and yellow stripes"
+    }
+  ]
+}

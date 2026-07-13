@@ -1,0 +1,63 @@
+{
+  "id": "NL-GE-groenlo_2006",
+  "name": "Groenlo (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q72991"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lion"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stripe"
+    }
+  ],
+  "description": "A green field with a gold lion and a white stripe.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 2006 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2006"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Groenlo",
+    "https://commons.wikimedia.org/wiki/File:Groenlo_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "role": "a white stripe"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold lion"
+    }
+  ]
+}

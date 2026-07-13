@@ -1,0 +1,67 @@
+{
+  "id": "NL-DR-ruinen_1997",
+  "name": "Ruinen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q1007156"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the outer bands"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "black",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the roses"
+    }
+  ],
+  "description": "Red and yellow bands with a black central band bearing three white roses.",
+  "history": "A former municipality in the province of Drenthe, dissolved at the end of 1997 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1997"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Ruinen",
+    "https://commons.wikimedia.org/wiki/File:Ruinen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "black",
+        "yellow",
+        "red"
+      ],
+      "count": 5
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "count": 3,
+      "position": "center",
+      "role": "three white roses"
+    }
+  ]
+}

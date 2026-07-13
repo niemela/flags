@@ -1,0 +1,60 @@
+{
+  "id": "NL-FR-kollum_1816",
+  "name": "Kollum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2204204"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the lower band"
+    }
+  ],
+  "description": "A horizontal tricolour of red, yellow and green with a red star on the yellow.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Kollum",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Kollum.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "color": "red",
+      "position": "center",
+      "role": "a red star"
+    }
+  ]
+}

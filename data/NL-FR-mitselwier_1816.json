@@ -1,0 +1,63 @@
+{
+  "id": "NL-FR-mitselwier_1816",
+  "name": "Mitselwier (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q929981"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the star"
+    },
+    {
+      "color": "white",
+      "symbolism": "the band"
+    }
+  ],
+  "description": "A blue field with a gold star at the upper hoist and a white diagonal band.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Mitselwier",
+    "https://commons.wikimedia.org/wiki/File:Metslawier_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "position": "canton",
+      "role": "a gold star"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "role": "a white bend"
+    }
+  ]
+}

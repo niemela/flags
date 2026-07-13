@@ -1,0 +1,75 @@
+{
+  "id": "NL-NB-erp_1993",
+  "name": "Erp (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q3057422"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the fly and charges"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the dragon"
+    },
+    {
+      "color": "red",
+      "symbolism": "the star"
+    }
+  ],
+  "description": "Per pale yellow and blue with a blue key and lion at the hoist and a gold dragon at the fly.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1993 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1993"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Erp",
+    "https://commons.wikimedia.org/wiki/File:Erp_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "key",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue key"
+    },
+    {
+      "type": "lion",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue lion"
+    },
+    {
+      "type": "dragon",
+      "color": "yellow",
+      "position": "fly",
+      "role": "a gold dragon"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "NL-GE-gendt_2000",
+  "name": "Gendt (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q171237"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the upper hoist"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lower fly and tower"
+    }
+  ],
+  "description": "Divided per bend blue and yellow with a gold tower at the centre.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 2000 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2000"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Gendt",
+    "https://commons.wikimedia.org/wiki/File:Gendt_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2,
+      "role": "per bend blue and yellow"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold tower"
+    }
+  ]
+}

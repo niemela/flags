@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="400" viewBox="0 0 360 240"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<path id="nebuly" d="M -15,90
+ c -12,-40 42,-40 30,0 s 42,40 30,0
+ 42,-40 30,0 42,40 30,0
+ 42,-40 30,0 42,40 30,0
+ 42,-40 30,0 42,40 30,0
+ 42,-40 30,0 42,40 30,0
+ 42,-40 30,0 42,40 30,0
+ 42,-40 30,0
+V181 H0"/>
+</defs>
+<rect width="360" height="240" fill="#fff"/>
+<use fill="#cc112f" xlink:href="#nebuly"/>
+<use y="60" fill="#fff" xlink:href="#nebuly"/>
+</svg>

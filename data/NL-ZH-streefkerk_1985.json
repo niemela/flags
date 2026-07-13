@@ -1,0 +1,62 @@
+{
+  "id": "NL-ZH-streefkerk_1985",
+  "name": "Streefkerk (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q959585"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the wavy band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the fleurs-de-lis"
+    }
+  ],
+  "description": "A yellow field with a blue wavy band bearing two white fleurs-de-lis.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 1985 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1985"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Streefkerk",
+    "https://commons.wikimedia.org/wiki/File:Streefkerk_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "role": "a blue wavy band"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "count": 2,
+      "position": "center",
+      "role": "two white fleurs-de-lis"
+    }
+  ]
+}

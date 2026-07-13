@@ -1,0 +1,71 @@
+{
+  "id": "NL-FR-boazum_1816",
+  "name": "Boazum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2272748"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the triangles"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the lozenge"
+    },
+    {
+      "color": "white",
+      "symbolism": "the ram"
+    }
+  ],
+  "description": "A yellow field with green triangles at the corners and a blue lozenge bearing a white ram.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Boazum",
+    "https://commons.wikimedia.org/wiki/File:Boazum_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "count": 2,
+      "role": "green triangles at the corners"
+    },
+    {
+      "type": "lozenge",
+      "color": "blue",
+      "position": "center",
+      "role": "a blue lozenge"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "center",
+      "role": "a white ram"
+    }
+  ]
+}

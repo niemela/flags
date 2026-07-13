@@ -1,0 +1,61 @@
+{
+  "id": "NL-ZH-schoonrewoerd_1985",
+  "name": "Schoonrewoerd (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q3113902"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the crown and edges"
+    }
+  ],
+  "description": "A red field with gold-edged bands and a blue band bearing a gold crown at the hoist.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 1985 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1985"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Schoonrewoerd",
+    "https://commons.wikimedia.org/wiki/File:Schoonrewoerd_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue",
+        "red"
+      ],
+      "count": 3,
+      "role": "a blue band on red"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold crown"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "NL-FR-eastersee_1815",
+  "name": "Eastersee (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q3182740"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "green",
+      "symbolism": "a band"
+    },
+    {
+      "color": "white",
+      "symbolism": "a band"
+    },
+    {
+      "color": "black",
+      "symbolism": "a band"
+    }
+  ],
+  "description": "A blue hoist and a fly of green, white and black bands.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Eastersee",
+    "https://commons.wikimedia.org/wiki/File:Oosterzee_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "side",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "black"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "green, white and black bands"
+    }
+  ]
+}

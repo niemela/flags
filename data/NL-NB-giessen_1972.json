@@ -1,0 +1,53 @@
+{
+  "id": "NL-NB-giessen_1972",
+  "name": "Giessen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q3031001"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the wavy band"
+    }
+  ],
+  "description": "A white field with a red wavy diagonal band.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1972 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1972"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Giessen",
+    "https://commons.wikimedia.org/wiki/File:Giessen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "role": "a red wavy bend"
+    }
+  ]
+}

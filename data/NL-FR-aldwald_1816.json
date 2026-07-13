@@ -1,0 +1,64 @@
+{
+  "id": "NL-FR-aldwald_1816",
+  "name": "Aldwâld (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q3030184"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the checkers"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the band"
+    }
+  ],
+  "description": "A yellow field with a green-and-yellow checkered hoist and a blue band.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Aldwâld",
+    "https://commons.wikimedia.org/wiki/File:Aldwâld_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "chequy",
+      "color": "green",
+      "position": "hoist",
+      "role": "a green-and-yellow checkered hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a blue band"
+    }
+  ]
+}

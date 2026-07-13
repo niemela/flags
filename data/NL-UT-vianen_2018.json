@@ -1,0 +1,65 @@
+{
+  "id": "NL-UT-vianen_2018",
+  "name": "Vianen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q10052"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the chief"
+    },
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the base"
+    },
+    {
+      "color": "black",
+      "symbolism": "the charges"
+    }
+  ],
+  "description": "A white field with a yellow chief and a red base, and four black charges at the hoist.",
+  "history": "A former municipality in the province of Utrecht, dissolved at the end of 2018 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2018"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Vianen",
+    "https://commons.wikimedia.org/wiki/File:Vianen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "count": 4,
+      "position": "hoist",
+      "role": "four black charges"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "NL-DR-ruinerwold_1997",
+  "name": "Ruinerwold (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q2215451"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "black",
+      "symbolism": "the band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the roses and lozenges"
+    }
+  ],
+  "description": "A red hoist with white lozenges and a yellow fly with a black band bearing three white roses.",
+  "history": "A former municipality in the province of Drenthe, dissolved at the end of 1997 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1997"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Ruinerwold",
+    "https://commons.wikimedia.org/wiki/File:Ruinerwold_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "side",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red hoist"
+    },
+    {
+      "type": "lozenge",
+      "color": "white",
+      "position": "hoist",
+      "role": "white lozenges"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "a black band"
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "count": 3,
+      "position": "fly",
+      "role": "three white roses"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "NL-ZH-noordeloos_1985",
+  "name": "Noordeloos (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q1866380"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the bars"
+    },
+    {
+      "color": "green",
+      "symbolism": "the hoist"
+    }
+  ],
+  "description": "A white field with red bars and a green hoist section.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 1985 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1985"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Noordeloos",
+    "https://commons.wikimedia.org/wiki/File:Vlag_van_Noordeloos.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 5
+    },
+    {
+      "type": "side",
+      "color": "green",
+      "position": "hoist",
+      "role": "a green hoist section"
+    }
+  ]
+}

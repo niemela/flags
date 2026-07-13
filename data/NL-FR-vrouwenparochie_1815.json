@@ -1,0 +1,76 @@
+{
+  "id": "NL-FR-vrouwenparochie_1815",
+  "name": "Vrouwenparochie (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2757895"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the triangle"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fleur-de-lis"
+    },
+    {
+      "color": "black",
+      "symbolism": "the band"
+    }
+  ],
+  "description": "A red field with white stripes, a blue triangle at the hoist bearing a gold fleur-de-lis, and a black band.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Vrouwenparochie",
+    "https://commons.wikimedia.org/wiki/File:Froubuorren_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "black",
+        "white",
+        "red"
+      ],
+      "count": 5
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue triangle at the hoist"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold fleur-de-lis"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "NL-FR-hallum_1816",
+  "name": "Hallum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2594230"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the charges"
+    },
+    {
+      "color": "black",
+      "symbolism": "a band"
+    },
+    {
+      "color": "red",
+      "symbolism": "a band"
+    },
+    {
+      "color": "green",
+      "symbolism": "a band"
+    }
+  ],
+  "description": "A blue hoist bearing gold stars and a tower, and a fly of black, yellow, red, green and black bands.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Hallum",
+    "https://commons.wikimedia.org/wiki/File:Vlag_Hallum.svg"
+  ],
+  "features": [
+    {
+      "type": "side",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue hoist"
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "count": 3,
+      "position": "hoist",
+      "role": "gold stars"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold tower"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "yellow",
+        "red",
+        "green",
+        "black"
+      ],
+      "count": 5,
+      "position": "fly",
+      "role": "black, yellow, red, green and black bands"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "NL-LI-tegelen_2000",
+  "name": "Tegelen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q1019522"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the upper hoist"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lower fly"
+    },
+    {
+      "color": "black",
+      "symbolism": "the lion"
+    }
+  ],
+  "description": "Per bend yellow and red with a black lion.",
+  "history": "A former municipality in the province of Limburg, dissolved at the end of 2000 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2000"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Tegelen",
+    "https://commons.wikimedia.org/wiki/File:Tegelen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2,
+      "role": "per bend yellow and red"
+    },
+    {
+      "type": "lion",
+      "color": "black",
+      "position": "center",
+      "role": "a black lion"
+    }
+  ]
+}

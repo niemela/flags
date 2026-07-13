@@ -1,0 +1,59 @@
+{
+  "id": "NL-LI-amstenrade_1981",
+  "name": "Amstenrade (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q2844505"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the chief"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the base"
+    },
+    {
+      "color": "green",
+      "symbolism": "the skyline"
+    }
+  ],
+  "description": "A red chief over yellow with a green castle skyline.",
+  "history": "A former municipality in the province of Limburg, dissolved at the end of 1981 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1981"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Amstenrade",
+    "https://commons.wikimedia.org/wiki/File:Flag_Amsterade.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "green",
+      "position": "center",
+      "role": "a green castle skyline"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "NL-GE-didam_2004",
+  "name": "Didam (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q1210428"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the base"
+    },
+    {
+      "color": "white",
+      "symbolism": "the panel"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lion"
+    }
+  ],
+  "description": "A yellow field with a red lion in a white panel at the upper hoist and a black base.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 2004 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2004"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Didam",
+    "https://commons.wikimedia.org/wiki/File:Didam_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "black"
+      ],
+      "count": 2
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white panel"
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "canton",
+      "role": "a red lion"
+    }
+  ]
+}

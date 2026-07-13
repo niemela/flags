@@ -1,0 +1,57 @@
+{
+  "id": "NL-GE-bennekom_1817",
+  "name": "Bennekom (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q2281003"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the columns and charge"
+    }
+  ],
+  "description": "A yellow field with two blue columns and a blue central charge.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 1817 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1817"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Bennekom",
+    "https://commons.wikimedia.org/wiki/File:Bennekom_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "count": 2,
+      "role": "two blue columns"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "a blue central charge"
+    }
+  ]
+}

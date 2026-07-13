@@ -1,0 +1,57 @@
+{
+  "id": "NL-FR-stiens_1816",
+  "name": "Stiens (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q1915794"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stripes and tower"
+    }
+  ],
+  "description": "A bendy field of black and yellow with a gold tower at the centre.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Stiens",
+    "https://commons.wikimedia.org/wiki/File:Vlag_Stiens.svg"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "yellow",
+        "black",
+        "yellow",
+        "black"
+      ],
+      "count": 4
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold tower"
+    }
+  ]
+}

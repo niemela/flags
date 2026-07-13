@@ -1,0 +1,71 @@
+{
+  "id": "NL-FR-jorwert_1815",
+  "name": "Jorwert (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q372249"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "white",
+      "symbolism": "the lozenges"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the band"
+    }
+  ],
+  "description": "A red hoist with three white lozenges and a yellow fly with a blue bar.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Jorwert",
+    "https://commons.wikimedia.org/wiki/File:Jorwert_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "side",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red hoist"
+    },
+    {
+      "type": "lozenge",
+      "color": "white",
+      "count": 3,
+      "position": "hoist",
+      "role": "three white lozenges"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "a blue bar on the yellow fly"
+    }
+  ]
+}

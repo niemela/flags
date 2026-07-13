@@ -1,0 +1,60 @@
+{
+  "id": "NL-UT-loosdrecht_2001",
+  "name": "Loosdrecht (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q93485"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the saltire"
+    },
+    {
+      "color": "black",
+      "symbolism": "the saltire"
+    }
+  ],
+  "description": "A white field with a red-and-black checkered saltire.",
+  "history": "A former municipality in the province of Utrecht, dissolved at the end of 2001 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1819",
+      "end": "2001"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Loosdrecht",
+    "https://commons.wikimedia.org/wiki/File:Loosdrecht_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "saltire",
+      "color": "red",
+      "fimbriation": [
+        {
+          "color": "black"
+        }
+      ],
+      "role": "a red-and-black checkered saltire"
+    }
+  ]
+}

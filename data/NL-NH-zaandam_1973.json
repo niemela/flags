@@ -1,0 +1,74 @@
+{
+  "id": "NL-NH-zaandam_1973",
+  "name": "Zaandam (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q211260"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "black",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "red",
+      "symbolism": "the canton"
+    },
+    {
+      "color": "white",
+      "symbolism": "the canton"
+    }
+  ],
+  "description": "A field of blue, yellow and black stripes with a red-and-white canton at the upper hoist.",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 1973 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1973"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Zaandam",
+    "https://commons.wikimedia.org/wiki/File:Zaandam_vlag_1938-1974.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "black",
+        "blue",
+        "yellow",
+        "black",
+        "blue",
+        "yellow",
+        "black"
+      ],
+      "count": 9
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red-and-white canton"
+    }
+  ]
+}

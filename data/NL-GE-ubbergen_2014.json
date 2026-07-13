@@ -1,0 +1,53 @@
+{
+  "id": "NL-GE-ubbergen_2014",
+  "name": "Ubbergen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q369813"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the bend"
+    }
+  ],
+  "description": "A yellow field with a red diagonal band.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 2014 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2014"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Ubbergen",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Ubbergen.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "role": "a red bend"
+    }
+  ]
+}

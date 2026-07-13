@@ -1,0 +1,61 @@
+{
+  "id": "NL-GR-zuidhorn_2018",
+  "name": "Zuidhorn (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q210234"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the arrowheads"
+    },
+    {
+      "color": "white",
+      "symbolism": "the zigzag"
+    }
+  ],
+  "description": "A light blue field with green arrowheads and a white zigzag.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 2018 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2018"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Zuidhorn",
+    "https://commons.wikimedia.org/wiki/File:Zuidhorn_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "arrowhead",
+      "color": "green",
+      "count": 4,
+      "role": "green arrowheads"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "a white zigzag"
+    }
+  ]
+}

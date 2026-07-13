@@ -1,0 +1,59 @@
+{
+  "id": "NL-GR-haren_2018",
+  "name": "Haren (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q691754"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the arms"
+    }
+  ],
+  "description": "A white field with blue stripes and the municipal arms at the centre.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 2018 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2018"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Haren",
+    "https://commons.wikimedia.org/wiki/File:Haren_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "the municipal arms with an eagle and bell"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "NL-GE-asperen_1985",
+  "name": "Asperen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q2162332"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "red",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "black",
+      "symbolism": "the swan"
+    },
+    {
+      "color": "white",
+      "symbolism": "the ship"
+    }
+  ],
+  "description": "Per pale white and red with a black swan at the hoist and a white ship at the fly.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 1985 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1985"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Asperen",
+    "https://commons.wikimedia.org/wiki/File:Asperen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "bird",
+      "color": "black",
+      "position": "hoist",
+      "role": "a black swan"
+    },
+    {
+      "type": "ship",
+      "color": "white",
+      "position": "fly",
+      "role": "a white ship"
+    }
+  ]
+}

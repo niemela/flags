@@ -1,0 +1,61 @@
+{
+  "id": "NL-LI-sittard_2000",
+  "name": "Sittard (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q73022"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the triangle"
+    },
+    {
+      "color": "black",
+      "symbolism": "the cross"
+    }
+  ],
+  "description": "A yellow field with a red triangle at the hoist and a large black cross moline.",
+  "history": "A former municipality in the province of Limburg, dissolved at the end of 2000 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2000"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Sittard",
+    "https://commons.wikimedia.org/wiki/File:Sittard_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red triangle"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "a black cross moline"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "NL-ZH-zuidland_1979",
+  "name": "Zuidland (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q3576262"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "green",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the pale"
+    },
+    {
+      "color": "black",
+      "symbolism": "the band"
+    }
+  ],
+  "description": "A white hoist with a blue pale and a green fly with a black band.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 1979 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1979"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Zuidland",
+    "https://commons.wikimedia.org/wiki/File:Zuidland_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "a blue pale"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "a black band"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "NL-FR-sloten_1983",
+  "name": "Sloten (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q73099"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the edges"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the crown"
+    }
+  ],
+  "description": "A yellow field with a blue band edged red bearing a gold crown at the hoist.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1983 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1983"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Sloten",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Sloten.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue",
+        "yellow"
+      ],
+      "count": 3,
+      "role": "a blue band on yellow"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold crown"
+    }
+  ]
+}

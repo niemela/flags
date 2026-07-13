@@ -1,0 +1,72 @@
+{
+  "id": "NL-ZH-oud-beijerland_2018",
+  "name": "Oud-Beijerland (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q795623"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the canton"
+    },
+    {
+      "color": "red",
+      "symbolism": "the chevrons"
+    }
+  ],
+  "description": "A white field with blue bands top and bottom and a gold canton bearing red chevrons.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2018 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1559",
+      "end": "2018"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Oud-Beijerland",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Oud-Beijerland.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "canton",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold canton"
+    },
+    {
+      "type": "chevron",
+      "color": "red",
+      "count": 2,
+      "position": "canton",
+      "role": "red chevrons"
+    }
+  ]
+}

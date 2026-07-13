@@ -1,0 +1,71 @@
+{
+  "id": "NL-FR-oldeberkoop_1816",
+  "name": "Oldeberkoop (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2634690"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the goat"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the crescent"
+    },
+    {
+      "color": "black",
+      "symbolism": "the charge"
+    }
+  ],
+  "description": "A blue field with a white goat holding a gold crescent and a black charge at the fly.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Oldeberkoop",
+    "https://commons.wikimedia.org/wiki/File:Oldeberkoop_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "center",
+      "role": "a white goat"
+    },
+    {
+      "type": "crescent",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold crescent"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "fly",
+      "role": "a black charge"
+    }
+  ]
+}

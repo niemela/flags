@@ -1,0 +1,68 @@
+{
+  "id": "NL-NB-mierlo_2003",
+  "name": "Mierlo (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q1614337"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the figure and canton"
+    },
+    {
+      "color": "red",
+      "symbolism": "the saltires"
+    }
+  ],
+  "description": "A blue field with a gold figure and a gold canton bearing red saltires at the upper hoist.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 2003 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2003"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Mierlo",
+    "https://commons.wikimedia.org/wiki/File:Mierlo_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "human-figure",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold figure with wheat"
+    },
+    {
+      "type": "canton",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold canton"
+    },
+    {
+      "type": "saltire",
+      "color": "red",
+      "count": 2,
+      "position": "canton",
+      "role": "red saltires"
+    }
+  ]
+}
