@@ -1,0 +1,58 @@
+{
+  "id": "NL-NH-koggenland",
+  "name": "Koggenland (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9940"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the rays"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the rays"
+    },
+    {
+      "color": "white",
+      "symbolism": "the hoist stripe"
+    }
+  ],
+  "description": "Blue and yellow rays radiating from the centre, with a white stripe at the hoist.",
+  "history": "Flag of the municipality of Koggenland in the province of North Holland, formed in 2007.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Koggenland",
+    "https://commons.wikimedia.org/wiki/File:Koggenland_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "count": 4,
+      "role": "blue rays radiating from the centre"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "a white stripe at the hoist"
+    }
+  ]
+}

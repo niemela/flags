@@ -1,0 +1,64 @@
+{
+  "id": "NL-NH-den-helder",
+  "name": "Den Helder (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9911"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "black",
+      "symbolism": "the roundel"
+    }
+  ],
+  "description": "A barry of red and yellow with a black roundel bearing crossed gold anchors at the hoist.",
+  "history": "Flag of the municipality of Den Helder in the province of North Holland, a naval port.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Den_Helder",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Den_Helder.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 6,
+      "role": "a barry of red and yellow"
+    },
+    {
+      "type": "circle",
+      "color": "black",
+      "position": "canton",
+      "role": "a black roundel"
+    },
+    {
+      "type": "anchor",
+      "color": "yellow",
+      "position": "canton",
+      "role": "crossed gold anchors on the roundel"
+    }
+  ]
+}

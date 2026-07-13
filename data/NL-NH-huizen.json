@@ -1,0 +1,53 @@
+{
+  "id": "NL-NH-huizen",
+  "name": "Huizen (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9939"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the figure"
+    }
+  ],
+  "description": "Red over yellow with a gold figure of Justice holding scales.",
+  "history": "Flag of the municipality of Huizen in the province of North Holland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Huizen",
+    "https://commons.wikimedia.org/wiki/File:Huizen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "human-figure",
+      "color": "yellow",
+      "position": "top",
+      "role": "a gold figure of Justice with scales"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "NL-NH-haarlemmermeer",
+  "name": "Haarlemmermeer (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9924"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the band, lion and squares"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wheat"
+    }
+  ],
+  "description": "A blue field with a white wavy diagonal band, a white lion at the upper hoist, gold wheat at the lower fly, and scattered white squares.",
+  "history": "Flag of the municipality of Haarlemmermeer in the province of North Holland, a large reclaimed polder.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Haarlemmermeer",
+    "https://commons.wikimedia.org/wiki/File:Haarlemmermeer_vlag_2019.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "role": "a white wavy diagonal band"
+    },
+    {
+      "type": "lion",
+      "color": "white",
+      "position": "canton",
+      "role": "a white lion (upper hoist)"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "fly",
+      "role": "gold wheat (lower fly)"
+    },
+    {
+      "type": "square",
+      "color": "white",
+      "count": 5,
+      "role": "scattered white squares"
+    }
+  ]
+}

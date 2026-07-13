@@ -1,0 +1,59 @@
+{
+  "id": "NL-NH-stede-broec",
+  "name": "Stede Broec (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9962"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the charges"
+    }
+  ],
+  "description": "A white field with a green star at the upper hoist, a green tree at the lower hoist, and green battlements on the fly.",
+  "history": "Flag of the municipality of Stede Broec in the province of North Holland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Stede_Broec",
+    "https://commons.wikimedia.org/wiki/File:Stede-Broec_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "star",
+      "color": "green",
+      "count": 1,
+      "points": 5,
+      "position": "canton",
+      "role": "a green star (upper hoist)"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist",
+      "role": "a green tree (lower hoist)"
+    },
+    {
+      "type": "complex",
+      "color": "green",
+      "position": "fly",
+      "role": "green battlements on the fly"
+    }
+  ]
+}

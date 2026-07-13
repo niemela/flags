@@ -1,0 +1,67 @@
+{
+  "id": "NL-NH-ouder-amstel",
+  "name": "Ouder-Amstel (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9953"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltires"
+    }
+  ],
+  "description": "A red field with black bands bearing white saltires.",
+  "history": "Flag of the municipality of Ouder-Amstel in the province of North Holland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Ouder-Amstel",
+    "https://commons.wikimedia.org/wiki/File:Ouder-Amstel_flag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "a black band"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a black band"
+    },
+    {
+      "type": "saltire",
+      "color": "white",
+      "count": 5,
+      "role": "white saltires on the black bands"
+    }
+  ]
+}

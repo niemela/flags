@@ -1,0 +1,54 @@
+{
+  "id": "NL-NH-zaanstad",
+  "name": "Zaanstad (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9978"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "white",
+      "symbolism": "central band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "lower band"
+    }
+  ],
+  "description": "A red-white-blue tricolour with a red-and-white lozenge device on the white band.",
+  "history": "Flag of the municipality of Zaanstad in the province of North Holland, formed in 1974.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Zaanstad",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Zaanstad.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "lozenge",
+      "color": "red",
+      "position": "center",
+      "role": "a red-and-white lozenge device on the white band"
+    }
+  ]
+}

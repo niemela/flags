@@ -1,0 +1,55 @@
+{
+  "id": "NL-NH-diemen",
+  "name": "Diemen (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9913"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the outer bands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the ducks"
+    }
+  ],
+  "description": "A blue field with a white central band bearing three black ducks.",
+  "history": "Flag of the municipality of Diemen in the province of North Holland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Diemen",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Diemen_(municipality).svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "bird",
+      "color": "black",
+      "count": 3,
+      "position": "center",
+      "role": "three black ducks on the white band"
+    }
+  ]
+}

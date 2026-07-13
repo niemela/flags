@@ -1,0 +1,62 @@
+{
+  "id": "NL-NH-blaricum",
+  "name": "Blaricum (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9906"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the outer bands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the inner bands"
+    },
+    {
+      "color": "green",
+      "symbolism": "the central band and lozenge"
+    }
+  ],
+  "description": "Blue, white and green bands with a green lozenge bearing blue cornflowers.",
+  "history": "Flag of the municipality of Blaricum in the province of North Holland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Blaricum",
+    "https://commons.wikimedia.org/wiki/File:Blaricum_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "green",
+        "white",
+        "blue"
+      ],
+      "count": 5
+    },
+    {
+      "type": "lozenge",
+      "color": "green",
+      "position": "center",
+      "role": "a green lozenge"
+    },
+    {
+      "type": "flower",
+      "color": "blue",
+      "position": "center",
+      "role": "blue cornflowers on the lozenge"
+    }
+  ]
+}

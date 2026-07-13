@@ -1,0 +1,53 @@
+{
+  "id": "NL-NH-alkmaar",
+  "name": "Alkmaar (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q972"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stripes and castle"
+    }
+  ],
+  "description": "A red field with white stripes and a white castle at the upper hoist.",
+  "history": "Flag of the municipality of Alkmaar in the province of North Holland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Alkmaar",
+    "https://commons.wikimedia.org/wiki/File:Alkmaar_Flag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 5,
+      "role": "red with white stripes"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "canton",
+      "role": "a white castle at the upper hoist"
+    }
+  ]
+}

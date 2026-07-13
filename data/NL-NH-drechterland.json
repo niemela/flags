@@ -1,0 +1,68 @@
+{
+  "id": "NL-NH-drechterland",
+  "name": "Drechterland (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9915"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the edging and sword"
+    }
+  ],
+  "description": "A green field with a yellow diagonal band edged white bearing two roses, and a white sword at the lower hoist.",
+  "history": "Flag of the municipality of Drechterland in the province of North Holland, formed in 2006.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Drechterland",
+    "https://commons.wikimedia.org/wiki/File:Drechterland_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "fimbriation": [
+        {
+          "color": "white"
+        }
+      ],
+      "role": "a yellow diagonal band edged white"
+    },
+    {
+      "type": "flower",
+      "color": "green",
+      "count": 2,
+      "role": "two roses on the band"
+    },
+    {
+      "type": "sword",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white sword"
+    }
+  ]
+}

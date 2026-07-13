@@ -1,0 +1,59 @@
+{
+  "id": "NL-NH-bergen",
+  "name": "Bergen (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9901"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the band and swans"
+    }
+  ],
+  "description": "A red field with a gold diagonal band, charged with swans counterchanged.",
+  "history": "Flag of the municipality of Bergen in the province of North Holland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Bergen",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Bergen_(Netherlands).svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "role": "a gold diagonal band"
+    },
+    {
+      "type": "bird",
+      "color": "red",
+      "count": 3,
+      "role": "red swans on the gold band"
+    },
+    {
+      "type": "bird",
+      "color": "yellow",
+      "count": 3,
+      "role": "gold swans on the red field"
+    }
+  ]
+}

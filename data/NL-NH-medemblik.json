@@ -1,0 +1,57 @@
+{
+  "id": "NL-NH-medemblik",
+  "name": "Medemblik (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9947"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the castle"
+    }
+  ],
+  "description": "A yellow field with black diagonal stripes and a blue castle at the hoist.",
+  "history": "Flag of the municipality of Medemblik in the province of North Holland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Medemblik",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Medemblik.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 2,
+      "role": "black diagonal stripes"
+    },
+    {
+      "type": "building",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue castle"
+    }
+  ]
+}

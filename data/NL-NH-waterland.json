@@ -1,0 +1,51 @@
+{
+  "id": "NL-NH-waterland",
+  "name": "Waterland (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9971"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the monogram and water"
+    }
+  ],
+  "description": "A white field with a blue 'WM' monogram over stylised blue water.",
+  "history": "Flag of the municipality of Waterland in the province of North Holland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Waterland",
+    "https://commons.wikimedia.org/wiki/File:Waterland_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "a blue 'WM' monogram"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom",
+      "role": "stylised blue water"
+    }
+  ]
+}

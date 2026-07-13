@@ -1,0 +1,67 @@
+{
+  "id": "NL-NH-amstelveen",
+  "name": "Amstelveen (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9898"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltires"
+    }
+  ],
+  "description": "A red field with two black bands bearing white saltires.",
+  "history": "Flag of the municipality of Amstelveen in the province of North Holland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Amstelveen",
+    "https://commons.wikimedia.org/wiki/File:Amstelveen_flag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "a black band"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a black band"
+    },
+    {
+      "type": "saltire",
+      "color": "white",
+      "count": 4,
+      "role": "white saltires on the black bands"
+    }
+  ]
+}

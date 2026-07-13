@@ -1,0 +1,55 @@
+{
+  "id": "NL-NH-purmerend",
+  "name": "Purmerend (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q110423208"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "central band"
+    },
+    {
+      "color": "black",
+      "symbolism": "lower band and charges"
+    }
+  ],
+  "description": "Red, yellow and black bands, the yellow charged with three black devices.",
+  "history": "Flag of the municipality of Purmerend in the province of North Holland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Purmerend",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Purmerend.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "black"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "count": 3,
+      "position": "center",
+      "role": "three black devices on the yellow"
+    }
+  ]
+}

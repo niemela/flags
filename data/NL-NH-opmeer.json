@@ -1,0 +1,64 @@
+{
+  "id": "NL-NH-opmeer",
+  "name": "Opmeer (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9952"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the hoist band and lion"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central band"
+    }
+  ],
+  "description": "A blue field with a red band at the hoist, a yellow band across the centre and a red lion on the yellow.",
+  "history": "Flag of the municipality of Opmeer in the province of North Holland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Opmeer",
+    "https://commons.wikimedia.org/wiki/File:Opmeer_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "side",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red band at the hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a yellow band across the centre"
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "center",
+      "role": "a red lion on the yellow band"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "NL-NH-bloemendaal",
+  "name": "Bloemendaal (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9908"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "black",
+      "symbolism": "the charges"
+    }
+  ],
+  "description": "White and green stripes with three black charges at the hoist.",
+  "history": "Flag of the municipality of Bloemendaal in the province of North Holland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Bloemendaal",
+    "https://commons.wikimedia.org/wiki/File:Bloemendaal_vlag_2019.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "white",
+        "green",
+        "white",
+        "green",
+        "white"
+      ],
+      "count": 7,
+      "role": "white and green stripes"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "count": 3,
+      "position": "hoist",
+      "role": "three black charges at the hoist"
+    }
+  ]
+}

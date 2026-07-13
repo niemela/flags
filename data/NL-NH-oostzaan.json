@@ -1,0 +1,57 @@
+{
+  "id": "NL-NH-oostzaan",
+  "name": "Oostzaan (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9951"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "green",
+      "symbolism": "the charge"
+    }
+  ],
+  "description": "Yellow and blue stripes with a green rake at the upper hoist.",
+  "history": "Flag of the municipality of Oostzaan in the province of North Holland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Oostzaan",
+    "https://commons.wikimedia.org/wiki/File:Oostzaan_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue",
+        "yellow",
+        "blue",
+        "yellow"
+      ],
+      "count": 5,
+      "role": "yellow and blue stripes"
+    },
+    {
+      "type": "tool",
+      "color": "green",
+      "position": "canton",
+      "role": "a green rake"
+    }
+  ]
+}
