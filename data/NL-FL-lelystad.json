@@ -1,0 +1,60 @@
+{
+  "id": "NL-FL-lelystad",
+  "name": "Lelystad (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-FL",
+  "codes": {
+    "wikidata": "Q166065"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the cross and central square"
+    },
+    {
+      "color": "white",
+      "symbolism": "the fleur-de-lis"
+    }
+  ],
+  "description": "A yellow field with a stepped blue cross, charged at the centre with a white fleur-de-lis on a blue square.",
+  "history": "Flag of the municipality of Lelystad, the capital of the province of Flevoland, named after the engineer Cornelis Lely. The fleur-de-lis is a canting reference to his name (lelie = lily).",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Lelystad",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Lelystad.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "greek-cross",
+      "color": "blue",
+      "role": "a stepped blue cross"
+    },
+    {
+      "type": "square",
+      "color": "blue",
+      "position": "center",
+      "role": "a blue square at the centre"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "position": "center",
+      "role": "a white fleur-de-lis canting on the name Lely"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "NL-FL-urk",
+  "name": "Urk (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-FL",
+  "codes": {
+    "wikidata": "Q273746"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the central field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the inner stripes and the fish"
+    },
+    {
+      "color": "red",
+      "symbolism": "the outer stripes"
+    }
+  ],
+  "description": "A dark-blue field bordered top and bottom by white and red stripes, charged in the centre with a white cod.",
+  "history": "Flag of the municipality of Urk in the province of Flevoland. Formerly an island in the Zuiderzee and long a fishing community, Urk became connected to the mainland by the Noordoostpolder; the cod reflects its fishing heritage.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Urk",
+    "https://commons.wikimedia.org/wiki/File:Urker_vlag_met_schelvis_25-12-2016.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "navy",
+        "white",
+        "red"
+      ],
+      "count": 5,
+      "role": "a dark-blue field between white and red edge stripes"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "center",
+      "role": "a white cod"
+    }
+  ]
+}

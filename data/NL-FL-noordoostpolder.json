@@ -1,0 +1,60 @@
+{
+  "id": "NL-FL-noordoostpolder",
+  "name": "Noordoostpolder (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-FL",
+  "codes": {
+    "wikidata": "Q69262"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the cross and the fleur-de-lis"
+    },
+    {
+      "color": "red",
+      "symbolism": "the tower"
+    }
+  ],
+  "description": "A white field with an off-centre blue cross, a red tower in the canton and a blue fleur-de-lis below it.",
+  "history": "Flag of the municipality of Noordoostpolder in the province of Flevoland, comprising the North-East Polder reclaimed from the former Zuiderzee, with its capital at Emmeloord.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Noordoostpolder",
+    "https://commons.wikimedia.org/wiki/File:Noordoostpolder_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "nordic-cross",
+      "color": "blue",
+      "role": "an off-centre blue cross"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "canton",
+      "role": "a red tower in the canton"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue fleur-de-lis below the tower"
+    }
+  ]
+}
