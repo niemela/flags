@@ -1,0 +1,64 @@
+{
+  "id": "NL-GR-eemsdelta",
+  "name": "Eemsdelta (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q97055892"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the upper wavy lines"
+    },
+    {
+      "color": "green",
+      "symbolism": "the lower wavy lines"
+    },
+    {
+      "color": "red",
+      "symbolism": "the word 'gemeente'"
+    }
+  ],
+  "description": "A white field bearing the municipal logo: blue wavy lines above and green wavy lines below the name, with 'GEMEENTE EEMSDELTA' lettered across the centre.",
+  "history": "Flag of the municipality of Eemsdelta in the province of Groningen, formed in 2021 from Appingedam, Delfzijl and Loppersum. The flag is the municipality's logo/wordmark banner rather than a heraldic design.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Eemsdelta",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Eemsdelta.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "top",
+      "role": "blue wavy lines above the name"
+    },
+    {
+      "type": "wave",
+      "color": "green",
+      "position": "bottom",
+      "role": "green wavy lines below the name"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "role": "the municipal wordmark 'GEMEENTE EEMSDELTA'"
+    }
+  ]
+}
