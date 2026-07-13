@@ -1,0 +1,64 @@
+{
+  "id": "NL-ZH-leidschendam-voorburg",
+  "name": "Leidschendam-Voorburg (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q112675"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the waves"
+    },
+    {
+      "color": "red",
+      "symbolism": "the tower"
+    },
+    {
+      "color": "black",
+      "symbolism": "the crescent"
+    }
+  ],
+  "description": "A white field with blue waves, a red tower above and a black crescent below.",
+  "history": "Flag of the municipality of Leidschendam-Voorburg in the province of South Holland, formed in 2002.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Leidschendam-Voorburg",
+    "https://commons.wikimedia.org/wiki/File:Leidschendam-Voorburg_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "role": "blue waves"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "top",
+      "role": "a red tower"
+    },
+    {
+      "type": "crescent",
+      "color": "black",
+      "position": "bottom",
+      "role": "a black crescent"
+    }
+  ]
+}

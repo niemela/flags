@@ -1,0 +1,75 @@
+{
+  "id": "NL-ZH-nissewaard",
+  "name": "Nissewaard (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q14853527"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lion"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the lower hoist"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltires and wave"
+    },
+    {
+      "color": "green",
+      "symbolism": "the fly"
+    }
+  ],
+  "description": "Per pale: the hoist yellow with a red lion over blue bands with white saltires, the fly green with a white wave.",
+  "history": "Flag of the municipality of Nissewaard in the province of South Holland, formed in 2015.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Nissewaard",
+    "https://commons.wikimedia.org/wiki/File:Nissewaard_gemeentevlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2,
+      "role": "per pale, yellow hoist and green fly"
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red lion (upper hoist)"
+    },
+    {
+      "type": "saltire",
+      "color": "white",
+      "count": 3,
+      "position": "hoist",
+      "role": "white saltires on blue bands (lower hoist)"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "fly",
+      "role": "a white wave on the green fly"
+    }
+  ]
+}

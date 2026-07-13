@@ -1,0 +1,61 @@
+{
+  "id": "NL-ZH-lansingerland",
+  "name": "Lansingerland (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q1144739"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the star and lozenge"
+    }
+  ],
+  "description": "A yellow field with a green band, a red star above and a red lozenge below.",
+  "history": "Flag of the municipality of Lansingerland in the province of South Holland, formed in 2007.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Lansingerland",
+    "https://commons.wikimedia.org/wiki/File:Flag_Lansingerland.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "color": "red",
+      "points": 7,
+      "position": "top",
+      "role": "a red star"
+    },
+    {
+      "type": "lozenge",
+      "color": "red",
+      "position": "bottom",
+      "role": "a red lozenge"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "NL-ZH-hendrik-ido-ambacht",
+  "name": "Hendrik-Ido-Ambacht (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q538725"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the edge stripes"
+    },
+    {
+      "color": "black",
+      "symbolism": "the saltires"
+    }
+  ],
+  "description": "A white field with red stripes top and bottom and three black saltires at the hoist.",
+  "history": "Flag of the municipality of Hendrik-Ido-Ambacht in the province of South Holland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Hendrik-Ido-Ambacht",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hendrik-Ido-Ambacht.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "red stripes at the top"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "red stripes at the bottom"
+    },
+    {
+      "type": "saltire",
+      "color": "black",
+      "count": 3,
+      "position": "hoist",
+      "role": "three black saltires at the hoist"
+    }
+  ]
+}

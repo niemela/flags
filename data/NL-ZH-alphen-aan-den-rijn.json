@@ -1,0 +1,64 @@
+{
+  "id": "NL-ZH-alphen-aan-den-rijn",
+  "name": "Alphen aan den Rijn (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q213246"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the star and tower"
+    }
+  ],
+  "description": "A blue field with a white wavy diagonal band, a gold star at the upper fly and a gold tower at the lower hoist.",
+  "history": "Flag of the municipality of Alphen aan den Rijn in the province of South Holland, formed in 2014.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Alphen_aan_den_Rijn",
+    "https://commons.wikimedia.org/wiki/File:Vlag_Alphen_aan_den_Rijn.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "role": "a white wavy diagonal band"
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "points": 7,
+      "position": "fly",
+      "role": "a gold star"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold tower"
+    }
+  ]
+}

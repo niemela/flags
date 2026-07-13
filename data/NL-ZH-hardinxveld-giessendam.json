@@ -1,0 +1,63 @@
+{
+  "id": "NL-ZH-hardinxveld-giessendam",
+  "name": "Hardinxveld-Giessendam (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q953012"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the diagonal band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the bird"
+    }
+  ],
+  "description": "A white field with a blue diagonal band, a black bird at the upper hoist and a white cogwheel on the band.",
+  "history": "Flag of the municipality of Hardinxveld-Giessendam in the province of South Holland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Hardinxveld-Giessendam",
+    "https://commons.wikimedia.org/wiki/File:Hardinxveldgiessendam_flag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "role": "a blue diagonal band"
+    },
+    {
+      "type": "bird",
+      "color": "black",
+      "position": "canton",
+      "role": "a black bird"
+    },
+    {
+      "type": "cogwheel",
+      "color": "white",
+      "position": "fly",
+      "role": "a white cogwheel on the band"
+    }
+  ]
+}

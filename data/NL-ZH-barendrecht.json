@@ -1,0 +1,68 @@
+{
+  "id": "NL-ZH-barendrecht",
+  "name": "Barendrecht (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q204239"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the blocks"
+    },
+    {
+      "color": "red",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lion"
+    }
+  ],
+  "description": "A white field with green blocks top and bottom and a red band across the centre bearing a gold lion.",
+  "history": "Flag of the municipality of Barendrecht in the province of South Holland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Barendrecht",
+    "https://commons.wikimedia.org/wiki/File:Barendrecht_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "count": 6,
+      "role": "green blocks top and bottom"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a red band across the centre"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold lion on the red band"
+    }
+  ]
+}

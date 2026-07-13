@@ -1,0 +1,62 @@
+{
+  "id": "NL-ZH-midden-delfland",
+  "name": "Midden-Delfland (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q952206"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "green",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the ship"
+    },
+    {
+      "color": "white",
+      "symbolism": "the waves"
+    }
+  ],
+  "description": "Blue over green with a gold ship and white waves.",
+  "history": "Flag of the municipality of Midden-Delfland in the province of South Holland, formed in 2004.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Midden-Delfland",
+    "https://commons.wikimedia.org/wiki/File:Midden_Delfland_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "ship",
+      "color": "yellow",
+      "position": "top",
+      "role": "a gold ship"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "role": "white waves between blue and green"
+    }
+  ]
+}

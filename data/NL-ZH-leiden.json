@@ -1,0 +1,55 @@
+{
+  "id": "NL-ZH-leiden",
+  "name": "Leiden (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q43631"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the outer bands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the keys"
+    }
+  ],
+  "description": "Red, white and red bands with two red crossed keys on the white.",
+  "history": "Flag of the municipality of Leiden in the province of South Holland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Leiden",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Leiden.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "key",
+      "color": "red",
+      "count": 2,
+      "position": "center",
+      "role": "two red crossed keys"
+    }
+  ]
+}

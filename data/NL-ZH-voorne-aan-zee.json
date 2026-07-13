@@ -1,0 +1,75 @@
+{
+  "id": "NL-ZH-voorne-aan-zee",
+  "name": "Voorne aan Zee (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q106436626"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the canton"
+    },
+    {
+      "color": "white",
+      "symbolism": "the tower"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the waves"
+    },
+    {
+      "color": "green",
+      "symbolism": "the waves"
+    }
+  ],
+  "description": "A blue field with a red canton bearing a white tower, and yellow and green waves at the base.",
+  "history": "Flag of the municipality of Voorne aan Zee in the province of South Holland, formed in 2023.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Voorne_aan_Zee",
+    "https://commons.wikimedia.org/wiki/File:Flag_Voorne_aan_Zee.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "position": "canton",
+      "role": "a red canton"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "canton",
+      "role": "a white tower in the canton"
+    },
+    {
+      "type": "wave",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "yellow waves"
+    },
+    {
+      "type": "wave",
+      "color": "green",
+      "position": "bottom",
+      "role": "green waves"
+    }
+  ]
+}
