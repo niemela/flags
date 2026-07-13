@@ -1,0 +1,67 @@
+{
+  "id": "NL-LI-roggel-en-neer_2006",
+  "name": "Roggel en Neer (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q945045"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the diagonal and key"
+    },
+    {
+      "color": "red",
+      "symbolism": "the pot-hook"
+    }
+  ],
+  "description": "A yellow field divided diagonally with a blue key at the hoist and a red pot-hook at the fly.",
+  "history": "A former municipality in the province of Limburg, dissolved at the end of 2006 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2006"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Roggel_en_Neer",
+    "https://commons.wikimedia.org/wiki/File:Roggel_en_Neer_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue diagonal division"
+    },
+    {
+      "type": "key",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold key"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "fly",
+      "role": "a red pot-hook"
+    }
+  ]
+}

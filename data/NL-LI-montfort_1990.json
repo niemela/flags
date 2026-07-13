@@ -1,0 +1,57 @@
+{
+  "id": "NL-LI-montfort_1990",
+  "name": "Montfort (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q21054"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the pile and castle"
+    }
+  ],
+  "description": "A blue field with a yellow pile from the hoist bearing a gold castle.",
+  "history": "A former municipality in the province of Limburg, dissolved at the end of 1990 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1990"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Montfort",
+    "https://commons.wikimedia.org/wiki/File:Montfort_(Limburg)_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a yellow pile from the hoist"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold castle"
+    }
+  ]
+}

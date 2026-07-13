@@ -1,0 +1,67 @@
+{
+  "id": "NL-LI-sevenum_2009",
+  "name": "Sevenum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q1019525"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "white",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the arrows"
+    }
+  ],
+  "description": "Blue over white with three gold arrows above and three blue fleurs-de-lis below.",
+  "history": "A former municipality in the province of Limburg, dissolved at the end of 2009 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2009"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Sevenum",
+    "https://commons.wikimedia.org/wiki/File:Sevenum_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "count": 3,
+      "position": "top",
+      "role": "three gold arrows"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "blue",
+      "count": 3,
+      "position": "bottom",
+      "role": "three blue fleurs-de-lis"
+    }
+  ]
+}

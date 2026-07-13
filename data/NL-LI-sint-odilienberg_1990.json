@@ -1,0 +1,61 @@
+{
+  "id": "NL-LI-sint-odilienberg_1990",
+  "name": "Sint Odiliënberg (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q985024"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the pile"
+    },
+    {
+      "color": "white",
+      "symbolism": "the rose"
+    }
+  ],
+  "description": "A blue field with a yellow pile from the fly and a white rose at the hoist.",
+  "history": "A former municipality in the province of Limburg, dissolved at the end of 1990 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1990"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Sint_Odiliënberg",
+    "https://commons.wikimedia.org/wiki/File:Sint-Odiliënberg_vlag_1971.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "fly",
+      "role": "a yellow pile from the fly"
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white rose"
+    }
+  ]
+}

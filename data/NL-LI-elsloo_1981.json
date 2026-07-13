@@ -1,0 +1,64 @@
+{
+  "id": "NL-LI-elsloo_1981",
+  "name": "Elsloo (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q17608940"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the outer bands"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the star"
+    },
+    {
+      "color": "white",
+      "symbolism": "the star"
+    }
+  ],
+  "description": "A vertical triband of red, yellow and red with a green star at the hoist.",
+  "history": "A former municipality in the province of Limburg, dissolved at the end of 1981 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1981"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Elsloo",
+    "https://commons.wikimedia.org/wiki/File:Elsloo_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "color": "green",
+      "position": "hoist",
+      "role": "a green star"
+    }
+  ]
+}

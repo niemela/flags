@@ -1,0 +1,59 @@
+{
+  "id": "NL-LI-haelen_2016",
+  "name": "Haelen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q2017499"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the pot-hooks and bands"
+    }
+  ],
+  "description": "A yellow field with red pot-hooks and red bands.",
+  "history": "A former municipality in the province of Limburg, dissolved at the end of 2016 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2016"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Haelen",
+    "https://commons.wikimedia.org/wiki/File:Haelen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "canton",
+      "role": "red pot-hooks"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 2,
+      "role": "red bands"
+    }
+  ]
+}

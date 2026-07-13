@@ -1,0 +1,65 @@
+{
+  "id": "NL-LI-thorn_2006",
+  "name": "Thorn (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q72842"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "white",
+      "symbolism": "central band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the eagle"
+    }
+  ],
+  "description": "Green, white and blue bands with a black eagle at the centre.",
+  "history": "A former municipality in the province of Limburg, dissolved at the end of 2006 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1292",
+      "end": "2006"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Thorn",
+    "https://commons.wikimedia.org/wiki/File:Thorn_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "eagle",
+      "color": "black",
+      "position": "center",
+      "role": "a black eagle"
+    }
+  ]
+}

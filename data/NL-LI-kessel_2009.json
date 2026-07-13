@@ -1,0 +1,65 @@
+{
+  "id": "NL-LI-kessel_2009",
+  "name": "Kessel (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q73031"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the fleur-de-lis"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lozenges"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fleur-de-lis"
+    }
+  ],
+  "description": "A white field with a blue fleur-de-lis and red lozenges.",
+  "history": "A former municipality in the province of Limburg, dissolved at the end of 2009 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2009"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Kessel",
+    "https://commons.wikimedia.org/wiki/File:Kessel_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "blue",
+      "position": "center",
+      "role": "a blue fleur-de-lis"
+    },
+    {
+      "type": "lozenge",
+      "color": "red",
+      "count": 4,
+      "role": "red lozenges"
+    }
+  ]
+}

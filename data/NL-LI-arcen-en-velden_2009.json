@@ -1,0 +1,63 @@
+{
+  "id": "NL-LI-arcen-en-velden_2009",
+  "name": "Arcen en Velden (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q631896"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the diagonal and leaf"
+    }
+  ],
+  "description": "A field divided diagonally green and yellow, with a gold castle and a green oak leaf.",
+  "history": "A former municipality in the province of Limburg, dissolved at the end of 2009 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2009"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Arcen_en_Velden",
+    "https://commons.wikimedia.org/wiki/File:Arcen_en_velden_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "fly",
+      "role": "a green diagonal division"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold castle"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "fly",
+      "role": "a green oak leaf"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "NL-LI-hoensbroek_1981",
+  "name": "Hoensbroek (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q783094"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the pales and chief"
+    }
+  ],
+  "description": "A white field with red pales and a red chief.",
+  "history": "A former municipality in the province of Limburg, dissolved at the end of 1981 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1981"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Hoensbroek",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hoensbroek.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 4,
+      "role": "red pales"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "a red chief"
+    }
+  ]
+}

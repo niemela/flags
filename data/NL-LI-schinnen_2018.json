@@ -1,0 +1,67 @@
+{
+  "id": "NL-LI-schinnen_2018",
+  "name": "Schinnen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q9782"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "red",
+      "symbolism": "the canton"
+    },
+    {
+      "color": "white",
+      "symbolism": "the cross"
+    }
+  ],
+  "description": "A barry of blue and yellow with a red canton bearing a white cross.",
+  "history": "A former municipality in the province of Limburg, dissolved at the end of 2018 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1981",
+      "end": "2018"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Schinnen",
+    "https://commons.wikimedia.org/wiki/File:Schinnen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "blue",
+        "yellow",
+        "blue"
+      ],
+      "count": 5
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "position": "canton",
+      "role": "a red canton with a white cross"
+    }
+  ]
+}

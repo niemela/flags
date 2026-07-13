@@ -1,0 +1,68 @@
+{
+  "id": "NL-LI-stevensweert_1990",
+  "name": "Stevensweert (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q1880603"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the panel"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wheat"
+    },
+    {
+      "color": "red",
+      "symbolism": "the diagonal"
+    },
+    {
+      "color": "white",
+      "symbolism": "the diagonal"
+    }
+  ],
+  "description": "A blue star-shaped panel with a gold wheat sheaf and a red-and-white diagonal.",
+  "history": "A former municipality in the province of Limburg, dissolved at the end of 1990 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1990"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Stevensweert",
+    "https://commons.wikimedia.org/wiki/File:Stevensweert_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold wheat sheaf"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "role": "a red-and-white diagonal"
+    }
+  ]
+}

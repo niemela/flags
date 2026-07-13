@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="450"
+	height="300">
+<defs>
+<path
+	id="circ"
+	transform="scale(20.5)"
+	style="fill:#fff;stroke:none"
+	d="M0,-5
+a1,1,0,0,0,0,2
+a1,1,0,0,0,0,2
+a1,1,0,1,0,1,1
+a1,1,0,0,0,2,0
+a1,1,0,0,0,2,0
+a1,1,0,0,0,2,0
+a1,1,0,0,0,2,0
+a1,1,0,0,0,2,0
+v-5 z" />
+<clipPath id="area">
+	<rect width="450" height="300" />
+</clipPath>
+</defs>
+<g clip-path="url(#area)">
+	<rect width="450" height="300" fill="#06f" />
+	<g id="top">
+		<use xlink:href="#circ" transform="translate(226 100)" />
+		<use xlink:href="#circ" transform="rotate(-90 102 100) translate(102 100)" />
+	</g>
+	<use xlink:href="#top" transform="scale(1 -1) translate(0,-300)" />
+</g>
+</svg>

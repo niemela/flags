@@ -1,0 +1,68 @@
+{
+  "id": "NL-LI-maasbracht_2006",
+  "name": "Maasbracht (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q1615373"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "red",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "white",
+      "symbolism": "the anchor"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wavy division"
+    }
+  ],
+  "description": "Blue at the hoist with a white anchor and red at the fly, divided by a yellow wavy line.",
+  "history": "A former municipality in the province of Limburg, dissolved at the end of 2006 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2006"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Maasbracht",
+    "https://commons.wikimedia.org/wiki/File:Maasbracht_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "anchor",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white anchor"
+    },
+    {
+      "type": "wave",
+      "color": "yellow",
+      "role": "a yellow wavy division"
+    }
+  ]
+}

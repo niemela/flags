@@ -1,0 +1,61 @@
+{
+  "id": "NL-LI-nieuwenhagen_1981",
+  "name": "Nieuwenhagen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q1856446"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "red",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lion"
+    }
+  ],
+  "description": "A field divided diagonally red and green with a gold lion.",
+  "history": "A former municipality in the province of Limburg, dissolved at the end of 1981 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1981"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Nieuwenhagen",
+    "https://commons.wikimedia.org/wiki/File:Nieuwenhagen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red diagonal division"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold lion"
+    }
+  ]
+}

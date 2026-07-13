@@ -1,0 +1,74 @@
+{
+  "id": "NL-LI-schaesberg_1981",
+  "name": "Schaesberg (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q34614186"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "white",
+      "symbolism": "central band"
+    },
+    {
+      "color": "green",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the table"
+    },
+    {
+      "color": "red",
+      "symbolism": "the roundels"
+    }
+  ],
+  "description": "Yellow, white and green bands with a blue table over three red roundels.",
+  "history": "A former municipality in the province of Limburg, dissolved at the end of 1981 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1981"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Schaesberg",
+    "https://commons.wikimedia.org/wiki/File:Schaesberg_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "complex",
+      "color": "blue",
+      "position": "center",
+      "role": "a blue table"
+    },
+    {
+      "type": "disc",
+      "color": "red",
+      "count": 3,
+      "role": "three red roundels"
+    }
+  ]
+}

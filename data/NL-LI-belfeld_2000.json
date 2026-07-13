@@ -1,0 +1,64 @@
+{
+  "id": "NL-LI-belfeld_2000",
+  "name": "Belfeld (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q130364948"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "hoist band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "central band"
+    },
+    {
+      "color": "black",
+      "symbolism": "fly band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the bell"
+    }
+  ],
+  "description": "A vertical triband of blue, yellow and black with a white bell at the hoist.",
+  "history": "A former municipality in the province of Limburg, dissolved at the end of 2000 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2000"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Belfeld",
+    "https://commons.wikimedia.org/wiki/File:Belfeld_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "black"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white bell"
+    }
+  ]
+}
