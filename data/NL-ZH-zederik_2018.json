@@ -1,0 +1,67 @@
+{
+  "id": "NL-ZH-zederik_2018",
+  "name": "Zederik (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q184288"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the bands and rose"
+    },
+    {
+      "color": "white",
+      "symbolism": "the bands"
+    }
+  ],
+  "description": "A yellow field with red embattled bands on white and a red rose at the centre.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2018 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1986",
+      "end": "2018"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Zederik",
+    "https://commons.wikimedia.org/wiki/File:Zederik_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "position": "center",
+      "role": "red embattled bands on white"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "center",
+      "role": "a red rose"
+    }
+  ]
+}

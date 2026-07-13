@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="600" height="400">
+
+<svg id="stripes" viewBox="0 0 15 10">
+<rect fill="#cc112f" width="15" height="10"/>
+<rect fill="#00ae41" y="1" width="15" height="8"/>
+<rect fill="#fff" y="2" width="15" height="6"/>
+</svg>
+
+<svg id="escarbuncle" viewBox="-3000 -2000 6000 4000">
+<g stroke-width="15">
+<g id="four_spokes">
+<g id="two_spokes">
+<g id="spoke" fill="#000">
+<rect y="-45" width="740" height="90"/>
+<path id="fleur" d="M 720,-10 V 45 C 806,63 799,134 710,149 C 796,182 864,163 888,133 S 910,65 861,43 C 918,63 1001,68 1065,0"/>
+<use transform="scale(1,-1)" xlink:href="#fleur"/>
+<path id="knob" stroke="#fff" d="M270,45 a50 40 0 0 0 100,0 v-90 a50 40 0 0 0 -100,0 z"/>
+<use x="340" xlink:href="#knob"/>
+</g>
+<use transform="rotate(45)" xlink:href="#spoke"/>
+</g>
+<use transform="rotate(90)" xlink:href="#two_spokes"/>
+</g>
+<use transform="scale(-1)" xlink:href="#four_spokes"/>
+<circle stroke="#fff" r="80"/>
+<circle fill="#fff" r="30"/>
+</g>
+</svg>
+
+</svg>

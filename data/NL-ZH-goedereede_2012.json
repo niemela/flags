@@ -1,0 +1,68 @@
+{
+  "id": "NL-ZH-goedereede_2012",
+  "name": "Goedereede (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q34610857"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the gate and anchor"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the waves"
+    }
+  ],
+  "description": "A red field with a white twin-towered gate, an anchor, and a blue wavy base.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2012 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1966",
+      "end": "2012"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Goedereede",
+    "https://commons.wikimedia.org/wiki/File:Goedereede_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "a white twin-towered gate"
+    },
+    {
+      "type": "anchor",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white anchor"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom",
+      "role": "a blue wavy base"
+    }
+  ]
+}

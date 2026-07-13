@@ -1,0 +1,73 @@
+{
+  "id": "NL-ZH-binnenmaas_2018",
+  "name": "Binnenmaas (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q863961"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the saltire"
+    },
+    {
+      "color": "black",
+      "symbolism": "the fleur-de-lis and star"
+    }
+  ],
+  "description": "A yellow field with a red saltire, a black fleur-de-lis at the hoist, a tree at the centre and a black star at the fly.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2018 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1984",
+      "end": "2018"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Binnenmaas",
+    "https://commons.wikimedia.org/wiki/File:Binnenmaas_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "saltire",
+      "color": "red",
+      "role": "a red saltire"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "black",
+      "position": "hoist",
+      "role": "a black fleur-de-lis"
+    },
+    {
+      "type": "tree",
+      "color": "yellow",
+      "position": "center",
+      "role": "a tree"
+    },
+    {
+      "type": "star",
+      "color": "black",
+      "position": "fly",
+      "role": "a black star"
+    }
+  ]
+}

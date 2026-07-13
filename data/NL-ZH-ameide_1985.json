@@ -1,0 +1,70 @@
+{
+  "id": "NL-ZH-ameide_1985",
+  "name": "Ameide (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q2842582"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the outer bands"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the pales"
+    }
+  ],
+  "description": "Blue, yellow and white horizontal bands with two red pales at the hoist.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 1985 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1985"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Ameide",
+    "https://commons.wikimedia.org/wiki/File:Ameide_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "white",
+        "yellow",
+        "blue"
+      ],
+      "count": 5
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "red"
+      ],
+      "count": 2,
+      "position": "hoist",
+      "role": "two red pales at the hoist"
+    }
+  ]
+}

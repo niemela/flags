@@ -1,0 +1,57 @@
+{
+  "id": "NL-ZH-zevenhoven_1990",
+  "name": "Zevenhoven (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q197054"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the eagle and canton"
+    }
+  ],
+  "description": "A yellow field with a red double-headed eagle at the hoist and a red canton at the upper fly.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 1990 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1990"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Zevenhoven",
+    "https://commons.wikimedia.org/wiki/File:Zevenhoven_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "eagle",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red double-headed eagle"
+    },
+    {
+      "type": "square",
+      "color": "red",
+      "position": "fly",
+      "role": "a red canton at the upper fly"
+    }
+  ]
+}

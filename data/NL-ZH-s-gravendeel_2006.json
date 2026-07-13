@@ -1,0 +1,66 @@
+{
+  "id": "NL-ZH-s-gravendeel_2006",
+  "name": "'s-Gravendeel (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q111239869"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lower band"
+    },
+    {
+      "color": "orange",
+      "symbolism": "the fruit"
+    }
+  ],
+  "description": "Yellow, green and red bands with orange fruit on the green.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2006 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1812",
+      "end": "2006"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_'s-Gravendeel",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_'s-Gravendeel.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "fruit",
+      "color": "orange",
+      "count": 8,
+      "position": "center",
+      "role": "orange fruit on the green band"
+    }
+  ]
+}

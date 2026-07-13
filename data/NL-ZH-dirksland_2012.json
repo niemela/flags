@@ -1,0 +1,70 @@
+{
+  "id": "NL-ZH-dirksland_2012",
+  "name": "Dirksland (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q917827"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the crab"
+    },
+    {
+      "color": "black",
+      "symbolism": "the bars and charges"
+    }
+  ],
+  "description": "A yellow field with a red crab, two black bars and black charges below.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2012 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2012"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Dirksland",
+    "https://commons.wikimedia.org/wiki/File:Dirksland_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "animal-other",
+      "color": "red",
+      "position": "top",
+      "role": "a red crab"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 2,
+      "position": "center",
+      "role": "two black bars"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "bottom",
+      "role": "black charges"
+    }
+  ]
+}

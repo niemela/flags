@@ -1,0 +1,69 @@
+{
+  "id": "NL-ZH-liesveld_2012",
+  "name": "Liesveld (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q736419"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "a stripe"
+    },
+    {
+      "color": "black",
+      "symbolism": "a stripe"
+    },
+    {
+      "color": "blue",
+      "symbolism": "a stripe"
+    },
+    {
+      "color": "red",
+      "symbolism": "a stripe"
+    }
+  ],
+  "description": "A yellow field with a group of white, black, blue and red diagonal stripes at the centre.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2012 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1986",
+      "end": "2012"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Liesveld",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Liesveld.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white",
+        "black",
+        "blue",
+        "red"
+      ],
+      "count": 4,
+      "role": "white, black, blue and red diagonal stripes"
+    }
+  ]
+}

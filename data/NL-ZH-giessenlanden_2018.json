@@ -1,0 +1,63 @@
+{
+  "id": "NL-ZH-giessenlanden_2018",
+  "name": "Giessenlanden (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q1124998"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the embattled bars"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the waves"
+    }
+  ],
+  "description": "A white field with red embattled bars and blue wavy bands.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2018 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1986",
+      "end": "2018"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Giessenlanden",
+    "https://commons.wikimedia.org/wiki/File:Giessenlanden_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 2,
+      "role": "red embattled bars"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "role": "blue wavy bands"
+    }
+  ]
+}

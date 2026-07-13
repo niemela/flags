@@ -1,0 +1,70 @@
+{
+  "id": "NL-ZH-vlist_2014",
+  "name": "Vlist (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q1000865"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the wavy bend"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the castle and stones"
+    }
+  ],
+  "description": "A green field with a white wavy diagonal band, a gold castle at the fly and gold stones at the hoist.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2014 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1985",
+      "end": "2014"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Vlist",
+    "https://commons.wikimedia.org/wiki/File:Vlist_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "role": "a white wavy bend"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "role": "a gold castle"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "gold stones"
+    }
+  ]
+}

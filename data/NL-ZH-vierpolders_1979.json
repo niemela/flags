@@ -1,0 +1,67 @@
+{
+  "id": "NL-ZH-vierpolders_1979",
+  "name": "Vierpolders (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q3028978"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the pales"
+    },
+    {
+      "color": "white",
+      "symbolism": "the field and sword"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the discs"
+    }
+  ],
+  "description": "A white field between two red pales, the hoist pale bearing a white sword and gold discs.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 1979 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1979"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Vierpolders",
+    "https://commons.wikimedia.org/wiki/File:Vierpolders_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "sword",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white sword"
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "count": 8,
+      "position": "hoist",
+      "role": "gold discs around the sword"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "NL-ZH-heerjansdam_2002",
+  "name": "Heerjansdam (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q34988568"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the lower band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the lozenge"
+    }
+  ],
+  "description": "Green, yellow and black bands with yellow, black and green lozenges at the hoist.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2002 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2002"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Heerjansdam",
+    "https://commons.wikimedia.org/wiki/File:Heerjansdam_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "black"
+      ],
+      "count": 3
+    },
+    {
+      "type": "lozenge",
+      "color": "yellow",
+      "position": "top",
+      "role": "a gold lozenge"
+    },
+    {
+      "type": "lozenge",
+      "color": "black",
+      "position": "center",
+      "role": "a black lozenge"
+    },
+    {
+      "type": "lozenge",
+      "color": "green",
+      "position": "bottom",
+      "role": "a green lozenge"
+    }
+  ]
+}

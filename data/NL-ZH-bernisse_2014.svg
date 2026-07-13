@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg width="540" height="360"
+xmlns="http://www.w3.org/2000/svg" version="1.1"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<defs>
+<path id="wave" d="M0,25 C47,25 60,19 76,14 C92,9 110,1 135,1 C198,1 207,38 270,38 C333,38 342,1 405,1 C430,1 448,9 464,14 C480,19 493,25 540,25 V120 H0 z"/>
+<path id="X" stroke="#fff" transform="scale(29.5)" stroke-width=".92" d="M1,1 L-1,-1 M-1,1 L1,-1"/>
+</defs>
+
+<rect width="540" height="120" fill="#009434"/>
+<rect y="120" width="540" height="120" fill="#fff"/>
+<use y="140.5" fill="#00a7e3" xlink:href="#wave"/>
+<use y="180.5" fill="#fff" xlink:href="#wave"/>
+<rect y="240" width="540" height="120" fill="#009434"/>
+<use x="108" y="60" xlink:href="#X"/>
+<use x="216" y="60" xlink:href="#X"/>
+<use x="324" y="60" xlink:href="#X"/>
+<use x="432" y="60" xlink:href="#X"/>
+<use x="216" y="300" xlink:href="#X"/>
+<use x="324" y="300" xlink:href="#X"/>
+
+</svg>

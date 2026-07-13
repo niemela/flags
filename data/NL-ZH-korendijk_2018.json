@@ -1,0 +1,73 @@
+{
+  "id": "NL-ZH-korendijk_2018",
+  "name": "Korendijk (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q952194"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the lozenges"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "green",
+      "symbolism": "the fly"
+    }
+  ],
+  "description": "A blue field with white lozenges at the hoist and yellow and green at the fly.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2018 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1984",
+      "end": "2018"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Korendijk",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Korendijk.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "lozenge",
+      "color": "white",
+      "count": 5,
+      "position": "hoist",
+      "role": "white lozenges"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "fly",
+      "role": "a yellow section at the fly"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "fly",
+      "role": "a green section at the fly"
+    }
+  ]
+}

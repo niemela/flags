@@ -1,0 +1,71 @@
+{
+  "id": "NL-ZH-ouderkerk_2014",
+  "name": "Ouderkerk (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q952166"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "two quarters"
+    },
+    {
+      "color": "red",
+      "symbolism": "two quarters"
+    },
+    {
+      "color": "black",
+      "symbolism": "the crescents"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the star"
+    }
+  ],
+  "description": "Quartered white and red with black crescents at the hoist and a gold star.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2014 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2014"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Ouderkerk",
+    "https://commons.wikimedia.org/wiki/File:Ouderkerk_(Zuid-Holland)_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "white",
+        "red",
+        "red",
+        "white"
+      ]
+    },
+    {
+      "type": "crescent",
+      "color": "black",
+      "count": 2,
+      "position": "canton",
+      "role": "black crescents"
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold star"
+    }
+  ]
+}

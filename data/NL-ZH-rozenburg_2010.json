@@ -1,0 +1,71 @@
+{
+  "id": "NL-ZH-rozenburg_2010",
+  "name": "Rozenburg (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q1019529"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the pales"
+    },
+    {
+      "color": "white",
+      "symbolism": "the flowers and tower"
+    }
+  ],
+  "description": "A yellow field with two red pales, the hoist pale bearing white roses and the fly pale a white tower.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2010 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2010"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Rozenburg",
+    "https://commons.wikimedia.org/wiki/File:Rozenburg_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "red"
+      ],
+      "count": 2,
+      "role": "two red pales"
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "count": 2,
+      "position": "hoist",
+      "role": "white roses"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "fly",
+      "role": "a white tower"
+    }
+  ]
+}

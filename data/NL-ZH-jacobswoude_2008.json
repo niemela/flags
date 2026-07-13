@@ -1,0 +1,67 @@
+{
+  "id": "NL-ZH-jacobswoude_2008",
+  "name": "Jacobswoude (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q955222"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the crescents and band"
+    }
+  ],
+  "description": "A blue field with gold crescents and a gold band bearing blue lozenges.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2008 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2008"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Jacobswoude",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Jacobswoude.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "crescent",
+      "color": "yellow",
+      "count": 3,
+      "role": "gold crescents"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a gold band"
+    },
+    {
+      "type": "lozenge",
+      "color": "blue",
+      "count": 4,
+      "position": "center",
+      "role": "blue lozenges on the band"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "NL-ZH-oostflakkee_2012",
+  "name": "Oostflakkee (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q820956"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "red",
+      "symbolism": "the edges"
+    },
+    {
+      "color": "black",
+      "symbolism": "the charge"
+    }
+  ],
+  "description": "A white field with green stripes edged red and a black compass-rose charge at the centre.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2012 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2012"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Oostflakkee",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Oostflakkee.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green",
+        "white",
+        "green",
+        "red"
+      ],
+      "count": 5
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "a black compass-rose charge"
+    }
+  ]
+}

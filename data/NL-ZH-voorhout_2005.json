@@ -1,0 +1,63 @@
+{
+  "id": "NL-ZH-voorhout_2005",
+  "name": "Voorhout (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q923574"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the saltire"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the band"
+    }
+  ],
+  "description": "A white field with a red saltire and a blue band across the middle.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2005 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2005"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Voorhout",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Voorhout.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "saltire",
+      "color": "red",
+      "role": "a red saltire"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a blue band"
+    }
+  ]
+}

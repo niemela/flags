@@ -1,0 +1,65 @@
+{
+  "id": "NL-ZH-zevenhuizen_1990",
+  "name": "Zevenhuizen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q2649225"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the pales"
+    },
+    {
+      "color": "red",
+      "symbolism": "the canton"
+    }
+  ],
+  "description": "A yellow field with two green pales at the hoist and a red canton at the upper fly.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 1990 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1990"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Zevenhuizen",
+    "https://commons.wikimedia.org/wiki/File:Zevenhuizen_(ZH)_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "green"
+      ],
+      "count": 2,
+      "position": "hoist",
+      "role": "two green pales"
+    },
+    {
+      "type": "square",
+      "color": "red",
+      "position": "fly",
+      "role": "a red canton at the upper fly"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "NL-ZH-heukelum_1985",
+  "name": "Heukelum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q2443843"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the triangle"
+    },
+    {
+      "color": "red",
+      "symbolism": "the disc"
+    },
+    {
+      "color": "white",
+      "symbolism": "the star"
+    }
+  ],
+  "description": "A white field with a green triangle at the fly and a red disc bearing a white star.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 1985 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1985"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Heukelum",
+    "https://commons.wikimedia.org/wiki/File:Heukelum_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "fly",
+      "role": "a green triangle at the fly"
+    },
+    {
+      "type": "disc",
+      "color": "red",
+      "position": "center",
+      "role": "a red disc"
+    },
+    {
+      "type": "star",
+      "color": "white",
+      "position": "center",
+      "role": "a white star on the disc"
+    }
+  ]
+}

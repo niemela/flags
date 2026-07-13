@@ -1,0 +1,65 @@
+{
+  "id": "NL-ZH-geervliet_1979",
+  "name": "Geervliet (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q3100092"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the pale"
+    },
+    {
+      "color": "red",
+      "symbolism": "the saltires"
+    }
+  ],
+  "description": "A white field with a blue pale near the hoist and four red saltires on the fly.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 1979 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1979"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Geervliet",
+    "https://commons.wikimedia.org/wiki/File:Geervliet_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "a blue pale"
+    },
+    {
+      "type": "saltire",
+      "color": "red",
+      "count": 4,
+      "position": "fly",
+      "role": "four red saltires"
+    }
+  ]
+}

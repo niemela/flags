@@ -1,0 +1,72 @@
+{
+  "id": "NL-ZH-middelharnis_2012",
+  "name": "Middelharnis (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q36361072"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the canton"
+    },
+    {
+      "color": "white",
+      "symbolism": "the ship"
+    }
+  ],
+  "description": "A barry of green and yellow with a blue canton bearing a white ship.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2012 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2012"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Middelharnis",
+    "https://commons.wikimedia.org/wiki/File:Middelharnis_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "green",
+        "yellow",
+        "green"
+      ],
+      "count": 5
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue canton"
+    },
+    {
+      "type": "ship",
+      "color": "white",
+      "position": "canton",
+      "role": "a white ship"
+    }
+  ]
+}

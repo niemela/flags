@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="600" height="400" viewBox="0 0 720 480">
+
+<defs>
+<path id="wavy"
+ d="M0,179 c40,0
+ 50,26 90,26 s50,-26 90,-26
+ s50,26 90,26 s50,-26 90,-26
+ s50,26 90,26 s50,-26 90,-26
+ s50,26 90,26 s50,-26 90,-26
+ V360 H0"/>
+<path id="crescent" fill="black"
+ d="M-57.6,24 a62.4 62.4 0 1 0 0,-48 a42 42 0 1 1 0,48"/>
+</defs>
+
+<rect fill="white" width="720" height="480"/>
+<use fill="#0b72cf" xlink:href="#wavy"/>
+<use y="96" fill="white" xlink:href="#wavy"/>
+
+<use x="270" y="98" xlink:href="#crescent"/>
+<use x="450" y="98" xlink:href="#crescent"/>
+<use transform="translate(360,382) rotate(90)" xlink:href="#crescent"/>
+
+</svg>

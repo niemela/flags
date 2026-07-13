@@ -1,0 +1,60 @@
+{
+  "id": "NL-ZH-zevenhuizen-moerkapelle_2009",
+  "name": "Zevenhuizen-Moerkapelle (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q197061"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lantern"
+    }
+  ],
+  "description": "A yellow field with green bands top and bottom and a red lantern at the hoist.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2009 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2009"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Zevenhuizen-Moerkapelle",
+    "https://commons.wikimedia.org/wiki/File:Zevenhuizen-Moerkapelle_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red lantern"
+    }
+  ]
+}

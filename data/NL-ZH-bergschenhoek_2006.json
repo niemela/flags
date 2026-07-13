@@ -1,0 +1,59 @@
+{
+  "id": "NL-ZH-bergschenhoek_2006",
+  "name": "Bergschenhoek (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q820175"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the arrowhead and edges"
+    }
+  ],
+  "description": "A yellow field with a red arrowhead from the hoist and red stripes along the top and bottom.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2006 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2006"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Bergschenhoek",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Bergschenhoek.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "arrowhead",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red arrowhead from the hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 2,
+      "role": "red stripes along the top and bottom"
+    }
+  ]
+}

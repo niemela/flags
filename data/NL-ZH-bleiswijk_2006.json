@@ -1,0 +1,70 @@
+{
+  "id": "NL-ZH-bleiswijk_2006",
+  "name": "Bleiswijk (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q883690"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the cross and roundels"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lozenge"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lozenge"
+    }
+  ],
+  "description": "A white field with a black cross ending in roundels and a yellow-and-red lozenge at the upper hoist.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2006 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2006"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Bleiswijk",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Bleiswijk.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "greek-cross",
+      "color": "black",
+      "role": "a black cross ending in roundels"
+    },
+    {
+      "type": "disc",
+      "color": "black",
+      "count": 4,
+      "role": "black roundels at the cross ends"
+    },
+    {
+      "type": "lozenge",
+      "color": "yellow",
+      "position": "canton",
+      "role": "a yellow lozenge with a red centre"
+    }
+  ]
+}

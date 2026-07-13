@@ -1,0 +1,61 @@
+{
+  "id": "NL-ZH-nederlek_2014",
+  "name": "Nederlek (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q1128493"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the waves"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the crescents"
+    }
+  ],
+  "description": "A white field with a light blue wavy band and three blue crescents.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2014 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2014"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Nederlek",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Nederlek.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "wave",
+      "color": "light-blue",
+      "position": "center",
+      "role": "a light blue wavy band"
+    },
+    {
+      "type": "crescent",
+      "color": "blue",
+      "count": 3,
+      "role": "three blue crescents"
+    }
+  ]
+}
