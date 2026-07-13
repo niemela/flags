@@ -1,0 +1,53 @@
+{
+  "id": "BE-BRU-brussels",
+  "name": "Brussels (Belgium)",
+  "type": [
+    "city"
+  ],
+  "parent": "BE-BRU",
+  "codes": {
+    "wikidata": "Q239"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "14:15",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lower band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the figure of Saint Michael"
+    }
+  ],
+  "description": "Green over red, charged with a gold figure of Saint Michael slaying the dragon.",
+  "history": "Saint Michael, the patron saint of the City of Brussels and the charge of its arms, appears in gold over the green and red livery colours of the city.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Brussel_vlag.svg",
+    "https://www.wikidata.org/wiki/Q239"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "human-figure",
+      "color": "yellow",
+      "position": "center",
+      "role": "Saint Michael slaying the dragon"
+    }
+  ]
+}
