@@ -1,0 +1,64 @@
+{
+  "id": "NL-GR-pekela",
+  "name": "Pekela (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q932077"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the hoist band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the fly band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the ship and waves"
+    }
+  ],
+  "description": "A vertical triband of red, white and blue, the white centre charged with a black sailing ship on black waves.",
+  "history": "Flag of the municipality of Pekela in the province of Groningen, comprising Oude Pekela and Nieuwe Pekela. The sailing ship recalls the town's shipbuilding and canal-shipping past.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Pekela",
+    "https://commons.wikimedia.org/wiki/File:Pekela_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "ship",
+      "color": "black",
+      "position": "center",
+      "role": "a black sailing ship"
+    },
+    {
+      "type": "wave",
+      "color": "black",
+      "position": "center",
+      "role": "black waves beneath the ship"
+    }
+  ]
+}

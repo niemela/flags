@@ -1,0 +1,88 @@
+{
+  "id": "NL-GR-stadskanaal",
+  "name": "Stadskanaal (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q73074"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the striped bands"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the striped bands"
+    },
+    {
+      "color": "green",
+      "symbolism": "the hoist panel"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the central line"
+    }
+  ],
+  "description": "A white field with a green panel at the hoist, black-and-yellow bands across the upper and lower fly, and a blue horizontal line across the centre.",
+  "history": "Flag of the municipality of Stadskanaal in the south-east of the province of Groningen. The town and municipality are named after the canal around which they grew, evoked by the blue central line.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Stadskanaal",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Stadskanaal.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "yellow",
+        "black"
+      ],
+      "count": 3,
+      "position": "top",
+      "role": "black-and-yellow bands across the upper fly"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "yellow",
+        "black"
+      ],
+      "count": 3,
+      "position": "bottom",
+      "role": "black-and-yellow bands across the lower fly"
+    },
+    {
+      "type": "side",
+      "color": "green",
+      "position": "hoist",
+      "role": "a green panel at the hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a blue horizontal line across the centre"
+    }
+  ]
+}

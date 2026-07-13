@@ -1,0 +1,49 @@
+{
+  "id": "NL-GR-veendam",
+  "name": "Veendam (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q73065"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central band"
+    }
+  ],
+  "description": "A blue field with a broad white horizontal band across the centre bearing the municipal coat of arms.",
+  "history": "Flag of the municipality of Veendam in the province of Groningen, a former peat-colony town in the Groningen peat district.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Veendam",
+    "https://commons.wikimedia.org/wiki/File:Veendam_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "the municipal arms on the white band"
+    }
+  ]
+}

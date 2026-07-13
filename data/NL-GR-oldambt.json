@@ -1,0 +1,67 @@
+{
+  "id": "NL-GR-oldambt",
+  "name": "Oldambt (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q1347872"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the wavy stripes"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the hoist band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the stars"
+    }
+  ],
+  "description": "A light-blue field with four white wavy stripes, and a yellow hoist band with an indented inner edge bearing five red six-pointed stars.",
+  "history": "Flag of the municipality of Oldambt in the east of the province of Groningen, formed in 2010 from Winschoten, Scheemda and Reiderland. The wavy stripes evoke the region's waterways.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Oldambt",
+    "https://commons.wikimedia.org/wiki/File:Oldambt_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "count": 4,
+      "role": "four white wavy stripes"
+    },
+    {
+      "type": "side",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a yellow hoist band with an indented inner edge"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 6,
+      "color": "red",
+      "position": "hoist",
+      "role": "five red six-pointed stars on the hoist band"
+    }
+  ]
+}
