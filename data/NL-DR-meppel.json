@@ -1,0 +1,69 @@
+{
+  "id": "NL-DR-meppel",
+  "name": "Meppel (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q60425"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the roundels and the upper panel"
+    },
+    {
+      "color": "green",
+      "symbolism": "the clover and the lower panel"
+    },
+    {
+      "color": "black",
+      "symbolism": "the two bars beneath the clover"
+    }
+  ],
+  "description": "A red field strewn with white roundels along the borders, bearing a central panel of white over green charged with a green clover (trefoil) above two short black bars.",
+  "history": "Flag of the municipality of Meppel in the south-west of the province of Drenthe.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Meppel",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Meppel.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "arrangement": "border",
+      "role": "white roundels arranged around the border"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2,
+      "position": "center",
+      "role": "a central panel of white over green"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "center",
+      "role": "a green clover (trefoil) in the upper panel"
+    }
+  ]
+}

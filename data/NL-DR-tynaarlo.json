@@ -1,0 +1,66 @@
+{
+  "id": "NL-DR-tynaarlo",
+  "name": "Tynaarlo (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q840457"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the hoist band and the central fly band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the heraldic flower"
+    },
+    {
+      "color": "green",
+      "symbolism": "the upper fly band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lower fly band"
+    }
+  ],
+  "description": "A red band at the hoist charged with a white heraldic flower, the fly divided into three horizontal bands of green, red and yellow.",
+  "history": "Flag of the municipality of Tynaarlo in the north of the province of Drenthe, formed in the 1998 reorganisation of the province's municipalities.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Tynaarlo",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Tynaarlo.svg"
+  ],
+  "features": [
+    {
+      "type": "side",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red band at the hoist"
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white heraldic flower on the hoist band"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "red",
+        "yellow"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "three bands on the fly"
+    }
+  ]
+}

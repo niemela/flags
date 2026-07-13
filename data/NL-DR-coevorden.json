@@ -1,0 +1,59 @@
+{
+  "id": "NL-DR-coevorden",
+  "name": "Coevorden (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q60453"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the cross"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the edging of the cross and the castle"
+    }
+  ],
+  "description": "A red field divided by a centred blue cross fimbriated in yellow, charged at the centre with a golden castle tower.",
+  "history": "Flag of the municipality of Coevorden in the south-east of the province of Drenthe. Coevorden is a historic fortress town, and the castle tower recalls its role as a stronghold; the charges derive from the municipal arms.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Coevorden",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Coevorden.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "greek-cross",
+      "color": "blue",
+      "fimbriation": [
+        {
+          "color": "yellow"
+        }
+      ],
+      "role": "a centred blue cross edged in yellow, reaching all four edges"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "a golden castle tower"
+    }
+  ]
+}

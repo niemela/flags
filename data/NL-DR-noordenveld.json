@@ -1,0 +1,63 @@
+{
+  "id": "NL-DR-noordenveld",
+  "name": "Noordenveld (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q835083"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the upper band and the clover"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lower band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the checkered hoist band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the checkered hoist band"
+    }
+  ],
+  "description": "A green-over-yellow horizontal bicolour bearing a large green clover (trefoil) at the centre, with a black-and-white checkered band at the hoist.",
+  "history": "Flag of the municipality of Noordenveld in the north-west of the province of Drenthe, formed in the 1998 reorganisation of the province's municipalities.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Noordenveld",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Noordenveld.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "center",
+      "role": "a large green clover (trefoil)"
+    },
+    {
+      "type": "chequy",
+      "color": "black",
+      "position": "hoist",
+      "role": "a black-and-white checkered band at the hoist"
+    }
+  ]
+}

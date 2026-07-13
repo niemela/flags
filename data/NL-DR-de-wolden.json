@@ -1,0 +1,71 @@
+{
+  "id": "NL-DR-de-wolden",
+  "name": "De Wolden (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q835108"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the horizontal stripes"
+    },
+    {
+      "color": "black",
+      "symbolism": "the band at the hoist"
+    },
+    {
+      "color": "white",
+      "symbolism": "the wavy line"
+    }
+  ],
+  "description": "A yellow field with four green horizontal stripes, and a black vertical band at the hoist charged with a white wavy line.",
+  "history": "Flag of the municipality of De Wolden in the province of Drenthe, formed in the 1998 reorganisation of the province's municipalities.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_De_Wolden",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_De_Wolden.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green",
+        "yellow",
+        "green",
+        "yellow",
+        "green",
+        "yellow",
+        "green",
+        "yellow"
+      ],
+      "count": 9,
+      "role": "a yellow field with four green stripes"
+    },
+    {
+      "type": "side",
+      "color": "black",
+      "position": "hoist",
+      "role": "a black vertical band at the hoist"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white wavy line on the hoist band"
+    }
+  ]
+}

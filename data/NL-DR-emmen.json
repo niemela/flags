@@ -1,0 +1,61 @@
+{
+  "id": "NL-DR-emmen",
+  "name": "Emmen (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q14641"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the silver field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the sawtooth borders"
+    },
+    {
+      "color": "black",
+      "symbolism": "the sawtooth borders and the arms"
+    }
+  ],
+  "description": "A silver (white) field edged along the top and bottom with interlocking green-and-black sawtooth borders, bearing at the centre the full municipal coat of arms: a shield with a green saltire, supported by two black horses, ensigned with a golden coronet on a silver pedestal.",
+  "history": "Flag of the municipality of Emmen, the most populous municipality of the province of Drenthe. The flag displays the full municipal coat of arms with its horse supporters.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Emmen",
+    "https://commons.wikimedia.org/wiki/File:Emmen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "top",
+      "role": "a green-and-black sawtooth border along the top edge"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "bottom",
+      "role": "a green-and-black sawtooth border along the bottom edge"
+    },
+    {
+      "type": "coat-of-arms",
+      "color": "black",
+      "position": "center",
+      "role": "the full municipal arms: a shield with a green saltire, two black horse supporters, a golden coronet and a silver pedestal"
+    }
+  ]
+}
