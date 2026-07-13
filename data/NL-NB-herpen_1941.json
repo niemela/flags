@@ -1,0 +1,59 @@
+{
+  "id": "NL-NB-herpen_1941",
+  "name": "Herpen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q2765944"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the bars and ducks"
+    }
+  ],
+  "description": "A white field with two red bars and red waterfowl.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1941 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1941"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Herpen",
+    "https://commons.wikimedia.org/wiki/File:Herpen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 2,
+      "role": "two red bars"
+    },
+    {
+      "type": "bird",
+      "color": "red",
+      "count": 8,
+      "role": "red waterfowl"
+    }
+  ]
+}

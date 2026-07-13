@@ -1,0 +1,76 @@
+{
+  "id": "NL-NB-ossendrecht_1996",
+  "name": "Ossendrecht (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q35007159"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "white",
+      "symbolism": "the fleur-de-lis"
+    },
+    {
+      "color": "red",
+      "symbolism": "a band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "a band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "a band"
+    }
+  ],
+  "description": "A black hoist bearing a white fleur-de-lis, and red, yellow and blue bands on the fly.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Ossendrecht",
+    "https://commons.wikimedia.org/wiki/File:Ossendrecht_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "side",
+      "color": "black",
+      "position": "hoist",
+      "role": "a black hoist band"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white fleur-de-lis"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "blue"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "red, yellow and blue bands"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "NL-NB-hoeven_1996",
+  "name": "Hoeven (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q2183962"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the upper hoist"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lower fly"
+    }
+  ],
+  "description": "Divided by a wavy diagonal, blue over yellow, with a gold tower at the upper hoist.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Hoeven",
+    "https://commons.wikimedia.org/wiki/File:Hoeven_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2,
+      "role": "a wavy diagonal division, blue and yellow"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "canton",
+      "role": "a gold tower"
+    }
+  ]
+}

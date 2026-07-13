@@ -1,0 +1,70 @@
+{
+  "id": "NL-NB-nistelrode_1993",
+  "name": "Nistelrode (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q40698062"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the canton"
+    },
+    {
+      "color": "white",
+      "symbolism": "the checkers"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the croziers"
+    }
+  ],
+  "description": "A blue field with a red canton, a red-and-white checkered panel at the lower hoist, and two crossed gold croziers.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1993 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1993"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Nistelrode",
+    "https://commons.wikimedia.org/wiki/File:Nistelrode_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red canton"
+    },
+    {
+      "type": "chequy",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red-and-white checkered panel at the lower hoist"
+    },
+    {
+      "type": "saltire",
+      "color": "yellow",
+      "role": "two crossed gold croziers"
+    }
+  ]
+}

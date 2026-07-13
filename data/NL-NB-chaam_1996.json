@@ -1,0 +1,61 @@
+{
+  "id": "NL-NB-chaam_1996",
+  "name": "Chaam (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q2369076"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "black",
+      "symbolism": "the charges"
+    }
+  ],
+  "description": "A field of black and yellow vertical bands with three black charges.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Chaam",
+    "https://commons.wikimedia.org/wiki/File:Chaam_dorpsvlag_1997.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black",
+        "yellow",
+        "black",
+        "yellow"
+      ],
+      "count": 4
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "count": 3,
+      "role": "three black charges"
+    }
+  ]
+}

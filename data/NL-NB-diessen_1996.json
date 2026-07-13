@@ -1,0 +1,56 @@
+{
+  "id": "NL-NB-diessen_1996",
+  "name": "Diessen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q3027519"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the ring and ropes"
+    }
+  ],
+  "description": "A blue field with a gold ring and gold rope charges.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Diessen",
+    "https://commons.wikimedia.org/wiki/File:Diessen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "circle",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold ring"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "role": "gold rope charges"
+    }
+  ]
+}

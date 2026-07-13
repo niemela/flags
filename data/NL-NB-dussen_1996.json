@@ -1,0 +1,68 @@
+{
+  "id": "NL-NB-dussen_1996",
+  "name": "Dussen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q106363391"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the upper field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the lower field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the saltire"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltire"
+    }
+  ],
+  "description": "Yellow over black with a red-and-white checkered saltire.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1908",
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Dussen",
+    "https://commons.wikimedia.org/wiki/File:Dussen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "black"
+      ],
+      "count": 2
+    },
+    {
+      "type": "saltire",
+      "color": "red",
+      "fimbriation": [
+        {
+          "color": "white"
+        }
+      ],
+      "role": "a red-and-white checkered saltire"
+    }
+  ]
+}

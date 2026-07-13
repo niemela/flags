@@ -1,0 +1,59 @@
+{
+  "id": "NL-NB-veghel_2016",
+  "name": "Veghel (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9874"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the saltire"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltire"
+    }
+  ],
+  "description": "A red field with a black-and-white checkered saltire.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 2016 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2016"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Veghel",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Veghel.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "saltire",
+      "color": "black",
+      "fimbriation": [
+        {
+          "color": "white"
+        }
+      ],
+      "role": "a black-and-white checkered saltire"
+    }
+  ]
+}

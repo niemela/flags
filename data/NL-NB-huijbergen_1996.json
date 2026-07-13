@@ -1,0 +1,67 @@
+{
+  "id": "NL-NB-huijbergen_1996",
+  "name": "Huijbergen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q2662005"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fly and keys"
+    },
+    {
+      "color": "white",
+      "symbolism": "the star"
+    }
+  ],
+  "description": "A blue and yellow field with a white star at the upper hoist and two crossed keys.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Huijbergen",
+    "https://commons.wikimedia.org/wiki/File:Huijbergen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "fly",
+      "role": "a yellow section at the fly"
+    },
+    {
+      "type": "star",
+      "color": "white",
+      "position": "canton",
+      "role": "a white star"
+    },
+    {
+      "type": "key",
+      "color": "blue",
+      "count": 2,
+      "role": "two crossed keys"
+    }
+  ]
+}

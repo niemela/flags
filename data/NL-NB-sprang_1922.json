@@ -1,0 +1,79 @@
+{
+  "id": "NL-NB-sprang_1922",
+  "name": "Sprang (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q2469243"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "red",
+      "symbolism": "the fly and lion"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the bar"
+    },
+    {
+      "color": "white",
+      "symbolism": "the charges"
+    }
+  ],
+  "description": "Per pale yellow and red with a red lion on a blue bar at the hoist and white charges on the fly.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1922 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1922"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Sprang",
+    "https://commons.wikimedia.org/wiki/File:Sprang_dorpsvlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red lion"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "a blue bar"
+    },
+    {
+      "type": "lozenge",
+      "color": "white",
+      "count": 3,
+      "position": "fly",
+      "role": "white charges"
+    }
+  ]
+}

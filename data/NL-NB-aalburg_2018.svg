@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<svg viewBox="-300 -200 600 400" width="540" height="360"
+ xmlns="http://www.w3.org/2000/svg" version="1.1"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<path fill="#e22" d="M-300,200 V-200 H300"/>
+<path fill="black" d="M300,-200 V200 H-300"/>
+
+<g id="wheel" fill="#fe0" stroke="#000" stroke-width="3">
+
+ <g id="spokes" stroke-width="6">
+ <rect id="spoke" x="-3.3" y="-110" width="6.6" height="220"/>
+ <use transform="rotate(60)" xlink:href="#spoke"/>
+ <use transform="rotate(120)" xlink:href="#spoke"/>
+ </g>
+
+ <circle id="hub" r="20"/>
+
+ <path id="rim" d="M0,121 A 121,121 0 1 0 0,-121 A 121,121 0 1 0 0,121
+    M0,97 A 97,97 0 1 1 0,-97 A 97,97 0 1 1 0,97"/>
+
+ <use xlink:href="#spokes" stroke="none"/>
+
+</g>
+
+</svg>

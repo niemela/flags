@@ -1,0 +1,63 @@
+{
+  "id": "NL-NB-liempde_1995",
+  "name": "Liempde (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q42858196"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the plough"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bars"
+    }
+  ],
+  "description": "A blue field with a white plough at the upper hoist and gold bars.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1995 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1995"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Liempde",
+    "https://commons.wikimedia.org/wiki/File:Liempde_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "tool",
+      "color": "white",
+      "position": "canton",
+      "role": "a white plough"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 2,
+      "role": "gold bars"
+    }
+  ]
+}

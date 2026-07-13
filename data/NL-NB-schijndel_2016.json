@@ -1,0 +1,64 @@
+{
+  "id": "NL-NB-schijndel_2016",
+  "name": "Schijndel (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9864"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the lower band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the crescent"
+    }
+  ],
+  "description": "Yellow, green and white bands with a black crescent at the upper hoist.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 2016 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2016"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Schijndel",
+    "https://commons.wikimedia.org/wiki/File:Schijndel_Netherlands.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green",
+        "white"
+      ],
+      "count": 3
+    },
+    {
+      "type": "crescent",
+      "color": "black",
+      "position": "canton",
+      "role": "a black crescent"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "NL-NB-woudrichem_2018",
+  "name": "Woudrichem (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9882"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "white",
+      "symbolism": "the fish"
+    },
+    {
+      "color": "black",
+      "symbolism": "the band"
+    }
+  ],
+  "description": "A green hoist with a silver fish, and a yellow fly with a black band bearing gold crosses.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 2018 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2018"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Woudrichem",
+    "https://commons.wikimedia.org/wiki/File:Woudrichem_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "hoist",
+      "role": "a silver fish"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "a black band"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "count": 5,
+      "position": "fly",
+      "role": "gold crosses on the band"
+    }
+  ]
+}

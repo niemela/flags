@@ -1,0 +1,78 @@
+{
+  "id": "NL-NB-werkendam_2018",
+  "name": "Werkendam (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9880"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the pall"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "red",
+      "symbolism": "the charges"
+    }
+  ],
+  "description": "A yellow field with green and blue diagonal bands forming a pall, a red butterfly at the upper hoist and a red bird at the lower hoist.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 2018 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2018"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Werkendam",
+    "https://commons.wikimedia.org/wiki/File:Werkendam_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "pall",
+      "color": "green",
+      "role": "a green pall"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "role": "blue diagonal bands"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "canton",
+      "role": "a red butterfly"
+    },
+    {
+      "type": "bird",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red bird"
+    }
+  ]
+}

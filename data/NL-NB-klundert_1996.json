@@ -1,0 +1,61 @@
+{
+  "id": "NL-NB-klundert_1996",
+  "name": "Klundert (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q76996"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the wavy band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the saltires"
+    }
+  ],
+  "description": "A yellow field with a blue wavy band and three black saltires.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Klundert",
+    "https://commons.wikimedia.org/wiki/File:Klundert_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "role": "a blue wavy band"
+    },
+    {
+      "type": "saltire",
+      "color": "black",
+      "count": 3,
+      "role": "three black saltires"
+    }
+  ]
+}

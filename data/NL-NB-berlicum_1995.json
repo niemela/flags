@@ -1,0 +1,57 @@
+{
+  "id": "NL-NB-berlicum_1995",
+  "name": "Berlicum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q2897233"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "black",
+      "symbolism": "the bear and checkers"
+    }
+  ],
+  "description": "A yellow field with a black bear at the hoist and a black-and-yellow checkered fly.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1995 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1995"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Berlicum",
+    "https://commons.wikimedia.org/wiki/File:Berlicum_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "hoist",
+      "role": "a black bear"
+    },
+    {
+      "type": "chequy",
+      "color": "black",
+      "position": "fly",
+      "role": "a black-and-yellow checkered fly"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "NL-NB-sint-oedenrode_2016",
+  "name": "Sint-Oedenrode (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q50885806"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltire"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the castle"
+    }
+  ],
+  "description": "A blue field with a white saltire and a gold castle at the hoist.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 2016 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2016"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Sint-Oedenrode",
+    "https://commons.wikimedia.org/wiki/File:Sint-Oedenrode_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "saltire",
+      "color": "white",
+      "role": "a white saltire"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold castle"
+    }
+  ]
+}

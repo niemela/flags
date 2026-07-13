@@ -1,0 +1,65 @@
+{
+  "id": "NL-NB-oeffelt_1993",
+  "name": "Oeffelt (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q44060396"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the upper field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the lower field and waves"
+    },
+    {
+      "color": "red",
+      "symbolism": "the charge"
+    }
+  ],
+  "description": "Yellow over blue with a red knot charge at the hoist and a blue wavy line.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1993 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1816",
+      "end": "1993"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Oeffelt",
+    "https://commons.wikimedia.org/wiki/File:Oeffelt_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red knot charge"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "role": "a blue wavy line"
+    }
+  ]
+}

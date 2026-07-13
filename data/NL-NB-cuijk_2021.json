@@ -1,0 +1,59 @@
+{
+  "id": "NL-NB-cuijk_2021",
+  "name": "Cuijk (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9827"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the bars and ducks"
+    }
+  ],
+  "description": "A yellow field with two red bars and nine red waterfowl.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 2021 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2021"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Cuijk",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Cuijk.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 2,
+      "role": "two red bars"
+    },
+    {
+      "type": "bird",
+      "color": "red",
+      "count": 9,
+      "role": "nine red waterfowl"
+    }
+  ]
+}

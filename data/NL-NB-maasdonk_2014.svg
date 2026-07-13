@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="600" height="400">
+
+<rect fill="#00ae42" width="600" height="400"/>
+<polygon fill="white" points="0,0 200,0 400,200 200,400 0,400"/>
+
+<g id="bloem" fill="#cc0c2f" transform="translate(100,100)">
+ <g id="half">
+  <g id="quarter">
+   <path id="eighth"
+   	d="M0,70.4 C10,60 27.08,69.26 35.56,55.19 S12.36,29.28 20.82,20.82 L-15,-30z"/>
+   <use transform="scale(-1 1)" xlink:href="#eighth"/>
+  </g>
+  <use transform="rotate(90)" xlink:href="#quarter"/>
+ </g>
+ <use transform="scale(-1)" xlink:href="#half"/>
+ <circle stroke="white" stroke-width="4" r="16"/>
+</g>
+<use y="200" xlink:href="#bloem"/>
+<use x="150" y="100" xlink:href="#bloem"/>
+
+</svg>

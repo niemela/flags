@@ -1,0 +1,72 @@
+{
+  "id": "NL-NB-made-en-drimmelen_1996",
+  "name": "Made en Drimmelen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q2482970"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the upper hoist"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lower fly"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the bend"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltires"
+    }
+  ],
+  "description": "Per bend black and yellow with three white saltires on a blue diagonal band.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Made_en_Drimmelen",
+    "https://commons.wikimedia.org/wiki/File:Made_en_Drimmelen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "black",
+        "yellow"
+      ],
+      "count": 2,
+      "role": "per bend black and yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "role": "a blue diagonal band"
+    },
+    {
+      "type": "saltire",
+      "color": "white",
+      "count": 3,
+      "role": "three white saltires"
+    }
+  ]
+}

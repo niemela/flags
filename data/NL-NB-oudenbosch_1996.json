@@ -1,0 +1,65 @@
+{
+  "id": "NL-NB-oudenbosch_1996",
+  "name": "Oudenbosch (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q44079391"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the upper field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the lower field and lozenge"
+    },
+    {
+      "color": "green",
+      "symbolism": "the tree"
+    }
+  ],
+  "description": "Green over white with a white lozenge bearing a green tree at the centre.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Oudenbosch",
+    "https://commons.wikimedia.org/wiki/File:Oudenbosch_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "lozenge",
+      "color": "white",
+      "position": "center",
+      "role": "a white lozenge"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "a green tree"
+    }
+  ]
+}

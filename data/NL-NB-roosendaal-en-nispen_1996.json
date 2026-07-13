@@ -1,0 +1,65 @@
+{
+  "id": "NL-NB-roosendaal-en-nispen_1996",
+  "name": "Roosendaal en Nispen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q3441895"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "red",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "white",
+      "symbolism": "the diagonal"
+    },
+    {
+      "color": "red",
+      "symbolism": "the roses"
+    }
+  ],
+  "description": "A black hoist and red fly divided by a white diagonal bearing three red roses.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Roosendaal_en_Nispen",
+    "https://commons.wikimedia.org/wiki/File:Roosendaal_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "black",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "role": "black and red divided by a white diagonal"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "count": 3,
+      "role": "three red roses on the diagonal"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "NL-NB-haaren_2020",
+  "name": "Haaren (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9840"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the band, tree and crosses"
+    }
+  ],
+  "description": "A white field with a blue band bearing a tree and blue cross-crosslets at the hoist.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 2020 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2020"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Haaren",
+    "https://commons.wikimedia.org/wiki/File:Haaren_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a blue band"
+    },
+    {
+      "type": "tree",
+      "color": "blue",
+      "position": "center",
+      "role": "a blue tree"
+    },
+    {
+      "type": "saltire",
+      "color": "blue",
+      "count": 4,
+      "position": "hoist",
+      "role": "blue cross-crosslets"
+    }
+  ]
+}

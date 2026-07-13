@@ -1,0 +1,57 @@
+{
+  "id": "NL-NB-alphen-en-riel_1996",
+  "name": "Alphen en Riel (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q2786655"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bands and triangles"
+    }
+  ],
+  "description": "A blue field with yellow bands at the edges and three yellow triangles.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Alphen_en_Riel",
+    "https://commons.wikimedia.org/wiki/File:Alphenriel_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "blue",
+        "yellow"
+      ],
+      "count": 3,
+      "role": "yellow bands at the edges"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "count": 3,
+      "role": "three yellow triangles"
+    }
+  ]
+}

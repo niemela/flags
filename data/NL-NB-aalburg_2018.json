@@ -1,0 +1,61 @@
+{
+  "id": "NL-NB-aalburg_2018",
+  "name": "Aalburg (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9808"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the upper hoist"
+    },
+    {
+      "color": "black",
+      "symbolism": "the lower fly"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wheel"
+    }
+  ],
+  "description": "Divided per bend red and black with a gold spoked wheel at the centre.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 2018 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1973",
+      "end": "2018"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Aalburg",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Aalburg.svg"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red",
+        "black"
+      ],
+      "count": 2,
+      "role": "per bend red and black"
+    },
+    {
+      "type": "circle",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold spoked wheel"
+    }
+  ]
+}

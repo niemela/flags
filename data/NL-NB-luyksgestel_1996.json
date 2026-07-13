@@ -1,0 +1,80 @@
+{
+  "id": "NL-NB-luyksgestel_1996",
+  "name": "Luyksgestel (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q42853242"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "red",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "black",
+      "symbolism": "the canton"
+    },
+    {
+      "color": "green",
+      "symbolism": "the trees"
+    }
+  ],
+  "description": "A barry of yellow and red with a black canton bearing a gold lion and three green trees at the base.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1900",
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Luyksgestel",
+    "https://commons.wikimedia.org/wiki/File:Luyksgestel_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 5
+    },
+    {
+      "type": "canton",
+      "color": "black",
+      "position": "hoist",
+      "role": "a black canton"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "canton",
+      "role": "a gold lion"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "count": 3,
+      "position": "bottom",
+      "role": "three green trees"
+    }
+  ]
+}

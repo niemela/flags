@@ -1,0 +1,56 @@
+{
+  "id": "NL-NB-budel_1998",
+  "name": "Budel (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q1001369"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the pales"
+    }
+  ],
+  "description": "A blue field with three gold pales at the centre.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1998 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1998"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Budel",
+    "https://commons.wikimedia.org/wiki/File:Budel_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "yellow",
+        "yellow"
+      ],
+      "count": 3,
+      "position": "center",
+      "role": "three gold pales"
+    }
+  ]
+}

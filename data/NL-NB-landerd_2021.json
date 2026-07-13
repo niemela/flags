@@ -1,0 +1,61 @@
+{
+  "id": "NL-NB-landerd_2021",
+  "name": "Landerd (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9849"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the flower"
+    },
+    {
+      "color": "green",
+      "symbolism": "the arrowhead"
+    }
+  ],
+  "description": "A white field with a red flower at the hoist and a green arrowhead from the fly.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 2021 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2021"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Landerd",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Landerd.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red flower"
+    },
+    {
+      "type": "arrowhead",
+      "color": "green",
+      "position": "fly",
+      "role": "a green arrowhead"
+    }
+  ]
+}

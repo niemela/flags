@@ -1,0 +1,63 @@
+{
+  "id": "NL-NB-zeeland_1993",
+  "name": "Zeeland (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q2262442"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the border and waves"
+    },
+    {
+      "color": "white",
+      "symbolism": "the border"
+    },
+    {
+      "color": "green",
+      "symbolism": "the tree"
+    }
+  ],
+  "description": "A green field with a blue-and-white checkered border and a shield bearing a tree above waves.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1993 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1993"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Zeeland",
+    "https://commons.wikimedia.org/wiki/File:Zeeland_(NB)_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "bordure",
+      "color": "blue",
+      "role": "a blue-and-white checkered border"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "a shield with a tree above blue waves"
+    }
+  ]
+}

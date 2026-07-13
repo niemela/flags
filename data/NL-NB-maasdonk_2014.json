@@ -1,0 +1,63 @@
+{
+  "id": "NL-NB-maasdonk_2014",
+  "name": "Maasdonk (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9851"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the roses"
+    },
+    {
+      "color": "green",
+      "symbolism": "the arrowhead"
+    }
+  ],
+  "description": "A white field with three red roses at the hoist and a green arrowhead from the fly.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 2014 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1993",
+      "end": "2014"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Maasdonk",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Maasdonk.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "count": 3,
+      "position": "hoist",
+      "role": "three red roses"
+    },
+    {
+      "type": "arrowhead",
+      "color": "green",
+      "position": "fly",
+      "role": "a green arrowhead"
+    }
+  ]
+}

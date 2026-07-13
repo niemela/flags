@@ -1,0 +1,69 @@
+{
+  "id": "NL-NB-udenhout_1996",
+  "name": "Udenhout (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q3030229"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the upper field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the lower field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the lion"
+    },
+    {
+      "color": "red",
+      "symbolism": "the panel"
+    }
+  ],
+  "description": "A yellow field with a blue lion at the upper hoist and a green lower field with a red, yellow and green panel.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Udenhout",
+    "https://commons.wikimedia.org/wiki/File:Udenhout_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "lion",
+      "color": "blue",
+      "position": "canton",
+      "role": "a blue lion"
+    },
+    {
+      "type": "chequy",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red, yellow and green panel"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "NL-NB-bladel-en-netersel_1996",
+  "name": "Bladel en Netersel (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q2905653"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the upper hoist"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lower fly"
+    }
+  ],
+  "description": "Divided per bend blue and yellow with two crossed gold keys at the upper hoist.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Bladel_en_Netersel",
+    "https://commons.wikimedia.org/wiki/File:Bladel_en_Netersel_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2,
+      "role": "per bend blue and yellow"
+    },
+    {
+      "type": "key",
+      "color": "yellow",
+      "count": 2,
+      "position": "canton",
+      "role": "two crossed gold keys"
+    }
+  ]
+}

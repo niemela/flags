@@ -1,0 +1,54 @@
+{
+  "id": "NL-NB-rijswijk_1972",
+  "name": "Rijswijk (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q106327880"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the wavy band"
+    }
+  ],
+  "description": "A yellow field with a green wavy diagonal band.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1972 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1815",
+      "end": "1972"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Rijswijk",
+    "https://commons.wikimedia.org/wiki/File:Rijswijk_(NB)_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "green"
+      ],
+      "count": 1,
+      "role": "a green wavy bend"
+    }
+  ]
+}

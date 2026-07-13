@@ -1,0 +1,76 @@
+{
+  "id": "NL-NB-heeswijk-dinther_1993",
+  "name": "Heeswijk-Dinther (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q44101136"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "black",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "red",
+      "symbolism": "the canton"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the canton charge"
+    }
+  ],
+  "description": "Per pale white and black with lions counterchanged and a red canton at the upper hoist.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1993 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1969",
+      "end": "1993"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Heeswijk-Dinther",
+    "https://commons.wikimedia.org/wiki/File:Heeswijk-Dinther_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "black"
+      ],
+      "count": 2
+    },
+    {
+      "type": "lion",
+      "color": "black",
+      "position": "hoist",
+      "role": "a black lion on the white"
+    },
+    {
+      "type": "lion",
+      "color": "white",
+      "position": "fly",
+      "role": "a white lion on the black"
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red canton"
+    }
+  ]
+}

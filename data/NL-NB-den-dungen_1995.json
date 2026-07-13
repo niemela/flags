@@ -1,0 +1,65 @@
+{
+  "id": "NL-NB-den-dungen_1995",
+  "name": "Den Dungen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q1007744"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the figure"
+    },
+    {
+      "color": "red",
+      "symbolism": "the checkers"
+    },
+    {
+      "color": "white",
+      "symbolism": "the checkers"
+    }
+  ],
+  "description": "A blue hoist bearing a gold figure, and a red-and-white checkered fly.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1995 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1995"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Den_Dungen",
+    "https://commons.wikimedia.org/wiki/File:Den_Dungen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "human-figure",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold figure"
+    },
+    {
+      "type": "chequy",
+      "color": "red",
+      "position": "fly",
+      "role": "a red-and-white checkered fly"
+    }
+  ]
+}
