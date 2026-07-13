@@ -1,0 +1,72 @@
+{
+  "id": "NL-ZH-haastrecht_1984",
+  "name": "Haastrecht (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q2523099"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the canton"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the castles"
+    },
+    {
+      "color": "red",
+      "symbolism": "the upper fly"
+    }
+  ],
+  "description": "A gold field with a blue canton bearing two gold castles and a red upper fly.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 1984 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1984"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Haastrecht",
+    "https://commons.wikimedia.org/wiki/File:Haastrecht_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue canton"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "count": 2,
+      "position": "canton",
+      "role": "two gold castles"
+    },
+    {
+      "type": "square",
+      "color": "red",
+      "position": "fly",
+      "role": "a red upper fly"
+    }
+  ]
+}

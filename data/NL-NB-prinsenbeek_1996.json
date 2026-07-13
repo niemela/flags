@@ -1,0 +1,63 @@
+{
+  "id": "NL-NB-prinsenbeek_1996",
+  "name": "Prinsenbeek (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q2764979"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the waves"
+    },
+    {
+      "color": "white",
+      "symbolism": "the waves"
+    },
+    {
+      "color": "red",
+      "symbolism": "the hoist"
+    }
+  ],
+  "description": "Green and white wavy stripes with a red hoist band bearing three white saltires.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Prinsenbeek",
+    "https://commons.wikimedia.org/wiki/File:Prinsenbeek_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "wave",
+      "color": "green",
+      "role": "green and white wavy stripes"
+    },
+    {
+      "type": "side",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red hoist band"
+    },
+    {
+      "type": "saltire",
+      "color": "white",
+      "count": 3,
+      "position": "hoist",
+      "role": "three white saltires"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "NL-DR-diever_1997",
+  "name": "Diever (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q2497377"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross and charges"
+    }
+  ],
+  "description": "A white field with a red cross, a red vase at the upper hoist and a red maple leaf at the lower hoist.",
+  "history": "A former municipality in the province of Drenthe, dissolved at the end of 1997 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1997"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Diever",
+    "https://commons.wikimedia.org/wiki/File:Diever_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "role": "a red cross"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "canton",
+      "role": "a red vase"
+    },
+    {
+      "type": "leaf",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red maple leaf"
+    }
+  ]
+}

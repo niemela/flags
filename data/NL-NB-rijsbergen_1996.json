@@ -1,0 +1,61 @@
+{
+  "id": "NL-NB-rijsbergen_1996",
+  "name": "Rijsbergen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q3432017"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the arrowhead"
+    },
+    {
+      "color": "white",
+      "symbolism": "the fleur-de-lis"
+    }
+  ],
+  "description": "A red field with a green arrowhead from the hoist and a white fleur-de-lis at the fly.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Rijsbergen",
+    "https://commons.wikimedia.org/wiki/File:Rijsbergen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "arrowhead",
+      "color": "green",
+      "position": "hoist",
+      "role": "a green arrowhead"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "position": "fly",
+      "role": "a white fleur-de-lis"
+    }
+  ]
+}

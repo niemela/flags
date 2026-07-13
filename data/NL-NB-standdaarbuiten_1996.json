@@ -1,0 +1,63 @@
+{
+  "id": "NL-NB-standdaarbuiten_1996",
+  "name": "Standdaarbuiten (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q2314541"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the base"
+    },
+    {
+      "color": "white",
+      "symbolism": "the cross"
+    }
+  ],
+  "description": "A red and green field with a white cross.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Standdaarbuiten",
+    "https://commons.wikimedia.org/wiki/File:Standdaarbuiten_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "a green base"
+    },
+    {
+      "type": "nordic-cross",
+      "color": "white",
+      "role": "a white cross"
+    }
+  ]
+}

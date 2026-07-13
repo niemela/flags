@@ -1,0 +1,70 @@
+{
+  "id": "NL-NB-westerhoven_1996",
+  "name": "Westerhoven (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q35145860"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "two quarters"
+    },
+    {
+      "color": "blue",
+      "symbolism": "two quarters"
+    },
+    {
+      "color": "red",
+      "symbolism": "the fleur-de-lis"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the shell"
+    }
+  ],
+  "description": "Quartered white and blue with a red fleur-de-lis at the upper hoist and a gold shell at the lower hoist.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Westerhoven",
+    "https://commons.wikimedia.org/wiki/File:Westerhoven_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "white",
+        "blue",
+        "blue",
+        "white"
+      ]
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "red",
+      "position": "canton",
+      "role": "a red fleur-de-lis"
+    },
+    {
+      "type": "shell",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold shell"
+    }
+  ]
+}

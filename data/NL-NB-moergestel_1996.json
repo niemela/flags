@@ -1,0 +1,70 @@
+{
+  "id": "NL-NB-moergestel_1996",
+  "name": "Moergestel (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q1921402"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "orange",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the lower band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the disc"
+    }
+  ],
+  "description": "Orange, red and green bands with a white disc bearing a red cross at the centre.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Moergestel",
+    "https://commons.wikimedia.org/wiki/File:Moergestel_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "orange",
+        "red",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center",
+      "role": "a white disc"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "center",
+      "role": "a red cross on the disc"
+    }
+  ]
+}

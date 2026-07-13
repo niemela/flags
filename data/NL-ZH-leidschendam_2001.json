@@ -1,0 +1,74 @@
+{
+  "id": "NL-ZH-leidschendam_2001",
+  "name": "Leidschendam (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZH",
+  "codes": {
+    "wikidata": "Q1616233"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the chief"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the base"
+    },
+    {
+      "color": "black",
+      "symbolism": "the crescent"
+    },
+    {
+      "color": "red",
+      "symbolism": "the bull"
+    }
+  ],
+  "description": "A yellow chief with a black crescent, a blue band, and a white base with a red bull's head.",
+  "history": "A former municipality in the province of South Holland, dissolved at the end of 2001 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2001"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Leidschendam",
+    "https://commons.wikimedia.org/wiki/File:Leidschendam_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue",
+        "white"
+      ],
+      "count": 3
+    },
+    {
+      "type": "crescent",
+      "color": "black",
+      "position": "canton",
+      "role": "a black crescent"
+    },
+    {
+      "type": "animal-other",
+      "color": "red",
+      "position": "bottom",
+      "role": "a red bull's head"
+    }
+  ]
+}

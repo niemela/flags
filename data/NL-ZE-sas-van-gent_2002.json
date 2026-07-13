@@ -1,0 +1,68 @@
+{
+  "id": "NL-ZE-sas-van-gent_2002",
+  "name": "Sas van Gent (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q81086"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "black",
+      "symbolism": "the lion"
+    },
+    {
+      "color": "red",
+      "symbolism": "the stripes"
+    }
+  ],
+  "description": "A white hoist with a black lion, and red-and-white stripes on the fly.",
+  "history": "A former municipality in the province of Zeeland, dissolved at the end of 2002 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2002"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Sas_van_Gent",
+    "https://commons.wikimedia.org/wiki/File:Sas_van_Gent_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "lion",
+      "color": "black",
+      "position": "hoist",
+      "role": "a black lion"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 5,
+      "position": "fly",
+      "role": "red and white stripes"
+    }
+  ]
+}

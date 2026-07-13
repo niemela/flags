@@ -1,0 +1,66 @@
+{
+  "id": "NL-NB-hooge-en-lage-mierde_1996",
+  "name": "Hooge en Lage Mierde (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q592836"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the checkers"
+    },
+    {
+      "color": "white",
+      "symbolism": "the checkers"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the figure"
+    }
+  ],
+  "description": "A red-and-white checkered field with a blue hoist panel bearing a gold Madonna figure.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Hooge_en_Lage_Mierde",
+    "https://commons.wikimedia.org/wiki/File:Hooge_en_Lage_Mierde_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "chequy",
+      "color": "red",
+      "role": "a red-and-white checkered field"
+    },
+    {
+      "type": "side",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue hoist panel"
+    },
+    {
+      "type": "human-figure",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold Madonna figure"
+    }
+  ]
+}

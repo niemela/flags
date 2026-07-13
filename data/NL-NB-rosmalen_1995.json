@@ -1,0 +1,62 @@
+{
+  "id": "NL-NB-rosmalen_1995",
+  "name": "Rosmalen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q2921218"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross and quatrefoil"
+    }
+  ],
+  "description": "A white field with a red cross, a red quatrefoil at the upper hoist and a white disc.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1995 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1995"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Rosmalen",
+    "https://commons.wikimedia.org/wiki/File:Rosmalen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "role": "a red cross"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "canton",
+      "role": "a red quatrefoil"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center",
+      "role": "a white disc"
+    }
+  ]
+}

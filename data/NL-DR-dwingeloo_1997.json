@@ -1,0 +1,61 @@
+{
+  "id": "NL-DR-dwingeloo_1997",
+  "name": "Dwingeloo (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-DR",
+  "codes": {
+    "wikidata": "Q1268530"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "red",
+      "symbolism": "the castles"
+    }
+  ],
+  "description": "A white field with blue bands top and bottom and four red castles.",
+  "history": "A former municipality in the province of Drenthe, dissolved at the end of 1997 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1997"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Dwingeloo",
+    "https://commons.wikimedia.org/wiki/File:Dwingeloo_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "count": 4,
+      "position": "center",
+      "role": "four red castles"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "NL-NB-wanroij_1993",
+  "name": "Wanroij (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q2566262"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the rays"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the sun"
+    }
+  ],
+  "description": "A yellow field with green rays radiating from a brown sun at the upper hoist.",
+  "history": "A former municipality in the province of North Brabant, dissolved at the end of 1993 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1993"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Wanroij",
+    "https://commons.wikimedia.org/wiki/File:Wanroij_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "sun",
+      "color": "brown",
+      "position": "canton",
+      "role": "a brown sun"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "count": 4,
+      "role": "green rays"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "NL-UT-loenen_2010",
+  "name": "Loenen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q1020444"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the grid"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the grid"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the grid"
+    },
+    {
+      "color": "black",
+      "symbolism": "the wordmark"
+    }
+  ],
+  "description": "A white field bearing the municipal logo: the wordmark 'GEMEENTE LOENEN' around a grid of green and blue squares.",
+  "history": "A former municipality in the province of Utrecht, dissolved at the end of 2010 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2010"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Loenen",
+    "https://commons.wikimedia.org/wiki/File:Loenen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "complex",
+      "color": "green",
+      "role": "a grid of green and blue squares"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "the wordmark GEMEENTE LOENEN"
+    }
+  ]
+}
