@@ -1,0 +1,70 @@
+{
+  "id": "NL-UT-lopik",
+  "name": "Lopik (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q10047"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the upper-hoist section"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lower-fly section"
+    },
+    {
+      "color": "red",
+      "symbolism": "the checkered band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the checkered band"
+    }
+  ],
+  "description": "Divided diagonally, blue at the upper hoist bearing a gold crown and yellow at the lower fly, separated by a red-and-white checkered diagonal band.",
+  "history": "Flag of the municipality of Lopik in the province of Utrecht.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Lopik",
+    "https://commons.wikimedia.org/wiki/File:Lopik_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "blue upper-hoist section"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold crown on the blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 4,
+      "role": "a red-and-white checkered diagonal band"
+    }
+  ]
+}

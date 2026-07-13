@@ -1,0 +1,64 @@
+{
+  "id": "NL-UT-stichtse-vecht",
+  "name": "Stichtse Vecht (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q10042"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the hoist quarters"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fly quarters"
+    },
+    {
+      "color": "white",
+      "symbolism": "the crosses"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the wavy stripe"
+    }
+  ],
+  "description": "Quartered red and yellow, the red quarters bearing white crosses and the lower-fly quarter a blue wavy stripe.",
+  "history": "Flag of the municipality of Stichtse Vecht in the province of Utrecht, formed in 2011 from Maarssen, Breukelen and Loenen.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Stichtse_Vecht",
+    "https://commons.wikimedia.org/wiki/File:Stichtse_Vecht_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ]
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "hoist",
+      "role": "white crosses on the red quarters"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "role": "a blue wavy stripe on the lower-fly quarter"
+    }
+  ]
+}

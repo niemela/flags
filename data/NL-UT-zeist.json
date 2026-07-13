@@ -1,0 +1,48 @@
+{
+  "id": "NL-UT-zeist",
+  "name": "Zeist (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q10056"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the embattled band"
+    }
+  ],
+  "description": "A white field with a black embattled band across the upper part.",
+  "history": "Flag of the municipality of Zeist in the province of Utrecht.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Zeist",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Zeist.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "a black embattled band across the upper field"
+    }
+  ]
+}

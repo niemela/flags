@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="600" height="400" viewBox="-180 -180 540 360">
+<rect fill="#cc112f" x="-180" y="-180" width="540" height="360"/>
+
+<g fill="white">
+
+<path id="wavy"
+ d="M-180,144 q30,-36 60,0 t60,0 t60,0 t60,0 t60,0 t60,0 t60,0 t60,0 t60,0 t60,0 V360 H-180"/>
+<use x="-30" transform="scale(1 -1)" xlink:href="#wavy"/>
+
+<polygon points="0,108 108,0 0,-108 -108,0"/>
+
+<g id="half">
+ <g id="quarter">
+  <path id="eighth" fill="#cc112f" d="M0,66 C6,55 34,66 37.5,53.5 S8,25 16.5,16.5 L-10,-30 z "/>
+  <use transform="scale(-1 1)" xlink:href="#eighth"/>
+ </g>
+ <use transform="rotate(90)" xlink:href="#quarter"/>
+</g>
+<use transform="scale(-1)" xlink:href="#half"/>
+<circle r="9.7"/>
+
+</g>
+</svg>

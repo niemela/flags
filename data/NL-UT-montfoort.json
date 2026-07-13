@@ -1,0 +1,55 @@
+{
+  "id": "NL-UT-montfoort",
+  "name": "Montfoort (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q10048"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the central device"
+    },
+    {
+      "color": "red",
+      "symbolism": "the rays"
+    }
+  ],
+  "description": "A white field charged with a black device of two addorsed curved bars flanked by red rays, with a small cross at the centre.",
+  "history": "Flag of the municipality of Montfoort in the province of Utrecht.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Montfoort",
+    "https://commons.wikimedia.org/wiki/File:Montfoort_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "complex",
+      "color": "black",
+      "position": "center",
+      "role": "a black device of two addorsed curved bars"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "red rays around the central device"
+    }
+  ]
+}

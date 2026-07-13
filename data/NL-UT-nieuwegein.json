@@ -1,0 +1,55 @@
+{
+  "id": "NL-UT-nieuwegein",
+  "name": "Nieuwegein (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q10050"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the tower"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the waves"
+    }
+  ],
+  "description": "A white field with a red tower at the hoist and blue waves at the fly.",
+  "history": "Flag of the municipality of Nieuwegein in the province of Utrecht, a new town south of the city of Utrecht.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Nieuwegein",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Nieuwegein.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red tower"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "role": "blue waves"
+    }
+  ]
+}

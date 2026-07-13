@@ -1,0 +1,55 @@
+{
+  "id": "NL-UT-houten",
+  "name": "Houten (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q10044"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the central device"
+    }
+  ],
+  "description": "A red field with a white horizontal band, charged in the centre with a blue hourglass-shaped device.",
+  "history": "Flag of the municipality of Houten in the province of Utrecht.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Houten",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Houten.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "lozenge",
+      "color": "blue",
+      "count": 2,
+      "position": "center",
+      "role": "a blue hourglass of two lozenges"
+    }
+  ]
+}

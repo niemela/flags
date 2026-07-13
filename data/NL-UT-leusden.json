@@ -1,0 +1,63 @@
+{
+  "id": "NL-UT-leusden",
+  "name": "Leusden (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q10046"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the hoist band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the angular band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the edging of the angular band"
+    }
+  ],
+  "description": "A green field with a black band at the hoist and a red angular band edged white running along the hoist and lower edge.",
+  "history": "Flag of the municipality of Leusden in the province of Utrecht.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Leusden",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Leusden.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "side",
+      "color": "black",
+      "position": "hoist",
+      "role": "a black band at the hoist"
+    },
+    {
+      "type": "complex",
+      "color": "red",
+      "fimbriation": [
+        {
+          "color": "white"
+        }
+      ],
+      "role": "a red angular band edged white along the hoist and base"
+    }
+  ]
+}

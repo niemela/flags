@@ -1,0 +1,61 @@
+{
+  "id": "NL-UT-amersfoort",
+  "name": "Amersfoort (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q992"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the hoist band, the crosses' ground and the fess"
+    }
+  ],
+  "description": "A white field with a red band at the hoist bearing three white crosses, and a red horizontal band across the centre.",
+  "history": "Flag of the municipality of Amersfoort in the province of Utrecht.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Amersfoort",
+    "https://commons.wikimedia.org/wiki/File:Amersfoort_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "side",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red band at the hoist"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "count": 3,
+      "position": "hoist",
+      "role": "three white crosses on the hoist band"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a red band across the centre"
+    }
+  ]
+}

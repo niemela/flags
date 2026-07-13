@@ -1,0 +1,54 @@
+{
+  "id": "NL-UT-soest",
+  "name": "Soest (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q10041"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the wavy stripe"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the edging of the stripe"
+    }
+  ],
+  "description": "A green field with a white wavy horizontal stripe edged yellow.",
+  "history": "Flag of the municipality of Soest in the province of Utrecht.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Soest",
+    "https://commons.wikimedia.org/wiki/File:Soest_flag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "center",
+      "fimbriation": [
+        {
+          "color": "yellow"
+        }
+      ],
+      "role": "a white wavy stripe edged yellow"
+    }
+  ]
+}

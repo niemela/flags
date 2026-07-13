@@ -1,0 +1,88 @@
+{
+  "id": "NL-UT-de-ronde-venen",
+  "name": "De Ronde Venen (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q10036"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "two quarters"
+    },
+    {
+      "color": "blue",
+      "symbolism": "two quarters"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central fess and charges"
+    },
+    {
+      "color": "black",
+      "symbolism": "the snake"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bird"
+    }
+  ],
+  "description": "Quartered red and blue with a white central fess bearing a black snake; the quarters charged with a white Paschal lamb, crossed white keys and a gold bird.",
+  "history": "Flag of the municipality of De Ronde Venen in the province of Utrecht; the charges combine the emblems of its constituent former villages.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_De_Ronde_Venen",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Ronde_Venen.svg"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "red",
+        "blue",
+        "blue",
+        "red"
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a white fess across the centre"
+    },
+    {
+      "type": "serpent",
+      "color": "black",
+      "position": "center",
+      "role": "a black snake on the white fess"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "canton",
+      "role": "a white Paschal lamb (upper hoist)"
+    },
+    {
+      "type": "key",
+      "color": "white",
+      "count": 2,
+      "role": "crossed white keys (upper fly)"
+    },
+    {
+      "type": "bird",
+      "color": "yellow",
+      "role": "a gold bird (lower hoist)"
+    }
+  ]
+}

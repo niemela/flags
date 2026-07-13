@@ -1,0 +1,70 @@
+{
+  "id": "NL-UT-veenendaal",
+  "name": "Veenendaal (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q1840"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the embattled bands"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the central band"
+    }
+  ],
+  "description": "A yellow field with black embattled bands near the top and bottom and a blue band across the centre.",
+  "history": "Flag of the municipality of Veenendaal in the province of Utrecht.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Veenendaal",
+    "https://commons.wikimedia.org/wiki/File:Veenendaal_Netherlands_flag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "a black embattled band near the top"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "a black embattled band near the bottom"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a blue band across the centre"
+    }
+  ]
+}

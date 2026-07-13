@@ -1,0 +1,59 @@
+{
+  "id": "NL-UT-de-bilt",
+  "name": "De Bilt (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q10035"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the lower-fly section"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the upper-hoist section"
+    },
+    {
+      "color": "black",
+      "symbolism": "the portcullis"
+    },
+    {
+      "color": "white",
+      "symbolism": "the studs of the portcullis"
+    }
+  ],
+  "description": "Divided diagonally, blue at the upper hoist and yellow at the lower fly, with a black portcullis (barred gate) at the hoist.",
+  "history": "Flag of the municipality of De Bilt in the province of Utrecht.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_De_Bilt",
+    "https://commons.wikimedia.org/wiki/File:Vlag_de_Bilt.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "blue upper-hoist section, divided per bend"
+    },
+    {
+      "type": "complex",
+      "color": "black",
+      "position": "hoist",
+      "role": "a black portcullis with white studs"
+    }
+  ]
+}

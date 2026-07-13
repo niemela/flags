@@ -1,0 +1,56 @@
+{
+  "id": "NL-UT-eemnes",
+  "name": "Eemnes (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q10037"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the upper section"
+    },
+    {
+      "color": "white",
+      "symbolism": "the middle section and the busts"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lower section"
+    }
+  ],
+  "description": "A stepped field of red over white over yellow, the red charged with three white mitred bishop's busts.",
+  "history": "Flag of the municipality of Eemnes in the province of Utrecht.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Eemnes",
+    "https://commons.wikimedia.org/wiki/File:Eemnes_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "yellow"
+      ],
+      "count": 3,
+      "role": "red, white and yellow with a stepped edge"
+    },
+    {
+      "type": "human-figure",
+      "color": "white",
+      "count": 3,
+      "position": "canton",
+      "role": "three white mitred bishop's busts"
+    }
+  ]
+}

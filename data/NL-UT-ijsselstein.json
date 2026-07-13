@@ -1,0 +1,53 @@
+{
+  "id": "NL-UT-ijsselstein",
+  "name": "IJsselstein (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q10045"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the lower band and the gate"
+    },
+    {
+      "color": "white",
+      "symbolism": "the studs of the gate"
+    }
+  ],
+  "description": "Yellow over black, with a black portcullis (barred gate) at the upper hoist.",
+  "history": "Flag of the municipality of IJsselstein in the province of Utrecht.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_IJsselstein",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_IJsselstein.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "black"
+      ],
+      "count": 2
+    },
+    {
+      "type": "complex",
+      "color": "black",
+      "position": "canton",
+      "role": "a black portcullis with white studs"
+    }
+  ]
+}

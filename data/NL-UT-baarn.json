@@ -1,0 +1,50 @@
+{
+  "id": "NL-UT-baarn",
+  "name": "Baarn (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q10027"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the outer bands and the cross"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central band"
+    }
+  ],
+  "description": "A vertical triband of blue, yellow and blue, the central yellow band charged with a blue cross.",
+  "history": "Flag of the municipality of Baarn in the province of Utrecht.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Baarn",
+    "https://commons.wikimedia.org/wiki/File:Baarn_flag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "greek-cross",
+      "color": "blue",
+      "position": "center",
+      "role": "a blue cross on the central band"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "NL-UT-woerden",
+  "name": "Woerden (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q5128"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the saltires, horn and lozenges"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the checkered band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the checkered band"
+    }
+  ],
+  "description": "A yellow field with three red saltires at the upper hoist, a blue-and-white checkered band across the centre, a red post-horn, and two red lozenges.",
+  "history": "Flag of the municipality of Woerden in the province of Utrecht.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Woerden",
+    "https://commons.wikimedia.org/wiki/File:Woerden_vlag_2017.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "saltire",
+      "color": "red",
+      "count": 3,
+      "position": "canton",
+      "role": "three red saltires at the upper hoist"
+    },
+    {
+      "type": "chequy",
+      "color": "blue",
+      "position": "center",
+      "role": "a blue-and-white checkered band across the centre"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red post-horn"
+    },
+    {
+      "type": "lozenge",
+      "color": "red",
+      "count": 2,
+      "position": "fly",
+      "role": "two red lozenges"
+    }
+  ]
+}

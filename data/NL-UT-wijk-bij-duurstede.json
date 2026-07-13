@@ -1,0 +1,54 @@
+{
+  "id": "NL-UT-wijk-bij-duurstede",
+  "name": "Wijk bij Duurstede (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q10053"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the devices"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lower band"
+    }
+  ],
+  "description": "A broad red band over a yellow band, the red charged with three white ornamental devices.",
+  "history": "Flag of the municipality of Wijk bij Duurstede in the province of Utrecht.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Wijk_bij_Duurstede",
+    "https://commons.wikimedia.org/wiki/File:Wijk_bij_Duurstede_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "count": 3,
+      "position": "top",
+      "role": "three white ornamental devices on the red band"
+    }
+  ]
+}
