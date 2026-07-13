@@ -1,0 +1,74 @@
+{
+  "id": "NL-OV-avereest_2000",
+  "name": "Avereest (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q1907318"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the triangle"
+    },
+    {
+      "color": "red",
+      "symbolism": "a stripe"
+    },
+    {
+      "color": "white",
+      "symbolism": "a stripe"
+    },
+    {
+      "color": "blue",
+      "symbolism": "a stripe"
+    }
+  ],
+  "description": "A yellow field with a black triangle at the hoist and a red-white-blue stripe.",
+  "history": "A former municipality in the province of Overijssel, dissolved at the end of 2000 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2000"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Avereest",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Avereest,_Netherlands.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "black",
+      "position": "hoist",
+      "role": "a black triangle at the hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "position": "center",
+      "role": "a red-white-blue stripe"
+    }
+  ]
+}

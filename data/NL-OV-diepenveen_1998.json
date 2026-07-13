@@ -1,0 +1,59 @@
+{
+  "id": "NL-OV-diepenveen_1998",
+  "name": "Diepenveen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q2905573"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the wolf-teeth and bands"
+    }
+  ],
+  "description": "A yellow field with black wolf-teeth at the hoist and black bands.",
+  "history": "A former municipality in the province of Overijssel, dissolved at the end of 1998 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1998"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Diepenveen",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Diepenveen,_Netherlands.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "black",
+      "position": "hoist",
+      "role": "black wolf-teeth at the hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 2,
+      "role": "black bands"
+    }
+  ]
+}

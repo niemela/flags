@@ -1,0 +1,61 @@
+{
+  "id": "NL-OV-weerselo_2000",
+  "name": "Weerselo (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q2470382"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the cross"
+    },
+    {
+      "color": "red",
+      "symbolism": "the fly quarters"
+    }
+  ],
+  "description": "Blue and red divided by a gold cross.",
+  "history": "A former municipality in the province of Overijssel, dissolved at the end of 2000 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1811",
+      "end": "2000"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Weerselo",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Weerselo.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "nordic-cross",
+      "color": "yellow",
+      "role": "a gold cross"
+    },
+    {
+      "type": "square",
+      "color": "red",
+      "position": "fly",
+      "role": "red quarters on the fly"
+    }
+  ]
+}

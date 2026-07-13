@@ -1,0 +1,56 @@
+{
+  "id": "NL-OV-gramsbergen_2000",
+  "name": "Gramsbergen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q3112112"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the borders and roundels"
+    }
+  ],
+  "description": "A blue field with gold wolf-teeth borders top and bottom and three gold roundels.",
+  "history": "A former municipality in the province of Overijssel, dissolved at the end of 2000 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2000"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Gramsbergen",
+    "https://commons.wikimedia.org/wiki/File:Gramsbergen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "role": "gold wolf-teeth borders top and bottom"
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "count": 3,
+      "role": "three gold roundels"
+    }
+  ]
+}

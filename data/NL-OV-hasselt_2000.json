@@ -1,0 +1,59 @@
+{
+  "id": "NL-OV-hasselt_2000",
+  "name": "Hasselt (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q81159"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross"
+    },
+    {
+      "color": "white",
+      "symbolism": "the edging"
+    }
+  ],
+  "description": "A blue field with a red cross edged white.",
+  "history": "A former municipality in the province of Overijssel, dissolved at the end of 2000 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2000"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Hasselt",
+    "https://commons.wikimedia.org/wiki/File:Hasselt_(OV)_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "fimbriation": [
+        {
+          "color": "white"
+        }
+      ],
+      "role": "a red cross edged white"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "NL-OV-vriezenveen_2002",
+  "name": "Vriezenveen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q3120872"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stripes and lozenge"
+    }
+  ],
+  "description": "A green field with white diagonal stripes and a white lozenge bearing a green oak leaf.",
+  "history": "A former municipality in the province of Overijssel, dissolved at the end of 2002 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2002"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Vriezenveen",
+    "https://commons.wikimedia.org/wiki/File:Vriezenveen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 2,
+      "role": "white diagonal stripes"
+    },
+    {
+      "type": "lozenge",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white lozenge with a green oak leaf"
+    }
+  ]
+}

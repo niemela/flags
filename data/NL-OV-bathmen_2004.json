@@ -1,0 +1,63 @@
+{
+  "id": "NL-OV-bathmen_2004",
+  "name": "Bathmen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q810795"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "central band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the arms"
+    }
+  ],
+  "description": "Red, yellow and blue bands with the municipal arms at the upper hoist.",
+  "history": "A former municipality in the province of Overijssel, dissolved at the end of 2004 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2004"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Bathmen",
+    "https://commons.wikimedia.org/wiki/File:Bathmen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "canton",
+      "role": "the municipal arms"
+    }
+  ]
+}

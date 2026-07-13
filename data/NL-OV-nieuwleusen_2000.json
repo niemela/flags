@@ -1,0 +1,57 @@
+{
+  "id": "NL-OV-nieuwleusen_2000",
+  "name": "Nieuwleusen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q494301"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the cross and checkers"
+    }
+  ],
+  "description": "A white field with a blue cross at the hoist and blue-and-white checkers at the fly.",
+  "history": "A former municipality in the province of Overijssel, dissolved at the end of 2000 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2000"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Nieuwleusen",
+    "https://commons.wikimedia.org/wiki/File:Nieuwleusen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "greek-cross",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue cross"
+    },
+    {
+      "type": "chequy",
+      "color": "blue",
+      "position": "fly",
+      "role": "blue-and-white checkers"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "NL-OV-diepenheim_2000",
+  "name": "Diepenheim (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q2243026"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the stripes and roundel"
+    },
+    {
+      "color": "white",
+      "symbolism": "the cross"
+    }
+  ],
+  "description": "A yellow field with blue stripes and a blue roundel bearing a white cross.",
+  "history": "A former municipality in the province of Overijssel, dissolved at the end of 2000 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2000"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Diepenheim",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Diepenheim,_Netherlands.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a blue band"
+    },
+    {
+      "type": "circle",
+      "color": "blue",
+      "position": "center",
+      "role": "a blue roundel with a white cross"
+    }
+  ]
+}

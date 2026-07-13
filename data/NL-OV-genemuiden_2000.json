@@ -1,0 +1,65 @@
+{
+  "id": "NL-OV-genemuiden_2000",
+  "name": "Genemuiden (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q2511725"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the panels"
+    }
+  ],
+  "description": "A blue field with a white band and two red panels bearing white crosses at the hoist.",
+  "history": "A former municipality in the province of Overijssel, dissolved at the end of 2000 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2000"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Genemuiden",
+    "https://commons.wikimedia.org/wiki/File:Genemuiden_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a white band"
+    },
+    {
+      "type": "square",
+      "color": "red",
+      "count": 2,
+      "position": "hoist",
+      "role": "two red panels with white crosses"
+    }
+  ]
+}

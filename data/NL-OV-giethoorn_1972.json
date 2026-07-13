@@ -1,0 +1,69 @@
+{
+  "id": "NL-OV-giethoorn_1972",
+  "name": "Giethoorn (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q109516427"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the goat's head"
+    },
+    {
+      "color": "red",
+      "symbolism": "the panel"
+    }
+  ],
+  "description": "Yellow over blue with a white goat's head and a red panel at the hoist.",
+  "history": "A former municipality in the province of Overijssel, dissolved at the end of 1972 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1972"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Giethoorn",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Giethoorn.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white goat's head"
+    },
+    {
+      "type": "square",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red panel"
+    }
+  ]
+}

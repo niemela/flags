@@ -1,0 +1,60 @@
+{
+  "id": "NL-OV-wanneperveen_1972",
+  "name": "Wanneperveen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-OV",
+  "codes": {
+    "wikidata": "Q3030505"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "red",
+      "symbolism": "central band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "lower band"
+    }
+  ],
+  "description": "Yellow, red and blue bands with two gold candlesticks at the hoist.",
+  "history": "A former municipality in the province of Overijssel, dissolved at the end of 1972 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1972"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Wanneperveen",
+    "https://commons.wikimedia.org/wiki/File:Wanneperveen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "canton",
+      "role": "two gold candlesticks"
+    }
+  ]
+}
