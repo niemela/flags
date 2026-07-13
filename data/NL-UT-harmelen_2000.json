@@ -1,0 +1,64 @@
+{
+  "id": "NL-UT-harmelen_2000",
+  "name": "Harmelen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q3029267"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lozenges"
+    },
+    {
+      "color": "black",
+      "symbolism": "the band"
+    }
+  ],
+  "description": "A yellow field with three red lozenges and a black band across the centre.",
+  "history": "A former municipality in the province of Utrecht, dissolved at the end of 2000 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2000"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Harmelen",
+    "https://commons.wikimedia.org/wiki/File:Harmelen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "lozenge",
+      "color": "red",
+      "count": 3,
+      "role": "three red lozenges"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a black band"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "NL-UT-maartensdijk_2000",
+  "name": "Maartensdijk (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q51626390"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wavy division"
+    }
+  ],
+  "description": "A blue field with a yellow wavy diagonal division and a shield with an equestrian figure at the upper hoist.",
+  "history": "A former municipality in the province of Utrecht, dissolved at the end of 2000 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2000"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Maartensdijk",
+    "https://commons.wikimedia.org/wiki/File:Maartensdijk_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "wave",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "a yellow wavy division"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "canton",
+      "role": "a shield with an equestrian figure"
+    }
+  ]
+}

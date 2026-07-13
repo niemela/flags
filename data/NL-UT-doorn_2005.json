@@ -1,0 +1,64 @@
+{
+  "id": "NL-UT-doorn_2005",
+  "name": "Doorn (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q1615161"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wheel"
+    }
+  ],
+  "description": "A barry of red and white with a gold wheel at the upper hoist.",
+  "history": "A former municipality in the province of Utrecht, dissolved at the end of 2005 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2005"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Doorn",
+    "https://commons.wikimedia.org/wiki/File:Doorn_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 7
+    },
+    {
+      "type": "wheel",
+      "color": "yellow",
+      "position": "canton",
+      "role": "a gold wheel"
+    }
+  ]
+}

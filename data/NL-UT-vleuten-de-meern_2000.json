@@ -1,0 +1,64 @@
+{
+  "id": "NL-UT-vleuten-de-meern_2000",
+  "name": "Vleuten-De Meern (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q1329720"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lion"
+    }
+  ],
+  "description": "A yellow field with a blue band across the centre and a red lion.",
+  "history": "A former municipality in the province of Utrecht, dissolved at the end of 2000 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2000"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Vleuten-De_Meern",
+    "https://commons.wikimedia.org/wiki/File:Vleuten-De_Meern_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a blue band"
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red lion"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "NL-UT-vinkeveen-en-waverveen_1988",
+  "name": "Vinkeveen en Waverveen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q1329705"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "black",
+      "symbolism": "the embattled band"
+    },
+    {
+      "color": "red",
+      "symbolism": "lower band"
+    }
+  ],
+  "description": "Blue, yellow and red bands with a black embattled band across the centre.",
+  "history": "A former municipality in the province of Utrecht, dissolved at the end of 1988 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1988"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Vinkeveen_en_Waverveen",
+    "https://commons.wikimedia.org/wiki/File:Vinkeveen_vlag_1973.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a black embattled band"
+    }
+  ]
+}

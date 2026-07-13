@@ -1,0 +1,61 @@
+{
+  "id": "NL-UT-breukelen_2010",
+  "name": "Breukelen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q615732"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "central band"
+    },
+    {
+      "color": "red",
+      "symbolism": "lower band"
+    }
+  ],
+  "description": "Blue, yellow and red bands with two blue saltires on the yellow.",
+  "history": "A former municipality in the province of Utrecht, dissolved at the end of 2010 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2010"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Breukelen",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Breukelen.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "saltire",
+      "color": "blue",
+      "count": 2,
+      "position": "center",
+      "role": "two blue saltires"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "NL-UT-amerongen_2005",
+  "name": "Amerongen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q1615400"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "a band and the bend"
+    },
+    {
+      "color": "white",
+      "symbolism": "a band and the fleurs-de-lis"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "a band"
+    }
+  ],
+  "description": "Red, white and yellow bands with a red bend bearing white fleurs-de-lis at the hoist.",
+  "history": "A former municipality in the province of Utrecht, dissolved at the end of 2005 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2005"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Amerongen",
+    "https://commons.wikimedia.org/wiki/File:Amerongen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "a red bend"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "position": "hoist",
+      "role": "white fleurs-de-lis on the bend"
+    }
+  ]
+}

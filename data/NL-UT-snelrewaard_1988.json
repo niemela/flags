@@ -1,0 +1,62 @@
+{
+  "id": "NL-UT-snelrewaard_1988",
+  "name": "Snelrewaard (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q2224161"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the diagonal band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the edging"
+    }
+  ],
+  "description": "A green field with a red diagonal band edged white.",
+  "history": "A former municipality in the province of Utrecht, dissolved at the end of 1988 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1988"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Snelrewaard",
+    "https://commons.wikimedia.org/wiki/File:Snelrewaard_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "fimbriation": [
+        {
+          "color": "white"
+        }
+      ],
+      "role": "a red diagonal band edged white"
+    }
+  ]
+}

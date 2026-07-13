@@ -1,0 +1,60 @@
+{
+  "id": "NL-UT-maarn_2005",
+  "name": "Maarn (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q1616311"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the pale"
+    }
+  ],
+  "description": "A red field with a yellow vertical band bearing a red wheel.",
+  "history": "A former municipality in the province of Utrecht, dissolved at the end of 2005 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2005"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Maarn",
+    "https://commons.wikimedia.org/wiki/File:Maarn_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a yellow pale"
+    },
+    {
+      "type": "wheel",
+      "color": "red",
+      "position": "center",
+      "role": "a red wheel on the pale"
+    }
+  ]
+}

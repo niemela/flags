@@ -1,0 +1,61 @@
+{
+  "id": "NL-UT-driebergen-rijsenburg_2005",
+  "name": "Driebergen-Rijsenburg (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-UT",
+  "codes": {
+    "wikidata": "Q1258901"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the wolf-teeth"
+    },
+    {
+      "color": "white",
+      "symbolism": "the rook"
+    }
+  ],
+  "description": "A yellow field with black wolf-teeth at the hoist and a white heraldic chess-rook.",
+  "history": "A former municipality in the province of Utrecht, dissolved at the end of 2005 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2005"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Driebergen-Rijsenburg",
+    "https://commons.wikimedia.org/wiki/File:Driebergen-Rijsenburg_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "black",
+      "position": "hoist",
+      "role": "black wolf-teeth at the hoist"
+    },
+    {
+      "type": "complex",
+      "color": "white",
+      "position": "center",
+      "role": "a white heraldic chess-rook"
+    }
+  ]
+}
