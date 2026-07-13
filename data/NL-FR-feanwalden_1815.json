@@ -1,0 +1,69 @@
+{
+  "id": "NL-FR-feanwalden_1815",
+  "name": "Feanwâlden (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q3030099"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the chief"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the embattled band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the base"
+    }
+  ],
+  "description": "A yellow field with a red chief, a black embattled band on white, and a green base.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Feanwâlden",
+    "https://commons.wikimedia.org/wiki/File:Veenwouden_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "role": "a red chief, white band and green base"
+    },
+    {
+      "type": "chequy",
+      "color": "black",
+      "position": "center",
+      "role": "a black embattled band"
+    }
+  ]
+}

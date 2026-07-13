@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="525" height="350" viewBox="0 0 21 14">
+
+<rect fill="#0064be" width="21" height="14"/>
+
+<g fill="#ffcb00">
+<path d="M0,2 H21 v2 H0 z M0,6 H21 v2 H0 z M0,10 H21 v2 H0 z M2,0 V14 h2 V0 z"/>
+<path id="star" d="M1,1.8 L1.69282,.6 .30718,.6 M1,.2 L.30718,1.4 1.69282,1.4"/>
+<g id="col">
+<use y="4" xlink:href="#star"/>
+<use y="8" xlink:href="#star"/>
+<use y="12" xlink:href="#star"/>
+</g>
+<use x="2" y="-2" xlink:href="#col"/>
+</g>
+
+</svg>

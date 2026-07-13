@@ -1,0 +1,83 @@
+{
+  "id": "NL-FR-sint-annaparochie_1816",
+  "name": "Sint Annaparochie (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2840555"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the pile"
+    },
+    {
+      "color": "black",
+      "symbolism": "the cauldrons"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the star"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "red",
+      "symbolism": "the stripes"
+    }
+  ],
+  "description": "A field of red and white bars with a yellow triangle at the hoist bearing black cauldrons and a blue star.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Sint_Annaparochie",
+    "https://commons.wikimedia.org/wiki/File:Sint_Annaparochie_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 5
+    },
+    {
+      "type": "pile",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a yellow triangle at the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "count": 2,
+      "position": "hoist",
+      "role": "black cauldrons"
+    },
+    {
+      "type": "star",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue star"
+    }
+  ]
+}

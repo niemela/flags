@@ -1,0 +1,60 @@
+{
+  "id": "NL-FR-gorredijk_1815",
+  "name": "Gorredijk (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2103434"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the pile"
+    },
+    {
+      "color": "green",
+      "symbolism": "the arrowhead"
+    }
+  ],
+  "description": "A yellow field with a black pile at the hoist bearing a gold charge, and a green arrowhead.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Gorredijk",
+    "https://commons.wikimedia.org/wiki/File:Gorredijk_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "pile",
+      "color": "black",
+      "position": "hoist",
+      "role": "a black pile with a gold charge"
+    },
+    {
+      "type": "arrowhead",
+      "color": "green",
+      "role": "a green arrowhead"
+    }
+  ]
+}

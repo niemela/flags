@@ -1,0 +1,71 @@
+{
+  "id": "NL-FR-koudum_1816",
+  "name": "Koudum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2228461"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "navy",
+      "symbolism": "the canton"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the star"
+    }
+  ],
+  "description": "Red and yellow stripes with a dark blue canton bearing a gold star.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Koudum",
+    "https://commons.wikimedia.org/wiki/File:Koudum_flag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 4
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "position": "hoist",
+      "role": "a dark blue canton"
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "position": "canton",
+      "role": "a gold star"
+    }
+  ]
+}

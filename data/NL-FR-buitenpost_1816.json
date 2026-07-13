@@ -1,0 +1,75 @@
+{
+  "id": "NL-FR-buitenpost_1816",
+  "name": "Buitenpost (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q181500"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the cross"
+    },
+    {
+      "color": "white",
+      "symbolism": "the cross edging"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the star and fleur-de-lis"
+    }
+  ],
+  "description": "A red field with a green cross edged white, a gold star and a gold fleur-de-lis at the hoist.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Buitenpost",
+    "https://commons.wikimedia.org/wiki/File:Buitenpost_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "nordic-cross",
+      "color": "green",
+      "fimbriation": [
+        {
+          "color": "white"
+        }
+      ],
+      "role": "a green cross edged white"
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "position": "canton",
+      "role": "a gold star"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold fleur-de-lis"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "NL-FR-nijland_1815",
+  "name": "Nijland (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2704676"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the cross"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fleur-de-lis"
+    },
+    {
+      "color": "red",
+      "symbolism": "the bull"
+    }
+  ],
+  "description": "A green field with a white cross, a gold fleur-de-lis at the hoist and a red bull's head at the centre.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Nijland",
+    "https://commons.wikimedia.org/wiki/File:Nijland_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "role": "a white cross"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "canton",
+      "role": "a gold fleur-de-lis"
+    },
+    {
+      "type": "animal-other",
+      "color": "red",
+      "position": "center",
+      "role": "a red bull's head"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "NL-FR-rauwerderhem_1983",
+  "name": "Rauwerderhem (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2345504"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the keys"
+    }
+  ],
+  "description": "A red field with a white band across the middle and two crossed gold keys.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1983 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1983"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Rauwerderhem",
+    "https://commons.wikimedia.org/wiki/File:Rauwerderhem_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "key",
+      "color": "yellow",
+      "count": 2,
+      "position": "center",
+      "role": "two crossed gold keys"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "NL-FR-makkum_1815",
+  "name": "Makkum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q493544"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the triangle"
+    },
+    {
+      "color": "black",
+      "symbolism": "the bend"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the hoist band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the hoist"
+    }
+  ],
+  "description": "A yellow field with a green upper triangle, a black diagonal band, and a blue hoist band.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Makkum",
+    "https://commons.wikimedia.org/wiki/File:Makkum_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "top",
+      "role": "a green upper triangle"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "role": "a black bend"
+    },
+    {
+      "type": "side",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue hoist band"
+    }
+  ]
+}

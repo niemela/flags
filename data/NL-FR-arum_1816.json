@@ -1,0 +1,69 @@
+{
+  "id": "NL-FR-arum_1816",
+  "name": "Arum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2444403"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "a band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "a band"
+    },
+    {
+      "color": "red",
+      "symbolism": "a band"
+    },
+    {
+      "color": "black",
+      "symbolism": "a band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the block"
+    }
+  ],
+  "description": "Vertical bands of blue, yellow, red and black, with a white block on the hoist band.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Arum",
+    "https://commons.wikimedia.org/wiki/File:Arum_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "red",
+        "black"
+      ],
+      "count": 4
+    },
+    {
+      "type": "square",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white block at the lower hoist"
+    }
+  ]
+}

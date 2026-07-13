@@ -1,0 +1,74 @@
+{
+  "id": "NL-FR-het-bildt_2017",
+  "name": "het Bildt (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q850722"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the chief"
+    },
+    {
+      "color": "white",
+      "symbolism": "the centre"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the base"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the triangle"
+    },
+    {
+      "color": "red",
+      "symbolism": "the arrowhead"
+    }
+  ],
+  "description": "Green, white and blue bands with a yellow triangle and a red arrowhead at the hoist.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 2017 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2017"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_het_Bildt",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Het_Bildt.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a yellow triangle"
+    },
+    {
+      "type": "arrowhead",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red arrowhead"
+    }
+  ]
+}

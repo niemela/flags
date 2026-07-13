@@ -1,0 +1,74 @@
+{
+  "id": "NL-FR-nijefurd_2010",
+  "name": "Nijefurd (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q658757"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the upper field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lower field"
+    },
+    {
+      "color": "green",
+      "symbolism": "a square"
+    },
+    {
+      "color": "blue",
+      "symbolism": "a square"
+    },
+    {
+      "color": "black",
+      "symbolism": "a square"
+    }
+  ],
+  "description": "Yellow over red with a hoist panel of three squares (green, blue and black), each bearing a gold crown.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 2010 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1984",
+      "end": "2010"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Nijefurd",
+    "https://commons.wikimedia.org/wiki/File:Nijefurd_flag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "complex",
+      "position": "hoist",
+      "role": "three squares, green, blue and black"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "count": 3,
+      "position": "hoist",
+      "role": "three gold crowns"
+    }
+  ]
+}

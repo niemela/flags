@@ -1,0 +1,60 @@
+{
+  "id": "NL-FR-gaasterlan_1985",
+  "name": "Gaasterlân (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q1814464"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the base"
+    },
+    {
+      "color": "red",
+      "symbolism": "the hare"
+    }
+  ],
+  "description": "A yellow field with a green base and a red hare.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1985 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1985"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Gaasterlân",
+    "https://commons.wikimedia.org/wiki/File:Gaasterlân_vlag_1963.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2,
+      "role": "yellow over a green base"
+    },
+    {
+      "type": "animal-other",
+      "color": "red",
+      "position": "center",
+      "role": "a red hare"
+    }
+  ]
+}

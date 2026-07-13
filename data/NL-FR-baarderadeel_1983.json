@@ -1,0 +1,71 @@
+{
+  "id": "NL-FR-baarderadeel_1983",
+  "name": "Baarderadeel (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q653111"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the upper field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lower field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the bend"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stars"
+    }
+  ],
+  "description": "Blue over yellow with a black diagonal band bearing two yellow stars.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1983 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1983"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Baarderadeel",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Baarderadeel.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "role": "a black bend"
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "count": 2,
+      "role": "two yellow stars on the bend"
+    }
+  ]
+}

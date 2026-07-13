@@ -1,0 +1,63 @@
+{
+  "id": "NL-FR-franekeradeel_1983",
+  "name": "Franekeradeel (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q27895245"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bend"
+    },
+    {
+      "color": "red",
+      "symbolism": "the rose"
+    }
+  ],
+  "description": "A blue field with a broad yellow diagonal band and a red rose at the upper hoist.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1983 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1983"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Franekeradeel",
+    "https://commons.wikimedia.org/wiki/File:Franekeradeel_vlag_tot_1984.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "role": "a yellow bend"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "canton",
+      "role": "a red rose"
+    }
+  ]
+}

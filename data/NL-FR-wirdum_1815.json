@@ -1,0 +1,60 @@
+{
+  "id": "NL-FR-wirdum_1815",
+  "name": "Wirdum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2005492"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the upper field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the lower field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the horse"
+    }
+  ],
+  "description": "Per bend yellow and green with a black rearing horse.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Wirdum",
+    "https://commons.wikimedia.org/wiki/File:Wurdum_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2,
+      "role": "per bend yellow and green"
+    },
+    {
+      "type": "horse",
+      "color": "black",
+      "position": "center",
+      "role": "a black rearing horse"
+    }
+  ]
+}

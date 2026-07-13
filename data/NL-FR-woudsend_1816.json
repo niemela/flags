@@ -1,0 +1,62 @@
+{
+  "id": "NL-FR-woudsend_1816",
+  "name": "Woudsend (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q1025084"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the triangles"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fleur-de-lis"
+    }
+  ],
+  "description": "A white field with two black triangles from the hoist, the upper bearing a gold fleur-de-lis.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Woudsend",
+    "https://commons.wikimedia.org/wiki/File:Woudsend_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "black",
+      "count": 2,
+      "position": "hoist",
+      "role": "two black triangles from the hoist"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold fleur-de-lis"
+    }
+  ]
+}

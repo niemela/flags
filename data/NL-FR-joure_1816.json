@@ -1,0 +1,63 @@
+{
+  "id": "NL-FR-joure_1816",
+  "name": "Joure (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2317245"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the lower band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the charge"
+    }
+  ],
+  "description": "A red, white and blue tricolour with a black-and-white charge at the hoist.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Joure",
+    "https://commons.wikimedia.org/wiki/File:De_Jouwer_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "a black-and-white charge"
+    }
+  ]
+}

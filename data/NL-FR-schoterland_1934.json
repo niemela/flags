@@ -1,0 +1,73 @@
+{
+  "id": "NL-FR-schoterland_1934",
+  "name": "Schoterland (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q3030537"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stars and sword"
+    },
+    {
+      "color": "white",
+      "symbolism": "the fleur-de-lis and wheel"
+    }
+  ],
+  "description": "A blue field with two gold stars, a white fleur-de-lis, a white wheel and a gold sword.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1934 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1934"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Schoterland",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Schoterland.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "count": 2,
+      "role": "two gold stars"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "position": "center",
+      "role": "a white fleur-de-lis"
+    },
+    {
+      "type": "circle",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white wheel"
+    },
+    {
+      "type": "sword",
+      "color": "yellow",
+      "position": "fly",
+      "role": "a gold sword"
+    }
+  ]
+}

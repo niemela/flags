@@ -1,0 +1,64 @@
+{
+  "id": "NL-FR-rinsumageast_1815",
+  "name": "Rinsumageast (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q1820452"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the border"
+    },
+    {
+      "color": "red",
+      "symbolism": "the upper field and castle"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lower field"
+    }
+  ],
+  "description": "A green-bordered field of red over yellow with a red castle at the hoist.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Rinsumageast",
+    "https://commons.wikimedia.org/wiki/File:Rinsumageast_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "bordure",
+      "color": "green",
+      "role": "a green border"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red castle"
+    }
+  ]
+}

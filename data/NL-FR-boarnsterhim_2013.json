@@ -1,0 +1,75 @@
+{
+  "id": "NL-FR-boarnsterhim_2013",
+  "name": "Boarnsterhim (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q840641"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the hoist band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the clover"
+    },
+    {
+      "color": "red",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stripes"
+    }
+  ],
+  "description": "A green hoist band with a gold clover, and red-and-white stripes on the fly.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 2013 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1984",
+      "end": "2013"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Boarnsterhim",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Boarnsterhim.svg"
+  ],
+  "features": [
+    {
+      "type": "side",
+      "color": "green",
+      "position": "hoist",
+      "role": "a green hoist band"
+    },
+    {
+      "type": "leaf",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold clover"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 5,
+      "position": "fly",
+      "role": "red and white stripes"
+    }
+  ]
+}

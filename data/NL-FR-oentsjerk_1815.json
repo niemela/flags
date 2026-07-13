@@ -1,0 +1,70 @@
+{
+  "id": "NL-FR-oentsjerk_1815",
+  "name": "Oentsjerk (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q3032454"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the arrowhead"
+    },
+    {
+      "color": "white",
+      "symbolism": "the arrowhead edging"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the rose"
+    }
+  ],
+  "description": "A red field with a green arrowhead from the fly edged white, and a gold rose at the upper hoist.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Oentsjerk",
+    "https://commons.wikimedia.org/wiki/File:Oentsjerk_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "arrowhead",
+      "color": "green",
+      "position": "fly",
+      "fimbriation": [
+        {
+          "color": "white"
+        }
+      ],
+      "role": "a green arrowhead from the fly"
+    },
+    {
+      "type": "flower",
+      "color": "yellow",
+      "position": "canton",
+      "role": "a gold rose"
+    }
+  ]
+}

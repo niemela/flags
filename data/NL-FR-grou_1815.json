@@ -1,0 +1,58 @@
+{
+  "id": "NL-FR-grou_1815",
+  "name": "Grou (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q1547681"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fish and fly band"
+    }
+  ],
+  "description": "A blue field with two gold fish at the hoist and a gold band at the fly.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Grou",
+    "https://commons.wikimedia.org/wiki/File:Grou_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "count": 2,
+      "position": "hoist",
+      "role": "two gold fish"
+    },
+    {
+      "type": "side",
+      "color": "yellow",
+      "position": "fly",
+      "role": "a gold band at the fly"
+    }
+  ]
+}

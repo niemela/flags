@@ -1,0 +1,72 @@
+{
+  "id": "NL-FR-augustinusga_1816",
+  "name": "Augustinusga (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2017681"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the hoist band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the charges"
+    },
+    {
+      "color": "red",
+      "symbolism": "the heart"
+    }
+  ],
+  "description": "A yellow field with a green hoist band bearing three white charges and a red flaming heart.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Augustinusga",
+    "https://commons.wikimedia.org/wiki/File:Augustinusga_flag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "side",
+      "color": "green",
+      "position": "hoist",
+      "role": "a green hoist band"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "count": 3,
+      "position": "hoist",
+      "role": "three white charges"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "a red flaming heart"
+    }
+  ]
+}

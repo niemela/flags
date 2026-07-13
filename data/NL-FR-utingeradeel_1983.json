@@ -1,0 +1,61 @@
+{
+  "id": "NL-FR-utingeradeel_1983",
+  "name": "Utingeradeel (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2307225"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the trefoil"
+    }
+  ],
+  "description": "A red field with a white band near the top and a gold trefoil at the lower hoist.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1983 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1983"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Utingeradeel",
+    "https://commons.wikimedia.org/wiki/File:Utingeradiel_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "role": "a white band on red"
+    },
+    {
+      "type": "leaf",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold trefoil"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "NL-FR-leeuwarderadeel_2017",
+  "name": "Leeuwarderadeel (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q778989"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the pile"
+    },
+    {
+      "color": "green",
+      "symbolism": "the trefoil"
+    }
+  ],
+  "description": "A light blue field with a yellow band, a white pile at the hoist bearing a green trefoil.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 2017 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2017"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Leeuwarderadeel",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Leeuwarderadeel.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a yellow band"
+    },
+    {
+      "type": "pile",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white pile at the hoist"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "hoist",
+      "role": "a green trefoil"
+    }
+  ]
+}

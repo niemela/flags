@@ -1,0 +1,67 @@
+{
+  "id": "NL-FR-hurdegaryp_1815",
+  "name": "Hurdegaryp (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q1025097"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the stripe"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the horn"
+    }
+  ],
+  "description": "A red field with a white band bearing a black stripe, and a gold hunting horn at the upper hoist.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Hurdegaryp",
+    "https://commons.wikimedia.org/wiki/File:Hardegarijp_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "black",
+        "white",
+        "red"
+      ],
+      "count": 5,
+      "role": "a white band with a black stripe on red"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "canton",
+      "role": "a gold hunting horn"
+    }
+  ]
+}

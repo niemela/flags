@@ -1,0 +1,72 @@
+{
+  "id": "NL-FR-drachten_1816",
+  "name": "Drachten (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q60444"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "white",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the crown and charge"
+    },
+    {
+      "color": "black",
+      "symbolism": "the bars"
+    }
+  ],
+  "description": "A red hoist bearing a gold crowned charge, and a white fly with three black bars.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Drachten",
+    "https://commons.wikimedia.org/wiki/File:Drachten_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "coat-of-arms",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold crowned charge"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "three black bars"
+    }
+  ]
+}

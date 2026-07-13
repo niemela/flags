@@ -1,0 +1,73 @@
+{
+  "id": "NL-FR-wommels_1816",
+  "name": "Wommels (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q106374342"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bend"
+    },
+    {
+      "color": "red",
+      "symbolism": "the charges"
+    }
+  ],
+  "description": "A green field with a yellow diagonal band bearing a red star, a red rose and a red shell.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1812",
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Wommels",
+    "https://commons.wikimedia.org/wiki/File:Wommels_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "role": "a yellow bend"
+    },
+    {
+      "type": "star",
+      "color": "red",
+      "role": "a red star"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "role": "a red rose"
+    },
+    {
+      "type": "shell",
+      "color": "red",
+      "role": "a red shell"
+    }
+  ]
+}

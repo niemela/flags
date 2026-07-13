@@ -1,0 +1,64 @@
+{
+  "id": "NL-FR-burgum_1816",
+  "name": "Burgum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q1016068"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the cross"
+    },
+    {
+      "color": "black",
+      "symbolism": "the horn"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cord"
+    }
+  ],
+  "description": "A yellow field with a blue cross and a black hunting horn at the upper hoist.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Burgum",
+    "https://commons.wikimedia.org/wiki/File:Bergum_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "nordic-cross",
+      "color": "blue",
+      "role": "a blue cross"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "canton",
+      "role": "a black hunting horn"
+    }
+  ]
+}

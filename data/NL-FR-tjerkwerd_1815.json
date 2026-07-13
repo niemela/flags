@@ -1,0 +1,65 @@
+{
+  "id": "NL-FR-tjerkwerd_1815",
+  "name": "Tjerkwerd (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2641369"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the upper field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the diagonal"
+    },
+    {
+      "color": "green",
+      "symbolism": "the lower field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the charge"
+    }
+  ],
+  "description": "Per bend blue and green divided by a white diagonal, with a red charge on the blue.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Tjerkwerd",
+    "https://commons.wikimedia.org/wiki/File:Tsjerkwerd_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "role": "per bend blue and green"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "canton",
+      "role": "a red charge"
+    }
+  ]
+}

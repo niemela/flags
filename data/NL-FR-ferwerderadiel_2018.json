@@ -1,0 +1,61 @@
+{
+  "id": "NL-FR-ferwerderadiel_2018",
+  "name": "Ferwerderadiel (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q750772"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stripes and stars"
+    }
+  ],
+  "description": "A barry of blue and yellow with gold stars on a blue hoist band.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 2018 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2018"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Ferwerderadiel",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Ferwerderadiel.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "blue",
+        "yellow",
+        "blue",
+        "yellow",
+        "blue"
+      ],
+      "count": 7
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "count": 5,
+      "position": "hoist",
+      "role": "gold stars on a blue hoist band"
+    }
+  ]
+}

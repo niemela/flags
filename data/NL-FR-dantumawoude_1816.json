@@ -1,0 +1,66 @@
+{
+  "id": "NL-FR-dantumawoude_1816",
+  "name": "Dantumawoude (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2723388"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the chief"
+    },
+    {
+      "color": "red",
+      "symbolism": "the field and peaks"
+    },
+    {
+      "color": "white",
+      "symbolism": "the tower"
+    }
+  ],
+  "description": "A red field with a green chief, three red peaks and a white tower at the fly.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Dantumawoude",
+    "https://commons.wikimedia.org/wiki/File:Dantumawoude_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "red"
+      ],
+      "count": 2,
+      "role": "a green chief over a red field"
+    },
+    {
+      "type": "mountain",
+      "color": "red",
+      "count": 3,
+      "role": "three red peaks"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "fly",
+      "role": "a white tower"
+    }
+  ]
+}

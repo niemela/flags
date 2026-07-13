@@ -1,0 +1,67 @@
+{
+  "id": "NL-FR-ureterp_1816",
+  "name": "Ureterp (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2331369"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the saltires"
+    },
+    {
+      "color": "green",
+      "symbolism": "the arrowhead"
+    }
+  ],
+  "description": "A yellow field with two black saltires at the hoist, a green arrowhead from the fly and a gold trefoil.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1816 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1816"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Ureterp",
+    "https://commons.wikimedia.org/wiki/File:Oerterp_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "saltire",
+      "color": "black",
+      "count": 2,
+      "position": "hoist",
+      "role": "two black saltires"
+    },
+    {
+      "type": "arrowhead",
+      "color": "green",
+      "position": "fly",
+      "role": "a green arrowhead"
+    },
+    {
+      "type": "leaf",
+      "color": "yellow",
+      "role": "a gold trefoil"
+    }
+  ]
+}

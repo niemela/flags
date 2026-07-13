@@ -1,0 +1,63 @@
+{
+  "id": "NL-FR-langezwaag_1815",
+  "name": "Langezwaag (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2686566"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "red",
+      "symbolism": "the trefoil"
+    }
+  ],
+  "description": "A bendy field of white and green with a red trefoil at the upper hoist.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Langezwaag",
+    "https://commons.wikimedia.org/wiki/File:Langsweagen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "white",
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 6
+    },
+    {
+      "type": "leaf",
+      "color": "red",
+      "position": "canton",
+      "role": "a red trefoil"
+    }
+  ]
+}

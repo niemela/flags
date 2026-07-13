@@ -1,0 +1,77 @@
+{
+  "id": "NL-FR-hennaarderadeel_1983",
+  "name": "Hennaarderadeel (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2228995"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the bend"
+    },
+    {
+      "color": "red",
+      "symbolism": "the rose"
+    },
+    {
+      "color": "green",
+      "symbolism": "the trefoil and star"
+    }
+  ],
+  "description": "A blue field with a white diagonal band bearing a red rose, a green trefoil and a green star.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1983 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1983"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Hennaarderadeel",
+    "https://commons.wikimedia.org/wiki/File:Hinnaarderadiel_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "role": "a white bend"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "center",
+      "role": "a red rose"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "role": "a green trefoil"
+    },
+    {
+      "type": "star",
+      "color": "green",
+      "role": "a green star"
+    }
+  ]
+}

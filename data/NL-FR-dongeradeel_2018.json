@@ -1,0 +1,71 @@
+{
+  "id": "NL-FR-dongeradeel_2018",
+  "name": "Dongeradeel (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q851299"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "red",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stars"
+    },
+    {
+      "color": "white",
+      "symbolism": "the waves"
+    }
+  ],
+  "description": "Per pale blue and red, with three gold stars at the hoist and white waves on the fly.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 2018 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1984",
+      "end": "2018"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Dongeradeel",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Dongeradeel.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "count": 3,
+      "position": "hoist",
+      "role": "three gold stars"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "fly",
+      "role": "white waves"
+    }
+  ]
+}

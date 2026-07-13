@@ -1,0 +1,62 @@
+{
+  "id": "NL-FR-kollumerland-en-nieuwkruisland_2018",
+  "name": "Kollumerland en Nieuwkruisland (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q571198"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "red",
+      "symbolism": "the stripes and star"
+    }
+  ],
+  "description": "A green field with yellow and red stripes near the top and bottom and a red star at the centre.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 2018 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2018"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Kollumerland_en_Nieuwkruisland",
+    "https://commons.wikimedia.org/wiki/File:Kollumerland_c.a._flag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "green",
+        "yellow",
+        "red"
+      ],
+      "count": 5
+    },
+    {
+      "type": "star",
+      "color": "red",
+      "position": "center",
+      "role": "a red star"
+    }
+  ]
+}

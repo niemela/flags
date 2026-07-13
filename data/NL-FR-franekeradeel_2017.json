@@ -1,0 +1,72 @@
+{
+  "id": "NL-FR-franekeradeel_2017",
+  "name": "Franekeradeel (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q683658"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bend, bell and sheaf"
+    },
+    {
+      "color": "red",
+      "symbolism": "the rose"
+    }
+  ],
+  "description": "A blue field with a yellow diagonal band bearing a gold bell, a red rose and a gold wheat sheaf.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 2017 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2017"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Franekeradeel",
+    "https://commons.wikimedia.org/wiki/File:Franekeradeel_flag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "role": "a yellow bend"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "role": "a gold bell"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "role": "a red rose"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "role": "a gold wheat sheaf"
+    }
+  ]
+}

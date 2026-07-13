@@ -1,0 +1,72 @@
+{
+  "id": "NL-FR-hemelumer-oldeferd_1983",
+  "name": "Hemelumer Oldeferd (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q1822585"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the upper field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "a band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the base"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the canton"
+    },
+    {
+      "color": "red",
+      "symbolism": "the canton"
+    }
+  ],
+  "description": "A green field with a yellow-and-red canton at the hoist, over blue and black bands.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1983 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1983"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Hemelumer_Oldeferd",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hemelumer_Oldeferd.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "blue",
+        "black"
+      ],
+      "count": 3
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2,
+      "position": "canton",
+      "role": "a yellow-over-red canton"
+    }
+  ]
+}

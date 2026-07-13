@@ -1,0 +1,71 @@
+{
+  "id": "NL-FR-aengwirden_1934",
+  "name": "Aengwirden (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2219092"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "black",
+      "symbolism": "the central bars"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lozenge and flower"
+    },
+    {
+      "color": "white",
+      "symbolism": "the flower"
+    }
+  ],
+  "description": "Green bands top and bottom with a black-barred centre, a red lozenge bearing a flower at the hoist and black blocks.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1934 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1934"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Aengwirden",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Aengwirden.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "black",
+        "green"
+      ],
+      "count": 3,
+      "role": "green bands with a black-barred centre"
+    },
+    {
+      "type": "lozenge",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red lozenge with a flower"
+    },
+    {
+      "type": "square",
+      "color": "black",
+      "count": 2,
+      "role": "black blocks"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "NL-FR-surhuizum_1815",
+  "name": "Surhuizum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q940152"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the pile and fleur-de-lis"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the band"
+    }
+  ],
+  "description": "A red field with a yellow pile at the hoist bearing a fleur-de-lis and a blue band across the fly.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Surhuizum",
+    "https://commons.wikimedia.org/wiki/File:Surhuzum_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "pile",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a yellow pile at the hoist"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold fleur-de-lis"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a blue band"
+    }
+  ]
+}

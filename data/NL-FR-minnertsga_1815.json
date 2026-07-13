@@ -1,0 +1,72 @@
+{
+  "id": "NL-FR-minnertsga_1815",
+  "name": "Minnertsga (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2634202"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the sheaf and stripe"
+    },
+    {
+      "color": "red",
+      "symbolism": "the arrowhead"
+    }
+  ],
+  "description": "A blue field with green and yellow bands and a red arrowhead from the hoist bearing a gold wheat sheaf.",
+  "history": "A former municipality in the province of Friesland, dissolved at the end of 1815 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1815"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Minnertsga",
+    "https://commons.wikimedia.org/wiki/File:Minnertsgea_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green",
+        "yellow",
+        "blue"
+      ],
+      "count": 4,
+      "role": "blue with green and yellow bands"
+    },
+    {
+      "type": "arrowhead",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red arrowhead"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold wheat sheaf"
+    }
+  ]
+}
