@@ -1,0 +1,56 @@
+{
+  "id": "NL-LI-simpelveld",
+  "name": "Simpelveld (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q9769"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central band, dove and shell"
+    }
+  ],
+  "description": "A blue field with a white band, a white dove at the upper hoist and a white shell at the lower hoist.",
+  "history": "Flag of the municipality of Simpelveld in the province of Limburg.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Simpelveld",
+    "https://commons.wikimedia.org/wiki/File:Simpelveld_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white dove"
+    },
+    {
+      "type": "shell",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white shell"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "NL-LI-peel-en-maas",
+  "name": "Peel en Maas (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q9785"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the wavy edges"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lozenges"
+    }
+  ],
+  "description": "A white field with black wavy edges top and bottom and five red lozenges.",
+  "history": "Flag of the municipality of Peel en Maas in the province of Limburg, formed in 2010.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Peel_en_Maas",
+    "https://commons.wikimedia.org/wiki/File:Peel_en_Maas_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "wave",
+      "color": "black",
+      "role": "black wavy edges top and bottom"
+    },
+    {
+      "type": "lozenge",
+      "color": "red",
+      "count": 5,
+      "position": "center",
+      "role": "five red lozenges"
+    }
+  ]
+}

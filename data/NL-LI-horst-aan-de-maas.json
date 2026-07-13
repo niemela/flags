@@ -1,0 +1,71 @@
+{
+  "id": "NL-LI-horst-aan-de-maas",
+  "name": "Horst aan de Maas (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q9797"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "white",
+      "symbolism": "the pale"
+    },
+    {
+      "color": "red",
+      "symbolism": "the roses"
+    }
+  ],
+  "description": "A yellow field barred with black, with a white pale near the hoist bearing five red roses.",
+  "history": "Flag of the municipality of Horst aan de Maas in the province of Limburg.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Horst_aan_de_Maas",
+    "https://commons.wikimedia.org/wiki/File:Horst_aan_de_Maas_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "black",
+        "yellow",
+        "black",
+        "yellow"
+      ],
+      "count": 5,
+      "role": "a yellow field barred with black"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "a white pale near the hoist"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "count": 5,
+      "position": "hoist",
+      "role": "five red roses on the white pale"
+    }
+  ]
+}

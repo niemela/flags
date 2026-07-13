@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="600" height="400" viewBox="-240 0 720 480">
+
+<defs>
+<path id="shears" stroke="none"
+ d="M -3.5,11.47824 a12 12 0 1 1 7,0 L13,63 5,67 11,82 29,73 15,14.69694
+ a21 21 0 1 0 -30,0 L-29,73 -11,82 -5,67 -13,63 z"/>
+<clipPath id="flyclip"><rect width="480" height="480"/></clipPath>
+</defs>
+
+<rect fill="#da121a" width="480" height="480"/>
+<rect fill="#fd0" x="-240" width="240" height="480"/>
+
+<g fill="#fd0" stroke="#fd0">
+<g id="fly" clip-path="url(#flyclip)">
+ <polyline stroke-width="96" fill="none" points="275,515 0,240 275,-35"/>
+ <use y="42" xlink:href="#shears"/>
+ <use y="209" x="183" xlink:href="#shears"/>
+ <use y="376" xlink:href="#shears"/>
+</g>
+</g>
+<use fill="#da121a" stroke="#da121a" transform="scale(-1 1)" xlink:href="#fly"/>
+
+</svg>

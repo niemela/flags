@@ -1,0 +1,48 @@
+{
+  "id": "NL-LI-brunssum",
+  "name": "Brunssum (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q9803"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "red",
+      "symbolism": "lower band"
+    }
+  ],
+  "description": "Blue over red, charged in the centre with the municipal coat of arms.",
+  "history": "Flag of the municipality of Brunssum in the province of Limburg.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Brunssum",
+    "https://commons.wikimedia.org/wiki/File:Brunssum_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "the municipal arms"
+    }
+  ]
+}

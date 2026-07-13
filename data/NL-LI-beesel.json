@@ -1,0 +1,59 @@
+{
+  "id": "NL-LI-beesel",
+  "name": "Beesel (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q9805"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "lower band and dragon"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cogwheel"
+    }
+  ],
+  "description": "Yellow over blue, with a red cogwheel enclosing a blue dragon.",
+  "history": "Flag of the municipality of Beesel in the province of Limburg, known for its dragon-slaying tradition.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Beesel",
+    "https://commons.wikimedia.org/wiki/File:Beesel_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "cogwheel",
+      "color": "red",
+      "position": "center",
+      "role": "a red cogwheel"
+    },
+    {
+      "type": "dragon",
+      "color": "blue",
+      "position": "center",
+      "role": "a blue dragon"
+    }
+  ]
+}

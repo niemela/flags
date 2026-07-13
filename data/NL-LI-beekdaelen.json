@@ -1,0 +1,64 @@
+{
+  "id": "NL-LI-beekdaelen",
+  "name": "Beekdaelen (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q29957432"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the waves"
+    },
+    {
+      "color": "red",
+      "symbolism": "the canton and lower panel"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lion"
+    }
+  ],
+  "description": "A green field with white wavy stripes, a red canton bearing a gold lion, and a red panel at the lower hoist with a white device.",
+  "history": "Flag of the municipality of Beekdaelen in the province of Limburg, formed in 2019.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Beekdaelen",
+    "https://commons.wikimedia.org/wiki/File:Beekdaelen_gemeentevlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "role": "white wavy stripes"
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "position": "canton",
+      "role": "a red canton with a gold lion"
+    },
+    {
+      "type": "square",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red panel at the lower hoist with a white device"
+    }
+  ]
+}

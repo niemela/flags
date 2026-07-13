@@ -1,0 +1,55 @@
+{
+  "id": "NL-LI-voerendaal",
+  "name": "Voerendaal (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q9770"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the waves"
+    },
+    {
+      "color": "red",
+      "symbolism": "the fleurs-de-lis"
+    }
+  ],
+  "description": "A yellow field with blue wavy stripes and three red fleurs-de-lis.",
+  "history": "Flag of the municipality of Voerendaal in the province of Limburg.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Voerendaal",
+    "https://commons.wikimedia.org/wiki/File:Voerendaal_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "role": "blue wavy stripes"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "red",
+      "count": 3,
+      "position": "center",
+      "role": "three red fleurs-de-lis"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "NL-LI-leudal",
+  "name": "Leudal (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q9793"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the pale"
+    },
+    {
+      "color": "red",
+      "symbolism": "the pot-hooks"
+    }
+  ],
+  "description": "A yellow field with a blue vertical band near the hoist and three red pot-hook charges.",
+  "history": "Flag of the municipality of Leudal in the province of Limburg, formed in 2007.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Leudal",
+    "https://commons.wikimedia.org/wiki/File:Leudal_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "a blue vertical band near the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "count": 3,
+      "role": "three red pot-hook charges"
+    }
+  ]
+}

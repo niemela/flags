@@ -1,0 +1,53 @@
+{
+  "id": "NL-LI-roermond",
+  "name": "Roermond (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q8167972"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the fleur-de-lis"
+    }
+  ],
+  "description": "White over blue with a red fleur-de-lis.",
+  "history": "Flag of the municipality of Roermond in the province of Limburg.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Roermond",
+    "https://commons.wikimedia.org/wiki/File:Roermond_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "red",
+      "position": "center",
+      "role": "a red fleur-de-lis"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "NL-LI-maastricht",
+  "name": "Maastricht (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q1309"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the star"
+    }
+  ],
+  "description": "A red field with a large white star.",
+  "history": "Flag of the municipality of Maastricht, the capital of the province of Limburg.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Maastricht",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Maastricht.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "star",
+      "color": "white",
+      "count": 1,
+      "points": 5,
+      "position": "center",
+      "role": "a large white star"
+    }
+  ]
+}

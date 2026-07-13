@@ -1,0 +1,63 @@
+{
+  "id": "NL-LI-stein",
+  "name": "Stein (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q9780"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "red",
+      "symbolism": "the fly and lozenge"
+    },
+    {
+      "color": "black",
+      "symbolism": "the diagonal band"
+    }
+  ],
+  "description": "Divided diagonally, yellow at the hoist and red at the fly, separated by a black band, with a red lozenge on the yellow.",
+  "history": "Flag of the municipality of Stein in the province of Limburg.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Stein",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Stein.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "fly",
+      "role": "red lower-fly section"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "role": "a black diagonal band"
+    },
+    {
+      "type": "lozenge",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red lozenge on the yellow"
+    }
+  ]
+}

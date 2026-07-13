@@ -1,0 +1,62 @@
+{
+  "id": "NL-LI-landgraaf",
+  "name": "Landgraaf (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q9795"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "hoist band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "central band"
+    },
+    {
+      "color": "red",
+      "symbolism": "fly band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the leaves"
+    },
+    {
+      "color": "black",
+      "symbolism": "the stem"
+    }
+  ],
+  "description": "A vertical triband of light blue, yellow and red, with a black plant bearing green leaves at the centre.",
+  "history": "Flag of the municipality of Landgraaf in the province of Limburg, formed in 1982.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Landgraaf",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Landgraaf.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "light-blue",
+        "yellow",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "center",
+      "role": "green leaves on a black sprig"
+    }
+  ]
+}

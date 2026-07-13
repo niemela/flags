@@ -1,0 +1,69 @@
+{
+  "id": "NL-LI-weert",
+  "name": "Weert (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q9774"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the hoist band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the pot-hooks"
+    },
+    {
+      "color": "white",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the fly band"
+    }
+  ],
+  "description": "A yellow band at the hoist bearing three red pot-hooks, and a white fly with a light-blue band.",
+  "history": "Flag of the municipality of Weert in the province of Limburg.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Weert",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Weert.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "side",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a yellow band at the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "count": 3,
+      "position": "hoist",
+      "role": "three red pot-hooks on the yellow"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a light-blue band on the fly"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "NL-LI-venray",
+  "name": "Venray (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q9775"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "two quarters"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "two quarters"
+    },
+    {
+      "color": "black",
+      "symbolism": "the keys and charges"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the shield"
+    }
+  ],
+  "description": "Quartered white and light blue, with two large black keys in saltire and small black charges (a shield, a helmet and crosses).",
+  "history": "Flag of the municipality of Venray in the province of Limburg.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Venray",
+    "https://commons.wikimedia.org/wiki/File:Venray_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "white",
+        "light-blue",
+        "light-blue",
+        "white"
+      ]
+    },
+    {
+      "type": "key",
+      "color": "black",
+      "count": 2,
+      "position": "center",
+      "role": "two large black keys in saltire"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "role": "small black charges (a shield, a helmet and crosses)"
+    }
+  ]
+}

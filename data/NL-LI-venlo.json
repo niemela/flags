@@ -1,0 +1,59 @@
+{
+  "id": "NL-LI-venlo",
+  "name": "Venlo (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-LI",
+  "codes": {
+    "wikidata": "Q9777"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lion and anchor"
+    }
+  ],
+  "description": "Red over blue, with a gold lion above and a gold anchor below.",
+  "history": "Flag of the municipality of Venlo in the province of Limburg.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Venlo",
+    "https://commons.wikimedia.org/wiki/File:Venlo_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "top",
+      "role": "a gold lion"
+    },
+    {
+      "type": "anchor",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "a gold anchor"
+    }
+  ]
+}
