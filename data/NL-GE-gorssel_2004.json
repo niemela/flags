@@ -1,0 +1,55 @@
+{
+  "id": "NL-GE-gorssel_2004",
+  "name": "Gorssel (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q171264"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the upper field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the base and tower"
+    }
+  ],
+  "description": "Yellow over blue with a blue tower at the upper hoist.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 2004 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2004"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Gorssel",
+    "https://commons.wikimedia.org/wiki/File:Gorssel_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "blue",
+      "position": "canton",
+      "role": "a blue tower"
+    }
+  ]
+}

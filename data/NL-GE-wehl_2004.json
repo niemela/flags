@@ -1,0 +1,61 @@
+{
+  "id": "NL-GE-wehl_2004",
+  "name": "Wehl (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q40687232"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the arrowhead and base"
+    }
+  ],
+  "description": "A yellow field with a blue arrowhead from the hoist and a blue base.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 2004 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1816",
+      "end": "2004"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Wehl",
+    "https://commons.wikimedia.org/wiki/File:Wehlvlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "arrowhead",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue arrowhead from the hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "a blue base"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "NL-GE-zelhem_2004",
+  "name": "Zelhem (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q1616224"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the upper field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the lower field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the cannon"
+    }
+  ],
+  "description": "Yellow over blue with a black cannon and a sun at the upper hoist.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 2004 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2004"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Zelhem",
+    "https://commons.wikimedia.org/wiki/File:Zelhem_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "firearm",
+      "color": "black",
+      "position": "canton",
+      "role": "a black cannon"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "canton",
+      "role": "a sun with rays"
+    }
+  ]
+}

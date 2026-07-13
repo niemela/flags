@@ -1,0 +1,68 @@
+{
+  "id": "NL-GE-hurwenen_1955",
+  "name": "Hurwenen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q2066750"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the upper fly"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the lower field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the canton"
+    },
+    {
+      "color": "white",
+      "symbolism": "the canton"
+    }
+  ],
+  "description": "A yellow upper fly and blue lower field, with a black-and-white bendy canton at the hoist.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 1955 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1955"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Hurwenen",
+    "https://commons.wikimedia.org/wiki/File:Hurwenen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2,
+      "role": "yellow upper fly and blue lower field"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "black",
+        "white"
+      ],
+      "count": 2,
+      "position": "canton",
+      "role": "a black-and-white bendy canton at the hoist"
+    }
+  ]
+}

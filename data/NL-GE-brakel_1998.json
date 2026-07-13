@@ -1,0 +1,70 @@
+{
+  "id": "NL-GE-brakel_1998",
+  "name": "Brakel (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q44097686"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the pile"
+    },
+    {
+      "color": "white",
+      "symbolism": "the pile edging"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the castle"
+    }
+  ],
+  "description": "A red field with a green dovetailed pile from the fly and a yellow castle.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 1998 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1998"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Brakel",
+    "https://commons.wikimedia.org/wiki/File:Brakel_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "pile",
+      "color": "green",
+      "position": "fly",
+      "fimbriation": [
+        {
+          "color": "white"
+        }
+      ],
+      "role": "a green dovetailed pile from the fly"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "a yellow castle"
+    }
+  ]
+}

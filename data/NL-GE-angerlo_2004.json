@@ -1,0 +1,64 @@
+{
+  "id": "NL-GE-angerlo_2004",
+  "name": "Angerlo (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q51163916"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the bend and crescent"
+    }
+  ],
+  "description": "A yellow field with a red diagonal band, a red crescent at the upper hoist, and a stag on the band.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 2004 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2004"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Angerlo",
+    "https://commons.wikimedia.org/wiki/File:Angerlo_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "role": "a red bend"
+    },
+    {
+      "type": "crescent",
+      "color": "red",
+      "position": "canton",
+      "role": "a red crescent"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "role": "a stag on the bend"
+    }
+  ]
+}

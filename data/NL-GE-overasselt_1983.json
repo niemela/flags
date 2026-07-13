@@ -1,0 +1,66 @@
+{
+  "id": "NL-GE-overasselt_1983",
+  "name": "Overasselt (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q1013416"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fly and fleurs-de-lis"
+    },
+    {
+      "color": "black",
+      "symbolism": "the lions"
+    }
+  ],
+  "description": "Per pale blue with gold fleurs-de-lis and a crosier, and yellow with three black lions.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 1983 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1983"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Overasselt",
+    "https://commons.wikimedia.org/wiki/File:Overasselt_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "gold fleurs-de-lis and a crosier"
+    },
+    {
+      "type": "lion",
+      "color": "black",
+      "count": 3,
+      "position": "fly",
+      "role": "three black lions"
+    }
+  ]
+}

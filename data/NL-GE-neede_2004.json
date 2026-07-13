@@ -1,0 +1,61 @@
+{
+  "id": "NL-GE-neede_2004",
+  "name": "Neede (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q1350047"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the discs"
+    }
+  ],
+  "description": "A blue field with a yellow band across the middle bearing three red discs.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 2004 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2004"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Neede",
+    "https://commons.wikimedia.org/wiki/File:Neede_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "disc",
+      "color": "red",
+      "count": 3,
+      "position": "center",
+      "role": "three red discs on the yellow"
+    }
+  ]
+}

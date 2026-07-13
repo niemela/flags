@@ -1,0 +1,79 @@
+{
+  "id": "NL-GE-dieren_1817",
+  "name": "Dieren (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q73101"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the flanks"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the saltire"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the water"
+    },
+    {
+      "color": "white",
+      "symbolism": "the shield"
+    }
+  ],
+  "description": "A green and blue field divided by a yellow saltire, with a shield bearing a stag at the centre and water at the base.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 1817 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1817"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Dieren",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Dieren.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "count": 2,
+      "role": "blue flanks"
+    },
+    {
+      "type": "saltire",
+      "color": "yellow",
+      "role": "a yellow saltire"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "a shield with a stag"
+    },
+    {
+      "type": "wave",
+      "color": "light-blue",
+      "position": "bottom",
+      "role": "water at the base"
+    }
+  ]
+}

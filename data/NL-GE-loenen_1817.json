@@ -1,0 +1,63 @@
+{
+  "id": "NL-GE-loenen_1817",
+  "name": "Loenen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q1867889"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the fleurs-de-lis"
+    }
+  ],
+  "description": "A yellow field with a red band and three white fleurs-de-lis.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 1817 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1817"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Loenen",
+    "https://commons.wikimedia.org/wiki/File:Loenen_(GLD)_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "role": "a red band"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "count": 3,
+      "role": "three white fleurs-de-lis"
+    }
+  ]
+}

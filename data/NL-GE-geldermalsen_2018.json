@@ -1,0 +1,68 @@
+{
+  "id": "NL-GE-geldermalsen_2018",
+  "name": "Geldermalsen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q171536"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "a square"
+    },
+    {
+      "color": "black",
+      "symbolism": "a square"
+    },
+    {
+      "color": "red",
+      "symbolism": "the bars"
+    }
+  ],
+  "description": "A yellow field with a hoist panel of blue, yellow and black squares and red bars on the fly.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 2018 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1978",
+      "end": "2018"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Geldermalsen",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Geldermalsen.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "complex",
+      "position": "hoist",
+      "role": "a panel of blue, yellow and black squares"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "red bars on the fly"
+    }
+  ]
+}

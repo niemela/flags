@@ -1,0 +1,65 @@
+{
+  "id": "NL-GE-rijnwaarden_2017",
+  "name": "Rijnwaarden (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q518739"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the lower band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the triangle"
+    }
+  ],
+  "description": "Yellow, red and white bands with a blue triangle at the hoist.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 2017 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1985",
+      "end": "2017"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Rijnwaarden",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Rijnwaarden.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "white"
+      ],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue triangle at the hoist"
+    }
+  ]
+}

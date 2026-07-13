@@ -1,0 +1,66 @@
+{
+  "id": "NL-GE-lienden_1998",
+  "name": "Lienden (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q1862874"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the upper field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the lower field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross and squares"
+    }
+  ],
+  "description": "Yellow over blue with a red cross and red squares at the upper hoist.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 1998 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1998"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Lienden",
+    "https://commons.wikimedia.org/wiki/File:Lienden_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "canton",
+      "role": "a red cross"
+    },
+    {
+      "type": "square",
+      "color": "red",
+      "count": 2,
+      "position": "canton",
+      "role": "red squares"
+    }
+  ]
+}

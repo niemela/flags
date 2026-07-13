@@ -1,0 +1,61 @@
+{
+  "id": "NL-GE-heerewaarden_1998",
+  "name": "Heerewaarden (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q2157725"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the pile"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the tower"
+    }
+  ],
+  "description": "A green field with a red dovetailed pile from the fly and a yellow tower.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 1998 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1998"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Heerewaarden",
+    "https://commons.wikimedia.org/wiki/File:Heerewaarden_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "pile",
+      "color": "red",
+      "position": "fly",
+      "role": "a red dovetailed pile from the fly"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "a yellow tower"
+    }
+  ]
+}

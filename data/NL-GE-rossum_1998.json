@@ -1,0 +1,60 @@
+{
+  "id": "NL-GE-rossum_1998",
+  "name": "Rossum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q2918470"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the upper field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the lower field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the parrot"
+    }
+  ],
+  "description": "Per bend white and black with a red parrot.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 1998 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1998"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Rossum",
+    "https://commons.wikimedia.org/wiki/File:Rossum_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white",
+        "black"
+      ],
+      "count": 2,
+      "role": "per bend white and black"
+    },
+    {
+      "type": "bird",
+      "color": "red",
+      "position": "center",
+      "role": "a red parrot"
+    }
+  ]
+}

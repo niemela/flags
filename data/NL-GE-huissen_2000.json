@@ -1,0 +1,61 @@
+{
+  "id": "NL-GE-huissen_2000",
+  "name": "Huissen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q73084"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the upper field and shield"
+    },
+    {
+      "color": "white",
+      "symbolism": "the base and swan"
+    }
+  ],
+  "description": "Red over white with a red shield bearing a white swan.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 2000 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2000"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Huissen",
+    "https://commons.wikimedia.org/wiki/File:Huissen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "shield",
+      "color": "red",
+      "position": "center",
+      "role": "a red shield"
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "position": "center",
+      "role": "a white swan"
+    }
+  ]
+}

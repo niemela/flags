@@ -1,0 +1,71 @@
+{
+  "id": "NL-GE-neerijnen_2018",
+  "name": "Neerijnen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q932089"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the bars and fish"
+    },
+    {
+      "color": "red",
+      "symbolism": "the bars and lion"
+    }
+  ],
+  "description": "A white field with blue and red central bars, a red lion at the upper hoist and a fish at the lower hoist.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 2018 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2018"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Neerijnen",
+    "https://commons.wikimedia.org/wiki/File:Neerijnen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "position": "center",
+      "role": "blue and red central bars"
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "canton",
+      "role": "a red lion at the upper hoist"
+    },
+    {
+      "type": "animal-other",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a fish at the lower hoist"
+    }
+  ]
+}

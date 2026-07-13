@@ -1,0 +1,60 @@
+{
+  "id": "NL-GE-bergh_2004",
+  "name": "Bergh (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q819700"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the upper field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the base"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the roundels"
+    }
+  ],
+  "description": "Red over white with three yellow roundels on the red.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 2004 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2004"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Bergh",
+    "https://commons.wikimedia.org/wiki/File:Bergh_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "count": 3,
+      "position": "canton",
+      "role": "three yellow roundels"
+    }
+  ]
+}

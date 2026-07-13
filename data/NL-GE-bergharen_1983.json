@@ -1,0 +1,61 @@
+{
+  "id": "NL-GE-bergharen_1983",
+  "name": "Bergharen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q2084100"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the pile"
+    },
+    {
+      "color": "black",
+      "symbolism": "the crosses"
+    }
+  ],
+  "description": "A blue field with a white pile at the hoist bearing three black crosses.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 1983 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1983"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Bergharen",
+    "https://commons.wikimedia.org/wiki/File:Bergharen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "pile",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white pile at the hoist"
+    },
+    {
+      "type": "greek-cross",
+      "color": "black",
+      "count": 3,
+      "role": "three black crosses"
+    }
+  ]
+}

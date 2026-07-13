@@ -1,0 +1,80 @@
+{
+  "id": "NL-GE-echteld_2001",
+  "name": "Echteld (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q2443862"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the canton"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lion"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the bars"
+    },
+    {
+      "color": "black",
+      "symbolism": "the bars"
+    }
+  ],
+  "description": "A white field with a red canton bearing a gold crowned lion, and blue, yellow and black bars at the lower fly.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 2001 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2001"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Echteld",
+    "https://commons.wikimedia.org/wiki/File:Echteld_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red canton"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "canton",
+      "role": "a gold crowned lion"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "black"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "blue, yellow and black bars at the lower fly"
+    }
+  ]
+}

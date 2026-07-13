@@ -1,0 +1,61 @@
+{
+  "id": "NL-GE-borculo_2004",
+  "name": "Borculo (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q1025685"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fly"
+    }
+  ],
+  "description": "Per pale blue and yellow with two crossed implements and four roundels counterchanged.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 2004 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2004"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Borculo",
+    "https://commons.wikimedia.org/wiki/File:Borculo_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "tool",
+      "color": "yellow",
+      "count": 2,
+      "role": "two crossed implements, counterchanged"
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "count": 4,
+      "role": "four roundels counterchanged"
+    }
+  ]
+}

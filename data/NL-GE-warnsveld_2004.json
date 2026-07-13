@@ -1,0 +1,59 @@
+{
+  "id": "NL-GE-warnsveld_2004",
+  "name": "Warnsveld (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q35144901"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the upper field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the base"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wheel"
+    }
+  ],
+  "description": "White over green with a yellow spoked wheel at the centre.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 2004 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2004"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Warnsveld",
+    "https://commons.wikimedia.org/wiki/File:Warnsveld_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "circle",
+      "color": "yellow",
+      "position": "center",
+      "role": "a yellow spoked wheel"
+    }
+  ]
+}

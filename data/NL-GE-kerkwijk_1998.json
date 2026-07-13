@@ -1,0 +1,68 @@
+{
+  "id": "NL-GE-kerkwijk_1998",
+  "name": "Kerkwijk (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q2626850"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the bars"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the border"
+    },
+    {
+      "color": "white",
+      "symbolism": "the border"
+    }
+  ],
+  "description": "Red and yellow bars within a blue-and-white checkered border.",
+  "history": "A former municipality in the province of Gelderland, dissolved at the end of 1998 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1998"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Kerkwijk",
+    "https://commons.wikimedia.org/wiki/File:Kerkwijk_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "bordure",
+      "color": "blue",
+      "role": "a blue-and-white checkered border"
+    },
+    {
+      "type": "chequy",
+      "color": "white",
+      "role": "white checkers on the border"
+    }
+  ]
+}
