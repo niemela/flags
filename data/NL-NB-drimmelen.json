@@ -1,0 +1,60 @@
+{
+  "id": "NL-NB-drimmelen",
+  "name": "Drimmelen (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9830"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the waves"
+    },
+    {
+      "color": "green",
+      "symbolism": "the reed and stars"
+    }
+  ],
+  "description": "A white field with blue waves, a green reed and seven green stars.",
+  "history": "Flag of the municipality of Drimmelen in the province of North Brabant, formed in 1997.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Drimmelen",
+    "https://commons.wikimedia.org/wiki/File:Drimmelen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "role": "blue waves"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "role": "a green reed"
+    },
+    {
+      "type": "star",
+      "color": "green",
+      "count": 7,
+      "role": "seven green stars in an arc"
+    }
+  ]
+}

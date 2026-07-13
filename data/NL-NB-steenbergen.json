@@ -1,0 +1,64 @@
+{
+  "id": "NL-NB-steenbergen",
+  "name": "Steenbergen (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9870"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the saltire"
+    },
+    {
+      "color": "green",
+      "symbolism": "a triangle"
+    },
+    {
+      "color": "blue",
+      "symbolism": "a triangle"
+    }
+  ],
+  "description": "A yellow field with a red saltire, a green triangle above and a blue triangle below.",
+  "history": "Flag of the municipality of Steenbergen in the province of North Brabant.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Steenbergen",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Steenbergen.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "saltire",
+      "color": "red",
+      "role": "a red saltire"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "top",
+      "role": "a green triangle"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "bottom",
+      "role": "a blue triangle"
+    }
+  ]
+}

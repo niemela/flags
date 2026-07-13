@@ -1,0 +1,51 @@
+{
+  "id": "NL-NB-boxtel",
+  "name": "Boxtel (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9821"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the outer bands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central band and keys"
+    }
+  ],
+  "description": "Red, white and red bands with two white crossed keys at the upper hoist.",
+  "history": "Flag of the municipality of Boxtel in the province of North Brabant.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Boxtel",
+    "https://commons.wikimedia.org/wiki/File:Boxtel_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "key",
+      "color": "white",
+      "count": 2,
+      "position": "canton",
+      "role": "two white crossed keys"
+    }
+  ]
+}

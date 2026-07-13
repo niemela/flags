@@ -1,0 +1,56 @@
+{
+  "id": "NL-NB-woensdrecht",
+  "name": "Woensdrecht (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9881"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the stripes"
+    }
+  ],
+  "description": "Per pale green and yellow with blue stripes on the fly.",
+  "history": "Flag of the municipality of Woensdrecht in the province of North Brabant, formed in 1997.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Woensdrecht",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Woensdrecht.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "blue stripes on the yellow fly"
+    }
+  ]
+}

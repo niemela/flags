@@ -1,0 +1,68 @@
+{
+  "id": "NL-NB-baarle-nassau",
+  "name": "Baarle-Nassau (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9811"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the square"
+    },
+    {
+      "color": "red",
+      "symbolism": "the barry"
+    },
+    {
+      "color": "white",
+      "symbolism": "the barry"
+    }
+  ],
+  "description": "A blue field with a yellow square at the upper hoist and red-and-white barry on the fly.",
+  "history": "Flag of the municipality of Baarle-Nassau in the province of North Brabant.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Baarle-Nassau",
+    "https://commons.wikimedia.org/wiki/File:Baarle-Nassau_flag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "square",
+      "color": "yellow",
+      "position": "canton",
+      "role": "a yellow square at the upper hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 7,
+      "position": "fly",
+      "role": "red-and-white barry on the fly"
+    }
+  ]
+}

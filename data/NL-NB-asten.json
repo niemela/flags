@@ -1,0 +1,53 @@
+{
+  "id": "NL-NB-asten",
+  "name": "Asten (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9810"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the device"
+    }
+  ],
+  "description": "Red over yellow with a black ornamental cross device at the centre.",
+  "history": "Flag of the municipality of Asten in the province of North Brabant.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Asten",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Asten.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "complex",
+      "color": "black",
+      "position": "center",
+      "role": "a black ornamental cross device"
+    }
+  ]
+}

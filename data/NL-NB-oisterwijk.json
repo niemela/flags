@@ -1,0 +1,48 @@
+{
+  "id": "NL-NB-oisterwijk",
+  "name": "Oisterwijk (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9857"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the stripes"
+    }
+  ],
+  "description": "A white field with three narrow red vertical stripes at the hoist.",
+  "history": "Flag of the municipality of Oisterwijk in the province of North Brabant.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Oisterwijk",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Oisterwijk.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 3,
+      "position": "hoist",
+      "role": "three red vertical stripes at the hoist"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "NL-NB-waalre",
+  "name": "Waalre (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9877"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "central band"
+    },
+    {
+      "color": "red",
+      "symbolism": "lower band"
+    }
+  ],
+  "description": "Blue, yellow and red bands with a gold acorn on a branch at the upper hoist.",
+  "history": "Flag of the municipality of Waalre in the province of North Brabant.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Waalre",
+    "https://commons.wikimedia.org/wiki/File:Waalre_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "canton",
+      "role": "a gold acorn on a branch"
+    }
+  ]
+}

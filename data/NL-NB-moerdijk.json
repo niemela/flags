@@ -1,0 +1,78 @@
+{
+  "id": "NL-NB-moerdijk",
+  "name": "Moerdijk (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9854"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "a quarter"
+    },
+    {
+      "color": "red",
+      "symbolism": "the saltire"
+    },
+    {
+      "color": "black",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "green",
+      "symbolism": "a quarter"
+    }
+  ],
+  "description": "Quartered: white with a red saltire, black-and-yellow bands, and green with a white lozenge.",
+  "history": "Flag of the municipality of Moerdijk in the province of North Brabant, formed in 1997.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Moerdijk",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Moerdijk.svg"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "white",
+        "black",
+        "green",
+        "black"
+      ]
+    },
+    {
+      "type": "saltire",
+      "color": "red",
+      "position": "canton",
+      "role": "a red saltire (upper hoist)"
+    },
+    {
+      "type": "lozenge",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white lozenge (lower hoist)"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "yellow"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "black-and-yellow bands on the fly"
+    }
+  ]
+}

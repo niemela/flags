@@ -1,0 +1,59 @@
+{
+  "id": "NL-NB-vught",
+  "name": "Vught (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9876"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the key"
+    }
+  ],
+  "description": "Blue over yellow with a gold lion above and a red key below.",
+  "history": "Flag of the municipality of Vught in the province of North Brabant.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Vught",
+    "https://commons.wikimedia.org/wiki/File:Vught_gemeentevlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "top",
+      "role": "a gold lion"
+    },
+    {
+      "type": "key",
+      "color": "red",
+      "position": "bottom",
+      "role": "a red key"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "NL-NB-eersel",
+  "name": "Eersel (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9831"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lion"
+    }
+  ],
+  "description": "A barry of black and yellow with a red lion and charge at the top.",
+  "history": "Flag of the municipality of Eersel in the province of North Brabant.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Eersel",
+    "https://commons.wikimedia.org/wiki/File:Eersel_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "yellow",
+        "black",
+        "yellow",
+        "black",
+        "yellow",
+        "black"
+      ],
+      "count": 7,
+      "role": "barry of black and yellow"
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "top",
+      "role": "a red lion"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "top",
+      "role": "a red charge"
+    }
+  ]
+}

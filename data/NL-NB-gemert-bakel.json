@@ -1,0 +1,65 @@
+{
+  "id": "NL-NB-gemert-bakel",
+  "name": "Gemert-Bakel (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9836"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the canton"
+    },
+    {
+      "color": "black",
+      "symbolism": "the eagle and bands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the bands"
+    }
+  ],
+  "description": "A red field with a yellow canton bearing a black eagle, and black-and-white bands at the hoist.",
+  "history": "Flag of the municipality of Gemert-Bakel in the province of North Brabant, formed in 1997.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Gemert-Bakel",
+    "https://commons.wikimedia.org/wiki/File:Gemert-Bakel_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "canton",
+      "color": "yellow",
+      "position": "canton",
+      "role": "a yellow canton"
+    },
+    {
+      "type": "eagle",
+      "color": "black",
+      "position": "canton",
+      "role": "a black eagle"
+    },
+    {
+      "type": "complex",
+      "color": "black",
+      "position": "hoist",
+      "role": "black-and-white bands at the hoist"
+    }
+  ]
+}

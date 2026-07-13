@@ -1,0 +1,48 @@
+{
+  "id": "NL-NB-eindhoven",
+  "name": "Eindhoven (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9832"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the bands"
+    }
+  ],
+  "description": "A red field with white horizontal bars at the hoist.",
+  "history": "Flag of the municipality of Eindhoven in the province of North Brabant.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Eindhoven",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Eindhoven.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 3,
+      "position": "hoist",
+      "role": "white bars at the hoist"
+    }
+  ]
+}

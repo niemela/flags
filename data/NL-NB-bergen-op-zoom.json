@@ -1,0 +1,49 @@
+{
+  "id": "NL-NB-bergen-op-zoom",
+  "name": "Bergen op Zoom (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9814"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the outer bands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central band"
+    }
+  ],
+  "description": "Red, white and red bands charged in the centre with the municipal arms and its wild-man supporters.",
+  "history": "Flag of the municipality of Bergen op Zoom in the province of North Brabant.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Bergen_op_Zoom",
+    "https://commons.wikimedia.org/wiki/File:Bergen_op_Zoom_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "the municipal arms with two wild-man supporters"
+    }
+  ]
+}

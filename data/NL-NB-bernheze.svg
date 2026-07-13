@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg viewBox="-91 0 273 182" width="600" height="400"
+xmlns="http://www.w3.org/2000/svg" version="1.1"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<defs>
+<path id="lily" d="M 0,19 C 14,34.575 14.222,74.087 13,83 C 28.604,62.894 45.514,67.986 52.55,91 C 10.452,59.846 36.5,152.242 5.793,151.466 C 4,160 3,162 0,164.6 M 35.4,49 C 31,52.8 26.323,59.867 26.19,69.379 C 22.569,70.7 18.345,73.5 15.48,77 C 15.8,73.284 15.546,66.1 15.3,61.793 C 20,55 27,49 35.4,49 z M 0,0 V91 H182 V0"/>
+</defs>
+
+<rect x="-91" width="91" height="182" fill="#fff"/>
+<rect width="182" height="182" fill="#f32737"/>
+<use fill="#fff" xlink:href="#lily"/>
+<use fill="#f32737" xlink:href="#lily" transform="scale(-1,1)"/>
+
+</svg>

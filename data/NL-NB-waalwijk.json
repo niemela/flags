@@ -1,0 +1,56 @@
+{
+  "id": "NL-NB-waalwijk",
+  "name": "Waalwijk (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q745038"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the outer stripes"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "black",
+      "symbolism": "the central stripe"
+    }
+  ],
+  "description": "Vertical stripes of red, yellow, black, yellow and red, with a gold tree on the black.",
+  "history": "Flag of the municipality of Waalwijk in the province of North Brabant.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Waalwijk",
+    "https://commons.wikimedia.org/wiki/File:Waalwijk_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "black",
+        "yellow",
+        "red"
+      ],
+      "count": 5
+    },
+    {
+      "type": "tree",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold tree on the black"
+    }
+  ]
+}

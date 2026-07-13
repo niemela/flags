@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="no"?>
+<svg viewBox="-200 -200 600 400" width="600" height="400"
+xmlns="http://www.w3.org/2000/svg" version="1.1"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<defs>
+<g id="quarter_wheel">
+<rect y="4" width="4" height="130"/>
+<rect x="10" y="-4" width="130" height="8" transform="rotate(30)"/>
+<path d="M150,0 A150 150 0 0 1 0,150 V122 A122 122 0 0 0 122,0 H23 A23 23 0 0 1 0,23 V0"/>
+</g>
+</defs>
+
+<rect fill="#0f47af" x="-200" y="-200" width="600" height="400"/>
+
+<g fill="#fd0">
+<path d="M-200,-200 H0 V200 H400 V0 H-200 z"/>
+<use transform="scale(-1,1)" xlink:href="#quarter_wheel"/>
+<use transform="scale(1,-1)" xlink:href="#quarter_wheel"/>
+</g>
+
+<g fill="#da121a">
+<use xlink:href="#quarter_wheel"/>
+<use transform="scale(-1)" xlink:href="#quarter_wheel"/>
+</g>
+
+</svg>

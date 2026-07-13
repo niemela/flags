@@ -1,0 +1,58 @@
+{
+  "id": "NL-NB-rucphen",
+  "name": "Rucphen (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9862"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "red",
+      "symbolism": "central band"
+    },
+    {
+      "color": "black",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the lozenges"
+    }
+  ],
+  "description": "Green, red and black bands with white lozenges arranged in a cross.",
+  "history": "Flag of the municipality of Rucphen in the province of North Brabant, formed in 1997.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Rucphen",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Rucphen.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "red",
+        "black"
+      ],
+      "count": 3
+    },
+    {
+      "type": "lozenge",
+      "color": "white",
+      "count": 5,
+      "role": "white lozenges in a cross"
+    }
+  ]
+}

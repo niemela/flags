@@ -1,0 +1,51 @@
+{
+  "id": "NL-NB-land-van-cuijk",
+  "name": "Land van Cuijk (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q107242476"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the ducks and tower"
+    }
+  ],
+  "description": "A yellow field with red ducks and a red tower at the centre.",
+  "history": "Flag of the municipality of Land van Cuijk in the province of North Brabant, formed in 2022.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Land_van_Cuijk",
+    "https://commons.wikimedia.org/wiki/File:Vlag_Land_van_Cuijk.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "bird",
+      "color": "red",
+      "count": 8,
+      "role": "red ducks"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "center",
+      "role": "a red tower"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "NL-NB-nuenen-gerwen-en-nederwetten",
+  "name": "Nuenen, Gerwen en Nederwetten (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9855"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "black",
+      "symbolism": "a band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "a band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "a band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the field"
+    }
+  ],
+  "description": "A red band at the hoist and black, yellow and blue bands.",
+  "history": "Flag of the municipality of Nuenen, Gerwen en Nederwetten in the province of North Brabant.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Nuenen,_Gerwen_en_Nederwetten",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Nuenen.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "side",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red hoist band"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "yellow",
+        "blue"
+      ],
+      "count": 3,
+      "role": "black, yellow and blue bands"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "NL-NB-goirle",
+  "name": "Goirle (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9838"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "a band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "a band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the checkers"
+    }
+  ],
+  "description": "Yellow, white and blue bands with a red-and-white checkered canton and a gold device at the fly.",
+  "history": "Flag of the municipality of Goirle in the province of North Brabant.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Goirle",
+    "https://commons.wikimedia.org/wiki/File:Goirle_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "chequy",
+      "color": "red",
+      "position": "canton",
+      "role": "a red-and-white checkered canton"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "fly",
+      "role": "a gold fountain device"
+    }
+  ]
+}

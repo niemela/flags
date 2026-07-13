@@ -1,0 +1,59 @@
+{
+  "id": "NL-NB-halderberge",
+  "name": "Halderberge (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9841"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the tower"
+    },
+    {
+      "color": "green",
+      "symbolism": "the tree and duck field"
+    }
+  ],
+  "description": "A six-part field of white, red and green bearing a red tower, a white duck and a green tree.",
+  "history": "Flag of the municipality of Halderberge in the province of North Brabant, formed in 1997.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Halderberge",
+    "https://commons.wikimedia.org/wiki/File:Halderberge_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "complex",
+      "role": "a six-part field of white, red and green"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "canton",
+      "role": "a red tower"
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "role": "a white duck"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "role": "a green tree"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "NL-NB-best",
+  "name": "Best (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9816"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "black",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the lozenge"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross"
+    }
+  ],
+  "description": "Yellow over black with a white lozenge bearing a red cross.",
+  "history": "Flag of the municipality of Best in the province of North Brabant.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Best",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Best_North_Brabant.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "black"
+      ],
+      "count": 2
+    },
+    {
+      "type": "lozenge",
+      "color": "white",
+      "position": "center",
+      "role": "a white lozenge"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "center",
+      "role": "a red cross on the lozenge"
+    }
+  ]
+}

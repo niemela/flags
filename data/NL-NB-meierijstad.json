@@ -1,0 +1,75 @@
+{
+  "id": "NL-NB-meierijstad",
+  "name": "Meierijstad (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q18655255"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "black",
+      "symbolism": "central band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the saltire"
+    },
+    {
+      "color": "white",
+      "symbolism": "the saltire and tower"
+    }
+  ],
+  "description": "Blue, black and yellow bands with a gold tower, a red-and-white saltire and three black crescents.",
+  "history": "Flag of the municipality of Meierijstad in the province of North Brabant, formed in 2017.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Meierijstad",
+    "https://commons.wikimedia.org/wiki/File:Meierijstad_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "black",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "top",
+      "role": "a gold tower"
+    },
+    {
+      "type": "saltire",
+      "color": "red",
+      "position": "center",
+      "role": "a red-and-white saltire"
+    },
+    {
+      "type": "crescent",
+      "color": "black",
+      "count": 3,
+      "position": "bottom",
+      "role": "three black crescents"
+    }
+  ]
+}

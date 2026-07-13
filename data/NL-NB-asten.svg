@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="600" height="400" viewBox="-150 -150 450 300">
+
+<rect x="-150" y="-150" width="450" height="100" fill="#fff"/>
+<rect x="-150" y="-50" width="450" height="100" fill="#cc112f"/>
+<rect x="-150" y="50" width="450" height="100" fill="#fccc00"/>
+
+<g id="bar">
+<path id="hook" d="M 98,0 C 109,2 120,13 120,27 S 110,50 100,50 S 84,44 84,44 C 91,47 100,43 100,36 S 96,22.5 82,22.5 H 0 V -10 z" fill="#000"/>
+<use transform="scale(1 -1)" xlink:href="#hook"/>
+<use transform="scale(-1 1)" xlink:href="#hook"/>
+<use transform="scale(-1 -1)" xlink:href="#hook"/>
+</g>
+
+<use transform="rotate(90)" xlink:href="#bar"/>
+
+</svg>

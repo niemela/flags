@@ -1,0 +1,51 @@
+{
+  "id": "NL-NB-son-en-breugel",
+  "name": "Son en Breugel (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9869"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the lozenges"
+    }
+  ],
+  "description": "A yellow field with two blue lozenges, the hoist one bearing a gold sun.",
+  "history": "Flag of the municipality of Son en Breugel in the province of North Brabant.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Son_en_Breugel",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Son_en_Breugel.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "lozenge",
+      "color": "blue",
+      "count": 2,
+      "role": "two blue lozenges"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold sun in the hoist lozenge"
+    }
+  ]
+}

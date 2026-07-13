@@ -1,0 +1,47 @@
+{
+  "id": "NL-NB-helmond",
+  "name": "Helmond (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9844"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "white",
+      "symbolism": "the fly"
+    }
+  ],
+  "description": "Per pale red and white with a counterchanged helmet.",
+  "history": "Flag of the municipality of Helmond in the province of North Brabant.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Helmond",
+    "https://commons.wikimedia.org/wiki/File:Helmond_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "complex",
+      "role": "a counterchanged helmet"
+    }
+  ]
+}

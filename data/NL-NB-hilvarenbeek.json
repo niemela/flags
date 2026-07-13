@@ -1,0 +1,58 @@
+{
+  "id": "NL-NB-hilvarenbeek",
+  "name": "Hilvarenbeek (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9846"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "white",
+      "symbolism": "central band"
+    },
+    {
+      "color": "black",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lion"
+    }
+  ],
+  "description": "Blue, white and black bands with a gold lion.",
+  "history": "Flag of the municipality of Hilvarenbeek in the province of North Brabant.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Hilvarenbeek",
+    "https://commons.wikimedia.org/wiki/File:Hilvarenbeek_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "black"
+      ],
+      "count": 3
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold lion"
+    }
+  ]
+}

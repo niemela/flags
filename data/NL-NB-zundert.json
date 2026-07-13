@@ -1,0 +1,65 @@
+{
+  "id": "NL-NB-zundert",
+  "name": "Zundert (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9883"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the hoist triangle"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lower fly"
+    }
+  ],
+  "description": "A green triangle at the hoist bearing a white fleur-de-lis, with white and red on the fly.",
+  "history": "Flag of the municipality of Zundert in the province of North Brabant.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Zundert",
+    "https://commons.wikimedia.org/wiki/File:Zundert_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "hoist",
+      "role": "a green triangle at the hoist"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white fleur-de-lis"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "white over red on the fly"
+    }
+  ]
+}

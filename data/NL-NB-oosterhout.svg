@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="600" height="400" viewBox="0 0 279 186">
+
+<defs>
+<path id="crescent" fill="black"
+ d="M7,-24 a25 25 0 1 1 -14,0 a16 16 0 1 0 14,0"/>
+</defs>
+
+<rect fill="white" width="279" height="186"/>
+
+<use x="91" y="51" xlink:href="#crescent"/>
+<use x="188" y="51" xlink:href="#crescent"/>
+<use x="50%" y="135" xlink:href="#crescent"/>
+
+</svg>

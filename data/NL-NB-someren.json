@@ -1,0 +1,69 @@
+{
+  "id": "NL-NB-someren",
+  "name": "Someren (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-NB",
+  "codes": {
+    "wikidata": "Q9868"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "black",
+      "symbolism": "central band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the saltires"
+    },
+    {
+      "color": "orange",
+      "symbolism": "the lion"
+    }
+  ],
+  "description": "White, black and yellow bands with three red saltires at the hoist and an orange lion at the fly.",
+  "history": "Flag of the municipality of Someren in the province of North Brabant.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Someren",
+    "https://commons.wikimedia.org/wiki/File:Someren_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "black",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "saltire",
+      "color": "red",
+      "count": 3,
+      "position": "hoist",
+      "role": "three red saltires"
+    },
+    {
+      "type": "lion",
+      "color": "orange",
+      "position": "fly",
+      "role": "an orange lion"
+    }
+  ]
+}
