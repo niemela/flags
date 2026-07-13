@@ -1,0 +1,70 @@
+{
+  "id": "NL-ZE-borsele",
+  "name": "Borsele (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q10071"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the triangles"
+    },
+    {
+      "color": "black",
+      "symbolism": "the central lozenge"
+    },
+    {
+      "color": "red",
+      "symbolism": "the edging of the lozenge"
+    }
+  ],
+  "description": "A white field with blue triangles at the top and bottom, and at the centre a red-edged lozenge barry of black and white.",
+  "history": "Flag of the municipality of Borsele on the Zuid-Beveland peninsula in the province of Zeeland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Borsele",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Borsele.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "top",
+      "role": "blue triangle from the top edge"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "bottom",
+      "role": "blue triangle from the bottom edge"
+    },
+    {
+      "type": "lozenge",
+      "color": "black",
+      "position": "center",
+      "fimbriation": [
+        {
+          "color": "red"
+        }
+      ],
+      "role": "a red-edged lozenge barry of black and white"
+    }
+  ]
+}

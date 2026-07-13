@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="576" height="384">
+
+<svg id="stripes" viewBox="0 0 175.5 117">
+<defs>
+<clipPath id="c1">
+<path id="wavy" d="M0,36.5 c8,0
+ 10,5 18,5 s10,-5 18,-5
+ s10,5 18,5 s10,-5 18,-5
+ s10,5 18,5 s10,-5 18,-5
+ s10,5 18,5 s10,-5 18,-5
+ s10,5 18,5 s10,-5 18,-5
+ V99 H0"/>
+</clipPath>
+</defs>
+<rect fill="#cc112f" width="100%" height="50"/>
+<use fill="#fff" xlink:href="#wavy"/>
+<use fill="#0039a6" y="13" xlink:href="#wavy"/>
+<use fill="#fff" y="26" xlink:href="#wavy"/>
+<rect fill="#000" x="25" width="67" height="100%" clip-path="url(#c1)"/>
+<use fill="#cc112f" y="39" xlink:href="#wavy"/>
+<rect fill="#cc112f" x="36" width="45" height="100%"/>
+</svg>
+
+<svg id="sword" viewBox="-240 0 720 480">
+<path fill="#fccc00"
+ d="M40,296 a11 11 0 1 1 0,12 H-40 a11 11 0 1 1 0,-12 z
+ M-14,312 A16 8 0 0 1 14,312 V359 L5,386 A21 21 0 1 1 -5,386 L-14,359 z"/>
+<polygon fill="#fff" points="-18,294 18,294 13,75 0,50 -13,75"/>
+</svg>
+
+</svg>

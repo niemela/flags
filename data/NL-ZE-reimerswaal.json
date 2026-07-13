@@ -1,0 +1,69 @@
+{
+  "id": "NL-ZE-reimerswaal",
+  "name": "Reimerswaal (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q10078"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the sword and the wavy stripes"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the wavy stripes"
+    },
+    {
+      "color": "black",
+      "symbolism": "the bars flanking the sword"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the sword's hilt"
+    }
+  ],
+  "description": "A red field with an upright silver sword (golden hilt) flanked by two black bars, and blue-and-white wavy stripes at the hoist and fly.",
+  "history": "Flag of the municipality of Reimerswaal on the Zuid-Beveland peninsula in the province of Zeeland, named after a town lost to the sea.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Reimerswaal",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Reimerswaal.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "sword",
+      "color": "white",
+      "position": "center",
+      "role": "an upright silver sword with a golden hilt"
+    },
+    {
+      "type": "square",
+      "color": "black",
+      "count": 2,
+      "position": "center",
+      "role": "two black bars flanking the sword"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "role": "blue-and-white wavy stripes at the hoist and fly"
+    }
+  ]
+}

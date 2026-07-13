@@ -1,0 +1,81 @@
+{
+  "id": "NL-ZE-sluis",
+  "name": "Sluis (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q10080"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the fly field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the hoist panel and the tower"
+    },
+    {
+      "color": "white",
+      "symbolism": "the waves and the church quarter"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the diagonal band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the church"
+    }
+  ],
+  "description": "A red hoist panel with three white waves; the fly yellow, crossed by a blue diagonal band, bearing a red tower and, at the upper fly, a black church.",
+  "history": "Flag of the municipality of Sluis in the west of Zeelandic Flanders, province of Zeeland; the quarters reflect its constituent former municipalities.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Sluis",
+    "https://commons.wikimedia.org/wiki/File:Sluis_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "side",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red hoist panel"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "hoist",
+      "role": "three white waves on the red hoist panel"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "role": "a blue diagonal band across the fly"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "role": "a red tower on the yellow field"
+    },
+    {
+      "type": "building",
+      "color": "black",
+      "role": "a black church at the upper fly"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "NL-ZE-kapelle",
+  "name": "Kapelle (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q10074"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "two quarters"
+    },
+    {
+      "color": "white",
+      "symbolism": "two quarters"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the vertical arm of the cross"
+    },
+    {
+      "color": "red",
+      "symbolism": "the horizontal arm of the cross"
+    }
+  ],
+  "description": "Quartered yellow and white, with a central cross whose vertical arm is blue and horizontal arm red.",
+  "history": "Flag of the municipality of Kapelle on the Zuid-Beveland peninsula in the province of Zeeland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Kapelle",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Kapelle.svg"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "yellow",
+        "white",
+        "white",
+        "yellow"
+      ]
+    },
+    {
+      "type": "greek-cross",
+      "color": "blue",
+      "role": "the blue vertical arm of the central cross"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "the red horizontal arm of the central cross"
+    }
+  ]
+}

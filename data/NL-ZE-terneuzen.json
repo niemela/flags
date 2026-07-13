@@ -1,0 +1,67 @@
+{
+  "id": "NL-ZE-terneuzen",
+  "name": "Terneuzen (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q10081"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the bars in the canton and the lion"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the waves and the key"
+    }
+  ],
+  "description": "A white field with red and white bars in the canton, blue waves along the base, and a red lion holding a blue key.",
+  "history": "Flag of the municipality of Terneuzen, a port town in Zeelandic Flanders, province of Zeeland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Terneuzen",
+    "https://commons.wikimedia.org/wiki/File:Terneuzen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 4,
+      "position": "canton",
+      "role": "red and white bars in the canton"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom",
+      "role": "blue waves along the base"
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "fly",
+      "role": "a red lion holding a blue key"
+    }
+  ]
+}
