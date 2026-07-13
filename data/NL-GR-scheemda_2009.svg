@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="600" height="400" viewBox="0 0 360 240">
+
+<defs>
+<path id="star" fill="#0039a7" d="M0,20 L17.32,-10 -17.32,-10 M0,-20 L-17.32,10 17.32,10"/>
+</defs>
+
+<rect fill="#cc0c2f" width="360" height="240"/>
+<path fill="#ffcb00" d="M146,0 L94,30 146,60 94,90 146,120 94,150 146,180 94,210 146,240 H0 V0"/>
+
+<use x="28" y="30" xlink:href="#star"/>
+<use x="63" y="75" xlink:href="#star"/>
+<use x="28" y="120" xlink:href="#star"/>
+<use x="63" y="165" xlink:href="#star"/>
+<use x="28" y="210" xlink:href="#star"/>
+</svg>

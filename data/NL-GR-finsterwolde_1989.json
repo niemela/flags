@@ -1,0 +1,76 @@
+{
+  "id": "NL-GR-finsterwolde_1989",
+  "name": "Finsterwolde (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q35130446"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the outer bands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "red",
+      "symbolism": "the central band and triangle"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lion"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the triangle"
+    }
+  ],
+  "description": "Black, white and red bands with a blue triangle and gold lion at the hoist.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 1989 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1989"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Finsterwolde",
+    "https://commons.wikimedia.org/wiki/File:Finsterwolde_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "white",
+        "red",
+        "white",
+        "black"
+      ],
+      "count": 5
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue triangle at the hoist"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold lion"
+    }
+  ]
+}

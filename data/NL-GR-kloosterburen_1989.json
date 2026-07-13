@@ -1,0 +1,63 @@
+{
+  "id": "NL-GR-kloosterburen_1989",
+  "name": "Kloosterburen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q35032799"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the roundel"
+    },
+    {
+      "color": "white",
+      "symbolism": "the chalice"
+    }
+  ],
+  "description": "A yellow and red field with a blue roundel bearing a white chalice and serpent.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 1989 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1989"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Kloosterburen",
+    "https://commons.wikimedia.org/wiki/File:Kloosterburen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "circle",
+      "color": "blue",
+      "position": "center",
+      "role": "a blue roundel with a white chalice and serpent"
+    }
+  ]
+}

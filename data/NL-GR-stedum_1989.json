@@ -1,0 +1,66 @@
+{
+  "id": "NL-GR-stedum_1989",
+  "name": "Stedum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q582834"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the canton"
+    }
+  ],
+  "description": "Green, white and blue bands with a black canton bearing the municipal arms.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 1989 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1989"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Stedum",
+    "https://commons.wikimedia.org/wiki/File:Stedum_vlag_1938.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green",
+        "white",
+        "blue"
+      ],
+      "count": 5
+    },
+    {
+      "type": "canton",
+      "color": "black",
+      "position": "canton",
+      "role": "a black canton with the municipal arms"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "NL-GR-scheemda_2009",
+  "name": "Scheemda (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q1010188"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the stars"
+    },
+    {
+      "color": "red",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "white",
+      "symbolism": "the dancetty"
+    }
+  ],
+  "description": "A yellow hoist with five blue stars and a red fly, divided by white dancetty.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 2009 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2009"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Scheemda",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Scheemda.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2,
+      "role": "yellow hoist and red fly divided by white dancetty"
+    },
+    {
+      "type": "star",
+      "color": "blue",
+      "count": 5,
+      "position": "hoist",
+      "role": "five blue stars"
+    }
+  ]
+}

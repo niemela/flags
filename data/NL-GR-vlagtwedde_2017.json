@@ -1,0 +1,74 @@
+{
+  "id": "NL-GR-vlagtwedde_2017",
+  "name": "Vlagtwedde (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q840460"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the cross"
+    },
+    {
+      "color": "red",
+      "symbolism": "the device"
+    },
+    {
+      "color": "white",
+      "symbolism": "the device"
+    },
+    {
+      "color": "black",
+      "symbolism": "the cannon"
+    }
+  ],
+  "description": "A blue field with a gold cross, a cannon at the upper hoist and a red-and-white lozenge device at the lower hoist.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 2017 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2017"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Vlagtwedde",
+    "https://commons.wikimedia.org/wiki/File:Vlagtwedde_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "greek-cross",
+      "color": "yellow",
+      "role": "a gold cross"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "canton",
+      "role": "a cannon"
+    },
+    {
+      "type": "lozenge",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red-and-white lozenge device"
+    }
+  ]
+}

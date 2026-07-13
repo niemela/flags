@@ -1,0 +1,60 @@
+{
+  "id": "NL-GR-marum_2018",
+  "name": "Marum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q841525"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the panels"
+    },
+    {
+      "color": "red",
+      "symbolism": "the roundel"
+    }
+  ],
+  "description": "A white field with green panels bearing white clovers and a red roundel at the lower hoist.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 2018 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2018"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Marum",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Marum.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "canton",
+      "color": "green",
+      "role": "green panels with white clovers"
+    },
+    {
+      "type": "circle",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red roundel"
+    }
+  ]
+}

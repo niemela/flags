@@ -1,0 +1,60 @@
+{
+  "id": "NL-GR-warffum_1989",
+  "name": "Warffum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q26209311"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the cross and band"
+    }
+  ],
+  "description": "A red field with a white Maltese cross at the hoist and a white band.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 1989 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1989"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Warffum",
+    "https://commons.wikimedia.org/wiki/File:Warffum_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white Maltese cross"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a white band"
+    }
+  ]
+}

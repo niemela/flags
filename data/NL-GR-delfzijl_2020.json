@@ -1,0 +1,70 @@
+{
+  "id": "NL-GR-delfzijl_2020",
+  "name": "Delfzijl (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q133131333"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the triangle"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the clover"
+    },
+    {
+      "color": "red",
+      "symbolism": "a band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "a band"
+    }
+  ],
+  "description": "A black triangle at the hoist bearing a gold clover, with yellow, red and blue bands.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 2020 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2020"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Delfzijl",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Delfzijl.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "color": "black",
+      "position": "hoist",
+      "role": "a black triangle at the hoist"
+    },
+    {
+      "type": "leaf",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold clover"
+    }
+  ]
+}

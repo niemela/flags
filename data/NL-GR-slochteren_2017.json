@@ -1,0 +1,70 @@
+{
+  "id": "NL-GR-slochteren_2017",
+  "name": "Slochteren (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q850211"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "red",
+      "symbolism": "the stripe"
+    },
+    {
+      "color": "black",
+      "symbolism": "the dragon"
+    }
+  ],
+  "description": "A blue field with white and red stripes and a black dragon at the hoist.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 2017 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2017"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Slochteren",
+    "https://commons.wikimedia.org/wiki/File:Slochteren_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 3,
+      "position": "center",
+      "role": "white and red stripes"
+    },
+    {
+      "type": "dragon",
+      "color": "black",
+      "position": "hoist",
+      "role": "a black dragon"
+    }
+  ]
+}

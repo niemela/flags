@@ -1,0 +1,57 @@
+{
+  "id": "NL-GR-nieuwe-pekela_1989",
+  "name": "Nieuwe Pekela (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q2900922"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the pile and bell"
+    }
+  ],
+  "description": "A white field with a red pile from the fly and a red bell at the hoist.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 1989 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1989"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Nieuwe_Pekela",
+    "https://commons.wikimedia.org/wiki/File:Nieuwe_Pekela_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "fly",
+      "role": "a red pile from the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red bell"
+    }
+  ]
+}

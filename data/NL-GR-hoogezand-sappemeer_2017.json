@@ -1,0 +1,61 @@
+{
+  "id": "NL-GR-hoogezand-sappemeer_2017",
+  "name": "Hoogezand-Sappemeer (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q73069"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the outer bands"
+    },
+    {
+      "color": "red",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the emblem"
+    }
+  ],
+  "description": "Blue, red and blue bands with a gold emblem of tools and a cogwheel spelling 'T', cog, 'T'.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 2017 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1949",
+      "end": "2017"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Hoogezand-Sappemeer",
+    "https://commons.wikimedia.org/wiki/File:Hoogezand-Sappemeer_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "cogwheel",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold cogwheel between two gold uprights"
+    }
+  ]
+}

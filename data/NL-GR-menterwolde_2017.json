@@ -1,0 +1,61 @@
+{
+  "id": "NL-GR-menterwolde_2017",
+  "name": "Menterwolde (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q932066"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the outer bands"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the fleur-de-lis"
+    }
+  ],
+  "description": "Green, yellow and green bands with a blue fleur-de-lis at the hoist.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 2017 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1990",
+      "end": "2017"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Menterwolde",
+    "https://commons.wikimedia.org/wiki/File:Menterwolde_Netherlands.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue fleur-de-lis"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ viewBox="0 0 1200 800" width="600" height="400">
+
+<defs>
+<path id="wavy" transform="rotate(-33.69)" d="M0,0 q43.5,30 87,0 t87,0 t87,0 t87,0 t87,0 t87,0 t87,0 t87,0 t87,0 t87,0 t87,0 t87,0 t87,0 t87,0 t87,0 t87,0 v300 H0 z"/>
+</defs>
+
+<rect width="100%" height="100%" fill="#0039a7"/>
+
+<use fill="#fc0" x="149" y="815" xlink:href="#wavy"/>
+<use fill="#cc0c2f" x="201" y="877" xlink:href="#wavy"/>
+<use fill="#fff" x="250" y="938" xlink:href="#wavy"/>
+<use fill="#0039a7" x="511" y="1056" xlink:href="#wavy"/>
+
+<g transform="scale(-1)">
+<use fill="#fc0" x="-1128" y="72" xlink:href="#wavy"/>
+<use fill="#cc0c2f" x="-1087" y="133" xlink:href="#wavy"/>
+<use fill="#fff" x="-1038" y="193" xlink:href="#wavy"/>
+<use fill="#0039a7" x="-784" y="327" xlink:href="#wavy"/>
+</g>
+
+</svg>

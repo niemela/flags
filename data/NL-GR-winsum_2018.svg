@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+width="360" height="240">
+
+<defs>
+<path id="star" transform="scale(38)" fill="#ffcb00" d="M0,-1 L0.43388,0.90097 L-0.78183,-0.62349 L0.97493,0.22252 L-0.97493,0.22252 L0.78183,-0.62349 L-0.43388,0.90097 z"/>
+<path id="wave" d="M0,70 V0 c20,0 25,16 45,16 s25,-16 45,-16 s25,16 45,16 s25,-16 45,-16 s25,16 45,16 s25,-16 45,-16 s25,16 45,16 s25,-16 45,-16 v70"/>
+</defs>
+
+<rect fill="#009a4a" width="100%" height="100%"/>
+
+<use x="51" y="67" xlink:href="#star"/>
+<use x="137" y="67" xlink:href="#star"/>
+<use x="223" y="67" xlink:href="#star"/>
+<use x="309" y="67" xlink:href="#star"/>
+
+<use fill="#fff" y="126" xlink:href="#wave"/>
+<use fill="#009a4a" y="176" xlink:href="#wave"/>
+
+
+</svg>

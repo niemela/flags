@@ -1,0 +1,73 @@
+{
+  "id": "NL-GR-hoogezand_1949",
+  "name": "Hoogezand (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q35149984"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "orange",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the tools"
+    },
+    {
+      "color": "black",
+      "symbolism": "the cogwheel"
+    }
+  ],
+  "description": "A red-and-orange striped field with a black cogwheel and gold tools.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 1949 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1949"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Hoogezand",
+    "https://commons.wikimedia.org/wiki/File:Hoogezand_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "orange",
+        "red",
+        "orange",
+        "red"
+      ],
+      "count": 5,
+      "role": "red-and-orange stripes"
+    },
+    {
+      "type": "cogwheel",
+      "color": "black",
+      "position": "center",
+      "role": "a black cogwheel"
+    },
+    {
+      "type": "tool",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "gold tools"
+    }
+  ]
+}

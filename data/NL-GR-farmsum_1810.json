@@ -1,0 +1,60 @@
+{
+  "id": "NL-GR-farmsum_1810",
+  "name": "Farmsum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q599733"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the outer bands"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the sword"
+    }
+  ],
+  "description": "Blue, yellow and blue bands with a black sword.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 1810 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1810"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Farmsum",
+    "https://commons.wikimedia.org/wiki/File:Vlag_van_Farmsum.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "sword",
+      "color": "black",
+      "position": "center",
+      "role": "a black sword"
+    }
+  ]
+}

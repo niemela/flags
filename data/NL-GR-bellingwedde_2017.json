@@ -1,0 +1,65 @@
+{
+  "id": "NL-GR-bellingwedde_2017",
+  "name": "Bellingwedde (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q747965"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the diagonal stripes"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fleurs-de-lis"
+    }
+  ],
+  "description": "A blue field with white diagonal stripes at the hoist and gold fleurs-de-lis strewn across the fly.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 2017 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2017"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Bellingwedde",
+    "https://commons.wikimedia.org/wiki/File:Bellingwedde_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 2,
+      "position": "hoist",
+      "role": "white diagonal stripes"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "count": 9,
+      "position": "fly",
+      "role": "gold fleurs-de-lis strewn across the fly"
+    }
+  ]
+}

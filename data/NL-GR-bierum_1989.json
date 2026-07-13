@@ -1,0 +1,73 @@
+{
+  "id": "NL-GR-bierum_1989",
+  "name": "Bierum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q2649983"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "red",
+      "symbolism": "the clovers"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the fly stripes"
+    },
+    {
+      "color": "white",
+      "symbolism": "the fly stripes"
+    }
+  ],
+  "description": "A yellow hoist bearing red clovers, and blue-and-white stripes on the fly.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 1989 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1989"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Bierum",
+    "https://commons.wikimedia.org/wiki/File:Bierum_vlag_(1979-1990).svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "leaf",
+      "color": "red",
+      "count": 6,
+      "position": "hoist",
+      "role": "red clovers on the yellow hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 5,
+      "position": "fly",
+      "role": "blue-and-white stripes on the fly"
+    }
+  ]
+}

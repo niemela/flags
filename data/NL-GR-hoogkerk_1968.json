@@ -1,0 +1,58 @@
+{
+  "id": "NL-GR-hoogkerk_1968",
+  "name": "Hoogkerk (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q984437"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "black",
+      "symbolism": "the edging"
+    }
+  ],
+  "description": "A yellow field with blue stripes edged black.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 1968 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1968"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Hoogkerk",
+    "https://commons.wikimedia.org/wiki/File:Hoogkerk_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 2,
+      "position": "center",
+      "role": "blue stripes edged black"
+    }
+  ]
+}

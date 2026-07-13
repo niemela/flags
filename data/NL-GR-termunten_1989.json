@@ -1,0 +1,72 @@
+{
+  "id": "NL-GR-termunten_1989",
+  "name": "Termunten (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q737877"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the triangle"
+    },
+    {
+      "color": "red",
+      "symbolism": "the band"
+    }
+  ],
+  "description": "Yellow over blue with a white triangle at the hoist and a red band.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 1989 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1989"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Termunten",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Termunten.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white triangle at the hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a red band"
+    }
+  ]
+}

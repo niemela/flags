@@ -1,0 +1,61 @@
+{
+  "id": "NL-GR-loppersum_2020",
+  "name": "Loppersum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-GR",
+  "codes": {
+    "wikidata": "Q849574"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the sword"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the key"
+    }
+  ],
+  "description": "A red field with a white sword and a gold key crossed in saltire.",
+  "history": "A former municipality in the province of Groningen, dissolved at the end of 2020 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2020"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Loppersum",
+    "https://commons.wikimedia.org/wiki/File:Loppersum_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "sword",
+      "color": "white",
+      "position": "center",
+      "role": "a white sword"
+    },
+    {
+      "type": "key",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold key crossed with the sword"
+    }
+  ]
+}
