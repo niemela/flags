@@ -1,0 +1,65 @@
+{
+  "id": "NL-FR-ameland",
+  "name": "Ameland (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q208259"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the blue bands"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the yellow bands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the crescents"
+    },
+    {
+      "color": "black",
+      "symbolism": "the diagonal bars"
+    }
+  ],
+  "description": "Alternating blue and yellow bands, the blue bands charged with white crescents and the yellow bands with black diagonal bars.",
+  "history": "Flag of the municipality of Ameland, a West Frisian island in the province of Friesland; the design derives from the arms of the Cammingha family.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Ameland",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Ameland.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "blue",
+        "yellow"
+      ],
+      "count": 4
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "count": 2,
+      "role": "white crescents on the blue bands"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "count": 2,
+      "role": "black diagonal bars on the yellow bands"
+    }
+  ]
+}

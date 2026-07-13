@@ -1,0 +1,59 @@
+{
+  "id": "NL-FR-sudwest-fryslan",
+  "name": "Súdwest-Fryslân (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q1473276"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the lozenges"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the checkered band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the checkered band"
+    }
+  ],
+  "description": "A blue field with five white lozenges and a yellow-and-black checkered band at the hoist.",
+  "history": "Flag of the municipality of Sudwest-Fryslan in the province of Friesland, formed in 2011.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Súdwest-Fryslân",
+    "https://commons.wikimedia.org/wiki/File:Súdwest-Fryslân_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "lozenge",
+      "color": "white",
+      "count": 5,
+      "role": "five white lozenges"
+    },
+    {
+      "type": "chequy",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a yellow-and-black checkered band at the hoist"
+    }
+  ]
+}

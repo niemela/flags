@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<svg width="450" height="300"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<rect fill="#253c80" width="450" height="300" />
+
+<g fill="#f5dd00">
+<rect y="75"  width="450" height="75" />
+<rect y="225" width="450" height="75" />
+</g>
+
+<g id="crescent">
+<circle fill="#e1e1e1" r="31" cx="217" cy="37"/>
+<circle fill="#253c80" r="25" cx="225" cy="37" />
+</g>
+
+<use y="150" xlink:href="#crescent" />
+
+<g id="bars">
+<polygon id="bar" fill="black" points="167,85 185,85 212,140 194,140" />
+<use x="35" xlink:href="#bar" />
+<use x="70" xlink:href="#bar" />
+</g>
+
+<use y="150" xlink:href="#bars" />
+
+</svg>

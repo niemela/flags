@@ -1,0 +1,60 @@
+{
+  "id": "NL-FR-achtkarspelen",
+  "name": "Achtkarspelen (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q341024"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the lower band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the star"
+    }
+  ],
+  "description": "A white field between a red band above and a green band below, charged with a blue eight-pointed star.",
+  "history": "Flag of the municipality of Achtkarspelen in the province of Friesland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Achtkarspelen",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Achtkarspelen.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "color": "blue",
+      "count": 1,
+      "points": 8,
+      "position": "center",
+      "role": "a blue eight-pointed star"
+    }
+  ]
+}

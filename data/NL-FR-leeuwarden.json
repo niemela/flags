@@ -1,0 +1,63 @@
+{
+  "id": "NL-FR-leeuwarden",
+  "name": "Leeuwarden (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q2311189"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lion"
+    },
+    {
+      "color": "red",
+      "symbolism": "the hoist stripe"
+    },
+    {
+      "color": "white",
+      "symbolism": "the hoist stripe"
+    }
+  ],
+  "description": "A blue field with a gold lion rampant, and a narrow red-and-white stripe at the hoist.",
+  "history": "Flag of the municipality of Leeuwarden, the capital of the province of Friesland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Leeuwarden",
+    "https://commons.wikimedia.org/wiki/File:Leeuwarden_vlag_2014.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold lion rampant"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "position": "hoist",
+      "role": "a narrow red-and-white stripe at the hoist"
+    }
+  ]
+}

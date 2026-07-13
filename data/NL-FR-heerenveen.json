@@ -1,0 +1,68 @@
+{
+  "id": "NL-FR-heerenveen",
+  "name": "Heerenveen (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-FR",
+  "codes": {
+    "wikidata": "Q574558"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the hoist band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the fess"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the crown"
+    }
+  ],
+  "description": "A white field with a blue band at the hoist ensigned with a gold crown, and a black band across the fly.",
+  "history": "Flag of the municipality of Heerenveen in the province of Friesland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Heerenveen",
+    "https://commons.wikimedia.org/wiki/File:Heerenveen_flag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "side",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue band at the hoist"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold crown atop the blue band"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a black band across the fly"
+    }
+  ]
+}
