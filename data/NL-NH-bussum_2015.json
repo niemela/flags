@@ -1,0 +1,51 @@
+{
+  "id": "NL-NH-bussum_2015",
+  "name": "Bussum (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q106363816"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the charges"
+    }
+  ],
+  "description": "A blue field with five gold arrowhead charges.",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 2015 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2015"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Bussum",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Bussum.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "count": 5,
+      "role": "five gold arrowheads"
+    }
+  ]
+}

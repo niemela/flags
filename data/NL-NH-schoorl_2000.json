@@ -1,0 +1,61 @@
+{
+  "id": "NL-NH-schoorl_2000",
+  "name": "Schoorl (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q1002717"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the shield"
+    }
+  ],
+  "description": "A barry of red and yellow with a blue shield bearing a gold lion.",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 2000 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2000"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Schoorl",
+    "https://commons.wikimedia.org/wiki/File:Schoorl_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 5
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "a blue shield with a gold lion"
+    }
+  ]
+}

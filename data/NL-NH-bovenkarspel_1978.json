@@ -1,0 +1,62 @@
+{
+  "id": "NL-NH-bovenkarspel_1978",
+  "name": "Bovenkarspel (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q674395"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the charges"
+    }
+  ],
+  "description": "A white field with a green star, green battlements and a green tree.",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 1978 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1978"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Bovenkarspel",
+    "https://commons.wikimedia.org/wiki/File:Stede-Broec_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "star",
+      "color": "green",
+      "position": "canton",
+      "role": "a green star"
+    },
+    {
+      "type": "complex",
+      "color": "green",
+      "role": "green battlements"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist",
+      "role": "a green tree"
+    }
+  ]
+}

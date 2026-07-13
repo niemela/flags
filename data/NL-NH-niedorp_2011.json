@@ -1,0 +1,75 @@
+{
+  "id": "NL-NH-niedorp_2011",
+  "name": "Niedorp (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q737366"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "white",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the checkers and sword"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the sword"
+    }
+  ],
+  "description": "A red hoist with a red lion and a checkered fly with a gold sword.",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 2011 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2011"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Niedorp",
+    "https://commons.wikimedia.org/wiki/File:Niedorp_vlag_1992.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red lion"
+    },
+    {
+      "type": "chequy",
+      "color": "blue",
+      "position": "fly",
+      "role": "blue-and-white checkers"
+    },
+    {
+      "type": "sword",
+      "color": "yellow",
+      "position": "fly",
+      "role": "a gold sword"
+    }
+  ]
+}

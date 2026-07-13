@@ -1,0 +1,57 @@
+{
+  "id": "NL-NH-graft_1970",
+  "name": "Graft (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q2212600"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the cow and tree"
+    }
+  ],
+  "description": "A blue field with a gold cow beneath a gold tree.",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 1970 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1970"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Graft",
+    "https://commons.wikimedia.org/wiki/File:Graft_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold cow"
+    },
+    {
+      "type": "tree",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold tree"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "NL-NH-muiden_2015",
+  "name": "Muiden (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q34616830"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the pile"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stripes"
+    }
+  ],
+  "description": "A yellow field with a blue pile bearing a gold crown, and white-and-blue stripes at the fly.",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 2015 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2015"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Muiden",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Muiden.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue pile"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold crown"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "white and blue stripes"
+    }
+  ]
+}

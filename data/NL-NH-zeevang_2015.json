@@ -1,0 +1,71 @@
+{
+  "id": "NL-NH-zeevang_2015",
+  "name": "Zeevang (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9981"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the checkers"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stars"
+    },
+    {
+      "color": "green",
+      "symbolism": "the discs"
+    }
+  ],
+  "description": "A white field with red checkers bearing gold stars and green discs.",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 2015 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1970",
+      "end": "2015"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Zeevang",
+    "https://commons.wikimedia.org/wiki/File:Zeevang_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "chequy",
+      "color": "red",
+      "role": "red checkers"
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "count": 4,
+      "role": "gold stars"
+    },
+    {
+      "type": "disc",
+      "color": "green",
+      "count": 3,
+      "role": "green discs"
+    }
+  ]
+}

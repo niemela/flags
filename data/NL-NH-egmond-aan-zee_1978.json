@@ -1,0 +1,67 @@
+{
+  "id": "NL-NH-egmond-aan-zee_1978",
+  "name": "Egmond aan Zee (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q51214902"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the pale"
+    }
+  ],
+  "description": "A barry of red and yellow with a blue pale at the hoist.",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 1978 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1978"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Egmond_aan_Zee",
+    "https://commons.wikimedia.org/wiki/File:Egmond_aan_Zee_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 7
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "a blue pale"
+    }
+  ]
+}

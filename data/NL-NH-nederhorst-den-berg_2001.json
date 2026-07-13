@@ -1,0 +1,63 @@
+{
+  "id": "NL-NH-nederhorst-den-berg_2001",
+  "name": "Nederhorst den Berg (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q1615344"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the waves"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the pale"
+    }
+  ],
+  "description": "A yellow field with red wavy stripes and a blue pale at the hoist.",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 2001 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2001"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Nederhorst_den_Berg",
+    "https://commons.wikimedia.org/wiki/File:Nederhorst_den_Berg_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "wave",
+      "color": "red",
+      "role": "red wavy stripes"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "a blue pale"
+    }
+  ]
+}

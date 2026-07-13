@@ -1,0 +1,70 @@
+{
+  "id": "NL-NH-schermer_2014",
+  "name": "Schermer (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9959"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the chevron"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the windmill cross"
+    },
+    {
+      "color": "white",
+      "symbolism": "the fish"
+    }
+  ],
+  "description": "A green field with a yellow chevron, a blue-and-white windmill cross at the hoist and a white fish.",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 2014 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2014"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Schermer",
+    "https://commons.wikimedia.org/wiki/File:Schermer_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "chevron",
+      "color": "yellow",
+      "role": "a yellow chevron"
+    },
+    {
+      "type": "complex",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue-and-white windmill cross"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "bottom",
+      "role": "a white fish"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "NL-NH-s-graveland_2001",
+  "name": "'s-Graveland (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q1615351"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the pile"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the triangles"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the crown"
+    }
+  ],
+  "description": "A white field with a red pile, blue triangles and a gold crown.",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 2001 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2001"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_'s-Graveland",
+    "https://commons.wikimedia.org/wiki/File:'s-Graveland_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "fly",
+      "role": "a red pile"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "role": "blue triangles"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "top",
+      "role": "a gold crown"
+    }
+  ]
+}

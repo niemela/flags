@@ -1,0 +1,70 @@
+{
+  "id": "NL-NH-wieringermeer_2011",
+  "name": "Wieringermeer (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q428517"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the cross"
+    },
+    {
+      "color": "red",
+      "symbolism": "the duck"
+    },
+    {
+      "color": "white",
+      "symbolism": "the fleur-de-lis"
+    }
+  ],
+  "description": "A blue field with a gold cross, a red duck at the canton and a white fleur-de-lis.",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 2011 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2011"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Wieringermeer",
+    "https://commons.wikimedia.org/wiki/File:Wieringermeer_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "nordic-cross",
+      "color": "yellow",
+      "role": "a gold cross"
+    },
+    {
+      "type": "bird",
+      "color": "red",
+      "position": "canton",
+      "role": "a red duck"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white fleur-de-lis"
+    }
+  ]
+}

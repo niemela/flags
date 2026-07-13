@@ -1,0 +1,62 @@
+{
+  "id": "NL-NH-langedijk_2021",
+  "name": "Langedijk (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9944"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "black",
+      "symbolism": "the lion"
+    },
+    {
+      "color": "red",
+      "symbolism": "the chevrons"
+    }
+  ],
+  "description": "A yellow field with a black lion at the hoist and red chevrons at the fly.",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 2021 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2021"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Langedijk",
+    "https://commons.wikimedia.org/wiki/File:Langedijk_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "lion",
+      "color": "black",
+      "position": "hoist",
+      "role": "a black lion"
+    },
+    {
+      "type": "chevron",
+      "color": "red",
+      "count": 4,
+      "position": "fly",
+      "role": "red chevrons"
+    }
+  ]
+}

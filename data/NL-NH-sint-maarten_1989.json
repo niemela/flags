@@ -1,0 +1,57 @@
+{
+  "id": "NL-NH-sint-maarten_1989",
+  "name": "Sint Maarten (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q2501604"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the diagonal"
+    }
+  ],
+  "description": "A yellow field divided by a blue diagonal, with a gold equestrian figure (Saint Martin).",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 1989 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1989"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Sint_Maarten",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Sint_Maarten_(Noord-Holland).svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "fly",
+      "role": "a blue diagonal"
+    },
+    {
+      "type": "human-figure",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold equestrian figure"
+    }
+  ]
+}

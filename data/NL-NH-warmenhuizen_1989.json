@@ -1,0 +1,58 @@
+{
+  "id": "NL-NH-warmenhuizen_1989",
+  "name": "Warmenhuizen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q2312798"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the chevrons and stripes"
+    }
+  ],
+  "description": "A red field with white chevrons and stripes.",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 1989 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1989"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Warmenhuizen",
+    "https://commons.wikimedia.org/wiki/File:Warmenhuizen_vlag_1973.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "chevron",
+      "color": "white",
+      "role": "white chevrons"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 3,
+      "role": "white stripes"
+    }
+  ]
+}

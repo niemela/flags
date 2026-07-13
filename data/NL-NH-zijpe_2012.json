@@ -1,0 +1,64 @@
+{
+  "id": "NL-NH-zijpe_2012",
+  "name": "Zijpe (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9984"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "purple",
+      "symbolism": "central band"
+    },
+    {
+      "color": "green",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the swan"
+    }
+  ],
+  "description": "Yellow, purple and green bands with a white swan.",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 2012 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2012"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Zijpe",
+    "https://commons.wikimedia.org/wiki/File:Zijpe_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "purple",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "position": "center",
+      "role": "a white swan"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "NL-NH-wieringen_2011",
+  "name": "Wieringen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q106323325"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the cross and geese"
+    },
+    {
+      "color": "red",
+      "symbolism": "the panel"
+    }
+  ],
+  "description": "A blue field with a gold cross and a red panel bearing three gold geese.",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 2011 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1812",
+      "end": "2011"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Wieringen",
+    "https://commons.wikimedia.org/wiki/File:Wieringen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "nordic-cross",
+      "color": "yellow",
+      "role": "a gold cross"
+    },
+    {
+      "type": "square",
+      "color": "red",
+      "position": "center",
+      "role": "a red panel"
+    },
+    {
+      "type": "bird",
+      "color": "yellow",
+      "count": 3,
+      "position": "center",
+      "role": "three gold geese"
+    }
+  ]
+}

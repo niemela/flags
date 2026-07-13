@@ -1,0 +1,60 @@
+{
+  "id": "NL-NH-weesp_2022",
+  "name": "Weesp (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q9974"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the outer bands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the letters"
+    }
+  ],
+  "description": "Blue, white and blue bands with the letters 'WS' at the centre.",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 2022 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "2022"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Weesp",
+    "https://commons.wikimedia.org/wiki/File:Weesp_Netherlands.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "the letters 'WS'"
+    }
+  ]
+}

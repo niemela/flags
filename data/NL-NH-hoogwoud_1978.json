@@ -1,0 +1,59 @@
+{
+  "id": "NL-NH-hoogwoud_1978",
+  "name": "Hoogwoud (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q2784508"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the outer bands"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the shield"
+    }
+  ],
+  "description": "Blue, yellow and blue bands with a green shield bearing a tree at the centre.",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 1978 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1978"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Hoogwoud",
+    "https://commons.wikimedia.org/wiki/File:Hoogwoud_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "a green shield with a tree"
+    }
+  ]
+}

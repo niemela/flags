@@ -1,0 +1,57 @@
+{
+  "id": "NL-NH-wormer_1990",
+  "name": "Wormer (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-NH",
+  "codes": {
+    "wikidata": "Q2341553"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the head and triangle"
+    }
+  ],
+  "description": "A blue field with a gold bearded head at the hoist and a yellow triangle at the fly.",
+  "history": "A former municipality in the province of North Holland, dissolved at the end of 1990 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1990"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Wormer",
+    "https://commons.wikimedia.org/wiki/File:Wormer_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "human-figure",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold bearded head"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "fly",
+      "role": "a yellow triangle"
+    }
+  ]
+}
