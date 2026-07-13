@@ -1,0 +1,54 @@
+{
+  "id": "NL-GE-barneveld",
+  "name": "Barneveld (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q164098"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "lower band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the charges"
+    }
+  ],
+  "description": "Yellow over blue, the yellow charged with three red devices.",
+  "history": "Flag of the municipality of Barneveld in the province of Gelderland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Barneveld",
+    "https://commons.wikimedia.org/wiki/File:Barneveld_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "count": 3,
+      "position": "top",
+      "role": "three red devices on the yellow"
+    }
+  ]
+}

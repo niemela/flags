@@ -1,0 +1,58 @@
+{
+  "id": "NL-GE-apeldoorn",
+  "name": "Apeldoorn (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q101918"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "red",
+      "symbolism": "the upper-fly"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lower-fly and the shield"
+    }
+  ],
+  "description": "The hoist white bearing a yellow shield with a red eagle; the fly red over yellow.",
+  "history": "Flag of the municipality of Apeldoorn in the province of Gelderland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Apeldoorn",
+    "https://commons.wikimedia.org/wiki/File:Apeldoorn_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "a yellow shield with a red eagle over crossed keys"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "red over yellow on the fly"
+    }
+  ]
+}

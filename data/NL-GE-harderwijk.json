@@ -1,0 +1,66 @@
+{
+  "id": "NL-GE-harderwijk",
+  "name": "Harderwijk (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q58931"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bands"
+    }
+  ],
+  "description": "A blue field with yellow bands top and bottom and a yellow embattled band across the centre.",
+  "history": "Flag of the municipality of Harderwijk in the province of Gelderland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Harderwijk",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Harderwijk.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "a yellow band at the top"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "a yellow band at the bottom"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a yellow embattled band across the centre"
+    }
+  ]
+}

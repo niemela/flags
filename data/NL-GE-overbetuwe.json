@@ -1,0 +1,64 @@
+{
+  "id": "NL-GE-overbetuwe",
+  "name": "Overbetuwe (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q600871"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "red",
+      "symbolism": "the tower"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the fly checkers"
+    },
+    {
+      "color": "white",
+      "symbolism": "the fly checkers"
+    }
+  ],
+  "description": "Per pale: the hoist yellow with a red tower, the fly light-blue-and-white checkered with white waves.",
+  "history": "Flag of the municipality of Overbetuwe in the province of Gelderland, formed in 2001.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Overbetuwe",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Overbetuwe.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "light-blue"
+      ],
+      "count": 2,
+      "role": "per pale yellow and checky"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red tower on the yellow"
+    },
+    {
+      "type": "chequy",
+      "color": "light-blue",
+      "position": "fly",
+      "role": "a light-blue-and-white checkered fly with white waves"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "NL-GE-elburg",
+  "name": "Elburg (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q165662"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the edge stripes and castle"
+    },
+    {
+      "color": "white",
+      "symbolism": "the roundel"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wreath"
+    }
+  ],
+  "description": "A blue field with red-and-white striped edges, and a central white roundel bearing a red castle within a gold wreath.",
+  "history": "Flag of the municipality of Elburg in the province of Gelderland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Elburg",
+    "https://commons.wikimedia.org/wiki/File:Elburg_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "position": "top",
+      "role": "red-and-white stripes top and bottom"
+    },
+    {
+      "type": "circle",
+      "color": "white",
+      "position": "center",
+      "role": "a white roundel"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "center",
+      "role": "a red castle"
+    },
+    {
+      "type": "wreath",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold wreath"
+    }
+  ]
+}

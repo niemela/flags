@@ -1,0 +1,68 @@
+{
+  "id": "NL-GE-druten",
+  "name": "Druten (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q932142"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lion"
+    },
+    {
+      "color": "white",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "green",
+      "symbolism": "the fly band"
+    }
+  ],
+  "description": "Per pale: the hoist black with a gold lion, the fly white with a green central band.",
+  "history": "Flag of the municipality of Druten in the province of Gelderland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Druten",
+    "https://commons.wikimedia.org/wiki/File:Druten_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold lion on the black hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "white"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "white and green bands on the fly"
+    }
+  ]
+}

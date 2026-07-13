@@ -1,0 +1,57 @@
+{
+  "id": "NL-GE-heumen",
+  "name": "Heumen (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q932155"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the charges"
+    }
+  ],
+  "description": "A blue field with a gold crosier at the hoist, two gold fleurs-de-lis and a yellow-and-blue checkered device.",
+  "history": "Flag of the municipality of Heumen in the province of Gelderland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Heumen",
+    "https://commons.wikimedia.org/wiki/File:Heumen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold crosier"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "count": 2,
+      "role": "two gold fleurs-de-lis"
+    },
+    {
+      "type": "chequy",
+      "color": "yellow",
+      "position": "center",
+      "role": "a yellow-and-blue checkered device"
+    }
+  ]
+}

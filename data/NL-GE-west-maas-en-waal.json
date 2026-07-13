@@ -1,0 +1,67 @@
+{
+  "id": "NL-GE-west-maas-en-waal",
+  "name": "West Maas en Waal (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q658081"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the waves"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the eagle"
+    }
+  ],
+  "description": "A white field with blue waves top and bottom and a central yellow band bearing a black double-headed eagle.",
+  "history": "Flag of the municipality of West Maas en Waal in the province of Gelderland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_West_Maas_en_Waal",
+    "https://commons.wikimedia.org/wiki/File:West_Maas_en_Waal-vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "role": "blue waves top and bottom"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a yellow central band"
+    },
+    {
+      "type": "eagle",
+      "color": "black",
+      "position": "center",
+      "role": "a black double-headed eagle"
+    }
+  ]
+}

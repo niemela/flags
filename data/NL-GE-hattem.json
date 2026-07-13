@@ -1,0 +1,63 @@
+{
+  "id": "NL-GE-hattem",
+  "name": "Hattem (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q58797"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bands and rose"
+    }
+  ],
+  "description": "A blue field with yellow bands top and bottom and a gold rose at the centre.",
+  "history": "Flag of the municipality of Hattem in the province of Gelderland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Hattem",
+    "https://commons.wikimedia.org/wiki/File:Hattem_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "a yellow band at the top"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "a yellow band at the bottom"
+    },
+    {
+      "type": "flower",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold rose"
+    }
+  ]
+}

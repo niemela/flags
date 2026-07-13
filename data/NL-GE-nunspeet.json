@@ -1,0 +1,60 @@
+{
+  "id": "NL-GE-nunspeet",
+  "name": "Nunspeet (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q931997"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "white",
+      "symbolism": "the lozengy"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fly and stag"
+    }
+  ],
+  "description": "Per pale: black-and-white lozengy at the hoist, yellow at the fly with a black leaping stag.",
+  "history": "Flag of the municipality of Nunspeet in the province of Gelderland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Nunspeet",
+    "https://commons.wikimedia.org/wiki/File:Nunspeet_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black",
+        "yellow"
+      ],
+      "count": 2,
+      "role": "per pale, lozengy hoist and yellow fly"
+    },
+    {
+      "type": "lozenge",
+      "color": "white",
+      "position": "hoist",
+      "role": "black-and-white lozengy at the hoist"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "fly",
+      "role": "a black leaping stag"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "NL-GE-arnhem",
+  "name": "Arnhem (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q1310"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "lower band"
+    }
+  ],
+  "description": "White over blue, charged with a large silver double-headed eagle.",
+  "history": "Flag of the municipality of Arnhem, the capital of the province of Gelderland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Arnhem",
+    "https://commons.wikimedia.org/wiki/File:VlagArnhem.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "eagle",
+      "color": "white",
+      "position": "center",
+      "role": "a silver double-headed eagle"
+    }
+  ]
+}

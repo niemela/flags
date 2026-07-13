@@ -1,0 +1,58 @@
+{
+  "id": "NL-GE-westervoort",
+  "name": "Westervoort (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q524808"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the fly section"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the chevron"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the chevron"
+    }
+  ],
+  "description": "White and black with a blue-and-yellow wavy chevron pointing to the fly.",
+  "history": "Flag of the municipality of Westervoort in the province of Gelderland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Westervoort",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Westervoort.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "black",
+      "position": "fly",
+      "role": "a black lower-fly section"
+    },
+    {
+      "type": "chevron",
+      "color": "blue",
+      "role": "a blue-and-yellow wavy chevron"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "NL-GE-duiven",
+  "name": "Duiven (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q613989"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the canton"
+    },
+    {
+      "color": "red",
+      "symbolism": "the canton"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the base band"
+    }
+  ],
+  "description": "A white field with a yellow-and-red canton and a blue band at the base.",
+  "history": "Flag of the municipality of Duiven in the province of Gelderland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Duiven",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Duiven.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2,
+      "position": "canton",
+      "role": "a yellow-and-red canton"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "a blue band at the base"
+    }
+  ]
+}

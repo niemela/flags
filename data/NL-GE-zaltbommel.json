@@ -1,0 +1,74 @@
+{
+  "id": "NL-GE-zaltbommel",
+  "name": "Zaltbommel (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q1532373"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the pile"
+    },
+    {
+      "color": "white",
+      "symbolism": "the pile edge, sword and rose"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the towers"
+    }
+  ],
+  "description": "A red field with a blue pile from the hoist edged white, bearing a silver sword and a white rose, and two gold towers on the fly.",
+  "history": "Flag of the municipality of Zaltbommel in the province of Gelderland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Zaltbommel",
+    "https://commons.wikimedia.org/wiki/File:Zaltbommel_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "pile",
+      "color": "blue",
+      "fimbriation": [
+        {
+          "color": "white"
+        }
+      ],
+      "role": "a blue pile from the hoist edged white"
+    },
+    {
+      "type": "sword",
+      "color": "white",
+      "role": "a silver sword on the pile"
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "role": "a white rose on the pile"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "count": 2,
+      "position": "fly",
+      "role": "two gold towers"
+    }
+  ]
+}

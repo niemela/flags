@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg" version="1.1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="600" height="400"
+   viewBox="-60 -60 180 120">
+
+<rect x="-60" y="-60" width="180" height="120" fill="#0063be"/>
+<rect x="-60" y="-36" width="180" height="72" fill="#fff"/>
+
+<g id="arm">
+ <path id="hook" d="M38,0 A 10 10 0 1 1 38,20 A 5 5 0 1 0 38,10 H-1 V-1 z" fill="#f32737"/>
+ <use transform="scale(1 -1)" xlink:href="#hook"/>
+ <use transform="scale(-1 1)" xlink:href="#hook"/>
+ <use transform="scale(-1 -1)" xlink:href="#hook"/>
+</g>
+
+<use transform="rotate(90)" xlink:href="#arm"/>
+
+</svg>

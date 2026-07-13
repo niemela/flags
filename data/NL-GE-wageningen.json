@@ -1,0 +1,49 @@
+{
+  "id": "NL-GE-wageningen",
+  "name": "Wageningen (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q1305"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "red",
+      "symbolism": "lower band and wheel"
+    }
+  ],
+  "description": "White over red with a red wheel at the upper hoist.",
+  "history": "Flag of the municipality of Wageningen in the province of Gelderland, home to its agricultural university.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Wageningen",
+    "https://commons.wikimedia.org/wiki/File:Wageningen_flag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "wheel",
+      "color": "red",
+      "position": "canton",
+      "role": "a red wheel at the upper hoist"
+    }
+  ]
+}

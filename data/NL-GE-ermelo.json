@@ -1,0 +1,73 @@
+{
+  "id": "NL-GE-ermelo",
+  "name": "Ermelo (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q753920"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the peacock and cross"
+    }
+  ],
+  "description": "A blue field with yellow bands top and bottom, a white peacock at the hoist and a white Maltese cross at the fly.",
+  "history": "Flag of the municipality of Ermelo in the province of Gelderland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Ermelo",
+    "https://commons.wikimedia.org/wiki/File:Ermelo_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "a yellow band at the top"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "a yellow band at the bottom"
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white peacock"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "fly",
+      "role": "a white Maltese cross"
+    }
+  ]
+}

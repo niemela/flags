@@ -1,0 +1,57 @@
+{
+  "id": "NL-GE-beuningen",
+  "name": "Beuningen (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q851244"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "red",
+      "symbolism": "the blocks"
+    },
+    {
+      "color": "grey",
+      "symbolism": "the waves"
+    }
+  ],
+  "description": "A modern design of black-and-white diagonal stripes with red blocks and grey waves.",
+  "history": "Flag of the municipality of Beuningen in the province of Gelderland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Beuningen",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Gemeente_Beuningen_(symbol_variant).svg"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "black",
+        "white"
+      ],
+      "count": 2,
+      "role": "black-and-white diagonal stripes"
+    },
+    {
+      "type": "complex",
+      "color": "red",
+      "role": "red blocks and grey waves"
+    }
+  ]
+}

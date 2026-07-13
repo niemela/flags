@@ -1,0 +1,54 @@
+{
+  "id": "NL-GE-zevenaar",
+  "name": "Zevenaar (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q197050"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the charge"
+    }
+  ],
+  "description": "A red field with a gold horizontal band bearing a black looped charge.",
+  "history": "Flag of the municipality of Zevenaar in the province of Gelderland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Zevenaar",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Zevenaar.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "a black looped charge on the gold band"
+    }
+  ]
+}

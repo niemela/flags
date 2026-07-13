@@ -1,0 +1,49 @@
+{
+  "id": "NL-GE-scherpenzeel",
+  "name": "Scherpenzeel (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q939964"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "upper band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "lower band and fleur-de-lis"
+    }
+  ],
+  "description": "White over blue with a large blue fleur-de-lis.",
+  "history": "Flag of the municipality of Scherpenzeel in the province of Gelderland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Scherpenzeel",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Scherpenzeel.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "blue",
+      "position": "center",
+      "role": "a large blue fleur-de-lis"
+    }
+  ]
+}

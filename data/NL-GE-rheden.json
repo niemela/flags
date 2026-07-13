@@ -1,0 +1,57 @@
+{
+  "id": "NL-GE-rheden",
+  "name": "Rheden (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q843899"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the diagonal band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the corners"
+    }
+  ],
+  "description": "A yellow field with a blue diagonal band and red at the upper-hoist and lower-fly corners.",
+  "history": "Flag of the municipality of Rheden in the province of Gelderland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Rheden",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Rheden.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "role": "a blue diagonal band"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "count": 2,
+      "role": "red triangles at the upper hoist and lower fly"
+    }
+  ]
+}

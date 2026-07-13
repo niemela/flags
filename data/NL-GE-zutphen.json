@@ -1,0 +1,54 @@
+{
+  "id": "NL-GE-zutphen",
+  "name": "Zutphen (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q15858232"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the bands"
+    },
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the charge"
+    }
+  ],
+  "description": "A white field between blue bands, with a red looped cross at the centre.",
+  "history": "Flag of the municipality of Zutphen in the province of Gelderland, a former Hanseatic town.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Zutphen",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Zutphen.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "complex",
+      "color": "red",
+      "position": "center",
+      "role": "a red looped cross"
+    }
+  ]
+}

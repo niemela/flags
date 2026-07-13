@@ -1,0 +1,50 @@
+{
+  "id": "NL-GE-wijchen",
+  "name": "Wijchen (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q72981"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the saltire and charges"
+    }
+  ],
+  "description": "A red field with a gold saltire, each quarter bearing a gold pendant charge.",
+  "history": "Flag of the municipality of Wijchen in the province of Gelderland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Wijchen",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Wijchen.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "saltire",
+      "color": "yellow",
+      "role": "a gold saltire"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "count": 4,
+      "role": "four gold pendant charges in the quarters"
+    }
+  ]
+}

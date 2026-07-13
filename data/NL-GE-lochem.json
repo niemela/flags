@@ -1,0 +1,63 @@
+{
+  "id": "NL-GE-lochem",
+  "name": "Lochem (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q932058"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bands and chevron"
+    }
+  ],
+  "description": "A blue field with yellow bands and a yellow chevron device at the centre.",
+  "history": "Flag of the municipality of Lochem in the province of Gelderland.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Lochem",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Lochem.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "a yellow band at the top"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "a yellow band at the bottom"
+    },
+    {
+      "type": "chevron",
+      "color": "yellow",
+      "position": "center",
+      "role": "a yellow chevron device"
+    }
+  ]
+}

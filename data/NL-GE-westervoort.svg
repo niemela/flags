@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="600" height="400" viewBox="0 -14 42 28">
+
+<defs>
+<path id="wavy" transform="translate(6.324555) rotate(-18.43495) scale(1.106 1)" fill="#fccc00" d="M0,0 q1,-.75 2,0 t2,0 t2,0 t2,0 t2,0 t2,0 t2,0 t2,0 t2,0 t2,0 t2,0 t2,0 t2,0 t2,0 t2,0 t2,0 t2,0 t2,0 v2 h-32"/>
+</defs>
+
+<rect fill="#fff" y="-14" width="42" height="28"/>
+<path fill="#000" d="M0,0 V14 H21 V5 M42,-14 H21 V-5"/>
+<path fill="#0063be" d="M0,0 L42,-14 V-10 L12,0 L42,10 V14 z"/>
+<use xlink:href="#wavy"/>
+<use transform="scale(1,-1)" xlink:href="#wavy"/>
+
+</svg>

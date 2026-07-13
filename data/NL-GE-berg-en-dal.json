@@ -1,0 +1,65 @@
+{
+  "id": "NL-GE-berg-en-dal",
+  "name": "Berg en Dal (Netherlands)",
+  "type": [
+    "city"
+  ],
+  "parent": "NL-GE",
+  "codes": {
+    "wikidata": "Q18088965"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the canton"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lion, panel and band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the roundels and rose"
+    }
+  ],
+  "description": "A white field with a black canton bearing a red lion within gold roundels, a red panel at the lower hoist with a gold rose, and a red serpentine band across the flag.",
+  "history": "Flag of the municipality of Berg en Dal in the province of Gelderland, formed in 2015.",
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Berg_en_Dal",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Berg_en_Dal.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "canton",
+      "color": "black",
+      "position": "canton",
+      "role": "a black canton with a red lion bordered by gold roundels"
+    },
+    {
+      "type": "square",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red panel at the lower hoist bearing a gold rose"
+    },
+    {
+      "type": "wave",
+      "color": "red",
+      "position": "center",
+      "role": "a red serpentine band across the flag"
+    }
+  ]
+}
