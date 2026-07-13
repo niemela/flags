@@ -18,14 +18,14 @@
   "colors": [
     {
       "color": "green",
-      "symbolism": "the field"
-    },
-    {
-      "color": "blue",
-      "symbolism": "the flanks"
+      "symbolism": "the upper wedge"
     },
     {
       "color": "yellow",
+      "symbolism": "the side wedges"
+    },
+    {
+      "color": "white",
       "symbolism": "the saltire"
     },
     {
@@ -33,11 +33,11 @@
       "symbolism": "the water"
     },
     {
-      "color": "white",
-      "symbolism": "the shield"
+      "color": "black",
+      "symbolism": "the stag"
     }
   ],
-  "description": "A green and blue field divided by a yellow saltire, with a shield bearing a stag at the centre and water at the base.",
+  "description": "Divided by a white saltire into green above, gold at the sides, and a light blue base with white waves, with a gold shield bearing a stag at the centre.",
   "history": "A former municipality in the province of Gelderland, dissolved at the end of 1817 and merged into a neighbouring municipality.",
   "periods": [
     {
@@ -55,25 +55,25 @@
     },
     {
       "type": "triangle",
-      "color": "blue",
+      "color": "yellow",
       "count": 2,
-      "role": "blue flanks"
+      "role": "gold wedges at the sides"
     },
     {
       "type": "saltire",
-      "color": "yellow",
-      "role": "a yellow saltire"
-    },
-    {
-      "type": "coat-of-arms",
-      "position": "center",
-      "role": "a shield with a stag"
+      "color": "white",
+      "role": "a white saltire"
     },
     {
       "type": "wave",
       "color": "light-blue",
       "position": "bottom",
-      "role": "water at the base"
+      "role": "a light blue base with white waves"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "a gold shield with a stag"
     }
   ]
 }
