@@ -1,0 +1,73 @@
+{
+  "id": "NL-ZE-middenschouwen_1996",
+  "name": "Middenschouwen (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q1324804"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the upper field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the waves"
+    },
+    {
+      "color": "white",
+      "symbolism": "the waves"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the sheaf"
+    },
+    {
+      "color": "green",
+      "symbolism": "the binding"
+    }
+  ],
+  "description": "A red upper field over blue-and-white wavy stripes, with a yellow wheat sheaf at the hoist.",
+  "history": "A former municipality in the province of Zeeland, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Middenschouwen",
+    "https://commons.wikimedia.org/wiki/File:Middenschouwen_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "a red upper field"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "role": "blue and white wavy stripes"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a yellow wheat sheaf"
+    }
+  ]
+}

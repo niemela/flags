@@ -1,0 +1,72 @@
+{
+  "id": "NL-ZE-ovezande_1969",
+  "name": "Ovezande (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q44085548"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the waves"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the waves"
+    },
+    {
+      "color": "red",
+      "symbolism": "the base"
+    }
+  ],
+  "description": "A blue upper band over green-and-yellow wavy stripes above a red base.",
+  "history": "A former municipality in the province of Zeeland, dissolved at the end of 1969 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1969"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Ovezande",
+    "https://commons.wikimedia.org/wiki/File:Ovezande_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "a blue upper band"
+    },
+    {
+      "type": "wave",
+      "color": "green",
+      "role": "green and yellow wavy stripes"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "a red base"
+    }
+  ]
+}

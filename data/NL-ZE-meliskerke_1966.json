@@ -1,0 +1,62 @@
+{
+  "id": "NL-ZE-meliskerke_1966",
+  "name": "Meliskerke (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q2157654"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the pile"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stars"
+    }
+  ],
+  "description": "A black field with a white pile at the fly and two yellow six-pointed stars at the hoist.",
+  "history": "A former municipality in the province of Zeeland, dissolved at the end of 1966 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1966"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Meliskerke",
+    "https://commons.wikimedia.org/wiki/File:Meliskerke_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "black"
+    },
+    {
+      "type": "pile",
+      "color": "white",
+      "position": "fly",
+      "role": "a white pile at the fly"
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "count": 2,
+      "position": "hoist",
+      "role": "two yellow six-pointed stars"
+    }
+  ]
+}

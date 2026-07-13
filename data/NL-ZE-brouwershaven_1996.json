@@ -1,0 +1,62 @@
+{
+  "id": "NL-ZE-brouwershaven_1996",
+  "name": "Brouwershaven (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q1963386"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lozenge"
+    },
+    {
+      "color": "red",
+      "symbolism": "the triangle"
+    }
+  ],
+  "description": "A blue field with a large yellow lozenge in the centre and a red triangle at the upper hoist.",
+  "history": "A former municipality in the province of Zeeland, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1961",
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Brouwershaven",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Brouwershaven.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "lozenge",
+      "color": "yellow",
+      "position": "center",
+      "role": "a large yellow lozenge"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "canton",
+      "role": "a red triangle at the upper hoist"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "NL-ZE-overslag_1970",
+  "name": "Overslag (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q44080030"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the pale and ships"
+    }
+  ],
+  "description": "A blue field with a yellow pale in the centre and two yellow ships facing inward.",
+  "history": "A former municipality in the province of Zeeland, dissolved at the end of 1970 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1970"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Overslag",
+    "https://commons.wikimedia.org/wiki/File:Overslag_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "a yellow pale"
+    },
+    {
+      "type": "ship",
+      "color": "yellow",
+      "count": 2,
+      "role": "two yellow ships"
+    }
+  ]
+}

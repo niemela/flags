@@ -1,0 +1,59 @@
+{
+  "id": "NL-ZE-westdorpe_1970",
+  "name": "Westdorpe (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q42743473"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the bend"
+    },
+    {
+      "color": "white",
+      "symbolism": "the bend"
+    }
+  ],
+  "description": "A green field with a red-white-red diagonal band.",
+  "history": "A former municipality in the province of Zeeland, dissolved at the end of 1970 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1970"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Westdorpe",
+    "https://commons.wikimedia.org/wiki/File:Westdorpe_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "role": "a red-white-red bend"
+    }
+  ]
+}

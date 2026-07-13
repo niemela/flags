@@ -1,0 +1,65 @@
+{
+  "id": "NL-ZE-wissenkerke_1994",
+  "name": "Wissenkerke (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q40674612"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the chief"
+    },
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the base"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lozenge"
+    }
+  ],
+  "description": "A white field with a blue chief and a black base, and a red lozenge outline at the centre.",
+  "history": "A former municipality in the province of Zeeland, dissolved at the end of 1994 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1994"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Wissenkerke",
+    "https://commons.wikimedia.org/wiki/File:Wissenkerke_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "black"
+      ],
+      "count": 3,
+      "role": "a blue chief and black base on white"
+    },
+    {
+      "type": "lozenge",
+      "color": "red",
+      "position": "center",
+      "role": "a red lozenge outline"
+    }
+  ]
+}

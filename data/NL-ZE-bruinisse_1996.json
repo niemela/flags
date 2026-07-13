@@ -1,0 +1,70 @@
+{
+  "id": "NL-ZE-bruinisse_1996",
+  "name": "Bruinisse (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q35022521"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the upper field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the base"
+    },
+    {
+      "color": "black",
+      "symbolism": "the indented hoist"
+    },
+    {
+      "color": "red",
+      "symbolism": "the deer"
+    }
+  ],
+  "description": "White over green, with black indented points at the hoist and a red deer.",
+  "history": "A former municipality in the province of Zeeland, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Bruinisse",
+    "https://commons.wikimedia.org/wiki/File:Bruinisse_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2,
+      "role": "white over green"
+    },
+    {
+      "type": "triangle",
+      "color": "black",
+      "position": "hoist",
+      "role": "black indented (dancetty) points at the hoist"
+    },
+    {
+      "type": "animal-other",
+      "color": "red",
+      "position": "center",
+      "role": "a red deer"
+    }
+  ]
+}

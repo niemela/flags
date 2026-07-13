@@ -1,0 +1,73 @@
+{
+  "id": "NL-ZE-duiveland_1996",
+  "name": "Duiveland (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q1264311"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the hoist band"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the lozenges"
+    },
+    {
+      "color": "black",
+      "symbolism": "the indented fly"
+    }
+  ],
+  "description": "A yellow band at the hoist bearing three blue lozenges, the fly white with black indented points.",
+  "history": "A former municipality in the province of Zeeland, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1961",
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Duiveland",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Duiveland.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "side",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a yellow band at the hoist"
+    },
+    {
+      "type": "lozenge",
+      "color": "blue",
+      "count": 3,
+      "position": "hoist",
+      "role": "three blue lozenges"
+    },
+    {
+      "type": "triangle",
+      "color": "black",
+      "position": "fly",
+      "role": "black indented points on the white fly"
+    }
+  ]
+}

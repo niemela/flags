@@ -1,0 +1,76 @@
+{
+  "id": "NL-ZE-hontenisse_2002",
+  "name": "Hontenisse (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q1055234"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "orange",
+      "symbolism": "the pile and edge stripes"
+    },
+    {
+      "color": "black",
+      "symbolism": "the pile edging"
+    },
+    {
+      "color": "white",
+      "symbolism": "the pile edging"
+    }
+  ],
+  "description": "A blue field with a large orange pile from the hoist edged black and white, and orange stripes along the top and bottom.",
+  "history": "A former municipality in the province of Zeeland, dissolved at the end of 2002 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1817",
+      "end": "2002"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Hontenisse",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hontenisse.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "pile",
+      "color": "orange",
+      "position": "hoist",
+      "fimbriation": [
+        {
+          "color": "black"
+        },
+        {
+          "color": "white"
+        }
+      ],
+      "role": "an orange pile edged black and white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "orange"
+      ],
+      "count": 2,
+      "role": "orange stripes at the top and bottom edges"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "NL-ZE-poortvliet_1971",
+  "name": "Poortvliet (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q44082216"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the canton"
+    },
+    {
+      "color": "black",
+      "symbolism": "the lions"
+    }
+  ],
+  "description": "A barry of blue and white with a yellow canton at the hoist bearing black lions.",
+  "history": "A former municipality in the province of Zeeland, dissolved at the end of 1971 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1971"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Poortvliet",
+    "https://commons.wikimedia.org/wiki/File:Poortvliet_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white"
+      ],
+      "count": 6
+    },
+    {
+      "type": "canton",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a yellow canton with the arms"
+    },
+    {
+      "type": "lion",
+      "color": "black",
+      "position": "canton",
+      "role": "black lions"
+    }
+  ]
+}

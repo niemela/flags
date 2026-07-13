@@ -1,0 +1,65 @@
+{
+  "id": "NL-ZE-stoppeldijk_1936",
+  "name": "Stoppeldijk (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q3192988"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the sheaf"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the waves"
+    },
+    {
+      "color": "white",
+      "symbolism": "the waves"
+    }
+  ],
+  "description": "A green field with a yellow wheat sheaf at the hoist and blue-and-white waves at the base.",
+  "history": "A former municipality in the province of Zeeland, dissolved at the end of 1936 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1936"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Stoppeldijk",
+    "https://commons.wikimedia.org/wiki/File:Stoppeldijk_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a yellow wheat sheaf"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom",
+      "role": "blue and white waves at the base"
+    }
+  ]
+}

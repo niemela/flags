@@ -1,0 +1,69 @@
+{
+  "id": "NL-ZE-mariekerke_1996",
+  "name": "Mariekerke (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q1329679"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the pile and fleurs-de-lis"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the head"
+    }
+  ],
+  "description": "A black field with a white pile pointing to the fly, a yellow maiden's head at the hoist and two white fleurs-de-lis at the fly.",
+  "history": "A former municipality in the province of Zeeland, dissolved at the end of 1996 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "start": "1966",
+      "end": "1996"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Mariekerke",
+    "https://commons.wikimedia.org/wiki/File:Mariekerke_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "black"
+    },
+    {
+      "type": "pile",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white pile pointing to the fly"
+    },
+    {
+      "type": "human-figure",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a yellow maiden's head"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "count": 2,
+      "position": "fly",
+      "role": "two white fleurs-de-lis"
+    }
+  ]
+}

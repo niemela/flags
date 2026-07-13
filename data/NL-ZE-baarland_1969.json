@@ -1,0 +1,65 @@
+{
+  "id": "NL-ZE-baarland_1969",
+  "name": "Baarland (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q35105196"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "white",
+      "symbolism": "the panel"
+    }
+  ],
+  "description": "Per pale black and yellow, with a white panel at the hoist bearing a black bear.",
+  "history": "A former municipality in the province of Zeeland, dissolved at the end of 1969 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1969"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Baarland",
+    "https://commons.wikimedia.org/wiki/File:Baarland_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "position": "hoist",
+      "role": "a white panel"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "hoist",
+      "role": "a black bear"
+    }
+  ]
+}

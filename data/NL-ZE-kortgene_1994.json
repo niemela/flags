@@ -1,0 +1,77 @@
+{
+  "id": "NL-ZE-kortgene_1994",
+  "name": "Kortgene (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q3182086"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the edge bands and stars"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the chief"
+    },
+    {
+      "color": "black",
+      "symbolism": "the pales"
+    },
+    {
+      "color": "white",
+      "symbolism": "the pales"
+    }
+  ],
+  "description": "A green field with yellow bands at the edges and central arms: a blue chief with three yellow stars over black-and-white pales.",
+  "history": "A former municipality in the province of Zeeland, dissolved at the end of 1994 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1994"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Kortgene",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Kortgene.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 2,
+      "role": "yellow bands at the edges"
+    },
+    {
+      "type": "star",
+      "color": "yellow",
+      "count": 3,
+      "position": "center",
+      "role": "three yellow stars on a blue chief"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "arms with a blue chief over black-and-white pales"
+    }
+  ]
+}

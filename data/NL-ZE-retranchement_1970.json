@@ -1,0 +1,63 @@
+{
+  "id": "NL-ZE-retranchement_1970",
+  "name": "Retranchement (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q35024011"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the bend"
+    },
+    {
+      "color": "black",
+      "symbolism": "the letter"
+    }
+  ],
+  "description": "A white field with a blue diagonal band and a black letter R at the upper fly.",
+  "history": "A former municipality in the province of Zeeland, dissolved at the end of 1970 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1970"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Retranchement",
+    "https://commons.wikimedia.org/wiki/File:Retranchement_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "role": "a blue bend"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "canton",
+      "role": "a black letter R at the upper fly"
+    }
+  ]
+}

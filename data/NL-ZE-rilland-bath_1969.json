@@ -1,0 +1,72 @@
+{
+  "id": "NL-ZE-rilland-bath_1969",
+  "name": "Rilland-Bath (Netherlands)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "NL-ZE",
+  "codes": {
+    "wikidata": "Q2408675"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "black",
+      "symbolism": "the bend"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the bend edging"
+    },
+    {
+      "color": "green",
+      "symbolism": "the fortress"
+    }
+  ],
+  "description": "A white field with a black diagonal band edged yellow and a green fortress outline at the hoist.",
+  "history": "A former municipality in the province of Zeeland, dissolved at the end of 1969 and merged into a neighbouring municipality.",
+  "periods": [
+    {
+      "end": "1969"
+    }
+  ],
+  "sources": [
+    "https://nl.wikipedia.org/wiki/Vlag_van_Rilland-Bath",
+    "https://commons.wikimedia.org/wiki/File:Rilland-Bath_vlag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "fimbriation": [
+        {
+          "color": "yellow"
+        }
+      ],
+      "role": "a black bend edged yellow"
+    },
+    {
+      "type": "building",
+      "color": "green",
+      "position": "hoist",
+      "role": "a green fortress outline"
+    }
+  ]
+}
