@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="600" height="400">
+
+<defs>
+ <g id="cross" transform="scale(.31)">
+  <path fill="#ffe800"
+  	d="M-5,-62 H5 V55 Q5,105 0,155 Q-5,105 -5,55 z"/>
+  <path stroke="#ffe800" stroke-width="10"
+  	d="M-62,0 H62 M-22,-40 H22 M40,22 V-22 M-40,22 V-22"/>
+ </g>
+</defs>
+
+<rect fill="#0048a0" width="600" height="400"/>
+<path stroke="#ffe800" stroke-width="80" d="M0,200 H600 M300,0 V400"/>
+
+<g id="q1">
+<use x="55" y="26" xlink:href="#cross"/>
+<use x="55" y="106" xlink:href="#cross"/>
+<use x="130" y="66" xlink:href="#cross"/>
+<use x="205" y="26" xlink:href="#cross"/>
+<use x="205" y="106" xlink:href="#cross"/>
+</g>
+<use x="340" xlink:href="#q1"/>
+<use y="240" xlink:href="#q1"/>
+<use x="340" y="240" xlink:href="#q1"/>
+
+</svg>

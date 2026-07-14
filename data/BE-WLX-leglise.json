@@ -1,0 +1,66 @@
+{
+  "id": "BE-WLX-leglise",
+  "name": "Léglise (Belgium)",
+  "type": [
+    "city"
+  ],
+  "parent": "BE-WLX",
+  "codes": {
+    "wikidata": "Q713404"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the stripes and canton"
+    },
+    {
+      "color": "green",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "black",
+      "symbolism": "the merlettes"
+    }
+  ],
+  "description": "Ten horizontal stripes of white and green, with a white canton charged with five black martlets.",
+  "history": "The flag of Léglise derives from the municipal coat of arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Léglise.svg",
+    "https://www.wikidata.org/wiki/Q713404"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "white",
+        "green",
+        "white",
+        "green",
+        "white",
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 10
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "role": "a white canton"
+    },
+    {
+      "type": "bird",
+      "color": "black",
+      "count": 5,
+      "role": "five black martlets"
+    }
+  ]
+}

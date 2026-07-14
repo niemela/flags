@@ -1,0 +1,70 @@
+{
+  "id": "BE-WLX-habay",
+  "name": "Habay (Belgium)",
+  "type": [
+    "city"
+  ],
+  "parent": "BE-WLX",
+  "codes": {
+    "wikidata": "Q713334"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "black",
+      "symbolism": "the stripe in the gold field"
+    }
+  ],
+  "description": "Per pale green and gold, the green field bearing a small gold stripe and the gold field a small black stripe.",
+  "history": "The flag of Habay derives from the municipal coat of arms.",
+  "periods": [
+    {
+      "start": "2025-11-13"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Habay.svg",
+    "https://www.wikidata.org/wiki/Q713334"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "a gold stripe in the green field"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "a black stripe in the gold field"
+    }
+  ]
+}
