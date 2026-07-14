@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="600" height="400" viewBox="-12 -8 24 16">
+
+<rect fill="#0F47AF" x="-12" y="-8" width="24" height="16"/>
+
+<path id="q1" fill="white" d="M-12,1 a1 1 0 0 1 1 1 a1 1 0 0 1 2 0 a1 1 0 0 1 2 0 a1 1 0 0 1 2 0 a1 1 0 0 1 2 0 a1 1 0 1 1 1 1 a1 1 0 0 1 0 2 a1 1 0 0 1 0 2 a1 1 0 0 1 1 1 H-12 z"/>
+
+<use id="q2" transform="scale(-1,1)" xlink:href="#q1"/>
+<use id="q3" transform="scale(1,-1)" xlink:href="#q1"/>
+<use id="q4" transform="scale(-1)" xlink:href="#q1"/>
+
+</svg>
