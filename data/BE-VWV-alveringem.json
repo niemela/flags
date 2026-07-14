@@ -1,0 +1,75 @@
+{
+  "id": "BE-VWV-alveringem",
+  "name": "Alveringem (Belgium)",
+  "type": [
+    "city"
+  ],
+  "parent": "BE-VWV",
+  "codes": {
+    "wikidata": "Q448840"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fly and pinecones"
+    },
+    {
+      "color": "black",
+      "symbolism": "the lion"
+    },
+    {
+      "color": "green",
+      "symbolism": "the saltire"
+    }
+  ],
+  "description": "Per pale: blue with three gold pinecones, and gold with a black lion and a green saltire.",
+  "history": "The flag of Alveringem derives from the municipal coat of arms.",
+  "periods": [
+    {
+      "start": "1980-06-19"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Alveringem_vlag.svg",
+    "https://www.wikidata.org/wiki/Q448840"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "fruit",
+      "color": "yellow",
+      "count": 3,
+      "position": "hoist",
+      "role": "three gold pinecones"
+    },
+    {
+      "type": "lion",
+      "color": "black",
+      "position": "fly",
+      "role": "a black lion"
+    },
+    {
+      "type": "saltire",
+      "color": "green",
+      "position": "fly",
+      "role": "a green saltire"
+    }
+  ]
+}
