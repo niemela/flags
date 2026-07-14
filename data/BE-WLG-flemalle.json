@@ -1,0 +1,73 @@
+{
+  "id": "BE-WLG-flemalle",
+  "name": "Flémalle (Belgium)",
+  "type": [
+    "city"
+  ],
+  "parent": "BE-WLG",
+  "codes": {
+    "wikidata": "Q175322"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the bend"
+    },
+    {
+      "color": "black",
+      "symbolism": "the pick"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the discs"
+    }
+  ],
+  "description": "Red divided by a white wavy bend, with a pick at the hoist and gold discs at the fly.",
+  "history": "The flag of Flémalle derives from the municipal coat of arms.",
+  "periods": [
+    {
+      "start": "1991-06-18"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flémalle_vlag.svg",
+    "https://www.wikidata.org/wiki/Q175322"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "role": "a white wavy bend"
+    },
+    {
+      "type": "tool",
+      "color": "black",
+      "position": "hoist",
+      "role": "a pick"
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "count": 5,
+      "position": "fly",
+      "role": "gold discs"
+    }
+  ]
+}

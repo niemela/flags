@@ -1,0 +1,65 @@
+{
+  "id": "BE-WLG-villers-le-bouillet",
+  "name": "Villers-le-Bouillet (Belgium)",
+  "type": [
+    "city"
+  ],
+  "parent": "BE-WLG",
+  "codes": {
+    "wikidata": "Q711373"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lower band"
+    }
+  ],
+  "description": "Gold over red (1:2) with crossed picks on the gold and a wheat sheaf on the red.",
+  "history": "The flag of Villers-le-Bouillet derives from the municipal coat of arms.",
+  "periods": [
+    {
+      "start": "1993-12-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Villers-le-Bouillet.svg",
+    "https://www.wikidata.org/wiki/Q711373"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "tool",
+      "color": "red",
+      "count": 2,
+      "position": "top",
+      "role": "crossed picks"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "a wheat sheaf"
+    }
+  ]
+}
