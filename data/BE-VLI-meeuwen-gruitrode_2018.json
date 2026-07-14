@@ -1,0 +1,76 @@
+{
+  "id": "BE-VLI-meeuwen-gruitrode_2018",
+  "name": "Meeuwen-Gruitrode (Belgium)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "BE-VLI",
+  "codes": {
+    "wikidata": "Q125979"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the bend"
+    },
+    {
+      "color": "grey",
+      "symbolism": "the letters"
+    }
+  ],
+  "description": "A barry of red and yellow crossed by a blue diagonal band, with the letters M and G.",
+  "history": "The flag of Meeuwen-Gruitrode derives from the municipal coat of arms. A former municipality in the province of Limburg, merged into Oudsbergen in 2019.",
+  "periods": [
+    {
+      "start": "1989-03-30",
+      "end": "2018"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Meeuwen-Gruitrode_vlag.svg",
+    "https://www.wikidata.org/wiki/Q125979"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 7
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "role": "a blue diagonal band"
+    },
+    {
+      "type": "glyph",
+      "color": "grey",
+      "role": "the letters M and G"
+    }
+  ]
+}

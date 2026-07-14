@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1" width="600" height="400">
+<defs>
+<clipPath id="c">
+ <path id="shield" d="M49,79 V120 C49,212 69,276 150,321 C231,276 251,212 251,120 V79 z"/>
+</clipPath>
+</defs>
+<rect fill="#fff" width="600" height="200"/>
+<rect fill="#078930" y="200" width="600" height="200"/>
+<use fill="#efd807" xlink:href="#shield"/>
+<g clip-path="url(#c)">
+<path stroke="#e21313" stroke-width="100" stroke-dasharray="24,24" d="M100,320 V80"/>
+<path stroke="#000" stroke-width="240" stroke-dasharray="20,20" d="M150,200 H250"/>
+</g>
+<use xlink:href="#shield" fill="none" stroke="black" stroke-width="2"/>
+</svg>

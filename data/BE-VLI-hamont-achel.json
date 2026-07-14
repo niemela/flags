@@ -1,0 +1,71 @@
+{
+  "id": "BE-VLI-hamont-achel",
+  "name": "Hamont-Achel (Belgium)",
+  "type": [
+    "city"
+  ],
+  "parent": "BE-VLI",
+  "codes": {
+    "wikidata": "Q499599"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the hoist stripes"
+    },
+    {
+      "color": "red",
+      "symbolism": "the stripes and battlements"
+    },
+    {
+      "color": "white",
+      "symbolism": "the fly"
+    }
+  ],
+  "description": "Barry of yellow and red at the hoist, with red embattled bars on white at the fly.",
+  "history": "The flag of Hamont-Achel derives from the municipal coat of arms.",
+  "periods": [
+    {
+      "start": "1985-09-26"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hamont-Achel.svg",
+    "https://www.wikidata.org/wiki/Q499599"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "white"
+      ],
+      "count": 2,
+      "role": "barry hoist and white fly"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 3,
+      "position": "hoist",
+      "role": "red bars on the hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "red embattled bars on the fly"
+    }
+  ]
+}

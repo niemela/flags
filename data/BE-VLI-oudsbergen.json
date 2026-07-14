@@ -1,0 +1,79 @@
+{
+  "id": "BE-VLI-oudsbergen",
+  "name": "Oudsbergen (Belgium)",
+  "type": [
+    "city"
+  ],
+  "parent": "BE-VLI",
+  "codes": {
+    "wikidata": "Q41795471"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the hoist stripes"
+    },
+    {
+      "color": "red",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "green",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the wavy band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the wavy band"
+    }
+  ],
+  "description": "Barry of yellow and red at the hoist and green at the fly, crossed by a blue-and-white wavy diagonal band.",
+  "history": "The flag of Oudsbergen derives from the municipal coat of arms.",
+  "periods": [
+    {
+      "start": "2022-05-23"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Oudsbergen,_Belgium.svg",
+    "https://www.wikidata.org/wiki/Q41795471"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 5,
+      "position": "hoist",
+      "role": "barry hoist"
+    },
+    {
+      "type": "side",
+      "color": "green",
+      "position": "fly",
+      "role": "a green fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "role": "a blue-and-white wavy diagonal band"
+    }
+  ]
+}

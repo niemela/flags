@@ -1,0 +1,65 @@
+{
+  "id": "BE-VLI-nieuwerkerken",
+  "name": "Nieuwerkerken (Belgium)",
+  "type": [
+    "city"
+  ],
+  "parent": "BE-VLI",
+  "codes": {
+    "wikidata": "Q696740"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the stripes and triangle"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stripes and charge"
+    }
+  ],
+  "description": "A barry of red and yellow with a red triangle at the hoist bearing a gold charge.",
+  "history": "The flag of Nieuwerkerken derives from the municipal coat of arms.",
+  "periods": [
+    {
+      "start": "1985-05-23"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Nieuwerkerken_vlag.svg",
+    "https://www.wikidata.org/wiki/Q696740"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 7
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "a red triangle at the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold charge"
+    }
+  ]
+}
