@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="600" height="400">
+
+<svg viewBox="0 0 480 320">
+ <rect fill="#078930" width="480" height="320"/>
+ <rect fill="#fff" x="120" width="240" height="320"/>
+ <path fill="#078930" stroke="black" stroke-width="2.5"
+   d="
+M	168	80
+V		221
+C	168	257	216	224	240	254
+C	264	224	312	257	312	221
+V		80
+z
+"/>
+
+<g id="crescent" stroke="black">
+<path fill="white" d="M187,108 a20.6,20.6 0 1 0 38,0 a28.5,28.5 0 1 1 -38,0"/>
+<path fill="none" d="M187,108 a24,24 0 1 0 38,0"/>
+</g>
+<use x="68" xlink:href="#crescent"/>
+<use x="34" y="59" xlink:href="#crescent"/>
+
+</svg>
+
+</svg>

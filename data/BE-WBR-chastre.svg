@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+ width="480" height="320" viewBox="0 0 144 96">
+
+<defs>
+ <pattern id="billety" x="-1.5" y="-6" width="24" height="48" patternUnits="userSpaceOnUse">
+  <g fill="#fff">  
+   <rect width="3" height="12"/>
+   <rect x="12" y="24" width="3" height="12"/>
+  </g>
+ </pattern>
+</defs>
+
+<rect fill="#003898" width="144" height="96"/>
+<rect fill="url(#billety)" width="144" height="96"/>
+<line stroke="#f0e800" stroke-width="16" x2="144" y2="96"/>
+
+</svg>
