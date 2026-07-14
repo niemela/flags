@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="600" height="400" viewBox="0 0 72 48">
+
+<rect fill="#fcdd09" width="72" height="48"/>
+<path stroke="#da121a" stroke-width="48" stroke-dasharray="8,8" d="M8,24 H64"/>
+
+<path fill="#fff" stroke="#000" stroke-width=".25"
+d="M24,12 V33 C24,39 32,33.5 36,38.5 C40,33.5 48,39 48,33 V12 z"/>
+
+<g id="bord1">
+<path id="bord2" fill="#0f47af" d="M0,0 V3 H6 a3,3 0 0 1 3,3 a3,3 0 0 1 6,0 a3,3 0 0 1 6,0 a3,3 0 0 1 6,0 a3,3 0 0 1 6,0 a3,3 0 0 1 6,0 a3,3 0 0 1 6,0 a3,3 0 0 1 6,0 a3,3 0 0 1 6,0 a3,3 0 0 1 6,0 a3,3 0 0 1 3,-3 h6 V0 z"/>
+<use transform="matrix(0 1 1 0 0 -12)" xlink:href="#bord2"/>
+</g>
+<use transform="matrix(-1 0 0 -1 72 48)" xlink:href="#bord1"/>
+
+<svg viewBox="-180 -120 360 240">
+<path id="arch" fill="#da121a" d="M-48,47 H-26 Q0,-30 26,47 H48 V41 H43 Q0,-36 -43,41 H-48 z"/>
+<use transform="scale(1,-1)" xlink:href="#arch"/>
+<path fill="#da121a" stroke="#fff" stroke-width=".5" d="M0,18 L12,0 0,-18 -12,0z"/>
+<path fill="#fff" d="M0,9 L-6,0 0,-9 6,0z"/>
+</svg>
+
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="600" height="400">
+
+<rect fill="#fcdd09" width="600" height="400"/>
+<line stroke="#0f47af" stroke-width="100" x1="600" y2="400"/>
+
+<path id="engrail" fill="#da121a" transform="matrix(18 12 -12 18 12.8 -71.2)" d="M4,0 a1,1 0 0 0 2,0 a1,1 0 0 0 2,0 a1,1 0 0 0 2,0 a1,1 0 0 0 2,0 a1,1 0 0 0 2,0 a1,1 0 0 0 2,0 a1,1 0 0 0 2,0 a1,1 0 0 0 2,0 a1,1 0 0 0 2,0 a1,1 0 0 0 2,0 a1,1 0 0 0 2,0 a1,1 0 0 0 2,0 a1,1 0 0 0 2,0 a1,1 0 0 0 2,0 a1,1 0 0 0 2,0 l2,4 H0 z"/>
+<use transform="matrix(-1 0 0 -1 600 400)" xlink:href="#engrail"/>
+
+<g id="cinquefoil" fill="#fcdd09" stroke="black" stroke-width="1.2"
+	 transform="translate(300,200)">
+ <g id="c2">
+  <polygon points="0,45 -10,20 10,20"/>
+  <path id="c1" d="M0,-10 L0,24 C 0,42 14.265848,40.635255 24.251941,33.379933"/>
+  <rect stroke="none" width="2" height="24"/>
+  <use transform="scale(-1,1)" xlink:href="#c1"/>
+ </g>
+ <g id="c3">
+  <use transform="rotate(72)" xlink:href="#c2"/>
+  <use transform="rotate(144)" xlink:href="#c2"/>
+ </g>
+ <use transform="scale(-1 1)" xlink:href="#c3"/>
+ <circle r="10.5"/>
+</g>
+
+</svg>

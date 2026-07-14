@@ -1,0 +1,61 @@
+{
+  "id": "BE-WHT-quievrain",
+  "name": "Quiévrain (Belgium)",
+  "type": [
+    "city"
+  ],
+  "parent": "BE-WHT",
+  "codes": {
+    "wikidata": "Q668815"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "red",
+      "symbolism": "the stripes"
+    }
+  ],
+  "description": "A white hoist stripe with three red diagonal stripes, and a gold fly.",
+  "history": "The flag of Quiévrain derives from the municipal coat of arms.",
+  "periods": [
+    {
+      "start": "1992-02-10"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Quiévrain_Belgium.svg",
+    "https://www.wikidata.org/wiki/Q668815"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 3,
+      "position": "hoist",
+      "role": "three red diagonal stripes on the white hoist"
+    }
+  ]
+}

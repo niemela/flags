@@ -1,0 +1,72 @@
+{
+  "id": "BE-WHT-silly",
+  "name": "Silly (Belgium)",
+  "type": [
+    "city"
+  ],
+  "parent": "BE-WHT",
+  "codes": {
+    "wikidata": "Q669088"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "red",
+      "symbolism": "the border"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lion"
+    }
+  ],
+  "description": "Bendy of six gold and blue with a red engrailed border and a gold lion.",
+  "history": "The flag of Silly derives from the municipal coat of arms.",
+  "periods": [
+    {
+      "start": "1926-12-31"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Silly.svg",
+    "https://www.wikidata.org/wiki/Q669088"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "yellow",
+        "blue",
+        "yellow",
+        "blue",
+        "yellow",
+        "blue"
+      ],
+      "count": 6,
+      "role": "bendy of six"
+    },
+    {
+      "type": "bordure",
+      "color": "red",
+      "role": "a red engrailed border"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "center",
+      "role": "a gold lion"
+    }
+  ]
+}
