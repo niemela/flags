@@ -1,7 +1,9 @@
 {
   "id": "JO-AM-amman",
   "name": "Amman (Jordan)",
-  "type": ["city"],
+  "type": [
+    "city"
+  ],
   "parent": "JO-AM",
   "codes": {
     "wikidata": "Q3805"
@@ -15,11 +17,24 @@
   ],
   "aspect_ratio": "2:3",
   "colors": [
-    { "color": "white", "symbolism": "the field" },
-    { "color": "blue", "symbolism": "details of the emblem" },
-    { "color": "green", "symbolism": "details of the emblem" }
+    {
+      "color": "white",
+      "symbolism": "the field and the Amman calligraphy"
+    },
+    {
+      "color": "green",
+      "symbolism": "the hills of the city-brand emblem"
+    },
+    {
+      "color": "maroon",
+      "symbolism": "the hills of the city-brand emblem"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the hills of the city-brand emblem"
+    }
   ],
-  "description": "Flag of the Greater Amman Municipality bearing the city's emblem.",
+  "description": "A white field bearing the Greater Amman Municipality brand emblem: the word Amman in white calligraphy cut from a cluster of overlapping multicoloured hill shapes.",
   "history": "Amman is the capital and largest city of Jordan.",
   "periods": [
     {
@@ -31,8 +46,12 @@
   ],
   "features": [
     {
-      "type": "complex",
-      "symbolism": "Flag of Amman with city emblem"
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "role": "Amman city-brand emblem (2009)"
     }
   ]
 }

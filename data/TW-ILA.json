@@ -16,10 +16,23 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "white"
+      "color": "green",
+      "symbolism": "the upper field of the gradient — the mountains"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the lower field of the gradient — the sea"
+    },
+    {
+      "color": "white",
+      "symbolism": "the wave swirl"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the mountain emblem"
     }
   ],
-  "description": "A white field charged at the centre with the Yilan County emblem.",
+  "description": "A field shading from green to blue, bearing a golden mountain, a white spiral wave, and the county name in white.",
   "history": "Yilan County (Yilan Xian, also spelt Ilan) on Taiwan's northeast coast occupies the Lanyang plain, enclosed by the Central and Snow Mountain ranges. The current county flag bears an emblem representing the plain's distinctive geography of mountains, rivers and coast.",
   "periods": [
     {
@@ -33,14 +46,17 @@
   "features": [
     {
       "type": "solid",
-      "color": "white"
+      "color": "green",
+      "role": "green-to-blue gradient field"
     },
     {
-      "type": "glyph",
-      "count": 1,
-      "position": "center",
-      "role": "Yilan County emblem",
-      "symbolism": "stylised motif of mountains, rivers and coast representing the Lanyang plain enclosed by the Central and Snow Mountain ranges"
+      "type": "mountain",
+      "color": "yellow"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "role": "spiral wave"
     }
   ]
 }

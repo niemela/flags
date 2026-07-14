@@ -1,34 +1,63 @@
 {
   "id": "GB-CAM",
   "name": "Cambridgeshire (United Kingdom)",
-  "type": ["subdivision"],
+  "type": [
+    "subdivision"
+  ],
   "parent": "GB-ENG",
   "codes": {
     "iso_3166_2": "GB-CAM",
     "wikidata": "Q21272276"
   },
-  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere"
+  ],
   "aspect_ratio": "3:5",
   "colors": [
-    { "color": "red" },
-    { "color": "yellow" }
+    {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fleurs-de-lis of the border"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the wavy pales"
+    },
+    {
+      "color": "white",
+      "symbolism": "the wavy pales"
+    }
   ],
-  "description": "A red field with three yellow fleurs-de-lis arranged 2-1.",
+  "description": "A red field bordered with golden fleurs-de-lis, the centre charged with blue-and-white wavy pales.",
   "history": "Based on arms attributed to the historic county; registered with the Flag Institute as the flag of Cambridgeshire on 24 February 2015.",
-  "periods": [{ "start": "2015-02-24" }],
+  "periods": [
+    {
+      "start": "2015-02-24"
+    }
+  ],
   "sources": [
     "https://en.wikipedia.org/wiki/Flag_of_Cambridgeshire"
   ],
   "features": [
-    { "type": "solid", "color": "red" },
     {
-      "type": "fleur-de-lis",
-      "count": 3,
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "border",
       "color": "yellow",
-      "arrangement": "grid",
-      "rows": [2, 1],
-      "role": "Three fleurs-de-lis",
-      "symbolism": "from the historic arms of the county"
+      "role": "border of fleurs-de-lis"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "role": "blue-and-white wavy pales"
     }
   ]
 }

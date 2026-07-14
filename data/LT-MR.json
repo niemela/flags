@@ -19,10 +19,22 @@
   "colors": [
     {
       "color": "blue",
-      "symbolism": "the outer field of Lithuanian county flags and the field of the Marijampole arms"
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the crosslets of the border"
+    },
+    {
+      "color": "red",
+      "symbolism": "the central panel"
+    },
+    {
+      "color": "white",
+      "symbolism": "the sower"
     }
   ],
-  "description": "A blue field with the coat of arms of Marijampole County in the centre, set within an inner panel framed by the standard Lithuanian-county blue border.",
+  "description": "A blue field strewn with golden double crosses, bearing a red central panel with a white sower.",
   "history": "Like the flags of all ten Lithuanian counties, Marijampole County's flag follows the uniform template introduced after the country's redivision into apskritys (counties) in 1994: a blue field surrounding the county's heraldic device.",
   "periods": [
     {
@@ -35,17 +47,18 @@
   ],
   "features": [
     {
-      "type": "bordure",
-      "field": "blue",
-      "border": "blue",
-      "symbolism": "blue outer border in the Lithuanian county pattern, surrounding the county's heraldic field"
+      "type": "solid",
+      "color": "blue"
     },
     {
-      "type": "coat-of-arms",
-      "count": 1,
-      "position": "center",
-      "role": "coat of arms of Marijampole County",
-      "symbolism": "the heraldic device of Marijampole County, recalling the religious and Suvalkija heritage of the region"
+      "type": "square",
+      "color": "red",
+      "role": "central panel"
+    },
+    {
+      "type": "human-figure",
+      "color": "white",
+      "role": "the Sower (Sejejas)"
     }
   ]
 }

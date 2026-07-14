@@ -18,11 +18,27 @@
   "aspect_ratio": "5:6",
   "colors": [
     {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
       "color": "blue",
-      "symbolism": "the outer field of Lithuanian county flags"
+      "symbolism": "the border"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the crosslets of the border"
+    },
+    {
+      "color": "red",
+      "symbolism": "the bars and details of the Vytis"
+    },
+    {
+      "color": "black",
+      "symbolism": "the knight's armour details"
     }
   ],
-  "description": "A blue field with the coat of arms of Panevezys County in the centre, set within an inner panel framed by the standard Lithuanian-county blue border.",
+  "description": "A white field bearing the mounted knight (Vytis) above red bars, within a blue border charged with golden double crosses.",
   "history": "Like the flags of all ten Lithuanian counties, Panevezys County's flag follows the uniform template introduced after the country's redivision into apskritys (counties) in 1994: a blue field surrounding the county's heraldic device.",
   "periods": [
     {
@@ -35,17 +51,13 @@
   ],
   "features": [
     {
-      "type": "bordure",
-      "field": "blue",
-      "border": "blue",
-      "symbolism": "blue outer border in the Lithuanian county pattern, surrounding the county's heraldic field"
+      "type": "horse",
+      "role": "mounted knight (Vytis)"
     },
     {
-      "type": "coat-of-arms",
-      "count": 1,
-      "position": "center",
-      "role": "coat of arms of Panevezys County",
-      "symbolism": "a stylised gateway and other emblems on a silver field, referencing the county's regional and historical character"
+      "type": "border",
+      "color": "blue",
+      "role": "blue border with golden double crosses"
     }
   ]
 }

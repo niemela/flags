@@ -17,11 +17,19 @@
   "aspect_ratio": "9:14",
   "colors": [
     {
+      "color": "light-blue",
+      "symbolism": "the upper and lower bands"
+    },
+    {
       "color": "white",
-      "symbolism": "the white of the Bandera de la Libertad Civil"
+      "symbolism": "the central band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the Sun of May"
     }
   ],
-  "description": "A white field bearing in the centre the emblem of the Bandera de la Libertad Civil — an oval shield charged with a Sun of May above clasped hands holding a pike capped with a Phrygian cap, framed by green laurel branches.",
+  "description": "Three horizontal bands of light blue, white and light blue, the centre bearing the provincial arms with a radiant Sun of May.",
   "history": "Adopted by provincial law 8.119 on 23 December 2010 after a public competition, the flag enshrines the historic Bandera de la Libertad Civil that Governor Jose Ignacio de la Roza presented in San Juan on 4 January 1816 for the San Juan battalion of the Army of the Andes. That standard predates the standardised Argentine national flag and is regarded by Sanjuaninos as their oldest patriotic banner.",
   "periods": [
     {
@@ -34,16 +42,16 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "white",
-      "symbolism": "white field of the historic Bandera de la Libertad Civil designed for San Juan's contribution to the Army of the Andes"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "light-blue"
+      ]
     },
     {
       "type": "coat-of-arms",
-      "count": 1,
-      "position": "center",
-      "role": "Bandera de la Libertad Civil emblem",
-      "symbolism": "an oval with a Sun of May above two clasped hands and a Phrygian cap on a pike, surrounded by laurel branches — recalling the standard raised in San Juan in 1815 by Jose Ignacio de la Roza for the local contingent of the Army of the Andes that later crossed the Andes under San Martin to liberate Chile"
+      "role": "provincial arms with the Sun of May"
     }
   ]
 }

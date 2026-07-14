@@ -16,10 +16,23 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "red"
+      "color": "red",
+      "symbolism": "the upper and lower bands"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the second band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the third band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central figure"
     }
   ],
-  "description": "A red field charged at the centre with the emblem of Kayah State.",
+  "description": "Horizontal bands of red, blue, green and red, charged at the centre with a golden warrior figure.",
   "history": "Used by the Kayah State government as one of Myanmar's 14 first-level administrative subdivisions (seven regions and seven states, plus Naypyidaw Union Territory). Many regional and state flag designs follow a common pattern based on the national flag, charged with the regional seal.",
   "variant": [
     "civil",
@@ -35,17 +48,18 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "red"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue",
+        "green",
+        "red"
+      ]
     },
     {
-      "type": "complex",
-      "symbolism": "the flag of Kayah State, with the Kayah/Karenni state emblem at the centre, surrounded by colour bands"
-    },
-    {
-      "type": "seal",
-      "position": "center",
-      "role": "State seal of Kayah State"
+      "type": "human-figure",
+      "color": "yellow",
+      "role": "golden warrior"
     }
   ]
 }

@@ -18,16 +18,23 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "orange"
+      "color": "navy",
+      "symbolism": "the upper stripe — the Artigas colours"
     },
     {
-      "color": "yellow"
+      "color": "red",
+      "symbolism": "the central stripe"
     },
     {
-      "color": "white"
+      "color": "white",
+      "symbolism": "the lower stripe and the shield"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the fortress and the Sun of May"
     }
   ],
-  "description": "A flag bearing the departmental emblem with a rising sun.",
+  "description": "Three equal horizontal stripes of navy blue, red and white, bearing on the upper stripes a white battlemented shield with the Santa Teresa fortress in gold, flanked by palms and topped by a golden Sun of May.",
   "variant": [
     "civil",
     "state"
@@ -43,9 +50,17 @@
   ],
   "features": [
     {
-      "type": "coat-of-arms",
-      "position": "center",
-      "role": "departmental coat of arms"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "red",
+        "white"
+      ]
+    },
+    {
+      "type": "shield",
+      "color": "white",
+      "role": "battlemented ROCHA shield"
     }
   ]
 }

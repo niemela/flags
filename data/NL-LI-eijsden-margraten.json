@@ -16,7 +16,7 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "white",
+      "color": "yellow",
       "symbolism": "two quarters"
     },
     {
@@ -25,10 +25,14 @@
     },
     {
       "color": "red",
-      "symbolism": "the discs and dancetty"
+      "symbolism": "the discs and dancetty borders"
+    },
+    {
+      "color": "white",
+      "symbolism": "the swans and dancetty edges"
     }
   ],
-  "description": "Quartered with red-and-white dancetty and black fields, bearing two red discs and two white swans.",
+  "description": "Quartered yellow and black: the yellow quarters bear red discs within red dancetty borders, the black quarters white swans with dancetty edges.",
   "history": "Flag of the municipality of Eijsden-Margraten in the province of Limburg, formed in 2011.",
   "sources": [
     "https://nl.wikipedia.org/wiki/Vlag_van_Eijsden-Margraten",
@@ -37,24 +41,19 @@
   "features": [
     {
       "type": "quartered",
-      "quarters": [
-        "white",
-        "black",
-        "black",
-        "white"
-      ]
+      "role": "yellow and black quarters"
     },
     {
       "type": "circle",
       "color": "red",
       "count": 2,
-      "role": "red discs (upper hoist and lower fly)"
+      "role": "red discs on the yellow quarters"
     },
     {
       "type": "bird",
       "color": "white",
       "count": 2,
-      "role": "white swans (upper fly and lower hoist)"
+      "role": "white swans on the black quarters"
     }
   ]
 }

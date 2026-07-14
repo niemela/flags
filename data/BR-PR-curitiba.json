@@ -18,10 +18,18 @@
   "colors": [
     {
       "color": "green",
-      "symbolism": "the surrounding Araucária pine forests of the Paraná plateau"
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the cross and saltire"
+    },
+    {
+      "color": "white",
+      "symbolism": "the fimbriation and the central disc"
     }
   ],
-  "description": "A green field charged in the centre with the municipal coat of arms of Curitiba.",
+  "description": "A green field with a red cross and saltire fimbriated in white, bearing a white central disc with the city arms.",
   "history": "Curitiba's flag is one of the official symbols of the city — together with its coat of arms and anthem — and was officially adopted on 11 May 1967 under Municipal Law No. 2,993. The proportions are 7:10. The coat of arms references the Araucária pine that dominates the Paraná plateau and gives the city much of its iconography; the green field reflects Curitiba's reputation as a green and ecologically planned capital.",
   "periods": [
     {
@@ -34,16 +42,23 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "green",
-      "symbolism": "the green field of the flag, evoking the Araucária pine forests around the city"
+      "type": "greek-cross",
+      "color": "red",
+      "fimbriation": {
+        "color": "white"
+      }
     },
     {
-      "type": "coat-of-arms",
-      "count": 1,
-      "position": "center",
-      "role": "coat of arms of the Municipality of Curitiba",
-      "symbolism": "the city's coat of arms, featuring the Araucária pine and other emblems of the Paraná plateau and of Curitiba's foundation"
+      "type": "saltire",
+      "color": "red",
+      "fimbriation": {
+        "color": "white"
+      }
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "role": "central disc with the arms"
     }
   ]
 }

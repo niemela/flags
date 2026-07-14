@@ -17,19 +17,23 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "green",
+      "color": "blue",
       "symbolism": "the field"
+    },
+    {
+      "color": "green",
+      "symbolism": "the fess"
+    },
+    {
+      "color": "white",
+      "symbolism": "the wavy stripe"
     },
     {
       "color": "yellow",
       "symbolism": "the lion"
-    },
-    {
-      "color": "white",
-      "symbolism": "the stripe"
     }
   ],
-  "description": "A green field with a gold lion and a white stripe.",
+  "description": "A blue field crossed by a green fess bearing a white wavy stripe, with a golden lion over all.",
   "history": "A former municipality in the province of Gelderland, dissolved at the end of 2006 and merged into a neighbouring municipality.",
   "periods": [
     {
@@ -43,21 +47,15 @@
   "features": [
     {
       "type": "solid",
-      "color": "green"
+      "color": "blue"
     },
     {
       "type": "horizontal-stripes",
-      "stripes": [
-        "white"
-      ],
-      "count": 1,
-      "role": "a white stripe"
+      "role": "green fess with a white wavy stripe"
     },
     {
       "type": "lion",
-      "color": "yellow",
-      "position": "center",
-      "role": "a gold lion"
+      "color": "yellow"
     }
   ]
 }

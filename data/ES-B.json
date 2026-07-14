@@ -18,10 +18,19 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "yellow"
+      "color": "yellow",
+      "symbolism": "the field of the bars of Aragon"
+    },
+    {
+      "color": "red",
+      "symbolism": "the four pals of Aragon"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central lozenge"
     }
   ],
-  "description": "A yellow field bearing the coat of arms of the province of Barcelona.",
+  "description": "The bars of Aragon (a gold field with four red pals) charged at the centre with a white lozenge bearing the red Cross of Saint George.",
   "history": "The flag of the province of Barcelona displays the provincial coat of arms on a solid field.",
   "variant": [
     "civil",
@@ -33,13 +42,13 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "yellow"
+      "type": "vertical-stripes",
+      "role": "the four red pals of Aragon on gold"
     },
     {
-      "type": "coat-of-arms",
-      "position": "center",
-      "role": "provincial coat of arms"
+      "type": "lozenge",
+      "color": "white",
+      "role": "central lozenge with the red Cross of Saint George"
     }
   ]
 }

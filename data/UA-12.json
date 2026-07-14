@@ -19,14 +19,22 @@
   "colors": [
     {
       "color": "blue",
-      "symbolism": "the Dnipro river"
+      "symbolism": "the upper-fly triangle — the Dnipro river and sky"
+    },
+    {
+      "color": "white",
+      "symbolism": "the lower-hoist triangle"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stars, the flame-and-wave edging"
     },
     {
       "color": "red",
-      "symbolism": "the Cossack heritage and steel-making industry"
+      "symbolism": "the Cossack's crimson zhupan"
     }
   ],
-  "description": "A blue field with a red horizontal stripe at the bottom and the coat of arms of Dnipropetrovsk Oblast centred — a Cossack on a wreath above ears of wheat.",
+  "description": "Divided diagonally: the upper fly triangle blue with nine golden eight-pointed stars, the lower hoist triangle white with a Zaporozhian Cossack in a crimson zhupan; the division edged with golden flames and blue waves.",
   "history": "Adopted as the regional flag of Dnipropetrovsk Oblast, an industrial region in central-southeastern Ukraine on the Dnipro river; the design references the Cossack and Zaporozhian heritage of the territory.",
   "periods": [
     {
@@ -39,21 +47,23 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "blue"
-    },
-    {
-      "type": "horizontal-stripes",
+      "type": "per-bend",
       "stripes": [
-        "red"
-      ],
-      "count": 1,
-      "position": "bottom"
+        "blue",
+        "white"
+      ]
     },
     {
-      "type": "coat-of-arms",
-      "position": "center",
-      "role": "arms of Dnipropetrovsk Oblast"
+      "type": "star",
+      "color": "yellow",
+      "count": 9,
+      "points": 8,
+      "role": "nine stars in rows of 4-3-2"
+    },
+    {
+      "type": "human-figure",
+      "color": "red",
+      "role": "Zaporozhian Cossack with musket and sabre"
     }
   ]
 }

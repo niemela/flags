@@ -18,14 +18,18 @@
   "colors": [
     {
       "color": "white",
-      "symbolism": "the field, hosting the regional coat of arms"
+      "symbolism": "the upper half"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the lower half"
     },
     {
       "color": "red",
-      "symbolism": "the narrow bordering stripes and the eagle of Trento"
+      "symbolism": "the eagles of the arms"
     }
   ],
-  "description": "A white field bordered above and below by narrow red horizontal stripes, with the regional coat of arms (the impaled eagles of Trento and Tyrol within a green wreath) at the centre.",
+  "description": "Divided horizontally white over blue, charged at the centre with the quartered regional arms bearing the eagles of Trento, Bolzano and Tyrol.",
   "history": "Defined by the regional Statute (Constitutional Law n. 5 of 31 January 1972) and subsequent regulations. The combined arms unite the eagles of the two autonomous provinces of Trento and South Tyrol (Bolzano), reflecting the bilingual region's composition.",
   "variant": [
     "civil",
@@ -44,28 +48,12 @@
       "type": "horizontal-stripes",
       "stripes": [
         "white",
-        "red",
-        "white",
-        "red",
-        "white"
-      ],
-      "count": 5,
-      "widths": [
-        3,
-        2,
-        10,
-        2,
-        3
-      ],
-      "symbolism": "A predominantly white field bordered above and below by narrow red bars, with the regional coat of arms at the centre."
+        "blue"
+      ]
     },
     {
       "type": "coat-of-arms",
-      "count": 1,
-      "color": "white",
-      "position": "center",
-      "role": "regional coat of arms (a parted-per-pale shield with the silver-and-red eagle of Trento on the dexter and the red-and-gold eagle of Tyrol on the sinister, surmounted by a mural crown and surrounded by a green laurel wreath)",
-      "symbolism": "Combines the historic eagles of the two autonomous provinces that constitute the region: the silver eagle of the Prince-Bishopric of Trento and the red eagle of the County of Tyrol."
+      "role": "quartered regional arms"
     }
   ]
 }

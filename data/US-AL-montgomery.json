@@ -16,10 +16,27 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "red"
+      "color": "grey",
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the bend with white stars"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stars and lettering"
+    },
+    {
+      "color": "red",
+      "symbolism": "the edges of the bend"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the wreath"
     }
   ],
-  "description": "A red field bearing the emblem and name of the City of Montgomery.",
+  "description": "A grey field crossed by a blue bend bearing white stars, edged in red, within a golden wreath, with CITY OF and MONTGOMERY in white lettering.",
   "history": "Used by the City of Montgomery, the capital of Alabama, founded in 1819 by the merger of two earlier riverside towns and named after Revolutionary War general Richard Montgomery.",
   "periods": [
     {
@@ -31,15 +48,17 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "red"
+      "type": "diagonal-stripes",
+      "role": "star-spangled blue bend edged red"
     },
     {
-      "type": "seal",
-      "count": 1,
-      "position": "center",
-      "role": "Seal of the City of Montgomery",
-      "symbolism": "The municipal seal evokes Montgomery's history as the capital of Alabama (since 1846) and its role as the first capital of the Confederate States of America (1861), as well as its later prominence in the Civil Rights Movement."
+      "type": "wreath",
+      "color": "yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "role": "CITY OF MONTGOMERY lettering"
     }
   ]
 }

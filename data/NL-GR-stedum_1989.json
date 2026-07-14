@@ -17,23 +17,31 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "green",
-      "symbolism": "the bands"
+      "color": "red",
+      "symbolism": "the top band"
     },
     {
       "color": "white",
-      "symbolism": "the bands"
+      "symbolism": "two bands"
+    },
+    {
+      "color": "green",
+      "symbolism": "the central band"
     },
     {
       "color": "blue",
-      "symbolism": "the band"
+      "symbolism": "the bottom band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the canton"
     },
     {
       "color": "black",
-      "symbolism": "the canton"
+      "symbolism": "the figure of the canton"
     }
   ],
-  "description": "Green, white and blue bands with a black canton bearing the municipal arms.",
+  "description": "Horizontal bands of red, white, green, white and blue, with a golden canton bearing the municipal arms in black.",
   "history": "A former municipality in the province of Groningen, dissolved at the end of 1989 and merged into a neighbouring municipality.",
   "periods": [
     {
@@ -48,19 +56,17 @@
     {
       "type": "horizontal-stripes",
       "stripes": [
-        "green",
+        "red",
         "white",
         "green",
         "white",
         "blue"
-      ],
-      "count": 5
+      ]
     },
     {
       "type": "canton",
-      "color": "black",
-      "position": "canton",
-      "role": "a black canton with the municipal arms"
+      "color": "yellow",
+      "role": "golden canton with the arms in black"
     }
   ]
 }

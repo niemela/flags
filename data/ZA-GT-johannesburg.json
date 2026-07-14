@@ -17,11 +17,27 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
+      "color": "navy",
+      "symbolism": "the hoist band"
+    },
+    {
       "color": "white",
-      "symbolism": "the field of the flag"
+      "symbolism": "the central band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the fly band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the central lozenge"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the border of the lozenge"
     }
   ],
-  "description": "A white field charged centrally with the coat of arms of Johannesburg.",
+  "description": "Vertical bands of navy, white and red, charged at the centre with a green lozenge edged in gold bearing the city coat of arms.",
   "history": "Johannesburg is the largest city in South Africa, founded in 1886 with the discovery of gold on the Witwatersrand. The city flag bears the historic coat of arms granted to the city, with elements recalling its mining origins.",
   "periods": [
     {
@@ -35,14 +51,20 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "white"
+      "type": "vertical-stripes",
+      "stripes": [
+        "navy",
+        "white",
+        "red"
+      ]
     },
     {
-      "type": "coat-of-arms",
-      "position": "center",
-      "role": "Coat of arms of Johannesburg",
-      "symbolism": "the historic emblem of the city"
+      "type": "lozenge",
+      "color": "green",
+      "role": "gold-edged green lozenge with the arms"
+    },
+    {
+      "type": "coat-of-arms"
     }
   ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "cossack-hetmanate",
   "name": "Cossack Hetmanate (1649–1764)",
-  "type": ["historical", "country"],
+  "type": [
+    "historical",
+    "country"
+  ],
   "parent": null,
   "status": "reconstructed",
   "codes": {
@@ -14,13 +17,22 @@
   ],
   "aspect_ratio": "2:3",
   "colors": [
-    { "color": "red", "symbolism": "the historic banner colour of the Zaporozhian Cossack regiments" },
-    { "color": "white", "symbolism": "the figure of the Cossack with a musket" }
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the Cossack and the border"
+    }
   ],
-  "description": "A red banner charged with a white Cossack figure shouldering a musket — a reconstructed depiction of the regimental banner of the Zaporozhian Host during the Cossack Hetmanate.",
+  "description": "An azure banner bearing a gold Cossack with a musket within a gold border — the emblem of the Zaporozhian Host, a conventional reconstruction of Hetmanate regimental colours.",
   "history": "The Cossack Hetmanate was a semi-autonomous Cossack polity established by Bohdan Khmelnytsky's 1648 uprising and the 1649 Treaty of Zboriv; it persisted under Russian suzerainty until its abolition by Catherine II in 1764. The figure of the Cossack with a musket (the 'Cossack with a musket') was the regimental seal of the Zaporozhian Host and later the official emblem of the Hetmanate; it remains today the historic basis for the coats of arms of several central-Ukrainian oblasts.",
   "periods": [
-    { "start": "1649", "end": "1764" }
+    {
+      "start": "1649",
+      "end": "1764"
+    }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Cossack_Hetmanate",
@@ -29,14 +41,16 @@
   "features": [
     {
       "type": "solid",
-      "color": "red"
+      "color": "blue"
     },
     {
       "type": "human-figure",
-      "color": "white",
-      "position": "center",
-      "role": "Cossack with a musket — historic seal of the Zaporozhian Host",
-      "symbolism": "the Cossack with a musket, the official emblem of the Hetmanate"
+      "color": "yellow",
+      "role": "Cossack with a musket"
+    },
+    {
+      "type": "border",
+      "color": "yellow"
     }
   ]
 }

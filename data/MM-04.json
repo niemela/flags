@@ -16,16 +16,23 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "red"
+      "color": "red",
+      "symbolism": "the field"
     },
     {
-      "color": "green"
+      "color": "blue",
+      "symbolism": "the chief"
     },
     {
-      "color": "white"
+      "color": "white",
+      "symbolism": "the stars and the disc"
+    },
+    {
+      "color": "green",
+      "symbolism": "the branch of the hornbill"
     }
   ],
-  "description": "A red-over-green field with an arc of white stars and the emblem of Chin State.",
+  "description": "A red field with a blue chief, an arc of white stars, and a central white disc bearing a hornbill perched on a branch.",
   "history": "Used by the Chin State government as one of Myanmar's 14 first-level administrative subdivisions (seven regions and seven states, plus Naypyidaw Union Territory). Many regional and state flag designs follow a common pattern based on the national flag, charged with the regional seal.",
   "variant": [
     "civil",
@@ -42,28 +49,18 @@
   "features": [
     {
       "type": "horizontal-stripes",
-      "stripes": [
-        "red",
-        "green"
-      ],
-      "count": 2
+      "role": "blue chief on red"
     },
     {
       "type": "star",
       "color": "white",
       "count": 9,
-      "arrangement": "arc",
-      "position": "center",
-      "role": "white stars"
+      "role": "arc of stars"
     },
     {
-      "type": "complex",
-      "symbolism": "the flag of Chin State, with horizontal blue and green bands and a state seal in the centre featuring a hornbill, a sacred mountain (Khaw Nu Soum / Mount Victoria), and crossed implements"
-    },
-    {
-      "type": "seal",
-      "position": "center",
-      "role": "State seal of Chin State"
+      "type": "disc",
+      "color": "white",
+      "role": "disc with the hornbill"
     }
   ]
 }

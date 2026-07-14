@@ -18,10 +18,23 @@
   "aspect_ratio": "3:5",
   "colors": [
     {
-      "color": "black"
+      "color": "maroon",
+      "symbolism": "the hoist half"
+    },
+    {
+      "color": "white",
+      "symbolism": "the fly half"
+    },
+    {
+      "color": "red",
+      "symbolism": "the crowned lion"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the castle"
     }
   ],
-  "description": "A black field bearing the coat of arms of the province of Cáceres.",
+  "description": "Divided vertically maroon and white, bearing the provincial arms: a crowned lion at the hoist and a gold castle at the fly.",
   "history": "The flag of the province of Cáceres displays the provincial coat of arms on a solid field.",
   "variant": [
     "civil",
@@ -33,13 +46,21 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "black"
+      "type": "vertical-stripes",
+      "stripes": [
+        "maroon",
+        "white"
+      ]
     },
     {
-      "type": "coat-of-arms",
-      "position": "center",
-      "role": "provincial coat of arms"
+      "type": "lion",
+      "color": "red",
+      "role": "crowned lion"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "role": "gold castle"
     }
   ]
 }

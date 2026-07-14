@@ -18,10 +18,23 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "green"
+      "color": "green",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the bordure panels"
+    },
+    {
+      "color": "red",
+      "symbolism": "the bordure panels and castles"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the castles of the bordure"
     }
   ],
-  "description": "A green field bearing the coat of arms of the province of Cádiz.",
+  "description": "A green field bearing the provincial coat of arms within a compony bordure of alternating panels charged with castles and lions.",
   "history": "The flag of the province of Cádiz displays the provincial coat of arms on a solid field.",
   "variant": [
     "civil",
@@ -37,8 +50,11 @@
       "color": "green"
     },
     {
+      "type": "border",
+      "role": "compony bordure of Castile-and-Leon panels"
+    },
+    {
       "type": "coat-of-arms",
-      "position": "center",
       "role": "provincial coat of arms"
     }
   ]

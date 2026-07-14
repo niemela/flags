@@ -1,7 +1,9 @@
 {
   "id": "AU-NSW-sydney",
   "name": "Sydney (New South Wales, Australia)",
-  "type": ["city"],
+  "type": [
+    "city"
+  ],
   "parent": "AU-NSW",
   "codes": {
     "wikidata": "Q3130"
@@ -13,10 +15,24 @@
   ],
   "aspect_ratio": "1:2",
   "colors": [
-    { "color": "blue", "symbolism": "the field" },
-    { "color": "white", "symbolism": "the saltire and central content" }
+    {
+      "color": "blue",
+      "symbolism": "the lower field and the chief's charges"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the central band and the ship"
+    },
+    {
+      "color": "white",
+      "symbolism": "the chief"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lions and crown details"
+    }
   ],
-  "description": "A blue field bearing a white saltire (St Andrew's Cross), with the coat of arms of the City of Sydney centred on the saltire's intersection.",
+  "description": "Divided horizontally: a white chief with blue scallop shells and devices, a golden band bearing red lions and a naval crown, and a blue field with a golden sailing ship.",
   "history": "The flag of the City of Sydney displays the city's coat of arms (granted in 1908) on a white saltire on a blue field, in the manner of a defaced Scottish saltire. The saltire references Sydney's namesake, Lord Sydney (Thomas Townshend), and the Scottish heritage among the colony's early administrators.",
   "periods": [
     {
@@ -29,15 +45,13 @@
   ],
   "features": [
     {
-      "type": "saltire",
-      "field": "blue",
-      "saltire": "white"
+      "type": "horizontal-stripes",
+      "role": "white chief, golden band, blue field"
     },
     {
-      "type": "coat-of-arms",
-      "color": "white",
-      "position": "center",
-      "role": "Coat of arms of the City of Sydney"
+      "type": "ship",
+      "color": "yellow",
+      "role": "golden sailing ship"
     }
   ]
 }

@@ -18,11 +18,23 @@
   "aspect_ratio": "5:6",
   "colors": [
     {
+      "color": "red",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lion and the crosslets of the border"
+    },
+    {
       "color": "blue",
-      "symbolism": "the standard outer field of Lithuanian county flags"
+      "symbolism": "the border"
+    },
+    {
+      "color": "white",
+      "symbolism": "the lion's shield"
     }
   ],
-  "description": "A blue field with the coat of arms of Taurage County in the centre, set within an inner panel framed by the standard Lithuanian-county blue border.",
+  "description": "A red field bearing a golden lion with a white shield charged with an anchor cross, within a blue border of golden double crosses and a sword.",
   "history": "Like the flags of all ten Lithuanian counties, Taurage County's flag follows the uniform template introduced after the country's redivision into apskritys (counties) in 1994: a blue field surrounding the county's heraldic device.",
   "periods": [
     {
@@ -35,17 +47,14 @@
   ],
   "features": [
     {
-      "type": "bordure",
-      "field": "blue",
-      "border": "blue",
-      "symbolism": "blue outer border in the Lithuanian county pattern, surrounding the county's heraldic field"
+      "type": "lion",
+      "color": "yellow",
+      "role": "golden lion"
     },
     {
-      "type": "coat-of-arms",
-      "count": 1,
-      "position": "center",
-      "role": "coat of arms of Taurage County",
-      "symbolism": "the county's heraldic device, including emblems referencing Taurage's regional and historical character"
+      "type": "border",
+      "color": "blue",
+      "role": "blue border with golden double crosses"
     }
   ]
 }

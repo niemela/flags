@@ -18,10 +18,15 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "white"
+      "color": "light-blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central panel"
     }
   ],
-  "description": "A white field bearing the coat of arms of the province of Málaga.",
+  "description": "A light-blue field with a central white panel bearing the provincial coat of arms.",
   "history": "The flag of the province of Málaga displays the provincial coat of arms on a solid field.",
   "variant": [
     "civil",
@@ -34,11 +39,15 @@
   "features": [
     {
       "type": "solid",
-      "color": "white"
+      "color": "light-blue"
+    },
+    {
+      "type": "square",
+      "color": "white",
+      "role": "central white panel"
     },
     {
       "type": "coat-of-arms",
-      "position": "center",
       "role": "provincial coat of arms"
     }
   ]

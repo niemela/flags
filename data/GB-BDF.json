@@ -1,39 +1,67 @@
 {
   "id": "GB-BDF",
   "name": "Bedfordshire (United Kingdom)",
-  "type": ["subdivision"],
+  "type": [
+    "subdivision"
+  ],
   "parent": "GB-ENG",
   "codes": {
     "iso_3166_2": "GB-BDF",
     "wikidata": "Q894077"
   },
-  "region": ["Europe", "Northern Europe", "British Isles", "Anglosphere"],
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere"
+  ],
   "aspect_ratio": "3:5",
   "colors": [
-    { "color": "yellow" },
-    { "color": "red" },
-    { "color": "blue" }
+    {
+      "color": "yellow",
+      "symbolism": "two quarters"
+    },
+    {
+      "color": "red",
+      "symbolism": "two quarters"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the wavy bars"
+    },
+    {
+      "color": "white",
+      "symbolism": "the wavy bars and escallops"
+    },
+    {
+      "color": "black",
+      "symbolism": "the central pale"
+    }
   ],
-  "description": "A yellow field with a red diagonal stripe descending from the upper hoist, charged with three blue scallop shells.",
+  "description": "Quartered gold and red, each quarter charged with blue-and-white wavy bars, over all a black pale bearing three white escallop shells.",
   "history": "Designed by Robert Bullock in 2014; registered with the Flag Institute as the flag of the historic county of Bedfordshire on 31 October 2014.",
-  "periods": [{ "start": "2014-10-31" }],
+  "periods": [
+    {
+      "start": "2014-10-31"
+    }
+  ],
   "sources": [
     "https://en.wikipedia.org/wiki/Flag_of_Bedfordshire"
   ],
   "features": [
-    { "type": "solid", "color": "yellow" },
     {
-      "type": "diagonal-stripes",
-      "stripes": ["red"],
-      "count": 1,
-      "direction": "bend"
+      "type": "quartered",
+      "role": "gold and red quarters with wavy bars"
+    },
+    {
+      "type": "vertical-stripes",
+      "role": "black pale over all"
     },
     {
       "type": "shell",
+      "color": "white",
       "count": 3,
-      "color": "blue",
-      "role": "Three escallops (scallop shells)",
-      "symbolism": "from the historic arms of the de Beauchamp family, lords of Bedford"
+      "role": "escallop shells"
     }
   ]
 }

@@ -17,10 +17,18 @@
   "colors": [
     {
       "color": "blue",
-      "symbolism": "the field of the city's coat of arms"
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the cross"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the border and the bulls"
     }
   ],
-  "description": "A blue field bearing the city's coat of arms: a golden rampant bull (the toro) on a blue shield.",
+  "description": "A blue field with a white cross and a golden border, a golden bull in each quarter.",
   "history": "The bull (toro) is the canting emblem of Turin (Torino), in use since the medieval period; the city's name itself probably derives from the Celtic-Ligurian Taurini people.",
   "periods": [
     {
@@ -32,15 +40,19 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "blue"
+      "type": "greek-cross",
+      "field": "blue",
+      "color": "white"
     },
     {
-      "type": "coat-of-arms",
-      "count": 1,
-      "position": "center",
-      "role": "Coat of arms of Turin (a rampant golden bull on blue)",
-      "symbolism": "the bull is a canting reference to Turin's name (Torino)"
+      "type": "border",
+      "color": "yellow"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "count": 4,
+      "role": "golden bulls"
     }
   ]
 }

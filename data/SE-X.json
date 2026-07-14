@@ -19,15 +19,27 @@
   "aspect_ratio": "1:1",
   "colors": [
     {
-      "color": "blue",
-      "symbolism": "the azure portion derived from the historic Halsingland arms"
+      "color": "white",
+      "symbolism": "two quarters, with blue roundels"
+    },
+    {
+      "color": "black",
+      "symbolism": "two quarters"
+    },
+    {
+      "color": "red",
+      "symbolism": "the moose"
     },
     {
       "color": "yellow",
-      "symbolism": "the gold portion derived from the historic Gastrikland arms"
+      "symbolism": "the goats"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the roundels on the white quarters"
     }
   ],
-  "description": "A square flag divided per bend gold and blue, charged centrally with the composite arms of Gavleborg County, combining symbols of the historic provinces of Gastrikland and Halsingland.",
+  "description": "A banner of the county arms, quartered: white quarters strewn with blue roundels bearing red moose, and black quarters bearing yellow goats.",
   "history": "The flag is the heraldic banner of the arms of Gavleborg County, granted in 1937 and combining the historic arms of the provinces of Gastrikland and Halsingland that make up the county.",
   "periods": [
     {
@@ -40,18 +52,20 @@
   ],
   "features": [
     {
-      "type": "per-bend",
-      "field": "blue",
-      "bend": "yellow",
-      "direction": "bend",
-      "symbolism": "the field is divided per bend, combining elements from the historic provinces of Gastrikland (the upper part) and Halsingland (the lower part) that make up Gavleborg County."
+      "type": "quartered",
+      "role": "arms of Gavleborg: Gastrikland moose and Halsingland goats"
     },
     {
-      "type": "coat-of-arms",
-      "count": 1,
-      "position": "center",
-      "role": "Gavleborg County arms",
-      "symbolism": "a composite shield combining the goat (buck) of Gastrikland on the gold field and emblems from Halsingland on the azure field."
+      "type": "animal-other",
+      "color": "red",
+      "count": 2,
+      "role": "moose"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "count": 2,
+      "role": "goats"
     }
   ]
 }

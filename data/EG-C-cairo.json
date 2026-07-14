@@ -18,16 +18,20 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
+      "color": "white",
+      "symbolism": "the upper half"
+    },
+    {
       "color": "light-blue",
-      "symbolism": "the Nile and the sky over the capital"
+      "symbolism": "the lower half"
     },
     {
       "color": "brown",
-      "symbolism": "the Citadel of Saladin, mosques and other historic buildings of Islamic Cairo"
+      "symbolism": "the mosque of the emblem"
     }
   ],
   "symbolism": null,
-  "description": "A light blue field charged in the centre with a brown silhouette of the Citadel of Cairo and its mosques and minarets.",
+  "description": "Divided horizontally white over slate blue, charged with a blue-ringed white disc bearing the Mosque of Muhammad Ali in dark red.",
   "history": "The earlier emblem flag of Cairo — a light blue field defaced with a brown stylised silhouette of the Citadel of Saladin and the mosques of Islamic Cairo. It long served as the flag of the Cairo Governorate (which is coterminous with the city of Cairo) before the governorate adopted the redesigned golden-sun emblem in 2010.",
   "periods": [
     {
@@ -40,17 +44,16 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "light-blue",
-      "symbolism": "the Nile and the sky over Cairo"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "light-blue"
+      ]
     },
     {
-      "type": "building",
-      "count": 1,
-      "color": "brown",
-      "position": "center",
-      "role": "Citadel of Saladin and mosques of Cairo",
-      "symbolism": "a stylised silhouette of the Cairo Citadel and its minarets — defining landmarks of the historic Islamic city"
+      "type": "disc",
+      "color": "white",
+      "role": "blue-ringed disc with the mosque"
     }
   ]
 }

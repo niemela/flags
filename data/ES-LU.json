@@ -18,10 +18,15 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "blue"
+      "color": "blue",
+      "symbolism": "the upper half"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lower half"
     }
   ],
-  "description": "A blue field bearing the coat of arms of the province of Lugo.",
+  "description": "Divided horizontally blue over red, bearing the provincial coat of arms at the centre.",
   "history": "The flag of the province of Lugo displays the provincial coat of arms on a solid field.",
   "variant": [
     "civil",
@@ -33,12 +38,14 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "blue"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ]
     },
     {
       "type": "coat-of-arms",
-      "position": "center",
       "role": "provincial coat of arms"
     }
   ]

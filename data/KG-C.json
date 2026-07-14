@@ -1,7 +1,9 @@
 {
   "id": "KG-C",
   "name": "Chuy Region (Kyrgyzstan)",
-  "type": ["subdivision"],
+  "type": [
+    "subdivision"
+  ],
   "parent": "KG",
   "codes": {
     "iso_3166_2": "KG-C",
@@ -15,11 +17,19 @@
   "aspect_ratio": "3:5",
   "colors": [
     {
-      "color": "red",
-      "symbolism": "drawn from the Kyrgyz national flag — courage and valour"
+      "color": "white",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the central band and the emblem"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the lower band"
     }
   ],
-  "description": "A red field charged centrally with the regional emblem of Chuy — depicting the Tian Shan mountains, the Chuy Valley, and a sun.",
+  "description": "Horizontal bands of white, green and yellow, bearing the regional emblem toward the hoist.",
   "history": "Chuy Region surrounds the Kyrgyz capital Bishkek and is one of the seven regions of Kyrgyzstan. The regional flag combines the red field of the Kyrgyz national flag with the local emblem.",
   "periods": [
     {
@@ -32,14 +42,17 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "red"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "yellow"
+      ]
     },
     {
       "type": "seal",
-      "position": "center",
-      "role": "Emblem of Chuy Region",
-      "symbolism": "the Tian Shan mountains and the agricultural Chuy Valley"
+      "color": "green",
+      "role": "regional emblem"
     }
   ]
 }

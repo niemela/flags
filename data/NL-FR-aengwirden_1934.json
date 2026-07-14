@@ -18,22 +18,22 @@
   "colors": [
     {
       "color": "green",
-      "symbolism": "the bands"
+      "symbolism": "the top and bottom bands"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the broad central band"
     },
     {
       "color": "black",
-      "symbolism": "the central bars"
+      "symbolism": "the bars"
     },
     {
       "color": "red",
-      "symbolism": "the lozenge and flower"
-    },
-    {
-      "color": "white",
-      "symbolism": "the flower"
+      "symbolism": "the lozenge"
     }
   ],
-  "description": "Green bands top and bottom with a black-barred centre, a red lozenge bearing a flower at the hoist and black blocks.",
+  "description": "Green bands at top and bottom, the broad yellow centre bearing three black bars and a red lozenge charged with a yellow quatrefoil toward the hoist.",
   "history": "A former municipality in the province of Friesland, dissolved at the end of 1934 and merged into a neighbouring municipality.",
   "periods": [
     {
@@ -49,23 +49,19 @@
       "type": "horizontal-stripes",
       "stripes": [
         "green",
-        "black",
+        "yellow",
         "green"
-      ],
-      "count": 3,
-      "role": "green bands with a black-barred centre"
+      ]
     },
     {
       "type": "lozenge",
       "color": "red",
-      "position": "hoist",
-      "role": "a red lozenge with a flower"
+      "role": "red lozenge with a yellow quatrefoil"
     },
     {
-      "type": "square",
+      "type": "horizontal-stripes",
       "color": "black",
-      "count": 2,
-      "role": "black blocks"
+      "role": "three black bars"
     }
   ]
 }

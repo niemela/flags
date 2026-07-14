@@ -16,12 +16,12 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "orange",
+      "color": "yellow",
       "symbolism": "the field"
     },
     {
       "color": "red",
-      "symbolism": "the lower hoist"
+      "symbolism": "the lower-hoist triangle"
     },
     {
       "color": "white",
@@ -42,19 +42,16 @@
   "features": [
     {
       "type": "solid",
-      "color": "orange"
+      "color": "yellow"
     },
     {
       "type": "triangle",
       "color": "red",
-      "position": "hoist",
-      "role": "a red lower-hoist triangle"
+      "role": "lower-hoist triangle"
     },
     {
       "type": "lion",
-      "color": "white",
-      "position": "center",
-      "role": "a white lion"
+      "color": "white"
     }
   ]
 }

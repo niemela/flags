@@ -1,7 +1,9 @@
 {
   "id": "PT-lisbon",
   "name": "Lisbon (Portugal)",
-  "type": ["city"],
+  "type": [
+    "city"
+  ],
   "parent": "PT",
   "codes": {
     "wikidata": "Q597"
@@ -15,11 +17,16 @@
   ],
   "aspect_ratio": "2:3",
   "colors": [
-    { "color": "black", "symbolism": "one half of the field" },
-    { "color": "white", "symbolism": "the other half of the field" },
-    { "color": "red", "symbolism": "details of the city arms" }
+    {
+      "color": "black",
+      "symbolism": "half the gyrons"
+    },
+    {
+      "color": "white",
+      "symbolism": "half the gyrons"
+    }
   ],
-  "description": "A vertically divided field of black (hoist) and white (fly), with the coat of arms of Lisbon centred on the division.",
+  "description": "Gyronny of black and white, with the coat of arms of Lisbon at the centre.",
   "history": "Lisbon is the capital and largest city of Portugal. Its flag is divided black and white per pale, with the city arms centred — including the ship of Saint Vincent flanked by ravens, recalling the legend of the city's patron saint.",
   "periods": [
     {
@@ -31,15 +38,12 @@
   ],
   "features": [
     {
-      "type": "vertical-stripes",
-      "stripes": ["black", "white"],
-      "count": 2
+      "type": "complex",
+      "role": "gyronny of black and white"
     },
     {
       "type": "coat-of-arms",
-      "position": "center",
-      "color": "red",
-      "role": "Coat of arms of Lisbon (Ship of Saint Vincent flanked by ravens)"
+      "role": "Coat of arms of Lisbon (Ship of Saint Vincent)"
     }
   ]
 }

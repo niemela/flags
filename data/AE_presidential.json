@@ -1,41 +1,75 @@
 {
   "id": "AE_presidential",
   "name": "United Arab Emirates (presidential standard)",
-  "type": ["country"],
+  "type": [
+    "country"
+  ],
   "codes": {
     "iso_3166_1_alpha2": "AE",
     "wikidata": "Q878"
   },
-  "region": ["Asia", "Western Asia", "Middle East", "MENA", "Arab World", "GCC"],
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "MENA",
+    "Arab World",
+    "GCC"
+  ],
   "aspect_ratio": "1:2",
   "colors": [
-    { "color": "green",  "symbolism": "the field — growth and prosperity" },
-    { "color": "yellow",   "symbolism": "the falcon and its parchment — heritage and authority" }
+    {
+      "color": "red",
+      "symbolism": "the hoist band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the lower band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the golden federal eagle"
+    }
   ],
-  "description": "A green field charged centrally with a golden falcon with outstretched wings, holding a parchment inscribed in Arabic with the name of the state and bearing on its breast a circular shield reproducing the UAE flag, the whole encircled by seven five-pointed stars representing the seven emirates.",
+  "description": "The national flag of the United Arab Emirates (red hoist band with green, white and black horizontal bands) charged at the centre with the golden federal eagle.",
   "history": "Adopted in 2008, replacing the 1973 presidential standard that had been used since the federation's founding. The falcon is a long-standing emblem of authority in the Gulf; the seven stars represent the seven federating emirates.",
-  "variant": ["presidential-standard"],
-  "periods": [{ "start": "2008" }],
+  "variant": [
+    "presidential-standard"
+  ],
+  "periods": [
+    {
+      "start": "2008"
+    }
+  ],
   "sources": [
     "https://en.wikipedia.org/wiki/President_of_the_United_Arab_Emirates",
     "https://commons.wikimedia.org/wiki/File:Flag_of_the_President_of_the_United_Arab_Emirates.svg"
   ],
   "features": [
-    { "type": "solid", "color": "green" },
     {
-      "type": "bird",
-      "color": "yellow",
-      "position": "center",
-      "role": "golden falcon with outstretched wings, holding a parchment with the state's name in Arabic and bearing a roundel of the UAE flag on its breast"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "black"
+      ]
     },
     {
-      "type": "star",
-      "count": 7,
-      "points": 5,
+      "type": "vertical-stripes",
+      "role": "red band at the hoist"
+    },
+    {
+      "type": "eagle",
       "color": "yellow",
-      "arrangement": "circle",
-      "position": "center",
-      "role": "the seven emirates, encircling the falcon"
+      "role": "golden federal eagle"
     }
   ]
 }

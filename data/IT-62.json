@@ -17,15 +17,15 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "white",
+      "color": "light-blue",
       "symbolism": "the field"
     },
     {
-      "color": "blue",
-      "symbolism": "the stylised regional logo, evoking the sky and the Tyrrhenian sea bordering Lazio"
+      "color": "yellow",
+      "symbolism": "the lettering and the emblem's frame"
     }
   ],
-  "description": "A white field charged at the centre with the stylised regional logo of Lazio, rendered in blue.",
+  "description": "A light-blue field bearing the regional emblem — an octagon with the arms of Rome surrounded by those of the provinces — above the inscription REGIONE LAZIO in gold.",
   "history": "The current regional flag, defined alongside the modern regional graphic identity, follows the Regional Statute (Regional Law n. 1 of 11 November 2004). The stylised blue logo replaced earlier regional emblems based on a coat of arms with a Roman eagle.",
   "variant": [
     "civil",
@@ -42,16 +42,16 @@
   "features": [
     {
       "type": "solid",
-      "color": "white",
-      "symbolism": "A white field charged with the stylised regional logo, a graphic composition in blue evoking sea, sky and the silhouette of a hill town."
+      "color": "light-blue"
     },
     {
-      "type": "wave",
-      "count": 1,
-      "color": "blue",
-      "position": "center",
-      "role": "stylised regional logo (a wave-like horizontal composition in blue)",
-      "symbolism": "The blue stylised composition was designed as the modern visual identity of the region, evoking the Tyrrhenian coastline, the Tiber, and the rolling Lazio hills."
+      "type": "coat-of-arms",
+      "role": "regional emblem (octagon of Rome and the four provinces)"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "role": "REGIONE LAZIO inscription"
     }
   ]
 }

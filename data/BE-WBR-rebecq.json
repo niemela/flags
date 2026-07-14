@@ -16,11 +16,23 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
+      "color": "red",
+      "symbolism": "the upper band"
+    },
+    {
       "color": "white",
-      "symbolism": "the field"
+      "symbolism": "the central band"
+    },
+    {
+      "color": "green",
+      "symbolism": "the lower band"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the flower"
     }
   ],
-  "description": "White with the municipal arms at the centre.",
+  "description": "Three horizontal bands of red, white and green, with a yellow flower on the red band at the hoist.",
   "history": "The flag of Rebecq derives from the municipal coat of arms.",
   "periods": [
     {
@@ -33,13 +45,17 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "white"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "green"
+      ]
     },
     {
-      "type": "coat-of-arms",
-      "position": "center",
-      "role": "the municipal arms"
+      "type": "flower",
+      "color": "yellow",
+      "role": "yellow flower at the upper hoist"
     }
   ]
 }

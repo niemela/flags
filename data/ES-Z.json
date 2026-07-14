@@ -18,10 +18,15 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "yellow"
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the Cross of Saint George"
     }
   ],
-  "description": "A yellow field bearing the coat of arms of the province of Zaragoza.",
+  "description": "A white field with a red Cross of Saint George reaching the edges, the provincial coat of arms at its centre.",
   "history": "The flag of the province of Zaragoza displays the provincial coat of arms on a solid field.",
   "variant": [
     "civil",
@@ -33,12 +38,13 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "yellow"
+      "type": "greek-cross",
+      "field": "white",
+      "color": "red",
+      "role": "Cross of Saint George"
     },
     {
       "type": "coat-of-arms",
-      "position": "center",
       "role": "provincial coat of arms"
     }
   ]

@@ -18,10 +18,19 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "red"
+      "color": "yellow",
+      "symbolism": "the upper band"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central band"
+    },
+    {
+      "color": "red",
+      "symbolism": "the lower field"
     }
   ],
-  "description": "A red field bearing the coat of arms of the province of Cuenca.",
+  "description": "Horizontal bands of yellow, white and red, bearing the provincial coat of arms.",
   "history": "The flag of the province of Cuenca displays the provincial coat of arms on a solid field.",
   "variant": [
     "civil",
@@ -33,12 +42,15 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "red"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "white",
+        "red"
+      ]
     },
     {
       "type": "coat-of-arms",
-      "position": "center",
       "role": "provincial coat of arms"
     }
   ]

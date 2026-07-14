@@ -18,10 +18,15 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "yellow"
+      "color": "white",
+      "symbolism": "the upper triangle"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the lower triangle"
     }
   ],
-  "description": "A yellow field bearing the coat of arms of the province of Pontevedra.",
+  "description": "Divided diagonally, white over blue, bearing the provincial coat of arms.",
   "history": "The flag of the province of Pontevedra displays the provincial coat of arms on a solid field.",
   "variant": [
     "civil",
@@ -33,12 +38,14 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "yellow"
+      "type": "per-bend",
+      "stripes": [
+        "white",
+        "blue"
+      ]
     },
     {
       "type": "coat-of-arms",
-      "position": "center",
       "role": "provincial coat of arms"
     }
   ]
