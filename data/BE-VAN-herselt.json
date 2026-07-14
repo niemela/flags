@@ -1,0 +1,70 @@
+{
+  "id": "BE-VAN-herselt",
+  "name": "Herselt (Belgium)",
+  "type": [
+    "city"
+  ],
+  "parent": "BE-VAN",
+  "codes": {
+    "wikidata": "Q280182"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "red",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the border and letter"
+    }
+  ],
+  "description": "Nine vertical stripes of yellow and red with an engrailed blue border and a blue letter H at the centre.",
+  "history": "The flag of Herselt derives from the municipal coat of arms.",
+  "periods": [
+    {
+      "start": "1984-11-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Herselt_Belgium.svg",
+    "https://www.wikidata.org/wiki/Q280182"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9
+    },
+    {
+      "type": "bordure",
+      "color": "blue",
+      "role": "an engrailed blue border"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "a blue letter H"
+    }
+  ]
+}

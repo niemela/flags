@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<svg viewBox="0 -20 60 40" width="600" height="400"
+xmlns="http://www.w3.org/2000/svg" version="1.1"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<defs>
+<polygon id="star" transform="scale(6)"
+ points="-1,0 .7071,.7071 0,-1 -.7071,.7071 1,0 -.7071,-.7071 0,1 .7071,-.7071"/>
+<clipPath id="stars">
+<use x="25" xlink:href="#star"/>
+<use x="10" y="10" xlink:href="#star"/>
+<use x="10" y="-10" xlink:href="#star"/>
+</clipPath>
+</defs>
+
+<g id="bicolor">
+<rect fill="#0f47af" width="60" height="20"/>
+<rect fill="#fcdd09" width="60" height="20" y="-20"/>
+</g>
+<use transform="scale(1,-1)" xlink:href="#bicolor" clip-path="url(#stars)"/>
+
+</svg>

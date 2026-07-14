@@ -1,0 +1,69 @@
+{
+  "id": "BE-VAN-sint-katelijne-waver",
+  "name": "Sint-Katelijne-Waver (Belgium)",
+  "type": [
+    "city"
+  ],
+  "parent": "BE-VAN",
+  "codes": {
+    "wikidata": "Q696578"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the stripes and canton"
+    },
+    {
+      "color": "red",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "black",
+      "symbolism": "the eagle"
+    }
+  ],
+  "description": "Seven vertical stripes of yellow and red with a gold canton bearing a black eagle.",
+  "history": "The flag of Sint-Katelijne-Waver derives from the municipal coat of arms.",
+  "periods": [
+    {
+      "start": "1987-12-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Sint-Katelijne-Waver_vlag.svg",
+    "https://www.wikidata.org/wiki/Q696578"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 7
+    },
+    {
+      "type": "canton",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "a gold canton"
+    },
+    {
+      "type": "eagle",
+      "color": "black",
+      "position": "canton",
+      "role": "a black eagle"
+    }
+  ]
+}

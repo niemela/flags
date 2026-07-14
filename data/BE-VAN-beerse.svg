@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="528" height="352">
+
+<defs>
+<g id="star">
+<polygon id="h" fill="#fcdd09"
+ points="44,0 11,11 0,44 -11,11 -44,0 -11,-11 0,-44 11,-11"/>
+<use xlink:href="#h" transform="rotate(45)"/>
+</g>
+</defs>
+
+<rect fill="#0f47af" width="100%" height="100%"/>
+<use x="120" y="66" xlink:href="#star"/>
+<use x="408" y="66" xlink:href="#star"/>
+<use x="264" y="286" xlink:href="#star"/>
+
+<path id="embattled" fill="#fcdd09" transform="scale(12)"
+ d="M0,11 h4v2h4v-2h4v2h4v-2h4v2h4v-2h4v2h4v-2h4v2h4v-2h4v2h4V15H0"/>
+<use transform="matrix(1 0 0 -1 -48 352)" xlink:href="#embattled"/>
+
+</svg>

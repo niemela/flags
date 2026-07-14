@@ -1,0 +1,81 @@
+{
+  "id": "BE-VAN-retie",
+  "name": "Retie (Belgium)",
+  "type": [
+    "city"
+  ],
+  "parent": "BE-VAN",
+  "codes": {
+    "wikidata": "Q912062"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the pales"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the label"
+    },
+    {
+      "color": "white",
+      "symbolism": "the canton"
+    },
+    {
+      "color": "black",
+      "symbolism": "the canton"
+    }
+  ],
+  "description": "Gold with three red pales, an ermine canton and a blue label.",
+  "history": "The flag of Retie derives from the municipal coat of arms.",
+  "periods": [
+    {
+      "start": "1982-05-18"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Retie_vlag.svg",
+    "https://www.wikidata.org/wiki/Q912062"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 7,
+      "role": "gold with three red pales"
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "position": "hoist",
+      "role": "an ermine canton"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "a blue label with three pendants"
+    }
+  ]
+}

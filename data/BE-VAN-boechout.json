@@ -1,0 +1,73 @@
+{
+  "id": "BE-VAN-boechout",
+  "name": "Boechout (Belgium)",
+  "type": [
+    "city"
+  ],
+  "parent": "BE-VAN",
+  "codes": {
+    "wikidata": "Q723822"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the hoist and quarters"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "white",
+      "symbolism": "the quarters"
+    }
+  ],
+  "description": "Divided vertically: red over blue at the hoist, and quartered white and red at the fly.",
+  "history": "The flag of Boechout derives from the municipal coat of arms.",
+  "periods": [
+    {
+      "start": "1981-07-06"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Boechout.svg",
+    "https://www.wikidata.org/wiki/Q723822"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "role": "two vertical fields"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2,
+      "position": "hoist",
+      "role": "red over blue at the hoist"
+    },
+    {
+      "type": "quartered",
+      "quarters": [
+        "white",
+        "red",
+        "red",
+        "white"
+      ],
+      "position": "fly"
+    }
+  ]
+}

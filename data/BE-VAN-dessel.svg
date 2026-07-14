@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600" height="400"
+ viewBox="0 0 162 108"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<defs>
+<path id="engrail" fill="#fcdd09" d="M0,0
+ a1 1 0 0 0 2 0 a1 1 0 0 0 2 0 a1 1 0 0 0 2 0 a1 1 0 0 0 2 0 a1 1 0 0 0 2 0
+ a1 1 0 0 0 2 0 a1 1 0 0 0 2 0 a1 1 0 0 0 2 0 a1 1 0 0 0 2 0 a1 1 0 0 0 2 0
+ h3 v5 H-4 V0 z"/>
+</defs>
+
+<rect fill="#000" width="162" height="108"/>
+
+<g id="armx2">
+<g id="arm">
+<use xlink:href="#engrail" transform="matrix(3 2 -2 3 24 0)"/>
+<use xlink:href="#engrail" transform="matrix(3 2 2 -3 0 16)"/>
+</g>
+<use xlink:href="#arm" transform="matrix(-1 0 0 1 162 0)"/>
+</g>
+<use xlink:href="#armx2" transform="matrix(1 0 0 -1 0 108)"/>
+
+</svg>

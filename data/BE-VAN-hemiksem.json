@@ -1,0 +1,74 @@
+{
+  "id": "BE-VAN-hemiksem",
+  "name": "Hemiksem (Belgium)",
+  "type": [
+    "city"
+  ],
+  "parent": "BE-VAN",
+  "codes": {
+    "wikidata": "Q724448"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "red",
+      "symbolism": "the band"
+    },
+    {
+      "color": "black",
+      "symbolism": "the birds"
+    }
+  ],
+  "description": "Five vertical stripes of white and blue with a red angular band over all, accompanied above by three black birds.",
+  "history": "The flag of Hemiksem derives from the municipal coat of arms.",
+  "periods": [
+    {
+      "start": "1988-02-25"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Hemiksem_vlag.svg",
+    "https://www.wikidata.org/wiki/Q724448"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white"
+      ],
+      "count": 5
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "role": "a red angular band over all"
+    },
+    {
+      "type": "bird",
+      "color": "black",
+      "count": 3,
+      "position": "top",
+      "role": "three black birds"
+    }
+  ]
+}
