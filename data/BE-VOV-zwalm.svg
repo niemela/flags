@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+ xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 75 50"
+ width="600" height="400">
+
+<rect fill="#0f47af" width="75" height="50"/>
+<rect fill="none" stroke="#da121a" stroke-width="2" x="3" y="3" width="69" height="44"/>
+
+<svg viewBox="-18 -12 36 24">
+<g id="semi">
+<g id="quadrant">
+<path id="slice" fill="#fcdd09" d="M3,0 L0,.803848 0,-.803848z
+ M9.2,0 L7.02918,.705342 8.37082,-1.141268 V1.141268 L7.02981,-.705342z"/>
+<use transform="rotate(30)" xlink:href="#slice"/>
+<use transform="rotate(60)" xlink:href="#slice"/>
+</g>
+<use transform="rotate(90)" xlink:href="#quadrant"/>
+</g>
+<use transform="scale(-1)" xlink:href="#semi"/>
+</svg>
+
+</svg>

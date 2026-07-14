@@ -1,0 +1,64 @@
+{
+  "id": "BE-VOV-kaprijke",
+  "name": "Kaprijke (Belgium)",
+  "type": [
+    "city"
+  ],
+  "parent": "BE-VOV",
+  "codes": {
+    "wikidata": "Q12437"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "the hoist"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the fly"
+    },
+    {
+      "color": "black",
+      "symbolism": "the helmets"
+    }
+  ],
+  "description": "Two vertical stripes of red and blue with counterchanged helmets.",
+  "history": "The flag of Kaprijke derives from the municipal coat of arms.",
+  "periods": [
+    {
+      "start": "1980-06-10"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Kaprijke.svg",
+    "https://www.wikidata.org/wiki/Q12437"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "hoist",
+      "role": "a blue helmet on the red"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "fly",
+      "role": "a red helmet on the blue"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1" width="600" height="400" viewBox="0 0 60 40">
+<defs>
+<clipPath id="c">
+ <path id="shield" d="M20,8 V20 C20,26 25,30 30,32 C35,30 40,26 40,20 V8 z"/>
+</clipPath>
+</defs>
+<rect fill="#da121a" width="60" height="40"/>
+<g fill="#ffe800">
+<polygon points="60,0 0,40 60,40"/>
+<use xlink:href="#shield"/>
+</g>
+<g clip-path="url(#c)">
+<path id="chevron" fill="#da121a" d="M20,17.2 L30,8 L40,17.2 v2 L30,10 L20,19.2 z"/>
+<use y="4" xlink:href="#chevron"/>
+<use y="8" xlink:href="#chevron"/>
+<use y="12" xlink:href="#chevron"/>
+</g>
+<use xlink:href="#shield" fill="none" stroke="black" stroke-width=".3"/>
+</svg>
