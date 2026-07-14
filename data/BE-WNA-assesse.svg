@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="540" height="360">
+
+<rect fill="#0048a0" width="540" height="360"/>
+<line stroke="#ffe800" stroke-width="60" x2="540" y2="360"/>
+<g id="bezants" fill="#ffe800">
+  <circle r="40" cx="270" cy="60"/>
+  <circle r="40" cx="450" cy="60"/>
+  <circle r="40" cx="450" cy="180"/>
+</g>
+<use xlink:href="#bezants" transform="matrix(-1 0 0 -1 540 360)"/>
+
+</svg>

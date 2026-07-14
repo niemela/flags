@@ -1,0 +1,62 @@
+{
+  "id": "BE-WNA-beauraing",
+  "name": "Beauraing (Belgium)",
+  "type": [
+    "city"
+  ],
+  "parent": "BE-WNA",
+  "codes": {
+    "wikidata": "Q329621"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the bends and bars"
+    }
+  ],
+  "description": "Per pale: gold with red bends at the hoist, and gold barry with red at the fly.",
+  "history": "The flag of Beauraing derives from the municipal coat of arms.",
+  "periods": [
+    {
+      "start": "1999-03-06"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Beauraing.svg",
+    "https://www.wikidata.org/wiki/Q329621"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 2,
+      "position": "hoist",
+      "role": "red bends at the hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 4,
+      "position": "fly",
+      "role": "red bars at the fly"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width='900' height='600'>
+	<defs>
+		<symbol id='l' viewBox='0 0 14 14' preserveAspectRatio='none'>
+			<path d='M2,0h-2v2L12,14h2v-2z'/>
+			<path d='M3,0h1L14,10v1z'/>
+			<path d='M0,3v1L10,14h1z'/>
+		</symbol>
+	</defs>
+	<rect width='900' height='600' fill='#FCDD09'/>
+	<use xlink:href='#l' fill='#da121a' width='450' height='600'/>
+	<line x1='675' x2='675' y1='60' y2='600' stroke='#da121a' stroke-width='450' stroke-dasharray='60,60'/>
+</svg>
