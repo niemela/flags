@@ -1,0 +1,55 @@
+{
+  "id": "SE_royal",
+  "name": "Sweden (Royal Standard)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q34"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "shape": "swallowtail",
+  "aspect_ratio": "1:2",
+  "variant": [
+    "royal-standard"
+  ],
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A triple-tailed (tretungad) Swedish flag — blue with a yellow Nordic cross — charged at the centre of the cross with a white panel bearing the greater national arms of Sweden.",
+  "history": "The personal flag of the Swedish monarch, flown at the royal palaces and on vessels carrying the King. It is the three-tailed state flag with the greater coat of arms (with the Serafimer order chain) on a white panel at the cross centre.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Sweden",
+    "https://commons.wikimedia.org/wiki/File:Royal_standard_of_Sweden.svg"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "blue",
+      "cross": "yellow"
+    },
+    {
+      "type": "coat-of-arms",
+      "color": "yellow",
+      "position": "center",
+      "role": "greater royal arms of Sweden on a white panel"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "NL_royal",
+  "name": "Netherlands (Royal Standard)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q55"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "variant": [
+    "royal-standard"
+  ],
+  "colors": [
+    {
+      "color": "orange",
+      "symbolism": "the House of Orange-Nassau"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the Nassau cross"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A square orange flag divided into quarters by a nassau-blue cross bearing the crowned royal arms at its centre; each orange quarter contains a blue bugle-horn.",
+  "history": "Adopted in 1908 by Queen Wilhelmina and still in use. The orange field and bugle-horns refer to the Principality of Orange; the blue cross carries the arms of the Kingdom.",
+  "periods": [
+    {
+      "start": "1908"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_the_Netherlands#Royal_standard"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "orange",
+      "cross": "blue"
+    },
+    {
+      "type": "coat-of-arms",
+      "color": "blue",
+      "position": "center",
+      "role": "crowned royal arms of the Netherlands"
+    },
+    {
+      "type": "glyph",
+      "count": 4,
+      "color": "blue",
+      "position": "center",
+      "arrangement": "scattered",
+      "role": "bugle-horns of Orange in the four quarters"
+    }
+  ]
+}

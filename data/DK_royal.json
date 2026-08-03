@@ -1,0 +1,52 @@
+{
+  "id": "DK_royal",
+  "name": "Denmark (Royal Standard)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q35"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "shape": "swallowtail",
+  "aspect_ratio": "56:107",
+  "variant": [
+    "royal-standard"
+  ],
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "The Danish splitflag (swallow-tailed Dannebrog) with a central white square panel bearing the greater royal arms of Denmark surrounded by the collars of the Order of the Elephant and the Order of the Dannebrog.",
+  "history": "The personal flag of the Danish monarch, flown over Amalienborg when the monarch is in residence. The design — splitflag with the royal arms in a central panel — has been in use since the 19th century; the arms were last revised in 1972 and 2024.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Royal_Standard_of_Denmark",
+    "https://commons.wikimedia.org/wiki/File:Royal_Standard_of_Denmark.svg"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "red",
+      "cross": "white"
+    },
+    {
+      "type": "coat-of-arms",
+      "color": "yellow",
+      "position": "center",
+      "role": "greater royal arms of Denmark on a white square panel"
+    }
+  ]
+}
