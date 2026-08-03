@@ -1,0 +1,61 @@
+{
+  "id": "NZ-OTA",
+  "name": "Otago (New Zealand)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "NZ",
+  "codes": {
+    "iso_3166_2": "NZ-OTA",
+    "wikidata": "Q692912"
+  },
+  "region": [
+    "Oceania",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "2:3",
+  "status": "de-facto",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the southern sky and lakes"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "gold — the rush that built Otago"
+    }
+  ],
+  "description": "A blue field and a gold zigzag base of mountain peaks, with a gold eight-pointed star above and a blue one below.",
+  "history": "The Otago flag, chosen by public competition in 2004, shows the region's mountains in gold for the 1860s gold rush; the eight-point stars echo the province's Scottish founding and southern skies.",
+  "periods": [
+    {
+      "start": "2004"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Otago"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "yellow",
+      "position": "bottom",
+      "role": "zigzag mountain range"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 8,
+      "color": "yellow",
+      "position": "center",
+      "arrangement": "scattered",
+      "role": "one gold star above the peaks, one blue below"
+    }
+  ]
+}
