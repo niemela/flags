@@ -1,0 +1,58 @@
+{
+  "id": "british-raj",
+  "name": "British Raj (civil ensign)",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q129286"
+  },
+  "region": [
+    "Asia",
+    "Southern Asia"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A British red ensign defaced with the Star of India: the Order's star within a garter inscribed 'Heaven's Light Our Guide', ensigned by a crown.",
+  "history": "The red ensign borne by British India from the 1860s until 1947 — the closest thing the Raj had to a national flag, flown at international gatherings from the Olympics to the League of Nations.",
+  "periods": [
+    {
+      "start": "1863~",
+      "end": "1947"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "yellow",
+      "position": "fly",
+      "role": "Star of India badge under a Tudor crown"
+    }
+  ]
+}

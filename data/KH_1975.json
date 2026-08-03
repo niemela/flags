@@ -1,0 +1,63 @@
+{
+  "id": "KH_1975",
+  "name": "Cambodia (Khmer Republic, 1970–1975)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q424"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue field with a red canton bearing Angkor Wat in white and three white stars in the upper fly.",
+  "history": "Flag of Lon Nol's Khmer Republic (1970–1975), which fell to the Khmer Rouge.",
+  "periods": [
+    {
+      "start": "1970-10-09",
+      "end": "1975-04-17"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "features": [
+        {
+          "type": "temple",
+          "count": 1,
+          "color": "white",
+          "role": "Angkor Wat"
+        }
+      ]
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "white",
+      "position": "upper-fly",
+      "arrangement": "row"
+    }
+  ]
+}

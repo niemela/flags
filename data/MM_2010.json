@@ -1,0 +1,63 @@
+{
+  "id": "MM_2010",
+  "name": "Myanmar (1974–2010)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q836"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia"
+  ],
+  "aspect_ratio": "5:9",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A red field with a blue canton bearing a white cogwheel and rice plant ringed by fourteen white stars.",
+  "history": "The socialist flag adopted under Ne Win in 1974, flown until the 2010 constitution's yellow-green-red tricolor.",
+  "periods": [
+    {
+      "start": "1974-01-03",
+      "end": "2010-10-21"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "features": [
+        {
+          "type": "cogwheel",
+          "count": 1,
+          "color": "white",
+          "role": "cogwheel and rice"
+        },
+        {
+          "type": "star",
+          "count": 14,
+          "points": 5,
+          "color": "white",
+          "arrangement": "circle",
+          "role": "the fourteen states and regions"
+        }
+      ]
+    }
+  ]
+}

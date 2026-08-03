@@ -1,0 +1,62 @@
+{
+  "id": "korean-empire",
+  "name": "Korean Empire (1897–1910)",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q28233"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white",
+      "symbolism": "purity and peace"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A white field with a central red-and-blue taegeuk disc surrounded by four black trigrams.",
+  "history": "The Taegukgi as flown by the Korean Empire proclaimed in 1897, until Japan's annexation in 1910; the same design continues as the flag of South Korea.",
+  "periods": [
+    {
+      "start": "1897-10-12",
+      "end": "1910-08-29"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "taegeuk",
+      "count": 1,
+      "color": "red",
+      "position": "center"
+    },
+    {
+      "type": "glyph",
+      "count": 4,
+      "color": "black",
+      "position": "center",
+      "arrangement": "scattered",
+      "role": "four trigrams (geon, gon, gam, ri)"
+    }
+  ]
+}

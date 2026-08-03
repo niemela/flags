@@ -1,0 +1,64 @@
+{
+  "id": "shanghai-international-settlement",
+  "name": "Shanghai International Settlement (1863–1943)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "codes": {
+    "wikidata": "Q270930"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A white field with a red cross and saltire; at the centre the municipal seal displaying the flags of the treaty powers around the motto 'Omnia Juncta in Uno'.",
+  "history": "Flag of the Shanghai Municipal Council governing the International Settlement, the treaty-port enclave whose seal joined the flags of its founding powers 'all joined in one'. The settlement ended in 1943.",
+  "periods": [
+    {
+      "start": "1863",
+      "end": "1943"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "saltire",
+      "field": "white",
+      "saltire": "red"
+    },
+    {
+      "type": "greek-cross",
+      "field": "white",
+      "cross": "red"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "municipal seal with treaty-power flags — 'Omnia Juncta in Uno'"
+    }
+  ]
+}
