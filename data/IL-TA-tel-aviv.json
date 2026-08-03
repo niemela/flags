@@ -1,0 +1,56 @@
+{
+  "id": "IL-TA-tel-aviv",
+  "name": "Tel Aviv (Israel)",
+  "type": [
+    "city"
+  ],
+  "parent": "IL-TA",
+  "codes": {
+    "wikidata": "Q33935"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "Levant"
+  ],
+  "aspect_ratio": "5:7",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A white field between two horizontal blue stripes, charged at the centre with the emblem of Tel Aviv: a lighthouse gate within a red-ringed frame.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        4,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "emblem of Tel Aviv-Yafo"
+    }
+  ]
+}

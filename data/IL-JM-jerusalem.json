@@ -1,0 +1,57 @@
+{
+  "id": "IL-JM-jerusalem",
+  "name": "Jerusalem (Israel)",
+  "type": [
+    "city"
+  ],
+  "parent": "IL-JM",
+  "codes": {
+    "wikidata": "Q1218"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "Levant"
+  ],
+  "aspect_ratio": "5:7",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A white field between two horizontal blue stripes, charged at the centre with the golden Lion of Judah shield flanked by olive branches above the city's name in Hebrew.",
+  "history": "Adopted in 1949, placing the Lion of Judah — emblem of the ancient kingdom — on the tallit-striped field shared with the national flag.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        4,
+        1
+      ]
+    },
+    {
+      "type": "lion",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "Lion of Judah with olive branches"
+    }
+  ]
+}
