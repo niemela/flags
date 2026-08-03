@@ -1,0 +1,52 @@
+{
+  "id": "US-TN-memphis",
+  "name": "Memphis (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-TN",
+  "codes": {
+    "wikidata": "Q16563"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A field divided diagonally white, navy and red, charged at the centre with the golden seal of Memphis and Shelby County.",
+  "history": "Adopted in the 1960s, combining the national colours with the city seal.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Memphis,_Tennessee"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend",
+      "role": "white, navy and red diagonal panels"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "seal of Memphis"
+    }
+  ]
+}

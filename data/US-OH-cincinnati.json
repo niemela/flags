@@ -1,0 +1,58 @@
+{
+  "id": "US-OH-cincinnati",
+  "name": "Cincinnati (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-OH",
+  "codes": {
+    "wikidata": "Q43196"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A white field with three wavy blue stripes across the centre, overlaid by a red 'C' enclosing a winged caduceus and scimitar device.",
+  "history": "Designed in 1895 and officially adopted in 1940; the wavy stripes are the Ohio River and the C encloses devices from the city's seal.",
+  "periods": [
+    {
+      "start": "1940"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Cincinnati"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "wave",
+      "count": 3,
+      "color": "blue",
+      "position": "center",
+      "role": "the Ohio River"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "'C' for Cincinnati enclosing emblems from the city seal"
+    }
+  ]
+}

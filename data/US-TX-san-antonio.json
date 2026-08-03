@@ -1,0 +1,60 @@
+{
+  "id": "US-TX-san-antonio",
+  "name": "San Antonio (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-TX",
+  "codes": {
+    "wikidata": "Q975"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A field divided red over blue by a white lone star at the centre charged with the Alamo in gold.",
+  "history": "The design was adopted in 1976, placing the Alamo within the Texas lone star.",
+  "periods": [
+    {
+      "start": "1976~"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/San_Antonio"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "role": "lone star bearing the Alamo",
+      "symbolism": "the Lone Star of Texas and the Alamo, shrine of Texan liberty"
+    }
+  ]
+}
