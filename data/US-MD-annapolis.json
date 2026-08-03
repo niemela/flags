@@ -21,18 +21,18 @@
     },
     {
       "color": "yellow",
-      "symbolism": "gold ornamentation, evoking colonial naval and maritime heritage"
+      "symbolism": "the crown and the motto ribbon"
     },
     {
       "color": "red",
-      "symbolism": "accents on the central emblem"
+      "symbolism": "the Tudor rose and details of the crown"
     },
     {
-      "color": "black",
-      "symbolism": "outlines of the central emblem"
+      "color": "green",
+      "symbolism": "the stems and leaves of the sprig"
     }
   ],
-  "description": "A white field bearing a centred emblem depicting the dome of the Maryland State House with gold colonial-style ornamentation to either side.",
+  "description": "A white field bearing a royal crown above a sprig with a thistle and a Tudor rose, over a gold ribbon inscribed 'VIXI LIBER ET MORIAR' ('I have lived free and shall die free').",
   "history": "The current flag was adopted in 2020, replacing an earlier design and emphasising Annapolis's role as the capital of Maryland and its colonial and early-republic heritage.",
   "periods": [
     {
@@ -44,15 +44,28 @@
   ],
   "features": [
     {
-      "type": "complex",
-      "symbolism": "An emblematic composition centred on a representation of the dome of the Maryland State House, flanked by golden ornamental scrollwork suggestive of colonial-era ship's decoration, on a white field."
+      "type": "solid",
+      "color": "white"
     },
     {
-      "type": "building",
+      "type": "crown",
       "count": 1,
+      "color": "yellow",
+      "position": "top",
+      "role": "royal crown"
+    },
+    {
+      "type": "flower",
+      "count": 2,
+      "color": "green",
       "position": "center",
-      "role": "Maryland State House dome",
-      "symbolism": "The Maryland State House (built 1772–1779), the oldest U.S. state capitol in continuous legislative use and the meeting place of the Continental Congress in 1783–1784 when Annapolis served as the temporary capital of the United States."
+      "role": "thistle and Tudor rose on a green sprig"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "motto ribbon 'VIXI LIBER ET MORIAR'"
     }
   ]
 }

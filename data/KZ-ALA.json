@@ -1,7 +1,10 @@
 {
   "id": "KZ-ALA",
   "name": "Almaty (Kazakhstan)",
-  "type": ["city", "subdivision"],
+  "type": [
+    "city",
+    "subdivision"
+  ],
   "parent": "KZ",
   "codes": {
     "iso_3166_2": "KZ-ALA",
@@ -14,12 +17,24 @@
   ],
   "aspect_ratio": "1:2",
   "colors": [
-    { "color": "light-blue", "symbolism": "the sky over the Trans-Ili Alatau and the heritage of the Turkic peoples" },
-    { "color": "white", "symbolism": "the edge bands and the snowy peaks of the arms" },
-    { "color": "red", "symbolism": "the narrow bands framing the field" },
-    { "color": "yellow", "symbolism": "the golden coat of arms" }
+    {
+      "color": "white",
+      "symbolism": "the field"
+    },
+    {
+      "color": "red",
+      "symbolism": "the stripes along the top and bottom edges"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "the central emblem — the sky over the Trans-Ili Alatau"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the ornamental ring of the emblem"
+    }
   ],
-  "description": "A light-blue field with narrow red-and-white edge bands, charged centrally with the golden coat of arms of Almaty — featuring the snowy Tian Shan range, a snow leopard and an apple, the city's namesake.",
+  "description": "A white field with a red stripe along the top and bottom edges, charged centrally with the round emblem of Almaty — a snow leopard beneath the Tian Shan peaks on light blue, within a golden ornamental ring.",
   "history": "Almaty is the largest city in Kazakhstan and was the country's capital until 1997, when the seat of government was moved to Astana. The city has the status of a city of republican significance, administered separately from Almaty Region. The flag and coat of arms reflect both the surrounding Trans-Ili Alatau mountains and the apple from which the city's name derives (Kazakh almaty / alma = apple).",
   "periods": [
     {
@@ -33,14 +48,20 @@
   "features": [
     {
       "type": "solid",
-      "color": "light-blue"
+      "color": "white"
     },
     {
-      "type": "coat-of-arms",
-      "color": "yellow",
+      "type": "horizontal-stripes",
+      "count": 2,
+      "color": "red",
+      "role": "stripes along the top and bottom edges"
+    },
+    {
+      "type": "seal",
+      "color": "light-blue",
       "position": "center",
-      "role": "Coat of arms of Almaty",
-      "symbolism": "the Trans-Ili Alatau mountains, a snow leopard and an apple — the city's namesake"
+      "role": "emblem of Almaty",
+      "symbolism": "the Trans-Ili Alatau mountains, a snow leopard and the city's apple heritage"
     }
   ]
 }

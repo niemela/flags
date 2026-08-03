@@ -1,7 +1,9 @@
 {
   "id": "oas",
   "name": "Organization of American States",
-  "type": ["intergovernmental"],
+  "type": [
+    "intergovernmental"
+  ],
   "codes": {
     "wikidata": "Q123759"
   },
@@ -10,10 +12,16 @@
   ],
   "aspect_ratio": "2:3",
   "colors": [
-    { "color": "white", "symbolism": "the field" },
-    { "color": "blue", "symbolism": "details of the seal" }
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central disc bearing the seal"
+    }
   ],
-  "description": "A white field bearing the seal of the Organization of American States — a circle containing the flagpoles of the member states surrounding a central design — flanked or below by the names of the founding member states in their official languages.",
+  "description": "A blue field with a central white disc bearing the seal of the Organization of American States — the flagstaffs of the member states arranged in a fan.",
   "history": "The Organization of American States was founded in 1948 in Bogotá, Colombia. The flag bears the OAS seal, with vertical flagpoles representing the member states.",
   "periods": [
     {
@@ -26,13 +34,18 @@
   "features": [
     {
       "type": "solid",
-      "color": "white"
+      "color": "blue"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center",
+      "role": "white disc"
     },
     {
       "type": "seal",
-      "color": "blue",
       "position": "center",
-      "role": "Seal of the Organization of American States"
+      "role": "Seal of the Organization of American States (the member states' flags on crossed staffs)"
     }
   ]
 }

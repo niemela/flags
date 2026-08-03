@@ -17,13 +17,24 @@
   ],
   "aspect_ratio": "2:3",
   "colors": [
-    { "color": "blue", "symbolism": "the field" },
-    { "color": "white", "symbolism": "the diagonal stripes toward the fly" },
-    { "color": "green", "symbolism": "the departmental arms" },
-    { "color": "yellow", "symbolism": "the departmental arms" },
-    { "color": "black", "symbolism": "details of the arms" }
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the diagonal stripes toward the fly"
+    },
+    {
+      "color": "green",
+      "symbolism": "the wreath of the arms"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the sun of the arms"
+    }
   ],
-  "description": "A blue field with white diagonal stripes toward the fly, bearing the coat of arms of Salto department at the centre.",
+  "description": "A blue field with two groups of thin white diagonal stripes toward the fly, bearing the coat of arms of Salto department at the upper hoist.",
   "variant": [
     "civil",
     "state"
@@ -39,8 +50,17 @@
   ],
   "features": [
     {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "role": "two groups of thin diagonal stripes toward the fly"
+    },
+    {
       "type": "coat-of-arms",
-      "position": "center",
+      "position": "upper-hoist",
       "role": "departmental coat of arms"
     }
   ]

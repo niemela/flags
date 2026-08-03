@@ -20,19 +20,23 @@
   "colors": [
     {
       "color": "blue",
-      "symbolism": "the azure field of the historic Vasterbotten arms"
+      "symbolism": "the Västerbotten and Ångermanland fields"
     },
     {
       "color": "white",
-      "symbolism": "silver detailing in the reindeer charge"
+      "symbolism": "the reindeer, the salmon, and the field of the Lappland section"
     },
     {
       "color": "red",
-      "symbolism": "the quarters"
+      "symbolism": "the wild man of Lappland"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stars strewn on the Västerbotten field"
     }
   ],
-  "description": "A square blue flag charged centrally with the silver running reindeer of the Vasterbotten provincial arms, with gold antlers and hooves.",
-  "history": "Vasterbotten County's arms were granted on 18 January 1949, drawing on the older arms of the historic province of Lapland; the flag is the heraldic banner of those arms.",
+  "description": "A banner of the county arms: the upper half blue strewn with golden stars bearing a white reindeer (Västerbotten); the lower hoist white with a red wild man bearing a club (Lappland); the lower fly blue with three white salmon (Ångermanland).",
+  "history": "Västerbotten County's arms, granted on 18 January 1949, combine the arms of Västerbotten, Lappland and Ångermanland — parted per fess, the base per pale; the flag is the heraldic banner of those arms.",
   "periods": [
     {
       "start": "1949"
@@ -44,16 +48,29 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "blue"
+      "type": "complex",
+      "role": "arms of Västerbotten County: Västerbotten above Lappland and Ångermanland"
     },
     {
       "type": "animal-other",
       "count": 1,
       "color": "white",
-      "position": "center",
-      "role": "running reindeer of Vasterbotten",
-      "symbolism": "a silver reindeer in full course on the blue field, with gold antlers and hooves and a red tongue, referring to the reindeer-herding traditions of the historic Lapland that included parts of present-day Vasterbotten."
+      "position": "top",
+      "role": "running reindeer of Västerbotten"
+    },
+    {
+      "type": "human-figure",
+      "count": 1,
+      "color": "red",
+      "position": "lower-hoist",
+      "role": "wild man of Lappland"
+    },
+    {
+      "type": "animal-other",
+      "count": 3,
+      "color": "white",
+      "position": "lower-fly",
+      "role": "three salmon of Ångermanland"
     }
   ]
 }

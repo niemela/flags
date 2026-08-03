@@ -32,7 +32,7 @@
       "symbolism": "the lettering of the city's name"
     }
   ],
-  "description": "A white field bearing in the centre a phoenix rising from flames in red and gold; below the phoenix on a gold scroll the motto \"ORO EN PAZ, FIERRO EN GUERRA\" (\"Gold in Peace, Iron in War\"); along the lower edge in bold blue letters, the city name \"SAN FRANCISCO\". The flag is bordered top and bottom by a thin gold band.",
+  "description": "A white field bearing in the centre a phoenix rising from flames in red and gold; below the phoenix on a gold scroll the motto \"ORO EN PAZ, FIERRO EN GUERRA\" (\"Gold in Peace, Iron in War\"); along the lower edge in bold blue letters, the city name \"SAN FRANCISCO\". The flag is bordered in gold.",
   "history": "The original design was executed in 1900 by sculptor Robert Ingersoll Aitken — although the phoenix had been a civic symbol of San Francisco at least since 1852, when it featured on the city's first official seal. The Board of Supervisors codified the present design — adding the city name in bold blue letters along the bottom — on 16 December 1940. The phoenix is widely (though not exclusively) associated with the city's recovery from the 1906 earthquake and fires.",
   "periods": [
     {
@@ -46,7 +46,7 @@
     {
       "type": "solid",
       "color": "white",
-      "symbolism": "plain white field, framed top and bottom by a thin gold band"
+      "symbolism": "plain white field within a gold border"
     },
     {
       "type": "mythical-creature",
@@ -69,6 +69,11 @@
       "position": "bottom",
       "role": "city name \"SAN FRANCISCO\"",
       "symbolism": "the city name in bold blue letters along the lower edge, added by the Board of Supervisors on 16 December 1940"
+    },
+    {
+      "type": "border",
+      "color": "yellow",
+      "role": "gold border"
     }
   ]
 }

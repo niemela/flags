@@ -30,10 +30,10 @@
     },
     {
       "color": "black",
-      "symbolism": "thin separator lines between the bands; outline of the coat of arms and star"
+      "symbolism": "the archer, the jaguar, the star and the thin separator lines"
     }
   ],
-  "description": "A horizontal tricolour of green (about 9/13 of the height) at top, a narrow yellow band (1/13), and white at bottom (3/13), separated by very thin black lines; a black coat of arms and a small five-pointed star are placed near the fly side of the green band.",
+  "description": "A horizontal tricolour of green (about 9/13 of the height), a narrow yellow band and white at the bottom, separated by thin black lines; the green band bears black silhouettes of an indigenous archer and a leaping jaguar, and a small black five-pointed star sits on the yellow band near the fly.",
   "history": "Amazonas was created as an Intendancy in 1928 and elevated to a department by the 1991 Constitution. The flag combines the green of the rainforest with yellow for natural wealth and white for peace, with the departmental coat of arms shown towards the fly.",
   "periods": [
     {
@@ -65,12 +65,18 @@
       "symbolism": "green for the Amazonian rainforest, yellow for the wealth of the region, white for peace; very thin black lines separate the bands"
     },
     {
-      "type": "coat-of-arms",
+      "type": "human-figure",
       "count": 1,
       "color": "black",
-      "position": "center-fly",
-      "role": "coat of arms of Amazonas",
-      "symbolism": "the department's coat of arms, depicting elements of the Amazon (river, jungle, indigenous fauna and flora)"
+      "position": "hoist",
+      "role": "indigenous archer"
+    },
+    {
+      "type": "animal-other",
+      "count": 1,
+      "color": "black",
+      "position": "fly",
+      "role": "leaping jaguar"
     },
     {
       "type": "star",
@@ -78,7 +84,7 @@
       "points": 5,
       "color": "black",
       "position": "fly",
-      "symbolism": "a single five-pointed star at the fly side"
+      "role": "star on the yellow band"
     }
   ]
 }

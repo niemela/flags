@@ -30,7 +30,7 @@
       "symbolism": "purity (the crescent and star)"
     }
   ],
-  "description": "A field divided per saltire (X-pattern) into red and yellow quarters with a yellow canton in the upper hoist charged with a white crescent and a five-pointed white star.",
+  "description": "Quartered red and yellow, with a white crescent and five-pointed star in the red upper-hoist quarter.",
   "history": "The state flag of Selangor, in central Peninsular Malaysia. Adopted in 1965 by the Selangor Sultanate; the colours red and yellow represent the people and the Sultan respectively.",
   "variant": [
     "civil",
@@ -49,30 +49,23 @@
     {
       "type": "quartered",
       "quarters": [
-        "yellow",
         "red",
+        "yellow",
         "yellow",
         "red"
       ]
     },
     {
-      "type": "canton",
-      "color": "yellow",
-      "proportion": "1/4",
-      "features": [
-        {
-          "type": "crescent",
-          "color": "white",
-          "position": "center"
-        },
-        {
-          "type": "star",
-          "count": 1,
-          "points": 5,
-          "color": "white",
-          "position": "center"
-        }
-      ]
+      "type": "crescent",
+      "color": "white",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "upper-hoist"
     }
   ]
 }

@@ -29,11 +29,8 @@
       "symbolism": "the Sun of May; the wheat of the Pampa"
     },
     {
-      "color": "black"
-    },
-    {
       "color": "white",
-      "symbolism": "the bands"
+      "symbolism": "the central band"
     }
   ],
   "description": "Three horizontal bands of light blue, white and light blue, charged at the centre with the provincial arms: a green calden tree below a rising sun.",
@@ -49,33 +46,19 @@
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "light-blue",
-      "symbolism": "the celestial blue of the Argentine national flag and of the immense Pampean sky"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "light-blue"
+      ],
+      "count": 3
     },
     {
-      "type": "tree",
-      "count": 1,
-      "color": "green",
+      "type": "coat-of-arms",
       "position": "center",
-      "role": "calden tree (Prosopis caldenia)",
-      "symbolism": "the calden, provincial tree of La Pampa, emblematic of the semi-arid Pampean savanna"
-    },
-    {
-      "type": "sun",
-      "count": 1,
-      "color": "yellow",
-      "position": "upper-fly",
-      "role": "Sun of May",
-      "symbolism": "shared with the national flag of Argentina; commemorates the May Revolution of 1810"
-    },
-    {
-      "type": "horse",
-      "color": "black",
-      "count": 1,
-      "position": "lower-hoist",
-      "role": "Pampean horse",
-      "symbolism": "the gaucho tradition of the Pampa"
+      "role": "provincial arms of La Pampa",
+      "symbolism": "the calden tree (provincial tree of the Pampa) below the Sun of May, with a horseman evoking the gaucho tradition"
     }
   ]
 }

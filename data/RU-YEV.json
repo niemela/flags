@@ -19,6 +19,34 @@
     {
       "color": "white",
       "symbolism": "the field, evoking peace and the snowy expanses of the Russian Far East"
+    },
+    {
+      "color": "red",
+      "symbolism": "one of the seven rainbow stripes"
+    },
+    {
+      "color": "orange",
+      "symbolism": "one of the seven rainbow stripes"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "one of the seven rainbow stripes"
+    },
+    {
+      "color": "green",
+      "symbolism": "one of the seven rainbow stripes"
+    },
+    {
+      "color": "light-blue",
+      "symbolism": "one of the seven rainbow stripes"
+    },
+    {
+      "color": "blue",
+      "symbolism": "one of the seven rainbow stripes"
+    },
+    {
+      "color": "purple",
+      "symbolism": "one of the seven rainbow stripes"
     }
   ],
   "description": "A white field crossed by seven thin horizontal stripes through the middle, in rainbow order from top to bottom: red, orange, yellow, green, light-blue, blue and violet.",
@@ -36,14 +64,23 @@
     {
       "type": "solid",
       "color": "white",
-      "symbolism": "A white field bearing a horizontal rainbow of seven thin parallel stripes in the centre"
+      "symbolism": "the white field"
     },
     {
-      "type": "glyph",
-      "count": 1,
+      "type": "horizontal-stripes",
+      "count": 7,
+      "stripes": [
+        "red",
+        "orange",
+        "yellow",
+        "green",
+        "light-blue",
+        "blue",
+        "purple"
+      ],
       "position": "center",
-      "role": "rainbow",
-      "symbolism": "a horizontal rainbow of seven narrow stripes (red, orange, yellow, green, light-blue, blue, violet) recalling the seven days of creation, the seven branches of the menorah and the rainbow as the biblical sign of God's covenant"
+      "role": "rainbow band",
+      "symbolism": "a horizontal rainbow of seven narrow stripes recalling the seven days of creation, the seven branches of the menorah and the rainbow as the biblical sign of God's covenant"
     }
   ]
 }
