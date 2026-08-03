@@ -1,0 +1,67 @@
+{
+  "id": "IN_naval",
+  "name": "India (Naval Ensign)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q668"
+  },
+  "region": [
+    "Asia",
+    "Southern Asia",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "variant": [
+    "naval-ensign"
+  ],
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "A white field with the Indian tricolor in the canton and, toward the fly, a navy octagon bordered in gold enclosing the naval crest.",
+  "history": "The ensign adopted in September 2022, replacing the St George's cross with an octagonal crest drawn from Shivaji's maritime seal.",
+  "periods": [
+    {
+      "start": "2022-09-02"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "IN"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "navy",
+      "position": "fly",
+      "role": "octagonal crest of the Indian Navy",
+      "symbolism": "the octagon recalls the seal of Chhatrapati Shivaji Maharaj's navy"
+    }
+  ]
+}

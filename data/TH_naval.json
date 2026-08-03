@@ -1,0 +1,73 @@
+{
+  "id": "TH_naval",
+  "name": "Thailand (Naval Ensign)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q869"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "variant": [
+    "naval-ensign"
+  ],
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "The Thai tricolor charged at the centre with a red disc bearing a white elephant in full royal regalia.",
+  "history": "The ensign of the Royal Thai Navy since 1917, returning the old white elephant of Siam to the centre of the modern tricolor.",
+  "periods": [
+    {
+      "start": "1917"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue",
+        "white",
+        "red"
+      ],
+      "count": 5,
+      "widths": [
+        1,
+        1,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "red",
+      "position": "center"
+    },
+    {
+      "type": "animal-other",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "white elephant in regalia, facing the hoist",
+      "symbolism": "the auspicious white elephant of the Chakri kings"
+    }
+  ]
+}

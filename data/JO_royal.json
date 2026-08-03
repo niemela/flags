@@ -1,0 +1,74 @@
+{
+  "id": "JO_royal",
+  "name": "Jordan (Royal Standard)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q810"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "MENA",
+    "Levant",
+    "Arab World"
+  ],
+  "aspect_ratio": "1:2",
+  "variant": [
+    "royal-standard"
+  ],
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "The Jordanian flag charged at the centre with a golden crown on a white rayed disc.",
+  "history": "The personal standard of the King of Jordan: the national flag bearing the Hashemite crown.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "field": "white",
+      "triangle": "red",
+      "position": "hoist"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "white",
+      "position": "center"
+    },
+    {
+      "type": "crown",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "Hashemite royal crown"
+    }
+  ]
+}
