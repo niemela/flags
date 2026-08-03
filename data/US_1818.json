@@ -1,0 +1,68 @@
+{
+  "id": "US_1818",
+  "name": "United States (15 stars, 1795–1818)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q30"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "5:7",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Fifteen alternating red and white stripes with a navy canton bearing fifteen white five-pointed stars in staggered rows.",
+  "history": "The only US flag with fifteen stripes, adopted in 1795 after Vermont and Kentucky joined the Union. This is the 'Star-Spangled Banner' that flew over Fort McHenry during the British bombardment of 1814 and inspired Francis Scott Key's anthem. The 1818 Flag Act returned the stripes to thirteen and set one star per state.",
+  "periods": [
+    {
+      "start": "1795-05-01",
+      "end": "1818"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Star-Spangled_Banner_(flag)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 15
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "features": [
+        {
+          "type": "star",
+          "count": 15,
+          "points": 5,
+          "color": "white",
+          "arrangement": "grid",
+          "rows": [
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ]
+    }
+  ]
+}

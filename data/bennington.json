@@ -1,0 +1,69 @@
+{
+  "id": "bennington",
+  "name": "Bennington flag",
+  "type": [
+    "historical",
+    "organization"
+  ],
+  "codes": {
+    "wikidata": "Q4889892"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "5:9",
+  "status": "reconstructed",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Thirteen stripes, white outermost, with a tall navy canton bearing the numerals '76' beneath an arch of eleven seven-pointed stars, with one star in each upper corner.",
+  "history": "Traditionally associated with the Battle of Bennington (16 August 1777), though textile analysis suggests the surviving 'Bennington flag' is a 19th-century commemorative — possibly for the 1826 jubilee. Its inverted stripe order, seven-pointed stars and '76' make it one of the most distinctive American flag designs.",
+  "periods": [
+    {
+      "start": "18XX"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bennington_flag"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 13
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "features": [
+        {
+          "type": "glyph",
+          "count": 1,
+          "color": "white",
+          "role": "numerals '76'"
+        },
+        {
+          "type": "star",
+          "count": 13,
+          "points": 7,
+          "color": "white",
+          "arrangement": "arc",
+          "role": "eleven stars arching over '76', plus one in each upper corner"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "pow-mia",
+  "name": "POW/MIA flag (United States)",
+  "type": [
+    "organization"
+  ],
+  "codes": {
+    "wikidata": "Q1463762"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "black",
+      "symbolism": "mourning for the missing"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A black field with a central white disc bearing the black silhouette of a bowed prisoner before a guard tower and barbed wire, ringed by 'POW★MIA' above and 'YOU ARE NOT FORGOTTEN' below.",
+  "history": "Created in 1972 for the National League of Families of American Prisoners and Missing in Southeast Asia, designed by Newt Heisley. By act of Congress it is the only flag other than the Stars and Stripes to have flown over the White House, and since 2019 federal law requires it to be displayed at major federal buildings.",
+  "periods": [
+    {
+      "start": "1972"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/National_League_of_Families_POW/MIA_flag"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "black"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "white",
+      "position": "center"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "prisoner silhouette, guard tower and barbed wire with the motto 'YOU ARE NOT FORGOTTEN'"
+    }
+  ]
+}

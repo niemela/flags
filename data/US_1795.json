@@ -1,0 +1,65 @@
+{
+  "id": "US_1795",
+  "name": "United States (Betsy Ross flag, 1777–1795)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q30"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "10:19",
+  "colors": [
+    {
+      "color": "red",
+      "symbolism": "hardiness and valour"
+    },
+    {
+      "color": "white",
+      "symbolism": "purity and innocence"
+    },
+    {
+      "color": "navy",
+      "symbolism": "vigilance, perseverance and justice"
+    }
+  ],
+  "description": "Thirteen alternating red and white stripes with a navy canton bearing thirteen white five-pointed stars arranged in a circle.",
+  "history": "The first official US flag under the Flag Resolution of 14 June 1777, which specified thirteen stripes and thirteen stars but no arrangement. The circular arrangement is the famous 'Betsy Ross' pattern, traditionally attributed to the Philadelphia seamstress. Superseded in 1795 when two stars and stripes were added for Vermont and Kentucky.",
+  "periods": [
+    {
+      "start": "1777-06-14",
+      "end": "1795"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Betsy_Ross_flag"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 13
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "features": [
+        {
+          "type": "star",
+          "count": 13,
+          "points": 5,
+          "color": "white",
+          "arrangement": "circle",
+          "symbolism": "the thirteen original states as 'a new constellation'"
+        }
+      ]
+    }
+  ]
+}
