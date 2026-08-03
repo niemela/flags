@@ -1,0 +1,46 @@
+{
+  "id": "MM-16",
+  "name": "Mon State (Myanmar)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "MM",
+  "codes": {
+    "iso_3166_2": "MM-16",
+    "wikidata": "Q818742"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue field charged with a golden hintha bird above the state's name in Burmese script.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "hintha (hamsa)",
+      "symbolism": "the golden hintha of Mon legend, emblem of the Mon people"
+    }
+  ]
+}

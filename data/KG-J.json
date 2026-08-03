@@ -1,0 +1,59 @@
+{
+  "id": "KG-J",
+  "name": "Jalal-Abad Region (Kyrgyzstan)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "KG",
+  "codes": {
+    "iso_3166_2": "KG-J",
+    "wikidata": "Q487640"
+  },
+  "region": [
+    "Asia",
+    "Central Asia",
+    "Turkic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A light blue field with a golden ornamental band at the hoist, charged with the region's emblem.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "band of Kyrgyz ornament"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "regional emblem"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "PH-14",
+  "name": "Bangsamoro (Philippines)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PH",
+  "codes": {
+    "iso_3166_2": "PH-14",
+    "wikidata": "Q806550"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia"
+  ],
+  "aspect_ratio": "5:9",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal bands of green, white and red; the white band bears a golden crescent and seven-pointed star with a kris sword.",
+  "history": "Flag of the Bangsamoro Autonomous Region in Muslim Mindanao, created by the 2019 plebiscite that ended decades of conflict.",
+  "periods": [
+    {
+      "start": "2019"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "crescent",
+      "count": 1,
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 7,
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "sword",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "kris"
+    }
+  ]
+}
