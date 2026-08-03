@@ -1,0 +1,66 @@
+{
+  "id": "US-GA_2001",
+  "name": "Georgia (United States, 1956–2001)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "wikidata": "Q1428"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A vertical blue band at the hoist bearing the state seal in white; the fly is the Confederate battle flag — a red field with a white-fimbriated blue saltire of thirteen white stars.",
+  "history": "Georgia's state flag adopted in 1956, at the height of resistance to desegregation, incorporating the Confederate battle flag; decades of controversy ended with its replacement in 2001.",
+  "periods": [
+    {
+      "start": "1956-07-01",
+      "end": "2001-01-31"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "side",
+      "color": "navy",
+      "proportion": "1/3"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "color": "white",
+      "position": "hoist",
+      "role": "seal of Georgia"
+    },
+    {
+      "type": "saltire",
+      "field": "red",
+      "saltire": "navy",
+      "fimbriation": {
+        "color": "white",
+        "around": "saltire"
+      },
+      "role": "Confederate battle saltire with 13 stars"
+    }
+  ]
+}
