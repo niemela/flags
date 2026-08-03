@@ -1,0 +1,67 @@
+{
+  "id": "mewar-state",
+  "name": "Mewar (Udaipur State)",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q17319155"
+  },
+  "region": [
+    "Asia",
+    "Southern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "purple"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A field parted diagonally crimson over white, the crimson bearing a golden sun, crescent and katar dagger.",
+  "history": "Flag of Mewar, the senior Rajput house of Udaipur famed for never submitting to the Mughals; the sun marks the dynasty's solar lineage.",
+  "periods": [
+    {
+      "start": "18XX",
+      "end": "1949"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "purple",
+      "bend": "white",
+      "direction": "bend"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "the sun of the Suryavanshi Sisodias",
+      "symbolism": "the Maharanas of Mewar claim descent from the sun"
+    },
+    {
+      "type": "crescent",
+      "count": 1,
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "sword",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "katar"
+    }
+  ]
+}
