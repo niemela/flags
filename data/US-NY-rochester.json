@@ -1,0 +1,54 @@
+{
+  "id": "US-NY-rochester",
+  "name": "Rochester (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-NY",
+  "codes": {
+    "wikidata": "Q49218"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Vertical bands of blue, white and gold; the white band bears a shield with a flour mill and waterwheel above the name ROCHESTER.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "navy",
+        "white",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "flour mill shield",
+      "symbolism": "the Flour City's mills on the Genesee falls"
+    }
+  ]
+}

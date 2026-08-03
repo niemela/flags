@@ -1,0 +1,54 @@
+{
+  "id": "US-NY-syracuse",
+  "name": "Syracuse (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-NY",
+  "codes": {
+    "wikidata": "Q128069"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "A white pile spanning from the hoist between navy panels, charged with an orange six-pointed star.",
+  "history": "Syracuse adopted this design by public vote in 2021, replacing a seal-on-bedsheet flag.",
+  "periods": [
+    {
+      "start": "2021"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "pile",
+      "field": "navy",
+      "pile": "white",
+      "direction": "fly"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "orange",
+      "position": "center",
+      "symbolism": "the salt crystal of the old Salt City and the sun of the Onondaga"
+    }
+  ]
+}

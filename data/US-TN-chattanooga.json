@@ -1,0 +1,50 @@
+{
+  "id": "US-TN-chattanooga",
+  "name": "Chattanooga (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-TN",
+  "codes": {
+    "wikidata": "Q186702"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal bands of green, blue and green — the blue for the Tennessee River — charged with the city seal.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "blue",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "seal with Lookout Mountain and the river"
+    }
+  ]
+}

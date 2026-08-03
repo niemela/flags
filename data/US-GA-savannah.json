@@ -1,0 +1,60 @@
+{
+  "id": "US-GA-savannah",
+  "name": "Savannah (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-GA",
+  "codes": {
+    "wikidata": "Q83813"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A white field bordered red and blue, charged with the city seal in a ring of thirteen blue stars.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "bordure",
+      "field": "white",
+      "border": "blue"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "color": "black",
+      "position": "center"
+    },
+    {
+      "type": "star",
+      "count": 13,
+      "points": 5,
+      "color": "blue",
+      "position": "center",
+      "arrangement": "circle"
+    }
+  ]
+}
