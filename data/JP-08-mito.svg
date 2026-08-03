@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600" fill="#fff">
+<path d="M0 0H900V600H0z" fill="#0052ab"/>
+<g transform="translate(450 300) scale(2.1)">
+<g id="c">
+<g id="b">
+<path id="a" d="M-40 0H0v-100" transform="rotate(-15 0-100)"/>
+<use xlink:href="#a" transform="scale(-1 1)"/>
+</g>
+<use xlink:href="#b" transform="scale(1-1)"/>
+</g>
+<use xlink:href="#c" transform="rotate(60)"/>
+<use xlink:href="#c" transform="rotate(-60)"/>
+<circle r="28" stroke="#0052ab" stroke-width="4"/>
+<g id="d">
+<path d="M2 21v7h-4v-7z" fill="#0052ab"/>
+<path d="M-5-32H5v9H-5z"/>
+</g>
+<use xlink:href="#d" transform="rotate(120)"/>
+<use xlink:href="#d" transform="rotate(240)"/>
+</g>
+</svg>

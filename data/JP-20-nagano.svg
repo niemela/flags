@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600">
+<mask id="a">
+<circle r="25" fill="#fff"/>
+<path d="M-21 0A21 21 0 0 0 21 0zM2 0V25H25V0z" fill="#000"/>
+<path d="M4 2H26V26H4z" fill="#fff"/>
+</mask>
+<path d="M0 0 H900V600H0z" fill="#fff"/>
+<circle r="24" mask="url(#a)" fill="#00ab92" transform="translate(450 300) scale(7.5)"/>
+</svg>
