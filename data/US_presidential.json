@@ -1,26 +1,47 @@
 {
   "id": "US_presidential",
   "name": "United States (presidential standard)",
-  "type": ["country"],
+  "type": [
+    "country"
+  ],
   "codes": {
     "iso_3166_1_alpha2": "US",
-    "wikidata": "Q30"
+    "wikidata": "Q11696"
   },
-  "region": ["Americas", "Northern America", "Anglosphere"],
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
   "colors": [
-    { "color": "navy",   "symbolism": "the dark blue field" },
-    { "color": "white",  "symbolism": "the stars and shield field" }
+    {
+      "color": "navy",
+      "symbolism": "the dark blue field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stars and shield field"
+    }
   ],
   "description": "A dark blue field bearing in the centre the Seal of the President of the United States: a bald eagle with outstretched wings clasping an olive branch in its dexter talon and a bundle of thirteen arrows in its sinister, with a striped (red and white) shield on its breast surmounted by a blue chief, holding in its beak a scroll inscribed E PLURIBUS UNUM, surrounded by a ring of fifty white five-pointed stars.",
   "history": "The modern presidential flag was adopted by President Truman on 25 October 1945, replacing the 1916 design. A fiftieth star was added in 1959 with the admission of Hawaii.",
-  "variant": ["presidential-standard"],
-  "periods": [{ "start": "1959-08-21" }],
+  "variant": [
+    "presidential-standard"
+  ],
+  "periods": [
+    {
+      "start": "1959-08-21"
+    }
+  ],
   "sources": [
     "https://en.wikipedia.org/wiki/Flag_of_the_president_of_the_United_States",
     "https://en.wikipedia.org/wiki/Seal_of_the_president_of_the_United_States"
   ],
   "features": [
-    { "type": "solid", "color": "navy" },
+    {
+      "type": "solid",
+      "color": "navy"
+    },
     {
       "type": "seal",
       "position": "center",
