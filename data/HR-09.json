@@ -19,32 +19,41 @@
   "aspect_ratio": "1:2",
   "colors": [
     {
-      "color": "yellow"
-    },
-    {
-      "color": "blue"
-    },
-    {
       "color": "white",
-      "symbolism": "the bands"
+      "symbolism": "the field"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the stripes along the top and bottom edges"
     }
   ],
-  "description": "An armorial flag of Lika-Senj county, bearing its coat of arms in the centre.",
-  "history": "The flag bears the coat of arms of Lika-Senj county.",
+  "description": "A white field with a blue stripe along the top and bottom edges, bearing the gold-outlined coat of arms of Lika-Senj County — a golden Degenia velebitica flower on blue — in the centre.",
+  "history": "The county symbols were adopted on 22 December 1995. The coat of arms shows a Degenia velebitica flower, endemic to the Velebit mountains that dominate the county.",
   "variant": [
     "civil",
     "state"
   ],
   "periods": [
     {
-      "start": "199X"
+      "start": "1995-12-22"
     }
   ],
   "sources": [
+    "https://www.fotw.info/flags/hr-gs.html",
     "https://commons.wikimedia.org/wiki/Category:Flags_of_counties_of_Croatia",
     "https://www.wikidata.org/wiki/Q58081"
   ],
   "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "count": 2,
+      "color": "blue",
+      "role": "stripes along the top and bottom edges, each one seventh of the flag's height"
+    },
     {
       "type": "coat-of-arms",
       "position": "center",

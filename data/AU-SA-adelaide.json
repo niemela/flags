@@ -25,14 +25,18 @@
     },
     {
       "color": "yellow",
-      "symbolism": "the edging of the cross and the charges"
+      "symbolism": "the edging of the cross, the border, the fleece and the wheat sheaf"
     },
     {
       "color": "white",
       "symbolism": "the sails of the ship"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the ship's hull and the bull's head"
     }
   ],
-  "description": "A blue field quartered by a red cross edged in gold, the quarters bearing a sailing ship, a fleece, a bull's head and a wheat sheaf in gold.",
+  "description": "A blue field quartered by a red St George's cross edged in gold, the quarters bearing a sailing ship, a golden fleece, a bull's head and a wheat sheaf, within a border of diagonal blue and gold stripes on three sides.",
   "history": "The flag of the City of Adelaide displays the corporate arms of the city (named after Queen Adelaide, consort of King William IV). Adelaide was the first South Australian municipality, incorporated in 1840.",
   "periods": [
     {
@@ -41,6 +45,7 @@
   ],
   "sources": [
     "https://www.wikidata.org/wiki/Q24189944",
+    "https://en.wikipedia.org/wiki/Flag_of_Adelaide",
     "https://en.wikipedia.org/wiki/City_of_Adelaide"
   ],
   "features": [
@@ -60,12 +65,21 @@
     {
       "type": "animal-other",
       "color": "yellow",
-      "role": "fleece and bull's head"
+      "role": "golden fleece"
+    },
+    {
+      "type": "animal-other",
+      "color": "brown",
+      "role": "bull's head"
     },
     {
       "type": "wheat",
       "color": "yellow",
       "role": "wheat sheaf"
+    },
+    {
+      "type": "border",
+      "role": "diagonal blue and gold stripes along the top, bottom and fly edges"
     }
   ]
 }
