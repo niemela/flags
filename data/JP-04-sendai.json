@@ -1,0 +1,44 @@
+{
+  "id": "JP-04-sendai",
+  "name": "Sendai (Japan)",
+  "type": [
+    "city"
+  ],
+  "parent": "JP-04",
+  "codes": {
+    "wikidata": "Q46747"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "purple",
+      "symbolism": "the city's traditional deep violet, associated with the Date clan"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A deep violet field charged at the centre with the Sendai city emblem in white: the kanji 仙 (sen) stylised within a broken circle.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sendai",
+    "https://www.city.sendai.jp"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "purple"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Sendai city emblem — the kanji 仙 stylised in a circle",
+      "symbolism": "stylises 仙, the first character of Sendai"
+    }
+  ]
+}
