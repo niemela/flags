@@ -1,0 +1,59 @@
+{
+  "id": "mandatory-palestine",
+  "name": "Mandatory Palestine (civil ensign, 1927–1948)",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q23792"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "MENA",
+    "Levant",
+    "Arab World"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A British red ensign with a white disc at the fly inscribed 'PALESTINE'.",
+  "history": "The civil ensign of the British Mandate of Palestine (1927–1948) — the only distinct flag the Mandate ever flew, used by Palestine-registered shipping; on land the Union Jack flew.",
+  "periods": [
+    {
+      "start": "1927",
+      "end": "1948"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "white",
+      "position": "fly",
+      "role": "disc inscribed PALESTINE"
+    }
+  ]
+}

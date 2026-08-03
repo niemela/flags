@@ -1,0 +1,71 @@
+{
+  "id": "alawite-state",
+  "name": "Alawite State (1920–1936)",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q622738"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "MENA",
+    "Levant",
+    "Arab World"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the sun"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A white field charged with a golden sixteen-ray sun, a red triangle in each corner and the French tricolor in the canton.",
+  "history": "Flag of the Alawite State (later Latakia), one of the states France carved from its Syrian mandate, merged into Syria in 1936.",
+  "periods": [
+    {
+      "start": "1920",
+      "end": "1936"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 16,
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "triangle",
+      "field": "white",
+      "triangle": "red",
+      "count": 4,
+      "position": "center",
+      "role": "red corner triangles"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "FR"
+    }
+  ]
+}

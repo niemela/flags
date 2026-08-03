@@ -1,0 +1,63 @@
+{
+  "id": "state-of-aleppo",
+  "name": "State of Aleppo (1920–1924)",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q1064468"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "MENA",
+    "Levant",
+    "Arab World"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A white field with three golden six-pointed stars and the French tricolor in the canton.",
+  "history": "Flag of the State of Aleppo under the French mandate, federated into Syria from 1922 and merged in 1924.",
+  "periods": [
+    {
+      "start": "1920",
+      "end": "1924"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 6,
+      "color": "yellow",
+      "position": "center",
+      "arrangement": "scattered"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "FR"
+    }
+  ]
+}
