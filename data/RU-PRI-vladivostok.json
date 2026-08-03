@@ -1,0 +1,54 @@
+{
+  "id": "RU-PRI-vladivostok",
+  "name": "Vladivostok (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-PRI",
+  "codes": {
+    "wikidata": "Q959"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red field with a blue saltire fimbriated white, charged at the centre with a golden tiger on a shield.",
+  "history": "The saltire is St Andrew's — patron of the Russian Navy, whose Pacific Fleet is based in the city; the tiger has marked Vladivostok since 1883.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "saltire",
+      "field": "red",
+      "saltire": "blue",
+      "fimbriation": {
+        "color": "white",
+        "around": "saltire"
+      }
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "shield with the Siberian tiger of Vladivostok"
+    }
+  ]
+}

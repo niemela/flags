@@ -1,0 +1,57 @@
+{
+  "id": "CA-SK-regina",
+  "name": "Regina (Canada)",
+  "type": [
+    "city"
+  ],
+  "parent": "CA-SK",
+  "codes": {
+    "wikidata": "Q2123"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "4:7",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Two horizontal bands of blue and gold; in the canton a golden royal crown, the base charged with a wheat sheaf.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "crown",
+      "count": 1,
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "royal crown",
+      "symbolism": "the Queen City, named for Victoria"
+    },
+    {
+      "type": "wheat",
+      "count": 1,
+      "color": "yellow",
+      "position": "bottom",
+      "role": "wheat sheaf of the prairies"
+    }
+  ]
+}

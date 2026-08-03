@@ -1,0 +1,55 @@
+{
+  "id": "AU-TAS-hobart",
+  "name": "Hobart (Australia)",
+  "type": [
+    "city"
+  ],
+  "parent": "AU-TAS",
+  "codes": {
+    "wikidata": "Q40191"
+  },
+  "region": [
+    "Oceania",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue field with a golden eight-pointed star at the fly and the city crest — a red lion holding a boomerang above a mural crown — at the hoist.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "yellow",
+      "position": "fly"
+    },
+    {
+      "type": "crest",
+      "count": 1,
+      "color": "red",
+      "position": "hoist",
+      "role": "lion crest of Hobart"
+    }
+  ]
+}

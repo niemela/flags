@@ -1,0 +1,47 @@
+{
+  "id": "RU-KGD-kaliningrad",
+  "name": "Kaliningrad (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-KGD",
+  "codes": {
+    "wikidata": "Q1829"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A blue field with a white sailing ship on waves above a wave-band bearing amber roundels.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "ship",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "sailing ship",
+      "symbolism": "the Hanseatic seafaring past of Königsberg and the amber of the Baltic coast"
+    }
+  ]
+}

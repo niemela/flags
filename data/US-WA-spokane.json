@@ -1,0 +1,56 @@
+{
+  "id": "US-WA-spokane",
+  "name": "Spokane (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-WA",
+  "codes": {
+    "wikidata": "Q187805"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "5:9",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A white field crossed by a blue-and-white wavy river band over green, with a golden sun in the upper hoist.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "wave",
+      "count": 1,
+      "color": "light-blue",
+      "position": "center",
+      "role": "the Spokane River and falls"
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "the sun of the 'Children of the Sun'",
+      "symbolism": "the name of the Spokane people"
+    }
+  ]
+}

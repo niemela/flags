@@ -1,0 +1,60 @@
+{
+  "id": "RU-SAM-samara",
+  "name": "Samara (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-SAM",
+  "codes": {
+    "wikidata": "Q894"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal bands of red, white and light blue bearing the city arms — a white goat on green — and the name САМАРА in gold on the blue band.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "light-blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "coat-of-arms",
+      "color": "white",
+      "position": "center",
+      "role": "arms of Samara: a wild goat"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "yellow",
+      "position": "bottom",
+      "role": "САМАРА in gold letters"
+    }
+  ]
+}

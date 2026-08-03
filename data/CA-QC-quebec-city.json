@@ -1,0 +1,57 @@
+{
+  "id": "CA-QC-quebec-city",
+  "name": "Quebec City (Canada)",
+  "type": [
+    "city"
+  ],
+  "parent": "CA-QC",
+  "codes": {
+    "wikidata": "Q2145"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue field bordered in gold, charged with a golden sailing ship — Champlain's Don-de-Dieu — on a silver wave.",
+  "history": "Adopted in 1987 from the city arms; the ship is Champlain's Don-de-Dieu, the wall-like border the ramparts of North America's only walled city north of Mexico.",
+  "periods": [
+    {
+      "start": "1987"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "bordure",
+      "field": "blue",
+      "border": "yellow"
+    },
+    {
+      "type": "ship",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "the Don-de-Dieu",
+      "symbolism": "Samuel de Champlain's ship, which brought the city's founder in 1608"
+    }
+  ]
+}

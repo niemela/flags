@@ -1,0 +1,57 @@
+{
+  "id": "US-VA-richmond",
+  "name": "Richmond (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-VA",
+  "codes": {
+    "wikidata": "Q43421"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A blue field with white stars above red-and-white stripes forming a river, on which a boatman poles a bateau.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "star",
+      "count": 11,
+      "points": 5,
+      "color": "white",
+      "position": "top",
+      "arrangement": "arc"
+    },
+    {
+      "type": "human-figure",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "James River bateauman",
+      "symbolism": "the falls of the James, where Richmond was founded"
+    }
+  ]
+}
