@@ -1,0 +1,72 @@
+{
+  "id": "FI_presidential",
+  "name": "Finland (Presidential Standard)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q33"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "European Union"
+  ],
+  "shape": "swallowtail",
+  "aspect_ratio": "4:7",
+  "variant": [
+    "presidential-standard"
+  ],
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "The swallow-tailed-and-tongued Finnish state flag with the arms of Finland in the canton and the yellow-and-blue Cross of Liberty in the upper hoist corner.",
+  "history": "The standard of the President of Finland since 1920: the war flag with the Cross of Liberty, designed by Akseli Gallen-Kallela.",
+  "periods": [
+    {
+      "start": "1920"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "white",
+      "cross": "blue"
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "features": [
+        {
+          "type": "lion",
+          "count": 1,
+          "color": "yellow",
+          "role": "lion of Finland"
+        }
+      ]
+    },
+    {
+      "type": "latin-cross",
+      "field": "white",
+      "cross": "yellow",
+      "count": 1,
+      "position": "upper-hoist",
+      "role": "Cross of Liberty"
+    }
+  ]
+}

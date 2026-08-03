@@ -1,0 +1,62 @@
+{
+  "id": "RU_presidential",
+  "name": "Russia (Presidential Standard)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q159"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "1:1",
+  "variant": [
+    "presidential-standard"
+  ],
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A square Russian tricolor charged at the centre with the golden double-headed eagle of the Russian arms.",
+  "history": "The standard of the President of the Russian Federation, established in 1994.",
+  "periods": [
+    {
+      "start": "1994"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "eagle",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "double-headed eagle"
+    }
+  ]
+}
