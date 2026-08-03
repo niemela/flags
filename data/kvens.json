@@ -1,0 +1,63 @@
+{
+  "id": "kvens",
+  "name": "Kvens",
+  "type": [
+    "ethnic"
+  ],
+  "codes": {
+    "wikidata": "Q610315"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics"
+  ],
+  "status": "de-facto",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue field charged at the centre with a white-ringed red disc bearing a golden eight-spoked sun wheel.",
+  "history": "The Kven flag bears the aurinkopyörä (sun wheel), an ancient northern solar symbol, for the Kven people — descendants of Finnish-speaking migrants to northern Norway. It came into common use among Kven organizations in the 2010s and is flown on Kven People's Day (16 March).",
+  "periods": [
+    {
+      "start": "2017~"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kvens"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "fimbriation": {
+        "color": "white"
+      }
+    },
+    {
+      "type": "sun",
+      "count": 1,
+      "rays": 8,
+      "color": "yellow",
+      "position": "center",
+      "role": "sun wheel (aurinkopyörä)"
+    }
+  ]
+}

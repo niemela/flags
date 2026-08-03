@@ -1,0 +1,74 @@
+{
+  "id": "acadiana",
+  "name": "Acadiana (Louisiana, United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-LA",
+  "codes": {
+    "wikidata": "Q337417"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Francophonie"
+  ],
+  "aspect_ratio": "5:7",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A field parted per pall with the apex at the fly: a white triangle at the hoist bearing a gold star, a navy panel above with three white fleurs-de-lis, and a red panel below with a gold castle.",
+  "history": "Designed in 1965 by Thomas J. Arceneaux of the University of Southwestern Louisiana as the flag of the 22-parish Cajun heartland, officially recognized by Louisiana in 1974. The fleurs-de-lis recall Bourbon France, the castle Spanish Castile — Louisiana's two colonial mothers — and the gold star on white, like Acadia's flag, is Our Lady of the Assumption, patroness of the Acadians.",
+  "periods": [
+    {
+      "start": "1965"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Acadiana"
+  ],
+  "features": [
+    {
+      "type": "pall",
+      "field": "navy",
+      "pall": "white",
+      "direction": "fly",
+      "role": "white hoist triangle parting a navy upper and red lower field"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "hoist",
+      "symbolism": "Our Lady of the Assumption, patroness of the Acadians"
+    },
+    {
+      "type": "fleur-de-lis",
+      "count": 3,
+      "color": "white",
+      "position": "upper-fly",
+      "arrangement": "scattered",
+      "symbolism": "the France of the Bourbons"
+    },
+    {
+      "type": "building",
+      "count": 1,
+      "color": "yellow",
+      "position": "lower-fly",
+      "role": "tower of Castile",
+      "symbolism": "Spanish rule of colonial Louisiana"
+    }
+  ]
+}
