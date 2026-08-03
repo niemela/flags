@@ -1,0 +1,59 @@
+{
+  "id": "GB-SCT-caithness",
+  "name": "Caithness (United Kingdom)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "GB",
+  "codes": {
+    "wikidata": "Q864668"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A black field with a blue Nordic cross fimbriated in gold; in the canton a golden Viking galley.",
+  "history": "Registered with the Flag Institute in 2016. The Nordic cross marks the county's Norse past, black for the flagstone, gold for its beaches, blue for sea and sky.",
+  "periods": [
+    {
+      "start": "2016~"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caithness",
+    "https://www.flaginstitute.org/wp/uk-flags/"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "black",
+      "cross": "blue",
+      "fimbriation": {
+        "color": "yellow",
+        "around": "cross"
+      }
+    },
+    {
+      "type": "ship",
+      "count": 1,
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "Norse galley",
+      "symbolism": "Caithness's Norse heritage"
+    }
+  ]
+}
