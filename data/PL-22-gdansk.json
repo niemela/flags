@@ -1,0 +1,53 @@
+{
+  "id": "PL-22-gdansk",
+  "name": "Gdańsk (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-22",
+  "codes": {
+    "wikidata": "Q1792"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "3:4",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A red field charged with a golden crown above two white crosses in pale.",
+  "history": "Gdańsk has borne the crown and twin crosses since the 15th century, when King Casimir IV added the crown to the city's arms; the same design flew over the interwar Free City of Danzig.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "crown",
+      "count": 1,
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "greek-cross",
+      "field": "red",
+      "cross": "white",
+      "count": 2,
+      "role": "two couped crosses in pale"
+    }
+  ]
+}

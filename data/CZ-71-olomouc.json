@@ -1,0 +1,57 @@
+{
+  "id": "CZ-71-olomouc",
+  "name": "Olomouc (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-71",
+  "codes": {
+    "wikidata": "Q81137"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue field with the gold letters SPQO around a shield bearing the crowned chequered eagle of Moravia.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "Moravian chequered eagle"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "letters SPQO — Senatus Populusque Olomucensis",
+      "symbolism": "the city's Roman-style motto, echoing SPQR"
+    }
+  ]
+}

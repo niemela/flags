@@ -1,0 +1,53 @@
+{
+  "id": "CZ-80-ostrava",
+  "name": "Ostrava (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-80",
+  "codes": {
+    "wikidata": "Q8385"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A blue field charged with a white horse passant on a green mount and a golden rose in the upper fly.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "horse",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "the silver horse of Ostrava"
+    },
+    {
+      "type": "flower",
+      "count": 1,
+      "color": "yellow",
+      "position": "upper-fly",
+      "role": "golden rose"
+    }
+  ]
+}

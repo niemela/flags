@@ -1,0 +1,41 @@
+{
+  "id": "MK-85-skopje",
+  "name": "Skopje (North Macedonia)",
+  "type": [
+    "city"
+  ],
+  "parent": "MK-85",
+  "codes": {
+    "wikidata": "Q384"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans"
+  ],
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red field with the golden emblem of Skopje — the Stone Bridge over the Vardar beneath a fortress — in the upper hoist.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "Stone Bridge and Kale fortress emblem"
+    }
+  ]
+}

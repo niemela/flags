@@ -1,0 +1,48 @@
+{
+  "id": "PL-10-lodz",
+  "name": "Łódź (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-10",
+  "codes": {
+    "wikidata": "Q580"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A field of red over yellow charged at the centre with a small shield bearing the city's golden boat (łódka).",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "ship",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "łódka — the little boat of Łódź",
+      "symbolism": "a canting emblem: łódź means 'boat'"
+    }
+  ]
+}

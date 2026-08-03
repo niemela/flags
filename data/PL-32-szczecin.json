@@ -1,0 +1,49 @@
+{
+  "id": "PL-32-szczecin",
+  "name": "Szczecin (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-32",
+  "codes": {
+    "wikidata": "Q393"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal bars of red and blue charged at the centre with the crowned griffin arms of Szczecin.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "coat-of-arms",
+      "color": "yellow",
+      "position": "center",
+      "role": "crowned griffin of Pomerania"
+    }
+  ]
+}

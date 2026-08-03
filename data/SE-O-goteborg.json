@@ -1,0 +1,56 @@
+{
+  "id": "SE-O-goteborg",
+  "name": "Gothenburg (Sweden)",
+  "type": [
+    "city"
+  ],
+  "parent": "SE-O",
+  "codes": {
+    "wikidata": "Q25287"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "Scandinavia",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A blue field crossed by white wavy bends, charged with the golden lion of Gothenburg bearing a sword and a shield with the three crowns.",
+  "history": "A banner of the city arms granted at Gothenburg's founding in 1621: the Göta lion guarding Sweden's crowns between the river's silver streams.",
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "wave",
+      "count": 2,
+      "color": "white",
+      "position": "center",
+      "role": "wavy bends — the rivers"
+    },
+    {
+      "type": "lion",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "lion of Göta holding sword and the Three Crowns shield",
+      "symbolism": "the lion of the Göta river defending Sweden's three crowns"
+    }
+  ]
+}
