@@ -1,0 +1,82 @@
+{
+  "id": "bear-flag-1846",
+  "name": "California Republic (Bear Flag, 1846)",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q17557"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "status": "reconstructed",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A white field with a five-pointed star at the hoist and a grizzly bear facing it, above the words 'CALIFORNIA REPUBLIC' and a red stripe along the bottom.",
+  "history": "The original Bear Flag raised at Sonoma in June 1846 by American settlers proclaiming a California Republic that lasted 25 days; William Todd's crude bear became the ancestor of today's state flag. The original burned in the 1906 San Francisco fire.",
+  "periods": [
+    {
+      "start": "1846-06-14",
+      "end": "1846-07-09"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "brown",
+      "position": "upper-hoist",
+      "role": "lone star, echoing Texas"
+    },
+    {
+      "type": "animal-other",
+      "count": 1,
+      "color": "brown",
+      "position": "center",
+      "role": "grizzly bear"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "maroon"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "red base stripe"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "'CALIFORNIA REPUBLIC'"
+    }
+  ]
+}
