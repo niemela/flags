@@ -1,0 +1,59 @@
+{
+  "id": "free-france",
+  "name": "Free France (1940–1944)",
+  "type": [
+    "historical",
+    "organization"
+  ],
+  "codes": {
+    "wikidata": "Q152582"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "The French tricolor charged at the centre of the white stripe with a red Cross of Lorraine.",
+  "history": "Flag of Free France, the movement General de Gaulle proclaimed from London on 18 June 1940; the Cross of Lorraine — emblem of Joan of Arc's homeland — marked Free French forces until the Liberation.",
+  "periods": [
+    {
+      "start": "1940-06",
+      "end": "1944"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "latin-cross",
+      "field": "white",
+      "cross": "red",
+      "count": 1,
+      "position": "center",
+      "role": "Cross of Lorraine",
+      "symbolism": "the double-barred cross chosen by de Gaulle's Free French as the answer to the swastika"
+    }
+  ]
+}

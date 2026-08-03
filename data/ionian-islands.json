@@ -1,0 +1,63 @@
+{
+  "id": "ionian-islands",
+  "name": "United States of the Ionian Islands (1815–1864)",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q1063498"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue field bordered in red with the Union Jack in the canton and the winged lion of St Mark holding a gospel book and seven arrows in the fly.",
+  "history": "Flag of the United States of the Ionian Islands, the British protectorate over the seven islands from 1815 until their cession to Greece in 1864.",
+  "periods": [
+    {
+      "start": "1815",
+      "end": "1864"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "bordure",
+      "field": "blue",
+      "border": "red"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB"
+    },
+    {
+      "type": "lion",
+      "count": 1,
+      "color": "yellow",
+      "position": "fly",
+      "role": "winged lion of St Mark with seven arrows"
+    }
+  ]
+}

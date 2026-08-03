@@ -1,0 +1,67 @@
+{
+  "id": "duchy-of-milan",
+  "name": "Duchy of Milan",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q153529"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A banner quartered: gold quarters bearing the black imperial eagle, white quarters bearing the blue biscione — a serpent devouring a man.",
+  "history": "Banner of the Duchy of Milan under the Sforza (from 1450), quartering the imperial eagle with the Visconti serpent. The biscione remains Milan's most famous emblem.",
+  "periods": [
+    {
+      "start": "1450",
+      "end": "1535"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "yellow",
+        "white",
+        "white",
+        "yellow"
+      ]
+    },
+    {
+      "type": "eagle",
+      "count": 2,
+      "color": "black",
+      "position": "center",
+      "role": "imperial eagles in the gold quarters"
+    },
+    {
+      "type": "serpent",
+      "count": 2,
+      "color": "blue",
+      "position": "center",
+      "role": "the Visconti biscione in the white quarters",
+      "symbolism": "the serpent of the Visconti, retained by the Sforza dukes"
+    }
+  ]
+}
