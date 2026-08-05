@@ -283,6 +283,14 @@ main {
 .related-card .rl .rl-rel { color: var(--muted); font-size: 11px; }
 .rel-block { margin-bottom: 16px; }
 .rel-block h3 { font-size: 12.5px; color: var(--muted); margin: 0 0 8px; font-weight: 600; }
+.rel-block .rel-more, .rel-block .rel-toggle {
+  margin-top: 8px; background: none; border: none;
+  color: var(--accent); cursor: pointer; font-size: 12.5px; padding: 0;
+}
+.rel-former { margin-top: 10px; }
+.rel-note { color: var(--muted); font-size: 12.5px; margin: 0 0 8px; }
+.rel-crumbs { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; font-size: 13.5px; }
+.rel-crumbs .rel-sep { color: var(--muted); }
 
 .error { color: #ff9a9a; }
 

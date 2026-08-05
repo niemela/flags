@@ -54,6 +54,8 @@
   var INDEX = null;     // { count, facets, flags }
   var BY_ID = {};       // id -> entry
   var EMBEDDED_BY = {}; // id -> [ids that embed it]
+  var PRECEDED_BY = {};  // id -> [ids listing it as a successor]
+  var SUCCEEDED_BY = {}; // id -> [ids listing it as a predecessor]
   var renderLimit = 240;
   var NOW_YEAR = new Date().getFullYear();
   var SLIDER_FLOOR = 1700; // slider's left edge; older years still reachable by typed input/URL
@@ -69,6 +71,15 @@
         BY_ID[f.id] = f;
         (f.embeds || []).forEach(function (ref) {
           (EMBEDDED_BY[ref] = EMBEDDED_BY[ref] || []).push(f.id);
+        });
+        // Succession is authored one-way in the data; index the reverse so a
+        // page can show both "preceded by" and "succeeded by" regardless of
+        // which side the fact was recorded on.
+        (f.succ || []).forEach(function (ref) {
+          (PRECEDED_BY[ref] = PRECEDED_BY[ref] || []).push(f.id);
+        });
+        (f.pred || []).forEach(function (ref) {
+          (SUCCEEDED_BY[ref] = SUCCEEDED_BY[ref] || []).push(f.id);
         });
       });
       render();
@@ -676,6 +687,7 @@
 
     h += "</div></div>";
     app.innerHTML = h;
+    wireRelated();
   }
 
   function codesLine(id, flag) {
@@ -707,78 +719,240 @@
   }
 
   /* --------------------------- related flags --------------------------- */
+  // Relationships come from the data, not from the shape of the id. The one
+  // thing the id still tells us is which entries describe the same entity:
+  // everything before the first "_" is that entity key.
   function baseId(id) { return id.split("_")[0]; }
-  function hierParts(id) { return baseId(id).split("-"); }
+
+  var DATE_SEG = /^\d{4}(-\d{2})?(-\d{2})?$/;
+
+  // A date-suffixed id carries one segment that is a bare ISO date: US_1959,
+  // HU_1956-10, IS_state_1991 (which is variant-slugged too — the date wins,
+  // so it lands under "Through time" rather than "Other roles").
+  function isDated(id) {
+    var segs = id.split("_");
+    for (var i = 1; i < segs.length; i++) if (DATE_SEG.test(segs[i])) return true;
+    return false;
+  }
+
+  var ALT_STATUS = { alternative: 1, proposed: 1, "de-facto": 1, reconstructed: 1 };
+
+  // "In use today", reusing the time filter's own predicate so the detail page
+  // and the /date/current gallery can never disagree.
+  function isCurrent(f) { return matchesDate(f, "current"); }
+
+  // "1844–1905" · "1906–" · "1918, 1991–1995"
+  function yearRange(f) {
+    if (!f.t || !f.t.length) return "";
+    return f.t.map(function (s) {
+      if (s[0] != null && s[0] === s[1]) return String(s[0]);
+      return (s[0] == null ? "…" : s[0]) + "–" + (s[1] == null ? "" : s[1]);
+    }).join(", ");
+  }
+
+  // Sort key for "Through time": earliest start. Undated entries sort last,
+  // which is where the current flag belongs anyway.
+  function firstYear(f) {
+    if (!f.t || !f.t.length) return Infinity;
+    return f.t.reduce(function (lo, s) {
+      var y = s[0] == null ? -Infinity : s[0];
+      return y < lo ? y : lo;
+    }, Infinity);
+  }
+
+  // The FIAV role(s) this file fills, falling back to the filename's own
+  // variant slugs when the entry makes no `variant` claim.
+  function roleLabel(f) {
+    if (f.variant && f.variant.length) return f.variant.map(prettify).join(", ");
+    return f.id.split("_").slice(1)
+      .filter(function (s) { return !DATE_SEG.test(s); })
+      .map(prettify).join(", ");
+  }
+
+  function relatedCard(rid, label, hidden) {
+    var f = BY_ID[rid];
+    if (!f) return "";
+    return '<a class="related-card" data-nav' +
+      (hidden ? ' data-extra="1" style="display:none"' : "") +
+      ' href="' + detailURL(rid) + '">' +
+      '<div class="thumb"><img loading="lazy" alt="" src="' + svgURL(rid) + '"></div>' +
+      '<div class="rl"><div class="rl-name">' + esc(f.name) + '</div>' +
+      '<div class="rl-rel">' + esc(label || rid) + "</div></div></a>";
+  }
+
+  // A grid of cards, capped at `limit` with the rest rendered hidden behind an
+  // in-place "show all". Returns "" for an empty list so callers can just drop
+  // the block.
+  function relCards(ids, labelFn, limit) {
+    if (!ids.length) return "";
+    var h = '<div class="related-grid">';
+    ids.forEach(function (rid, i) {
+      h += relatedCard(rid, labelFn ? labelFn(BY_ID[rid]) : "", i >= limit);
+    });
+    h += "</div>";
+    if (ids.length > limit) {
+      h += '<button type="button" class="rel-more">Show all ' + ids.length + "</button>";
+    }
+    return h;
+  }
+
+  // Containment lists lead with what still exists and tuck the defunct entries
+  // behind a collapsed group — a Dutch province has far more former
+  // municipalities than current ones.
+  function relCardsSplit(ids, labelFn, limit) {
+    var cur = [], former = [];
+    ids.forEach(function (rid) { (isCurrent(BY_ID[rid]) ? cur : former).push(rid); });
+    var h = relCards(cur, labelFn, limit);
+    if (former.length) {
+      h += '<button type="button" class="rel-toggle" data-count="' + former.length +
+        '">Former (' + former.length + ")</button>" +
+        '<div class="rel-former" hidden>' + relCards(former, labelFn, limit) + "</div>";
+    }
+    return h;
+  }
 
   function relatedHTML(id) {
     var entry = BY_ID[id] || {};
-    var blocks = [];
+    var base = baseId(id);
+    var baseEntry = BY_ID[base] || {};
     var used = {}; used[id] = true;
 
-    function take(list) {
-      return list.filter(function (x) { return BY_ID[x] && !used[x]; })
-        .map(function (x) { used[x] = true; return x; });
+    // Claim ids for a block: drops unknown ids and anything an earlier block
+    // already showed, so every flag appears at most once on the page.
+    function take(ids) {
+      var out = [];
+      (ids || []).forEach(function (x) {
+        if (!BY_ID[x] || used[x]) return;
+        used[x] = true;
+        out.push(x);
+      });
+      return out;
+    }
+    function pick(pred) {
+      return INDEX.flags.filter(pred).map(function (f) { return f.id; });
     }
 
-    // Variants of the same base id (e.g. SE, SE_1905, SE_naval)
-    var variants = take(INDEX.flags.filter(function (f) {
-      return baseId(f.id) === baseId(id) && f.id !== id;
-    }).map(function (f) { return f.id; }));
-    if (variants.length) blocks.push(["Variants", variants]);
+    var blocks = [];
+    function block(title, html) { if (html) blocks.push([title, html]); }
 
-    // Parent
-    var parts = hierParts(id);
-    if (parts.length > 1) {
-      var parent = take([parts.slice(0, -1).join("-")]);
-      if (parent.length) blocks.push(["Part of", parent]);
+    // 1. Through time — this entity's flags across its history, oldest first.
+    var era = pick(function (f) {
+      return baseId(f.id) === base && (isDated(f.id) || f.id === base);
+    }).sort(function (a, b) { return firstYear(BY_ID[a]) - firstYear(BY_ID[b]); });
+    block("Through time", relCards(take(era), yearRange, 18));
+
+    // 2. Other roles — current flags of the same entity in a different official
+    //    role (naval ensign, royal standard, …).
+    var roles = take(pick(function (f) {
+      return baseId(f.id) === base && f.id !== base && !isDated(f.id) && isCurrent(f);
+    }));
+    block("Other roles", relCards(roles, roleLabel, 18));
+
+    // 3. Alternatives — parallel flags for the same subject. Matched on the
+    //    shared Wikidata item as well as the id, since an alternative often
+    //    lives under a slug of its own (GB-WLS-st-david ↔ GB-WLS, both Q25).
+    var pageIsAlt = !!ALT_STATUS[entry.status];
+    var alts = take(pick(function (f) {
+      if (!((entry.wd && f.wd === entry.wd) || baseId(f.id) === base)) return false;
+      return ALT_STATUS[f.status] ? true : (pageIsAlt && !f.status);
+    }));
+    block("Alternatives", relCards(alts, function (f) { return f.status || "official"; }, 18));
+
+    // 4. Part of — the containment chain, read off `parent` rather than guessed
+    //    from the id's hyphens.
+    var chain = [], seenUp = {}, up = entry.parent || baseEntry.parent;
+    while (up && BY_ID[up] && !seenUp[up]) {
+      seenUp[up] = 1; chain.push(up); up = BY_ID[up].parent;
+    }
+    if (chain.length) {
+      block("Part of", '<div class="rel-crumbs">' + chain.map(function (pid, i) {
+        return (i ? '<span class="rel-sep">›</span>' : "") +
+          '<a data-nav href="' + detailURL(pid) + '">' + esc(BY_ID[pid].name) + "</a>";
+      }).join("") + "</div>");
     }
 
-    // Children (one level down, base ids only)
-    var kids = take(INDEX.flags.filter(function (f) {
-      var p = hierParts(f.id);
-      return f.id === baseId(f.id) && p.length === parts.length + 1 &&
-        p.slice(0, parts.length).join("-") === parts.join("-");
-    }).map(function (f) { return f.id; }));
-    if (kids.length) blocks.push([parts.length === 1 ? "Subdivisions" : "Sub-flags", kids.slice(0, 18)]);
+    // Succession is claimed here, ahead of the containment blocks below, even
+    // though it renders after them: a merged municipality's successor is also
+    // one of its ~150 siblings, and "succeeded by Dongen" is the fact worth
+    // surfacing. Only one direction is authored in the data; the reverse maps
+    // supply the other.
+    var keys = id === base ? [base] : [id, base];
+    function succession(field, reverse) {
+      var out = [];
+      keys.forEach(function (k) {
+        ((BY_ID[k] || {})[field] || []).forEach(function (x) { out.push(x); });
+        (reverse[k] || []).forEach(function (x) { out.push(x); });
+      });
+      return take(out);
+    }
+    var precededBy = succession("pred", PRECEDED_BY);
+    var succeededBy = succession("succ", SUCCEEDED_BY);
 
-    // Siblings
-    if (parts.length > 1) {
-      var parentKey = parts.slice(0, -1).join("-");
-      var sibs = take(INDEX.flags.filter(function (f) {
-        var p = hierParts(f.id);
-        return f.id === baseId(f.id) && p.length === parts.length &&
-          p.slice(0, -1).join("-") === parentKey;
-      }).map(function (f) { return f.id; }));
-      if (sibs.length) blocks.push(["Sibling flags", sibs.slice(0, 12)]);
+    // 5. Contains — everything that names this entity as its parent.
+    var kids = take(pick(function (f) { return f.parent === base && f.id !== id; }));
+    block("Contains", relCardsSplit(kids, null, 18));
+
+    // 6. Siblings — everything sharing this entity's parent.
+    var myParent = entry.parent || baseEntry.parent;
+    var sibs = myParent ? take(pick(function (f) {
+      return f.parent === myParent && baseId(f.id) !== base;
+    })) : [];
+    block("Siblings", relCardsSplit(sibs, null, 12));
+
+    block("Preceded by", relCards(precededBy, null, 18));
+    block("Succeeded by", relCards(succeededBy, null, 18));
+
+    // 8. Embedding, both directions.
+    var appearsIn = (EMBEDDED_BY[id] || []).concat(id === base ? [] : (EMBEDDED_BY[base] || []));
+    block("Appears in", relCards(take(appearsIn), null, 18));
+    block("Contains the flag of", relCards(take(entry.embeds || []), null, 18));
+
+    // 9. Same design — byte-identical SVGs, computed in the index. Unlike the
+    //    blocks above this one does not skip what is already on the page: that
+    //    Brcko District is a subdivision of Bosnia and that it flies a
+    //    byte-identical flag are two different facts, and the second is the
+    //    surprising one.
+    var same = (entry.same || []).filter(function (x) { return BY_ID[x]; });
+    same.forEach(function (x) { used[x] = true; });
+    if (same.length) {
+      block("Same design", '<p class="rel-note">This exact design also serves as:</p>' +
+        relCards(same, null, 18));
     }
 
-    // Embedded references both directions
-    var embedRel = take((entry.embeds || []).concat(EMBEDDED_BY[id] || []));
-    if (embedRel.length) blocks.push(["Linked flags", embedRel.slice(0, 12)]);
-
-    // Similar: same dominant feature + shared colour
+    // 10. Similar style — the old shape-and-colour heuristic, now only over what
+    //     nothing above already claimed. Due for a proper rework.
     var dom = (entry.features || [])[0];
     if (dom) {
-      var sim = take(INDEX.flags.filter(function (f) {
+      var sim = take(pick(function (f) {
         if ((f.features || [])[0] !== dom) return false;
         return (entry.colors || []).some(function (c) { return (f.colors || []).indexOf(c) >= 0; });
-      }).map(function (f) { return f.id; }));
-      if (sim.length) blocks.push(["Similar style", sim.slice(0, 12)]);
+      })).slice(0, 12);
+      block("Similar style", relCards(sim, null, 12));
     }
 
     if (!blocks.length) return "<p>No related flags found.</p>";
 
     return blocks.map(function (b) {
-      return '<div class="rel-block"><h3>' + esc(b[0]) + '</h3><div class="related-grid">' +
-        b[1].map(relatedCard).join("") + "</div></div>";
+      return '<div class="rel-block"><h3>' + esc(b[0]) + "</h3>" + b[1] + "</div>";
     }).join("");
   }
 
-  function relatedCard(rid) {
-    var f = BY_ID[rid];
-    return '<a class="related-card" data-nav href="' + detailURL(rid) + '">' +
-      '<div class="thumb"><img loading="lazy" alt="" src="' + svgURL(rid) + '"></div>' +
-      '<div class="rl"><div class="rl-name">' + esc(f.name) + '</div><div class="rl-rel">' + esc(rid) + "</div></div></a>";
+  function wireRelated() {
+    app.querySelectorAll(".rel-more").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var grid = btn.previousElementSibling;
+        if (grid) grid.querySelectorAll("[data-extra]").forEach(function (c) { c.style.display = ""; });
+        btn.remove();
+      });
+    });
+    app.querySelectorAll(".rel-toggle").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var box = btn.nextElementSibling;
+        if (!box) return;
+        box.hidden = !box.hidden;
+        btn.textContent = (box.hidden ? "Former (" : "Hide former (") + btn.dataset.count + ")";
+      });
+    });
   }
 
   /* ------------------------------- about ------------------------------- */
