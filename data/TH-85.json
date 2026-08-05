@@ -1,0 +1,71 @@
+{
+  "id": "TH-85",
+  "name": "Ranong (Thailand)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "TH",
+  "codes": {
+    "iso_3166_2": "TH-85",
+    "wikidata": "Q236802"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Dark green field bearing the provincial seal — a shrine over clouds — with the fly third striped yellow and orange.",
+  "periods": [
+    {
+      "start": ".."
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Ranong.svg",
+    "https://en.wikipedia.org/wiki/Ranong_province"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "orange"
+      ],
+      "count": 9,
+      "position": "fly",
+      "role": "striped fly panel"
+    },
+    {
+      "type": "seal",
+      "position": "center-hoist",
+      "role": "provincial seal: shrine of the City Pillar"
+    }
+  ],
+  "history": "Thai provincial flags follow the common pattern of the provincial seal on a coloured field."
+}

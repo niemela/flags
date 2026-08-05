@@ -1,0 +1,71 @@
+{
+  "id": "TH-96",
+  "name": "Narathiwat (Thailand)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "TH",
+  "codes": {
+    "iso_3166_2": "TH-96",
+    "wikidata": "Q271442"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "Yellow field bearing the round provincial seal — a sailing kolek boat — with the fly quarter striped red and white.",
+  "periods": [
+    {
+      "start": ".."
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Narathiwat.svg",
+    "https://en.wikipedia.org/wiki/Narathiwat_province"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 7,
+      "position": "fly",
+      "role": "striped fly panel"
+    },
+    {
+      "type": "seal",
+      "position": "center-hoist",
+      "role": "provincial seal: kolek sailboat"
+    }
+  ],
+  "history": "Thai provincial flags follow the common pattern of the provincial seal on a coloured field."
+}
