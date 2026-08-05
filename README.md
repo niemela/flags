@@ -47,6 +47,8 @@ Examples:
 - `SUHH` — Soviet Union (ISO 3166-3)
 - `sapmi` - Sápmi (no ISO code applies)
 
+**Reserved code elements.** Beyond the assigned codes, ISO 3166-1 carries *reserved* code elements — held for entities that never received a full assignment. Where tiers 1–3 do not apply but such a code element exists for the entity, it is an acceptable id and is preferred over a slug. Zanzibar predates ISO 3166 and so has no 3166-1 or 3166-3 code of its own, but `EAZ` is the alpha-3 code element indeterminately reserved for it under the UN road-traffic conventions — so the 1964 People's Republic of Zanzibar flag lives at `EAZ` rather than a slug.
+
 #### When no ISO code applies to the entity itself
 
 Two patterns are valid, in order of preference:
