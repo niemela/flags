@@ -811,6 +811,60 @@
     return h;
   }
 
+  // Inverse-frequency weights for the similarity ranking, built once from the
+  // index facets. A value half the corpus carries says almost nothing about
+  // resemblance; `nordic-cross` or `hammer-and-sickle` says a great deal. The
+  // old heuristic weighted every feature equally and then sorted by name, so a
+  // flag whose dominant feature was `solid` got twelve alphabetical strangers.
+  var WEIGHTS = null;
+  function weightOf(kind, v) {
+    if (!WEIGHTS) {
+      WEIGHTS = { features: {}, colors: {} };
+      ["features", "colors"].forEach(function (k) {
+        (INDEX.facets[k] || []).forEach(function (pair) {
+          WEIGHTS[k][pair[0]] = 1 / Math.log(2 + pair[1]);
+        });
+      });
+    }
+    var w = WEIGHTS[kind][v];
+    return w === undefined ? 1 / Math.log(2) : w;
+  }
+
+  // Weighted Jaccard: shared weight over total weight, so a flag is not
+  // "similar" merely by carrying many features.
+  function weightedOverlap(kind, av, bv) {
+    var mark = {}, inter = 0, union = 0, v;
+    for (var i = 0; i < av.length; i++) mark[av[i]] = 1;
+    for (var j = 0; j < bv.length; j++) mark[bv[j]] = mark[bv[j]] ? 2 : 3;
+    for (v in mark) {
+      var w = weightOf(kind, v);
+      union += w;
+      if (mark[v] === 2) inter += w;
+    }
+    return union ? inter / union : 0;
+  }
+
+  var SIMILARITY_FLOOR = 0.22;
+
+  function rankBySimilarity(entry, used) {
+    var af = entry.features || [], ac = entry.colors || [];
+    if (!af.length) return [];
+    var scored = [];
+    INDEX.flags.forEach(function (f) {
+      if (used[f.id]) return;
+      var bf = f.features || [];
+      var shares = bf.some(function (v) { return af.indexOf(v) >= 0; });
+      if (!shares) return;
+      var score = 0.7 * weightedOverlap("features", af, bf) +
+                  0.3 * weightedOverlap("colors", ac, f.colors || []);
+      if (entry.aspect_ratio && f.aspect_ratio === entry.aspect_ratio) score += 0.05;
+      if (score < SIMILARITY_FLOOR) return;
+      scored.push([score, f.id]);
+    });
+    scored.sort(function (a, b) { return b[0] - a[0] || (a[1] < b[1] ? -1 : 1); });
+    return scored.map(function (x) { return x[1]; });
+  }
+
   function relatedHTML(id) {
     var entry = BY_ID[id] || {};
     var base = baseId(id);
@@ -927,16 +981,9 @@
         relCards(same, null, 18));
     }
 
-    // 10. Similar style — the old shape-and-colour heuristic, now only over what
-    //     nothing above already claimed. Due for a proper rework.
-    var dom = (entry.features || [])[0];
-    if (dom) {
-      var sim = take(pick(function (f) {
-        if ((f.features || [])[0] !== dom) return false;
-        return (entry.colors || []).some(function (c) { return (f.colors || []).indexOf(c) >= 0; });
-      })).slice(0, 12);
-      block("Similar style", relCards(sim, null, 12));
-    }
+    // 10. Similar style — visual neighbours, over whatever nothing above claimed.
+    var sim = take(rankBySimilarity(entry, used).slice(0, 12));
+    block("Similar style", relCards(sim, null, 12));
 
     if (!blocks.length) return "<p>No related flags found.</p>";
 
