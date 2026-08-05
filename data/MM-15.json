@@ -1,6 +1,6 @@
 {
   "id": "MM-15",
-  "name": "Rakhine State (Myanmar)",
+  "name": "Mon State (Myanmar)",
   "type": [
     "subdivision"
   ],
@@ -16,46 +16,38 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "red",
-      "symbolism": "primary field colour"
+      "color": "red"
     },
     {
-      "color": "white"
-    },
-    {
-      "color": "blue"
+      "color": "yellow"
     }
   ],
-  "description": "Flag of Rakhine State, of red over white over blue with the Rakhine state emblem at the centre.",
-  "history": "Used by the Rakhine State government as one of Myanmar's 14 first-level administrative subdivisions (seven regions and seven states, plus Naypyidaw Union Territory). Many regional and state flag designs follow a common pattern based on the national flag, charged with the regional seal.",
+  "description": "Flag of Mon State, a red field bearing a yellow hamsa (sacred goose) — the long-standing emblem of the Mon people.",
+  "history": "Used by the Mon State government as one of Myanmar's 14 first-level administrative subdivisions (seven regions and seven states, plus Naypyidaw Union Territory). Many regional and state flag designs follow a common pattern based on the national flag, charged with the regional seal.",
   "variant": [
     "civil",
     "state"
   ],
   "periods": [
     {
-      "start": "2018~"
+      "start": "2018-06-08"
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/Rakhine_State"
+    "https://en.wikipedia.org/wiki/Flag_of_Mon_State",
+    "https://en.wikipedia.org/wiki/Mon_State"
   ],
   "features": [
     {
-      "type": "horizontal-stripes",
-      "stripes": [
-        "red",
-        "white",
-        "blue"
-      ],
-      "count": 3,
-      "symbolism": "the colours of Rakhine state"
+      "type": "solid",
+      "color": "red"
     },
     {
-      "type": "seal",
+      "type": "bird",
+      "color": "yellow",
       "position": "center",
-      "role": "State seal of Rakhine State",
-      "symbolism": "the Rakhine state emblem"
+      "role": "Hamsa (Hintha) — sacred goose",
+      "symbolism": "the long-standing emblem of the Mon people, derived from the legendary founding of the city of Bago / Hanthawaddy"
     }
   ]
 }

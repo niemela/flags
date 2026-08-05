@@ -1,6 +1,6 @@
 {
   "id": "MM-05",
-  "name": "Magway Region (Myanmar)",
+  "name": "Tanintharyi Region (Myanmar)",
   "type": [
     "subdivision"
   ],
@@ -16,16 +16,17 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "yellow",
-      "symbolism": "the field"
+      "color": "red"
     },
     {
-      "color": "white",
-      "symbolism": "the central regional emblem"
+      "color": "blue"
+    },
+    {
+      "color": "green"
     }
   ],
-  "description": "A yellow field charged in the centre with the regional emblem and the region's name in Burmese script.",
-  "history": "Used by the Magway Region government as one of Myanmar's 14 first-level administrative subdivisions (seven regions and seven states, plus Naypyidaw Union Territory). Many regional and state flag designs follow a common pattern based on the national flag, charged with the regional seal.",
+  "description": "A horizontal tricolour of red, blue, and green bearing a golden naga (serpent) and the seal of Tanintharyi Region.",
+  "history": "Used by the Tanintharyi Region government as one of Myanmar's 14 first-level administrative subdivisions (seven regions and seven states, plus Naypyidaw Union Territory). Many regional and state flag designs follow a common pattern based on the national flag, charged with the regional seal.",
   "variant": [
     "civil",
     "state"
@@ -36,17 +37,23 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/Magway_Region"
+    "https://en.wikipedia.org/wiki/Tanintharyi_Region"
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "yellow"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue",
+        "green"
+      ],
+      "count": 3
     },
     {
       "type": "seal",
-      "color": "white",
-      "role": "Regional seal of Magway Region"
+      "position": "center",
+      "role": "Regional seal of Tanintharyi Region",
+      "symbolism": "the regional emblem of Tanintharyi Region, charged in the centre of the tricolour"
     }
   ]
 }

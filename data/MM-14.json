@@ -1,6 +1,6 @@
 {
   "id": "MM-14",
-  "name": "Mon State (Myanmar)",
+  "name": "Chin State (Myanmar)",
   "type": [
     "subdivision"
   ],
@@ -16,38 +16,51 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "red"
+      "color": "red",
+      "symbolism": "the field"
     },
     {
-      "color": "yellow"
+      "color": "blue",
+      "symbolism": "the chief"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stars and the disc"
+    },
+    {
+      "color": "green",
+      "symbolism": "the branch of the hornbill"
     }
   ],
-  "description": "Flag of Mon State, a red field bearing a yellow hamsa (sacred goose) — the long-standing emblem of the Mon people.",
-  "history": "Used by the Mon State government as one of Myanmar's 14 first-level administrative subdivisions (seven regions and seven states, plus Naypyidaw Union Territory). Many regional and state flag designs follow a common pattern based on the national flag, charged with the regional seal.",
+  "description": "A red field with a blue chief, an arc of white stars, and a central white disc bearing a hornbill perched on a branch.",
+  "history": "Used by the Chin State government as one of Myanmar's 14 first-level administrative subdivisions (seven regions and seven states, plus Naypyidaw Union Territory). Many regional and state flag designs follow a common pattern based on the national flag, charged with the regional seal.",
   "variant": [
     "civil",
     "state"
   ],
   "periods": [
     {
-      "start": "2018"
+      "start": "2018~"
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/Flag_of_Mon_State",
-    "https://en.wikipedia.org/wiki/Mon_State"
+    "https://en.wikipedia.org/wiki/Chin_State"
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "red"
+      "type": "horizontal-stripes",
+      "role": "blue chief on red"
     },
     {
-      "type": "bird",
-      "color": "yellow",
-      "position": "center",
-      "role": "Hamsa (Hintha) — sacred goose",
-      "symbolism": "the long-standing emblem of the Mon people, derived from the legendary founding of the city of Bago / Hanthawaddy"
+      "type": "star",
+      "color": "white",
+      "count": 9,
+      "role": "arc of stars"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "role": "disc with the hornbill"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
   "id": "MM-16",
-  "name": "Mon State (Myanmar)",
+  "name": "Rakhine State (Myanmar)",
   "type": [
     "subdivision"
   ],
   "parent": "MM",
   "codes": {
     "iso_3166_2": "MM-16",
-    "wikidata": "Q818742"
+    "wikidata": "Q233838"
   },
   "region": [
     "Asia",
@@ -16,36 +16,46 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "blue"
-    },
-    {
-      "color": "yellow"
+      "color": "red",
+      "symbolism": "primary field colour"
     },
     {
       "color": "white"
+    },
+    {
+      "color": "blue"
     }
   ],
-  "description": "A blue field charged with a golden hintha bird above the state's name in Burmese script.",
+  "description": "Flag of Rakhine State, of red over white over blue with the Rakhine state emblem at the centre.",
+  "history": "Used by the Rakhine State government as one of Myanmar's 14 first-level administrative subdivisions (seven regions and seven states, plus Naypyidaw Union Territory). Many regional and state flag designs follow a common pattern based on the national flag, charged with the regional seal.",
+  "variant": [
+    "civil",
+    "state"
+  ],
   "periods": [
     {
-      "start": "2010~"
+      "start": "2018~"
     }
   ],
   "sources": [
-    "https://en.wikipedia.org"
+    "https://en.wikipedia.org/wiki/Rakhine_State"
   ],
   "features": [
     {
-      "type": "solid",
-      "color": "blue"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "symbolism": "the colours of Rakhine state"
     },
     {
-      "type": "bird",
-      "count": 1,
-      "color": "yellow",
+      "type": "seal",
       "position": "center",
-      "role": "hintha (hamsa)",
-      "symbolism": "the golden hintha of Mon legend, emblem of the Mon people"
+      "role": "State seal of Rakhine State",
+      "symbolism": "the Rakhine state emblem"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "MM-03",
-  "name": "Mandalay Region (Myanmar)",
+  "name": "Magway Region (Myanmar)",
   "type": [
     "subdivision"
   ],
@@ -16,11 +16,16 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "red"
+      "color": "yellow",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the central regional emblem"
     }
   ],
-  "description": "A red field charged at the centre with the seal of Mandalay Region.",
-  "history": "Used by the Mandalay Region government as one of Myanmar's 14 first-level administrative subdivisions (seven regions and seven states, plus Naypyidaw Union Territory). Many regional and state flag designs follow a common pattern based on the national flag, charged with the regional seal.",
+  "description": "A yellow field charged in the centre with the regional emblem and the region's name in Burmese script.",
+  "history": "Used by the Magway Region government as one of Myanmar's 14 first-level administrative subdivisions (seven regions and seven states, plus Naypyidaw Union Territory). Many regional and state flag designs follow a common pattern based on the national flag, charged with the regional seal.",
   "variant": [
     "civil",
     "state"
@@ -31,18 +36,17 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/Mandalay_Region"
+    "https://en.wikipedia.org/wiki/Magway_Region"
   ],
   "features": [
     {
       "type": "solid",
-      "color": "red"
+      "color": "yellow"
     },
     {
       "type": "seal",
-      "position": "center",
-      "role": "Regional seal of Mandalay Region",
-      "symbolism": "the regional emblem of Mandalay Region, charged in the centre of the tricolour"
+      "color": "white",
+      "role": "Regional seal of Magway Region"
     }
   ]
 }
