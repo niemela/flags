@@ -50,16 +50,20 @@ def extract_license_md() -> str | None:
     return section
 
 
-def svg_rev(svg_path: Path) -> str | None:
-    """Short content hash of the sibling SVG, used for cache-busting the
-    <img> URLs. Changes only when the SVG bytes change, so fingerprinted
-    asset URLs can be cached indefinitely yet update the instant a flag is
-    re-rendered or replaced."""
+def svg_digest(svg_path: Path) -> str | None:
+    """Full SHA-256 of the sibling SVG.
+
+    The first 8 hex chars go into the entry as `rev` and cache-bust the <img>
+    URLs (they change only when the SVG bytes change, so fingerprinted asset
+    URLs can be cached indefinitely yet update the instant a flag is
+    re-rendered). The *full* digest is what groups byte-identical designs for
+    the `same` field — 8 chars is fine for cache-busting but far too short to
+    assert that two files are the same design."""
     try:
         data = svg_path.read_bytes()
     except OSError:
         return None
-    return hashlib.sha256(data).hexdigest()[:8]
+    return hashlib.sha256(data).hexdigest()
 
 
 def feature_types(flag: dict) -> list[str]:
@@ -148,6 +152,22 @@ def build_entry(flag: dict) -> dict:
         "variant": flag.get("variant") or [],
         "aspect_ratio": flag.get("aspect_ratio"),
     }
+    parent = flag.get("parent")
+    if isinstance(parent, str) and parent:
+        entry["parent"] = parent
+    status = flag.get("status")
+    if status and status != "de-jure":
+        entry["status"] = status
+    wd = (flag.get("codes") or {}).get("wikidata")
+    if wd:
+        entry["wd"] = wd
+    families = flag.get("families")
+    if families:
+        entry["families"] = list(families)
+    for src, dst in (("predecessors", "pred"), ("successors", "succ")):
+        vals = flag.get(src)
+        if vals:
+            entry[dst] = list(vals)
     refs = embedded_refs(flag)
     if refs:
         entry["embeds"] = refs
@@ -167,7 +187,9 @@ def build() -> dict:
         "types": {},
         "variants": {},
         "proportion": {},
+        "families": {},
     }
+    digests: dict[str, str] = {}   # id -> full SVG sha256
     for path in sorted(DATA_DIR.glob("*.json")):
         if path.name == "flags.json":
             continue
@@ -179,9 +201,10 @@ def build() -> dict:
         if not flag.get("id"):
             continue
         entry = build_entry(flag)
-        rev = svg_rev(path.with_suffix(".svg"))
-        if rev:
-            entry["rev"] = rev
+        digest = svg_digest(path.with_suffix(".svg"))
+        if digest:
+            entry["rev"] = digest[:8]
+            digests[entry["id"]] = digest
         flags.append(entry)
         for c in entry.get("colors", []):
             facets["colors"][c] = facets["colors"].get(c, 0) + 1
@@ -193,9 +216,28 @@ def build() -> dict:
             facets["types"][t] = facets["types"].get(t, 0) + 1
         for v in entry.get("variant", []):
             facets["variants"][v] = facets["variants"].get(v, 0) + 1
+        for fam in entry.get("families", []):
+            facets["families"][fam] = facets["families"].get(fam, 0) + 1
         ar = entry.get("aspect_ratio")
         if ar:
             facets["proportion"][ar] = facets["proportion"].get(ar, 0) + 1
+
+    # `same`: ids whose SVG is byte-for-byte identical to this one. Grouped on
+    # the full digest, not the truncated `rev`. Legitimately common — an ISO
+    # dual-coding pair (AS / US-AS), a subdivision flying its country's flag,
+    # a design shared by several municipalities.
+    by_digest: dict[str, list[str]] = {}
+    for fid, digest in digests.items():
+        by_digest.setdefault(digest, []).append(fid)
+    same_map = {
+        fid: sorted(g for g in group if g != fid)
+        for group in by_digest.values() if len(group) > 1
+        for fid in group
+    }
+    for entry in flags:
+        peers = same_map.get(entry["id"])
+        if peers:
+            entry["same"] = peers
 
     flags.sort(key=lambda e: (e.get("name") or e.get("id") or "").lower())
 

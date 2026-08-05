@@ -959,7 +959,7 @@ It is deliberately **not** a full copy of the metadata — it carries only the f
 
 - `version` — index schema version (currently `1`).
 - `count` — number of flags.
-- `facets` — `{ colors, features, regions, types, variants, proportion }`; each is a list of `[value, count]` pairs sorted by descending count, used to build the filter menus.
+- `facets` — `{ colors, features, regions, types, variants, proportion, families }`; each is a list of `[value, count]` pairs sorted by descending count, used to build the filter menus.
 - `flags` — the array of per-flag entries (described below).
 - `license_md` — the README's License section, carried so the about page can render it without duplicating the text.
 
@@ -970,6 +970,12 @@ Each entry in `flags` carries:
 - `colors` — colour **names** only (the source's `{ "color": …, … }` objects reduced to their `color`).
 - `features` — the distinct feature **`type`** strings, in first-seen order.
 - `aspect_ratio` — verbatim from the source.
+- `parent` — verbatim from the source (omitted when null). Containment is authoritative here, so the browser never infers it from the id.
+- `status` — only when it is not the `de-jure` default.
+- `wd` — the source's `codes.wikidata`. Lets the browser group a place's parallel flags (alternative, proposed, de-facto) even when their ids share no base.
+- `families` — the source array (omitted when empty).
+- `pred` / `succ` — the source's `predecessors` / `successors`, exactly as authored. The browser computes the symmetric closure itself, so only one side has to be recorded in the data.
+- `same` — the ids of other entries whose SVG is **byte-for-byte identical** to this one (omitted when unique). Grouped on the full SHA-256 of the file, not on the truncated `rev`.
 - `embeds` — ids referenced through any feature's `embedded_flag_id` (omitted when none).
 - `t` — temporal spans derived from the per-flag `periods` field: an array of `[start_year, end_year]` pairs at **year** granularity. `end` is `null` for an ongoing/current flag, and the whole field is omitted when the flag has no `periods`. Drives the browser's `date` filter (see [Browser](#browser)).
 - `rev` — short content hash of the SVG, used to cache-bust the image URL; it changes only when the SVG bytes change.
@@ -980,8 +986,8 @@ A representative entry:
 { "id": "AI", "name": "Anguilla (United Kingdom)", "type": ["subdivision"],
   "region": ["Americas", "Latin America", "Caribbean", "Commonwealth", "Anglosphere"],
   "colors": ["navy", "white", "red"], "features": ["solid", "canton", "coat-of-arms"],
-  "variant": ["civil", "state"], "aspect_ratio": "1:2", "embeds": ["GB"],
-  "t": [[1990, null]], "rev": "6162957e" }
+  "variant": ["civil", "state"], "aspect_ratio": "1:2", "parent": "GB",
+  "wd": "Q25228", "embeds": ["GB"], "t": [[1990, null]], "rev": "6162957e" }
 ```
 
 ## Browser
