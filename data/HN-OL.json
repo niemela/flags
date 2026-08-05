@@ -1,0 +1,65 @@
+{
+  "id": "HN-OL",
+  "name": "Olancho Department (Honduras)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "HN",
+  "codes": {
+    "iso_3166_2": "HN-OL",
+    "wikidata": "Q867089"
+  },
+  "region": [
+    "Americas",
+    "Central America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with a central green band, charged with a light blue ring of stars.",
+  "periods": [
+    {
+      "start": ".."
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Olancho_Department,_Honduras.svg",
+    "https://en.wikipedia.org/wiki/Olancho_Department"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "white"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "circle",
+      "color": "light-blue",
+      "position": "center",
+      "role": "ring set with small stars"
+    }
+  ]
+}
