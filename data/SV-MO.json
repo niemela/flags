@@ -1,0 +1,57 @@
+{
+  "id": "SV-MO",
+  "name": "Morazán Department (El Salvador)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "SV",
+  "codes": {
+    "iso_3166_2": "SV-MO",
+    "wikidata": "Q1122836"
+  },
+  "region": [
+    "Americas",
+    "Central America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal red, green and yellow bands; an arc of golden stars for the department's municipalities above the motto DIOS UNION PROGRESO.",
+  "periods": [
+    {
+      "start": ".."
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Morazán_Department.svg",
+    "https://en.wikipedia.org/wiki/Morazán_Department"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "arc of golden stars above the motto DIOS UNION PROGRESO"
+    }
+  ]
+}

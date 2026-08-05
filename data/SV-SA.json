@@ -1,0 +1,61 @@
+{
+  "id": "SV-SA",
+  "name": "Santa Ana Department (El Salvador)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "SV",
+  "codes": {
+    "iso_3166_2": "SV-SA",
+    "wikidata": "Q671158"
+  },
+  "region": [
+    "Americas",
+    "Central America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Thirteen alternating blue and white stripes with a red canton bearing the round seal of Santa Ana.",
+  "periods": [
+    {
+      "start": ".."
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Santa_Ana,_El_Salvador.svg",
+    "https://en.wikipedia.org/wiki/Santa_Ana_Department"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 13
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "features": [
+        {
+          "type": "seal",
+          "role": "seal of Santa Ana"
+        }
+      ]
+    }
+  ],
+  "history": "Shared with the city of Santa Ana."
+}

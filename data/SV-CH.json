@@ -1,0 +1,67 @@
+{
+  "id": "SV-CH",
+  "name": "Chalatenango Department (El Salvador)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "SV",
+  "codes": {
+    "iso_3166_2": "SV-CH",
+    "wikidata": "Q522221"
+  },
+  "region": [
+    "Americas",
+    "Central America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "10:19",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal dark blue, white and green bands; CHALATENANGO in yellow on the white band and a white plough on the green band.",
+  "periods": [
+    {
+      "start": ".."
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Chalatenango.svg",
+    "https://en.wikipedia.org/wiki/Chalatenango_Department"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "CHALATENANGO"
+    },
+    {
+      "type": "tool",
+      "color": "white",
+      "position": "bottom",
+      "role": "plough"
+    }
+  ],
+  "history": "Shared with the departmental capital, Chalatenango."
+}

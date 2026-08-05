@@ -1,0 +1,60 @@
+{
+  "id": "SV-SS",
+  "name": "San Salvador Department (El Salvador)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "SV",
+  "codes": {
+    "iso_3166_2": "SV-SS",
+    "wikidata": "Q1543219"
+  },
+  "region": [
+    "Americas",
+    "Central America",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "5:9",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Nine alternating blue and white stripes with a red canton bearing the arms of San Salvador.",
+  "periods": [
+    {
+      "start": ".."
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_San_Salvador_Department.svg",
+    "https://en.wikipedia.org/wiki/San_Salvador_Department"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 9
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "features": [
+        {
+          "type": "coat-of-arms",
+          "role": "arms of San Salvador"
+        }
+      ]
+    }
+  ]
+}
