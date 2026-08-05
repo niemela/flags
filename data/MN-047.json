@@ -1,0 +1,63 @@
+{
+  "id": "MN-047",
+  "name": "Töv Province (Mongolia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "MN",
+  "codes": {
+    "iso_3166_2": "MN-047",
+    "wikidata": "Q276195"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Green field bearing a white traditional ornament beneath three orange discs, with a white-fimbriated orange stripe near the bottom edge.",
+  "periods": [
+    {
+      "start": ".."
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Tov_aymag_flag.svg",
+    "https://www.crwflags.com/fotw/flags/mn-prov.html",
+    "https://en.wikipedia.org/wiki/T%C3%B6v_Province"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "traditional ornament with three orange discs"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "orange",
+        "white"
+      ],
+      "count": 3,
+      "position": "bottom",
+      "proportion": "1/12",
+      "role": "white-fimbriated orange stripe"
+    }
+  ]
+}
