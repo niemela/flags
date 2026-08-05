@@ -281,6 +281,28 @@ The `id` of the parent entity, or `null` for top-level entities. The relationshi
 
 Memberships in intergovernmental organizations (Sweden's membership in the UN, NATO, EU) are *not* parent relationships — Sweden is not administratively part of NATO. Such memberships, when relevant, are captured via the `region` array (e.g., the `European Union` tag).
 
+#### `predecessors` / `successors` *(arrays of strings, optional)*
+
+The ids of the entities this one succeeded, and the ids of the entities that succeeded it. This records succession of the **entity or polity** — a state dissolving into successor states, a municipality merging into a neighbour, a colony becoming independent — and never succession of flags *within* one entity, which `periods` and the filename's date suffix already capture.
+
+Both fields live on the entity's **base entry** (the unsuffixed id) when one exists, and otherwise on the entity's chronologically last entry. Values are base ids too, never date- or variant-suffixed ones.
+
+Only one side needs authoring: the [browser](#browser) computes the reverse direction across the whole corpus, so recording a split once — as `successors` on the predecessor — is enough, and is the preferred place to put it. Author both directions only when each genuinely reads better on its own page.
+
+```json
+"successors": ["AT", "HU", "CSHH", "PL", "RO", "IT"]
+```
+
+on `austro-hungary`, the empire dissolved in 1918, and:
+
+```json
+"successors": ["NL-NB-dongen"]
+```
+
+on `NL-NB-s-gravenmoer_1996`, the municipality merged into Dongen at the start of 1997.
+
+A value naming an id not (yet) in the corpus is allowed and reported as a warning by `tools/validate.py`; an entry listing itself is an error.
+
 #### `codes` *(object, default `{}`)*
 
 Map of code-system → code value. The complete enumeration of recognized keys is below. No entity will have all of them (some pairs are mutually exclusive — ISO 3166-1 vs. 3166-2 vs. 3166-3 — and most non-state entities have only `wikidata`). Populate every key that applies; omit the rest.
@@ -383,6 +405,35 @@ de-facto        used in practice without official adoption
 proposed        designed but never officially adopted
 alternative     parallel flag in widespread use
 reconstructed   inferred from incomplete historical records
+```
+
+#### `families` *(array of strings, optional)*
+
+The design families the flag belongs to — shared visual traditions that cut across the corpus the way `region` cuts across it geographically. A flag may belong to several, or to none. Closed enum:
+
+```
+pan-african         green, yellow and red, after the flag of Ethiopia
+garvey              red, black and green, after Marcus Garvey's UNIA flag
+pan-arab            black, white, green and red, after the Arab Revolt flag
+pan-slavic          blue, white and red, after the 1848 Prague Slavic Congress
+gran-colombian      yellow, blue and red, after the flag of Gran Colombia
+central-american    the blue-white-blue triband of the Federal Republic of Central America
+british-ensign      a plain red, white or blue field with the Union Flag in the canton
+stars-and-stripes   a canton of stars over horizontal stripes, after the US flag
+ottoman             a red field with white crescent and star, after the late Ottoman Empire
+soviet              a red field with hammer, sickle and star, and its republic-level variants
+tricolore           three equal vertical bands, after the French tricolour
+prinsenvlag         the orange-white-blue (later red-white-blue) Dutch Prince's Flag triband
+```
+
+One canonical reference per value: [pan-african](https://en.wikipedia.org/wiki/Pan-African_colours), [garvey](https://en.wikipedia.org/wiki/Pan-African_flag), [pan-arab](https://en.wikipedia.org/wiki/Pan-Arab_colors), [pan-slavic](https://en.wikipedia.org/wiki/Pan-Slavic_colors), [gran-colombian](https://en.wikipedia.org/wiki/Flag_of_Gran_Colombia), [central-american](https://en.wikipedia.org/wiki/Flag_of_Central_America), [british-ensign](https://en.wikipedia.org/wiki/Ensign), [stars-and-stripes](https://en.wikipedia.org/wiki/Flag_of_the_United_States), [ottoman](https://en.wikipedia.org/wiki/Flags_of_the_Ottoman_Empire), [soviet](https://en.wikipedia.org/wiki/Flag_of_the_Soviet_Union), [tricolore](https://en.wikipedia.org/wiki/Flag_of_France), [prinsenvlag](https://en.wikipedia.org/wiki/Prince%27s_Flag).
+
+The [Nordic cross](https://en.wikipedia.org/wiki/Nordic_cross_flag) family is deliberately **not** in this enum: the `nordic-cross` feature type already encodes it exactly, and carrying it in both places would let the two disagree.
+
+Membership is a claim about design lineage, not about colour coincidence — populate a value only where a source makes the descent explicit.
+
+```json
+"families": ["pan-arab", "ottoman"]
 ```
 
 #### `periods` *(array of objects, optional)*
@@ -849,7 +900,7 @@ purple, brown
 
 14 values. The closed enum is intentionally compact; flag colors are usually defined abstractly (each country's "blue" or "red" is a different shade) and the SVG carries the precise hex values when needed. Heraldic *Or* (gold) and *Argent* (silver) are recorded as `yellow` and `white` respectively — visually identical, and the SVG carries any metallic shading when needed.
 
-### Variant, status, shape, feature types
+### Variant, status, shape, families, feature types
 
 See the field-by-field reference and the feature-type enum above.
 
@@ -859,6 +910,9 @@ Most country flag JSON files will omit these fields, relying on defaults:
 
 ```
 parent              null
+predecessors        omitted
+successors          omitted
+families            omitted
 shape               "rectangular"
 aspect_ratio        omitted
 variant             omitted (no FIAV claim made)

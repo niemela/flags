@@ -4,11 +4,12 @@
 Checks each data/<id>.json (and its sibling SVG) for:
   - JSON+SVG pairing and id <-> filename agreement
   - required fields and non-empty features/colors
-  - enum membership (type, region, shape, status, variant, feature type, color)
+  - enum membership (type, region, shape, status, variant, families, feature type, color)
   - the color-consistency rule (every color used in a feature is declared in `colors`)
   - aspect_ratio format (integer:integer, or the symbolic irrationals 1:phi / ~1.219:1)
   - ASCII-only filenames (no en/em dashes)
-  - cross-references: parent and embedded_flag_id resolve (warnings, not errors)
+  - cross-references: parent, embedded_flag_id, predecessors and successors
+    resolve (warnings, not errors); a self-referencing succession is an error
 
 Errors fail the run (exit 1); warnings do not unless --strict is given.
 
@@ -38,6 +39,12 @@ TYPE_ENUM = {
 SHAPE_ENUM = {"rectangular", "swallowtail", "double-pennant", "pennant", "burgee", "gonfalone", "complex"}
 
 STATUS_ENUM = {"de-jure", "de-facto", "proposed", "alternative", "reconstructed"}
+
+FAMILIES_ENUM = {
+    "pan-african", "garvey", "pan-arab", "pan-slavic", "gran-colombian",
+    "central-american", "british-ensign", "stars-and-stripes", "ottoman",
+    "soviet", "tricolore", "prinsenvlag",
+}
 
 VARIANT_ENUM = {
     "civil", "state", "war", "civil-ensign", "state-ensign", "naval-ensign",
@@ -250,6 +257,30 @@ def validate_file(path: Path, all_ids: set[str], rep: Report) -> None:
     elif variant is not None:
         rep.error(fid, "`variant` must be an array")
 
+    # families
+    families = flag.get("families")
+    if isinstance(families, list):
+        for fam in families:
+            if fam not in FAMILIES_ENUM:
+                rep.error(fid, f"`families` value not in enum: {fam!r}")
+    elif families is not None:
+        rep.error(fid, "`families` must be an array")
+
+    # predecessors / successors: shape only; resolution is checked below with
+    # the other cross-references.
+    for key in ("predecessors", "successors"):
+        val = flag.get(key)
+        if val is None:
+            continue
+        if not isinstance(val, list):
+            rep.error(fid, f"`{key}` must be an array")
+            continue
+        for ref in val:
+            if not isinstance(ref, str):
+                rep.error(fid, f"`{key}` entries must be strings, got {ref!r}")
+            elif ref == fid or ref == stem:
+                rep.error(fid, f"`{key}` lists the entry itself")
+
     # aspect_ratio
     if "aspect_ratio" in flag and not valid_aspect_ratio(flag["aspect_ratio"]):
         rep.error(fid, f"malformed `aspect_ratio`: {flag['aspect_ratio']!r}")
@@ -298,6 +329,13 @@ def validate_file(path: Path, all_ids: set[str], rep: Report) -> None:
     for ref in embedded_refs(flag):
         if ref not in all_ids:
             rep.warn(fid, f"`embedded_flag_id` references unknown id: {ref!r}")
+    for key in ("predecessors", "successors"):
+        refs = flag.get(key)
+        if not isinstance(refs, list):
+            continue
+        for ref in refs:
+            if isinstance(ref, str) and ref != fid and ref not in all_ids:
+                rep.warn(fid, f"`{key}` references unknown id: {ref!r}")
 
     # codes vs filename (warning — but the dual-coding pattern legitimately differs).
     codes = flag.get("codes") or {}
