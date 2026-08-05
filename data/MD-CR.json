@@ -1,0 +1,51 @@
+{
+  "id": "MD-CR",
+  "name": "Criuleni District (Moldova)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "MD",
+  "codes": {
+    "iso_3166_2": "MD-CR",
+    "wikidata": "Q2128862"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field with a red triangular pennant issuing from the hoist, charged with a white fortress tower.",
+  "periods": [
+    {
+      "start": ".."
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Drapel_Raionul_Criuleni.svg",
+    "https://en.wikipedia.org/wiki/Criuleni_District"
+  ],
+  "features": [
+    {
+      "type": "pile",
+      "field": "white",
+      "pile": "red",
+      "direction": "fly",
+      "role": "full-length hoist wedge"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center-hoist",
+      "role": "fortress tower"
+    }
+  ]
+}
