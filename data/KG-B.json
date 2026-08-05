@@ -1,0 +1,68 @@
+{
+  "id": "KG-B",
+  "name": "Batken Region (Kyrgyzstan)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "KG",
+  "codes": {
+    "iso_3166_2": "KG-B",
+    "wikidata": "Q487631"
+  },
+  "region": [
+    "Asia",
+    "Central Asia",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field with a Kyrgyz ornament band at the hoist and a white disc bearing the orange Aigul flower, ringed by five white stars.",
+  "periods": [
+    {
+      "start": ".."
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Batken_obl_flag.svg",
+    "https://en.wikipedia.org/wiki/Batken_Region"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "side",
+      "color": "yellow",
+      "proportion": "1/8",
+      "role": "hoist band with red Kyrgyz ornament"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center",
+      "role": "disc with Aigul flower"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "color": "white",
+      "points": 5,
+      "arrangement": "circle",
+      "role": "stars around the disc"
+    }
+  ]
+}
