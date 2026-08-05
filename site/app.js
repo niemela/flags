@@ -836,15 +836,23 @@
     function block(title, html) { if (html) blocks.push([title, html]); }
 
     // 1. Through time — this entity's flags across its history, oldest first.
+    //    Only a real timeline: on a status-slugged page like GB-WLS_alternative
+    //    the bare base entry is the *official* flag, not an earlier one, so it
+    //    is left for Alternatives unless a dated entry is involved.
     var era = pick(function (f) {
       return baseId(f.id) === base && (isDated(f.id) || f.id === base);
     }).sort(function (a, b) { return firstYear(BY_ID[a]) - firstYear(BY_ID[b]); });
-    block("Through time", relCards(take(era), yearRange, 18));
+    if (isDated(id) || era.some(isDated)) {
+      block("Through time", relCards(take(era), yearRange, 18));
+    }
 
     // 2. Other roles — current flags of the same entity in a different official
-    //    role (naval ensign, royal standard, …).
+    //    role (naval ensign, royal standard, …). Status-slugged files such as
+    //    GB-WLS_alternative share the base id but are not a *role*, so they fall
+    //    through to Alternatives below.
     var roles = take(pick(function (f) {
-      return baseId(f.id) === base && f.id !== base && !isDated(f.id) && isCurrent(f);
+      return baseId(f.id) === base && f.id !== base && !isDated(f.id) &&
+        isCurrent(f) && !ALT_STATUS[f.status];
     }));
     block("Other roles", relCards(roles, roleLabel, 18));
 
