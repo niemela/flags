@@ -27,7 +27,8 @@
       "color": "yellow"
     }
   ],
-  "description": "A white field with a golden winged sun (Ashur) at the centre and red and blue wavy rays reaching to the four corners — the Assyrian flag.",
+  "description": "A white field with a four-pointed blue star around a golden disc at the centre, wavy red, white and blue rays reaching to the four corners, and the winged figure of the god Ashur above.",
+  "history": "The Assyrian flag was designed in 1968 by George Bit Atanus and adopted by the Assyrian Universal Alliance in 1971; the wavy rays represent the rivers of the Assyrian homeland — the Tigris, the Euphrates and the Zab — and the winged disc above bears Ashur, the chief deity of ancient Assyria.",
   "periods": [
     {
       "start": "1971"
@@ -44,17 +45,26 @@
       "color": "white"
     },
     {
-      "type": "sun",
-      "color": "yellow",
-      "role": "winged sun (Ashur)"
+      "type": "star",
+      "color": "blue",
+      "points": 4,
+      "position": "center",
+      "role": "four-pointed star around a golden disc"
     },
     {
       "type": "wave",
       "stripes": [
         "red",
+        "white",
         "blue"
       ],
-      "role": "rays to the corners"
+      "role": "rays to the corners",
+      "symbolism": "the Tigris, the Euphrates and the Zab"
+    },
+    {
+      "type": "complex",
+      "position": "top",
+      "role": "winged disc bearing the god Ashur"
     }
   ]
 }

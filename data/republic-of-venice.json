@@ -12,6 +12,7 @@
     "Europe",
     "Southern Europe"
   ],
+  "shape": "complex",
   "aspect_ratio": "863:1822",
   "colors": [
     {
@@ -21,7 +22,8 @@
       "color": "yellow"
     }
   ],
-  "description": "An ornate crimson banner bearing the golden Lion of Saint Mark within a decorative border — the flag of the Most Serene Republic of Venice.",
+  "description": "An ornate crimson banner bearing the golden winged Lion of Saint Mark within a decorative border, the fly cut into six pointed tails.",
+  "history": "The banner of the Most Serene Republic of Venice, flown until the republic fell to Napoleon in 1797; the Lion of Saint Mark remains the emblem of the city and the Veneto.",
   "periods": [
     {
       "start": "12XX",
@@ -35,7 +37,19 @@
   ],
   "features": [
     {
-      "type": "complex"
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "bordure",
+      "color": "yellow",
+      "role": "ornamental golden border framing the hoist panel"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "center-hoist",
+      "role": "winged Lion of Saint Mark holding a book"
     }
   ]
 }

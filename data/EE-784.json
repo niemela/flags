@@ -18,28 +18,33 @@
   "aspect_ratio": "1:2",
   "colors": [
     {
-      "color": "blue"
+      "color": "blue",
+      "symbolism": "strength and bravery, after the lions of the city's medieval arms"
     },
     {
-      "color": "white"
+      "color": "white",
+      "symbolism": "peace, freedom and integrity"
     }
   ],
-  "description": "A blue field charged with the coat of arms of Tallinn urban municipality in white and black.",
+  "description": "Six equal horizontal stripes alternating blue and white — three blue and three white, blue at the top.",
+  "history": "Tallinn's blue-and-white civic colours derive from the city's medieval heraldry and were flown as the standard of the city's merchant fleet in the Middle Ages. The present municipal flag and its 160 × 80 cm standard size were fixed in law in 1996.",
   "periods": [
     {
       "start": "1996~"
     }
   ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Tallinn"
+  ],
   "features": [
     {
-      "type": "solid",
-      "color": "blue",
-      "symbolism": "the field of the Tallinn flag"
-    },
-    {
-      "type": "coat-of-arms",
-      "position": "center",
-      "role": "coat of arms of Tallinn urban municipality"
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 6,
+      "symbolism": "Tallinn's traditional civic colours"
     }
   ]
 }

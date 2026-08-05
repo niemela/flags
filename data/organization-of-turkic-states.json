@@ -14,16 +14,16 @@
   "aspect_ratio": "2:3",
   "colors": [
     {
-      "color": "blue"
+      "color": "light-blue",
+      "symbolism": "the turquoise field shared by the Turkic flags"
     },
     {
-      "color": "white"
-    },
-    {
-      "color": "light-blue"
+      "color": "white",
+      "symbolism": "the emblem"
     }
   ],
-  "description": "A blue field bearing an eight-pointed white sun enclosing a light-blue disc with a crescent and star — the emblem of the Organization of Turkic States.",
+  "description": "A turquoise field bearing a white eight-pointed star frame enclosing a radiant sun with a crescent and an eight-pointed star.",
+  "history": "Flag of the Organization of Turkic States (the Turkic Council until 2021), the intergovernmental body of Turkic-speaking states; the emblem draws on symbols shared by the member states' own flags.",
   "periods": [
     {
       "start": "2012~"
@@ -37,17 +37,30 @@
   "features": [
     {
       "type": "solid",
-      "color": "blue"
+      "color": "light-blue"
     },
     {
       "type": "star",
       "points": 8,
       "color": "white",
-      "role": "eight-pointed sun"
+      "position": "center",
+      "role": "eight-pointed star frame"
+    },
+    {
+      "type": "sun",
+      "color": "white",
+      "position": "center",
+      "role": "radiant sun within the frame"
     },
     {
       "type": "crescent",
-      "color": "light-blue"
+      "color": "white"
+    },
+    {
+      "type": "star",
+      "points": 8,
+      "color": "white",
+      "role": "eight-pointed star within the crescent"
     }
   ]
 }

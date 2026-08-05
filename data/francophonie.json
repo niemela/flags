@@ -16,30 +16,33 @@
       "color": "white"
     },
     {
+      "color": "green"
+    },
+    {
       "color": "purple"
     },
     {
       "color": "red"
     },
     {
-      "color": "blue"
-    },
-    {
-      "color": "green"
+      "color": "light-blue"
     },
     {
       "color": "yellow"
     }
   ],
-  "description": "A white field bearing a central emblem of five curved bands — purple, red, blue, green and yellow — forming a ring.",
-  "history": "Flag of the Organisation internationale de la Francophonie, the association of French-speaking states and governments; the five colours represent the five continents.",
+  "description": "A white field bearing a central ring of five curved bands separated by gaps — green, purple, red, light blue and yellow.",
+  "history": "Flag of the Organisation internationale de la Francophonie, the association of French-speaking states and governments. The circular form conveys coming together and the five interlocking segments stand for the five continents on which members are found; the colours are drawn from the flags of the participating states and governments.",
   "periods": [
     {
       "start": "1970"
     }
   ],
   "sources": [
-    "https://www.wikidata.org/wiki/Q134102"
+    "https://www.wikidata.org/wiki/Q134102",
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20La%20Francophonie.svg",
+    "https://en.wikipedia.org/wiki/Organisation_internationale_de_la_Francophonie",
+    "https://www.canada.ca/en/canadian-heritage/services/flags-francophonie.html"
   ],
   "features": [
     {
@@ -47,9 +50,10 @@
       "color": "white"
     },
     {
-      "type": "complex",
+      "type": "circle",
       "position": "center",
-      "role": "emblem of five curved bands in purple, red, blue, green and yellow"
+      "role": "ring of five curved bands in green, purple, red, light blue and yellow",
+      "symbolism": "the five continents on which the members of La Francophonie are found"
     }
   ]
 }
