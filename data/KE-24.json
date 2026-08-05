@@ -1,0 +1,71 @@
+{
+  "id": "KE-24",
+  "name": "Mandera County (Kenya)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "KE",
+  "codes": {
+    "iso_3166_2": "KE-24",
+    "wikidata": "Q1477874"
+  },
+  "region": [
+    "Africa",
+    "Eastern Africa",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Red field with black, white and green wedges at the hoist, charged with a large white-outlined star ringed by eight smaller white stars.",
+  "periods": [
+    {
+      "start": ".."
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Mandera_County,_Kenya.svg",
+    "https://en.wikipedia.org/wiki/Mandera_County"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "triangle",
+      "field": "red",
+      "triangle": "black",
+      "role": "layered hoist wedges black, white and green"
+    },
+    {
+      "type": "star",
+      "color": "white",
+      "points": 5,
+      "position": "center",
+      "role": "large outlined star"
+    },
+    {
+      "type": "star",
+      "count": 8,
+      "color": "white",
+      "points": 5,
+      "arrangement": "circle",
+      "role": "ring of eight stars"
+    }
+  ],
+  "history": "Kenyan county flags were introduced after the counties were established under the 2010 constitution (devolution took effect in 2013)."
+}

@@ -1,0 +1,59 @@
+{
+  "id": "KE-43",
+  "name": "Turkana County (Kenya)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "KE",
+  "codes": {
+    "iso_3166_2": "KE-43",
+    "wikidata": "Q1633078"
+  },
+  "region": [
+    "Africa",
+    "Eastern Africa",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue upper field over green and maroon diagonal bands, charged in the centre with a white Turkana wrist knife.",
+  "periods": [
+    {
+      "start": ".."
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Turkana_County.svg",
+    "https://en.wikipedia.org/wiki/Turkana_County"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "green",
+      "direction": "bend-sinister",
+      "role": "lower part banded green and maroon"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "Turkana wrist knife (abarait)"
+    }
+  ],
+  "history": "Kenyan county flags were introduced after the counties were established under the 2010 constitution (devolution took effect in 2013)."
+}
