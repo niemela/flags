@@ -215,13 +215,24 @@
     });
   }
 
-  function navigate(href, replace) {
-    if (replace) history.replaceState({}, "", href);
-    else history.pushState({}, "", href);
+  // Going somewhere: a new place in history, and the top of it.
+  function goTo(href) {
+    history.pushState({}, "", href);
     render();
     window.scrollTo(0, 0);
   }
 
+  // Refining the browse view already on screen. The URL still updates on every
+  // toggle — shareability and reload-reproducibility are unchanged — but it
+  // replaces rather than pushes, so Back leaves the browse view instead of
+  // walking back through every chip click, and nothing scrolls.
+  function applyBrowseState(st) {
+    history.replaceState({}, "", browseURL(st));
+    renderBrowse(st);
+  }
+
+  // No scrollTo here: history.scrollRestoration is left at its default so the
+  // browser restores the previous scroll position itself.
   window.addEventListener("popstate", render);
 
   // Intercept internal link clicks for SPA navigation.
@@ -232,14 +243,14 @@
     var href = a.getAttribute("href");
     if (!href) return;
     e.preventDefault();
-    navigate(href);
+    goTo(href);
   });
 
   document.querySelector(".brand").addEventListener("click", function (e) {
-    e.preventDefault(); navigate(APP_ROOT);
+    e.preventDefault(); goTo(APP_ROOT);
   });
   document.getElementById("random-btn").addEventListener("click", function () {
-    navigate(APP_ROOT + "random");
+    goTo(APP_ROOT + "random");
   });
 
   var searchTimer = null;
@@ -249,7 +260,8 @@
     searchTimer = setTimeout(function () {
       var st = currentBrowseState();
       st.q = val.trim();
-      navigate(browseURL(st), true);
+      renderLimit = 240;
+      applyBrowseState(st);
     }, 180);
   });
 
@@ -263,8 +275,12 @@
     if (!INDEX) return;
     var r = parseRoute();
     if (r.view === "random") {
+      // /random is a place we already pushed; swap the URL for the flag it
+      // picked rather than stacking a second entry.
       var f = INDEX.flags[Math.floor(Math.random() * INDEX.flags.length)];
-      navigate(detailURL(f.id), true);
+      history.replaceState({}, "", detailURL(f.id));
+      renderDetail(f.id);
+      window.scrollTo(0, 0);
       return;
     }
     if (r.view === "detail") { renderDetail(r.id); return; }
@@ -506,10 +522,13 @@
       btn.addEventListener("click", function () { setOnly(st, btn.dataset.removeonly, false); });
     });
     var clearAll = document.getElementById("clear-all");
-    if (clearAll) clearAll.addEventListener("click", function () { navigate(APP_ROOT); });
+    if (clearAll) clearAll.addEventListener("click", function () {
+      renderLimit = 240;
+      applyBrowseState(emptyState(new URLSearchParams("")));
+    });
     var clearQ = app.querySelector("[data-clearq]");
     if (clearQ) clearQ.addEventListener("click", function () {
-      var ns = cloneState(st); ns.q = ""; navigate(browseURL(ns));
+      var ns = cloneState(st); ns.q = ""; renderLimit = 240; applyBrowseState(ns);
     });
     wireTime(st);
   }
@@ -518,7 +537,7 @@
     var ns = cloneState(st);
     ns.date = dv;
     renderLimit = 240;
-    navigate(browseURL(ns));
+    applyBrowseState(ns);
   }
 
   function wireTime(st) {
@@ -573,7 +592,7 @@
     else if (i >= 0) { f.inc.splice(i, 1); f.exc.push(val); }  // include -> exclude
     else f.exc.splice(j, 1);                                   // exclude -> none
     renderLimit = 240;
-    navigate(browseURL(ns));
+    applyBrowseState(ns);
   }
 
   // Remove a value entirely (used by the result-bar pills).
@@ -583,7 +602,7 @@
     var j = f.exc.indexOf(val); if (j >= 0) f.exc.splice(j, 1);
     if (!f.inc.length) f.only = false;
     renderLimit = 240;
-    navigate(browseURL(ns));
+    applyBrowseState(ns);
   }
 
   // Toggle a facet's "only" modifier. Turning it on clears that facet's
@@ -593,7 +612,7 @@
     f.only = on;
     if (on) f.exc = [];
     renderLimit = 240;
-    navigate(browseURL(ns));
+    applyBrowseState(ns);
   }
 
   function cloneState(st) {
