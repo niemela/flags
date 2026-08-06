@@ -1,0 +1,75 @@
+{
+  "id": "EAT_1961",
+  "name": "Tanganyika (1923–1961)",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "parent": null,
+  "codes": {
+    "wikidata": "Q158725"
+  },
+  "region": [
+    "Africa",
+    "Eastern Africa"
+  ],
+  "aspect_ratio": "1:2",
+  "families": [
+    "british-ensign"
+  ],
+  "variant": [
+    "civil-ensign"
+  ],
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A British Red Ensign — red with the Union Flag in the canton — charged in the fly with a white disc bearing the head of a giraffe.",
+  "history": "Britain administered Tanganyika Territory, the bulk of the former German East Africa, under a League of Nations mandate from 1922 and later as a United Nations trust territory. As a mandate it had no national flag of its own — the Union Flag was official — but from 1923 this Red Ensign defaced with the territorial badge, a giraffe's head on a white disc, served as its ensign and is the flag conventionally shown for Tanganyika of the period; a Blue Ensign with the same badge was the government ensign. It gave way to the green-and-black national flag at independence on 9 December 1961. EAT is the alpha-3 code element indeterminately reserved for Tanganyika under the UN road-traffic conventions.",
+  "periods": [
+    {
+      "start": "1923",
+      "end": "1961-12-09"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tanganyika_Territory",
+    "https://www.fotw.info/flags/tz_tng.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4",
+      "symbolism": "British administration under the League of Nations mandate"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "fly",
+      "role": "white disc bearing the territorial badge"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "count": 1,
+      "position": "fly",
+      "role": "giraffe's head",
+      "symbolism": "the giraffe, emblem of Tanganyika"
+    }
+  ]
+}
