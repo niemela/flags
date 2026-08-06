@@ -57,6 +57,11 @@
   var PRECEDED_BY = {};  // id -> [ids listing it as a successor]
   var SUCCEEDED_BY = {}; // id -> [ids listing it as a predecessor]
   var renderLimit = 240;
+  // "+ N more" disclosure, per facet group. Session-only by design: it is a
+  // reading aid, not part of the query, so it never reaches the URL or storage.
+  var expandedGroups = {};
+  var BROWSE_STATE = null;    // state the delegated browse listeners act on
+  var pendingPillFocus = null; // index of the pill being removed, restored after rebuild
   var NOW_YEAR = new Date().getFullYear();
   var SLIDER_FLOOR = 1700; // slider's left edge; older years still reachable by typed input/URL
 
@@ -343,32 +348,65 @@
     return true;
   }
 
+  // Scroll position, keyboard focus and the "+ N more" disclosure all live in
+  // DOM nodes, so a refinement preserves them by not destroying those nodes:
+  // the sidebar is built once on entry and updated in place afterwards. Only
+  // the results column is rebuilt, and only a view transition replaces #app.
   function renderBrowse(st) {
     document.title = "Flag Browser";
     if (searchInput.value !== st.q) searchInput.value = st.q;
+    BROWSE_STATE = st;
 
     var results = INDEX.flags.filter(function (f) { return matches(f, st); });
+    var browse = app.querySelector(".browse");
+    var entering = !browse;
 
-    var html = '<div class="browse">';
-    html += renderFilters(st);
-    html += '<div class="results">';
-    html += renderResultsBar(st, results.length);
-    if (results.length === 0) {
-      html += '<p class="empty">No flags match these filters.</p>';
+    if (entering) {
+      app.innerHTML = '<div class="browse">' + renderFilters(st) +
+        '<div class="results"></div></div>';
+      browse = app.querySelector(".browse");
+      wireBrowse(browse);
     } else {
-      var shown = results.slice(0, renderLimit);
-      html += '<div class="grid">' + shown.map(card).join("") + "</div>";
+      updateFilters(st);
+    }
+    renderResults(browse.querySelector(".results"), st, results, !entering);
+  }
+
+  function renderResults(box, st, results, announceCount) {
+    var h = renderResultsBar(st, results.length);
+    if (results.length === 0) {
+      h += '<p class="empty">No flags match these filters.</p>';
+    } else {
+      h += '<div class="grid">' + results.slice(0, renderLimit).map(card).join("") + "</div>";
       if (results.length > renderLimit) {
-        html += '<button class="load-more" id="load-more">Show more (' +
+        h += '<button class="load-more" id="load-more">Show more (' +
           (results.length - renderLimit) + " remaining)</button>";
       }
     }
-    html += "</div></div>";
-    app.innerHTML = html;
+    box.innerHTML = h;
 
-    wireFilters(st);
-    var lm = document.getElementById("load-more");
-    if (lm) lm.addEventListener("click", function () { renderLimit += 240; renderBrowse(st); });
+    // The pills are rebuilt, so focus has to be handed on deliberately: to the
+    // pill that took the removed one's place, else to the last one, else to the
+    // results count.
+    if (pendingPillFocus !== null) {
+      var buttons = box.querySelectorAll(".active-facets .facet-pill button");
+      var target = buttons[pendingPillFocus] || buttons[buttons.length - 1];
+      if (!target) {
+        target = box.querySelector(".results-count");
+        if (target) target.tabIndex = -1;
+      }
+      if (target) target.focus();
+      pendingPillFocus = null;
+    }
+    if (announceCount) {
+      announce(results.length + " flag" + (results.length === 1 ? "" : "s"));
+    }
+  }
+
+  // One persistent live region, never replaced, so announcements are reliable.
+  function announce(text) {
+    var live = app.querySelector(".sr-live");
+    if (live) live.textContent = text;
   }
 
   function card(f) {
@@ -394,7 +432,7 @@
   }
 
   function filterGroup(title, key, facet, active, swatches, extra, limit) {
-    limit = limit || facet.length;
+    limit = expandedGroups[key] ? facet.length : (limit || facet.length);
     var h = '<div class="filter-group" data-group="' + key + '"><h3>' + title + "</h3>";
     h += extra || "";
     if (key !== "proportion" && active.inc.length) {
@@ -431,13 +469,21 @@
   // range — continuous inputs, not chips, since time is a continuum.
   function timeFilter(st) {
     var mode = timeMode(st.date);
-    var h = '<div class="filter-group time-filter" data-group="date"><h3>Time</h3>';
+    var h = '<div class="filter-group time-filter" data-group="date" data-mode="' + mode + '"><h3>Time</h3>';
     h += '<div class="seg">';
     [["all", "All"], ["current", "Current"], ["point", "As of"], ["range", "Range"]].forEach(function (m) {
       h += '<button type="button" class="seg-btn' + (mode === m[0] ? " on" : "") +
         '" data-mode="' + m[0] + '">' + m[1] + "</button>";
     });
-    h += "</div><div class=\"time-body\">";
+    h += '</div><div class="time-body">' + timeBody(st, mode) + "</div></div>";
+    return h;
+  }
+
+  // The body is split out because its *structure* changes with the mode, so a
+  // mode switch re-renders just this subtree while a year change writes into
+  // the existing inputs.
+  function timeBody(st, mode) {
+    var h = "";
     if (mode === "point") {
       var y = yearOf(st.date) || NOW_YEAR;
       var smin = Math.min(SLIDER_FLOOR, y);
@@ -455,7 +501,6 @@
     } else {
       h += '<p class="time-hint">All flags, any era.</p>';
     }
-    h += "</div></div>";
     return h;
   }
 
@@ -498,39 +543,163 @@
     return h;
   }
 
-  function wireFilters(st) {
-    app.querySelectorAll(".chip[data-facet]").forEach(function (chip) {
-      chip.addEventListener("click", function () {
-        cycleFacet(st, chip.dataset.facet, chip.dataset.val);
+  // Refinement path: mutate the existing sidebar. Chips keep their identity, so
+  // whichever one was clicked keeps focus, and the sidebar keeps its scroll.
+  function updateFilters(st) {
+    FACET_KEYS.forEach(function (key) {
+      var group = app.querySelector('.filter-group[data-group="' + key + '"]');
+      if (!group) return;
+      var active = st[key];
+      group.querySelectorAll(".chip[data-facet]").forEach(function (chip) {
+        var val = chip.dataset.val;
+        var inc = active.inc.indexOf(val) >= 0;
+        var exc = active.exc.indexOf(val) >= 0;
+        chip.classList.toggle("on", inc);
+        chip.classList.toggle("ex", exc);
+        chip.setAttribute("aria-label", prettify(val) + ", " +
+          (exc ? "excluded" : inc ? "included" : "not selected"));
+        // A selected chip is never left hidden behind "+ N more".
+        if (chip.dataset.extra) {
+          chip.style.display = (inc || exc || expandedGroups[key]) ? "" : "none";
+        }
       });
+      syncOnlyToggle(group, key, active);
     });
-    app.querySelectorAll("[data-more]").forEach(function (btn) {
-      btn.addEventListener("click", function () {
-        var key = btn.dataset.more;
-        app.querySelectorAll('.filter-group[data-group="' + key + '"] .chip[data-extra]')
-          .forEach(function (c) { c.style.display = ""; });
-        btn.remove();
-      });
+    syncTimeFilter(st);
+  }
+
+  // "only these" exists only while the group has includes, so it is added and
+  // removed rather than re-rendered with the group.
+  function syncOnlyToggle(group, key, active) {
+    var btn = group.querySelector(".only-toggle");
+    if (key === "proportion" || !active.inc.length) {
+      if (btn) btn.remove();
+      return;
+    }
+    if (!btn) {
+      btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "only-toggle";
+      btn.dataset.only = key;
+      btn.title = "Only these \u2014 match flags with nothing outside this set";
+      group.insertBefore(btn, group.querySelector(".chips"));
+    }
+    btn.classList.toggle("on", !!active.only);
+    btn.setAttribute("aria-pressed", active.only ? "true" : "false");
+    btn.textContent = (active.only ? "\u2713 " : "") + "only these";
+  }
+
+  function syncTimeFilter(st) {
+    var group = app.querySelector('.filter-group[data-group="date"]');
+    if (!group) return;
+    var mode = timeMode(st.date), body = group.querySelector(".time-body");
+    group.querySelectorAll(".seg-btn").forEach(function (b) {
+      b.classList.toggle("on", b.dataset.mode === mode);
     });
-    app.querySelectorAll("[data-remove]").forEach(function (btn) {
-      btn.addEventListener("click", function () { removeFacet(st, btn.dataset.remove, btn.dataset.val); });
+    if (group.dataset.mode !== mode) {
+      group.dataset.mode = mode;
+      body.innerHTML = timeBody(st, mode);
+      return;
+    }
+    // Same mode: write values into the live inputs, leaving whichever one the
+    // user is typing in alone.
+    if (mode === "point") {
+      var y = String(yearOf(st.date) || NOW_YEAR);
+      var slider = body.querySelector(".time-slider"), box = body.querySelector(".time-year");
+      if (slider && slider.value !== y) slider.value = y;
+      if (box && box.value !== y && document.activeElement !== box) box.value = y;
+    } else if (mode === "range") {
+      var p = st.date.split(".."), a = yearOf(p[0]), b = yearOf(p[1]);
+      var from = body.querySelector(".time-from"), to = body.querySelector(".time-to");
+      if (from && document.activeElement !== from) from.value = (a != null ? a : "");
+      if (to && document.activeElement !== to) to.value = (b != null ? b : "");
+    }
+  }
+
+  function expandGroup(key) {
+    expandedGroups[key] = true;
+    var group = app.querySelector('.filter-group[data-group="' + key + '"]');
+    if (!group) return;
+    group.querySelectorAll(".chip[data-extra]").forEach(function (c) { c.style.display = ""; });
+    var btn = group.querySelector("[data-more]");
+    if (btn) btn.remove();
+  }
+
+  // One delegated listener per column rather than one per control: that is what
+  // makes updating the sidebar in place cheap, since there is no listener
+  // bookkeeping when nodes change state.
+  function wireBrowse(browse) {
+    var sidebar = browse.querySelector(".filters");
+    var results = browse.querySelector(".results");
+
+    sidebar.addEventListener("click", function (e) {
+      var st = BROWSE_STATE, t;
+      if ((t = e.target.closest(".chip[data-facet]"))) return cycleFacet(st, t.dataset.facet, t.dataset.val);
+      if ((t = e.target.closest("[data-only]"))) return setOnly(st, t.dataset.only, !st[t.dataset.only].only);
+      if ((t = e.target.closest("[data-more]"))) return expandGroup(t.dataset.more);
+      if ((t = e.target.closest(".seg-btn"))) return setTimeMode(st, t.dataset.mode);
     });
-    app.querySelectorAll("[data-only]").forEach(function (btn) {
-      btn.addEventListener("click", function () { setOnly(st, btn.dataset.only, !st[btn.dataset.only].only); });
+
+    // Dragging the slider updates the number box live; the commit waits for
+    // `change` (pointer release), as before.
+    sidebar.addEventListener("input", function (e) {
+      if (e.target.classList && e.target.classList.contains("time-slider")) {
+        var box = sidebar.querySelector(".time-year");
+        if (box) box.value = e.target.value;
+      }
     });
-    app.querySelectorAll("[data-removeonly]").forEach(function (btn) {
-      btn.addEventListener("click", function () { setOnly(st, btn.dataset.removeonly, false); });
+
+    sidebar.addEventListener("change", function (e) {
+      var st = BROWSE_STATE, el = e.target, cl = el.classList;
+      if (!cl) return;
+      if (cl.contains("time-slider")) return setDate(st, String(el.value));
+      if (cl.contains("time-year")) {
+        var v = parseInt(el.value, 10);
+        if (!isNaN(v)) setDate(st, String(v));
+        return;
+      }
+      if (cl.contains("time-from") || cl.contains("time-to")) {
+        var from = sidebar.querySelector(".time-from"), to = sidebar.querySelector(".time-to");
+        var a = from ? from.value.trim() : "", b = to ? to.value.trim() : "";
+        if (a || b) setDate(st, a + ".." + b);
+      }
     });
-    var clearAll = document.getElementById("clear-all");
-    if (clearAll) clearAll.addEventListener("click", function () {
-      renderLimit = 240;
-      applyBrowseState(emptyState(new URLSearchParams("")));
+
+    results.addEventListener("click", function (e) {
+      var st = BROWSE_STATE, t;
+      if (e.target.closest(".active-facets")) notePillFocus(e.target);
+      if ((t = e.target.closest("[data-remove]"))) return removeFacet(st, t.dataset.remove, t.dataset.val);
+      if ((t = e.target.closest("[data-removeonly]"))) return setOnly(st, t.dataset.removeonly, false);
+      if (e.target.closest("[data-removedate]")) return setDate(st, null);
+      if (e.target.closest("[data-clearq]")) {
+        var ns = cloneState(st); ns.q = "";
+        renderLimit = 240;
+        return applyBrowseState(ns);
+      }
+      if (e.target.closest("#clear-all")) {
+        renderLimit = 240;
+        return applyBrowseState(emptyState(new URLSearchParams("")));
+      }
+      if (e.target.closest("#load-more")) { renderLimit += 240; return renderBrowse(st); }
     });
-    var clearQ = app.querySelector("[data-clearq]");
-    if (clearQ) clearQ.addEventListener("click", function () {
-      var ns = cloneState(st); ns.q = ""; renderLimit = 240; applyBrowseState(ns);
-    });
-    wireTime(st);
+  }
+
+  function notePillFocus(target) {
+    var pill = target.closest(".facet-pill");
+    if (!pill) return;
+    var pills = Array.prototype.slice.call(app.querySelectorAll(".active-facets .facet-pill"));
+    pendingPillFocus = pills.indexOf(pill);
+  }
+
+  function setTimeMode(st, m) {
+    if (m === "all") return setDate(st, null);
+    if (m === "current") return setDate(st, "current");
+    if (m === "point") return setDate(st, String(yearOf(st.date) || NOW_YEAR));
+    if (m === "range") {
+      var p = (st.date || "").split("..");
+      var a = yearOf(p[0]) || (NOW_YEAR - 50), b = yearOf(p[1]) || NOW_YEAR;
+      return setDate(st, a + ".." + b);
+    }
   }
 
   function setDate(st, dv) {
@@ -538,44 +707,6 @@
     ns.date = dv;
     renderLimit = 240;
     applyBrowseState(ns);
-  }
-
-  function wireTime(st) {
-    app.querySelectorAll(".time-filter .seg-btn").forEach(function (btn) {
-      btn.addEventListener("click", function () {
-        var m = btn.dataset.mode;
-        if (m === "all") setDate(st, null);
-        else if (m === "current") setDate(st, "current");
-        else if (m === "point") setDate(st, String(yearOf(st.date) || NOW_YEAR));
-        else if (m === "range") {
-          var p = (st.date || "").split("..");
-          var a = yearOf(p[0]) || (NOW_YEAR - 50), b = yearOf(p[1]) || NOW_YEAR;
-          setDate(st, a + ".." + b);
-        }
-      });
-    });
-    // Point: live-update the number box while dragging; only navigate on release.
-    var slider = app.querySelector(".time-slider"), yearBox = app.querySelector(".time-year");
-    if (slider && yearBox) {
-      slider.addEventListener("input", function () { yearBox.value = slider.value; });
-      slider.addEventListener("change", function () { setDate(st, String(slider.value)); });
-      yearBox.addEventListener("change", function () {
-        var v = parseInt(yearBox.value, 10);
-        if (!isNaN(v)) setDate(st, String(v));
-      });
-    }
-    var from = app.querySelector(".time-from"), to = app.querySelector(".time-to");
-    if (from && to) {
-      var commit = function () {
-        var a = from.value.trim(), b = to.value.trim();
-        if (!a && !b) return;
-        setDate(st, (a || "") + ".." + (b || ""));
-      };
-      from.addEventListener("change", commit);
-      to.addEventListener("change", commit);
-    }
-    var rmDate = app.querySelector("[data-removedate]");
-    if (rmDate) rmDate.addEventListener("click", function () { setDate(st, null); });
   }
 
   // Cycle a value through the three states: none -> include -> exclude -> none.
