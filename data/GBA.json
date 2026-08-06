@@ -1,0 +1,69 @@
+{
+  "id": "GBA",
+  "name": "Alderney",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "GG",
+  "codes": {
+    "wikidata": "Q179313"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "The red St George's Cross on a white field, with the arms of Alderney at the centre: a gold lion holding a green sprig of three leaves, on a green disc within a gold border.",
+  "history": "Alderney, the northernmost of the Channel Islands and part of the Bailiwick of Guernsey, long flew the plain St George's Cross — the pattern shared with Guernsey's other dependencies. The island's arms, a gold lion grasping a sprig, were granted on 20 December 1993 and were added at the centre of the cross to give the present flag. GBA is Alderney's international vehicle registration code and the alpha-3 code element indeterminately reserved for it under the UN road-traffic conventions.",
+  "periods": [
+    {
+      "start": "1993-12-20"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Alderney",
+    "https://en.wikipedia.org/wiki/Alderney"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "white",
+      "cross": "red",
+      "role": "St George's Cross",
+      "symbolism": "Alderney's tie to Guernsey and its dependencies"
+    },
+    {
+      "type": "disc",
+      "color": "green",
+      "position": "center",
+      "role": "green roundel within a gold border",
+      "fimbriation": {
+        "color": "yellow"
+      }
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "count": 1,
+      "position": "center",
+      "role": "gold lion holding a green sprig of three leaves",
+      "symbolism": "the arms of Alderney, granted by Royal Warrant in 1993"
+    }
+  ]
+}
