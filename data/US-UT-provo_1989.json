@@ -1,0 +1,65 @@
+{
+  "id": "US-UT-provo_1989",
+  "name": "Provo (United States, 1976–1989)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-UT",
+  "codes": {
+    "wikidata": "Q23443"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:4",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A red band along the hoist and a blue field, parted by a broad white diagonal stripe; a large stylised blue and white letter P fills the centre, with the year 1849 in white in the lower fly.",
+  "history": "Adopted 7 April 1976 for the United States Bicentennial, from a design contest run by the Utah Lake Lions Club and won by Michael Jorgensen, an industrial design student at Brigham Young University. The letter stands for Provo and 1849 is the year the city was settled. It was replaced in 1989.",
+  "periods": [
+    {
+      "start": "1976-04-07",
+      "end": "1989-04-25"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Provo,_Utah"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "large stylised letter P outlined in white",
+      "symbolism": "the initial of Provo"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "lower-fly",
+      "role": "the year 1849",
+      "symbolism": "the settlement of Provo"
+    }
+  ]
+}
