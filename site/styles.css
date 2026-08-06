@@ -294,6 +294,13 @@ main {
 
 .error { color: #ff9a9a; }
 
+/* Announcement-only live region: the results count is read out on refinement,
+   the rest of the page is not. */
+.sr-live {
+  position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0;
+  overflow: hidden; clip: rect(0 0 0 0); clip-path: inset(50%); white-space: nowrap;
+}
+
 /* ---------- about page ---------- */
 .about { max-width: 720px; margin: 0 auto; }
 .about h1 { font-size: 28px; margin: 6px 0 14px; }

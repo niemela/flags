@@ -363,7 +363,8 @@
 
     if (entering) {
       app.innerHTML = '<div class="browse">' + renderFilters(st) +
-        '<div class="results"></div></div>';
+        '<div class="results"></div>' +
+        '<p class="sr-live" aria-live="polite"></p></div>';
       browse = app.querySelector(".browse");
       wireBrowse(browse);
     } else {
