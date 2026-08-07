@@ -1,0 +1,64 @@
+{
+  "id": "US-RI_1882",
+  "name": "Rhode Island (United States, 1877–1882)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "iso_3166_2": "US-RI",
+    "wikidata": "Q1387"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field bearing a blue anchor within a red scroll border lettered HOPE, ringed by thirty-eight blue stars.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1877",
+      "end": "1882"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Rhode_Island_(1877–1882).svg",
+    "https://en.wikipedia.org/wiki/Flag_of_Rhode_Island"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "anchor",
+      "color": "blue",
+      "position": "center",
+      "role": "anchor in scroll border with HOPE"
+    },
+    {
+      "type": "star",
+      "count": 38,
+      "color": "blue",
+      "points": 5,
+      "arrangement": "circle",
+      "role": "ring of thirty-eight stars"
+    }
+  ]
+}
