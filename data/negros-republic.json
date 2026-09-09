@@ -1,0 +1,75 @@
+{
+  "id": "negros-republic",
+  "name": "Republic of Negros (1898–1901)",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q3499107"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "A field divided horizontally blue over red with a white triangle at the hoist bearing an orange sun and three stars, modelled on the flag of the Philippine Republic.",
+  "history": "Sewn by Olympia and Perpetua Severino and Eutropia Yorac and first hoisted at Silay on 5 November 1898 during the Negros Revolution against Spain. The Cantonal Republic of Negros existed under American protection until it was absorbed into the Philippine civil government on 20 April 1901.",
+  "periods": [
+    {
+      "start": "1898-11-05",
+      "end": "1901-04-20"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Republic_of_Negros",
+    "https://en.wikipedia.org/wiki/Negros_Revolution",
+    "https://en.wikipedia.org/wiki/List_of_Philippine_flags",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_the_Negros_Republic.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "field": "blue",
+      "triangle": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "sun",
+      "color": "orange",
+      "rays": 8,
+      "position": "hoist"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "orange",
+      "position": "hoist",
+      "arrangement": "scattered",
+      "role": "stars at the corners of the triangle"
+    }
+  ]
+}
