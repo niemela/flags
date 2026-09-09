@@ -1,0 +1,69 @@
+{
+  "id": "LC-02-castries",
+  "name": "Castries (Saint Lucia)",
+  "type": [
+    "city"
+  ],
+  "parent": "LC-02",
+  "codes": {
+    "wikidata": "Q41699"
+  },
+  "region": [
+    "Americas",
+    "Latin America",
+    "Caribbean",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red field with the flag of Saint Lucia in the canton and, in the fly, a white disc bearing the seal of the Castries City Council.",
+  "history": "A red-ensign-style flag with the national flag in the canton and the city council's seal in the fly, first reported in 2010. No adoption date has been published.",
+  "periods": [
+    {
+      "start": ".."
+    }
+  ],
+  "sources": [
+    "https://www.crwflags.com/fotw/flags/lc-sub.html",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Castries.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "LC",
+      "proportion": "1/4"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "fly"
+    },
+    {
+      "type": "seal",
+      "color": "black",
+      "position": "fly",
+      "role": "seal of the Castries City Council"
+    }
+  ]
+}

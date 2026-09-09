@@ -1,0 +1,67 @@
+{
+  "id": "VU-SEE-port-vila",
+  "name": "Port Vila (Vanuatu)",
+  "type": [
+    "city"
+  ],
+  "parent": "VU-SEE",
+  "codes": {
+    "wikidata": "Q37806"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth",
+    "Francophonie"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A white field with a red vertical band at the hoist bearing four white stars, charged at the centre with the blue shield of the Port Vila arms.",
+  "history": "The Port Vila Municipal Council hoisted this new flag on Port Vila Day in June 2020, lowering the flag used since 2006 for the last time at the same ceremony.",
+  "periods": [
+    {
+      "start": "2020-06"
+    }
+  ],
+  "sources": [
+    "https://www.dailypost.vu/news/port-vila-council-hoists-new-flag/article_dfd47afc-b410-11ea-a941-43ac27675b30.html",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Port_Vila.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "side",
+      "color": "red",
+      "proportion": "1/5"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "white",
+      "position": "hoist",
+      "arrangement": "row",
+      "role": "column of stars on the hoist band"
+    },
+    {
+      "type": "shield",
+      "color": "blue",
+      "position": "center",
+      "role": "shield of the Port Vila arms"
+    }
+  ]
+}

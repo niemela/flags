@@ -1,0 +1,49 @@
+{
+  "id": "FO-torshavn",
+  "name": "Tórshavn (Faroe Islands)",
+  "type": [
+    "city"
+  ],
+  "parent": "FO",
+  "codes": {
+    "wikidata": "Q10704"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics"
+  ],
+  "aspect_ratio": "8:11",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A white field with a blue border, charged at the centre with the round seal of Tórshavn municipality in blue.",
+  "history": "The municipal flag is documented from a photograph at the town hall; the exact shade of the border is uncertain and no adoption date has been published.",
+  "periods": [
+    {
+      "start": ".."
+    }
+  ],
+  "sources": [
+    "https://www.crwflags.com/fotw/flags/fo-tor.html",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Tórshavn,_Faroe_Islands.svg"
+  ],
+  "features": [
+    {
+      "type": "bordure",
+      "field": "white",
+      "border": "blue"
+    },
+    {
+      "type": "seal",
+      "color": "blue",
+      "position": "center",
+      "role": "seal of Tórshavnar kommuna"
+    }
+  ]
+}

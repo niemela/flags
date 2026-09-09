@@ -1,0 +1,72 @@
+{
+  "id": "IE-D-dublin",
+  "name": "Dublin (Ireland)",
+  "type": [
+    "city"
+  ],
+  "parent": "IE-D",
+  "codes": {
+    "wikidata": "Q1761"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "European Union",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "8:15",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A green field with a blue canton bearing three white castles in flames, and a gold harp in the fly.",
+  "history": "Dublin's flag dates from 1885: a green field with the gold harp of Ireland and the three burning castles of the thirteenth-century city seal in the canton. The canton was later enlarged, pushing the harp toward the fly. It is the only flag flown by the city.",
+  "periods": [
+    {
+      "start": "1885"
+    }
+  ],
+  "sources": [
+    "https://www.crwflags.com/fotw/flags/ie-dub.html",
+    "https://commons.wikimedia.org/wiki/File:IRL_Dublin_flag.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "proportion": "1/4",
+      "features": [
+        {
+          "type": "building",
+          "color": "white",
+          "count": 3,
+          "arrangement": "scattered",
+          "role": "three burning castles from the city seal",
+          "symbolism": "the zeal of the citizens in the city's defence"
+        }
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "fly",
+      "role": "harp",
+      "symbolism": "Ireland"
+    }
+  ]
+}

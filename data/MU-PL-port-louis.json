@@ -1,0 +1,65 @@
+{
+  "id": "MU-PL-port-louis",
+  "name": "Port Louis (Mauritius)",
+  "type": [
+    "city"
+  ],
+  "parent": "MU-PL",
+  "codes": {
+    "wikidata": "Q3929"
+  },
+  "region": [
+    "Africa",
+    "Eastern Africa",
+    "Commonwealth",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A navy field charged with five gold fleurs-de-lis and four gold anchors arranged alternately in three rows.",
+  "history": "A banner of the city's canting arms — anchors for 'port' and fleurs-de-lis for 'Louis' — flown in proportions of about 3:5. No adoption date has been published.",
+  "periods": [
+    {
+      "start": ".."
+    }
+  ],
+  "sources": [
+    "https://www.crwflags.com/fotw/flags/mu-pl.html",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Port_Louis,_Mauritius.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "count": 5,
+      "position": "center",
+      "arrangement": "grid",
+      "rows": [
+        3,
+        3,
+        3
+      ],
+      "role": "fleurs-de-lis alternating with anchors",
+      "symbolism": "Louis XV of France, the city's namesake"
+    },
+    {
+      "type": "anchor",
+      "color": "yellow",
+      "count": 4,
+      "position": "center",
+      "arrangement": "grid",
+      "symbolism": "the port"
+    }
+  ]
+}

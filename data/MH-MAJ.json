@@ -1,0 +1,78 @@
+{
+  "id": "MH-MAJ",
+  "name": "Majuro (Marshall Islands)",
+  "type": [
+    "city",
+    "subdivision"
+  ],
+  "parent": "MH",
+  "codes": {
+    "iso_3166_2": "MH-MAJ",
+    "wikidata": "Q12919"
+  },
+  "region": [
+    "Oceania",
+    "Micronesia",
+    "Pacific Islands"
+  ],
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "A blue field with a yellow triangle at the hoist bearing a white bird within an arc of white stars; from the triangle's apex an orange band over a white band extend to the fly.",
+  "history": "The flag of Majuro Atoll, the capital of the Marshall Islands, echoes the national flag's rising bands; it was first documented in 2024. No adoption date has been published.",
+  "periods": [
+    {
+      "start": ".."
+    }
+  ],
+  "sources": [
+    "https://www.crwflags.com/fotw/flags/mh-maj.html",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Majuro,_Marshall_Islands.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "triangle",
+      "field": "blue",
+      "triangle": "yellow",
+      "position": "hoist"
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "star",
+      "count": 11,
+      "points": 5,
+      "color": "white",
+      "position": "hoist",
+      "arrangement": "arc"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "orange",
+        "white"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "bands running from the triangle's apex to the fly"
+    }
+  ]
+}
