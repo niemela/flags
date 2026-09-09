@@ -18,36 +18,50 @@
   "aspect_ratio": "1:2",
   "colors": [
     {
-      "color": "light-blue"
+      "color": "white",
+      "symbolism": "justice and perfection"
     },
     {
-      "color": "white"
+      "color": "light-blue",
+      "symbolism": "freedom"
     },
     {
-      "color": "yellow"
+      "color": "red",
+      "symbolism": "the tunduk, the crown of the Kyrgyz yurt"
     }
   ],
-  "description": "A light blue field charged with a white emblem of Sulayman Mountain within a circular ornamental frame.",
+  "description": "A white field with a light-blue sky in the upper fly, separated from the white by a broken line representing the Sulayman-Too mountain; a red tunduk (yurt crown) at the hoist.",
+  "history": "Adopted by the city of Osh on 25 October 2011 (designer Adil Sabirov). Osh is a city of republican significance administered separately from the surrounding Osh Region, which has no distinct flag of its own; the city flag is commonly shown for the region as well.",
   "periods": [
     {
-      "start": "20XX"
+      "start": "2011-10-25"
     }
   ],
   "sources": [
-    "https://en.wikipedia.org"
+    "https://www.fotw.info/flags/kg-reg.html",
+    "https://en.wikipedia.org/wiki/Osh",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Osh.svg"
   ],
   "features": [
     {
       "type": "solid",
-      "color": "light-blue"
+      "color": "white"
+    },
+    {
+      "type": "mountain",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "silhouette of Sulayman-Too against a light-blue sky",
+      "symbolism": "the sacred Sulayman Mountain rising over the city"
     },
     {
       "type": "glyph",
       "count": 1,
-      "color": "white",
-      "position": "center",
-      "role": "Sulayman Mountain emblem",
-      "symbolism": "the sacred mountain rising over the Silk Road city"
+      "color": "red",
+      "position": "hoist",
+      "role": "tunduk (yurt crown)",
+      "symbolism": "the Kyrgyz yurt and national identity"
     }
   ]
 }
