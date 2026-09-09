@@ -1,0 +1,74 @@
+{
+  "id": "IQ_2008",
+  "name": "Iraq (2004–2008)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "iso_3166_1_alpha2": "IQ",
+    "iso_3166_1_alpha3": "IRQ",
+    "wikidata": "Q796"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "MENA",
+    "Arab World"
+  ],
+  "aspect_ratio": "2:3",
+  "families": [
+    "pan-arab"
+  ],
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A horizontal tricolour of red, white and black, the white stripe bearing three green five-pointed stars with the takbir 'Allahu Akbar' in green Kufic script between them.",
+  "history": "Adopted on 28 July 2004 by the Interim Government as a compromise: the handwritten takbir associated with Saddam Hussein was redrawn in Kufic script. On 22 January 2008 the three stars, associated with Ba'athism, were removed to give the current flag.",
+  "periods": [
+    {
+      "start": "2004-07-28",
+      "end": "2008-01-22"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flag_of_Iraq",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Iraq_(2004–2008).svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "black"
+      ],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "green",
+      "position": "center",
+      "arrangement": "row"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "the takbir 'Allahu Akbar' in Kufic script between the stars"
+    }
+  ]
+}
