@@ -14,51 +14,56 @@
     "Northern Europe",
     "Nordics"
   ],
-  "shape": "swallowtail",
   "aspect_ratio": "18:25",
   "colors": [
     {
       "color": "blue",
-      "symbolism": "the field of the state flag"
+      "symbolism": "the sky-blue field, one of Iceland's traditional national colours"
     },
     {
       "color": "white",
-      "symbolism": "the cross fimbriation and central shield"
+      "symbolism": "the Icelandic falcon, taken from the 1903 coat of arms"
     },
     {
-      "color": "red",
-      "symbolism": "the cross"
+      "color": "yellow",
+      "symbolism": "the Icelandic crown"
     }
   ],
-  "description": "The Icelandic state flag (swallow-tailed Nordic-cross flag) defaced in the centre with the crowned royal arms of the King of Iceland.",
-  "history": "Royal standard of the King of Iceland — used during the personal union with Denmark (Kingdom of Iceland, 1918–1944) by the Danish monarch in his capacity as King of Iceland. The design dates from approximately 1921.",
+  "description": "A sky-blue field charged with a white Icelandic falcon facing the hoist, crowned with a gold Icelandic crown.",
+  "history": "Royal standard of the King of Iceland, used by the Danish monarch in his capacity as King of Iceland during the personal union (Kingdom of Iceland, 1918–1944). Established by Royal Resolution No. 23 of 5 July 1921, which prescribes a sky-blue flag bearing the white Icelandic falcon, crowned and facing the hoist, in the 18:25 proportion of the national flag. The falcon derives from Iceland's 1903 coat of arms. The standard is reported to have been flown only once, during Christian X's 1921 visit, and lapsed with the proclamation of the republic in 1944; no original flag survives, so the design is known from contemporary illustrations.",
   "variant": [
     "royal-standard"
   ],
   "periods": [
     {
-      "start": "1921",
+      "start": "1921-07-05",
       "end": "1944-06-17"
     }
   ],
   "sources": [
+    "https://www.fotw.info/flags/is-royal.html",
+    "https://commons.wikimedia.org/wiki/File:Royal_Standard_of_Iceland_(1921-1944).svg",
     "https://en.wikipedia.org/wiki/Kingdom_of_Iceland"
   ],
   "features": [
     {
-      "type": "nordic-cross",
-      "field": "blue",
-      "cross": "red",
-      "fimbriation": {
-        "color": "white",
-        "around": "cross"
-      }
+      "type": "solid",
+      "color": "blue"
     },
     {
-      "type": "coat-of-arms",
-      "position": "center",
+      "type": "bird",
+      "count": 1,
       "color": "white",
-      "role": "Royal Coat of Arms of Iceland (crowned)"
+      "position": "center",
+      "role": "Icelandic falcon (gyrfalcon), facing the hoist",
+      "symbolism": "the falcon of the 1903 Icelandic coat of arms"
+    },
+    {
+      "type": "crown",
+      "count": 1,
+      "color": "yellow",
+      "position": "top",
+      "role": "Icelandic crown above the falcon"
     }
   ]
 }
