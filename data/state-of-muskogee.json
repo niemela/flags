@@ -1,0 +1,69 @@
+{
+  "id": "state-of-muskogee",
+  "name": "State of Muskogee (1799–1803)",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q7603783"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red field bearing a blue cross fimbriated in white, set slightly toward the hoist, with a navy canton in the upper hoist charged with a gold sun.",
+  "history": "Designed by the Maryland-born adventurer William Augustus Bowles, who was elected Director General of the State of Muskogee by a congress of Creeks and Seminoles in Spanish Florida in October 1799. The state fought Spain from its capital at Miccosukee until Bowles was seized and handed to the Spanish in May 1803.",
+  "periods": [
+    {
+      "start": "1799",
+      "end": "1803-05"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/State_of_Muskogee",
+    "https://www.crwflags.com/fotw/flags/us-fl3.html",
+    "https://commons.wikimedia.org/wiki/File:State_of_Muskogee_(Florida,_1799-1803).svg"
+  ],
+  "features": [
+    {
+      "type": "nordic-cross",
+      "field": "red",
+      "cross": "blue",
+      "fimbriation": {
+        "color": "white"
+      }
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "proportion": "1/4",
+      "features": [
+        {
+          "type": "sun",
+          "color": "yellow",
+          "position": "center"
+        }
+      ]
+    }
+  ]
+}
