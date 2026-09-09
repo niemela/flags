@@ -1,0 +1,66 @@
+{
+  "id": "franceville",
+  "name": "Franceville (1889–1890)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "codes": {
+    "wikidata": "Q5479650"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A vertical bicolour of white at the hoist and red at the fly, with a blue rectangle at the centre bearing five white stars in the shape of the Southern Cross.",
+  "history": "The settlers of Port Vila declared the independent commune of Franceville on 9 August 1889 to escape the lawlessness of the Anglo-French naval commission in the New Hebrides, electing a president and adopting a red, white and blue flag with five stars. The commune was suppressed in June 1890.",
+  "periods": [
+    {
+      "start": "1889-08-09",
+      "end": "1890-06"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Franceville,_New_Hebrides",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Franceville.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "square",
+      "color": "blue",
+      "position": "center",
+      "role": "blue panel"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "arrangement": "southern-cross"
+    }
+  ]
+}
