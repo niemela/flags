@@ -1,0 +1,74 @@
+{
+  "id": "PW-222",
+  "name": "Ngardmau (Palau)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PW",
+  "codes": {
+    "iso_3166_2": "PW-222",
+    "wikidata": "Q1144496"
+  },
+  "region": [
+    "Oceania",
+    "Micronesia",
+    "Pacific Islands"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the rays and the stars"
+    },
+    {
+      "color": "white",
+      "symbolism": "the kedam"
+    },
+    {
+      "color": "green",
+      "symbolism": "the landscape in the central roundel"
+    },
+    {
+      "color": "blue",
+      "symbolism": "the waterfall in the roundel"
+    }
+  ],
+  "description": "A red field with yellow rays radiating from the centre, a white kedam in flight above three yellow stars, and a central roundel showing Ngerdmau Waterfall below Mount Ngerchelchuus.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_states_of_Palau"
+  ],
+  "features": [
+    {
+      "type": "sun",
+      "rays": 16,
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "white",
+      "position": "top",
+      "role": "kedam"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "yellow",
+      "arrangement": "arc",
+      "position": "center",
+      "symbolism": "the three hamlets of Ngardmau"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "blue",
+      "position": "center",
+      "role": "roundel showing Ngerdmau Waterfall and Mount Ngerchelchuus"
+    }
+  ]
+}

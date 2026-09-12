@@ -1,0 +1,70 @@
+{
+  "id": "PW-350",
+  "name": "Peleliu (Palau)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PW",
+  "codes": {
+    "iso_3166_2": "PW-350",
+    "wikidata": "Q497981"
+  },
+  "region": [
+    "Oceania",
+    "Micronesia",
+    "Pacific Islands"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "light-blue",
+      "symbolism": "the ocean"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the stars and the belochel"
+    },
+    {
+      "color": "red",
+      "symbolism": "the scroll"
+    },
+    {
+      "color": "white",
+      "symbolism": "the lettering"
+    }
+  ],
+  "description": "A light blue field with an arc of five gold stars over a gold belochel with outspread wings, standing on a red scroll lettered STATE OF PELELIU.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_states_of_Palau"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue",
+      "symbolism": "the ocean"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "yellow",
+      "arrangement": "arc",
+      "position": "top",
+      "symbolism": "the five hamlets of Peleliu"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "belochel, a bird native to Peleliu"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "white",
+      "position": "bottom",
+      "role": "STATE OF PELELIU on a red scroll"
+    }
+  ]
+}

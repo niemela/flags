@@ -1,0 +1,62 @@
+{
+  "id": "PW-218",
+  "name": "Ngarchelong (Palau)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PW",
+  "codes": {
+    "iso_3166_2": "PW-218",
+    "wikidata": "Q1070185"
+  },
+  "region": [
+    "Oceania",
+    "Micronesia",
+    "Pacific Islands"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "navy",
+      "symbolism": "the stripes"
+    },
+    {
+      "color": "white",
+      "symbolism": "the stripes and the stars"
+    },
+    {
+      "color": "red",
+      "symbolism": "the central disc"
+    }
+  ],
+  "description": "Seven horizontal stripes alternating dark blue and white, with a red disc in the centre ringed by eight white five-pointed stars.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_states_of_Palau"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "white"
+      ],
+      "count": 7,
+      "symbolism": "the seven original municipalities"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "red",
+      "position": "center"
+    },
+    {
+      "type": "star",
+      "count": 8,
+      "points": 5,
+      "color": "white",
+      "arrangement": "circle",
+      "position": "center",
+      "symbolism": "the eight municipalities of Ngarchelong"
+    }
+  ]
+}

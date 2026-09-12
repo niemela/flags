@@ -1,0 +1,63 @@
+{
+  "id": "PW-227",
+  "name": "Ngeremlengui (Palau)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PW",
+  "codes": {
+    "iso_3166_2": "PW-227",
+    "wikidata": "Q975076"
+  },
+  "region": [
+    "Oceania",
+    "Micronesia",
+    "Pacific Islands"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "white",
+      "symbolism": "the roundel and the linked chain"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the map of the state"
+    }
+  ],
+  "description": "A blue field with a white roundel ringed by linked chain, enclosing a blue disc that carries a yellow map of Ngeremlengui.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_states_of_Palau"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "white",
+      "position": "center"
+    },
+    {
+      "type": "chain",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "ring of linked chain",
+      "symbolism": "the hamlets of Ngeremlengui"
+    },
+    {
+      "type": "map",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "the territory of Ngeremlengui"
+    }
+  ]
+}

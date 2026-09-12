@@ -1,0 +1,66 @@
+{
+  "id": "PW-100",
+  "name": "Kayangel (Palau)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PW",
+  "codes": {
+    "iso_3166_2": "PW-100",
+    "wikidata": "Q871222"
+  },
+  "region": [
+    "Oceania",
+    "Micronesia",
+    "Pacific Islands"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue",
+      "symbolism": "the field"
+    },
+    {
+      "color": "yellow",
+      "symbolism": "the triangle"
+    },
+    {
+      "color": "brown",
+      "symbolism": "the oar"
+    },
+    {
+      "color": "green",
+      "symbolism": "the hibiscus vines"
+    }
+  ],
+  "description": "A blue field charged with a yellow triangle enclosing a brown oar flanked by two green hibiscus vines.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_states_of_Palau"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "triangle",
+      "field": "blue",
+      "triangle": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "tool",
+      "count": 1,
+      "color": "brown",
+      "position": "center",
+      "role": "oar"
+    },
+    {
+      "type": "leaf",
+      "count": 2,
+      "color": "green",
+      "position": "center",
+      "role": "hibiscus vines"
+    }
+  ]
+}
