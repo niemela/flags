@@ -1,0 +1,74 @@
+{
+  "id": "duchy-of-saxe-weimar",
+  "name": "Duchy of Saxe-Weimar (1572–1809)",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q315667"
+  },
+  "region": [
+    "Europe"
+  ],
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A banner of the Saxon arms — barry of black and gold with a green crancelin — with the striped lion of Thuringia on blue in the canton.",
+  "history": "Banner of the Duchy of Saxe-Weimar before its union with Eisenach in 1741.",
+  "periods": [
+    {
+      "start": "1572",
+      "end": "1809"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Großherzogin_Sachsen-Weimar.svg",
+    "https://www.wikidata.org/wiki/Q315667"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "yellow"
+      ],
+      "count": 10
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "crancelin"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "upper-hoist",
+      "count": 1,
+      "role": "lion of Thuringia"
+    }
+  ]
+}

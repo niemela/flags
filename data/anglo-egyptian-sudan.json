@@ -1,0 +1,69 @@
+{
+  "id": "anglo-egyptian-sudan",
+  "name": "Anglo-Egyptian Sudan (1899–1956)",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q541455"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "A long green pennant-like flag bearing a white crescent and three stars in the hoist, with the Union Jack in the fly half.",
+  "history": "A flag used in the Anglo-Egyptian Sudan combining the Egyptian crescent and stars with the Union Jack.",
+  "periods": [
+    {
+      "start": "1899",
+      "end": "1956"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Anglo-Egyptian_Sudan.svg",
+    "https://www.wikidata.org/wiki/Q541455"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "hoist",
+      "count": 1
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "embedded-flag",
+      "color": "navy",
+      "position": "fly",
+      "role": "Union Jack"
+    }
+  ]
+}
