@@ -1,0 +1,59 @@
+{
+  "id": "KE-32",
+  "name": "Nandi County (Kenya)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "KE",
+  "codes": {
+    "iso_3166_2": "KE-32",
+    "wikidata": "Q1964569"
+  },
+  "region": [
+    "Africa",
+    "Eastern Africa",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Three wavy horizontal bands of green, white and black separated by narrow red waves, with the county emblem and a COUNTY GOVERNMENT OF NANDI scroll in the centre.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_counties_of_Kenya",
+    "https://commons.wikimedia.org/wiki/File:Contea_di_Nandi_flag.svg"
+  ],
+  "features": [
+    {
+      "type": "wave",
+      "stripes": [
+        "green",
+        "white",
+        "black"
+      ],
+      "count": 3,
+      "fimbriation": {
+        "color": "red",
+        "around": "stripes"
+      }
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "emblem of the County Government of Nandi"
+    }
+  ]
+}
