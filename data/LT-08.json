@@ -1,0 +1,45 @@
+{
+  "id": "LT-08",
+  "name": "Elektrėnai Municipality (Lithuania)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "LT",
+  "codes": {
+    "iso_3166_2": "LT-08",
+    "wikidata": "Q2089777"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Baltics",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "A yellow field within a dark blue border, bearing the municipal arms — two stars and lightning bolts on dark blue.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Elektrėnai.svg"
+  ],
+  "features": [
+    {
+      "type": "bordure",
+      "field": "yellow",
+      "border": "navy"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "arms of Elektrėnai: stars and lightning on blue",
+      "color": "navy"
+    }
+  ]
+}

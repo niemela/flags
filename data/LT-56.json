@@ -1,0 +1,47 @@
+{
+  "id": "LT-56",
+  "name": "Vilkaviškis District Municipality (Lithuania)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "LT",
+  "codes": {
+    "iso_3166_2": "LT-56",
+    "wikidata": "Q2021318"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Baltics",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A white field within a red border, bearing the district arms — a red fleur-de-lis on blue.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Vilkaviškis_vėliava.svg"
+  ],
+  "features": [
+    {
+      "type": "bordure",
+      "field": "white",
+      "border": "red"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "arms of Vilkaviškis: fleur-de-lis on blue"
+    }
+  ]
+}

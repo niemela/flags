@@ -1,0 +1,46 @@
+{
+  "id": "LV-112",
+  "name": "South Kurzeme Municipality (Latvia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "LV",
+  "codes": {
+    "iso_3166_2": "LV-112",
+    "wikidata": "Q97230452"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Baltics",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A red field with a white triangle from the hoist, bearing a red lion.",
+  "history": "Municipality created in the 2021 administrative reform.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Dienvidkurzemes_novada_karogs.svg"
+  ],
+  "features": [
+    {
+      "type": "pile",
+      "field": "red",
+      "pile": "white",
+      "direction": "fly"
+    },
+    {
+      "type": "lion",
+      "count": 1,
+      "color": "red",
+      "position": "hoist"
+    }
+  ]
+}

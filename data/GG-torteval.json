@@ -1,0 +1,76 @@
+{
+  "id": "GG-torteval",
+  "name": "Torteval (Guernsey)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "GG",
+  "codes": {
+    "wikidata": "Q2671049"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A landscape design: a white-sailed boat on blue and white waves beneath a white sky, with a red canton bearing a gold cross and a scroll lettered TORTEVAL.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Torteval_Parish,_Guernsey.svg"
+  ],
+  "features": [
+    {
+      "type": "wave",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2,
+      "position": "bottom"
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "proportion": "1/4",
+      "features": [
+        {
+          "type": "greek-cross",
+          "field": "red",
+          "cross": "yellow"
+        }
+      ]
+    },
+    {
+      "type": "ship",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "sailing boat"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "yellow",
+      "position": "bottom",
+      "role": "TORTEVAL on a scroll"
+    }
+  ]
+}

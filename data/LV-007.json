@@ -1,0 +1,45 @@
+{
+  "id": "LV-007",
+  "name": "Alūksne Municipality (Latvia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "LV",
+  "codes": {
+    "iso_3166_2": "LV-007",
+    "wikidata": "Q3393445"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Baltics",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "pink"
+    }
+  ],
+  "description": "Divided diagonally carmine over pale pink from the lower hoist, with the municipal arms — a book dated A.D. 1689 — in the centre.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Alūksnes_novada_karogs.svg"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "maroon",
+      "bend": "pink",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "arms of Alūksne: a book dated 1689"
+    }
+  ]
+}

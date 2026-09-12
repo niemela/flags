@@ -1,0 +1,52 @@
+{
+  "id": "LV-089",
+  "name": "Saulkrasti Municipality (Latvia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "LV",
+  "codes": {
+    "iso_3166_2": "LV-089",
+    "wikidata": "Q97232692"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Baltics",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided vertically blue and green, with a gold sun within oak leaves in the centre.",
+  "history": "Municipality created in the 2021 administrative reform.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Saulkrastu_novada_karogs.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "sun",
+      "rays": 8,
+      "color": "yellow",
+      "position": "center",
+      "role": "sun within oak leaves"
+    }
+  ]
+}

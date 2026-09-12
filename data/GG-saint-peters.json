@@ -1,0 +1,62 @@
+{
+  "id": "GG-saint-peters",
+  "name": "Saint Peter's (Guernsey)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "GG",
+  "codes": {
+    "wikidata": "Q2164378"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided horizontally light blue over dark blue; a green tree on the upper band and two crossed keys, gold and white, on the lower.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Saint_Pierre_du_Bois_Parish,_Guernsey.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "navy"
+      ],
+      "count": 2
+    },
+    {
+      "type": "tree",
+      "count": 1,
+      "color": "green",
+      "position": "top"
+    },
+    {
+      "type": "key",
+      "count": 2,
+      "color": "yellow",
+      "position": "bottom",
+      "role": "crossed keys of Saint Peter"
+    }
+  ]
+}

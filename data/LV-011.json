@@ -1,0 +1,62 @@
+{
+  "id": "LV-011",
+  "name": "Ādaži Municipality (Latvia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "LV",
+  "codes": {
+    "iso_3166_2": "LV-011",
+    "wikidata": "Q97233421"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Baltics",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A white field with a blue stripe along the top and a blue triangle rising from the base, bearing a stylised flower.",
+  "history": "Municipality created in the 2021 administrative reform.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Ādažu_novada_karogs.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        5
+      ]
+    },
+    {
+      "type": "pile",
+      "field": "white",
+      "pile": "blue",
+      "direction": "chief"
+    },
+    {
+      "type": "flower",
+      "count": 1,
+      "color": "white",
+      "position": "center"
+    }
+  ]
+}

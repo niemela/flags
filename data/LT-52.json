@@ -1,0 +1,47 @@
+{
+  "id": "LT-52",
+  "name": "Trakai District Municipality (Lithuania)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "LT",
+  "codes": {
+    "iso_3166_2": "LT-52",
+    "wikidata": "Q1987743"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Baltics",
+    "European Union"
+  ],
+  "aspect_ratio": "5:6",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue field within a red-and-white chequered border, bearing the district arms — an armoured knight with a spear and shield on red.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Trakai_district.svg"
+  ],
+  "features": [
+    {
+      "type": "bordure",
+      "field": "blue",
+      "border": "red"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "arms of Trakai: a standing knight"
+    }
+  ]
+}
