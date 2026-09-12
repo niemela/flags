@@ -1,0 +1,50 @@
+{
+  "id": "JP-28-kakogawa",
+  "name": "Kakogawa (Japan)",
+  "type": [
+    "city"
+  ],
+  "parent": "JP-28",
+  "codes": {
+    "wikidata": "Q750569"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "purple"
+    }
+  ],
+  "description": "A white field with three blue wavy bands running from the lower hoist to the upper fly, and a small purple quarter-disc at the centre.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Kakogawa,_Hyogo.svg",
+    "https://www.wikidata.org/wiki/Q750569"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "purple",
+      "position": "center",
+      "role": "quarter-disc emblem"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-260 -200 520 400 " width="780" height="600" fill="#3d117b">
+<path d="M-260-200h520v400h-520z" fill="#fff"/>
+<circle r="45"/>
+<circle cy="100" r="85" fill="#fff"/>
+<circle cy="-100" r="85" fill="#fff"/>
+<circle r="82.5" fill="none" stroke="#3d117b" stroke-width="35"/>
+<circle id="b" cy="-110" r="25"/>
+<g id="c">
+<use xlink:href="#b" transform="rotate(72)"/>
+<use xlink:href="#b" transform="rotate(216)"/>
+</g>
+<use xlink:href="#c" transform="rotate(72)"/>
+</svg>

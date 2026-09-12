@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-450 -300 900 600" width="900" height="600">
+<mask id="a">
+<circle r="200" fill="#fff"/>
+<circle r="136" fill="#000"/>
+<path d="M-96-200H96V200H-96z" fill="#000"/>
+<path d="M-84-200h48v400h-48zM-24-200h48v400h-48zM36-200h48v400h-48z" fill="#fff"/>
+</mask>
+<mask id="b">
+<circle r="200" fill="#fff"/>
+<circle r="140" fill="#000"/>
+<path d="M-100-200H100V200H-100z" fill="#000"/>
+<path d="M-80-200h40v400h-40zM-20-200h40v400h-40zM40-200h40v400h-40z" fill="#fff"/>
+</mask>
+<clipPath id="c">
+<path d="M-450-300h900v600h-900z"/>
+</clipPath>
+<path d="M-450-300h900v600h-900z" fill="#4169e1"/>
+<g clip-path="url(#c)">
+<g transform="rotate(-26.56505117707799)">
+<path id="d" fill="#fff" d="M-720-54a382.5 382.5 0 0 0 360 0a382.5 382.5 0 0 1 360 0a382.5 382.5 0 0 0 360 0a382.5 382.5 0 0 1 360 0v108a382.5 382.5 0 0 0-360 0a382.5 382.5 0 0 1-360 0a382.5 382.5 0 0 0-360 0a382.5 382.5 0 0 1-360 0z"/>
+<use xlink:href="#d" transform="translate(0-240)"/>
+<use xlink:href="#d" transform="translate(0 240)"/>
+</g>
+</g>
+<circle r="184" mask="url(#a)" fill="#fff"/>
+<circle r="180" mask="url(#b)" fill="#66097b"/>
+</svg>
