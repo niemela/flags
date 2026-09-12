@@ -1,0 +1,60 @@
+{
+  "id": "PH-LAG",
+  "name": "Laguna (Philippines)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PH",
+  "codes": {
+    "iso_3166_2": "PH-LAG",
+    "wikidata": "Q13840"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A yellow field bearing the provincial shield, with SAGISAG NG LALAWIGAN NG LAGUNA lettered in a wide dark green arc above it and four dark-green-fimbriated stars in a row below.",
+  "history": "The current flag was restored in about June 2014.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_provinces_of_the_Philippines"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "green",
+      "position": "top",
+      "role": "SAGISAG NG LALAWIGAN NG LAGUNA in a wide arc"
+    },
+    {
+      "type": "shield",
+      "count": 1,
+      "position": "center",
+      "role": "provincial shield"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "yellow",
+      "arrangement": "row",
+      "position": "bottom",
+      "fimbriation": {
+        "color": "green"
+      }
+    }
+  ]
+}

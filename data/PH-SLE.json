@@ -1,0 +1,52 @@
+{
+  "id": "PH-SLE",
+  "name": "Southern Leyte (Philippines)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PH",
+  "codes": {
+    "iso_3166_2": "PH-SLE",
+    "wikidata": "Q13884"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia"
+  ],
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A green field, edged with a gold fringe, bearing a white cross wreathed in palm at the hoist and five white flowers trailing toward the lower fly.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_provinces_of_the_Philippines",
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Southern_Leyte.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "latin-cross",
+      "field": "green",
+      "cross": "white",
+      "position": "hoist",
+      "role": "cross within a palm wreath"
+    },
+    {
+      "type": "flower",
+      "count": 5,
+      "color": "white",
+      "arrangement": "scattered",
+      "position": "lower-fly"
+    }
+  ]
+}
