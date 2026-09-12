@@ -1,0 +1,73 @@
+{
+  "id": "hunza-state",
+  "name": "Hunza State (1600–1974)",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q14957246"
+  },
+  "region": [
+    "Asia",
+    "Southern Asia",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A green field with a black-and-white mountain range along the base, a white crescent and star in the upper hoist and a golden bow and arrow in the upper fly.",
+  "history": "Flag of the princely state of Hunza, abolished in 1974.",
+  "periods": [
+    {
+      "start": "1600",
+      "end": "1974"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hunza.svg",
+    "https://www.wikidata.org/wiki/Q14957246"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "mountain",
+      "color": "black",
+      "position": "bottom"
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "upper-hoist",
+      "count": 1
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "upper-fly",
+      "role": "bow and arrow"
+    }
+  ]
+}

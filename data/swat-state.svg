@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600">
+<rect width="900" height="600" fill="#005E27"/>
+<polygon id="outline" points="210,475 690,475 660,455 660,155 675,155 675,125 525,125 525,155
+	540,155 540,245 360,245 360,155 375,155 375,125 225,125 225,155 240,155 240,455"
+	fill="#f4c416" stroke="#000" stroke-width="2"/>
+<g id="tower">
+<path d="M240,155 h120 M300,155 v30 M240,185 h120 
+	M240,215 h120 M270,215 v30 M330,215 v30 
+	M240,245 h120" stroke="#000" stroke-width="2"/>
+<polygon points="240,215 255,185 270,215 285,185 300,215 315,185 330,215 345,185 360,215"/></g>
+<use xlink:href="#tower" x="300"/>
+<path id="mas1" d="M300,245 v30 M360,245 v30 M420,245 v30
+	M480,245 v30 M540,245 v30 M600,245 v30
+	M240,275 h420" stroke="#000" stroke-width="2"/>
+<path id="mas2" d="M270,275 v30 M330,275 v30 M390,275 v30
+	M450,275 v30 M510,275 v30 M570,275 v30 M630,275 v30 
+	M240,305 h420" stroke="#000" stroke-width="2"/>
+<use xlink:href="#mas1" y="60"/>
+<use xlink:href="#mas2" y="60"/>
+<use xlink:href="#mas1" y="120"/>
+<use xlink:href="#mas2" y="120"/>
+<use xlink:href="#mas1" y="180"/>
+<rect width="60" height="120" x="420" y="335" stroke="#000" stroke-width="2"/>
+</svg>
