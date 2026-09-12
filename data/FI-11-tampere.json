@@ -1,0 +1,53 @@
+{
+  "id": "FI-11-tampere",
+  "name": "Tampere (Finland)",
+  "type": [
+    "city"
+  ],
+  "parent": "FI-11",
+  "codes": {
+    "wikidata": "Q40840"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "European Union"
+  ],
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red field with a yellow hammer in the upper hoist, a yellow wavy stripe from the base of the hoist to the top of the fly, and a yellow caduceus in the lower fly.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Tampere.lippu.svg",
+    "https://www.wikidata.org/wiki/Q40840"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "wave",
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "tool",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "hammer"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "lower-fly",
+      "role": "caduceus"
+    }
+  ]
+}

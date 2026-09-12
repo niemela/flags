@@ -1,0 +1,57 @@
+{
+  "id": "GB-ENG-brighton-and-hove",
+  "name": "Brighton and Hove (United Kingdom)",
+  "type": [
+    "city"
+  ],
+  "parent": "GB-ENG",
+  "codes": {
+    "wikidata": "Q1022488"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue field charged at the centre with a white rectangle bearing two blue dolphins, with six white martlets (three above, three below) on the blue.",
+  "history": "The dolphins come from the arms of Brighton and the martlets from those of Hove and Sussex.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Banner_of_arms_of_Brighton_and_Hove_(3-5).svg",
+    "https://www.wikidata.org/wiki/Q1022488"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "square",
+      "color": "white",
+      "position": "center"
+    },
+    {
+      "type": "animal-other",
+      "color": "blue",
+      "position": "center",
+      "count": 2,
+      "role": "two dolphins"
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "count": 6,
+      "role": "martlets"
+    }
+  ]
+}

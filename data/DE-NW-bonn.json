@@ -1,0 +1,52 @@
+{
+  "id": "DE-NW-bonn",
+  "name": "Bonn (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q586"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A yellow field with a red horizontal stripe along the top and bottom edges, charged at the centre with the coat of arms of Bonn: a black cross on white above a golden lion on red.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_der_kreisfreien_Stadt_Bonn.svg",
+    "https://www.wikidata.org/wiki/Q586"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": null
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Bonn"
+    }
+  ]
+}

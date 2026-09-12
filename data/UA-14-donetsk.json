@@ -1,0 +1,60 @@
+{
+  "id": "UA-14-donetsk",
+  "name": "Donetsk (Ukraine)",
+  "type": [
+    "city"
+  ],
+  "parent": "UA-14",
+  "codes": {
+    "wikidata": "Q43070"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "4:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Two horizontal stripes of blue over black, charged at the centre with a golden hand holding a hammer within a black outline, with a small star in the upper fly.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Donetsk.svg",
+    "https://www.wikidata.org/wiki/Q43070"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "black"
+      ],
+      "count": 2
+    },
+    {
+      "type": "hand",
+      "color": "yellow",
+      "position": "center",
+      "role": "hand holding a hammer"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center"
+    }
+  ]
+}

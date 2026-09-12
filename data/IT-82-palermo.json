@@ -1,0 +1,54 @@
+{
+  "id": "IT-82-palermo",
+  "name": "Palermo (Italy)",
+  "type": [
+    "city"
+  ],
+  "parent": "IT-82",
+  "codes": {
+    "wikidata": "Q2656"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union"
+  ],
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A red gonfalon hung from a crossbar, bearing the golden eagle of Palermo above laurel branches, with the inscription 'Città di Palermo' and a tricolour ribbon.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Palermo-Gonfalone.svg",
+    "https://www.wikidata.org/wiki/Q2656"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "eagle",
+      "color": "yellow",
+      "position": "center",
+      "count": 1
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "top",
+      "role": "'Città di Palermo' inscription"
+    }
+  ],
+  "shape": "gonfalone"
+}

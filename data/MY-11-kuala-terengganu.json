@@ -1,0 +1,60 @@
+{
+  "id": "MY-11-kuala-terengganu",
+  "name": "Kuala Terengganu (Malaysia)",
+  "type": [
+    "city"
+  ],
+  "parent": "MY-11",
+  "codes": {
+    "wikidata": "Q846502"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "10:19",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A yellow field with a black canton bordered in white, charged with a white crescent and five-pointed star.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Kuala_Terengganu,_Terengganu.svg",
+    "https://www.wikidata.org/wiki/Q846502"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "canton",
+      "color": "black",
+      "position": "upper-hoist",
+      "fimbriation": {
+        "color": "white"
+      }
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "upper-hoist",
+      "count": 1
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "upper-hoist"
+    }
+  ]
+}

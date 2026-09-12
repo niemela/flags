@@ -1,0 +1,68 @@
+{
+  "id": "NZ-CAN-christchurch",
+  "name": "Christchurch (New Zealand)",
+  "type": [
+    "city"
+  ],
+  "parent": "NZ-CAN",
+  "codes": {
+    "wikidata": "Q79990"
+  },
+  "region": [
+    "Oceania",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A banner of the arms of Christchurch: a blue chief bearing four golden ships, above a red field with a golden chevron between a fleece, a mitre and a wheatsheaf, over blue and white waves.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Christchurch.svg",
+    "https://www.wikidata.org/wiki/Q79990"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": null
+    },
+    {
+      "type": "ship",
+      "color": "yellow",
+      "position": "top",
+      "count": 4
+    },
+    {
+      "type": "chevron",
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "fleece, mitre and wheatsheaf"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "bottom"
+    }
+  ]
+}

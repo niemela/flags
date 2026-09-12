@@ -1,0 +1,65 @@
+{
+  "id": "UA-14-makiivka",
+  "name": "Makiivka (Ukraine)",
+  "type": [
+    "city"
+  ],
+  "parent": "UA-14",
+  "codes": {
+    "wikidata": "Q157134"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A light blue field with a canton showing a yellow sun rising over a black field; four stars of the Southern Cross in black, yellow, green and white are set toward the fly.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Makiivka.svg",
+    "https://www.wikidata.org/wiki/Q157134"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "canton",
+      "color": "black",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "count": 1
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "white",
+      "position": "fly",
+      "arrangement": "scattered"
+    }
+  ]
+}

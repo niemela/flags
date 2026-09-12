@@ -1,0 +1,49 @@
+{
+  "id": "DE-BW-karlsruhe",
+  "name": "Karlsruhe (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-BW",
+  "codes": {
+    "wikidata": "Q1040"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three horizontal stripes of red, yellow and red, charged with the coat of arms of Karlsruhe: a red shield with a yellow bend inscribed 'Fidelitas'.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:DEU_Karlsruhe_Flag.svg",
+    "https://www.wikidata.org/wiki/Q1040"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Karlsruhe"
+    }
+  ]
+}

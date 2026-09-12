@@ -1,0 +1,57 @@
+{
+  "id": "BG-16-plovdiv",
+  "name": "Plovdiv (Bulgaria)",
+  "type": [
+    "city"
+  ],
+  "parent": "BG-16",
+  "codes": {
+    "wikidata": "Q459"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Southern Europe",
+    "Balkans",
+    "European Union",
+    "Slavic"
+  ],
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A blue field with a white vertical stripe at the centre bearing the coat of arms of Plovdiv (a crowned shield with the seven hills) above a scroll reading 'Ancient and Eternal'.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Plovdiv_flag.svg",
+    "https://www.wikidata.org/wiki/Q459"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Plovdiv"
+    }
+  ]
+}

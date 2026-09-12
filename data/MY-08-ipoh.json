@@ -1,0 +1,60 @@
+{
+  "id": "MY-08-ipoh",
+  "name": "Ipoh (Malaysia)",
+  "type": [
+    "city"
+  ],
+  "parent": "MY-08",
+  "codes": {
+    "wikidata": "Q271619"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "purple"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into red (upper hoist) and yellow (lower fly), separated by a purple diagonal band, charged at the centre with the coat of arms of Ipoh.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Ipoh,_Perak.svg",
+    "https://www.wikidata.org/wiki/Q271619"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "yellow",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "purple"
+      ],
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Ipoh"
+    }
+  ]
+}

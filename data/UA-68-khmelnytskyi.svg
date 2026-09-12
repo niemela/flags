@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="600">
+	<rect width="600" height="600" fill="#fff301"/>
+	<rect x="19" y="19" width="562" height="562" fill="#0094da"/>
+	<path d="m 300,113 55,92 107,1 -53,94 53,94 -107,1 -55,92 -55,-92 -107,-1 53,-94 -53,-94 107,-1 55,-92 z m 94,25 1,107 92,55 -92,55 -1,107 -94,-53 -94,53 -1,-107 -92,-55 92,-55 1,-107 94,53 94,-53 z" fill="#fff301" fill-rule="evenodd"/>
+	<circle cx="300" cy="300" r="129" fill="#0094da"/>
+	<path id="a" d="m 300,203 -14,-12 0,42 10,7 0,152 c -2,0 -4,-3 -7,-8 l 11,40 11,-40 c -3,5 -5,8 -7,8 l 0,-152 10,-7 0,-42 -14,12 z" fill="#fff301"/>
+	<use xlink:href="#a" transform="rotate(135 300,300)"/>
+	<use xlink:href="#a" transform="rotate(225 300,300)"/>
+</svg>

@@ -1,0 +1,51 @@
+{
+  "id": "LT-15-kaunas",
+  "name": "Kaunas (Lithuania)",
+  "type": [
+    "city"
+  ],
+  "parent": "LT-15",
+  "codes": {
+    "wikidata": "Q4115712"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Baltics",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A red field with a yellow horizontal stripe along the top and bottom edges, charged at the centre with a white aurochs bearing a golden cross between its horns — the arms of Kaunas.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:LTU_Kaunas_flag.svg",
+    "https://www.wikidata.org/wiki/Q4115712"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": null
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "center",
+      "role": "aurochs with a golden cross between its horns"
+    }
+  ]
+}

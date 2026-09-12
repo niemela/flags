@@ -1,0 +1,55 @@
+{
+  "id": "EG-ALX-alexandria",
+  "name": "Alexandria (Egypt)",
+  "type": [
+    "city"
+  ],
+  "parent": "EG-ALX",
+  "codes": {
+    "wikidata": "Q87"
+  },
+  "region": [
+    "Africa",
+    "Northern Africa",
+    "MENA",
+    "Arab World",
+    "Middle East"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A light blue field charged with a white lighthouse (the Pharos of Alexandria) radiating light, above a yellow stripe along the base.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Alexandria.svg",
+    "https://www.wikidata.org/wiki/Q87"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "Pharos lighthouse"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "yellow"
+      ],
+      "count": null
+    }
+  ]
+}

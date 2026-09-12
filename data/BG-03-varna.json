@@ -1,0 +1,53 @@
+{
+  "id": "BG-03-varna",
+  "name": "Varna (Bulgaria)",
+  "type": [
+    "city"
+  ],
+  "parent": "BG-03",
+  "codes": {
+    "wikidata": "Q6506"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Southern Europe",
+    "Balkans",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A white field with a thin blue stripe near the top and bottom edges, charged at the centre with the blue-and-gold emblem of Varna (a crowned shield with the city name).",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Знаме_на_Варна,_България.svg",
+    "https://www.wikidata.org/wiki/Q6506"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": null
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "emblem of Varna"
+    }
+  ]
+}

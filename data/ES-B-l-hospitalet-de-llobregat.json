@@ -1,0 +1,57 @@
+{
+  "id": "ES-B-l-hospitalet-de-llobregat",
+  "name": "L'Hospitalet de Llobregat (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q15470"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union",
+    "Iberian Peninsula"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertically divided: the hoist half white with a red saltire, the fly half with the four red bars of the Senyera on yellow.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_l'Hospitalet_de_Llobregat.svg",
+    "https://www.wikidata.org/wiki/Q15470"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "saltire",
+      "color": "red",
+      "position": "hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": null
+    }
+  ]
+}

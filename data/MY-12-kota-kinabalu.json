@@ -1,0 +1,62 @@
+{
+  "id": "MY-12-kota-kinabalu",
+  "name": "Kota Kinabalu (Malaysia)",
+  "type": [
+    "city"
+  ],
+  "parent": "MY-12",
+  "codes": {
+    "wikidata": "Q137271"
+  },
+  "region": [
+    "Asia",
+    "South-eastern Asia",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "The upper half shows a dark blue silhouette of Mount Kinabalu against light blue at the hoist and horizontal stripes of red and white at the fly; the lower half bears horizontal stripes of yellow and green.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Kota_Kinabalu.svg",
+    "https://www.wikidata.org/wiki/Q137271"
+  ],
+  "features": [
+    {
+      "type": "complex"
+    },
+    {
+      "type": "mountain",
+      "color": "navy",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "yellow",
+        "green"
+      ],
+      "count": null
+    }
+  ]
+}

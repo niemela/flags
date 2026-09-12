@@ -1,0 +1,59 @@
+{
+  "id": "UA-12-kryvyi-rih",
+  "name": "Kryvyi Rih (Ukraine)",
+  "type": [
+    "city"
+  ],
+  "parent": "UA-12",
+  "codes": {
+    "wikidata": "Q157137"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A square field divided vertically green (hoist) and red (fly), charged at the centre with a golden oak branch above a white-and-gold Cossack powder horn.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Banner_of_Kryvyi_Rih.svg",
+    "https://www.wikidata.org/wiki/Q157137"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "leaf",
+      "color": "yellow",
+      "position": "center",
+      "role": "oak branch"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "Cossack powder horn"
+    }
+  ]
+}
