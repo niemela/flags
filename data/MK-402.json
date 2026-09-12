@@ -1,0 +1,52 @@
+{
+  "id": "MK-402",
+  "name": "Bosilovo (North Macedonia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "MK",
+  "codes": {
+    "iso_3166_2": "MK-402",
+    "wikidata": "Q1779775"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans",
+    "Slavic"
+  ],
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A blue field with a green hoist triangle from which yellow rays radiate.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_the_Bosilovo_Municipality,_North_Macedonia.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "triangle",
+      "field": "blue",
+      "triangle": "green",
+      "position": "hoist"
+    },
+    {
+      "type": "sun",
+      "rays": 7,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "rays from the hoist"
+    }
+  ]
+}

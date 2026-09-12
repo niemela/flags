@@ -1,0 +1,54 @@
+{
+  "id": "MK-106",
+  "name": "Negotino (North Macedonia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "MK",
+  "codes": {
+    "iso_3166_2": "MK-106",
+    "wikidata": "Q3246545"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans",
+    "Slavic"
+  ],
+  "aspect_ratio": "4:7",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontal stripes of yellow, red and yellow, with a bunch of yellow grapes on the red.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Negotino_Municipality,_North_Macedonia.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "fruit",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "bunch of grapes"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "MK-801",
+  "name": "Aerodrom (North Macedonia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "MK",
+  "codes": {
+    "iso_3166_2": "MK-801",
+    "wikidata": "Q1992708"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans",
+    "Slavic"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "maroon"
+    }
+  ],
+  "description": "A yellow field with maroon triangles at the upper hoist and lower fly, bearing the arms of Aerodrom — a sun above an aircraft device — in the centre.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Aerodrom_Municipality,_North_Macedonia.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "field": "yellow",
+      "triangle": "maroon",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "triangle",
+      "field": "yellow",
+      "triangle": "maroon",
+      "position": "lower-fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "arms of Aerodrom"
+    }
+  ]
+}

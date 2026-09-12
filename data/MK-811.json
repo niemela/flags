@@ -1,0 +1,51 @@
+{
+  "id": "MK-811",
+  "name": "Saraj (North Macedonia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "MK",
+  "codes": {
+    "iso_3166_2": "MK-811",
+    "wikidata": "Q1309481"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans",
+    "Slavic"
+  ],
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A vertical red banner bearing a red map of Saraj within a ring of yellow stars.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Saraj_Municipality.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "map",
+      "count": 1,
+      "color": "red",
+      "position": "center",
+      "role": "map of the municipality within a ring of stars"
+    },
+    {
+      "type": "star",
+      "count": 12,
+      "points": 5,
+      "color": "yellow",
+      "arrangement": "circle",
+      "position": "center"
+    }
+  ]
+}

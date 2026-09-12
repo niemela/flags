@@ -1,0 +1,67 @@
+{
+  "id": "MK-208",
+  "name": "Pehčevo (North Macedonia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "MK",
+  "codes": {
+    "iso_3166_2": "MK-208",
+    "wikidata": "Q426114"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans",
+    "Slavic"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red field with blue triangles at the hoist and fly, bearing a large yellow six-pointed star charged with the arms of Pehčevo.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Pehčevo_Municipality,_North_Macedonia.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "triangle",
+      "field": "red",
+      "triangle": "blue",
+      "position": "hoist"
+    },
+    {
+      "type": "triangle",
+      "field": "red",
+      "triangle": "blue",
+      "position": "fly"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "yellow",
+      "arrangement": "single",
+      "position": "center",
+      "size": "large"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "arms of Pehčevo"
+    }
+  ]
+}

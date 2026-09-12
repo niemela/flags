@@ -1,0 +1,65 @@
+{
+  "id": "MK-704",
+  "name": "Lipkovo (North Macedonia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "MK",
+  "codes": {
+    "iso_3166_2": "MK-704",
+    "wikidata": "Q2041236"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans",
+    "Slavic"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A red hoist triangle bearing a white star, blue triangles above and below, and green and white stripes converging from the fly.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Lipkovo_Municipality,_North_Macedonia.svg"
+  ],
+  "features": [
+    {
+      "type": "triangle",
+      "field": "blue",
+      "triangle": "red",
+      "position": "hoist"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "arrangement": "single",
+      "position": "hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 5,
+      "position": "fly"
+    }
+  ]
+}

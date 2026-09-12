@@ -1,0 +1,55 @@
+{
+  "id": "MK-207",
+  "name": "Makedonska Kamenica (North Macedonia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "MK",
+  "codes": {
+    "iso_3166_2": "MK-207",
+    "wikidata": "Q2041219"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans",
+    "Slavic"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red field between a green diagonal band at the upper hoist and a black one at the lower fly, bearing a yellow sixteen-rayed sun.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Makedonska_Kamenica_Municipality,_North_Macedonia.svg"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "green",
+        "red",
+        "black"
+      ],
+      "count": 3,
+      "direction": "bend"
+    },
+    {
+      "type": "sun",
+      "rays": 16,
+      "color": "yellow",
+      "position": "center"
+    }
+  ]
+}

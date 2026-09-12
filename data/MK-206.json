@@ -1,0 +1,58 @@
+{
+  "id": "MK-206",
+  "name": "Kočani (North Macedonia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "MK",
+  "codes": {
+    "iso_3166_2": "MK-206",
+    "wikidata": "Q1819289"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans",
+    "Slavic"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red field with yellow stripes near the top and bottom edges, bearing yellow ears of grain flanking a stylised device.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Kocani_Municipality,_North_Macedonia.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 5,
+      "widths": [
+        1,
+        1,
+        6,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "wheat",
+      "count": 2,
+      "color": "yellow",
+      "position": "center",
+      "role": "ears of grain flanking a stylised device"
+    }
+  ]
+}

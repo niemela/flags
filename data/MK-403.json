@@ -1,0 +1,52 @@
+{
+  "id": "MK-403",
+  "name": "Valandovo (North Macedonia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "MK",
+  "codes": {
+    "iso_3166_2": "MK-403",
+    "wikidata": "Q2018965"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans",
+    "Slavic"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red field with a yellow ring in the upper hoist trailing a yellow beam to the lower fly.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Valandovo_Municipality,_North_Macedonia.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "circle",
+      "count": 1,
+      "color": "yellow",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "direction": "bend",
+      "role": "tapering beam"
+    }
+  ]
+}
