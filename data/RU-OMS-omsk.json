@@ -1,0 +1,50 @@
+{
+  "id": "RU-OMS-omsk",
+  "name": "Omsk (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-OMS",
+  "codes": {
+    "wikidata": "Q898"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A white field with a red horizontal stripe across the centre whose edges are indented (a dancetty stripe) — the fortress line of the arms of Omsk.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Omsk.svg",
+    "https://www.wikidata.org/wiki/Q898"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": null,
+      "role": "dancetty stripe"
+    }
+  ]
+}

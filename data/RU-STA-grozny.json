@@ -1,0 +1,62 @@
+{
+  "id": "RU-STA-grozny",
+  "name": "Grozny (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-STA",
+  "codes": {
+    "wikidata": "Q5196"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A green field with white and red horizontal stripes along the base, charged at the centre with the white Heart of Chechnya mosque with four minarets.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Grozny_(Chechnya).svg",
+    "https://www.wikidata.org/wiki/Q5196"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": null
+    },
+    {
+      "type": "temple",
+      "color": "white",
+      "position": "center",
+      "role": "Heart of Chechnya mosque"
+    }
+  ]
+}

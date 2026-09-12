@@ -1,0 +1,60 @@
+{
+  "id": "RU-SVE-yekaterinburg",
+  "name": "Yekaterinburg (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-SVE",
+  "codes": {
+    "wikidata": "Q887"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Three horizontal stripes of yellow, green and blue, the green charged with a white mine shaft and a white smelting furnace with a red flame.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Yekaterinburg_(Sverdlovsk_oblast).svg",
+    "https://www.wikidata.org/wiki/Q887"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "mine shaft and smelting furnace"
+    }
+  ]
+}

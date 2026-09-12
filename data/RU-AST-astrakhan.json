@@ -1,0 +1,67 @@
+{
+  "id": "RU-AST-astrakhan",
+  "name": "Astrakhan (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-AST",
+  "codes": {
+    "wikidata": "Q3927"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A white field with blue waves along the base, charged with a golden crown of Astrakhan above a curved silver sabre with a golden hilt.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Astrakhan.svg",
+    "https://www.wikidata.org/wiki/Q3927"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "center",
+      "count": 1
+    },
+    {
+      "type": "sword",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "role": "curved sabre"
+    }
+  ]
+}

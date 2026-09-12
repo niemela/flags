@@ -1,0 +1,58 @@
+{
+  "id": "RU-KRS-kursk",
+  "name": "Kursk (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-KRS",
+  "codes": {
+    "wikidata": "Q3159"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "A white field with a broad dark blue diagonal band from the upper hoist to the lower fly bearing three silver partridges in flight.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Kursk.svg",
+    "https://www.wikidata.org/wiki/Q3159"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "navy"
+      ],
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "bird",
+      "color": "grey",
+      "position": "center",
+      "count": 3,
+      "role": "three partridges"
+    }
+  ]
+}

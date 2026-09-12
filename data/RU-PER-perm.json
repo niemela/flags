@@ -1,0 +1,59 @@
+{
+  "id": "RU-PER-perm",
+  "name": "Perm (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-PER",
+  "codes": {
+    "wikidata": "Q915"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red field charged with a white bear walking toward the fly carrying a golden Gospel on its back, beneath a white cross — the arms of Perm.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Perm.svg",
+    "https://www.wikidata.org/wiki/Q915"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "center",
+      "role": "bear carrying a Gospel"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "top"
+    },
+    {
+      "type": "book",
+      "color": "yellow",
+      "position": "center"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "RU-DA-makhachkala",
+  "name": "Makhachkala (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-DA",
+  "codes": {
+    "wikidata": "Q5168"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A red field with blue waves along the base, charged with a white fortress of two flaming towers and a golden sun above the gate — the arms of Makhachkala.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Makhachkala_(Dagestan).svg",
+    "https://www.wikidata.org/wiki/Q5168"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "fortress with two flaming towers"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "center",
+      "count": 1
+    }
+  ]
+}

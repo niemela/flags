@@ -1,0 +1,64 @@
+{
+  "id": "RU-TUL-tula",
+  "name": "Tula (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-TUL",
+  "codes": {
+    "wikidata": "Q2770"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "grey"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red field charged with two crossed silver sword blades over a musket barrel, between two silver hammers, with a golden Hero City star in the upper hoist — the arms of Tula.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Tula.svg",
+    "https://www.wikidata.org/wiki/Q2770"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "sword",
+      "color": "grey",
+      "position": "center",
+      "count": 2
+    },
+    {
+      "type": "tool",
+      "color": "grey",
+      "position": "center",
+      "count": 2,
+      "role": "hammers"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "Gold Star of a Hero City"
+    }
+  ]
+}

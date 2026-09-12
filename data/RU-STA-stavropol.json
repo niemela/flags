@@ -1,0 +1,50 @@
+{
+  "id": "RU-STA-stavropol",
+  "name": "Stavropol (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-STA",
+  "codes": {
+    "wikidata": "Q5206"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A white field with a yellow cross whose vertical arm is offset toward the hoist, charged at the crossing with a yellow fortress gate.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Stavropol.svg",
+    "https://www.wikidata.org/wiki/Q5206"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "nordic-cross",
+      "color": "yellow"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "fortress gate"
+    }
+  ]
+}

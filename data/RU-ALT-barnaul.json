@@ -1,0 +1,61 @@
+{
+  "id": "RU-ALT-barnaul",
+  "name": "Barnaul (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-ALT",
+  "codes": {
+    "wikidata": "Q6014"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "grey"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A light blue field above a green base, charged with a silver silver-smelting furnace with smoke rising, flanked by grey ore-bearing rocks — the arms of Barnaul as a full-field design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Barnaul_(2021-).svg",
+    "https://www.wikidata.org/wiki/Q6014"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "silver-smelting furnace"
+    },
+    {
+      "type": "mountain",
+      "color": "grey",
+      "position": "center",
+      "count": 2
+    }
+  ]
+}

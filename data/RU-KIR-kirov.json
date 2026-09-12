@@ -1,0 +1,57 @@
+{
+  "id": "RU-KIR-kirov",
+  "name": "Kirov (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-KIR",
+  "codes": {
+    "wikidata": "Q5384"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A yellow field charged with a hand emerging from a cloud drawing a bow and arrow, beneath a small red cross — the arms of Kirov (Vyatka).",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Kirov_(Kirov_oblast).svg",
+    "https://www.wikidata.org/wiki/Q5384"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "hand from a cloud holding a drawn bow"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "top"
+    }
+  ]
+}

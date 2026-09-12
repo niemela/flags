@@ -1,0 +1,65 @@
+{
+  "id": "RU-BU-ulan-ude",
+  "name": "Ulan-Ude (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-BU",
+  "codes": {
+    "wikidata": "Q6816"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A yellow field with a blue vertical stripe at the hoist bearing the golden soyombo symbol; the yellow bears the arms of Ulan-Ude — a green branch of leaves crossed by a silver mace and a staff.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Флаг_города_Улан-Удэ.svg",
+    "https://www.wikidata.org/wiki/Q6816"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": null
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "soyombo symbol"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "crossed mace, staff and leafy branch"
+    }
+  ]
+}

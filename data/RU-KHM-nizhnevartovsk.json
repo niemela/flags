@@ -1,0 +1,58 @@
+{
+  "id": "RU-KHM-nizhnevartovsk",
+  "name": "Nizhnevartovsk (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-KHM",
+  "codes": {
+    "wikidata": "Q172637"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A yellow triangle issues from the hoist; the fly is divided horizontally blue over white, with a yellow horizontal line extending from the triangle's apex to the fly.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Nizhnevartovsk.svg",
+    "https://www.wikidata.org/wiki/Q172637"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "horizontal line from the apex to the fly"
+    }
+  ]
+}
