@@ -1,0 +1,57 @@
+{
+  "id": "BR-SP-sao-carlos",
+  "name": "São Carlos (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SP",
+  "codes": {
+    "wikidata": "Q194338"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "purple"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A purple field charged at the centre with a green disc edged in white bearing a yellow tree.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_São_Carlos.svg",
+    "https://www.wikidata.org/wiki/Q194338"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "purple"
+    },
+    {
+      "type": "disc",
+      "color": "green",
+      "position": "center",
+      "fimbriation": {
+        "color": "white"
+      }
+    },
+    {
+      "type": "tree",
+      "color": "yellow",
+      "position": "center",
+      "count": 1
+    }
+  ]
+}

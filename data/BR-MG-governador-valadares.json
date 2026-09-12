@@ -1,0 +1,64 @@
+{
+  "id": "BR-MG-governador-valadares",
+  "name": "Governador Valadares (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-MG",
+  "codes": {
+    "wikidata": "Q462218"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "A blue field with a saltire and cross of white, dark red and green bands radiating from a central white rectangle bearing the coat of arms of Governador Valadares.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Governador_Valadares.svg",
+    "https://www.wikidata.org/wiki/Q462218"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "saltire",
+      "color": "maroon",
+      "fimbriation": {
+        "color": "white"
+      }
+    },
+    {
+      "type": "greek-cross",
+      "color": "green",
+      "fimbriation": {
+        "color": "white"
+      }
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Governador Valadares"
+    }
+  ]
+}

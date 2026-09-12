@@ -1,0 +1,57 @@
+{
+  "id": "BR-SC-florianopolis",
+  "name": "Florianópolis (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SC",
+  "codes": {
+    "wikidata": "Q132997"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A white field with a red horizontal stripe near the top and bottom edges, charged at the centre with the coat of arms of Florianópolis.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Florianópolis.svg",
+    "https://www.wikidata.org/wiki/Q132997"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": null
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Florianópolis"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "BR-PE-petrolina",
+  "name": "Petrolina (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PE",
+  "codes": {
+    "wikidata": "Q842143"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Three vertical stripes of green, yellow and red, the yellow centre stripe charged with two crossed red oars and a green cactus.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_petrolina.svg",
+    "https://www.wikidata.org/wiki/Q842143"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "two crossed oars and a cactus"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "BR-ES-vila-velha",
+  "name": "Vila Velha (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-ES",
+  "codes": {
+    "wikidata": "Q334197"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A white triangle issues from the hoist, bearing the coat of arms of Vila Velha; the fly is divided horizontally red over dark blue.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Vila_Velha_(Espírito_Santo).svg",
+    "https://www.wikidata.org/wiki/Q334197"
+  ],
+  "features": [
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "navy"
+      ],
+      "count": 2
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "coat of arms of Vila Velha"
+    }
+  ]
+}

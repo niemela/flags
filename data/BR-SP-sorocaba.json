@@ -1,0 +1,50 @@
+{
+  "id": "BR-SP-sorocaba",
+  "name": "Sorocaba (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SP",
+  "codes": {
+    "wikidata": "Q188901"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, red below and yellow above, charged at the centre with the coat of arms of Sorocaba supported by two horses.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:BandeiraSorocaba.svg",
+    "https://www.wikidata.org/wiki/Q188901"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "red",
+      "direction": "bend"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Sorocaba"
+    }
+  ]
+}

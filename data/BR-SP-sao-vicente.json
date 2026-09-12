@@ -1,0 +1,63 @@
+{
+  "id": "BR-SP-sao-vicente",
+  "name": "São Vicente (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SP",
+  "codes": {
+    "wikidata": "Q272254"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A red field bordered by yellow cross-crosslets, charged at the centre with a white rectangle bearing a black lion rampant.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_São_Vicente,_São_Paulo.svg",
+    "https://www.wikidata.org/wiki/Q272254"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "bordure",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "ring of cross-crosslets along the edges"
+    },
+    {
+      "type": "square",
+      "color": "white",
+      "position": "center"
+    },
+    {
+      "type": "lion",
+      "color": "black",
+      "position": "center",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "BR-TO-palmas",
+  "name": "Palmas (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-TO",
+  "codes": {
+    "wikidata": "Q178993"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A white field with an orange sun of many rays in the upper half and two blue horizontal stripes across the lower part.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Palmas.svg",
+    "https://www.wikidata.org/wiki/Q178993"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "sun",
+      "color": "orange",
+      "position": "center",
+      "count": 1
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "BR-SP-bauru",
+  "name": "Bauru (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SP",
+  "codes": {
+    "wikidata": "Q241645"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A green field with a yellow triangle edged in red issuing from the hoist and pointing to the fly, bearing the coat of arms of Bauru on a white disc.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Bauru_-_SP.svg",
+    "https://www.wikidata.org/wiki/Q241645"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "hoist",
+      "fimbriation": {
+        "color": "red"
+      }
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "coat of arms of Bauru"
+    }
+  ]
+}

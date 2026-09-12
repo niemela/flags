@@ -1,0 +1,59 @@
+{
+  "id": "BR-SP-ribeirao-preto",
+  "name": "Ribeirão Preto (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SP",
+  "codes": {
+    "wikidata": "Q188892"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A white field with a broad blue diagonal band from the lower hoist to the upper fly, charged at the centre with the coat of arms of Ribeirão Preto.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Ribeirão_Preto.svg",
+    "https://www.wikidata.org/wiki/Q188892"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Ribeirão Preto"
+    }
+  ]
+}

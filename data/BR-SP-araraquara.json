@@ -1,0 +1,56 @@
+{
+  "id": "BR-SP-araraquara",
+  "name": "Araraquara (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SP",
+  "codes": {
+    "wikidata": "Q626247"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A blue field with a white triangle issuing from the hoist bearing the coat of arms of Araraquara; a large golden sun with a face is set toward the fly.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:BandeiraAraraquara.svg",
+    "https://www.wikidata.org/wiki/Q626247"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "coat of arms of Araraquara"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "fly",
+      "count": 1
+    }
+  ]
+}

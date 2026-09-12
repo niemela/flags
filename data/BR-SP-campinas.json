@@ -1,0 +1,52 @@
+{
+  "id": "BR-SP-campinas",
+  "name": "Campinas (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SP",
+  "codes": {
+    "wikidata": "Q171617"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A white field charged at the centre with the blue shield of Campinas bearing a golden phoenix, between the words 'Município de Campinas' above and 'São Paulo' below.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Campinas_city_flag.svg",
+    "https://www.wikidata.org/wiki/Q171617"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "shield",
+      "color": "navy",
+      "position": "center",
+      "role": "shield with a golden phoenix"
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "center",
+      "role": "'Município de Campinas – São Paulo' inscription"
+    }
+  ]
+}

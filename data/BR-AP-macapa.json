@@ -1,0 +1,54 @@
+{
+  "id": "BR-AP-macapa",
+  "name": "Macapá (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-AP",
+  "codes": {
+    "wikidata": "Q180215"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "Three horizontal stripes of red, yellow and dark green-blue, charged at the centre with a grey bastion of the Fortress of São José de Macapá.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Macapá.svg",
+    "https://www.wikidata.org/wiki/Q180215"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "navy"
+      ],
+      "count": 3
+    },
+    {
+      "type": "building",
+      "color": "grey",
+      "position": "center",
+      "role": "bastion of the Fortress of São José de Macapá"
+    }
+  ]
+}

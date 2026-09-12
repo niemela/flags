@@ -1,0 +1,62 @@
+{
+  "id": "BR-MS-campo-grande",
+  "name": "Campo Grande (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-MS",
+  "codes": {
+    "wikidata": "Q168929"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue field with a yellow saltire and cross edged in red radiating from a central blue-and-white shield of arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Campo_Grande.svg",
+    "https://www.wikidata.org/wiki/Q168929"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "saltire",
+      "color": "yellow",
+      "fimbriation": {
+        "color": "red"
+      }
+    },
+    {
+      "type": "greek-cross",
+      "color": "yellow",
+      "fimbriation": {
+        "color": "red"
+      }
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "coat of arms of Campo Grande"
+    }
+  ]
+}

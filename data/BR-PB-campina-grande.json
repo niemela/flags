@@ -1,0 +1,52 @@
+{
+  "id": "BR-PB-campina-grande",
+  "name": "Campina Grande (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PB",
+  "codes": {
+    "wikidata": "Q193016"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "A green field with a yellow chevron edged in grey rising from the base, and three yellow swords: one in each upper corner and one below the chevron.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_campina_grande.svg",
+    "https://www.wikidata.org/wiki/Q193016"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "chevron",
+      "color": "yellow",
+      "fimbriation": {
+        "color": "grey"
+      }
+    },
+    {
+      "type": "sword",
+      "color": "yellow",
+      "count": 3
+    }
+  ]
+}

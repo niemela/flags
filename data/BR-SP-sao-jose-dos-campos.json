@@ -1,0 +1,72 @@
+{
+  "id": "BR-SP-sao-jose-dos-campos",
+  "name": "São José dos Campos (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SP",
+  "codes": {
+    "wikidata": "Q191642"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Thirteen horizontal stripes alternating blue and white, charged at the centre with a yellow cogwheel enclosing a blue disc with a white river and stars.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_São_José_dos_Campos.svg",
+    "https://www.wikidata.org/wiki/Q191642"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 13
+    },
+    {
+      "type": "cogwheel",
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "disc",
+      "color": "blue",
+      "position": "center"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "position": "center"
+    }
+  ]
+}

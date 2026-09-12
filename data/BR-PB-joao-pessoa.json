@@ -1,0 +1,59 @@
+{
+  "id": "BR-PB-joao-pessoa",
+  "name": "João Pessoa (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PB",
+  "codes": {
+    "wikidata": "Q167436"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Four horizontal stripes of white, red, white and red, overlaid by a black vertical stripe at the centre bearing three white castles in a column.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_João_Pessoa.svg",
+    "https://www.wikidata.org/wiki/Q167436"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 4
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "count": 3,
+      "role": "three castles"
+    }
+  ]
+}

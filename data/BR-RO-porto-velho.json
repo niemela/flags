@@ -1,0 +1,51 @@
+{
+  "id": "BR-RO-porto-velho",
+  "name": "Porto Velho (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-RO",
+  "codes": {
+    "wikidata": "Q172512"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Vertically divided yellow (hoist) and blue (fly); the yellow bears three black silhouettes of the water towers of the Madeira-Mamoré railway.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Porto_Velho.svg",
+    "https://www.wikidata.org/wiki/Q172512"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "black",
+      "position": "hoist",
+      "count": 3,
+      "role": "three railway water towers"
+    }
+  ]
+}
