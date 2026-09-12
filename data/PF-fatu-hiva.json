@@ -1,0 +1,44 @@
+{
+  "id": "PF-fatu-hiva",
+  "name": "Fatu-Hiva (French Polynesia)",
+  "type": [
+    "city"
+  ],
+  "parent": "PF",
+  "codes": {
+    "wikidata": "Q1398288"
+  },
+  "region": [
+    "Oceania",
+    "Polynesia",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A yellow field within a black border, lettered FATU HIVA in black.",
+  "history": "Commune of French Polynesia; the communes are the only flag-bearing level below the collectivity.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Fatu-Hiva.svg"
+  ],
+  "features": [
+    {
+      "type": "bordure",
+      "field": "yellow",
+      "border": "black"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "FATU HIVA"
+    }
+  ]
+}

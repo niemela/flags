@@ -1,0 +1,57 @@
+{
+  "id": "PF-gambier",
+  "name": "Gambier (French Polynesia)",
+  "type": [
+    "city"
+  ],
+  "parent": "PF",
+  "codes": {
+    "wikidata": "Q186430"
+  },
+  "region": [
+    "Oceania",
+    "Polynesia",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "A white field with a dark blue central stripe bearing a white star, and a dark blue star in each corner.",
+  "history": "Commune of French Polynesia; the communes are the only flag-bearing level below the collectivity.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_the_Gambier_Islands.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "navy",
+        "white"
+      ],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "navy",
+      "arrangement": "scattered",
+      "position": "center",
+      "role": "one star in each corner"
+    }
+  ]
+}

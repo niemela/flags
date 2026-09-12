@@ -1,0 +1,58 @@
+{
+  "id": "PF-moorea-maiao",
+  "name": "Moorea-Maiao (French Polynesia)",
+  "type": [
+    "city"
+  ],
+  "parent": "PF",
+  "codes": {
+    "wikidata": "Q613162"
+  },
+  "region": [
+    "Oceania",
+    "Polynesia",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Vertical stripes of green, white and green, with a green map of Moorea bearing a pineapple beneath the name MOOREA on the white.",
+  "history": "Commune of French Polynesia; the communes are the only flag-bearing level below the collectivity.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Moorea-Maiao.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "map",
+      "count": 1,
+      "color": "green",
+      "position": "center",
+      "role": "map of Moorea bearing a pineapple"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "green",
+      "position": "top",
+      "role": "MOOREA"
+    }
+  ]
+}

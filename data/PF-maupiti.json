@@ -1,0 +1,53 @@
+{
+  "id": "PF-maupiti",
+  "name": "Maupiti (French Polynesia)",
+  "type": [
+    "city"
+  ],
+  "parent": "PF",
+  "codes": {
+    "wikidata": "Q1911201"
+  },
+  "region": [
+    "Oceania",
+    "Polynesia",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontal stripes of dark blue, white and dark blue, with a dark blue tiki-style device on the white.",
+  "history": "Commune of French Polynesia; the communes are the only flag-bearing level below the collectivity.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Maupiti.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "white",
+        "navy"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "navy",
+      "position": "center",
+      "role": "stylised tiki device"
+    }
+  ]
+}

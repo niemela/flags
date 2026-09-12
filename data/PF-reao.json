@@ -1,0 +1,48 @@
+{
+  "id": "PF-reao",
+  "name": "Reao (French Polynesia)",
+  "type": [
+    "city"
+  ],
+  "parent": "PF",
+  "codes": {
+    "wikidata": "Q2006896"
+  },
+  "region": [
+    "Oceania",
+    "Polynesia",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided diagonally yellow over blue from the lower hoist, lettered REAO PUKARUHA in black.",
+  "history": "Commune of French Polynesia; the communes are the only flag-bearing level below the collectivity.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Reao_Pukaruha.svg"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "black",
+      "position": "center",
+      "role": "REAO / PUKARUHA"
+    }
+  ]
+}
