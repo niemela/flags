@@ -1,0 +1,59 @@
+{
+  "id": "CA-BC_government",
+  "name": "British Columbia (Canada, lieutenant governor's standard)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "CA",
+  "codes": {
+    "iso_3166_2": "CA-BC",
+    "wikidata": "Q6544408"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A dark blue field bearing the crowned escutcheon of the arms of British Columbia, encircled by ten gold maple leaves.",
+  "variant": [
+    "government"
+  ],
+  "periods": [
+    {
+      "start": "1982"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_lieutenant_governors_of_Canada"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "escutcheon of the arms of British Columbia, ensigned with a royal crown"
+    },
+    {
+      "type": "maple-leaf",
+      "count": 10,
+      "color": "yellow",
+      "arrangement": "circle",
+      "position": "center",
+      "role": "ten gold maple leaves encircling the shield"
+    }
+  ]
+}

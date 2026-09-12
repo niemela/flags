@@ -1,0 +1,71 @@
+{
+  "id": "AU-VIC_government",
+  "name": "Victoria (Australia, governor's standard)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "AU",
+  "codes": {
+    "iso_3166_2": "AU-VIC",
+    "wikidata": "Q1571023"
+  },
+  "region": [
+    "Oceania",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A gold field with the Union Flag in the canton and the five red stars of the Southern Cross beneath a royal crown in the fly.",
+  "variant": [
+    "government"
+  ],
+  "periods": [
+    {
+      "start": "1984"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_Governors_of_the_Australian_states"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4"
+    },
+    {
+      "type": "crown",
+      "count": 1,
+      "color": "yellow",
+      "position": "fly",
+      "role": "royal crown above the constellation"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "color": "red",
+      "arrangement": "southern-cross",
+      "position": "fly",
+      "role": "the Southern Cross"
+    }
+  ],
+  "history": "Because the Victorian state flag already carries a crown, the governor's flag uses a distinct gold field with the Southern Cross in red rather than the state flag with an added crown."
+}

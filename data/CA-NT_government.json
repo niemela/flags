@@ -1,0 +1,69 @@
+{
+  "id": "CA-NT_government",
+  "name": "Northwest Territories (Canada, commissioner's standard)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "CA",
+  "codes": {
+    "iso_3166_2": "CA-NT",
+    "wikidata": "Q1841537"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue field bearing the escutcheon of the arms of the Northwest Territories, encircled by ten gold maple leaves.",
+  "variant": [
+    "government"
+  ],
+  "periods": [
+    {
+      "start": "2006"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_lieutenant_governors_of_Canada"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "escutcheon of the arms of the Northwest Territories"
+    },
+    {
+      "type": "maple-leaf",
+      "count": 10,
+      "color": "yellow",
+      "arrangement": "circle",
+      "position": "center",
+      "role": "ten gold maple leaves encircling the shield"
+    },
+    {
+      "type": "flower",
+      "count": 2,
+      "color": "white",
+      "position": "center",
+      "role": "two mountain avens flanking the shield"
+    }
+  ]
+}

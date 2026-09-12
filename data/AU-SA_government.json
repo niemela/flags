@@ -1,0 +1,72 @@
+{
+  "id": "AU-SA_government",
+  "name": "South Australia (Australia, governor's standard)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "AU",
+  "codes": {
+    "iso_3166_2": "AU-SA",
+    "wikidata": "Q1840570"
+  },
+  "region": [
+    "Oceania",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "The South Australian state flag — a dark blue field with the Union Flag in the canton and a gold disc bearing the black piping shrike in the fly.",
+  "variant": [
+    "government"
+  ],
+  "periods": [
+    {
+      "start": "2024"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_Governors_of_the_Australian_states"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "yellow",
+      "position": "fly"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "black",
+      "position": "fly",
+      "role": "the piping shrike with wings displayed"
+    }
+  ],
+  "history": "A redesigned standard adopted in 2024, replacing the crowned version used from 1975."
+}

@@ -1,0 +1,78 @@
+{
+  "id": "AU-WA_government",
+  "name": "Western Australia (Australia, governor's standard)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "AU",
+  "codes": {
+    "iso_3166_2": "AU-WA",
+    "wikidata": "Q1372518"
+  },
+  "region": [
+    "Oceania",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "The Western Australian state flag — a dark blue field with the Union Flag in the canton and a gold disc bearing a black swan in the fly — with a royal crown above the badge.",
+  "variant": [
+    "government"
+  ],
+  "periods": [
+    {
+      "start": "1988"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_Governors_of_the_Australian_states"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "yellow",
+      "position": "fly"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "black",
+      "position": "fly",
+      "role": "the black swan"
+    },
+    {
+      "type": "crown",
+      "count": 1,
+      "color": "yellow",
+      "position": "fly",
+      "role": "royal crown above the badge"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "AU-NSW_government",
+  "name": "New South Wales (Australia, governor's standard)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "AU",
+  "codes": {
+    "iso_3166_2": "AU-NSW",
+    "wikidata": "Q1528895"
+  },
+  "region": [
+    "Oceania",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "The New South Wales state flag — a dark blue field with the Union Flag in the canton and the state badge in the fly — with a royal crown above the badge.",
+  "variant": [
+    "government"
+  ],
+  "periods": [
+    {
+      "start": "1981"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_Governors_of_the_Australian_states"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "GB",
+      "proportion": "1/4"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "white",
+      "position": "fly",
+      "role": "state badge: a red cross bearing a gold lion and four gold stars"
+    },
+    {
+      "type": "crown",
+      "count": 1,
+      "color": "yellow",
+      "position": "fly",
+      "role": "royal crown above the badge"
+    }
+  ]
+}
