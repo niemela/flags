@@ -21,7 +21,7 @@
       "color": "white"
     }
   ],
-  "description": "Divided per bend scarlet and white, bearing a large white star fimbriated scarlet charged with the arms of the United States, with two white stars on the scarlet and two scarlet stars on the white.",
+  "description": "Divided per bend sinister scarlet and white, bearing a large white star fimbriated scarlet charged with the arms of the United States, with two white stars on the scarlet at the hoist and two scarlet stars on the white at the fly.",
   "sources": [
     "https://en.wikipedia.org/wiki/Flags_of_the_United_States_Armed_Forces"
   ],
@@ -30,7 +30,7 @@
       "type": "per-bend",
       "field": "red",
       "bend": "white",
-      "direction": "bend"
+      "direction": "bend-sinister"
     },
     {
       "type": "star",
@@ -51,12 +51,19 @@
     },
     {
       "type": "star",
-      "count": 4,
+      "count": 2,
       "points": 5,
       "color": "white",
       "arrangement": "row",
-      "position": "center",
-      "role": "two white stars on the scarlet and two scarlet on the white"
+      "position": "hoist"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "red",
+      "arrangement": "row",
+      "position": "fly"
     }
   ]
 }

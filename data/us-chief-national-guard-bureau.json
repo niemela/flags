@@ -30,17 +30,16 @@
       "color": "red"
     }
   ],
-  "description": "A dark blue field divided per saltire with lighter blue, bearing the gold National Guard eagle between a 1636 scroll above and a NATIONAL GUARD scroll below, with four white stars.",
+  "description": "Divided per bend blue over dark blue, bearing the gold National Guard eagle between a 1636 scroll above and a NATIONAL GUARD scroll below, with two white stars at the hoist and two at the fly.",
   "sources": [
     "https://en.wikipedia.org/wiki/Flags_of_the_United_States_Armed_Forces"
   ],
   "features": [
     {
-      "type": "per-saltire",
-      "hoist": "blue",
-      "top": "navy",
-      "fly": "blue",
-      "bottom": "navy"
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "navy",
+      "direction": "bend"
     },
     {
       "type": "eagle",
@@ -58,11 +57,19 @@
     },
     {
       "type": "star",
-      "count": 4,
+      "count": 2,
       "points": 5,
       "color": "white",
-      "arrangement": "cross-pattern",
-      "position": "center"
+      "arrangement": "row",
+      "position": "hoist"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "white",
+      "arrangement": "row",
+      "position": "fly"
     }
   ]
 }

@@ -25,7 +25,7 @@
       "color": "navy"
     }
   ],
-  "description": "Divided per bend ultramarine blue and white, bearing the coat of arms of the Air Force, with four stars.",
+  "description": "Divided per bend ultramarine blue over white, bearing the coat of arms of the Air Force, with two white stars on the blue at the fly and two blue stars on the white at the hoist.",
   "sources": [
     "https://en.wikipedia.org/wiki/Flags_of_the_United_States_Armed_Forces"
   ],
@@ -44,11 +44,19 @@
     },
     {
       "type": "star",
-      "count": 4,
+      "count": 2,
       "points": 5,
       "color": "white",
       "arrangement": "row",
-      "position": "center"
+      "position": "fly"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "blue",
+      "arrangement": "row",
+      "position": "hoist"
     }
   ]
 }

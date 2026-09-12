@@ -22,15 +22,15 @@
       "color": "blue"
     }
   ],
-  "description": "Divided per bend white and medium blue, bearing the eagle and arrows of the United States seal, with two white stars in the upper fly and two blue stars in the lower hoist.",
+  "description": "Divided per bend medium blue over white, bearing the eagle and arrows of the United States seal, with two white stars in the upper fly and two blue stars in the lower hoist.",
   "sources": [
     "https://en.wikipedia.org/wiki/Flags_of_the_United_States_Armed_Forces"
   ],
   "features": [
     {
       "type": "per-bend",
-      "field": "white",
-      "bend": "blue",
+      "field": "blue",
+      "bend": "white",
       "direction": "bend"
     },
     {
@@ -44,16 +44,16 @@
       "count": 2,
       "points": 5,
       "color": "white",
-      "position": "upper-fly",
-      "arrangement": "row"
+      "arrangement": "row",
+      "position": "upper-fly"
     },
     {
       "type": "star",
       "count": 2,
       "points": 5,
       "color": "blue",
-      "position": "lower-hoist",
-      "arrangement": "row"
+      "arrangement": "row",
+      "position": "lower-hoist"
     }
   ]
 }

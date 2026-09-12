@@ -25,17 +25,16 @@
       "color": "yellow"
     }
   ],
-  "description": "Divided per saltire dark blue and white, bearing the seal of the Department of the Navy, with four stars alternating white and dark blue.",
+  "description": "Divided per bend sinister dark blue and white, bearing the seal of the Department of the Navy, with white stars at the top and hoist and dark blue stars at the fly and bottom.",
   "sources": [
     "https://en.wikipedia.org/wiki/Flags_of_the_United_States_Armed_Forces"
   ],
   "features": [
     {
-      "type": "per-saltire",
-      "hoist": "white",
-      "top": "navy",
-      "fly": "white",
-      "bottom": "navy"
+      "type": "per-bend",
+      "field": "navy",
+      "bend": "white",
+      "direction": "bend-sinister"
     },
     {
       "type": "seal",
@@ -45,11 +44,21 @@
     },
     {
       "type": "star",
-      "count": 4,
+      "count": 2,
       "points": 5,
       "color": "white",
-      "arrangement": "cross-pattern",
-      "position": "center"
+      "arrangement": "row",
+      "position": "hoist",
+      "role": "white stars at the top and the hoist"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "navy",
+      "arrangement": "row",
+      "position": "fly",
+      "role": "dark blue stars at the fly and the bottom"
     }
   ]
 }
