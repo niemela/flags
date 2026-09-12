@@ -1,0 +1,51 @@
+{
+  "id": "us-vice-chairman-joint-chiefs",
+  "name": "Vice Chairman of the Joint Chiefs of Staff",
+  "type": [
+    "organization"
+  ],
+  "parent": "US",
+  "codes": {
+    "wikidata": "Q2916001"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:4",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided per bend white and medium blue, bearing the eagle and arrows of the United States seal, with blue and white stars in the corners.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_United_States_Armed_Forces"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "blue",
+      "direction": "bend"
+    },
+    {
+      "type": "eagle",
+      "count": 1,
+      "position": "center",
+      "role": "the eagle and arrows of the United States seal"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "blue",
+      "arrangement": "scattered",
+      "position": "center"
+    }
+  ]
+}

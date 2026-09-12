@@ -1,0 +1,62 @@
+{
+  "id": "us-vice-chief-of-staff-army",
+  "name": "Vice Chief of Staff of the United States Army",
+  "type": [
+    "organization"
+  ],
+  "parent": "US",
+  "codes": {
+    "wikidata": "Q1355859"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided per saltire scarlet and white, bearing a large white star fimbriated scarlet charged with the arms of the United States, with three further stars.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_United_States_Armed_Forces"
+  ],
+  "features": [
+    {
+      "type": "per-saltire",
+      "hoist": "red",
+      "top": "white",
+      "fly": "red",
+      "bottom": "white"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "size": "large",
+      "fimbriation": {
+        "color": "red"
+      }
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "arms of the United States"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "white",
+      "arrangement": "scattered",
+      "position": "center"
+    }
+  ]
+}

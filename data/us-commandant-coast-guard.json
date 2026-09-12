@@ -1,0 +1,51 @@
+{
+  "id": "us-commandant-coast-guard",
+  "name": "Commandant of the United States Coast Guard",
+  "type": [
+    "organization"
+  ],
+  "parent": "US",
+  "codes": {
+    "wikidata": "Q688856"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "4:5",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided per bend dark blue and white, bearing the seal of the Coast Guard, with two white stars on the blue and two blue stars on the white.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_United_States_Armed_Forces"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "navy",
+      "bend": "white",
+      "direction": "bend"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "seal of the Coast Guard"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "white",
+      "arrangement": "cross-pattern",
+      "position": "center"
+    }
+  ]
+}

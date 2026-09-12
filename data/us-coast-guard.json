@@ -1,0 +1,49 @@
+{
+  "id": "us-coast-guard",
+  "name": "United States Coast Guard",
+  "type": [
+    "organization"
+  ],
+  "parent": "US",
+  "codes": {
+    "wikidata": "Q11224"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "26:33",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "A white field bearing the dark blue Coast Guard eagle emblem, with UNITED STATES COAST GUARD arched above and SEMPER PARATUS 1790 below.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_United_States_Armed_Forces"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "color": "navy",
+      "position": "center",
+      "role": "Coast Guard eagle emblem"
+    },
+    {
+      "type": "glyph",
+      "count": 1,
+      "color": "navy",
+      "position": "center",
+      "role": "UNITED STATES COAST GUARD / SEMPER PARATUS 1790"
+    }
+  ]
+}

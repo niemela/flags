@@ -1,0 +1,53 @@
+{
+  "id": "us-commissioning-pennant",
+  "name": "United States Navy commissioning pennant",
+  "type": [
+    "organization"
+  ],
+  "parent": "US",
+  "codes": {},
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "shape": "pennant",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A long narrow pennant, dark blue at the hoist with seven white stars, the fly divided red over white.",
+  "history": "Flown continuously from the mainmast of a commissioned United States Navy ship, except when a flag officer's or civil official's flag is displayed in its place.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_United_States_Armed_Forces"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "star",
+      "count": 7,
+      "points": 5,
+      "color": "white",
+      "arrangement": "row",
+      "position": "hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    }
+  ]
+}

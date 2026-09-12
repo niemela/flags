@@ -1,0 +1,59 @@
+{
+  "id": "us-coast-guard_state-ensign",
+  "name": "United States Coast Guard (ensign)",
+  "type": [
+    "organization"
+  ],
+  "parent": "US",
+  "codes": {
+    "wikidata": "Q11224"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Sixteen vertical red and white stripes, with the arms of the United States in the canton and the Coast Guard emblem in the fly.",
+  "history": "Flown by Coast Guard vessels as a mark of their authority to stop, board and search vessels subject to United States jurisdiction; the sixteen stripes recall the sixteen states of the Union in 1799.",
+  "variant": [
+    "state-ensign"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_United_States_Armed_Forces"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 16
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "upper-hoist",
+      "role": "arms of the United States"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "color": "navy",
+      "position": "fly",
+      "role": "Coast Guard emblem"
+    }
+  ]
+}

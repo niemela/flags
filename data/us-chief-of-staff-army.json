@@ -1,0 +1,62 @@
+{
+  "id": "us-chief-of-staff-army",
+  "name": "Chief of Staff of the United States Army",
+  "type": [
+    "organization"
+  ],
+  "parent": "US",
+  "codes": {
+    "wikidata": "Q783785"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided per bend scarlet and white, bearing a large white star fimbriated scarlet charged with the arms of the United States, with two white stars on the scarlet and two scarlet stars on the white.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_United_States_Armed_Forces"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "white",
+      "direction": "bend"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "size": "large",
+      "fimbriation": {
+        "color": "red"
+      }
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "arms of the United States"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "white",
+      "arrangement": "row",
+      "position": "center",
+      "role": "two white stars on the scarlet and two scarlet on the white"
+    }
+  ]
+}
