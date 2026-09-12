@@ -1,0 +1,59 @@
+{
+  "id": "IN-TN_proposed",
+  "name": "Tamil Nadu (India, proposed)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "IN",
+  "codes": {
+    "iso_3166_2": "IN-TN",
+    "wikidata": "Q1445"
+  },
+  "region": [
+    "Asia",
+    "Southern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "status": "proposed",
+  "colors": [
+    {
+      "color": "grey"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A grey field with the flag of India in the canton and the emblem of Tamil Nadu in the fly.",
+  "history": "Designed by the Government of Tamil Nadu in 1970; never adopted. India has no officially recognised state flags.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Indian_state_flags",
+    "https://en.wikipedia.org/wiki/Flag_of_Tamil_Nadu"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "grey"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "IN",
+      "proportion": "1/4"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "color": "blue",
+      "position": "fly",
+      "role": "Emblem of Tamil Nadu"
+    }
+  ]
+}
