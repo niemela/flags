@@ -1,0 +1,62 @@
+{
+  "id": "KN-N",
+  "name": "Nevis (Saint Kitts and Nevis)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "KN",
+  "codes": {
+    "iso_3166_2": "KN-N",
+    "wikidata": "Q207794"
+  },
+  "region": [
+    "Americas",
+    "Latin America",
+    "Caribbean",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A yellow field with the flag of Saint Kitts and Nevis in the canton and, in the fly, a triangle of green, white and blue representing Nevis Peak rising above cloud and sea.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Nevis.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "KN",
+      "proportion": "1/4"
+    },
+    {
+      "type": "triangle",
+      "field": "yellow",
+      "triangle": "green",
+      "position": "fly",
+      "role": "Nevis Peak, with a white cloud and a blue sea band"
+    }
+  ]
+}

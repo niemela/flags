@@ -1,0 +1,58 @@
+{
+  "id": "GH-AA",
+  "name": "Greater Accra Region (Ghana)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "GH",
+  "codes": {
+    "iso_3166_2": "GH-AA",
+    "wikidata": "Q431729"
+  },
+  "region": [
+    "Africa",
+    "Western Africa",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A yellow field with a canton of three vertical stripes of green, white and black.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Greater_Accra_Region.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "canton",
+      "proportion": "1/4",
+      "features": [
+        {
+          "type": "vertical-stripes",
+          "stripes": [
+            "green",
+            "white",
+            "black"
+          ],
+          "count": 3
+        }
+      ]
+    }
+  ]
+}
