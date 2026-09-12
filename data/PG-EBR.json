@@ -1,0 +1,68 @@
+{
+  "id": "PG-EBR",
+  "name": "East New Britain Province (Papua New Guinea)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PG",
+  "codes": {
+    "iso_3166_2": "PG-EBR",
+    "wikidata": "Q753702"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally black over maroon by a green band, with the Southern Cross in the upper fly and a circular emblem — a tubuan mask within a ring of shell money — in the centre.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_East_New_Britain.svg"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "black",
+      "bend": "maroon",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "green"
+      ],
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "arrangement": "southern-cross",
+      "position": "upper-fly"
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "tubuan emblem within a ring of shell money"
+    }
+  ]
+}

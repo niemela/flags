@@ -1,0 +1,60 @@
+{
+  "id": "PG-CPM",
+  "name": "Central Province (Papua New Guinea)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PG",
+  "codes": {
+    "iso_3166_2": "PG-CPM",
+    "wikidata": "Q874942"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally red over dark blue from the upper hoist, with a black lakatoi sailing canoe on the blue and a white star trailing a cluster of smaller stars on the red.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Central_Province,_Papua_New_Guinea.svg"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "navy",
+      "direction": "bend"
+    },
+    {
+      "type": "ship",
+      "count": 1,
+      "color": "black",
+      "position": "lower-hoist",
+      "role": "lakatoi canoe"
+    },
+    {
+      "type": "star",
+      "count": 7,
+      "points": 5,
+      "color": "white",
+      "arrangement": "scattered",
+      "position": "upper-fly"
+    }
+  ]
+}

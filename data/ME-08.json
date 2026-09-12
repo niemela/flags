@@ -1,0 +1,50 @@
+{
+  "id": "ME-08",
+  "name": "Herceg Novi (Montenegro)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "ME",
+  "codes": {
+    "iso_3166_2": "ME-08",
+    "wikidata": "Q3317366"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "Balkans"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A white field with a dark blue cross fimbriated gold, and the municipal arms — a tower between two spears — in the centre.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Herceg_Novi,_Montenegro.svg"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "field": "white",
+      "cross": "navy",
+      "fimbriation": {
+        "color": "yellow",
+        "around": "cross"
+      }
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "center",
+      "role": "arms of Herceg Novi: a tower between two spears"
+    }
+  ]
+}

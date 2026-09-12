@@ -1,0 +1,66 @@
+{
+  "id": "PG-NIK",
+  "name": "New Ireland Province (Papua New Guinea)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PG",
+  "codes": {
+    "iso_3166_2": "PG-NIK",
+    "wikidata": "Q838690"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "orange"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A dark blue hoist stripe bearing the Southern Cross and an orange field with a black bird of paradise.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_New_Ireland.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "navy",
+        "orange"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        3
+      ]
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "arrangement": "southern-cross",
+      "position": "hoist"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "black",
+      "position": "fly",
+      "role": "bird of paradise"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "PG-WHM",
+  "name": "Western Highlands Province (Papua New Guinea)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PG",
+  "codes": {
+    "iso_3166_2": "PG-WHM",
+    "wikidata": "Q849807"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally green over black by a white band, with the provincial seal in the upper fly and two white stars in the lower hoist.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Western_Highlands.svg"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "black",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "upper-fly",
+      "role": "provincial seal"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "white",
+      "arrangement": "row",
+      "position": "lower-hoist"
+    }
+  ]
+}

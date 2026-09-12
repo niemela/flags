@@ -1,0 +1,60 @@
+{
+  "id": "PG-EHG",
+  "name": "Eastern Highlands Province (Papua New Guinea)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PG",
+  "codes": {
+    "iso_3166_2": "PG-EHG",
+    "wikidata": "Q849812"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally red over green from the lower hoist, with a large yellow six-pointed star bearing a bird of paradise, surrounded by eight smaller yellow stars.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Eastern_Highlands.svg"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "yellow",
+      "arrangement": "single",
+      "position": "center",
+      "size": "large",
+      "role": "six-pointed star bearing a bird of paradise"
+    },
+    {
+      "type": "star",
+      "count": 8,
+      "points": 5,
+      "color": "yellow",
+      "arrangement": "circle",
+      "position": "center"
+    }
+  ]
+}

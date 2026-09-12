@@ -1,0 +1,58 @@
+{
+  "id": "PG-WBK",
+  "name": "West New Britain Province (Papua New Guinea)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PG",
+  "codes": {
+    "iso_3166_2": "PG-WBK",
+    "wikidata": "Q667468"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A dark blue field with a canton of the Papua New Guinea flag and a conch shell in the lower fly.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_West_New_Britain.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "canton",
+      "embedded_flag_id": "PG",
+      "proportion": "1/4"
+    },
+    {
+      "type": "shell",
+      "count": 1,
+      "color": "white",
+      "position": "lower-fly",
+      "role": "conch shell"
+    }
+  ]
+}

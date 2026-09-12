@@ -1,0 +1,92 @@
+{
+  "id": "PG-HLA",
+  "name": "Hela Province (Papua New Guinea)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PG",
+  "codes": {
+    "iso_3166_2": "PG-HLA",
+    "wikidata": "Q1382499"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "3:4",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "A yellow upper half and a black lower half separated by green and white stripes, charged with a light blue disc bearing a Huli wigman's head between two stone axes, with a bird of paradise in the upper fly and the Southern Cross below.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hela.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green",
+        "white",
+        "black"
+      ],
+      "count": 4,
+      "widths": [
+        5,
+        1,
+        1,
+        5
+      ]
+    },
+    {
+      "type": "disc",
+      "count": 1,
+      "color": "light-blue",
+      "position": "center",
+      "role": "disc with a Huli wigman's head"
+    },
+    {
+      "type": "axe",
+      "count": 2,
+      "color": "grey",
+      "position": "center"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "red",
+      "position": "upper-fly",
+      "role": "bird of paradise"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "arrangement": "southern-cross",
+      "position": "bottom"
+    }
+  ]
+}

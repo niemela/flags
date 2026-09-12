@@ -1,0 +1,69 @@
+{
+  "id": "PG-MPM",
+  "name": "Madang Province (Papua New Guinea)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PG",
+  "codes": {
+    "iso_3166_2": "PG-MPM",
+    "wikidata": "Q326254"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A white canton bearing a black slit drum between palms; the rest of the flag striped maroon, yellow and black, with six white stars on the black stripe.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Madang.svg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "maroon",
+        "yellow",
+        "black"
+      ],
+      "count": 3
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "proportion": "1/3",
+      "features": [
+        {
+          "type": "drum",
+          "count": 1,
+          "color": "black",
+          "role": "garamut slit drum between palms"
+        }
+      ]
+    },
+    {
+      "type": "star",
+      "count": 6,
+      "points": 5,
+      "color": "white",
+      "arrangement": "row",
+      "position": "bottom"
+    }
+  ]
+}

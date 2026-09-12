@@ -1,0 +1,75 @@
+{
+  "id": "PG-SHM",
+  "name": "Southern Highlands Province (Papua New Guinea)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PG",
+  "codes": {
+    "iso_3166_2": "PG-SHM",
+    "wikidata": "Q849801"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A black diagonal band from the lower hoist to the upper fly separating a green lower hoist and a red upper fly; the band bears a yellow bird of paradise in a ring of kina shells between two arrows, with white stars in each corner.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Southern_Highlands_Province_(Papua_New_Guinea).svg"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "green",
+        "black",
+        "red"
+      ],
+      "count": 3,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "yellow",
+      "position": "center",
+      "role": "bird of paradise within a kina-shell ring, between two arrows"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "white",
+      "arrangement": "scattered",
+      "position": "lower-hoist"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "arrangement": "scattered",
+      "position": "upper-fly"
+    }
+  ]
+}

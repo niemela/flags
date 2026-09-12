@@ -1,0 +1,70 @@
+{
+  "id": "PG-SAN",
+  "name": "Sandaun Province (Papua New Guinea)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PG",
+  "codes": {
+    "iso_3166_2": "PG-SAN",
+    "wikidata": "Q753689"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "3:4",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally black over red from the lower hoist, with a rising sun in blue and yellow on the division, a yellow bird of paradise on the red and the Southern Cross in white on the black.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Sandaun.svg"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "black",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "sun",
+      "rays": 16,
+      "color": "yellow",
+      "position": "center",
+      "role": "rising sun on a blue disc"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "yellow",
+      "position": "lower-fly",
+      "role": "bird of paradise"
+    },
+    {
+      "type": "star",
+      "count": 7,
+      "points": 5,
+      "color": "white",
+      "arrangement": "scattered",
+      "position": "upper-hoist"
+    }
+  ]
+}

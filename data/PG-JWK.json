@@ -1,0 +1,67 @@
+{
+  "id": "PG-JWK",
+  "name": "Jiwaka Province (Papua New Guinea)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PG",
+  "codes": {
+    "iso_3166_2": "PG-JWK",
+    "wikidata": "Q1400625"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "3:4",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Divided diagonally dark green over yellow by a white band, with a yellow bird of paradise on the green and a traditional kundu drum with crossed spears on the yellow.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Jiwaka.svg"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "yellow",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "yellow",
+      "position": "upper-fly",
+      "role": "bird of paradise"
+    },
+    {
+      "type": "drum",
+      "count": 1,
+      "color": "orange",
+      "position": "lower-hoist",
+      "role": "kundu drum"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "SI-085",
+  "name": "Novo Mesto (Slovenia)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "SI",
+  "codes": {
+    "iso_3166_2": "SI-085",
+    "wikidata": "Q398116"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union",
+    "Slavic",
+    "Balkans"
+  ],
+  "aspect_ratio": "2:5",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided vertically yellow and red; the yellow hoist bears the city arms and the red fly a white diagonal band.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Novo_Mesto.svg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "coat-of-arms",
+      "count": 1,
+      "position": "hoist",
+      "role": "arms of Novo Mesto"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "direction": "bend",
+      "position": "fly"
+    }
+  ]
+}

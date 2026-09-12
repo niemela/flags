@@ -1,0 +1,58 @@
+{
+  "id": "PG-MRL",
+  "name": "Manus Province (Papua New Guinea)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PG",
+  "codes": {
+    "iso_3166_2": "PG-MRL",
+    "wikidata": "Q874935"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided diagonally brown over dark blue from the upper hoist, with a yellow bird of paradise on the blue and five green-and-white shells on the brown.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Manus.svg"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "brown",
+      "bend": "navy",
+      "direction": "bend"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "yellow",
+      "position": "lower-hoist",
+      "role": "bird of paradise"
+    },
+    {
+      "type": "shell",
+      "count": 5,
+      "color": "green",
+      "position": "upper-fly"
+    }
+  ]
+}

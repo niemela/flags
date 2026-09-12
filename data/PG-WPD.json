@@ -1,0 +1,73 @@
+{
+  "id": "PG-WPD",
+  "name": "Western Province (Papua New Guinea)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PG",
+  "codes": {
+    "iso_3166_2": "PG-WPD",
+    "wikidata": "Q849790"
+  },
+  "region": [
+    "Oceania",
+    "Melanesia",
+    "Pacific Islands",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "A black field with a maroon panel bearing a yellow bird of paradise and the Southern Cross at the hoist and, in a yellow square in the fly, a crocodile head with a headdress of feathers.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Western_Province.svg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "black"
+    },
+    {
+      "type": "square",
+      "color": "maroon",
+      "position": "center",
+      "role": "maroon panel"
+    },
+    {
+      "type": "bird",
+      "count": 1,
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "bird of paradise"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "arrangement": "southern-cross",
+      "position": "lower-hoist"
+    },
+    {
+      "type": "square",
+      "color": "yellow",
+      "position": "fly",
+      "role": "yellow square bearing a crocodile head with feather headdress"
+    }
+  ]
+}
