@@ -1,0 +1,48 @@
+{
+  "id": "us-coast-guard-vice-admiral",
+  "name": "United States Coast Guard Vice Admiral",
+  "type": [
+    "organization"
+  ],
+  "parent": "US",
+  "codes": {},
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "4:5",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A dark blue field bearing 3 white stars around the Coast Guard emblem.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flags_of_the_United_States_Armed_Forces"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "color": "white",
+      "position": "center",
+      "role": "Coast Guard emblem"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "white",
+      "arrangement": "scattered",
+      "position": "center"
+    }
+  ]
+}
