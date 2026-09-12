@@ -1,0 +1,47 @@
+{
+  "id": "CO-RIS-pereira",
+  "name": "Pereira (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-RIS",
+  "codes": {
+    "wikidata": "Q51111"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red field with a yellow triangle issuing from the hoist and reaching the fly, bearing a red Phrygian cap on a pole.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Pereira.svg",
+    "https://www.wikidata.org/wiki/Q51111"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "hoist"
+    },
+    {
+      "type": "phrygian-cap",
+      "color": "red",
+      "position": "hoist",
+      "count": 1
+    }
+  ]
+}

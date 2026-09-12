@@ -1,0 +1,53 @@
+{
+  "id": "CO-HUI-neiva",
+  "name": "Neiva (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-HUI",
+  "codes": {
+    "wikidata": "Q638260"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Three equal horizontal stripes of red, green and yellow, overlaid by a black arrow pointing from the lower hoist to the upper fly.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Neiva.svg",
+    "https://www.wikidata.org/wiki/Q638260"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "arrowhead",
+      "color": "black",
+      "position": "center",
+      "role": "diagonal arrow"
+    }
+  ]
+}

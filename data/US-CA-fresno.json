@@ -1,0 +1,66 @@
+{
+  "id": "US-CA-fresno",
+  "name": "Fresno (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-CA",
+  "codes": {
+    "wikidata": "Q43301"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "brown"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Three vertical stripes of brown, light blue and olive green: a white cogwheel disc on the brown, a green olive sprig on the blue, and a yellow sun on a white disc on the green, with the word 'Fresno' below.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Fresno,_California.svg",
+    "https://www.wikidata.org/wiki/Q43301"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "brown",
+        "light-blue",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "cogwheel",
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "center",
+      "role": "sprig"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "fly",
+      "count": 1
+    }
+  ]
+}

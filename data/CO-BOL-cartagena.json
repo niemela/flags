@@ -1,0 +1,60 @@
+{
+  "id": "CO-BOL-cartagena",
+  "name": "Cartagena (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-BOL",
+  "codes": {
+    "wikidata": "Q657461"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A red field bearing a yellow rectangle, itself charged with a green rectangle containing a white eight-pointed star — the 'cuadrilongo' flag.",
+  "history": "The cuadrilongo was adopted by the Free State of Cartagena in 1811; the eight-pointed star stands for the eight provinces of the Caribbean coast.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Cartagena.svg",
+    "https://www.wikidata.org/wiki/Q657461"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "square",
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "square",
+      "color": "green",
+      "position": "center"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "white",
+      "position": "center"
+    }
+  ]
+}

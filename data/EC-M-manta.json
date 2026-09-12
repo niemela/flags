@@ -1,0 +1,52 @@
+{
+  "id": "EC-M-manta",
+  "name": "Manta (Ecuador)",
+  "type": [
+    "city"
+  ],
+  "parent": "EC-M",
+  "codes": {
+    "wikidata": "Q990738"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue field with a white cross whose vertical arm is offset toward the hoist, charged at the crossing with a small blue shield and star.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_del_Cantón_Manta.svg",
+    "https://www.wikidata.org/wiki/Q990738"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "nordic-cross",
+      "color": "white"
+    },
+    {
+      "type": "shield",
+      "color": "blue",
+      "position": "center"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "blue",
+      "position": "center"
+    }
+  ]
+}

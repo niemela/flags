@@ -1,0 +1,49 @@
+{
+  "id": "CO-NAR-pasto",
+  "name": "Pasto (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-NAR",
+  "codes": {
+    "wikidata": "Q320015"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "orange"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Three horizontal stripes of orange-red, dark blue and orange-red, with a yellow triangle issuing from the hoist.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_San_Juan_de_Pasto.svg",
+    "https://www.wikidata.org/wiki/Q320015"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "orange",
+        "navy",
+        "orange"
+      ],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "hoist"
+    }
+  ]
+}

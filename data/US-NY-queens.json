@@ -1,0 +1,61 @@
+{
+  "id": "US-NY-queens",
+  "name": "Queens (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-NY",
+  "codes": {
+    "wikidata": "Q18424"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "26:33",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Three horizontal stripes of blue, white and blue, charged at the centre with a ring of wampum enclosing a tulip and a Tudor rose, with a crown and the words 'Queens Borough 1898' in the upper hoist.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Queens,_New_York.svg",
+    "https://www.wikidata.org/wiki/Q18424"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "wampum ring with tulip and rose"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "upper-hoist"
+    }
+  ]
+}

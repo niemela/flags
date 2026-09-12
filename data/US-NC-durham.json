@@ -1,0 +1,55 @@
+{
+  "id": "US-NC-durham",
+  "name": "Durham (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-NC",
+  "codes": {
+    "wikidata": "Q49229"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Two narrow vertical stripes of red and yellow at the hoist, and a blue field at the fly bearing seven white stars in the shape of the city's outline.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Durham,_North_Carolina.svg",
+    "https://www.wikidata.org/wiki/Q49229"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "count": 7,
+      "points": 5,
+      "color": "white",
+      "position": "fly",
+      "arrangement": "scattered"
+    }
+  ]
+}

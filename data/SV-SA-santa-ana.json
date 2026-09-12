@@ -1,0 +1,66 @@
+{
+  "id": "SV-SA-santa-ana",
+  "name": "Santa Ana (El Salvador)",
+  "type": [
+    "city"
+  ],
+  "parent": "SV-SA",
+  "codes": {
+    "wikidata": "Q739664"
+  },
+  "region": [
+    "Americas",
+    "Central America",
+    "Latin America"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Nine horizontal stripes alternating blue and white, with a red canton bearing the seal of Santa Ana.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Santa_Ana,_El_Salvador.svg",
+    "https://www.wikidata.org/wiki/Q739664"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 9
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "seal",
+      "position": "upper-hoist",
+      "role": "seal of Santa Ana"
+    }
+  ]
+}

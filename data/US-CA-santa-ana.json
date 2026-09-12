@@ -1,0 +1,49 @@
+{
+  "id": "US-CA-santa-ana",
+  "name": "Santa Ana (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-CA",
+  "codes": {
+    "wikidata": "Q49244"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, yellow above and blue below, charged at the centre with the seal of Santa Ana.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Santa_Ana,_California.svg",
+    "https://www.wikidata.org/wiki/Q49244"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "blue",
+      "direction": "bend"
+    },
+    {
+      "type": "seal",
+      "position": "center",
+      "role": "seal of Santa Ana"
+    }
+  ]
+}

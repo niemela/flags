@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="vina_del_mar_flag" width="900" height="600" viewBox="0 0 900 600">
+<desc id="en">Flag of Viña del Mar, Chile</desc>
+<desc id="es">Bandera de Viña del Mar, Chile</desc>
+<defs>
+	<path fill="#ffab00" id="rosa" d="M 0,5.5 L 30.565609,79.478645 C 39.27057,100.77381 24,125 0,125 C -24,125 -39.27057,100.77381 -30.565609,79.478645 L 0,5.5 z"/>
+</defs>
+	<rect fill="white" height="600" width="900"/>
+	<path fill="yellow" d="M0,0 h625 l-100,75 l100,75 l-100,75 l100,75 l-100,75 l100,75 l-100,75 l100,75 h-625 z"/>
+	<path fill="#0090ff" d="M675,0 l-100,75 l100,75 l-100,75 l100,75 l-100,75 l100,75 l-100,75 l100,75 h275 v-600 z"/>
+
+ <g transform="translate(300,300)">
+	<use xlink:href="#rosa" transform="rotate(0)"/>
+	<use xlink:href="#rosa" transform="rotate(45)"/>
+	<use xlink:href="#rosa" transform="rotate(90)"/>
+	<use xlink:href="#rosa" transform="rotate(135)"/>
+	<use xlink:href="#rosa" transform="rotate(180)"/>
+	<use xlink:href="#rosa" transform="rotate(225)"/>
+	<use xlink:href="#rosa" transform="rotate(270)"/>
+	<use xlink:href="#rosa" transform="rotate(315)"/>
+ </g>
+</svg>

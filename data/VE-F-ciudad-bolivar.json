@@ -1,0 +1,61 @@
+{
+  "id": "VE-F-ciudad-bolivar",
+  "name": "Ciudad Bolívar (Venezuela)",
+  "type": [
+    "city"
+  ],
+  "parent": "VE-F",
+  "codes": {
+    "wikidata": "Q26906"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "A golden field charged with a dark blue wavy line representing the Orinoco, below an emblem of a red disc within a striped oval, above red and olive horizontal bars.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_del_Municipio_Angostura_del_Orinoco.svg",
+    "https://www.wikidata.org/wiki/Q26906"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "wave",
+      "color": "navy",
+      "position": "center"
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "top",
+      "role": "striped oval with a red disc"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "brown"
+      ],
+      "count": null
+    }
+  ]
+}

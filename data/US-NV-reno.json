@@ -1,0 +1,60 @@
+{
+  "id": "US-NV-reno",
+  "name": "Reno (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-NV",
+  "codes": {
+    "wikidata": "Q49225"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "A dark blue field charged with a yellow disc partly hidden by a dark blue mountain, above light blue and grey stripes, with a small white star in the upper hoist.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Reno,_Nevada.svg",
+    "https://www.wikidata.org/wiki/Q49225"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "center",
+      "count": 1
+    },
+    {
+      "type": "mountain",
+      "color": "navy",
+      "position": "center"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "upper-hoist"
+    }
+  ]
+}

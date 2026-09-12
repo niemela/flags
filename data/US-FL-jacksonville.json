@@ -1,0 +1,63 @@
+{
+  "id": "US-FL-jacksonville",
+  "name": "Jacksonville (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-FL",
+  "codes": {
+    "wikidata": "Q16568"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A yellow sunburst on white fills the upper half, bearing a brown equestrian statue of Andrew Jackson; the lower half is orange with a map of Duval County and the words 'City of Jacksonville, Florida'.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Jacksonville,_Florida.svg",
+    "https://www.wikidata.org/wiki/Q16568"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "orange"
+      ],
+      "count": 2
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "top",
+      "count": 1
+    },
+    {
+      "type": "horse",
+      "color": "brown",
+      "position": "center",
+      "role": "equestrian statue of Andrew Jackson"
+    },
+    {
+      "type": "map",
+      "color": "yellow",
+      "position": "bottom"
+    }
+  ]
+}

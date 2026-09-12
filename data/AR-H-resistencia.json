@@ -1,0 +1,56 @@
+{
+  "id": "AR-H-resistencia",
+  "name": "Resistencia (Argentina)",
+  "type": [
+    "city"
+  ],
+  "parent": "AR-H",
+  "codes": {
+    "wikidata": "Q44206"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertically divided green (hoist) and light blue (fly), with a white lozenge at the centre charged with a golden stylised sun-cross emblem.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Resistencia.svg",
+    "https://www.wikidata.org/wiki/Q44206"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "light-blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "lozenge",
+      "color": "white",
+      "position": "center"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "stylised sun emblem"
+    }
+  ]
+}

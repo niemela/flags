@@ -1,0 +1,56 @@
+{
+  "id": "PA-8-san-miguelito",
+  "name": "San Miguelito (Panama)",
+  "type": [
+    "city"
+  ],
+  "parent": "PA-8",
+  "codes": {
+    "wikidata": "Q932699"
+  },
+  "region": [
+    "Americas",
+    "Central America",
+    "Latin America"
+  ],
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, red above and white below, within a thin yellow border; a yellow triangle outline with a star at its centre is set toward the hoist.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_San_Miguelito_(Panamá).svg",
+    "https://www.wikidata.org/wiki/Q932699"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "white",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "bordure",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "center",
+      "role": "triangle outline with a star"
+    }
+  ]
+}

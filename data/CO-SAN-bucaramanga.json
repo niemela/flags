@@ -1,0 +1,65 @@
+{
+  "id": "CO-SAN-bucaramanga",
+  "name": "Bucaramanga (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-SAN",
+  "codes": {
+    "wikidata": "Q243766"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three horizontal stripes of green, yellow and green, the yellow charged at the centre with a blue disc edged in red bearing a white four-pointed star.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Bucaramanga.svg",
+    "https://www.wikidata.org/wiki/Q243766"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "disc",
+      "color": "blue",
+      "position": "center",
+      "fimbriation": {
+        "color": "red"
+      }
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 4,
+      "color": "white",
+      "position": "center"
+    }
+  ]
+}

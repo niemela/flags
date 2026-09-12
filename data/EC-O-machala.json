@@ -1,0 +1,51 @@
+{
+  "id": "EC-O-machala",
+  "name": "Machala (Ecuador)",
+  "type": [
+    "city"
+  ],
+  "parent": "EC-O",
+  "codes": {
+    "wikidata": "Q215080"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Three horizontal stripes: light blue, white, and a bottom stripe divided vertically red (hoist) and green (fly).",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Machala_Flag.svg",
+    "https://www.wikidata.org/wiki/Q215080"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "complex",
+      "role": "bottom stripe divided red and green"
+    }
+  ]
+}

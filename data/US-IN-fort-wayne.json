@@ -1,0 +1,64 @@
+{
+  "id": "US-IN-fort-wayne",
+  "name": "Fort Wayne (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-IN",
+  "codes": {
+    "wikidata": "Q49268"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A dark blue field with a white pall (Y-shape) converging on a white disc bearing a red fort; a red Native American head, a red fleur-de-lis and a red lion mark the three sections.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Fort_Wayne,_Indiana.svg",
+    "https://www.wikidata.org/wiki/Q49268"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "pall",
+      "color": "white"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "center",
+      "role": "fort"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "red",
+      "position": "upper-fly"
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "lower-fly"
+    }
+  ]
+}

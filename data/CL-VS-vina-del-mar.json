@@ -1,0 +1,58 @@
+{
+  "id": "CL-VS-vina-del-mar",
+  "name": "Viña del Mar (Chile)",
+  "type": [
+    "city"
+  ],
+  "parent": "CL-VS",
+  "codes": {
+    "wikidata": "Q184345"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "A yellow field with a blue vertical panel at the fly separated by a white zigzag; the yellow bears an orange stylised flower of five petals.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Viña_del_Mar,_Chile.svg",
+    "https://www.wikidata.org/wiki/Q184345"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "zigzag divider"
+    },
+    {
+      "type": "flower",
+      "color": "orange",
+      "position": "hoist",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "US-CA-anaheim",
+  "name": "Anaheim (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-CA",
+  "codes": {
+    "wikidata": "Q49247"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "A white field between two light blue horizontal stripes reading 'City of Anaheim' (top) and 'Founded 1857' (bottom), charged at the centre with the seal of Anaheim.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Anaheim,_California_(1967–2018,_2019–present).svg",
+    "https://www.wikidata.org/wiki/Q49247"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "light-blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "seal",
+      "position": "center",
+      "role": "seal of Anaheim"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "'City of Anaheim' and 'Founded 1857' inscriptions"
+    }
+  ]
+}

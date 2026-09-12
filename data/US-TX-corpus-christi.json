@@ -1,0 +1,51 @@
+{
+  "id": "US-TX-corpus-christi",
+  "name": "Corpus Christi (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-TX",
+  "codes": {
+    "wikidata": "Q49242"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue field charged with a white seagull in flight, surrounded by a ring of nine white five-pointed stars.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Corpus_Christi,_Texas.svg",
+    "https://www.wikidata.org/wiki/Q49242"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "role": "seagull"
+    },
+    {
+      "type": "star",
+      "count": 9,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "arrangement": "circle"
+    }
+  ]
+}

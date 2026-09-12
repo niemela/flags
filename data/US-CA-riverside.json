@@ -1,0 +1,50 @@
+{
+  "id": "US-CA-riverside",
+  "name": "Riverside (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-CA",
+  "codes": {
+    "wikidata": "Q49243"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "A dark blue field bearing a golden raincross (a mission bell within a cross-shaped frame) toward the hoist, with a wavy vertical band of light blue and gold at the fly.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Riverside,_California_(2020).svg",
+    "https://www.wikidata.org/wiki/Q49243"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "raincross — mission bell within a cross frame"
+    },
+    {
+      "type": "wave",
+      "color": "light-blue",
+      "position": "fly"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "CO-CAU-popayan",
+  "name": "Popayán (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CAU",
+  "codes": {
+    "wikidata": "Q335135"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A yellow field with a blue horizontal stripe across the centre, and a red cross potent in each corner.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Popayán.svg",
+    "https://www.wikidata.org/wiki/Q335135"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "count": 4,
+      "role": "cross potent in each corner"
+    }
+  ]
+}

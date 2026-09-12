@@ -1,0 +1,52 @@
+{
+  "id": "US-AZ-mesa",
+  "name": "Mesa (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-AZ",
+  "codes": {
+    "wikidata": "Q49261"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A dark purple-blue upper field with a yellow sun rising behind a yellow disc bearing a saguaro cactus silhouette, above a yellow lower field with a mountain profile.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Mesa,_Arizona.svg",
+    "https://www.wikidata.org/wiki/Q49261"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "center",
+      "count": 1
+    },
+    {
+      "type": "cactus",
+      "color": "navy",
+      "position": "center",
+      "count": 1
+    }
+  ]
+}

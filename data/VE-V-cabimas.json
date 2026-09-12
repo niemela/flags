@@ -1,0 +1,59 @@
+{
+  "id": "VE-V-cabimas",
+  "name": "Cabimas (Venezuela)",
+  "type": [
+    "city"
+  ],
+  "parent": "VE-V",
+  "codes": {
+    "wikidata": "Q723588"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Three horizontal stripes of light blue, green and black, with a yellow half-sun rising from the green and a black oil derrick at the centre.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Cabimas_flag.svg",
+    "https://www.wikidata.org/wiki/Q723588"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "green",
+        "black"
+      ],
+      "count": 3
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "center",
+      "count": 1
+    },
+    {
+      "type": "building",
+      "color": "black",
+      "position": "center",
+      "role": "oil derrick"
+    }
+  ]
+}

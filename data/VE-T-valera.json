@@ -1,0 +1,69 @@
+{
+  "id": "VE-T-valera",
+  "name": "Valera (Venezuela)",
+  "type": [
+    "city"
+  ],
+  "parent": "VE-T",
+  "codes": {
+    "wikidata": "Q1010367"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a broad red band, dark blue above and green below; the band bears a yellow sun with an arc of seven white stars.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_del_Municipio_Valera.svg",
+    "https://www.wikidata.org/wiki/Q1010367"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "navy",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "center",
+      "count": 1
+    },
+    {
+      "type": "star",
+      "count": 7,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "arrangement": "arc"
+    }
+  ]
+}
