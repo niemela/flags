@@ -1,0 +1,58 @@
+{
+  "id": "UA-14-horlivka",
+  "name": "Horlivka (Ukraine)",
+  "type": [
+    "city"
+  ],
+  "parent": "UA-14",
+  "codes": {
+    "wikidata": "Q157260"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A green field with a red diagonal band rising from the lower hoist to the upper fly, edged in blue below, and a white dove in flight in the upper fly.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Horlivka.svg",
+    "https://www.wikidata.org/wiki/Q157260"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "position": "upper-fly",
+      "role": "dove"
+    }
+  ]
+}

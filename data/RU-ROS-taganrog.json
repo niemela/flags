@@ -1,0 +1,63 @@
+{
+  "id": "RU-ROS-taganrog",
+  "name": "Taganrog (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-ROS",
+  "codes": {
+    "wikidata": "Q170513"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A white field with two light-blue horizontal stripes, charged at the centre with a golden caduceus between two anchors.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Taganrog.svg",
+    "https://www.wikidata.org/wiki/Q170513"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "light-blue",
+        "white",
+        "light-blue",
+        "white"
+      ],
+      "count": 5,
+      "widths": [
+        1,
+        1,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "caduceus between two anchors"
+    }
+  ]
+}

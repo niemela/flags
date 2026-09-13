@@ -1,0 +1,59 @@
+{
+  "id": "FR-BRE-brest",
+  "name": "Brest (France)",
+  "type": [
+    "city"
+  ],
+  "parent": "FR-BRE",
+  "codes": {
+    "wikidata": "Q12193"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Vertically divided blue at the hoist and white at the fly, the blue bearing three golden fleurs-de-lis and the white strewn with black ermine spots.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Brest_flag.svg",
+    "https://www.wikidata.org/wiki/Q12193"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "fly",
+      "role": "ermine spots"
+    }
+  ]
+}

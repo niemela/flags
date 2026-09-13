@@ -1,0 +1,62 @@
+{
+  "id": "RU-KL-elista",
+  "name": "Elista (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-KL",
+  "codes": {
+    "wikidata": "Q3977"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided diagonally from lower hoist to upper fly, white above and yellow below, separated by a dark-blue band; in the upper hoist a red ring-shaped device.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Elista_(Kalmykia).svg",
+    "https://www.wikidata.org/wiki/Q3977"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "yellow",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "navy"
+      ],
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "ring-shaped device"
+    }
+  ]
+}

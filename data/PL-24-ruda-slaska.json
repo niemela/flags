@@ -1,0 +1,39 @@
+{
+  "id": "PL-24-ruda-slaska",
+  "name": "Ruda Śląska (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-24",
+  "codes": {
+    "wikidata": "Q108679"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided diagonally from lower hoist to upper fly, yellow above and blue below.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Ruda_Śląska_flag.svg",
+    "https://www.wikidata.org/wiki/Q108679"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    }
+  ]
+}

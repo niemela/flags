@@ -1,0 +1,53 @@
+{
+  "id": "RU-STA-nevinnomyssk",
+  "name": "Nevinnomyssk (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-STA",
+  "codes": {
+    "wikidata": "Q165806"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A yellow field with a green triangle at the hoist and a blue Y-shaped pall issuing from the hoist corners to the fly.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Nevinnomyssk_(Stavropol_krai).svg",
+    "https://www.wikidata.org/wiki/Q165806"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "hoist"
+    },
+    {
+      "type": "pall",
+      "color": "blue",
+      "position": "center"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "RU-CHE-kopeysk",
+  "name": "Kopeysk (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-CHE",
+  "codes": {
+    "wikidata": "Q155148"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A red field with a white vertical stripe towards the hoist, charged with a black miner's pick within a golden wreath.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Kopeysk_(Chelyabinsk_oblast).svg",
+    "https://www.wikidata.org/wiki/Q155148"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "center-hoist"
+    },
+    {
+      "type": "tool",
+      "color": "black",
+      "position": "center-hoist",
+      "role": "miner's pick"
+    },
+    {
+      "type": "wreath",
+      "color": "yellow",
+      "position": "center-hoist"
+    }
+  ]
+}

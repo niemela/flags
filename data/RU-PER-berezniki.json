@@ -1,0 +1,52 @@
+{
+  "id": "RU-PER-berezniki",
+  "name": "Berezniki (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-PER",
+  "codes": {
+    "wikidata": "Q105002"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A white field with a blue horizontal stripe across the middle charged with three white hexagonal salt crystals.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Berezniki_(Perm_krai).svg",
+    "https://www.wikidata.org/wiki/Q105002"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "white"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "three hexagonal crystals",
+      "count": 3
+    }
+  ]
+}

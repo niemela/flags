@@ -1,0 +1,49 @@
+{
+  "id": "CH-ZH-winterthur",
+  "name": "Winterthur (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-ZH",
+  "codes": {
+    "wikidata": "Q9125"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A white square field with a red diagonal band from upper hoist to lower fly, between two red lions rampant.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Winterthur_Flag.svg",
+    "https://www.wikidata.org/wiki/Q9125"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "center",
+      "count": 2
+    }
+  ]
+}

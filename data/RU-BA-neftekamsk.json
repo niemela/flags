@@ -1,0 +1,53 @@
+{
+  "id": "RU-BA-neftekamsk",
+  "name": "Neftekamsk (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-BA",
+  "codes": {
+    "wikidata": "Q172601"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A dark-blue field with three thin yellow lines meeting at a yellow trefoil-like device just off centre, between three yellow stars.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Neftekamsk.svg",
+    "https://www.wikidata.org/wiki/Q172601"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "three lines meeting at a trefoil device"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 8,
+      "color": "yellow",
+      "position": "center"
+    }
+  ]
+}

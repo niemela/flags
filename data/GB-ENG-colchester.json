@@ -1,0 +1,55 @@
+{
+  "id": "GB-ENG-colchester",
+  "name": "Colchester (United Kingdom)",
+  "type": [
+    "city"
+  ],
+  "parent": "GB-ENG",
+  "codes": {
+    "wikidata": "Q184163"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "~0.69:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A dark-red field charged with a green ragged cross, between the arms of which are three golden crowns pierced by black nails.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Colchester.svg",
+    "https://www.wikidata.org/wiki/Q184163"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "greek-cross",
+      "color": "green",
+      "role": "cross raguly"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "center",
+      "count": 3
+    }
+  ]
+}

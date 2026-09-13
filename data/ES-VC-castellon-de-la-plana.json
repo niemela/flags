@@ -1,0 +1,62 @@
+{
+  "id": "ES-VC-castellon-de-la-plana",
+  "name": "Castellón de la Plana (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q15092"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union",
+    "Iberian Peninsula"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A green vertical stripe at the hoist bearing the city arms, and a fly of yellow with four red horizontal bars (the Valencian senyera).",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Castelló_de_la_Plana-2.svg",
+    "https://www.wikidata.org/wiki/Q15092"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 9,
+      "position": "fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Castellón arms"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "FR-ARA-clermont-ferrand",
+  "name": "Clermont-Ferrand (France)",
+  "type": [
+    "city"
+  ],
+  "parent": "FR-ARA",
+  "codes": {
+    "wikidata": "Q42168"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A blue field with a red cross edged in yellow, and a yellow fleur-de-lis in each quarter.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Clermont-Ferrand.svg",
+    "https://www.wikidata.org/wiki/Q42168"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "fimbriation": {
+        "color": "yellow"
+      }
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "center",
+      "count": 4
+    }
+  ]
+}

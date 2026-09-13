@@ -1,0 +1,53 @@
+{
+  "id": "PL-28-elblag",
+  "name": "Elbląg (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-28",
+  "codes": {
+    "wikidata": "Q104712"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontally divided white over red, with two crosses pattée near the hoist: red on the white and white on the red.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Elbląg_flag.svg",
+    "https://www.wikidata.org/wiki/Q104712"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "cross pattée"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "lower-hoist",
+      "role": "cross pattée"
+    }
+  ]
+}

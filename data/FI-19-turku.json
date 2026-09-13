@@ -1,0 +1,52 @@
+{
+  "id": "FI-19-turku",
+  "name": "Turku (Finland)",
+  "type": [
+    "city"
+  ],
+  "parent": "FI-19",
+  "codes": {
+    "wikidata": "Q38511"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A square dark-blue flag charged with a golden Gothic letter A surrounded by four white fleurs-de-lis, after the city arms of Turku.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Turku.lippu.svg",
+    "https://www.wikidata.org/wiki/Q38511"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "Gothic letter A"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "position": "center",
+      "count": 4
+    }
+  ]
+}

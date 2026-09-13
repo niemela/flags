@@ -1,0 +1,65 @@
+{
+  "id": "RU-ROS-bataysk",
+  "name": "Bataysk (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-ROS",
+  "codes": {
+    "wikidata": "Q104649"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A blue field with a green stripe along the bottom crossed by white wavy lines, charged at the centre with a golden arched gateway surmounted by an eagle.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bataysk_Flag_2025.svg",
+    "https://www.wikidata.org/wiki/Q104649"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        3,
+        1
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "bottom"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "arched gateway surmounted by an eagle"
+    }
+  ]
+}

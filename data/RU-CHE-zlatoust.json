@@ -1,0 +1,54 @@
+{
+  "id": "RU-CHE-zlatoust",
+  "name": "Zlatoust (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-CHE",
+  "codes": {
+    "wikidata": "Q140087"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red field with a yellow stripe along the bottom, charged at the centre with a golden winged horse.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Zlatoust.svg",
+    "https://www.wikidata.org/wiki/Q140087"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        5,
+        1
+      ]
+    },
+    {
+      "type": "horse",
+      "color": "yellow",
+      "position": "center",
+      "role": "winged horse"
+    }
+  ]
+}

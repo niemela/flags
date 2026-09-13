@@ -1,0 +1,68 @@
+{
+  "id": "RU-SAR-engels",
+  "name": "Engels (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-SAR",
+  "codes": {
+    "wikidata": "Q198748"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A blue vertical stripe at the hoist, then chevrons of white, red and black pointing to the fly, and a yellow fly.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Engels_(Saratov_oblast).svg",
+    "https://www.wikidata.org/wiki/Q198748"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "chevron",
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "chevron",
+      "color": "red",
+      "position": "hoist"
+    },
+    {
+      "type": "chevron",
+      "color": "black",
+      "position": "center"
+    }
+  ]
+}

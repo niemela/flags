@@ -1,0 +1,63 @@
+{
+  "id": "FI-14-oulu",
+  "name": "Oulu (Finland)",
+  "type": [
+    "city"
+  ],
+  "parent": "FI-14",
+  "codes": {
+    "wikidata": "Q47048"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "Nordics",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A square flag divided red over white: a golden castle with four towers on the red, and a blue salmon on the white.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Oulu.lippu.svg",
+    "https://www.wikidata.org/wiki/Q47048"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "top",
+      "role": "castle with four towers"
+    },
+    {
+      "type": "animal-other",
+      "color": "blue",
+      "position": "bottom",
+      "role": "salmon"
+    }
+  ]
+}

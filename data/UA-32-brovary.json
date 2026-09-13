@@ -1,0 +1,57 @@
+{
+  "id": "UA-32-brovary",
+  "name": "Brovary (Ukraine)",
+  "type": [
+    "city"
+  ],
+  "parent": "UA-32",
+  "codes": {
+    "wikidata": "Q841026"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Horizontally divided blue over yellow, with a green triangle at the hoist separated from the field by a white pall-shaped border.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Brovary.svg",
+    "https://www.wikidata.org/wiki/Q841026"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "hoist"
+    },
+    {
+      "type": "pall",
+      "color": "white",
+      "position": "hoist"
+    }
+  ]
+}

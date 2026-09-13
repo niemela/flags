@@ -1,0 +1,56 @@
+{
+  "id": "PL-22-gdynia",
+  "name": "Gdynia (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-22",
+  "codes": {
+    "wikidata": "Q385"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "4:7",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A white field with a blue stripe along the bottom edged by a thin blue line, and in the upper hoist the city arms of Gdynia: a golden sword and two fish on red.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Gdynia_flag.svg",
+    "https://www.wikidata.org/wiki/Q385"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        3,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "upper-hoist",
+      "role": "Gdynia arms — sword and fish"
+    }
+  ]
+}

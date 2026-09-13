@@ -1,0 +1,57 @@
+{
+  "id": "PL-08-zielona-gora",
+  "name": "Zielona Góra (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-08",
+  "codes": {
+    "wikidata": "Q104720"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A yellow vertical stripe at the hoist and a fly divided horizontally white over green.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Zielona_Góra_flag.svg",
+    "https://www.wikidata.org/wiki/Q104720"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2,
+      "position": "fly"
+    }
+  ]
+}

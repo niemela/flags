@@ -1,0 +1,61 @@
+{
+  "id": "RU-BA-salavat",
+  "name": "Salavat (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-BA",
+  "codes": {
+    "wikidata": "Q193443"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue field charged with a golden horseman (Salavat Yulaev) galloping towards the fly, with a narrow vertical panel at the hoist divided green over white, bearing a golden kurai flower and a blue tamga.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Salavat.svg",
+    "https://www.wikidata.org/wiki/Q193443"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horse",
+      "color": "yellow",
+      "position": "center",
+      "role": "horseman Salavat Yulaev"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 2,
+      "position": "hoist"
+    }
+  ]
+}

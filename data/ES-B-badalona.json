@@ -1,0 +1,63 @@
+{
+  "id": "ES-B-badalona",
+  "name": "Badalona (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q15468"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe",
+    "European Union",
+    "Iberian Peninsula"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Quartered: the upper hoist and lower fly bear the red-and-yellow bars of Catalonia, the upper fly and lower hoist blue wavy stripes on white.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_Badalona.svg",
+    "https://www.wikidata.org/wiki/Q15468"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "yellow",
+        "white",
+        "white",
+        "yellow"
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 4,
+      "position": "upper-hoist"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "upper-fly",
+      "count": 3
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "RU-NGR-veliky-novgorod",
+  "name": "Veliky Novgorod (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-NGR",
+  "codes": {
+    "wikidata": "Q2235"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontally divided white over blue, charged with the arms of Veliky Novgorod: two black bears supporting a golden throne with a candelabrum, above two fish on the blue.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Veliky_Novgorod.svg",
+    "https://www.wikidata.org/wiki/Q2235"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Novgorod arms — bears with throne and fish"
+    }
+  ]
+}

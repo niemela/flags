@@ -1,0 +1,58 @@
+{
+  "id": "BG-02-burgas",
+  "name": "Burgas (Bulgaria)",
+  "type": [
+    "city"
+  ],
+  "parent": "BG-02",
+  "codes": {
+    "wikidata": "Q6509"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Southern Europe",
+    "Balkans",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A white field with a dark-blue stripe along the bottom, separated from the white by a thin white-and-navy line; in the upper hoist the arms of Burgas — a blue shield with a golden ship-and-castle crest.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Burgas,_Bulgaria.svg",
+    "https://www.wikidata.org/wiki/Q6509"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "navy"
+      ],
+      "count": 2,
+      "widths": [
+        3,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "upper-hoist",
+      "role": "Burgas arms — blue shield with golden ship crest"
+    }
+  ]
+}

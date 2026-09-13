@@ -1,0 +1,53 @@
+{
+  "id": "PL-26-kielce",
+  "name": "Kielce (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-26",
+  "codes": {
+    "wikidata": "Q102317"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red field with narrow yellow stripes along the top and bottom, charged at the centre with a crowned golden monogram CK, from the city arms of Kielce.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Kielce_flag.svg",
+    "https://www.wikidata.org/wiki/Q102317"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        8,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crowned monogram CK"
+    }
+  ]
+}

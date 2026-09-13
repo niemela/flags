@@ -1,0 +1,53 @@
+{
+  "id": "FR-GES-mulhouse",
+  "name": "Mulhouse (France)",
+  "type": [
+    "city"
+  ],
+  "parent": "FR-GES",
+  "codes": {
+    "wikidata": "Q79815"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A white field with red wavy rays swirling out from the centre (gyronny wavy), and a red canton bearing a white mill wheel.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:DrapeauMulhouse.svg",
+    "https://www.wikidata.org/wiki/Q79815"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "swirling wavy rays (gyronny wavy)"
+    },
+    {
+      "type": "canton",
+      "color": "red"
+    },
+    {
+      "type": "wheel",
+      "color": "white",
+      "position": "canton",
+      "role": "mill wheel"
+    }
+  ]
+}

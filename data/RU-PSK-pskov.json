@@ -1,0 +1,58 @@
+{
+  "id": "RU-PSK-pskov",
+  "name": "Pskov (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-PSK",
+  "codes": {
+    "wikidata": "Q2214"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A blue field charged with a golden leopard-like beast, above which a hand issues from a cloud in the upper fly, after the arms of Pskov.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Pskov_(Pskov_oblast).svg",
+    "https://www.wikidata.org/wiki/Q2214"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "center",
+      "role": "Pskov leopard"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "top",
+      "role": "hand issuing from a cloud"
+    }
+  ]
+}

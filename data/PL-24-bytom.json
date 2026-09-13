@@ -1,0 +1,62 @@
+{
+  "id": "PL-24-bytom",
+  "name": "Bytom (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-24",
+  "codes": {
+    "wikidata": "Q102350"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A yellow field with two blue stripes near the top and bottom edges, charged at the centre with the city arms of Bytom: a miner and a golden eagle.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Bytom_flag.svg",
+    "https://www.wikidata.org/wiki/Q102350"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue",
+        "yellow",
+        "blue",
+        "yellow"
+      ],
+      "count": 5,
+      "widths": [
+        1,
+        1,
+        6,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Bytom arms — miner and eagle"
+    }
+  ]
+}

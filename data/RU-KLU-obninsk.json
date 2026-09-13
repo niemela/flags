@@ -1,0 +1,52 @@
+{
+  "id": "RU-KLU-obninsk",
+  "name": "Obninsk (Russia)",
+  "type": [
+    "city"
+  ],
+  "parent": "RU-KLU",
+  "codes": {
+    "wikidata": "Q175651"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "Asia",
+    "Eastern Asia",
+    "Central Asia",
+    "Slavic",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue field charged at the centre with a white atom symbol within a wreath, above three white wavy lines along the bottom.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Obninsk_(Kaluga_oblast).svg",
+    "https://www.wikidata.org/wiki/Q175651"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "atom symbol within a wreath"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "bottom",
+      "count": 3
+    }
+  ]
+}

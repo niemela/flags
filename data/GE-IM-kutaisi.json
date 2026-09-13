@@ -1,0 +1,58 @@
+{
+  "id": "GE-IM-kutaisi",
+  "name": "Kutaisi (Georgia)",
+  "type": [
+    "city"
+  ],
+  "parent": "GE-IM",
+  "codes": {
+    "wikidata": "Q172415"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Caucasus",
+    "Post-Soviet"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Quartered blue and green (blue in the upper hoist and lower fly), with a large yellow Bolnisi cross at the centre and a small yellow cross in each quarter.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Kutaisi,_Georgia.svg",
+    "https://www.wikidata.org/wiki/Q172415"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "blue",
+        "green",
+        "green",
+        "blue"
+      ]
+    },
+    {
+      "type": "greek-cross",
+      "color": "yellow",
+      "position": "center",
+      "role": "Bolnisi cross"
+    },
+    {
+      "type": "greek-cross",
+      "color": "yellow",
+      "position": "center",
+      "count": 4,
+      "role": "small crosses in the quarters"
+    }
+  ]
+}
