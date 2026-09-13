@@ -1,0 +1,50 @@
+{
+  "id": "JP-12-narita",
+  "name": "Narita (Japan)",
+  "type": [
+    "city"
+  ],
+  "parent": "JP-12",
+  "codes": {
+    "wikidata": "Q273798"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "grey"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A white field charged at the centre with the Narita city emblem: a grey stylised letter N with wing-like strokes and a red accent.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Narita,_Chiba_(no_text).svg",
+    "https://www.wikidata.org/wiki/Q273798"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "grey",
+      "position": "center",
+      "role": "Narita city emblem — stylised N"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "accent stroke"
+    }
+  ]
+}

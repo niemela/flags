@@ -1,0 +1,59 @@
+{
+  "id": "JP-17-hakusan",
+  "name": "Hakusan (Japan)",
+  "type": [
+    "city"
+  ],
+  "parent": "JP-17",
+  "codes": {
+    "wikidata": "Q696407"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "A white field charged at the centre with the Hakusan city emblem: a blue oval with white mountain peaks, a green slope and light-blue waves.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hakusan,_Ishikawa.svg",
+    "https://www.wikidata.org/wiki/Q696407"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "Hakusan city emblem — oval with mountains"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "slope"
+    },
+    {
+      "type": "glyph",
+      "color": "light-blue",
+      "position": "center",
+      "role": "waves"
+    }
+  ]
+}
