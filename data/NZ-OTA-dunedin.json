@@ -1,0 +1,60 @@
+{
+  "id": "NZ-OTA-dunedin",
+  "name": "Dunedin (New Zealand)",
+  "type": [
+    "city"
+  ],
+  "parent": "NZ-OTA",
+  "codes": {
+    "wikidata": "Q133073"
+  },
+  "region": [
+    "Oceania",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A white field crossed by a green zigzag (dancetty) band, charged at the centre with the city arms of Dunedin — a castle crest, a ram's head and a ship — flanked by two golden garbs.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Dunedin.svg",
+    "https://www.wikidata.org/wiki/Q133073"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "zigzag (dancetty) horizontal band"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Dunedin arms"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "garbs"
+    }
+  ]
+}

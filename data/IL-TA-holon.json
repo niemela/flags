@@ -1,0 +1,55 @@
+{
+  "id": "IL-TA-holon",
+  "name": "Holon (Israel)",
+  "type": [
+    "city"
+  ],
+  "parent": "IL-TA",
+  "codes": {
+    "wikidata": "Q192213"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East"
+  ],
+  "aspect_ratio": "~0.73:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue field with a white stripe near the top and another near the bottom, charged at the centre with the white municipal emblem of Holon.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Holon_Version1.svg",
+    "https://www.wikidata.org/wiki/Q192213"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 5,
+      "widths": [
+        1,
+        1,
+        5,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Holon emblem in white"
+    }
+  ]
+}
