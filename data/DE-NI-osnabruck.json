@@ -1,0 +1,47 @@
+{
+  "id": "DE-NI-osnabruck",
+  "name": "Osnabrück (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NI",
+  "codes": {
+    "wikidata": "Q2916"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A square flag of three horizontal stripes, black, white and black, the white charged towards the hoist with a black six-spoked wheel.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Hissflagge_der_Stadt_Osnabrück.svg",
+    "https://www.wikidata.org/wiki/Q2916"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "white",
+        "black"
+      ],
+      "count": 3
+    },
+    {
+      "type": "wheel",
+      "color": "black",
+      "position": "center-hoist",
+      "role": "six-spoked wheel"
+    }
+  ]
+}

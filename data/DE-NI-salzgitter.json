@@ -1,0 +1,55 @@
+{
+  "id": "DE-NI-salzgitter",
+  "name": "Salzgitter (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NI",
+  "codes": {
+    "wikidata": "Q3200"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Three horizontal stripes of red, white and red, charged at the centre with the city arms of Salzgitter: a shield with a salt tower, ears of wheat and mining tools.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Salzgitter.svg",
+    "https://www.wikidata.org/wiki/Q3200"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Salzgitter arms"
+    }
+  ]
+}

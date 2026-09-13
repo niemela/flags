@@ -1,0 +1,52 @@
+{
+  "id": "DE-NI-wolfsburg",
+  "name": "Wolfsburg (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NI",
+  "codes": {
+    "wikidata": "Q3014"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Three horizontal stripes of white, green and white, charged at the centre with the city arms of Wolfsburg: a red castle with a golden wolf above waves.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Wolfsburg.svg",
+    "https://www.wikidata.org/wiki/Q3014"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "white"
+      ],
+      "count": 3
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Wolfsburg arms — castle and wolf"
+    }
+  ]
+}

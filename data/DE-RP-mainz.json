@@ -1,0 +1,43 @@
+{
+  "id": "DE-RP-mainz",
+  "name": "Mainz (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-RP",
+  "codes": {
+    "wikidata": "Q1720"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A red field charged with the white Wheel of Mainz: two six-spoked wheels joined by a cross, set diagonally.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Mainz_Flagge_Hissformat.svg",
+    "https://www.wikidata.org/wiki/Q1720"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "wheel",
+      "color": "white",
+      "position": "center",
+      "count": 2,
+      "role": "Wheel of Mainz — two wheels joined by a cross"
+    }
+  ]
+}

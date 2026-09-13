@@ -1,0 +1,50 @@
+{
+  "id": "DE-NW-leverkusen",
+  "name": "Leverkusen (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q2938"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A white field crossed by a black embattled horizontal bar, over which a red lion rampant is placed at the centre.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Leverkusen.svg",
+    "https://www.wikidata.org/wiki/Q2938"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "embattled horizontal bar"
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "center"
+    }
+  ]
+}

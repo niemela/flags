@@ -1,0 +1,49 @@
+{
+  "id": "DE-NW-hamm",
+  "name": "Hamm (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q2880"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three horizontal stripes of red, white and red, with a red-and-white chequered panel of four columns across the centre.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_der_Stadt_Hamm.svg",
+    "https://www.wikidata.org/wiki/Q2880"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "chequy",
+      "field": "white",
+      "chequy": "red",
+      "columns": 4,
+      "rows": 5,
+      "position": "center"
+    }
+  ]
+}

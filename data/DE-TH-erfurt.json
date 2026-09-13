@@ -1,0 +1,48 @@
+{
+  "id": "DE-TH-erfurt",
+  "name": "Erfurt (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-TH",
+  "codes": {
+    "wikidata": "Q1729"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A red field with a white horizontal bar running from the centre to the fly, and at the hoist the Erfurt wheel, a white six-spoked wheel with a red hub.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_der_kreisfreien_Stadt_Erfurt_laut_Hauptsatzung.svg",
+    "https://www.wikidata.org/wiki/Q1729"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "fly",
+      "role": "horizontal bar from the centre to the fly"
+    },
+    {
+      "type": "wheel",
+      "color": "white",
+      "position": "hoist",
+      "role": "Erfurt wheel"
+    }
+  ]
+}

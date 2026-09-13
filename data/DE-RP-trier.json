@@ -1,0 +1,45 @@
+{
+  "id": "DE-RP-trier",
+  "name": "Trier (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-RP",
+  "codes": {
+    "wikidata": "Q3138"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontally divided yellow over red, charged at the centre with the city arms of Trier: Saint Peter with his key on red.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Trier.svg",
+    "https://www.wikidata.org/wiki/Q3138"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Trier arms — Saint Peter"
+    }
+  ]
+}

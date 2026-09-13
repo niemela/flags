@@ -1,0 +1,61 @@
+{
+  "id": "DE-HB-bremerhaven",
+  "name": "Bremerhaven (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-HB",
+  "codes": {
+    "wikidata": "Q2706"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Five horizontal stripes of red, white, red, white and red, the central red stripe the widest, charged at the centre with the city arms of Bremerhaven: a red ship on blue water.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Bremerhaven.svg",
+    "https://www.wikidata.org/wiki/Q2706"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 5,
+      "widths": [
+        2,
+        3,
+        5,
+        3,
+        2
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Bremerhaven arms — ship"
+    }
+  ]
+}

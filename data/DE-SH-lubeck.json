@@ -1,0 +1,49 @@
+{
+  "id": "DE-SH-lubeck",
+  "name": "Lübeck (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-SH",
+  "codes": {
+    "wikidata": "Q2843"
+  },
+  "region": [
+    "Europe",
+    "Western Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Horizontally divided white over red, with a black double-headed eagle in the upper hoist.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Luebeck.svg",
+    "https://www.wikidata.org/wiki/Q2843"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "eagle",
+      "color": "black",
+      "position": "upper-hoist",
+      "role": "double-headed eagle"
+    }
+  ]
+}
