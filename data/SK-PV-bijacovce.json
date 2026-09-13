@@ -1,0 +1,58 @@
+{
+  "id": "SK-PV-bijacovce",
+  "name": "Bijacovce (Slovakia)",
+  "type": [
+    "city"
+  ],
+  "parent": "SK-PV",
+  "codes": {
+    "wikidata": "Q572501"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "shape": "swallowtail",
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from lower hoist to upper fly by a narrow yellow line, white above and blue below, ending at the fly in three tails formed by two swallowtail notches reaching one third of the flag's length.",
+  "history": "The flag's colours are taken from the municipal arms, as required for Slovak municipal symbols; arms and flag are registered in the Heraldic Register of the Slovak Republic under signature B-20/1993.",
+  "periods": [
+    {
+      "start": "1993"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bijacovce-levoca-flag.svg",
+    "https://www.wikidata.org/wiki/Q572501",
+    "https://ives.minv.sk/heraldreg/detail?id_nositel=2622"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "direction": "bend-sinister"
+    }
+  ]
+}
