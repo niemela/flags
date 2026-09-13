@@ -1,0 +1,50 @@
+{
+  "id": "BR-RS-bento-goncalves",
+  "name": "Bento Gonçalves (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-RS",
+  "codes": {
+    "wikidata": "Q548652"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A white field crossed by a red diagonal band rising from lower hoist to upper fly and inscribed PAZ E TRABALHO; at the centre the municipal coat of arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Bento_Gonçalves.svg",
+    "https://www.wikidata.org/wiki/Q548652"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "municipal coat of arms"
+    }
+  ]
+}

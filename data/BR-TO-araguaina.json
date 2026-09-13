@@ -1,0 +1,67 @@
+{
+  "id": "BR-TO-araguaina",
+  "name": "Araguaína (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-TO",
+  "codes": {
+    "wikidata": "Q625279"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three horizontal stripes of yellow, red and green; at the centre a blue disc bearing a white emblem of a house and figures, surrounded by white and coloured swirling arcs.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_Araguaina_Tocantins_Brasil.svg",
+    "https://www.wikidata.org/wiki/Q625279"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        3,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "disc",
+      "color": "blue",
+      "position": "center"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "swirling arcs around the disc"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "BR-SP-araras",
+  "name": "Araras (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SP",
+  "codes": {
+    "wikidata": "Q580366"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A white field crossed by a diagonal band of black, white and red from upper hoist to lower fly; at the centre the municipal coat of arms with the motto PELO BEM DA PÁTRIA.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Araras.svg",
+    "https://www.wikidata.org/wiki/Q580366"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "black",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "direction": "bend"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "municipal coat of arms"
+    }
+  ]
+}

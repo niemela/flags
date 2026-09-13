@@ -1,0 +1,47 @@
+{
+  "id": "BR-RJ-mesquita",
+  "name": "Mesquita (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-RJ",
+  "codes": {
+    "wikidata": "Q984780"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from lower hoist to upper fly, green above and pale yellow below, the two parts separated by a thin gold line; at the centre the municipal coat of arms with the dates 1884 and 1999.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Mesquita_(Rio_de_Janeiro).svg",
+    "https://www.wikidata.org/wiki/Q984780"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "white",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "municipal coat of arms"
+    }
+  ]
+}

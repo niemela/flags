@@ -1,0 +1,70 @@
+{
+  "id": "BR-SP-barretos",
+  "name": "Barretos (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SP",
+  "codes": {
+    "wikidata": "Q1637488"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three vertical stripes of green, yellow and red, the red stripe much the widest; astride the green and yellow a white disc bearing a red map of São Paulo state charged with a white star.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_Barretos_SaoPaulo_Brasil.svg",
+    "https://www.wikidata.org/wiki/Q1637488"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        5
+      ]
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "map",
+      "color": "red",
+      "position": "hoist"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "hoist"
+    }
+  ]
+}

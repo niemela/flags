@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="600" width="900" viewBox="-90 -80 180 120">
+	<rect x="-90" y="-80" width="180" height="120" fill="#0063b3" />
+	<rect x="-90" width="180" height="40" fill="#009438" />
+	<path id="estrela" fill="#fff" d="M0,40 L0,-80 3.106,-11.591 46.188,-80 8.485,-8.485 90,-51.962 11.591,-3.106 90,0 11.591,3.106 69.282,40 8.485,8.485 23.094,40 3.106,11.591z"/>
+	<use xlink:href="#estrela" transform="scale(-1,1)" />
+	<circle r="9" fill="#f5cc00"/>
+	<path fill="#c72800" d="M-6,3.4641 h12 l-6-10.3923z"/>
+	<path fill="#fff" d="M-4.6144,2.6641 h9.2288 l-4.6144,-7.9923z"/>
+</svg>

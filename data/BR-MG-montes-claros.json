@@ -1,0 +1,58 @@
+{
+  "id": "BR-MG-montes-claros",
+  "name": "Montes Claros (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-MG",
+  "codes": {
+    "wikidata": "Q651906"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontally divided light blue over green; towards the hoist a yellow sun disc straddling the division, with white mountain peaks rising in front of it.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_MontesClaros_MinasGerais_Brasil.svg",
+    "https://www.wikidata.org/wiki/Q651906"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "sun"
+    },
+    {
+      "type": "mountain",
+      "color": "white",
+      "position": "hoist"
+    }
+  ]
+}

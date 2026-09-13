@@ -1,0 +1,60 @@
+{
+  "id": "BR-PR-umuarama",
+  "name": "Umuarama (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PR",
+  "codes": {
+    "wikidata": "Q593948"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Five horizontal stripes of blue, white, red, white and blue, with a yellow triangle at the hoist bearing the municipal coat of arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Umuarama_-_PR.svg",
+    "https://www.wikidata.org/wiki/Q593948"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 5
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "hoist"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "municipal coat of arms"
+    }
+  ]
+}

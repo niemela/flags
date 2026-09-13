@@ -1,0 +1,61 @@
+{
+  "id": "BR-ES-cachoeiro-de-itapemirim",
+  "name": "Cachoeiro de Itapemirim (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-ES",
+  "codes": {
+    "wikidata": "Q1439193"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A dark-blue field; in the upper hoist a yellow crown inscribed CACHOEIRO above a group of white stars, and towards the fly three white diagonal bars rising from lower hoist to upper fly.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Cachoeiro_de_Itapemirim.svg",
+    "https://www.wikidata.org/wiki/Q1439193"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 3,
+      "direction": "bend-sinister",
+      "position": "fly"
+    }
+  ]
+}

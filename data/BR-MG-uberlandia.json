@@ -1,0 +1,59 @@
+{
+  "id": "BR-MG-uberlandia",
+  "name": "Uberlândia (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-MG",
+  "codes": {
+    "wikidata": "Q194328"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontally divided blue over green, with a white many-rayed star bursting from the centre, where a small yellow ring encloses a white triangle.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Uberlândia.svg",
+    "https://www.wikidata.org/wiki/Q194328"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "sun",
+      "color": "white",
+      "rays": 16,
+      "position": "center",
+      "role": "radiating star"
+    },
+    {
+      "type": "circle",
+      "color": "yellow",
+      "position": "center"
+    }
+  ]
+}

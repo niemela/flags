@@ -1,0 +1,65 @@
+{
+  "id": "BR-PE-garanhuns",
+  "name": "Garanhuns (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PE",
+  "codes": {
+    "wikidata": "Q771575"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A white field with a red border; three black eagles displayed across the upper half, and along the bottom a red wavy band bearing three white discs charged with blue wavy lines.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:BandeiraGaranhuns.svg",
+    "https://www.wikidata.org/wiki/Q771575"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "bordure",
+      "color": "red"
+    },
+    {
+      "type": "bird",
+      "color": "black",
+      "position": "top",
+      "count": 3,
+      "role": "eagles"
+    },
+    {
+      "type": "wave",
+      "color": "red",
+      "position": "bottom"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "bottom",
+      "count": 3
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "BR-SP-aracatuba",
+  "name": "Araçatuba (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SP",
+  "codes": {
+    "wikidata": "Q626835"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A white field with seven narrow blue horizontal stripes, and in the upper hoist a blue panel bearing a white map outline of the municipality charged with the coat of arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Araçatuba.svg",
+    "https://www.wikidata.org/wiki/Q626835"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 7
+    },
+    {
+      "type": "canton",
+      "color": "blue"
+    },
+    {
+      "type": "map",
+      "color": "white",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "upper-hoist",
+      "role": "municipal coat of arms"
+    }
+  ]
+}

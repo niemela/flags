@@ -1,0 +1,71 @@
+{
+  "id": "BR-PA-braganca",
+  "name": "Bragança (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PA",
+  "codes": {
+    "wikidata": "Q320487"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "purple"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A green field crossed by a yellow diagonal band from upper hoist to lower fly; at the centre a red lozenge bearing a purple disc charged with a white star.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Bragança_(Pará).svg",
+    "https://www.wikidata.org/wiki/Q320487"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "lozenge",
+      "color": "red",
+      "position": "center"
+    },
+    {
+      "type": "disc",
+      "color": "purple",
+      "position": "center"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center"
+    }
+  ]
+}

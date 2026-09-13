@@ -1,0 +1,56 @@
+{
+  "id": "BR-RJ-marica",
+  "name": "Maricá (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-RJ",
+  "codes": {
+    "wikidata": "Q847037"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "A red field crossed by a white diagonal band from upper hoist to lower fly, charged with four dark-blue five-pointed stars.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Maricá.svg",
+    "https://www.wikidata.org/wiki/Q847037"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "navy",
+      "position": "center",
+      "arrangement": "along the diagonal band"
+    }
+  ]
+}

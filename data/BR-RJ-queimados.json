@@ -1,0 +1,48 @@
+{
+  "id": "BR-RJ-queimados",
+  "name": "Queimados (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-RJ",
+  "codes": {
+    "wikidata": "Q1800756"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A green field charged at the centre with a slightly tilted white rectangular panel bearing the municipal coat of arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Queimados.svg",
+    "https://www.wikidata.org/wiki/Q1800756"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "tilted rectangular panel"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "municipal coat of arms"
+    }
+  ]
+}

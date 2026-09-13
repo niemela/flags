@@ -1,0 +1,59 @@
+{
+  "id": "BR-BA-ilheus",
+  "name": "Ilhéus (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-BA",
+  "codes": {
+    "wikidata": "Q373705"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A red field with three narrow yellow stripes along the bottom and, in the upper hoist, five green cocoa pods arranged in a saltire pattern.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Ilhéus.svg",
+    "https://www.wikidata.org/wiki/Q373705"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 5,
+      "position": "bottom"
+    },
+    {
+      "type": "fruit",
+      "color": "green",
+      "position": "upper-hoist",
+      "count": 5,
+      "role": "cocoa pods"
+    }
+  ]
+}

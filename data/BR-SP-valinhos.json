@@ -1,0 +1,59 @@
+{
+  "id": "BR-SP-valinhos",
+  "name": "Valinhos (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SP",
+  "codes": {
+    "wikidata": "Q983511"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "4:7",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A green field with a white cross and a white saltire, both edged in yellow, meeting at the centre under the municipal coat of arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira-Valinhos.svg",
+    "https://www.wikidata.org/wiki/Q983511"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "fimbriation": {
+        "color": "yellow"
+      }
+    },
+    {
+      "type": "saltire",
+      "color": "white",
+      "fimbriation": {
+        "color": "yellow"
+      }
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "municipal coat of arms"
+    }
+  ]
+}

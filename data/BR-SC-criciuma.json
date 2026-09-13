@@ -1,0 +1,63 @@
+{
+  "id": "BR-SC-criciuma",
+  "name": "Criciúma (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SC",
+  "codes": {
+    "wikidata": "Q1439157"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided by a white saltire edged in black into a red upper triangle and green hoist, fly and lower triangles; at the centre a white disc bearing the municipal coat of arms with the dates 1880 and 1925.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:BandeiraCriciuma.svg",
+    "https://www.wikidata.org/wiki/Q1439157"
+  ],
+  "features": [
+    {
+      "type": "per-saltire",
+      "hoist": "green",
+      "top": "red",
+      "fly": "green",
+      "bottom": "green"
+    },
+    {
+      "type": "saltire",
+      "color": "white",
+      "fimbriation": {
+        "color": "black"
+      }
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "municipal coat of arms"
+    }
+  ]
+}

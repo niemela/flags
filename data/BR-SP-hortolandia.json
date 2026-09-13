@@ -1,0 +1,53 @@
+{
+  "id": "BR-SP-hortolandia",
+  "name": "Hortolândia (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SP",
+  "codes": {
+    "wikidata": "Q952617"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "~0.73:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "A pale-yellow field crossed by two diagonal bands of green edged in light blue, rising from lower hoist to upper fly; at the centre the round municipal seal.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_Hortolandia_SaoPaulo_Brasil.svg",
+    "https://www.wikidata.org/wiki/Q952617"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "green"
+      ],
+      "count": 2,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "seal",
+      "position": "center",
+      "role": "round municipal seal inscribed HORTOLÂNDIA"
+    }
+  ]
+}

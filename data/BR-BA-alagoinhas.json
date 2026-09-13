@@ -1,0 +1,64 @@
+{
+  "id": "BR-BA-alagoinhas",
+  "name": "Alagoinhas (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-BA",
+  "codes": {
+    "wikidata": "Q22050101"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A red field with a white triangle at the hoist bearing the municipal coat of arms; from the apex of the triangle a horizontal band of white, black and white runs to the fly.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Alagoinhas_-_BA.svg",
+    "https://www.wikidata.org/wiki/Q22050101"
+  ],
+  "features": [
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "municipal coat of arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "black",
+        "white",
+        "red"
+      ],
+      "count": 5,
+      "widths": [
+        2,
+        1,
+        1,
+        1,
+        2
+      ]
+    }
+  ]
+}

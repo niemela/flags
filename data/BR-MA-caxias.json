@@ -1,0 +1,62 @@
+{
+  "id": "BR-MA-caxias",
+  "name": "Caxias (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-MA",
+  "codes": {
+    "wikidata": "Q997107"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from lower hoist to upper fly, blue above and green below, by a red band bearing the inscriptions 1º DE AGOSTO and DE 1823 in white; at the centre a golden lyre above an open book and a machete.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_do_Municipio_de_Caxias_Maranhao.svg",
+    "https://www.wikidata.org/wiki/Q997107"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "lyre over an open book and machete"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "BR-RJ-volta-redonda",
+  "name": "Volta Redonda (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-RJ",
+  "codes": {
+    "wikidata": "Q276176"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Seven horizontal stripes alternating yellow and white, with a black canton bearing a yellow device of radiating arrows.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Volta_Redonda_-_RJ.svg",
+    "https://www.wikidata.org/wiki/Q276176"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "white",
+        "yellow",
+        "white",
+        "yellow",
+        "white",
+        "yellow"
+      ],
+      "count": 7
+    },
+    {
+      "type": "canton",
+      "color": "black"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "canton",
+      "role": "radiating arrows"
+    }
+  ]
+}
