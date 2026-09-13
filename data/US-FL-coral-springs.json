@@ -1,0 +1,62 @@
+{
+  "id": "US-FL-coral-springs",
+  "name": "Coral Springs (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-FL",
+  "codes": {
+    "wikidata": "Q505557"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "grey"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A light-blue field with a white upper band, a yellow sun rising over green wetlands and a turquoise water band along the bottom, with a small palm at the centre.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Coral_Springs,_Florida.svg",
+    "https://www.wikidata.org/wiki/Q505557"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "green",
+        "light-blue"
+      ],
+      "count": 4
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "center",
+      "rays": 15
+    },
+    {
+      "type": "wave",
+      "color": "light-blue",
+      "position": "bottom"
+    }
+  ]
+}

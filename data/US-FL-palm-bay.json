@@ -1,0 +1,61 @@
+{
+  "id": "US-FL-palm-bay",
+  "name": "Palm Bay (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-FL",
+  "codes": {
+    "wikidata": "Q816809"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "orange"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "An ochre-orange field with a dark-green palm tree at the hoist, the words CITY OF PALM BAY FLORIDA in black, and a sandy shore with blue water and a red setting sun along the bottom.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Palm_Bay,_Florida.svg",
+    "https://www.wikidata.org/wiki/Q816809"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "orange"
+    },
+    {
+      "type": "palm",
+      "color": "green",
+      "position": "hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "upper-fly",
+      "role": "inscription CITY OF PALM BAY FLORIDA"
+    },
+    {
+      "type": "wave",
+      "color": "light-blue",
+      "position": "bottom"
+    }
+  ]
+}

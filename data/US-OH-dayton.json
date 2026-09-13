@@ -1,0 +1,60 @@
+{
+  "id": "US-OH-dayton",
+  "name": "Dayton (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-OH",
+  "codes": {
+    "wikidata": "Q34739"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A blue field with a green base at the lower hoist, crossed by white and blue diagonal bands rising from lower hoist to upper fly, with white bars at the upper fly.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Dayton,_Ohio.svg",
+    "https://www.wikidata.org/wiki/Q34739"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "base at the lower hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "bars at the upper fly"
+    }
+  ]
+}

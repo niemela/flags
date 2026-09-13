@@ -1,0 +1,68 @@
+{
+  "id": "US-IA-davenport",
+  "name": "Davenport (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-IA",
+  "codes": {
+    "wikidata": "Q26887"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal stripes of orange-red, white and dark blue on a white field, with the year 1836 in a box at the upper hoist, a yellow-framed emblem of a stylised D with skyline and waves at the centre, and CITY OF DAVENPORT below.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Davenport,_Iowa.svg",
+    "https://www.wikidata.org/wiki/Q26887"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white",
+        "navy",
+        "white"
+      ],
+      "count": 5,
+      "widths": [
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "center",
+      "role": "stylised D with skyline and waves in a yellow frame"
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "bottom",
+      "role": "inscription CITY OF DAVENPORT"
+    }
+  ]
+}

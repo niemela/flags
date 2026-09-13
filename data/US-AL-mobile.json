@@ -1,0 +1,58 @@
+{
+  "id": "US-AL-mobile",
+  "name": "Mobile (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-AL",
+  "codes": {
+    "wikidata": "Q79875"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "A white field with a crimson stripe near the top and a dark-blue stripe near the bottom, charged at the centre with the seal of the City of Mobile.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Mobile,_Alabama.svg",
+    "https://www.wikidata.org/wiki/Q79875"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white",
+        "navy",
+        "white"
+      ],
+      "count": 5,
+      "widths": [
+        1,
+        2,
+        6,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "seal",
+      "position": "center",
+      "role": "seal of the City of Mobile"
+    }
+  ]
+}

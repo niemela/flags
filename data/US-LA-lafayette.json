@@ -1,0 +1,51 @@
+{
+  "id": "US-LA-lafayette",
+  "name": "Lafayette (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-LA",
+  "codes": {
+    "wikidata": "Q128891"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A red field with blue and white curved bands sweeping across it, suggesting a stylised fleur-de-lis and the crossing of roads.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Lafayette,_Louisiana.svg",
+    "https://www.wikidata.org/wiki/Q128891"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "curved bands"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "curved bands"
+    }
+  ]
+}

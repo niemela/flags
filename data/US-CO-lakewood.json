@@ -1,0 +1,54 @@
+{
+  "id": "US-CO-lakewood",
+  "name": "Lakewood (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-CO",
+  "codes": {
+    "wikidata": "Q462804"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontally divided red over dark blue, charged at the centre with a white-bordered roundel showing snow-capped mountains above the name LAKEWOOD.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Lakewood,_Colorado.svg",
+    "https://www.wikidata.org/wiki/Q462804"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "navy"
+      ],
+      "count": 2
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "roundel with mountains and the name LAKEWOOD"
+    }
+  ]
+}

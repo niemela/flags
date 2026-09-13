@@ -1,0 +1,61 @@
+{
+  "id": "US-FL-fort-lauderdale",
+  "name": "Fort Lauderdale (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-FL",
+  "codes": {
+    "wikidata": "Q165972"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "~0.63:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A white field with a red stripe along the top and a blue stripe along the bottom, charged at the centre with the city emblem — a red sunburst and a blue sailboat — encircled by CITY OF FORT LAUDERDALE FLORIDA.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Fort_Lauderdale,_Florida.svg",
+    "https://www.wikidata.org/wiki/Q165972"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        8,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "sunburst and sailboat emblem"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "inscription CITY OF FORT LAUDERDALE FLORIDA"
+    }
+  ]
+}

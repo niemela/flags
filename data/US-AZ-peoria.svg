@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="400" width="600">
+ <rect fill="#99cbed" height="400" width="600" y="0" x="0"/>
+ <rect fill="#4093d1" height="115" width="600" y="285" x="0"/>
+ <path fill="#cee4f9" d="m300 85-216.7 130h433.3l-216.6-130z"/>
+ <path id="b" fill="#ffffff" d="m250.1 71.29h99.89l-80.81 58.71 30.87-95 30.87 95z"/>
+ <use xlink:href="#b" y="0" x="-165"/>
+ <use xlink:href="#b" y="0" x="165"/>
+ <path fill="#8c0a04" d="m0 215 100-60 100 60 100-60 100 60 100-60 100 60v70h-600z"/>
+ <path id="a" fill="#ab523a" d="m83.33 285 116.7-70l-58.33-35-175 105z"/>
+ <use xlink:href="#a" y="0" x="200"/>
+ <use xlink:href="#a" transform="scale(-1,1)" y="0" x="-400"/>
+ <use xlink:href="#a" transform="scale(-1,1)" y="0" x="-600"/>
+ <path fill="#c57d65" d="m300 205-58.33 35 58.33 35 58.33-35-58.33-35z"/>
+ <path fill="#0179c2" d="m0 335 100 60 100-60 100 60 100-60 100 60 100-60v65h-600z"/>
+ <g id="c">
+  <path fill="#7eaddd" d="m166.7 285-191.7 115h116.7l191.6-115h-116.7z"/>
+  <path fill="#4697d1" d="m41.67 360-66.67 40h116.7l8.3-5-58.33-35z"/>
+ </g>
+ <use xlink:href="#c" transform="scale(-1,1)" y="0" x="-600"/>
+</svg>

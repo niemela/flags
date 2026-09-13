@@ -1,0 +1,56 @@
+{
+  "id": "US-SD-sioux-falls",
+  "name": "Sioux Falls (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-SD",
+  "codes": {
+    "wikidata": "Q131335"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided between blue at the upper hoist and red at the lower fly by a white stepped line representing the falls, with a yellow sun in the upper hoist.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Sioux_Falls,_South_Dakota.svg",
+    "https://www.wikidata.org/wiki/Q131335"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "stepped dividing line representing the falls"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "rays": 24
+    }
+  ]
+}

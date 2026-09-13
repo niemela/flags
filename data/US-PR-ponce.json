@@ -1,0 +1,56 @@
+{
+  "id": "US-PR-ponce",
+  "name": "Ponce (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-PR",
+  "codes": {
+    "wikidata": "Q864024"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Divided diagonally from lower hoist to upper fly, black above and red below, charged at the centre with a golden lion on a bridge between the name PONCE and the year 1692.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Ponce,_Puerto_Rico.svg",
+    "https://www.wikidata.org/wiki/Q864024"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "black",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "center",
+      "role": "lion on a bridge"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "inscriptions PONCE and 1692"
+    }
+  ]
+}

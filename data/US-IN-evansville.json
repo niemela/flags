@@ -1,0 +1,63 @@
+{
+  "id": "US-IN-evansville",
+  "name": "Evansville (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-IN",
+  "codes": {
+    "wikidata": "Q486459"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three horizontal stripes of light blue, gold and dark blue, charged at the centre with a dark-blue disc bearing a white emblem of three columns above waves, within a ring of stars.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Evansville,_Indiana.svg",
+    "https://www.wikidata.org/wiki/Q486459"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "orange",
+        "navy"
+      ],
+      "count": 3,
+      "widths": [
+        3,
+        1,
+        3
+      ]
+    },
+    {
+      "type": "disc",
+      "color": "navy",
+      "position": "center"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "three columns above waves within a ring of stars"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "US-AZ-peoria",
+  "name": "Peoria (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-AZ",
+  "codes": {
+    "wikidata": "Q51686"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "maroon"
+    }
+  ],
+  "description": "A light-blue sky with three white stars above three overlapping brown mountain peaks, with translucent blue water stripes along the bottom.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Peoria,_Arizona.svg",
+    "https://www.wikidata.org/wiki/Q51686"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "white",
+      "position": "top"
+    },
+    {
+      "type": "mountain",
+      "color": "brown",
+      "position": "center",
+      "count": 3
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "US-NC-high-point",
+  "name": "High Point (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-NC",
+  "codes": {
+    "wikidata": "Q631194"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "4:7",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "A dark-blue field with a white horizontal bar running from the hoist towards the fly, ending at a light-blue disc.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_High_Point,_North_Carolina.svg",
+    "https://www.wikidata.org/wiki/Q631194"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "horizontal bar from the hoist"
+    },
+    {
+      "type": "disc",
+      "color": "light-blue",
+      "position": "center-fly"
+    }
+  ]
+}

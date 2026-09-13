@@ -1,0 +1,59 @@
+{
+  "id": "US-OK-norman",
+  "name": "Norman (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-OK",
+  "codes": {
+    "wikidata": "Q40347"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A dark-blue vertical stripe at the hoist and a red fly, separated by a thin white line; astride the division a white-bordered disc bearing a white star device.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Norman,_Oklahoma.svg",
+    "https://www.wikidata.org/wiki/Q40347"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "navy",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        3
+      ]
+    },
+    {
+      "type": "disc",
+      "color": "navy",
+      "position": "center-hoist"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "white",
+      "position": "center-hoist"
+    }
+  ]
+}

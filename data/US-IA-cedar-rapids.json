@@ -1,0 +1,54 @@
+{
+  "id": "US-IA-cedar-rapids",
+  "name": "Cedar Rapids (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-IA",
+  "codes": {
+    "wikidata": "Q486439"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue field with a green chevron at the hoist, edged in white and pointing towards the fly, charged with a white five-pointed star.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Cedar_Rapids,_Iowa.svg",
+    "https://www.wikidata.org/wiki/Q486439"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "chevron",
+      "color": "green",
+      "position": "hoist",
+      "fimbriation": {
+        "color": "white"
+      }
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "hoist"
+    }
+  ]
+}
