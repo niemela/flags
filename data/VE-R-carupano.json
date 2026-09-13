@@ -1,0 +1,49 @@
+{
+  "id": "VE-R-carupano",
+  "name": "Carúpano (Venezuela)",
+  "type": [
+    "city"
+  ],
+  "parent": "VE-R",
+  "codes": {
+    "wikidata": "Q153511"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided diagonally from lower hoist to upper fly, white above and light blue below, charged at the centre with the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Municipio_Bermudez.svg",
+    "https://www.wikidata.org/wiki/Q153511"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "light-blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "municipal coat of arms"
+    }
+  ]
+}

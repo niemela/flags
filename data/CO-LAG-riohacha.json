@@ -1,0 +1,56 @@
+{
+  "id": "CO-LAG-riohacha",
+  "name": "Riohacha (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-LAG",
+  "codes": {
+    "wikidata": "Q826566"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontally divided light blue over blue, the lower stripe narrower and edged in white, with a yellow sun rising from the division at the centre.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Riohacha.svg",
+    "https://www.wikidata.org/wiki/Q826566"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "center",
+      "rays": 13
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "EC-M-portoviejo",
+  "name": "Portoviejo (Ecuador)",
+  "type": [
+    "city"
+  ],
+  "parent": "EC-M",
+  "codes": {
+    "wikidata": "Q990716"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Quartered: the upper hoist striped light blue and white, the upper fly green, the lower hoist red and the lower fly white.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Portoviejo.svg",
+    "https://www.wikidata.org/wiki/Q990716"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "light-blue",
+        "green",
+        "red",
+        "white"
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "light-blue",
+        "white",
+        "light-blue"
+      ],
+      "count": 5,
+      "position": "canton"
+    }
+  ]
+}

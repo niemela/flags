@@ -1,0 +1,65 @@
+{
+  "id": "VE-M-guatire",
+  "name": "Guatire (Venezuela)",
+  "type": [
+    "city"
+  ],
+  "parent": "VE-M",
+  "codes": {
+    "wikidata": "Q1026987"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided diagonally from upper hoist to lower fly, red above and yellow below, with a light-blue stripe along the bottom; at the centre a brown cross rising from green hills.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:BAND-M-Zamora.svg",
+    "https://www.wikidata.org/wiki/Q1026987"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "yellow",
+      "direction": "bend"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue"
+      ],
+      "count": 1,
+      "position": "bottom"
+    },
+    {
+      "type": "latin-cross",
+      "color": "brown",
+      "position": "center"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "center"
+    }
+  ]
+}

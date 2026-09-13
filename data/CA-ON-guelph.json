@@ -1,0 +1,71 @@
+{
+  "id": "CA-ON-guelph",
+  "name": "Guelph (Canada)",
+  "type": [
+    "city"
+  ],
+  "parent": "CA-ON",
+  "codes": {
+    "wikidata": "Q504114"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth",
+    "Francophonie"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A white field with a red horizontal band edged in dark green across the middle, bearing a white horse; two red crowns above and a third between the words GUELPH and CANADA below.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Guelph.svg",
+    "https://www.wikidata.org/wiki/Q504114"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 3
+    },
+    {
+      "type": "horse",
+      "color": "white",
+      "position": "center"
+    },
+    {
+      "type": "crown",
+      "color": "red",
+      "position": "top",
+      "count": 2
+    },
+    {
+      "type": "crown",
+      "color": "red",
+      "position": "bottom"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "bottom",
+      "role": "inscription GUELPH CANADA"
+    }
+  ]
+}

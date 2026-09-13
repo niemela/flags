@@ -1,0 +1,65 @@
+{
+  "id": "NI-MT-matagalpa",
+  "name": "Matagalpa (Nicaragua)",
+  "type": [
+    "city"
+  ],
+  "parent": "NI-MT",
+  "codes": {
+    "wikidata": "Q596688"
+  },
+  "region": [
+    "Americas",
+    "Central America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Three horizontal stripes of blue, white and green, with a yellow triangle at the hoist bearing the municipal seal; a map of the department in the white stripe.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Matagalpa.svg",
+    "https://www.wikidata.org/wiki/Q596688"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "hoist"
+    },
+    {
+      "type": "seal",
+      "position": "hoist",
+      "role": "Matagalpa municipal seal"
+    },
+    {
+      "type": "map",
+      "color": "white",
+      "position": "center-fly"
+    }
+  ]
+}

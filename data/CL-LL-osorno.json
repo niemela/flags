@@ -1,0 +1,49 @@
+{
+  "id": "CL-LL-osorno",
+  "name": "Osorno (Chile)",
+  "type": [
+    "city"
+  ],
+  "parent": "CL-LL",
+  "codes": {
+    "wikidata": "Q51059"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from upper hoist to lower fly, white above and dark blue below, charged at the centre with the city arms of Osorno.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Osorno_(Chile).svg",
+    "https://www.wikidata.org/wiki/Q51059"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "navy",
+      "direction": "bend"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Osorno arms"
+    }
+  ]
+}

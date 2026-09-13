@@ -1,0 +1,58 @@
+{
+  "id": "CL-LL-puerto-montt",
+  "name": "Puerto Montt (Chile)",
+  "type": [
+    "city"
+  ],
+  "parent": "CL-LL",
+  "codes": {
+    "wikidata": "Q36214"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A white diagonal band rising from lower hoist to upper fly separates a dark-blue triangle at the upper hoist from a green triangle at the lower fly; a black sailing boat at the centre.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Puerto_Montt,_Chile.svg",
+    "https://www.wikidata.org/wiki/Q36214"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "navy",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "ship",
+      "color": "black",
+      "position": "center",
+      "role": "sailing boat"
+    }
+  ]
+}

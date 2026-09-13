@@ -1,0 +1,63 @@
+{
+  "id": "VE-S-tariba",
+  "name": "Táriba (Venezuela)",
+  "type": [
+    "city"
+  ],
+  "parent": "VE-S",
+  "codes": {
+    "wikidata": "Q167974"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three equal horizontal stripes of dark blue, green and red, with a yellow crescent in the upper hoist and four white stars on the green.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:BAND-S-Cardenas.svg",
+    "https://www.wikidata.org/wiki/Q167974"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "green",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "crescent",
+      "color": "yellow",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "arrangement": "row"
+    }
+  ]
+}

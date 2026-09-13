@@ -1,0 +1,65 @@
+{
+  "id": "VE-B-anaco",
+  "name": "Anaco (Venezuela)",
+  "type": [
+    "city"
+  ],
+  "parent": "VE-B",
+  "codes": {
+    "wikidata": "Q1897488"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Three horizontal stripes of green, yellow and red; the municipal arms in the upper hoist, and on the red stripe two black stars and a black skyline of oil derricks and industrial plant.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_del_municipio_Anaco.svg",
+    "https://www.wikidata.org/wiki/Q1897488"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "upper-hoist",
+      "role": "municipal coat of arms"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "black",
+      "position": "lower-hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "lower-fly",
+      "role": "skyline of oil derricks and industry"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "CA-ON-barrie",
+  "name": "Barrie (Canada)",
+  "type": [
+    "city"
+  ],
+  "parent": "CA-ON",
+  "codes": {
+    "wikidata": "Q34183"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth",
+    "Francophonie"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A red band along the top bearing three yellow emblems (a winged wheel, a crown and a cogwheel), above a white field crossed by five blue wavy lines.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Barrie.svg",
+    "https://www.wikidata.org/wiki/Q34183"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        3
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "top",
+      "role": "winged wheel, crown and cogwheel",
+      "count": 3
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom",
+      "count": 5
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "CU-12-bayamo",
+  "name": "Bayamo (Cuba)",
+  "type": [
+    "city"
+  ],
+  "parent": "CU-12",
+  "codes": {
+    "wikidata": "Q115382"
+  },
+  "region": [
+    "Americas",
+    "Caribbean",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "The Céspedes flag: the upper half is divided red at the hoist, charged with a white star, and white at the fly; the lower half is blue.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Céspedes_flag.svg",
+    "https://www.wikidata.org/wiki/Q115382"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "upper-hoist"
+    }
+  ]
+}

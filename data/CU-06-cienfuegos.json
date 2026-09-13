@@ -1,0 +1,78 @@
+{
+  "id": "CU-06-cienfuegos",
+  "name": "Cienfuegos (Cuba)",
+  "type": [
+    "city"
+  ],
+  "parent": "CU-06",
+  "codes": {
+    "wikidata": "Q190005"
+  },
+  "region": [
+    "Americas",
+    "Caribbean",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A dark-blue vertical stripe at the hoist bearing a white cross, a wide white centre bearing the city arms, and a red fly cut by two white triangular notches so as to form a zigzag, charged with a white star.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Cienfuegos,_Cuba.svg",
+    "https://www.wikidata.org/wiki/Q190005"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "navy",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Cienfuegos arms"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "fly"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "fly",
+      "role": "two triangular notches forming a zigzag"
+    }
+  ]
+}

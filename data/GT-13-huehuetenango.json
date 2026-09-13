@@ -1,0 +1,64 @@
+{
+  "id": "GT-13-huehuetenango",
+  "name": "Huehuetenango (Guatemala)",
+  "type": [
+    "city"
+  ],
+  "parent": "GT-13",
+  "codes": {
+    "wikidata": "Q984863"
+  },
+  "region": [
+    "Americas",
+    "Central America",
+    "Latin America"
+  ],
+  "aspect_ratio": "~0.63:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "A white field with a round municipal seal at the centre, showing the Zaculeu pyramid within a wreath, and a rectangle in each corner: yellow in the upper hoist and lower fly, red in the upper fly and lower hoist.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_Municipal_de_Huehuetenago.svg",
+    "https://www.wikidata.org/wiki/Q984863"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "seal",
+      "position": "center",
+      "role": "municipal seal — Zaculeu pyramid within a wreath"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "rectangles in the upper-hoist and lower-fly corners",
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "rectangles in the upper-fly and lower-hoist corners",
+      "count": 2
+    }
+  ]
+}

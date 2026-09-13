@@ -1,0 +1,51 @@
+{
+  "id": "EC-G-milagro",
+  "name": "Milagro (Ecuador)",
+  "type": [
+    "city"
+  ],
+  "parent": "EC-G",
+  "codes": {
+    "wikidata": "Q773238"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontally divided white over green, with five red five-pointed stars arranged in a circle in the upper hoist.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Milagro.svg",
+    "https://www.wikidata.org/wiki/Q773238"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "red",
+      "position": "upper-hoist",
+      "arrangement": "circle"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "PE-HUC-huanuco",
+  "name": "Huánuco (Peru)",
+  "type": [
+    "city"
+  ],
+  "parent": "PE-HUC",
+  "codes": {
+    "wikidata": "Q504394"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided diagonally from upper hoist to lower fly, cream-white above and green below.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Huánuco.svg",
+    "https://www.wikidata.org/wiki/Q504394"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "green",
+      "direction": "bend"
+    }
+  ]
+}

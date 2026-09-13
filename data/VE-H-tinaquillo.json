@@ -1,0 +1,50 @@
+{
+  "id": "VE-H-tinaquillo",
+  "name": "Tinaquillo (Venezuela)",
+  "type": [
+    "city"
+  ],
+  "parent": "VE-H",
+  "codes": {
+    "wikidata": "Q1517139"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "orange"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "An orange field with a dark-blue triangle issuing from the hoist to the fly, charged with a yellow sun.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:BAND-H-Tinaquillo.svg",
+    "https://www.wikidata.org/wiki/Q1517139"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "orange"
+    },
+    {
+      "type": "triangle",
+      "color": "navy",
+      "position": "hoist"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "hoist",
+      "rays": 16
+    }
+  ]
+}

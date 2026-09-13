@@ -1,0 +1,63 @@
+{
+  "id": "CA-ON-thunder-bay",
+  "name": "Thunder Bay (Canada)",
+  "type": [
+    "city"
+  ],
+  "parent": "CA-ON",
+  "codes": {
+    "wikidata": "Q34116"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere",
+    "Commonwealth",
+    "Francophonie"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontally divided yellow over blue by the green silhouette of the Sleeping Giant, with a red maple leaf edged in white rising above it at the centre.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Thunder_Bay.svg",
+    "https://www.wikidata.org/wiki/Q34116"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "center",
+      "role": "Sleeping Giant"
+    },
+    {
+      "type": "leaf",
+      "color": "red",
+      "position": "center",
+      "role": "maple leaf"
+    }
+  ]
+}
