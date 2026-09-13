@@ -1,0 +1,71 @@
+{
+  "id": "SK-NI-sturovo",
+  "name": "Štúrovo (Slovakia)",
+  "type": [
+    "city"
+  ],
+  "parent": "SK-NI",
+  "codes": {
+    "wikidata": "Q60038"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "shape": "swallowtail",
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red vertical stripe at the hoist and a fly of eight horizontal stripes alternating blue and yellow, ending at the fly in a swallowtail whose notch reaches one third of the flag's length.",
+  "history": "The flag's colours are taken from the municipal arms, as required for Slovak municipal symbols; arms and flag are registered in the Heraldic Register of the Slovak Republic under signature S-27/1991.",
+  "periods": [
+    {
+      "start": "1991"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Sturovo-nove_zamky-flag.svg",
+    "https://www.wikidata.org/wiki/Q60038",
+    "https://ives.minv.sk/heraldreg/detail?id_nositel=773"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        3
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "blue",
+        "yellow",
+        "blue",
+        "yellow",
+        "blue",
+        "yellow"
+      ],
+      "count": 8,
+      "position": "fly"
+    }
+  ]
+}
