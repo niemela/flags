@@ -1,0 +1,64 @@
+{
+  "id": "CH-SG-flawil",
+  "name": "Flawil (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-SG",
+  "codes": {
+    "wikidata": "Q65506"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Flawil: yellow with a chief, below chequy of white and red in seven columns.",
+  "history": "The arms were approved on 6 December 1938; the flag is the square banner of the arms.",
+  "periods": [
+    {
+      "start": "1938-12-06"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Flawil_Flag.svg",
+    "https://www.wikidata.org/wiki/Q65506",
+    "https://de.wikipedia.org/wiki/Flawil",
+    "https://fr.wikipedia.org/wiki/Flawil",
+    "https://it.wikipedia.org/wiki/Flawil"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        3
+      ],
+      "role": "yellow chief"
+    },
+    {
+      "type": "chequy",
+      "field": "white",
+      "chequy": "red",
+      "position": "bottom",
+      "columns": 7,
+      "role": "chequy field"
+    }
+  ]
+}
