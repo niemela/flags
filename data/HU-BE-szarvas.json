@@ -1,0 +1,48 @@
+{
+  "id": "HU-BE-szarvas",
+  "name": "Szarvas (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-BE",
+  "codes": {
+    "wikidata": "Q843014"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into a white hoist half and a blue fly half, charged at the centre with the town arms of Szarvas: a blue shield with a yellow stag on a green mound within a yellow baroque frame.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Szarvas.svg",
+    "https://www.wikidata.org/wiki/Q843014",
+    "https://hu.wikipedia.org/wiki/Szarvas_(település)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Szarvas arms in a yellow frame"
+    }
+  ]
+}

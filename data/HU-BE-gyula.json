@@ -1,0 +1,63 @@
+{
+  "id": "HU-BE-gyula",
+  "name": "Gyula (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-BE",
+  "codes": {
+    "wikidata": "Q214938"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "10:19",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Light blue field with a serrated vertical stripe of white and red triangles at the hoist edge, charged at the centre with a yellow crown.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Gyula.svg",
+    "https://www.wikidata.org/wiki/Q214938",
+    "https://hu.wikipedia.org/wiki/Gyula_(Magyarország)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "count": 5,
+      "role": "serrated hoist stripe"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "count": 5,
+      "role": "serrated hoist stripe"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "center"
+    }
+  ]
+}
