@@ -1,0 +1,77 @@
+{
+  "id": "CZ-72-strizovice",
+  "name": "Střížovice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-72",
+  "codes": {
+    "wikidata": "Q966090"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with two yellow horizontal stripes and a white diagonal band from the lower hoist to the upper fly bearing three red arrow-shaped charges.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 18 March 2003 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2003-03-18"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Střížovice_(okres_Kroměříž).svg",
+    "https://www.wikidata.org/wiki/Q966090",
+    "https://cs.wikipedia.org/wiki/St%C5%99%C3%AD%C5%BEovice_(okres_Krom%C4%9B%C5%99%C3%AD%C5%BE)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 2,
+      "role": "two stripes"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "three arrow charges",
+      "count": 3
+    }
+  ]
+}

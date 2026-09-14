@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="603" height="402" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<path d="m0,0h603v402h-603z" fill="#04a"/>
+	<path d="m603,0l-116,67l116 67l-116,67l116 67l-116,67l116 67z" fill="#008000"/>
+	<g transform="matrix(.33 0 0 .33 144.5 20)">
+		<path id="b1" d="m300 0l-71 241 71 241 71-241z" fill="#803300"/>
+		<use id="b2" xlink:href="#b1" transform="rotate(60 300 240)"/>
+		<use xlink:href="#b2" transform="matrix(-1,0,0,1,600,0)"/>
+		<g id="c">
+			<path d="m300 0l-45 160 45 80-45 80 45 160z" fill="#fc0"/>
+			<path d="m300 0l45 160-45 80 45 80-45 160z" fill="#d4aa00"/>
+		</g>
+		<use id="f" xlink:href="#c" transform="rotate(60 300 240)"/>
+		<use xlink:href="#f" transform="matrix(-1,0,0,1,600,0)" />
+	</g>
+	<path d="m93.5,110c-75 300 375 300 300 0c0 210 -300 210 -300 0z" fill="#fc0"/>
+</svg>

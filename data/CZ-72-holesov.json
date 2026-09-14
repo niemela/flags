@@ -1,0 +1,66 @@
+{
+  "id": "CZ-72-holesov",
+  "name": "Holešov (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-72",
+  "codes": {
+    "wikidata": "Q961325"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Five vertical stripes of pale yellow, blue, pale yellow, blue and pale yellow in the ratio 1:1:4:1:1, with a yellow tower surmounted by a yellow star in the middle.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Falga_Holešova.svg",
+    "https://www.wikidata.org/wiki/Q961325",
+    "https://cs.wikipedia.org/wiki/Hole%C5%A1ov"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "blue",
+        "yellow",
+        "blue",
+        "yellow"
+      ],
+      "count": 5,
+      "widths": [
+        1,
+        1,
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "tower"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "yellow",
+      "position": "top"
+    }
+  ]
+}

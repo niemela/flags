@@ -1,0 +1,73 @@
+{
+  "id": "CZ-72-borenovice",
+  "name": "Bořenovice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-72",
+  "codes": {
+    "wikidata": "Q896278"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field with two yellow diagonal stripes from the lower hoist to the upper fly, a yellow fleur-de-lis between them and a yellow star and a yellow linden leaf in each remaining corner.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 26 November 1999 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "1999-11-26"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Borenovice_vlajka.svg",
+    "https://www.wikidata.org/wiki/Q896278",
+    "https://cs.wikipedia.org/wiki/Bo%C5%99enovice"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 2,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 8,
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "leaf",
+      "color": "yellow",
+      "position": "center",
+      "role": "linden leaves",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "CZ-72-pohorelice",
+  "name": "Pohořelice (Zlín District, Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-72",
+  "codes": {
+    "wikidata": "Q592826"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Two equal horizontal stripes of red over blue, with a white crescent and a yellow eight-pointed star in the centre and four yellow crosses pattée in the corners.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 21 June 1999 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "1999-06-21"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Pohořelice_(okres_Zlín).svg",
+    "https://www.wikidata.org/wiki/Q592826",
+    "https://cs.wikipedia.org/wiki/Poho%C5%99elice_(okres_Zl%C3%ADn)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "crescent"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "greek-cross",
+      "color": "yellow",
+      "position": "center",
+      "role": "crosses pattée",
+      "count": 4
+    }
+  ]
+}

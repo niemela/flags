@@ -1,0 +1,66 @@
+{
+  "id": "CZ-72-tlumacov",
+  "name": "Tlumačov (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-72",
+  "codes": {
+    "wikidata": "Q1974427"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with a white diagonal band from the upper hoist to the lower fly bearing a red swan and a red forked arrow.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 20 January 2005 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2005-01-20"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Tlumačov.svg",
+    "https://www.wikidata.org/wiki/Q1974427",
+    "https://cs.wikipedia.org/wiki/Tluma%C4%8Dov_(okres_Zl%C3%ADn)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "bird",
+      "color": "red",
+      "position": "center",
+      "role": "swan"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "forked arrow"
+    }
+  ]
+}
