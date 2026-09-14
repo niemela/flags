@@ -1,0 +1,57 @@
+{
+  "id": "CH-ZH-pfungen",
+  "name": "Pfungen (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-ZH",
+  "codes": {
+    "wikidata": "Q65119"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Pfungen: divided horizontally, blue above a white embattled and masoned wall, with a curved blue pile rising into the wall.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Pfungen_Flag.svg",
+    "https://www.wikidata.org/wiki/Q65119",
+    "https://de.wikipedia.org/wiki/Pfungen",
+    "https://fr.wikipedia.org/wiki/Pfungen",
+    "https://it.wikipedia.org/wiki/Pfungen"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "bottom",
+      "role": "embattled masoned wall"
+    },
+    {
+      "type": "pile",
+      "color": "blue",
+      "position": "bottom",
+      "field": "white",
+      "direction": "up",
+      "role": "curved pile"
+    }
+  ]
+}

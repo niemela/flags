@@ -1,0 +1,68 @@
+{
+  "id": "CH-ZH-fehraltorf",
+  "name": "Fehraltorf (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-ZH",
+  "codes": {
+    "wikidata": "Q70369"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Fehraltorf: divided vertically blue and white, over all a fleur-de-lis counterchanged, between two white roses on the blue and two blue stars on the white.",
+  "history": "The arms were introduced in 1930; the flag is the square banner of the arms.",
+  "periods": [
+    {
+      "start": "1930"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Fehraltorf_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70369",
+    "https://de.wikipedia.org/wiki/Fehraltorf",
+    "https://fr.wikipedia.org/wiki/Fehraltorf",
+    "https://it.wikipedia.org/wiki/Fehraltorf"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "fleur-de-lis",
+      "position": "center",
+      "role": "fleur-de-lis counterchanged"
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "hoist",
+      "count": 2,
+      "role": "roses"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 6,
+      "color": "blue",
+      "position": "fly",
+      "arrangement": "column"
+    }
+  ]
+}

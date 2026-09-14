@@ -1,0 +1,56 @@
+{
+  "id": "CH-ZH-benken",
+  "name": "Benken (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-ZH",
+  "codes": {
+    "wikidata": "Q70171"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Benken: divided diagonally from the upper hoist white and blue, with a blue ploughshare above and a white pruning knife with a yellow handle below.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Benken_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70171",
+    "https://de.wikipedia.org/wiki/Benken_ZH",
+    "https://fr.wikipedia.org/wiki/Benken_(Zurich)",
+    "https://it.wikipedia.org/wiki/Benken_(Zurigo)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "blue",
+      "direction": "bend"
+    },
+    {
+      "type": "tool",
+      "color": "blue",
+      "position": "upper-fly",
+      "role": "ploughshare"
+    },
+    {
+      "type": "tool",
+      "color": "white",
+      "position": "lower-hoist",
+      "role": "pruning knife with yellow handle"
+    }
+  ]
+}

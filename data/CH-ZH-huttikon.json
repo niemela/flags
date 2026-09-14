@@ -1,0 +1,64 @@
+{
+  "id": "CH-ZH-huttikon",
+  "name": "Hüttikon (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-ZH",
+  "codes": {
+    "wikidata": "Q65671"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Square banner of the arms of Hüttikon: on white a black chevron above a red patriarchal cross, with a red chief.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Hüttikon_Flag.svg",
+    "https://www.wikidata.org/wiki/Q65671",
+    "https://de.wikipedia.org/wiki/Hüttikon",
+    "https://fr.wikipedia.org/wiki/Hüttikon",
+    "https://it.wikipedia.org/wiki/Hüttikon"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        3
+      ],
+      "role": "red chief"
+    },
+    {
+      "type": "chevron",
+      "color": "black",
+      "position": "center",
+      "field": "white",
+      "chevron": "black"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "bottom",
+      "role": "patriarchal cross"
+    }
+  ]
+}

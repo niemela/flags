@@ -1,0 +1,58 @@
+{
+  "id": "CH-ZH-seegraben",
+  "name": "Seegräben (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-ZH",
+  "codes": {
+    "wikidata": "Q67310"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Seegräben: divided horizontally, blue with a white dugout boat, and gyronny of yellow and blue radiating from the division.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Seegräben_Flag.svg",
+    "https://www.wikidata.org/wiki/Q67310",
+    "https://de.wikipedia.org/wiki/Seegräben",
+    "https://fr.wikipedia.org/wiki/Seegräben",
+    "https://it.wikipedia.org/wiki/Seegräben"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "ship",
+      "color": "white",
+      "position": "top",
+      "role": "dugout boat"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "bottom",
+      "role": "gyronny rays of blue and yellow"
+    }
+  ]
+}

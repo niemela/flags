@@ -1,0 +1,64 @@
+{
+  "id": "CH-ZH-volketswil",
+  "name": "Volketswil (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-ZH",
+  "codes": {
+    "wikidata": "Q69754"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Volketswil: divided horizontally, chequy of black and white in eight pieces, and yellow with a red six-pointed star.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Volketswil_Flag.svg",
+    "https://www.wikidata.org/wiki/Q69754",
+    "https://de.wikipedia.org/wiki/Volketswil",
+    "https://fr.wikipedia.org/wiki/Volketswil",
+    "https://it.wikipedia.org/wiki/Volketswil"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "chequy",
+      "field": "black",
+      "chequy": "white",
+      "position": "top",
+      "rows": 2,
+      "columns": 4
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "red",
+      "position": "bottom"
+    }
+  ]
+}

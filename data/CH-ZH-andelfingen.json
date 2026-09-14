@@ -1,0 +1,65 @@
+{
+  "id": "CH-ZH-andelfingen",
+  "name": "Andelfingen (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-ZH",
+  "codes": {
+    "wikidata": "Q68423"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Andelfingen: on red a yellow bend between two walking yellow lions, the lower one below a yellow star.",
+  "history": "The official arms were fixed in 1927; the flag is the square banner of the arms.",
+  "periods": [
+    {
+      "start": "1927"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Andelfingen_Flag.svg",
+    "https://www.wikidata.org/wiki/Q68423",
+    "https://de.wikipedia.org/wiki/Andelfingen_ZH",
+    "https://fr.wikipedia.org/wiki/Andelfingen",
+    "https://it.wikipedia.org/wiki/Andelfingen"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "walking lions"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "hoist"
+    }
+  ]
+}

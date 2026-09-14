@@ -1,0 +1,59 @@
+{
+  "id": "CH-ZH-bassersdorf",
+  "name": "Bassersdorf (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-ZH",
+  "codes": {
+    "wikidata": "Q69734"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Bassersdorf: diagonally striped white and blue, over all a red horizontal bar.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Bassersdorf_Flag.svg",
+    "https://www.wikidata.org/wiki/Q69734",
+    "https://de.wikipedia.org/wiki/Bassersdorf",
+    "https://fr.wikipedia.org/wiki/Bassersdorf",
+    "https://it.wikipedia.org/wiki/Bassersdorf"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "count": 3,
+      "direction": "bend",
+      "role": "bendy white and blue"
+    },
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "fess"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "CH-ZH-winkel",
+  "name": "Winkel (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-ZH",
+  "codes": {
+    "wikidata": "Q66588"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Square banner of the arms of Winkel: divided vertically, red, and white with two black chevrons.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Winkel_Flag.svg",
+    "https://www.wikidata.org/wiki/Q66588",
+    "https://de.wikipedia.org/wiki/Winkel_ZH",
+    "https://fr.wikipedia.org/wiki/Winkel_(Zurich)",
+    "https://it.wikipedia.org/wiki/Winkel_(Svizzera)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "chevron",
+      "color": "black",
+      "position": "fly",
+      "count": 2,
+      "field": "white",
+      "chevron": "black"
+    }
+  ]
+}

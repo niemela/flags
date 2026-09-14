@@ -1,0 +1,58 @@
+{
+  "id": "CH-ZH-hochfelden",
+  "name": "Hochfelden, Zürich (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-ZH",
+  "codes": {
+    "wikidata": "Q68410"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Hochfelden: on yellow a red bend charged with four white chevrons.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Hochfelden_Flag.svg",
+    "https://www.wikidata.org/wiki/Q68410",
+    "https://de.wikipedia.org/wiki/Hochfelden_ZH",
+    "https://fr.wikipedia.org/wiki/Hochfelden_(Zurich)",
+    "https://it.wikipedia.org/wiki/Hochfelden_(Svizzera)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "chevron",
+      "color": "white",
+      "position": "center",
+      "count": 4,
+      "field": "red",
+      "chevron": "white",
+      "role": "chevrons on the bend"
+    }
+  ]
+}
