@@ -1,0 +1,101 @@
+{
+  "id": "HU-ZA-zalaszanto",
+  "name": "Zalaszántó (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-ZA",
+  "codes": {
+    "wikidata": "Q145027"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A quartered hoist panel of red, blue, green and blue bearing a yellow lion, a duck, a dragon, stars and a crescent around a central blue shield with two white ploughshares, and a fly of red over blue divided by a white wedge from the fly edge.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Zalaszántó.svg",
+    "https://www.wikidata.org/wiki/Q145027",
+    "https://hu.wikipedia.org/wiki/Zalaszántó"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "red",
+        "blue",
+        "blue",
+        "green"
+      ],
+      "position": "hoist",
+      "role": "quartered hoist panel"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "bird",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "duck"
+    },
+    {
+      "type": "dragon",
+      "color": "yellow",
+      "position": "lower-hoist"
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "lower-hoist"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 8,
+      "color": "white",
+      "position": "lower-hoist"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "central shield with two ploughshares"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2,
+      "position": "fly"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "fly"
+    }
+  ]
+}
