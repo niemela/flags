@@ -1,0 +1,59 @@
+{
+  "id": "CH-SH-lohningen",
+  "name": "Löhningen (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-SH",
+  "codes": {
+    "wikidata": "Q66373"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Square banner of the arms of Löhningen: divided horizontally, red with a green trefoil above black with two green bends sinister.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Löhningen_Flag.svg",
+    "https://www.wikidata.org/wiki/Q66373",
+    "https://de.wikipedia.org/wiki/Löhningen",
+    "https://fr.wikipedia.org/wiki/Löhningen",
+    "https://it.wikipedia.org/wiki/Löhningen"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "black"
+      ],
+      "count": 2
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "top",
+      "role": "trefoil"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "green",
+      "position": "bottom",
+      "count": 2,
+      "direction": "bend-sinister"
+    }
+  ]
+}
