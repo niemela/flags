@@ -1,0 +1,59 @@
+{
+  "id": "PL-26-starachowice-county",
+  "name": "Starachowice County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-26",
+  "codes": {
+    "wikidata": "Q1553070"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field charged at the centre with the emblem of the county arms: three yellow crowns below a patriarchal cross.",
+  "history": "Established by resolution No. XVII/196/2000 of the county council of 23 November 2000.",
+  "periods": [
+    {
+      "start": "2000-11-23"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_starachowicki_flag.svg",
+    "https://www.wikidata.org/wiki/Q1553070",
+    "https://pl.wikipedia.org/wiki/Powiat_starachowicki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_świętokrzyskim",
+    "http://www.powiat.starachowice.pl/?pid=10&ca=show&id="
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "center",
+      "count": 3,
+      "role": "crowns from the county arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "top",
+      "role": "patriarchal cross"
+    }
+  ]
+}

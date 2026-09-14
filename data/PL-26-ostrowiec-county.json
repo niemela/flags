@@ -1,0 +1,66 @@
+{
+  "id": "PL-26-ostrowiec-county",
+  "name": "Ostrowiec County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-26",
+  "codes": {
+    "wikidata": "Q654524"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Two equal vertical stripes of red and blue, charged with the emblems of the county arms: a yellow star within a crescent and arrow on the red, and a yellow patriarchal cross on the blue.",
+  "history": "Established by resolution No. V/31/2003 of the county council of 24 January 2003.",
+  "periods": [
+    {
+      "start": "2003-01-24"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_ostrowiecki_flag.svg",
+    "https://www.wikidata.org/wiki/Q654524",
+    "https://pl.wikipedia.org/wiki/Powiat_ostrowiecki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_świętokrzyskim",
+    "https://arch.ostrowiecki.eu/powiat/o-powiecie/herb-i-flaga-powiatu/",
+    "https://samorzad.gov.pl/web/powiat-ostrowiecki/status-prawny3"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "star, crescent and arrow from the county arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "fly",
+      "role": "patriarchal cross from the county arms"
+    }
+  ]
+}

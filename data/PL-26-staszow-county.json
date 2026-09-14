@@ -1,0 +1,62 @@
+{
+  "id": "PL-26-staszow-county",
+  "name": "Staszów County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-26",
+  "codes": {
+    "wikidata": "Q120033"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field charged at the centre with the emblem of the county arms: two white sabres crossed above a yellow bar between lion heads, below a patriarchal cross.",
+  "history": "Established by resolution No. XXXI/41/02 of the county council of 8 July 2002.",
+  "periods": [
+    {
+      "start": "2002-07-08"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_staszowski_flag.svg",
+    "https://www.wikidata.org/wiki/Q120033",
+    "https://pl.wikipedia.org/wiki/Powiat_staszowski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_świętokrzyskim",
+    "https://staszowski.eu/v3/images/stories/gazeta/08_02.pdf"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "sword",
+      "color": "white",
+      "position": "center",
+      "count": 2,
+      "role": "crossed sabres from the county arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "patriarchal cross and bar from the county arms"
+    }
+  ]
+}
