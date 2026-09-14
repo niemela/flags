@@ -1,0 +1,50 @@
+{
+  "id": "CH-AR-wolfhalden",
+  "name": "Wolfhalden (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-AR",
+  "codes": {
+    "wikidata": "Q661621"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Wolfhalden: divided diagonally from the upper hoist, white above with a rampant red wolf and green below.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Wolfhalden_Flag.svg",
+    "https://www.wikidata.org/wiki/Q661621",
+    "https://de.wikipedia.org/wiki/Wolfhalden",
+    "https://fr.wikipedia.org/wiki/Wolfhalden",
+    "https://it.wikipedia.org/wiki/Wolfhalden"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "green",
+      "direction": "bend"
+    },
+    {
+      "type": "animal-other",
+      "color": "red",
+      "position": "upper-fly",
+      "role": "rampant wolf"
+    }
+  ]
+}

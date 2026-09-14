@@ -1,0 +1,60 @@
+{
+  "id": "CH-AR-wald",
+  "name": "Wald, Appenzell Ausserrhoden (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-AR",
+  "codes": {
+    "wikidata": "Q67175"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Wald: on black three green fir trees with red cones and white trunks on a red base.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Wald_AR_Flag.svg",
+    "https://www.wikidata.org/wiki/Q67175",
+    "https://de.wikipedia.org/wiki/Wald_AR",
+    "https://fr.wikipedia.org/wiki/Wald_(Appenzell_Rhodes-Extérieures)",
+    "https://it.wikipedia.org/wiki/Wald_(Appenzello_Esterno)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        4,
+        1
+      ]
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "count": 3,
+      "role": "fir trees with red cones"
+    }
+  ]
+}
