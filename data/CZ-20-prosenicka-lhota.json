@@ -1,0 +1,76 @@
+{
+  "id": "CZ-20-prosenicka-lhota",
+  "name": "Prosenická Lhota (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q2438509"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Two equal vertical stripes of red and yellow, the red bearing a white diagonal band charged with three blue six-pointed stars, and the yellow six green linden leaves.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Prosenická_Lhota.svg",
+    "https://www.wikidata.org/wiki/Q2438509",
+    "https://cs.wikipedia.org/wiki/Prosenick%C3%A1_Lhota"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "hoist",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 6,
+      "color": "blue",
+      "position": "hoist"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "fly",
+      "role": "linden leaves",
+      "count": 6
+    }
+  ]
+}

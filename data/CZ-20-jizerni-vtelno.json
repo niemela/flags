@@ -1,0 +1,80 @@
+{
+  "id": "CZ-20-jizerni-vtelno",
+  "name": "Jizerní Vtelno (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q2196729"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Five vertical stripes of blue, yellow, blue, yellow and blue in the ratio 1:5:1:5:1, the hoist yellow stripe bearing a sword and wheat ears over a white and blue charge, the fly yellow stripe a black eagle's wing.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 5 April 2017 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2017-04-05"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Jizerní_Vtelno_CZ.svg",
+    "https://www.wikidata.org/wiki/Q2196729",
+    "https://cs.wikipedia.org/wiki/Jizern%C3%AD_Vtelno"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "blue",
+        "yellow",
+        "blue"
+      ],
+      "count": 5,
+      "widths": [
+        1,
+        5,
+        1,
+        5,
+        1
+      ]
+    },
+    {
+      "type": "sword",
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "hoist"
+    },
+    {
+      "type": "eagle",
+      "color": "black",
+      "position": "fly",
+      "role": "eagle's wing"
+    }
+  ]
+}

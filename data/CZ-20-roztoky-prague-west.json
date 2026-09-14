@@ -1,0 +1,80 @@
+{
+  "id": "CZ-20-roztoky-prague-west",
+  "name": "Roztoky (Prague-West District, Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q1756968"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Quartered white and red, with a small canton divided red and white bearing a black eagle with yellow beak and claws and a white rose.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 9 November 2010 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2010-11-09"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Roztoky_PZ_CZ.svg",
+    "https://www.wikidata.org/wiki/Q1756968",
+    "https://cs.wikipedia.org/wiki/Roztoky_(okres_Praha-z%C3%A1pad)"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "white",
+        "white",
+        "red",
+        "red"
+      ]
+    },
+    {
+      "type": "canton",
+      "position": "canton",
+      "features": [
+        {
+          "type": "vertical-stripes",
+          "stripes": [
+            "white",
+            "red"
+          ],
+          "count": 2
+        },
+        {
+          "type": "eagle",
+          "color": "black",
+          "position": "hoist"
+        },
+        {
+          "type": "flower",
+          "color": "white",
+          "position": "fly",
+          "role": "rose"
+        }
+      ]
+    }
+  ]
+}

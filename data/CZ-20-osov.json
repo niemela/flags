@@ -1,0 +1,83 @@
+{
+  "id": "CZ-20-osov",
+  "name": "Osov (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q938550"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Quartered white and red with a small canton divided white and red bearing a black eagle with yellow beak and a white linden leaf, the lower hoist quarter red with a white cross.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Vlajka_obce_Osov.svg",
+    "https://www.wikidata.org/wiki/Q938550",
+    "https://cs.wikipedia.org/wiki/Osov"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "white",
+        "white",
+        "red",
+        "red"
+      ]
+    },
+    {
+      "type": "canton",
+      "position": "canton",
+      "features": [
+        {
+          "type": "vertical-stripes",
+          "stripes": [
+            "white",
+            "red"
+          ],
+          "count": 2
+        },
+        {
+          "type": "eagle",
+          "color": "black",
+          "position": "hoist"
+        },
+        {
+          "type": "leaf",
+          "color": "white",
+          "position": "fly",
+          "role": "linden leaf"
+        }
+      ]
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "lower-hoist"
+    }
+  ]
+}

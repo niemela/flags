@@ -1,0 +1,54 @@
+{
+  "id": "CZ-20-jinocany",
+  "name": "Jinočany (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q2053522"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into a yellow upper hoist part and a blue lower fly part bearing three narrow white diagonal stripes.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Jinocany_CZ_flag.svg",
+    "https://www.wikidata.org/wiki/Q2053522",
+    "https://cs.wikipedia.org/wiki/Jino%C4%8Dany"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "lower-fly",
+      "stripes": [
+        "white"
+      ],
+      "count": 3,
+      "direction": "bend-sinister"
+    }
+  ]
+}

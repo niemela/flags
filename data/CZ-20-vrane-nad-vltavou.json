@@ -1,0 +1,60 @@
+{
+  "id": "CZ-20-vrane-nad-vltavou",
+  "name": "Vrané nad Vltavou (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q164468"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Two horizontal stripes of white and blue in the ratio 2:1, with a red diagonal band from the upper hoist to the lower fly across the white.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Vrané_nad_Vltavou.svg",
+    "https://www.wikidata.org/wiki/Q164468",
+    "https://cs.wikipedia.org/wiki/Vran%C3%A9_nad_Vltavou"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "top",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "direction": "bend"
+    }
+  ]
+}

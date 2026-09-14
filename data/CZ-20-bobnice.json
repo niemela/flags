@@ -1,0 +1,62 @@
+{
+  "id": "CZ-20-bobnice",
+  "name": "Bobnice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q888786"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly into a yellow fly half and a red hoist half, separated by a diagonal band of white over black.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 25 March 2005 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2005-03-25"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Bobnice.svg",
+    "https://www.wikidata.org/wiki/Q888786",
+    "https://cs.wikipedia.org/wiki/Bobnice"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "red",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "position": "center",
+      "stripes": [
+        "white",
+        "black"
+      ],
+      "count": 2,
+      "direction": "bend"
+    }
+  ]
+}

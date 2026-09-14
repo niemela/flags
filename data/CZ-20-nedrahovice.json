@@ -1,0 +1,68 @@
+{
+  "id": "CZ-20-nedrahovice",
+  "name": "Nedrahovice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q2302567"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A red vertical stripe at the hoist one quarter of the flag's length, and two equal horizontal stripes of blue and white in the fly, with a white fish in the blue and a black wheel in the white.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Nedrahovice.svg",
+    "https://www.wikidata.org/wiki/Q2302567",
+    "https://cs.wikipedia.org/wiki/Nedrahovice"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "upper-fly",
+      "role": "fish"
+    },
+    {
+      "type": "wheel",
+      "color": "black",
+      "position": "lower-fly"
+    }
+  ]
+}

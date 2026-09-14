@@ -1,0 +1,67 @@
+{
+  "id": "CZ-20-kaliste",
+  "name": "Kaliště (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q2176347"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red vertical stripe at the hoist bearing a white forked arrow charge, and five horizontal stripes of blue, yellow, blue, yellow and blue in the fly.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Kaliště_(okres_Praha-východ).svg",
+    "https://www.wikidata.org/wiki/Q2176347",
+    "https://cs.wikipedia.org/wiki/Kali%C5%A1t%C4%9B_(okres_Praha-v%C3%BDchod)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "forked arrow"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "blue",
+        "yellow",
+        "blue"
+      ],
+      "count": 5,
+      "position": "fly"
+    }
+  ]
+}

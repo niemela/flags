@@ -1,0 +1,73 @@
+{
+  "id": "CZ-20-starosedlsky-hradek",
+  "name": "Starosedlský Hrádek (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q2311468"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Red field with three yellow six-pointed stars arranged one and two, above a white embattled stripe and a blue stripe on a white base.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 4 April 2019 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2019-04-04"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Starosedlský_Hrádek_CZ.svg",
+    "https://www.wikidata.org/wiki/Q2311468",
+    "https://cs.wikipedia.org/wiki/Starosedlsk%C3%BD_Hr%C3%A1dek"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 6,
+      "color": "yellow",
+      "position": "top"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "white"
+      ],
+      "count": 3,
+      "position": "bottom"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "embattled stripe"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "CZ-20-revnice",
+  "name": "Řevnice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q386858"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field with two crossed yellow knotted branches in the upper part, and narrow stripes of white, blue, white and blue along the bottom.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Revnice_CZ_flag.svg",
+    "https://www.wikidata.org/wiki/Q386858",
+    "https://cs.wikipedia.org/wiki/%C5%98evnice"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 5,
+      "widths": [
+        6,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "top",
+      "role": "crossed branches"
+    }
+  ]
+}

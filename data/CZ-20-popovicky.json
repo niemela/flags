@@ -1,0 +1,60 @@
+{
+  "id": "CZ-20-popovicky",
+  "name": "Popovičky (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q1828791"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with a white cross whose arms widen in concave curves to the edges, four red six-pointed stars in the blue quarters, and a red triangle at the bottom centre.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Popovičky.svg",
+    "https://www.wikidata.org/wiki/Q1828791",
+    "https://cs.wikipedia.org/wiki/Popovi%C4%8Dky"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "center",
+      "role": "cross with concave arms"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 6,
+      "color": "red",
+      "position": "center"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "bottom"
+    }
+  ]
+}

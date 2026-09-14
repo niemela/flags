@@ -1,0 +1,80 @@
+{
+  "id": "CZ-20-vysoky-chlumec",
+  "name": "Vysoký Chlumec (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q1014449"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Five vertical stripes of white, red, white, green and white, the hoist white bearing a green branch, the middle white a black eagle with yellow beak, and the green two crossed yellow keys.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Vysoký_Chlumec.svg",
+    "https://www.wikidata.org/wiki/Q1014449",
+    "https://cs.wikipedia.org/wiki/Vysok%C3%BD_Chlumec"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white",
+        "green",
+        "white"
+      ],
+      "count": 5,
+      "widths": [
+        3,
+        1,
+        3,
+        3,
+        1
+      ]
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "hoist",
+      "role": "leafy branch"
+    },
+    {
+      "type": "eagle",
+      "color": "black",
+      "position": "center"
+    },
+    {
+      "type": "key",
+      "color": "yellow",
+      "position": "fly",
+      "role": "crossed keys",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "CZ-20-bestin",
+  "name": "Běštín (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q2568479"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field with a diagonal band from the lower hoist to the upper fly divided lengthwise into black, white and red, and two crossed yellow picks with red handles in the upper hoist.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Vlajka_obce_bestin.svg",
+    "https://www.wikidata.org/wiki/Q2568479",
+    "https://cs.wikipedia.org/wiki/B%C4%9B%C5%A1t%C3%ADn"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "position": "center",
+      "stripes": [
+        "black",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "tool",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "crossed picks"
+    }
+  ]
+}

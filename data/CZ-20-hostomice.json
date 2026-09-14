@@ -1,0 +1,58 @@
+{
+  "id": "CZ-20-hostomice",
+  "name": "Hostomice (Beroun District, Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q1630641"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field with three white diagonal stripes rising from the lower hoist to the upper fly and a white double-tailed lion with yellow crown in the upper hoist.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hostomice_(okres_Beroun).svg",
+    "https://www.wikidata.org/wiki/Q1630641",
+    "https://cs.wikipedia.org/wiki/Hostomice_(okres_Beroun)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "fly",
+      "stripes": [
+        "white"
+      ],
+      "count": 3,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "lion",
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "crowned double-tailed lion"
+    }
+  ]
+}

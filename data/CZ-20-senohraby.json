@@ -1,0 +1,94 @@
+{
+  "id": "CZ-20-senohraby",
+  "name": "Senohraby (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q2659930"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "The hoist third divided into red over blue bearing a white forked arrow and a yellow rake, and the fly two thirds green with a white embattled tower above white and blue wavy stripes.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 3 May 2018 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2018-05-03"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Vlajka_obce_Senohraby.svg",
+    "https://www.wikidata.org/wiki/Q2659930",
+    "https://cs.wikipedia.org/wiki/Senohraby"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2,
+      "position": "hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "forked arrow"
+    },
+    {
+      "type": "tool",
+      "color": "yellow",
+      "position": "lower-hoist",
+      "role": "rake"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "fly",
+      "role": "embattled tower"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "lower-fly",
+      "count": 2
+    }
+  ]
+}

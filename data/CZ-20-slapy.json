@@ -1,0 +1,61 @@
+{
+  "id": "CZ-20-slapy",
+  "name": "Slapy (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q373867"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided by a white S-shaped wavy band into a red upper hoist part bearing a yellow crown over a crossed key and sword, and a blue lower fly part.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CZE_Slapy_Flag.svg",
+    "https://www.wikidata.org/wiki/Q373867",
+    "https://cs.wikipedia.org/wiki/Slapy"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "blue",
+      "direction": "bend-sinister",
+      "fimbriation": {
+        "color": "white"
+      }
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "key",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "crossed key and sword"
+    }
+  ]
+}

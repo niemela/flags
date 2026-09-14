@@ -1,0 +1,63 @@
+{
+  "id": "CZ-20-libez",
+  "name": "Libež (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q1861143"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field with a large blue trefoil bordered in yellow issuing from the hoist, with a yellow star on the hoist side.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 24 November 2014 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2014-11-24"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Libež.svg",
+    "https://www.wikidata.org/wiki/Q1861143",
+    "https://cs.wikipedia.org/wiki/Libe%C5%BE"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "trefoil",
+      "fimbriation": {
+        "color": "yellow"
+      }
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "yellow",
+      "position": "hoist"
+    }
+  ]
+}

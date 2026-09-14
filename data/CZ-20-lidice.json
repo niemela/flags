@@ -1,0 +1,64 @@
+{
+  "id": "CZ-20-lidice",
+  "name": "Lidice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q154888"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Yellow field with a narrow red border along the hoist and bottom edges, a black thorny branch running diagonally from the lower hoist to the upper fly, and two red roses with green sepals in the upper hoist and lower fly.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Lidice.svg",
+    "https://www.wikidata.org/wiki/Q154888",
+    "https://cs.wikipedia.org/wiki/Lidice"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "border",
+      "color": "red",
+      "position": "hoist",
+      "role": "border on hoist and bottom edges"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "thorny branch"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "center",
+      "role": "two roses",
+      "count": 2
+    }
+  ]
+}

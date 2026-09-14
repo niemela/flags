@@ -1,0 +1,68 @@
+{
+  "id": "CZ-20-zalezlice",
+  "name": "Zálezlice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q2657226"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Two horizontal stripes of white and blue separated by a wavy line, the white bearing a red cross set towards the hoist and the blue three yellow apples arranged two and one.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Zalezlice_CZ_flag.svg",
+    "https://www.wikidata.org/wiki/Q2657226",
+    "https://cs.wikipedia.org/wiki/Z%C3%A1lezlice"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "role": "wavy division"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "cross with arms to the edges"
+    },
+    {
+      "type": "fruit",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "three apples",
+      "count": 3
+    }
+  ]
+}

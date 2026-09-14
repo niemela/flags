@@ -1,0 +1,77 @@
+{
+  "id": "CZ-20-ritonice",
+  "name": "Řitonice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-20",
+  "codes": {
+    "wikidata": "Q2383530"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Three horizontal stripes of red, white and blue in the ratio 2:1:2, overlaid by a yellow saltire, with a white bell in the red and three white discs in the blue.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 14 December 2018 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2018-12-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Řitonice_CZ.svg",
+    "https://www.wikidata.org/wiki/Q2383530",
+    "https://cs.wikipedia.org/wiki/%C5%98itonice"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "saltire",
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "top",
+      "role": "bell"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "bottom",
+      "count": 3
+    }
+  ]
+}
