@@ -1,0 +1,74 @@
+{
+  "id": "CH-LU-kriens",
+  "name": "Kriens (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-LU",
+  "codes": {
+    "wikidata": "Q14571"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Kriens: on white Saint Gall in a black habit with a yellow crozier handing a loaf to a black bear, on a green base.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Kriens_Flag.svg",
+    "https://www.wikidata.org/wiki/Q14571",
+    "https://de.wikipedia.org/wiki/Kriens",
+    "https://fr.wikipedia.org/wiki/Kriens",
+    "https://it.wikipedia.org/wiki/Kriens"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        5,
+        1
+      ]
+    },
+    {
+      "type": "human-figure",
+      "color": "black",
+      "position": "fly",
+      "role": "Saint Gall with crozier"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "hoist",
+      "role": "bear"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crozier and loaf"
+    }
+  ]
+}
