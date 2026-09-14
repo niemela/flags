@@ -1,0 +1,72 @@
+{
+  "id": "CZ-32-studanka",
+  "name": "Studánka (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-32",
+  "codes": {
+    "wikidata": "Q1308431"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Two equal vertical stripes, the hoist red with a white stripe bearing three blue triangles, the fly white with a blue wavy stripe.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 11 May 2006 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2006-05-11"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Studánka.svg",
+    "https://www.wikidata.org/wiki/Q1308431",
+    "https://cs.wikipedia.org/wiki/Stud%C3%A1nka_(okres_Tachov)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "position": "hoist"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "count": 3
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly"
+    }
+  ]
+}

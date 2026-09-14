@@ -1,0 +1,58 @@
+{
+  "id": "CZ-32-modrava",
+  "name": "Modrava (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-32",
+  "codes": {
+    "wikidata": "Q1590715"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Three horizontal stripes of green, white and red in the ratio 1:1:1, the white chequered blue and white in three rows.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Modrava.svg",
+    "https://www.wikidata.org/wiki/Q1590715",
+    "https://cs.wikipedia.org/wiki/Modrava"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "chequy",
+      "position": "center",
+      "field": "blue",
+      "chequy": "white",
+      "rows": 3,
+      "columns": 9
+    }
+  ]
+}

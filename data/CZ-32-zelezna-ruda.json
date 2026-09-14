@@ -1,0 +1,68 @@
+{
+  "id": "CZ-32-zelezna-ruda",
+  "name": "Železná Ruda (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-32",
+  "codes": {
+    "wikidata": "Q327749"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A dark green vertical stripe at the hoist bearing a yellow stag's antler, and a fly of seven horizontal stripes alternating white and red with a second yellow antler over the division.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Železná_Ruda.svg",
+    "https://www.wikidata.org/wiki/Q327749",
+    "https://cs.wikipedia.org/wiki/%C5%BDelezn%C3%A1_Ruda"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green"
+      ],
+      "count": 1,
+      "position": "hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 7
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center-hoist",
+      "role": "two antlers"
+    }
+  ]
+}

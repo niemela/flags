@@ -1,0 +1,77 @@
+{
+  "id": "CZ-32-ujezd-u-svateho-krize",
+  "name": "Újezd u Svatého Kříže (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-32",
+  "codes": {
+    "wikidata": "Q330074"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Upper part divided into green at the hoist, blue at the fly and a yellow triangle pointing downward bearing a red cross, above a black lower stripe bearing a yellow pot.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 13 May 2003 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2003-05-13"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Ujezd_u_Svateho_Krize_RO_CZ_flag.svg",
+    "https://www.wikidata.org/wiki/Q330074",
+    "https://cs.wikipedia.org/wiki/%C3%9Ajezd_u_Svat%C3%A9ho_K%C5%99%C3%AD%C5%BEe"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "black"
+      ],
+      "count": 2,
+      "widths": [
+        3,
+        2
+      ]
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "top"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "top"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "pot"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "CZ-32-jezovy",
+  "name": "Ježovy (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-32",
+  "codes": {
+    "wikidata": "Q1819345"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Two horizontal stripes of red and white in the ratio 1:2, with five white six-pointed stars in the red, the lower part divided into a blue and white scaly hoist half and a fly half of blue and white horizontal stripes.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 10 September 2021 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2021-09-10"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Ježovy.svg",
+    "https://www.wikidata.org/wiki/Q1819345",
+    "https://cs.wikipedia.org/wiki/Je%C5%BEovy"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 6,
+      "color": "white",
+      "position": "top"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "lower-hoist",
+      "role": "scaly pattern"
+    },
+    {
+      "type": "horizontal-stripes",
+      "color": "blue",
+      "position": "lower-fly",
+      "stripes": [
+        "blue"
+      ],
+      "count": 4,
+      "role": "four stripes"
+    }
+  ]
+}

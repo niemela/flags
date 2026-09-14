@@ -1,0 +1,66 @@
+{
+  "id": "CZ-32-nezdice",
+  "name": "Nezdice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-32",
+  "codes": {
+    "wikidata": "Q1927436"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a red band into a white lower hoist part bearing a red rose and a green upper fly part bearing a yellow wheel.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 15 April 2010 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2010-04-15"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Nezdice.svg",
+    "https://www.wikidata.org/wiki/Q1927436",
+    "https://cs.wikipedia.org/wiki/Nezdice"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "white",
+      "direction": "bend-sinister",
+      "fimbriation": {
+        "color": "red"
+      }
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "lower-hoist",
+      "role": "rose"
+    },
+    {
+      "type": "wheel",
+      "color": "yellow",
+      "position": "upper-fly"
+    }
+  ]
+}
