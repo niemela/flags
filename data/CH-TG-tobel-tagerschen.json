@@ -1,0 +1,54 @@
+{
+  "id": "CH-TG-tobel-tagerschen",
+  "name": "Tobel-Tägerschen (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-TG",
+  "codes": {
+    "wikidata": "Q65818"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Tobel-Tägerschen: divided diagonally from the upper fly, red with a white cross and yellow with a red cross, the crosses touching the division at their corners.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Tobel-Tägerschen_Flag.svg",
+    "https://www.wikidata.org/wiki/Q65818",
+    "https://de.wikipedia.org/wiki/Tobel-Tägerschen",
+    "https://fr.wikipedia.org/wiki/Tobel-Tägerschen",
+    "https://it.wikipedia.org/wiki/Tobel-Tägerschen"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "yellow",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "white",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "lower-fly"
+    }
+  ]
+}

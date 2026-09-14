@@ -1,0 +1,67 @@
+{
+  "id": "CH-TG-herdern",
+  "name": "Herdern (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-TG",
+  "codes": {
+    "wikidata": "Q65761"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Herdern: divided vertically, blue with a white pale charged with a blue castle tower, and red with a white wing.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Herdern_Flag.svg",
+    "https://www.wikidata.org/wiki/Q65761",
+    "https://de.wikipedia.org/wiki/Herdern_TG",
+    "https://fr.wikipedia.org/wiki/Herdern",
+    "https://it.wikipedia.org/wiki/Herdern"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "pale"
+    },
+    {
+      "type": "building",
+      "color": "blue",
+      "position": "hoist",
+      "role": "castle tower"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "fly",
+      "role": "wing"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "CH-TG-frauenfeld",
+  "name": "Frauenfeld (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-TG",
+  "codes": {
+    "wikidata": "Q68120"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Frauenfeld: on white a rampant red lion with yellow claws held on a yellow chain by a red-robed woman.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Frauenfeld_Flag.svg",
+    "https://www.wikidata.org/wiki/Q68120",
+    "https://de.wikipedia.org/wiki/Frauenfeld",
+    "https://fr.wikipedia.org/wiki/Frauenfeld",
+    "https://it.wikipedia.org/wiki/Frauenfeld"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "hoist"
+    },
+    {
+      "type": "human-figure",
+      "color": "red",
+      "position": "fly",
+      "role": "woman holding the lion's chain"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "chain"
+    }
+  ]
+}
