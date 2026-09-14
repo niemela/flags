@@ -1,0 +1,60 @@
+{
+  "id": "PL-14-ciechanow-county",
+  "name": "Ciechanów County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q924064"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Three vertical stripes of blue, yellow and blue with a wider yellow centre, charged at the centre with the county arms of Ciechanów: a blue shield with a yellow castle below a red eagle shield.",
+  "history": "Established by resolution No. I/15/124 of the county council of 20 November 2000.",
+  "periods": [
+    {
+      "start": "2000-11-20"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_ciechanowski_flag.svg",
+    "https://www.wikidata.org/wiki/Q924064",
+    "https://pl.wikipedia.org/wiki/Powiat_ciechanowski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_mazowieckim"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Ciechanów county arms"
+    }
+  ]
+}

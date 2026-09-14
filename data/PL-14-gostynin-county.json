@@ -1,0 +1,61 @@
+{
+  "id": "PL-14-gostynin-county",
+  "name": "Gostynin County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q947480"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Three vertical stripes of red, blue and red in the ratio 1:3:1, charged at the centre with the county arms of Gostynin: a shield with a black eagle, a crown and a white castle on blue.",
+  "history": "Established by resolution No. XIII/76/2000 of the county council of 31 January 2000.",
+  "periods": [
+    {
+      "start": "2000-01-31"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_gostyniński_flag.svg",
+    "https://www.wikidata.org/wiki/Q947480",
+    "https://pl.wikipedia.org/wiki/Powiat_gostyniński",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_mazowieckim",
+    "http://bip.gostynin.samorzady.pl/?a=1411"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "blue",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Gostynin county arms"
+    }
+  ]
+}

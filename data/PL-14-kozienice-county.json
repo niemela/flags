@@ -1,0 +1,70 @@
+{
+  "id": "PL-14-kozienice-county",
+  "name": "Kozienice County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q947574"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Three horizontal stripes of yellow, blue and yellow in the ratio 1:4:1, charged at the centre with the emblem of the county arms: a crowned yellow stag's head between six yellow stars.",
+  "history": "Established on 5 June 2002.",
+  "periods": [
+    {
+      "start": "2002-06-05"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_kozienicki_flag.svg",
+    "https://www.wikidata.org/wiki/Q947574",
+    "https://pl.wikipedia.org/wiki/Powiat_kozienicki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_mazowieckim",
+    "https://kozienicepowiat.pl/symbole-powiatu.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        4,
+        1
+      ]
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "center",
+      "role": "crowned stag's head from the county arms"
+    },
+    {
+      "type": "star",
+      "count": 6,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "arrangement": "scattered"
+    }
+  ]
+}

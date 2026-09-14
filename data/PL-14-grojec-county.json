@@ -1,0 +1,62 @@
+{
+  "id": "PL-14-grojec-county",
+  "name": "Grójec County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q947561"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Three vertical stripes of yellow, green and yellow with a wider green centre, charged at the centre with the county arms of Grójec: a shield with a white eagle, a green dragon and an apple tree.",
+  "history": "Established by resolution No. XVII/122/2000 of the county council of 28 November 2000.",
+  "periods": [
+    {
+      "start": "2000-11-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_grójecki_flag.svg",
+    "https://www.wikidata.org/wiki/Q947561",
+    "https://pl.wikipedia.org/wiki/Powiat_grójecki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_mazowieckim",
+    "https://www.grojec.grojec.pl/info/zawartosc/3",
+    "http://www.bip.grojec.pl/index.php?cmd=zawartosc&opt=pokaz&id=876"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "green",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Grójec county arms"
+    }
+  ]
+}

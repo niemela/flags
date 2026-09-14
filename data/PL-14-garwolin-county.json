@@ -1,0 +1,65 @@
+{
+  "id": "PL-14-garwolin-county",
+  "name": "Garwolin County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q924007"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field charged at the centre with the emblem of the county arms, a green dragon, above two narrow horizontal red stripes near the bottom edge.",
+  "history": "Established by resolution No. XL/277/2002 of the county council of 30 April 2002.",
+  "periods": [
+    {
+      "start": "2002-04-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_garwolinski_flag.svg",
+    "https://www.wikidata.org/wiki/Q924007",
+    "https://pl.wikipedia.org/wiki/Powiat_garwoliński",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_mazowieckim",
+    "https://samorzad.gov.pl/web/powiat-garwolin/insygnia-powatu-garwolinskiego"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "dragon",
+      "color": "green",
+      "position": "center",
+      "role": "dragon from the county arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "red"
+      ],
+      "count": 2,
+      "position": "bottom",
+      "role": "two narrow red stripes"
+    }
+  ]
+}

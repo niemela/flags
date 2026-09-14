@@ -1,0 +1,71 @@
+{
+  "id": "PL-14-grodzisk-mazowiecki-county",
+  "name": "Grodzisk Mazowiecki County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q1125892"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three vertical stripes of yellow, red and yellow in the ratio 1:2:1, charged at the centre with the emblem of the county arms: a white eagle's head beside a white double arrowhead.",
+  "history": "Established on 25 June 2009.",
+  "periods": [
+    {
+      "start": "2009-06-25"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_grodziski_(mazowieckie)_flag.svg",
+    "https://www.wikidata.org/wiki/Q1125892",
+    "https://pl.wikipedia.org/wiki/Powiat_grodziski_(województwo_mazowieckie)",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_mazowieckim",
+    "https://www.powiat-grodziski.pl/info/zawartosc/52"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "eagle",
+      "color": "white",
+      "position": "center",
+      "role": "eagle's head from the county arms"
+    },
+    {
+      "type": "arrowhead",
+      "color": "white",
+      "position": "center",
+      "role": "double arrowhead from the county arms"
+    }
+  ]
+}
