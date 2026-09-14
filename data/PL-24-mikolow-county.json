@@ -1,0 +1,68 @@
+{
+  "id": "PL-24-mikolow-county",
+  "name": "Mikołów County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-24",
+  "codes": {
+    "wikidata": "Q1140489"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field crossed by a red diagonal band from the lower hoist to the upper fly, charged at the centre with the emblem of the county arms: a white armoured knight with a blue shield bearing a yellow eagle.",
+  "history": "Established by resolution No. XLVII/358/2006 of the county council of 26 May 2001.",
+  "periods": [
+    {
+      "start": "2001-05-26"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_mikołowski_flag.svg",
+    "https://www.wikidata.org/wiki/Q1140489",
+    "https://pl.wikipedia.org/wiki/Powiat_mikołowski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_śląskim",
+    "https://mikolowski.pl/o-powiecie/"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band"
+    },
+    {
+      "type": "human-figure",
+      "color": "white",
+      "position": "center",
+      "role": "armoured knight from the county arms"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "small shield with the Silesian eagle"
+    }
+  ]
+}

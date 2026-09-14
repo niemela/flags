@@ -1,0 +1,61 @@
+{
+  "id": "PL-24-rybnik-county",
+  "name": "Rybnik County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-24",
+  "codes": {
+    "wikidata": "Q594084"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Two horizontal stripes of blue over yellow in the ratio 5:1, charged on the blue with the emblem of the county arms: a yellow eagle's wing.",
+  "history": "Established by resolution No. XXVIII/147/05 of the county council of 3 March 2005.",
+  "periods": [
+    {
+      "start": "2005-03-03"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_rybnicki_flag.svg",
+    "https://www.wikidata.org/wiki/Q594084",
+    "https://pl.wikipedia.org/wiki/Powiat_rybnicki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_śląskim",
+    "https://bip.starostwo.rybnik.pl/powiat-rybnicki/flaga-i-herb",
+    "https://bip.starostwo.rybnik.pl/akty-prawne/uchwaly-rady-powiatu/kadencja-ii?start=110"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        5,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "top",
+      "role": "eagle's wing from the county arms"
+    }
+  ]
+}

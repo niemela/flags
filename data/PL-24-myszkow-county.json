@@ -1,0 +1,71 @@
+{
+  "id": "PL-24-myszkow-county",
+  "name": "Myszków County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-24",
+  "codes": {
+    "wikidata": "Q1340622"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three vertical stripes of yellow, red and yellow in the ratio 5:13:14, charged on the red with the emblem of the county arms: two eagle's heads, white and yellow, above a white castle.",
+  "history": "The current flag was established by resolution No. XLVI/306/2013 of the county council of 27 November 2013, replacing a first version adopted on 27 September 2000.",
+  "periods": [
+    {
+      "start": "2013-11-27"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_myszkowski_flag.svg",
+    "https://www.wikidata.org/wiki/Q1340622",
+    "https://pl.wikipedia.org/wiki/Powiat_myszkowski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_śląskim",
+    "http://dzienniki.slask.eu/legalact/2014/304"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        5,
+        13,
+        14
+      ]
+    },
+    {
+      "type": "eagle",
+      "position": "hoist",
+      "count": 2,
+      "role": "white and yellow eagle's heads from the county arms"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "castle from the county arms"
+    }
+  ]
+}
