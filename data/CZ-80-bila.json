@@ -1,0 +1,71 @@
+{
+  "id": "CZ-80-bila",
+  "name": "Bílá (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-80",
+  "codes": {
+    "wikidata": "Q1019533"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Two vertical stripes of white and blue separated by a wavy line, with a green spruce with black trunk in the white and three white triangles issuing from the fly edge in the blue.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bílá_flag.svg",
+    "https://www.wikidata.org/wiki/Q1019533",
+    "https://cs.wikipedia.org/wiki/B%C3%ADl%C3%A1_(okres_Fr%C3%BDdek-M%C3%ADstek)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "hoist",
+      "role": "wavy division"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist",
+      "role": "spruce"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "fly",
+      "count": 3
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "CZ-80-mesto-albrechtice",
+  "name": "Město Albrechtice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-80",
+  "codes": {
+    "wikidata": "Q1019339"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Three vertical stripes of green, yellow and green in the ratio 1:2:1, with a green maple leaf in the yellow.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Město_Albrechtice_vlajka.svg",
+    "https://www.wikidata.org/wiki/Q1019339",
+    "https://cs.wikipedia.org/wiki/M%C4%9Bsto_Albrechtice"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "center",
+      "role": "maple leaf"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "CZ-80-hostalkovy",
+  "name": "Hošťálkovy (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-80",
+  "codes": {
+    "wikidata": "Q2364600"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Green field with a white oval bordered in yellow above five white flowers with yellow centres.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hošťálkovy.svg",
+    "https://www.wikidata.org/wiki/Q2364600",
+    "https://cs.wikipedia.org/wiki/Ho%C5%A1%C5%A5%C3%A1lkovy"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "oval",
+      "fimbriation": {
+        "color": "yellow"
+      }
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "bottom",
+      "count": 5
+    }
+  ]
+}

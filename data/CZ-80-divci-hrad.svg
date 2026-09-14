@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600" height="400" viewBox="0 0 600 400">
+<desc>Flag of Divci Hrad (CZ)</desc>
+<defs>
+	<g id="cross" fill="#F9F000">
+		<path id="arm" d="M0,0 l90,-27 l-27,27 l27,27 z" />
+		<use xlink:href="#arm" transform="rotate(90)" />
+		<use xlink:href="#arm" transform="rotate(180)" />
+		<use xlink:href="#arm" transform="rotate(270)" />
+		<circle r="2" />
+	</g>
+</defs>
+<rect height="400" width="600" fill="#C52A54" />
+<path d="M0,300 h25 v-50 h50 v50 h50 v-50 h50 v50 h50 v-50 h50 v50 h50 v-50 h50 v50 h50 v-50 h50 v50 h50 v-50 h50 v50 h25 v100 h-600 z" fill="#F9F000" />
+<use xlink:href="#cross" transform="translate(150,130)" />
+</svg>

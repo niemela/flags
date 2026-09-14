@@ -1,0 +1,75 @@
+{
+  "id": "CZ-80-horni-lomna",
+  "name": "Horní Lomná (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-80",
+  "codes": {
+    "wikidata": "Q1628702"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Two equal vertical stripes of yellow and blue, with a black half eagle with red tongue in the yellow and a yellow spruce above a white zigzag stripe and a yellow cross in the blue.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Horni_Lomna.svg",
+    "https://www.wikidata.org/wiki/Q1628702",
+    "https://cs.wikipedia.org/wiki/Horn%C3%AD_Lomn%C3%A1"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "eagle",
+      "color": "black",
+      "position": "hoist",
+      "role": "half eagle"
+    },
+    {
+      "type": "tree",
+      "color": "yellow",
+      "position": "upper-fly",
+      "role": "spruce"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "fly",
+      "role": "zigzag stripe"
+    },
+    {
+      "type": "latin-cross",
+      "color": "yellow",
+      "position": "lower-fly"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "CZ-80-lucina",
+  "name": "Lučina (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-80",
+  "codes": {
+    "wikidata": "Q922538"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Two horizontal stripes of red and blue in the ratio 3:2 separated by a wavy line, with two yellow flowers with blue centres in the red.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Lucina_flag.svg",
+    "https://www.wikidata.org/wiki/Q922538",
+    "https://cs.wikipedia.org/wiki/Lu%C4%8Dina_(okres_Fr%C3%BDdek-M%C3%ADstek)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        3,
+        2
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "role": "wavy division"
+    },
+    {
+      "type": "flower",
+      "color": "yellow",
+      "position": "top",
+      "count": 2
+    }
+  ]
+}

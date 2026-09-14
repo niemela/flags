@@ -1,0 +1,70 @@
+{
+  "id": "CZ-80-zermanice",
+  "name": "Žermanice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-80",
+  "codes": {
+    "wikidata": "Q174079"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Two vertical stripes of yellow and navy blue in the ratio 1:5 separated by a wavy line, with a yellow crown between two yellow bulrushes in the blue.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 31 May 2005 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2005-05-31"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Žermanice_flag.svg",
+    "https://www.wikidata.org/wiki/Q174079",
+    "https://cs.wikipedia.org/wiki/%C5%BDermanice"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "navy"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        5
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "wavy division"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "two bulrushes",
+      "count": 2
+    }
+  ]
+}

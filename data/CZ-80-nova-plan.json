@@ -1,0 +1,58 @@
+{
+  "id": "CZ-80-nova-plan",
+  "name": "Nová Pláň (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-80",
+  "codes": {
+    "wikidata": "Q608111"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Two horizontal stripes of red and white in the ratio 3:1, with five white roses with yellow centres in an arc in the red.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Nová_Pláň.svg",
+    "https://www.wikidata.org/wiki/Q608111",
+    "https://cs.wikipedia.org/wiki/Nov%C3%A1_Pl%C3%A1%C5%88"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        3,
+        1
+      ]
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "top",
+      "role": "five roses",
+      "count": 5,
+      "arrangement": "arc"
+    }
+  ]
+}

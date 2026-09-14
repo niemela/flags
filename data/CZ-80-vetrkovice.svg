@@ -1,0 +1,605 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="300" width="443" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <radialGradient id="ArgentRad" gradientUnits="userSpaceOnUse" cy="31.7" cx="27" gradientTransform="matrix(1,0,0,1.1808,0,-5.7304)" r="26">
+   <stop stop-color="#ffffff" offset="0"/>
+   <stop stop-color="#e0e0e0" offset="1"/>
+  </radialGradient>
+  <pattern id="Hatch" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
+   <g transform="translate(-64)">
+    <rect height="65" width="4" y="0" x="64" fill="#fff"/>
+    <rect y="0" width="2" x="67" height="65"/>
+   </g>
+  </pattern>
+  <pattern id="HatchH" xlink:href="#Hatch" patternTransform="translate(0,2)rotate(90)"/>
+  <pattern id="pattern7489" width="11.729427" patternUnits="userSpaceOnUse" patternTransform="translate(1.49 -16.738)" height="11.159601">
+   <g transform="translate(-57.271 .15960)">
+    <g>
+     <rect height="11" width="9" y="0" x="60" fill="#fff"/>
+     <rect y="-.1596" width="1" x="59.244" height="5"/>
+     <rect y="5" width="1" x="65" height="5"/>
+     <rect transform="rotate(90)" height="5" width="1" y="-67.857" x="1.3953"/>
+     <rect transform="rotate(90)" height="5" width="1" y="-62.271" x="7.1409"/>
+    </g>
+   </g>
+  </pattern>
+  <pattern id="Hatch-3" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
+   <g transform="translate(-64)">
+    <rect height="65" width="4" y="0" x="64" fill="#fff"/>
+    <rect y="0" width="2" x="67" height="65"/>
+   </g>
+  </pattern>
+  <pattern id="HatchV" xlink:href="#Hatch-3" patternTransform="translate(26)"/>
+  <pattern id="XHatch" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="4">
+   <g transform="translate(-64)">
+    <rect y="0" width="5" x="64" height="5"/>
+    <rect height="3" width="3" y="0" x="64" fill="#fff"/>
+   </g>
+  </pattern>
+  <pattern id="XHatchD" xlink:href="#XHatch" patternTransform="translate(27,2)rotate(45)"/>
+  <pattern id="Dotted" width="8" patternUnits="userSpaceOnUse" patternTransform="translate(60)" height="8">
+   <g transform="translate(-60)">
+    <rect height="9" width="9" y="0" x="60" fill="#fff"/>
+    <rect y="5" width="1" x="61" height="1"/>
+    <rect y="1" width="1" x="65" height="1"/>
+   </g>
+  </pattern>
+  <pattern id="DottedT" xlink:href="#Dotted" patternTransform="translate(28,7)"/>
+  <radialGradient id="OrRad" gradientUnits="userSpaceOnUse" cy="31.7" cx="27" gradientTransform="matrix(1,0,0,1.1808,0,-5.7304)" r="26">
+   <stop stop-color="#ffff00" offset="0"/>
+   <stop stop-color="#ffe000" offset="1"/>
+  </radialGradient>
+  <pattern id="DashDotHatch-6" width="8" patternUnits="userSpaceOnUse" patternTransform="translate(60)" height="10">
+   <g transform="translate(-60)">
+    <rect height="11" width="9" y="0" x="60" fill="#fff"/>
+    <rect y="0" width="1" x="61" height="5"/>
+    <rect y="7" width="1" x="61" height="1"/>
+    <rect y="2" width="1" x="65" height="1"/>
+    <rect y="5" width="1" x="65" height="5"/>
+   </g>
+  </pattern>
+  <pattern id="DashDotHatchT-2" xlink:href="#DashDotHatch-6" patternTransform="translate(28,8)"/>
+  <pattern id="Hatch-4" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
+   <g transform="translate(-64)">
+    <rect height="65" width="4" y="0" x="64" fill="#fff"/>
+    <rect y="0" width="2" x="67" height="65"/>
+   </g>
+  </pattern>
+  <pattern id="HatchU" xlink:href="#Hatch-4" patternTransform="translate(57.5) rotate(45)"/>
+  <pattern id="XHatch-7" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="4">
+   <g transform="translate(-64)">
+    <rect y="0" width="5" x="64" height="5"/>
+    <rect height="3" width="3" y="0" x="64" fill="#fff"/>
+   </g>
+  </pattern>
+  <pattern id="XHatchT" xlink:href="#XHatch-7" patternTransform="translate(30,2)"/>
+  <pattern id="XHatch-6" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="4">
+   <g transform="translate(-64)">
+    <rect y="0" width="5" x="64" height="5"/>
+    <rect height="3" width="3" y="0" x="64" fill="#fff"/>
+   </g>
+  </pattern>
+  <pattern id="HatchHD" xlink:href="#XHatch-6" patternTransform="translate(3,2)skewX(45)"/>
+  <pattern id="Hatch-32" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
+   <g transform="translate(-64)">
+    <rect height="65" width="4" y="0" x="64" fill="#fff"/>
+    <rect y="0" width="2" x="67" height="65"/>
+   </g>
+  </pattern>
+  <pattern id="HatchD" xlink:href="#Hatch-32" patternTransform="translate(28,0.5)rotate(135)"/>
+  <pattern id="Hatch-0" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
+   <g transform="translate(-64)">
+    <rect height="65" width="4" y="0" x="64" fill="#fff"/>
+    <rect y="0" width="2" x="67" height="65"/>
+   </g>
+  </pattern>
+  <pattern id="HatchH-9" xlink:href="#Hatch-0" patternTransform="translate(0,2)rotate(90)"/>
+  <pattern id="pattern7489-6" width="11.729427" patternUnits="userSpaceOnUse" patternTransform="translate(1.49 -16.738)" height="11.159601">
+   <g transform="translate(-57.271 .15960)">
+    <g>
+     <rect height="11" width="9" y="0" x="60" fill="#fff"/>
+     <rect y="-.1596" width="1" x="59.244" height="5"/>
+     <rect y="5" width="1" x="65" height="5"/>
+     <rect transform="rotate(90)" height="5" width="1" y="-67.857" x="1.3953"/>
+     <rect transform="rotate(90)" height="5" width="1" y="-62.271" x="7.1409"/>
+    </g>
+   </g>
+  </pattern>
+  <pattern id="Hatch-3-3" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
+   <g transform="translate(-64)">
+    <rect height="65" width="4" y="0" x="64" fill="#fff"/>
+    <rect y="0" width="2" x="67" height="65"/>
+   </g>
+  </pattern>
+  <pattern id="HatchV-4" xlink:href="#Hatch-3-3" patternTransform="translate(26)"/>
+  <pattern id="XHatch-3" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="4">
+   <g transform="translate(-64)">
+    <rect y="0" width="5" x="64" height="5"/>
+    <rect height="3" width="3" y="0" x="64" fill="#fff"/>
+   </g>
+  </pattern>
+  <pattern id="XHatchD-4" xlink:href="#XHatch-3" patternTransform="translate(27,2)rotate(45)"/>
+  <pattern id="Dotted-7" width="8" patternUnits="userSpaceOnUse" patternTransform="translate(60)" height="8">
+   <g transform="translate(-60)">
+    <rect height="9" width="9" y="0" x="60" fill="#fff"/>
+    <rect y="5" width="1" x="61" height="1"/>
+    <rect y="1" width="1" x="65" height="1"/>
+   </g>
+  </pattern>
+  <pattern id="DottedT-2" xlink:href="#Dotted-7" patternTransform="translate(28,7)"/>
+  <pattern id="DashDotHatch-6-3" width="8" patternUnits="userSpaceOnUse" patternTransform="translate(60)" height="10">
+   <g transform="translate(-60)">
+    <rect height="11" width="9" y="0" x="60" fill="#fff"/>
+    <rect y="0" width="1" x="61" height="5"/>
+    <rect y="7" width="1" x="61" height="1"/>
+    <rect y="2" width="1" x="65" height="1"/>
+    <rect y="5" width="1" x="65" height="5"/>
+   </g>
+  </pattern>
+  <pattern id="DashDotHatchT-2-5" xlink:href="#DashDotHatch-6-3" patternTransform="translate(28,8)"/>
+  <pattern id="Hatch-4-6" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
+   <g transform="translate(-64)">
+    <rect height="65" width="4" y="0" x="64" fill="#fff"/>
+    <rect y="0" width="2" x="67" height="65"/>
+   </g>
+  </pattern>
+  <pattern id="HatchU-4" xlink:href="#Hatch-4-6" patternTransform="translate(57.5) rotate(45)"/>
+  <pattern id="XHatch-7-4" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="4">
+   <g transform="translate(-64)">
+    <rect y="0" width="5" x="64" height="5"/>
+    <rect height="3" width="3" y="0" x="64" fill="#fff"/>
+   </g>
+  </pattern>
+  <pattern id="XHatchT-6" xlink:href="#XHatch-7-4" patternTransform="translate(30,2)"/>
+  <pattern id="XHatch-6-4" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="4">
+   <g transform="translate(-64)">
+    <rect y="0" width="5" x="64" height="5"/>
+    <rect height="3" width="3" y="0" x="64" fill="#fff"/>
+   </g>
+  </pattern>
+  <pattern id="HatchHD-7" xlink:href="#XHatch-6-4" patternTransform="translate(3,2)skewX(45)"/>
+  <pattern id="Hatch-32-5" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
+   <g transform="translate(-64)">
+    <rect height="65" width="4" y="0" x="64" fill="#fff"/>
+    <rect y="0" width="2" x="67" height="65"/>
+   </g>
+  </pattern>
+  <pattern id="HatchD-6" xlink:href="#Hatch-32-5" patternTransform="translate(28,0.5)rotate(135)"/>
+  <style type="text/css"/>
+  <pattern id="HatchD-0" xlink:href="#Hatch-32-6" patternTransform="translate(28,0.5)rotate(135)"/>
+  <pattern id="Hatch-32-6" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
+   <g transform="translate(-64)">
+    <rect height="65" width="4" y="0" x="64" fill="#fff"/>
+    <rect y="0" width="2" x="67" height="65"/>
+   </g>
+  </pattern>
+  <pattern id="HatchHD-78" xlink:href="#XHatch-6-6" patternTransform="translate(3,2)skewX(45)"/>
+  <pattern id="XHatch-6-6" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="4">
+   <g transform="translate(-64)">
+    <rect y="0" width="5" x="64" height="5"/>
+    <rect height="3" width="3" y="0" x="64" fill="#fff"/>
+   </g>
+  </pattern>
+  <pattern id="XHatchT-2" xlink:href="#XHatch-7-1" patternTransform="translate(30,2)"/>
+  <pattern id="XHatch-7-1" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="4">
+   <g transform="translate(-64)">
+    <rect y="0" width="5" x="64" height="5"/>
+    <rect height="3" width="3" y="0" x="64" fill="#fff"/>
+   </g>
+  </pattern>
+  <pattern id="HatchU-3" xlink:href="#Hatch-4-8" patternTransform="translate(57.5) rotate(45)"/>
+  <pattern id="Hatch-4-8" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
+   <g transform="translate(-64)">
+    <rect height="65" width="4" y="0" x="64" fill="#fff"/>
+    <rect y="0" width="2" x="67" height="65"/>
+   </g>
+  </pattern>
+  <pattern id="DashDotHatchT-2-2" xlink:href="#DashDotHatch-6-9" patternTransform="translate(28,8)"/>
+  <pattern id="DashDotHatch-6-9" width="8" patternUnits="userSpaceOnUse" patternTransform="translate(60)" height="10">
+   <g transform="translate(-60)">
+    <rect height="11" width="9" y="0" x="60" fill="#fff"/>
+    <rect y="0" width="1" x="61" height="5"/>
+    <rect y="7" width="1" x="61" height="1"/>
+    <rect y="2" width="1" x="65" height="1"/>
+    <rect y="5" width="1" x="65" height="5"/>
+   </g>
+  </pattern>
+  <pattern id="DottedT-6" xlink:href="#Dotted-93" patternTransform="translate(28,7)"/>
+  <pattern id="Dotted-93" width="8" patternUnits="userSpaceOnUse" patternTransform="translate(60)" height="8">
+   <g transform="translate(-60)">
+    <rect height="9" width="9" y="0" x="60" fill="#fff"/>
+    <rect y="5" width="1" x="61" height="1"/>
+    <rect y="1" width="1" x="65" height="1"/>
+   </g>
+  </pattern>
+  <pattern id="XHatchD-3" xlink:href="#XHatch-5" patternTransform="translate(27,2)rotate(45)"/>
+  <pattern id="XHatch-5" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="4">
+   <g transform="translate(-64)">
+    <rect y="0" width="5" x="64" height="5"/>
+    <rect height="3" width="3" y="0" x="64" fill="#fff"/>
+   </g>
+  </pattern>
+  <pattern id="HatchV-9" xlink:href="#Hatch-3-0" patternTransform="translate(26)"/>
+  <pattern id="Hatch-3-0" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
+   <g transform="translate(-64)">
+    <rect height="65" width="4" y="0" x="64" fill="#fff"/>
+    <rect y="0" width="2" x="67" height="65"/>
+   </g>
+  </pattern>
+  <pattern id="pattern7489-0" width="11.729427" patternUnits="userSpaceOnUse" patternTransform="translate(1.49 -16.738)" height="11.159601">
+   <g transform="translate(-57.271 .15960)">
+    <g>
+     <rect height="11" width="9" y="0" x="60" fill="#fff"/>
+     <rect y="-.1596" width="1" x="59.244" height="5"/>
+     <rect y="5" width="1" x="65" height="5"/>
+     <rect transform="rotate(90)" height="5" width="1" y="-67.857" x="1.3953"/>
+     <rect transform="rotate(90)" height="5" width="1" y="-62.271" x="7.1409"/>
+    </g>
+   </g>
+  </pattern>
+  <pattern id="HatchH-91" xlink:href="#Hatch-8" patternTransform="translate(0,2)rotate(90)"/>
+  <pattern id="Hatch-8" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
+   <g transform="translate(-64)">
+    <rect height="65" width="4" y="0" x="64" fill="#fff"/>
+    <rect y="0" width="2" x="67" height="65"/>
+   </g>
+  </pattern>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+ </defs>
+ <g transform="translate(-16075,1918.9)">
+  <use xlink:href="#Shield1" height="1" width="1" y="0" x="0" fill="url(#ArgentRad)"/>
+  <use xlink:href="#Shield1R" height="1" width="1" y="0" x="0" fill="#ffffff"/>
+  <use xlink:href="#Shield1" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-16152,1814.1)">
+  <use xlink:href="#Shield1-2" height="1" width="1" y="0" x="0" fill="#0000ff"/>
+  <use xlink:href="#Shield1R-3" height="1" width="1" y="0" x="0" fill="url(#HatchH)"/>
+  <use xlink:href="#Shield1-2" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-16152,1915.7)">
+  <use xlink:href="#Shield1-8" height="1" width="1" y="0" x="0" fill="#808080"/>
+  <use xlink:href="#Shield1-8" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+  <use xlink:href="#Shield1R-0" transform="translate(.21945 .060601)" height="64" width="54" y="0" x="0" fill="#ffffff"/>
+  <use xlink:href="#Shield1R-0" transform="translate(.798 -.1596)" height="64" width="54" y="0" x="0" fill="url(#pattern7489)"/>
+ </g>
+ <g transform="translate(-16152,2017.4)">
+  <use xlink:href="#Shield1-88" height="1" width="1" y="0" x="0" fill="#ff0000"/>
+  <use xlink:href="#Shield1R-7" height="1" width="1" y="0" x="0" fill="url(#HatchV)"/>
+  <use xlink:href="#Shield1-88" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-16152,2119.1)">
+  <use xlink:href="#Shield1-21" height="1" width="1" y="0" x="0" fill="#800040"/>
+  <use xlink:href="#Shield1R-72" height="1" width="1" y="0" x="0" fill="url(#XHatchD)"/>
+  <use xlink:href="#Shield1-21" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-16152,2220.7)">
+  <use xlink:href="#Shield1-7" height="1" width="1" y="0" x="0" fill="url(#OrRad)"/>
+  <use xlink:href="#Shield1R-08" height="1" width="1" y="0" x="0" fill="url(#DottedT)"/>
+  <use xlink:href="#Shield1-7" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-16073,2212.1)">
+  <use xlink:href="#Shield1-3" height="1" width="1" y="0" x="0" fill="#ff8000"/>
+  <use xlink:href="#Shield1R-6" height="1" width="1" y="0" x="0" fill="url(#DashDotHatchT-2)"/>
+  <use xlink:href="#Shield1-3" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-16070,2114.4)">
+  <use xlink:href="#Shield1-0" height="1" width="1" y="0" x="0" fill="#800080"/>
+  <use xlink:href="#Shield1R-00" height="1" width="1" y="0" x="0" fill="url(#HatchU)"/>
+  <use xlink:href="#Shield1-0" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-16243,1923.3)">
+  <use xlink:href="#Shield1-09" height="1" width="1" y="0" x="0"/>
+  <use xlink:href="#Shield1R-34" height="1" width="1" y="0" x="0" fill="url(#XHatchT)"/>
+  <use xlink:href="#Shield1-09" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-16066,2016.5)">
+  <use xlink:href="#Shield1-9" height="1" width="1" y="0" x="0" fill="#c00000"/>
+  <use xlink:href="#Shield1R-2" height="1" width="1" y="0" x="0" fill="url(#HatchHD)"/>
+  <use xlink:href="#Shield1-9" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-16142,2328.7)">
+  <use xlink:href="#Shield1-1" height="1" width="1" y="0" x="0" fill="#00c000"/>
+  <use xlink:href="#Shield1R-9" height="1" width="1" y="0" x="0" fill="url(#HatchD)"/>
+  <use xlink:href="#Shield1-1" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-8800.5,582.69)">
+  <use xlink:href="#Shield1" height="1" width="1" y="0" x="0" fill="url(#ArgentRad)"/>
+  <use xlink:href="#Shield1R" height="1" width="1" y="0" x="0" fill="#ffffff"/>
+  <use xlink:href="#Shield1" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-8878.3,477.88)">
+  <use xlink:href="#Shield1-2" height="1" width="1" y="0" x="0" fill="#0000ff"/>
+  <use xlink:href="#Shield1R-3" height="1" width="1" y="0" x="0" fill="url(#HatchH-91)"/>
+  <use xlink:href="#Shield1-2" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-8878.5,579.54)">
+  <use xlink:href="#Shield1-8" height="1" width="1" y="0" x="0" fill="#808080"/>
+  <use xlink:href="#Shield1-8" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+  <use xlink:href="#Shield1R-0" transform="translate(.21945 .060601)" height="64" width="54" y="0" x="0" fill="#ffffff"/>
+  <use xlink:href="#Shield1R-0" transform="translate(.798 -.1596)" height="64" width="54" y="0" x="0" fill="url(#pattern7489-0)"/>
+ </g>
+ <g transform="translate(-8878.3,681.21)">
+  <use xlink:href="#Shield1-88" height="1" width="1" y="0" x="0" fill="#ff0000"/>
+  <use xlink:href="#Shield1R-7" height="1" width="1" y="0" x="0" fill="url(#HatchV-9)"/>
+  <use xlink:href="#Shield1-88" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-8878.3,782.88)">
+  <use xlink:href="#Shield1-21" height="1" width="1" y="0" x="0" fill="#800040"/>
+  <use xlink:href="#Shield1R-72" height="1" width="1" y="0" x="0" fill="url(#XHatchD-3)"/>
+  <use xlink:href="#Shield1-21" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-8878.3,884.54)">
+  <use xlink:href="#Shield1-7" height="1" width="1" y="0" x="0" fill="url(#OrRad)"/>
+  <use xlink:href="#Shield1R-08" height="1" width="1" y="0" x="0" fill="url(#DottedT-6)"/>
+  <use xlink:href="#Shield1-7" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-8799.1,875.9)">
+  <use xlink:href="#Shield1-3" height="1" width="1" y="0" x="0" fill="#ff8000"/>
+  <use xlink:href="#Shield1R-6" height="1" width="1" y="0" x="0" fill="url(#DashDotHatchT-2-2)"/>
+  <use xlink:href="#Shield1-3" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-8796.3,778.17)">
+  <use xlink:href="#Shield1-0" height="1" width="1" y="0" x="0" fill="#800080"/>
+  <use xlink:href="#Shield1R-00" height="1" width="1" y="0" x="0" fill="url(#HatchU-3)"/>
+  <use xlink:href="#Shield1-0" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-8968.8,587.09)">
+  <use xlink:href="#Shield1-09" height="1" width="1" y="0" x="0"/>
+  <use xlink:href="#Shield1R-34" height="1" width="1" y="0" x="0" fill="url(#XHatchT-2)"/>
+  <use xlink:href="#Shield1-09" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-8792,680.27)">
+  <use xlink:href="#Shield1-9" height="1" width="1" y="0" x="0" fill="#c00000"/>
+  <use xlink:href="#Shield1R-2" height="1" width="1" y="0" x="0" fill="url(#HatchHD-78)"/>
+  <use xlink:href="#Shield1-9" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-8868.4,992.5)">
+  <use xlink:href="#Shield1-1" height="1" width="1" y="0" x="0" fill="#00c000"/>
+  <use xlink:href="#Shield1R-9" height="1" width="1" y="0" x="0" fill="url(#HatchD-0)"/>
+  <use xlink:href="#Shield1-1" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <text font-size="31.882px" stroke-width="0" transform="matrix(-.99192 .027454 -.017891 -1.0077 0 0)" y="867.28735" x="-8770.0098" font-family="Georgia" fill="none">
+  <tspan rotate="187"/>
+ </text>
+ <text font-size="31.882px" stroke-width="0" transform="matrix(-.99192 .027454 -.017891 -1.0077 0 0)" y="864.95453" x="-8816.666" font-family="Georgia" fill="none">
+  <tspan rotate="537"/>
+ </text>
+ <ellipse rx="0" ry="0" transform="matrix(.99856 0 0 .99856 8405.3 -1725.6)" cy="403" cx="216" stroke-width="0" fill="#191919"/>
+ <ellipse rx="0" ry="0" transform="matrix(.99856 0 0 .99856 8405.3 -1725.6)" cy="402" cx="216" fill="#ffffff"/>
+ <ellipse rx="0" ry="0" transform="matrix(.99856 0 0 .99856 8405.3 -1725.6)" cy="400" cx="354" stroke-width="0" fill="#191919"/>
+ <ellipse rx="0" ry="0" transform="matrix(.99856 0 0 .99856 8405.3 -1725.6)" cy="400" cx="354" fill="#ffffff"/>
+ <ellipse rx="0" ry="0" transform="matrix(.99856 0 0 .99856 8405.3 -1725.6)" cy="523" cx="284" stroke-width="0" fill="#191919"/>
+ <ellipse rx="0" ry="0" transform="matrix(.99856 0 0 .99856 8405.3 -1725.6)" cy="522" cx="284" fill="#ffffff"/>
+ <g transform="translate(-1063.7,204.85)">
+  <use xlink:href="#Shield1" height="1" width="1" y="0" x="0" fill="url(#ArgentRad)"/>
+  <use xlink:href="#Shield1R" height="1" width="1" y="0" x="0" fill="#ffffff"/>
+  <use xlink:href="#Shield1" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-1141.5,100.04)">
+  <use xlink:href="#Shield1-2" height="1" width="1" y="0" x="0" fill="#0000ff"/>
+  <use xlink:href="#Shield1R-3" height="1" width="1" y="0" x="0" fill="url(#HatchH-9)"/>
+  <use xlink:href="#Shield1-2" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-1141.7,201.7)">
+  <use xlink:href="#Shield1-8" height="1" width="1" y="0" x="0" fill="#808080"/>
+  <use xlink:href="#Shield1-8" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+  <use xlink:href="#Shield1R-0" transform="translate(.21945 .060601)" height="64" width="54" y="0" x="0" fill="#ffffff"/>
+  <use xlink:href="#Shield1R-0" transform="translate(.798 -.1596)" height="64" width="54" y="0" x="0" fill="url(#pattern7489-6)"/>
+ </g>
+ <g transform="translate(-1141.5,303.37)">
+  <use xlink:href="#Shield1-88" height="1" width="1" y="0" x="0" fill="#ff0000"/>
+  <use xlink:href="#Shield1R-7" height="1" width="1" y="0" x="0" fill="url(#HatchV-4)"/>
+  <use xlink:href="#Shield1-88" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-1141.5,405.04)">
+  <use xlink:href="#Shield1-21" height="1" width="1" y="0" x="0" fill="#800040"/>
+  <use xlink:href="#Shield1R-72" height="1" width="1" y="0" x="0" fill="url(#XHatchD-4)"/>
+  <use xlink:href="#Shield1-21" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-1141.5,506.7)">
+  <use xlink:href="#Shield1-7" height="1" width="1" y="0" x="0" fill="url(#OrRad)"/>
+  <use xlink:href="#Shield1R-08" height="1" width="1" y="0" x="0" fill="url(#DottedT-2)"/>
+  <use xlink:href="#Shield1-7" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-1062.3,498.06)">
+  <use xlink:href="#Shield1-3" height="1" width="1" y="0" x="0" fill="#ff8000"/>
+  <use xlink:href="#Shield1R-6" height="1" width="1" y="0" x="0" fill="url(#DashDotHatchT-2-5)"/>
+  <use xlink:href="#Shield1-3" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-1059.5,400.33)">
+  <use xlink:href="#Shield1-0" height="1" width="1" y="0" x="0" fill="#800080"/>
+  <use xlink:href="#Shield1R-00" height="1" width="1" y="0" x="0" fill="url(#HatchU-4)"/>
+  <use xlink:href="#Shield1-0" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-1232,209.25)">
+  <use xlink:href="#Shield1-09" height="1" width="1" y="0" x="0"/>
+  <use xlink:href="#Shield1R-34" height="1" width="1" y="0" x="0" fill="url(#XHatchT-6)"/>
+  <use xlink:href="#Shield1-09" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-1055.2,302.43)">
+  <use xlink:href="#Shield1-9" height="1" width="1" y="0" x="0" fill="#c00000"/>
+  <use xlink:href="#Shield1R-2" height="1" width="1" y="0" x="0" fill="url(#HatchHD-7)"/>
+  <use xlink:href="#Shield1-9" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <g transform="translate(-1131.6,614.66)">
+  <use xlink:href="#Shield1-1" height="1" width="1" y="0" x="0" fill="#00c000"/>
+  <use xlink:href="#Shield1R-9" height="1" width="1" y="0" x="0" fill="url(#HatchD-6)"/>
+  <use xlink:href="#Shield1-1" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
+ </g>
+ <path d="m262.9 544.45h46.361c-2.885 4.065-5.245 10.426-5.245 18.492v42.624h23.41c8.131 0 14.427-2.361 18.558-5.312v45.443c-4.131-2.886-10.427-5.247-18.558-5.247h-23.41v51.739h38.427c8.131 0 14.426-2.295 18.558-5.246v45.509c-4.131-2.951-10.426-5.312-18.558-5.312h-38.427v79.281c-0.394-1.181-0.722-2.23-1.312-2.951-2.558-3.148-5.968-3.279-9.771-0.197 4-3.475 3.344-7.147 0.983-9.771-1.967-2.229-5.181-2.885-7.869-4.459-2.624 1.574-5.836 2.229-7.804 4.459-2.426 2.623-3.082 6.295 0.984 9.771-3.803-3.082-7.213-2.951-9.836 0.197-0.525 0.721-0.853 1.77-1.246 2.951v-79.281h-39.017c-8.131 0-13.836 2.361-17.967 5.312v-45.509c4.131 2.95 9.836 5.246 17.967 5.246h39.017v-51.739h-23.476c-8.066 0-14.361 2.361-18.493 5.247v-45.443c4.131 2.951 10.427 5.312 18.493 5.312h23.476v-42.624c-0.01-8.07-2.37-14.43-5.25-18.49zm-72.92 159.61v62.887h-192.99v-62.887h192.99zm0 125.77v62.952h-181.25c-7.213-19.15-11.475-40.2-11.738-62.95h192.99zm0 125.84v66.953c-16.656-9.312-52.329-15.476-88.33-30.887-18.623-7.91-36.655-20.17-52.394-36.04h140.72v0.04zm0-377.39v62.82h-192.99v-62.82h192.99zm114.03 236.86v9.181c-5.247 2.623-8.918-0.328-11.541-6.886 4.196 3.344 7.344 3.213 9.836 0.525 0.66-0.72 1.18-1.7 1.7-2.82zm-35.87 9.18v-9.18c0.525 1.115 1.05 2.098 1.705 2.82 2.492 2.688 5.639 2.819 9.836-0.525-2.62 6.54-6.29 9.5-11.54 6.88z" fill="#ffffff"/>
+ <rect height="0" width="0" y="483.05" x="346.96" fill="#ed1c24"/>
+ <path d="m6.5 6.5v287h430v-287z" fill="#f5f5f5"/>
+ <rect height="287" width="212.94" y="6.5" x="115.03" fill="#1e9646"/>
+ <rect transform="rotate(90)" height="430" width="287" y="-436.5" x="6.5" fill="none"/>
+ <path stroke="#000000" stroke-width="3" d="m6.5 6.5v287h430v-287z" fill="none"/>
+ <rect transform="matrix(-.91767 -.39733 -.39733 .91767 0 0)" rx="4.4083" ry="3.5267" height="240.65" width="8.826" y="-72.438" x="-271.33" fill="#f7d676"/>
+ <path d="m271.22 39.15c-0.49086 0.04242-0.9501 0.17112-1.3645 0.36171 0.0666 0.02586 0.13424 0.03933 0.20055 0.06805l0.007 0.0036c2.2412 0.97036 3.4211 3.1959 2.6448 4.9888l-92.81 214.37c-0.30572 0.70612-0.87335 1.2278-1.5793 1.5525 2.184 0.84834 4.4933 0.1874 5.2466-1.5525l92.8-214.37c0.7763-1.7929-0.40366-4.0184-2.6448-4.9888l-0.007-0.0036c-0.84044-0.36389-1.7071-0.49858-2.5034-0.42976z" fill="#be8c32"/>
+ <rect stroke-linejoin="round" transform="matrix(-.91767 -.39733 -.39733 .91767 0 0)" rx="4.4083" ry="3.5267" height="240.65" width="8.826" stroke="#000000" stroke-linecap="round" y="-72.438" x="-271.33" stroke-width=".91682" fill="none"/>
+ <path d="m314.1 155.16c-3.94-30.97-15.05-61.527-41.87-85.45l4.6439-12.576c0.4514-0.81027-8.1309-6.495-11.957-8.4091-3.826-1.914-1.3177-7.9057 2.6747-6.0174 37.624 17.336 62.759 74.877 46.506 112.46z" fill="#f9e098"/>
+ <path d="m266.17 42.347c-3.1024-0.09205-4.6048 4.7036-1.257 6.3783 0.68471 0.34252 1.5483 0.83002 2.4585 1.3645-0.32844-2.3512 0.90872-4.7119 3.1408-5.9343-0.96633-0.5073-1.9402-0.99347-2.9241-1.4468-0.49906-0.23604-0.97504-0.34856-1.4182-0.36171z" fill="#f7d676"/>
+ <path style="color:#000000" d="m280.24 55.632c0.45837-1.0493 0.58363-1.0546 1.3072-0.41007 25.93 23.099 40.389 61.32 33.444 93.176 9.1985-39.38-11.382-74.338-32.692-94.029-1.3816-1.2766-1.8501-0.14481-2.0594 1.2597z" fill-rule="evenodd" fill="#000000"/>
+ <path d="m275.11 54.078c3.1038-0.01384 4.4416-4.8579 1.0388-6.4176-0.69599-0.31895-1.5757-0.77671-2.5036-1.2798 0.40846 2.3385-0.74744 4.7402-2.9366 6.038 0.9831 0.47405 1.9729 0.92672 2.9718 1.3463 0.50682 0.21888 0.98631 0.3151 1.4297 0.31312z" fill="#be8c32"/>
+ <path stroke-linejoin="round" d="m314.1 155.16c-3.94-30.97-15.05-61.527-41.87-85.45l4.6439-12.576c0.4514-0.81027-8.1309-6.495-11.957-8.4091-3.826-1.914-1.3177-7.9057 2.6747-6.0174 37.624 17.336 62.759 74.877 46.506 112.46z" stroke="#000000" stroke-linecap="round" stroke-width=".91682" fill="none"/>
+ <rect ry="3.5267" rx="4.4083" transform="matrix(.91767 -.39733 .39733 .91767 0 0)" height="240.65" width="8.826" y="103.58" x="135.21" fill="#be8c32"/>
+ <path fill="#f7d676" d="m171.79 39.15c0.49086 0.04242 0.9501 0.17112 1.3645 0.36171-0.0666 0.02586-0.13424 0.03933-0.20055 0.06805l-0.007 0.0036c-2.2412 0.97036-3.4211 3.1959-2.6448 4.9888l92.81 214.37c0.30572 0.70612 0.87335 1.2278 1.5793 1.5525-2.184 0.84834-4.4933 0.1874-5.2466-1.5525l-92.81-214.37c-0.7763-1.7929 0.40366-4.0184 2.6448-4.9888l0.007-0.0036c0.84044-0.36389 1.7071-0.49858 2.5034-0.42976z"/>
+ <rect stroke-linejoin="round" ry="3.5267" rx="4.4083" transform="matrix(.91767 -.39733 .39733 .91767 0 0)" height="240.65" width="8.826" stroke="#000000" stroke-linecap="round" y="103.58" x="135.21" stroke-width=".91682" fill="none"/>
+ <path fill="#f9e098" d="m128.91 155.16c3.9423-30.97 15.045-61.529 41.871-85.451l-4.6439-12.576c-0.4514-0.81027 8.1309-6.495 11.957-8.4091 3.826-1.914 1.3177-7.9057-2.6747-6.0174-37.624 17.336-62.759 74.877-46.506 112.46z"/>
+ <path fill="#be8c32" d="m176.84 42.347c3.1024-0.09205 4.6048 4.7036 1.257 6.3783-0.68471 0.34252-1.5483 0.83002-2.4585 1.3645 0.32844-2.3512-0.90872-4.7119-3.1408-5.9343 0.96633-0.5073 1.9402-0.99347 2.9241-1.4468 0.49906-0.23604 0.97504-0.34856 1.4182-0.36171z"/>
+ <path style="color:#000000" fill-rule="evenodd" fill="#000000" d="m162.77 55.632c-0.45837-1.0493-0.58363-1.0546-1.3072-0.41007-25.93 23.099-40.389 61.32-33.444 93.176-9.1985-39.38 11.382-74.338 32.692-94.029 1.3816-1.2766 1.8501-0.14481 2.0594 1.2597z"/>
+ <path fill="#f7d676" d="m167.89 54.078c-3.1038-0.01384-4.4416-4.8579-1.0388-6.4176 0.69599-0.31895 1.5757-0.77671 2.5036-1.2798-0.40846 2.3385 0.74744 4.7402 2.9366 6.038-0.9831 0.47405-1.9729 0.92672-2.9718 1.3463-0.50682 0.21888-0.98631 0.3151-1.4297 0.31312z"/>
+ <path stroke-linejoin="round" d="m128.91 155.16c3.9423-30.97 15.045-61.529 41.871-85.451l-4.6439-12.576c-0.4514-0.81027 8.1309-6.495 11.957-8.4091 3.826-1.914 1.3177-7.9057-2.6747-6.0174-37.624 17.336-62.759 74.877-46.506 112.46z" stroke="#000000" stroke-linecap="round" stroke-width=".91682" fill="none"/>
+ <path fill="#f5f5f5" d="m184.31 170.37c12.723 0.3121 2.8955-9.8705 1.1908-17.904-0.82925-4.4546 0.0922-8.5945 4.7849-12.724 7.6619-6.6131 16.444-3.0548 24.439 5.8374l6.7727 17.441-2.4487 12.181c-1.8218 4.912-5.6886 7.8606-9.225 7.8533-3.8242-0.004-1.6621 4.4937-0.57793 7.7118-6.0107 0.17328-14.073-7.6873-5.7022-11.408 2.3635-0.99979 5.1923-1.007 6.9996-2.4986 1.7646-1.9742 1.5379-4.1925 1.8744-6.3446-2.6828-7.8143-4.8802-15.242-10.234-14.268-3.952 0.71584-0.87551 7.3716-1.1523 11.533-0.86462 13.095-13.141 13.695-16.72 2.5939z"/>
+ <path fill="#c3c7c8" d="m212.38 170.77c-0.24769 1.8-0.17692 3.64-1.2657 5.3374 2.1022-1.1767 4.2034-0.28761 6.6067 0.14516l1.3001-3.4522-2.6157-1.6758z"/>
+ <path fill="#c3c7c8" d="m184.68 170.44 0.97815 0.75848 1.0065 0.78388 1.8252 0.9953 1.9989 0.34385 1.7293-0.2377 1.6485-1.2329 0.90363-1.5414 0.53893-3.7606-1.2692-6.4035-1.0597-3.1292-0.23408-4.4229 0.67682-3.9131 1.4145-1.6476 2.7463-1.1304 3.5121 0.39285 4.129 2.7536 2.162 1.9035 3.7243 5.1778 2.602 4.951 0.81473 1.7329 0.25494 1.2692 0.25586 1.5233-4.4556 0.004-0.44637-1.8218-1.4988-2.9876-1.6549-2.661-2.8706-1.9914-2.524 0.27581-1.095 1.3718-0.2867 3.0403 0.54617 4.0473 0.37561 5.3947-1.2266 3.0938-2.6583 3.5683-3.3342 1.4534-2.6157-0.25857-2.676-1.3754-1.9315-1.7646-1.896-2.8815z"/>
+ <path fill="#c3c7c8" d="m217.53 174.59-1.0243 1.7646-1.0424 1.6975-1.8426 1.439-2.6437 1.4779-2.1548-0.0282-1.8535 0.74033-0.98164 1.4217-0.29395 1.1123 0.004 1.5805 0.77209 1.8472c0.7122 1.2475 1.7401 2.3172 2.789 3.3306l-0.93176-2.094-0.69135-2.0522 0.0218-2.0622 0.36836-1.0424c0.37198-0.31845 0.77299-0.57703 1.262-0.63056l1.6658-0.12792 1.8-0.54527 1.9878-1.1767 0.6741-0.55616 1.633-2.6511 1.0144-3.7715z"/>
+ <path fill="#000000" d="m189.9 139.17c-4.2992 3.0121-6.1068 7.8497-4.891 13.386 0.96046 4.3866 3.5581 8.2008 4.8303 12.138 0.52077 1.6947 0.58882 3.013-0.1243 3.8314-1.6724 1.9143-3.8874 1.3537-6.0066 1.262 0.77254 4.5999 5.9295 9.6605 10.045 9.1399 4.9755-0.41463 8.2398-6.7546 7.7644-11.199-0.47086-4.4438-0.56704-4.8412-0.80111-7.0558-0.27581-1.956 0.2241-3.4694 1.5524-3.9376 1.3291-0.46815 2.2754-0.0671 3.1155 0.64144 3.8242 3.2534 5.1071 9.0654 6.5242 13.198-0.32208 2.1656-0.11977 4.3694-1.7112 5.9145-1.595 1.5487-4.735 1.6059-6.8508 2.4178-2.1158 0.80747-3.473 2.0867-3.9131 3.629-0.37198 1.4353-0.24406 2.8244 1.6204 4.951 1.8599 2.1257 5.645 3.7316 9.0337 3.7915-1.3437-1.6621-2.7182-5.0608-2.2546-6.5741 0.46089-1.517 1.1595-1.4244 2.0168-1.4208 3.8132 0.004 7.7825-2.8425 9.6569-7.9105 0.007-0.0245 0.0145-0.0499 0.0218-0.0744l2.4487-12.177c0.0209-0.0917 0.0109-0.19143-0.0209-0.27671l-6.7764-17.443c-0.0218-0.0535-0.0536-0.10615-0.0926-0.14879-4.0365-4.49-8.1618-7.652-12.578-8.8777-4.412-1.2303-8.3106-0.21684-12.609 2.7962zm12.339-1.8463c4.0301 1.1304 8.1155 4.1671 12.057 8.541l6.6839 17.2-2.4097 11.986c-1.7683 4.745-5.4962 7.5167-8.7533 7.5131-1.0524-0.004-1.8435 0.34022-2.2645 0.96715-0.42551 0.62783-0.60606 1.418-0.49991 2.2401 0.18418 1.4071 1.0415 3.7243 1.8572 4.8484-2.6474-0.20233-6.585-2.5657-7.7299-4.1644-1.1414-1.5986-1.2475-2.5557-0.96349-3.6327 0.27944-1.0778 1.0307-2.2047 3.3451-3.3315 2.3108-1.1269 5.6178-0.64143 7.2936-2.2501 1.8046-1.8472 1.7755-4.6888 2.0242-6.8826-2.084-4.6534-2.7608-11.029-6.9324-13.932-1.0842-0.75485-1.8998-1.1695-3.8523-0.66594-1.956 0.50626-2.5657 3.0012-2.3607 5.0145 0.24496 2.3317 0.35838 2.9024 0.80113 7.0558 0.44001 4.1544-2.9913 9.5404-6.9034 9.8283-3.2254 0.24042-6.7621-1.928-8.5838-6.8617 2.7112-0.0426 4.5328-0.53528 5.4365-1.6476 0.99979-1.2303 0.861-2.9314 0.30121-4.7459-1.116-3.6327-3.9231-8.1826-4.8055-12.039-1.4176-6.2058 1.0844-9.5514 4.625-12.244 3.5438-2.6973 7.6057-3.9276 11.634-2.7962z"/>
+ <path fill="#000000" d="m199.22 138c-2.6574-0.10978-5.234 0.74033-7.8352 2.9804 2.7073-1.5732 5.9535-2.1158 7.7925-1.9914 3.952 0.14879 9.8879 3.2988 13.964 8.8204l5.6668 15.58c0.0962 0.24133 0.40101 0.37561 0.64144 0.28397 0.24496-0.0962 0.37924-0.40101 0.28397-0.64144l-6.4-16.44c-0.0218-0.0608-0.0535-0.11068-0.0962-0.15604-2.9986-4.5082-8.9911-8.2789-14.031-8.4349zm-0.82562 29.607c0.0317 4.5391-1.439 8.2253-4.8901 8.9058 4.3095 0.94991 6.0633-5.0571 5.8791-8.8423-0.17692-3.6218-1.7156-8.2643 0.0145-11.175-3.268 1.7375-1.0279 7.9885-1.0035 11.111zm11.43 12.819c-2.3607 0.0209-3.1826 0.75485-4.0083 2.044-0.94625 1.4743-0.23408 4.5363 0.6623 5.1751-0.52077-1.5913-0.65868-3.5547 0.12429-4.7604 0.65233-0.96715 1.2792-1.4743 3.2181-1.4707 1.9425 0.004 5.9862-2.3462 7.6338-6.6766-2.2255 3.5973-5.2667 5.6632-7.6301 5.6886z"/>
+ <path fill="#000000" d="m192.7 149.49c-0.95716 2.8597-0.31211 5.5607 0.34385 8.679 0.65142 3.1192 2.9586 8.2616 1.1658 12.302-1.7937 4.0401-6.5992 2.3281-8.8 0.51351 3.1684 3.6191 8.2011 3.2362 9.7852-0.35746 1.5841-3.5901-0.62057-9.4515-1.34-12.525-0.71584-3.0729-1.1477-5.7802-0.23771-8.4313 0.9109-2.6547 4.2606-4.6742 9.3772-1.683 5.1179 2.9904 11.454 12.425 12.854 20.584-0.75848-7.9141-6.4643-18.446-12.328-21.803-3.7606-2.1511-9.1262-2.3426-10.82 2.7254z"/>
+ <path fill="#f5f5f5" d="m258.67 170.37c-12.719 0.3121-2.8951-9.8705-1.1831-17.904 0.82924-4.4546-0.0925-8.5945-4.7886-12.724-7.6619-6.6131-16.444-3.0548-24.439 5.8374l-6.7727 17.441 2.4487 12.181c1.8218 4.912 5.6886 7.8606 9.225 7.8533 3.8242-0.004 1.6621 4.4937 0.57793 7.7118 6.0107 0.17328 14.073-7.6837 5.7022-11.405-2.3635-1.0025-5.1923-1.0098-6.9996-2.5014-1.7646-1.9742-1.5378-4.1925-1.8744-6.3446 2.6828-7.8143 4.8802-15.242 10.232-14.268 3.9557 0.71584 0.87913 7.3716 1.1558 11.533 0.86826 13.095 13.141 13.695 16.72 2.5939z"/>
+ <path fill="#c3c7c8" d="m258.3 170.44-0.97807 0.75848-1.0061 0.78388-1.8254 0.9953-1.9988 0.34385-1.7292-0.2377-1.6485-1.2329-0.90365-1.5414-0.53891-3.7606 1.2692-6.4035 1.0597-3.1292 0.23408-4.4229-0.67683-3.9131-1.4145-1.6476-2.7463-1.1304-3.513 0.39285-4.1281 2.7536-2.162 1.9035-3.7252 5.1778-2.6011 4.951-0.81474 1.7329-0.25494 1.2692-0.25584 1.5233 4.4546 0.004 0.44729-1.8218 1.4988-2.9876 1.6549-2.661 2.8706-1.9914 2.524 0.27581 1.095 1.3718 0.2867 3.0403-0.54618 4.0473-0.37561 5.3947 1.2266 3.0938 2.6583 3.5683 3.3342 1.4499 2.6157-0.25495 2.6791-1.3791 1.928-1.761 1.8962-2.8815z"/>
+ <path fill="#c3c7c8" d="m230.6 170.77c0.25132 1.8 0.18055 3.64 1.2657 5.3374-2.0985-1.1767-4.1998-0.28761-6.6031 0.14516l-1.3001-3.4522 2.6157-1.6758z"/>
+ <path fill="#c3c7c8" d="m225.45 174.59 1.0279 1.7646 1.0388 1.6975 1.8426 1.439 2.6437 1.4779 2.1548-0.0282 1.8535 0.74033 0.9853 1.4217 0.29033 1.1123-0.004 1.5805-0.77209 1.8472c-0.71221 1.2475-1.7401 2.3172-2.789 3.3306l0.93176-2.094 0.69134-2.0522-0.0218-2.0622-0.36835-1.0424c-0.37198-0.31845-0.77299-0.57703-1.262-0.63056l-1.6658-0.12792-1.8-0.5489-1.9842-1.1731-0.6741-0.55616-1.633-2.6511-1.018-3.7715z"/>
+ <path fill="#000000" d="m253.08 139.17c4.2995 3.0121 6.1068 7.8497 4.891 13.386-0.95991 4.3866-3.5583 8.2008-4.8303 12.138-0.52078 1.6947-0.58882 3.013 0.12429 3.8314 1.6721 1.9143 3.8877 1.3537 6.007 1.262-0.77298 4.5999-5.929 9.6605-10.045 9.1399-4.9755-0.41463-8.2398-6.7546-7.7644-11.199 0.47088-4.4438 0.56704-4.8412 0.80112-7.0558 0.27581-1.956-0.22319-3.4694-1.5524-3.9376-1.3291-0.46815-2.2754-0.0671-3.1155 0.64144-3.8242 3.2534-5.1071 9.0654-6.5242 13.198 0.32208 2.1656 0.12067 4.3694 1.7147 5.9145 1.5913 1.5487 4.7314 1.6059 6.8472 2.4178 2.1158 0.80747 3.473 2.0867 3.9131 3.629 0.37198 1.4353 0.24405 2.8244-1.6195 4.951-1.8608 2.1257-5.6423 3.7316-9.0346 3.7915 1.3437-1.6621 2.7191-5.0608 2.2546-6.5741-0.46088-1.517-1.1586-1.4244-2.0168-1.4208-3.8132 0.004-7.7825-2.8425-9.6569-7.9105-0.007-0.0245-0.0145-0.0499-0.0218-0.0744l-2.4487-12.177c-0.0172-0.0917-0.0109-0.19143 0.0245-0.27671l6.7764-17.443c0.0218-0.0535 0.0535-0.10615 0.0925-0.14879 4.0365-4.49 8.1618-7.652 12.578-8.8777 4.412-1.2303 8.3106-0.21684 12.605 2.7962zm-12.336-1.8463c-4.0301 1.1304-8.1155 4.1671-12.057 8.5374l-6.6839 17.202 2.4097 11.986c1.7683 4.745 5.4962 7.5167 8.7533 7.5095 1.0524 0 1.8435 0.34385 2.2646 0.97082 0.42551 0.62783 0.60606 1.418 0.4999 2.2401-0.18054 1.4071-1.0379 3.7243-1.8572 4.8448 2.6474-0.19869 6.585-2.5622 7.7299-4.1607 1.1414-1.5986 1.2475-2.5557 0.96349-3.6327-0.27944-1.0778-1.0307-2.2047-3.3451-3.3315-2.3108-1.1269-5.6178-0.64507-7.2936-2.2501-1.8046-1.8472-1.7755-4.6888-2.0242-6.8861 2.084-4.6498 2.7608-11.028 6.9324-13.928 1.0842-0.75485 1.8998-1.1695 3.8559-0.66594 1.9525 0.50626 2.5621 3.0012 2.357 5.0145-0.24495 2.3317-0.35836 2.9024-0.79748 7.0558-0.44366 4.1544 2.9876 9.5368 6.8998 9.8283 3.2254 0.24042 6.7582-1.928 8.5836-6.8617-2.7145-0.0426-4.5328-0.53528-5.4364-1.6476-0.99979-1.2303-0.861-2.9314-0.30121-4.7459 1.116-3.6327 3.9231-8.1826 4.8022-12.039 1.4208-6.2058-1.0815-9.5514-4.6253-12.248-3.5402-2.6937-7.602-3.9239-11.631-2.7926z"/>
+ <path fill="#000000" d="m243.77 138c2.6574-0.10978 5.234 0.74033 7.8351 2.9804-2.7073-1.5732-5.9499-2.1158-7.7925-1.9914-3.9557 0.14879-9.8879 3.3025-13.964 8.8204l-5.6668 15.58c-0.0962 0.24133-0.40101 0.37561-0.64144 0.28397-0.24134-0.0962-0.37924-0.40101-0.28398-0.64144l6.3863-16.44c0.0218-0.0571 0.0535-0.11068 0.0962-0.15604 2.9986-4.5082 8.9911-8.2789 14.031-8.4349zm0.82561 29.607c-0.0317 4.5391 1.439 8.2253 4.8938 8.9058-4.3132 0.94991-6.067-5.0571-5.8828-8.8423 0.17692-3.6218 1.7156-8.268-0.0145-11.178 3.268 1.7401 1.0243 7.9912 1.0035 11.11zm-11.43 12.819c2.3607 0.0209 3.1863 0.75485 4.0083 2.044 0.94624 1.4743 0.23407 4.5363-0.66231 5.1751 0.52078-1.5913 0.65867-3.5547-0.1243-4.7604-0.65233-0.96715-1.2792-1.4743-3.218-1.4707-1.9425 0.004-5.9862-2.3462-7.6338-6.6766 2.2255 3.5973 5.2703 5.6632 7.6302 5.6886z"/>
+ <path fill="#000000" d="m250.28 149.49c0.95716 2.8597 0.3121 5.5607-0.34385 8.679-0.65505 3.1192-2.9586 8.2616-1.1658 12.302 1.79 4.0401 6.5994 2.3281 8.7996 0.51351-3.1682 3.6191-8.2008 3.2362-9.7852-0.35746-1.5841-3.5901 0.62057-9.4515 1.34-12.525 0.71584-3.0729 1.1477-5.7802 0.23771-8.4313-0.9109-2.6547-4.2641-4.6742-9.3772-1.683-5.1179 2.9904-11.454 12.425-12.854 20.584 0.75848-7.9168 6.4643-18.45 12.328-21.803 3.7606-2.1548 9.1226-2.3426 10.82 2.7218z"/>
+ <path fill="#f5f5f5" d="m221.49 113.29c-1.2475 2.6474-3.9548 5.2309-7.1837 7.7332-11.33 8.7824-2.4415 20.626 0.16331 30.021 1.1269 4.0573 2.6438 9.1471 3.7107 16.426 0.72582 3.8559 0.411 8.6264-1.5913 11.259-5.0009 6.5777 0.46088 14.594 4.901 19.031 4.4375-4.4374 9.898-12.454 4.8984-19.031-2.0023-2.6293-2.3144-7.3996-1.5913-11.252 1.0697-7.2827 2.5866-12.372 3.7098-16.429 2.6084-9.3919 11.493-21.236 0.16332-30.021-3.228-2.5023-5.9362-5.0859-7.1802-7.7333z"/>
+ <path fill="#c3c7c8" d="m212.3 167.38c-0.31846 0-0.62693 0.0326-0.92819 0.0853 0.34748 0.99979 0.69406 2.0242 1.0488 3.0548-0.0145 0.0817-0.0172 0.16331-0.0282 0.24496l4.0219 0.35475 2.6157 1.6758-1.3001 3.9802h7.5303l-1.3002-3.9802 2.6157-1.6758 4.0256-0.35475c-0.0136-0.0817-0.0172-0.1633-0.0317-0.24496 0.35474-1.0307 0.70132-2.055 1.0488-3.0548-0.30122-0.0526-0.60969-0.0853-0.9281-0.0853z"/>
+ <path fill="#000000" d="m221.49 112.44c-1.7546 3.6114-3.0375 4.9085-7.7825 8.1446-4.7487 3.2353-6.4788 9.9411-5.3266 15.278 1.1514 5.3339 4.5962 11.327 5.9499 15.317 1.3545 3.9974 2.2972 9.1226 3.3605 16.37 0 0.007 0 0.0109 0.003 0.0181 0.70585 3.7561 0.58882 6.4997-1.7002 10.774-2.2899 4.2705-2.2972 7.7753-0.93992 11.404 1.3545 3.6327 5.6704 6.4716 6.4362 9.7926v-2.9378c-2.0096-2.7862-4.9791-4.4837-5.8437-7.4569-0.86826-2.9732-0.93901-7.1166 1.3355-10.112 2.2718-2.9904 2.4242-7.6864 1.6875-11.634-1.0742-7.3108-1.8754-12.092-2.9986-16.14-1.3291-4.7876-4.9156-10.419-6.0252-15.554-1.1087-5.1288 0.15242-11.075 4.6924-14.254 4.54-3.1754 6.2592-5.0505 7.1484-7.9106z"/>
+ <path fill="#000000" d="m221.49 112.44c1.751 3.6114 3.0339 4.9085 7.7825 8.1446 4.7459 3.2353 6.4788 9.9411 5.323 15.278-1.1514 5.3339-4.5962 11.327-5.9499 15.317-1.3537 3.9974-2.2963 9.1226-3.3596 16.37 0 0.007 0 0.0109-0.004 0.0181-0.70222 3.7561-0.58882 6.4997 1.7012 10.774 2.289 4.2705 2.2963 7.7753 0.939 11.404-1.3537 3.6327-5.6704 6.4716-6.4326 9.7926v-2.9378c2.006-2.789 4.9755-4.4837 5.841-7.4569 0.86826-2.9732 0.93901-7.1166-1.3364-10.112-2.2718-2.9904-2.4242-7.6864-1.6866-11.634 1.0733-7.3108 1.8744-12.092 2.9976-16.14 1.3291-4.7876 4.9156-10.422 6.0252-15.554 1.1096-5.1324-0.15242-11.075-4.6924-14.254-4.54-3.1754-6.2583-5.0505-7.1484-7.9106z"/>
+ <path fill="#000000" d="m221.49 113.47v0.0284c-0.6133 8.4134-0.53528 25.147-0.26945 43.315 0.21956 15.009-0.70858 25.722 0.26945 39.774 0.97807-14.053 0.0463-24.766 0.26947-39.774 0.26583-18.167 0.34385-34.905-0.26947-43.315v-0.0287 0.0142-0.0142z"/>
+ <path fill="#f5f5f5" d="m212.3 165.4h18.387c2.3924 0 4.3204 1.5414 4.3204 3.4558v1.9525c0 1.9171-1.928 3.4585-4.3204 3.4585h-18.387c-2.3952 0-4.3204-1.5414-4.3204-3.4585v-1.9525c0-1.9143 1.9252-3.4558 4.3204-3.4558z"/>
+ <path fill="#c3c7c8" d="m207.98 168.84c0 0.007-0.003 0.0109-0.003 0.0145v1.9525c0 1.9134 1.928 3.4548 4.3195 3.4548h18.387c2.3924 0 4.3204-1.5414 4.3204-3.4548v-1.9525c0-0.004-0.004-0.007-0.004-0.0145-0.007 1.9062-1.928 3.4449-4.3168 3.4449h-18.387c-2.3889 0-4.3095-1.5387-4.3168-3.4449z"/>
+ <path stroke-linejoin="round" d="m212.3 165.4h18.387c2.3924 0 4.3204 1.5414 4.3204 3.4558v1.9525c0 1.9171-1.928 3.4585-4.3204 3.4585h-18.387c-2.3952 0-4.3204-1.5414-4.3204-3.4585v-1.9525c0-1.9143 1.9252-3.4558 4.3204-3.4558zm0 0" stroke="#000000" stroke-linecap="round" stroke-width=".99035" fill="none"/>
+</svg>

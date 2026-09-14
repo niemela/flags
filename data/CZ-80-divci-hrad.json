@@ -1,0 +1,59 @@
+{
+  "id": "CZ-80-divci-hrad",
+  "name": "Dívčí Hrad (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-80",
+  "codes": {
+    "wikidata": "Q1270839"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Two horizontal stripes of red and yellow in the ratio 4:1 separated by an embattled line, with a yellow Maltese cross in the red at the hoist.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Divci_Hrad.svg",
+    "https://www.wikidata.org/wiki/Q1270839",
+    "https://cs.wikipedia.org/wiki/D%C3%ADv%C4%8D%C3%AD_Hrad"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        4,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "embattled division"
+    },
+    {
+      "type": "greek-cross",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "Maltese cross"
+    }
+  ]
+}

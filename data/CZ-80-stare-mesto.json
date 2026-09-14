@@ -1,0 +1,53 @@
+{
+  "id": "CZ-80-stare-mesto",
+  "name": "Staré Město (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-80",
+  "codes": {
+    "wikidata": "Q2035082"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Navy blue field with a white fleur-de-lis at the hoist and a yellow serrated stripe at the fly.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Staré_Město_(okres_Frýdek-Místek).svg",
+    "https://www.wikidata.org/wiki/Q2035082",
+    "https://cs.wikipedia.org/wiki/Star%C3%A9_M%C4%9Bsto_(okres_Fr%C3%BDdek-M%C3%ADstek)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "fly",
+      "role": "serrated stripe"
+    }
+  ]
+}

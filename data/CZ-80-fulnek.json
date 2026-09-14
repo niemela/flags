@@ -1,0 +1,89 @@
+{
+  "id": "CZ-80-fulnek",
+  "name": "Fulnek (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-80",
+  "codes": {
+    "wikidata": "Q740915"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Quartered red and blue by a yellow diagonal line from the lower hoist to the upper fly, with a white tower, yellow fleurs-de-lis, a yellow crowned letter W and a white forked arrow.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 15 July 1993 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "1993-07-15"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Fulnek.svg",
+    "https://www.wikidata.org/wiki/Q740915",
+    "https://cs.wikipedia.org/wiki/Fulnek"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "red",
+        "blue",
+        "blue",
+        "red"
+      ]
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "tower"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "center",
+      "count": 5
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crowned letter W"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "lower-fly",
+      "role": "forked arrow"
+    }
+  ]
+}

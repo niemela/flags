@@ -1,0 +1,53 @@
+{
+  "id": "CZ-80-hradec-nad-moravici",
+  "name": "Hradec nad Moravicí (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-80",
+  "codes": {
+    "wikidata": "Q668190"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Two horizontal stripes of red and white in the ratio 1:2 separated by an embattled line.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Hradec_nad_Moravici_CZ_flag.svg",
+    "https://www.wikidata.org/wiki/Q668190",
+    "https://cs.wikipedia.org/wiki/Hradec_nad_Moravic%C3%AD"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "top",
+      "role": "embattled division"
+    }
+  ]
+}

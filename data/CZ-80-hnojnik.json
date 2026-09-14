@@ -1,0 +1,55 @@
+{
+  "id": "CZ-80-hnojnik",
+  "name": "Hnojník (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-80",
+  "codes": {
+    "wikidata": "Q614426"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Light blue field with a yellow diagonal stripe from the lower hoist to the upper fly and a yellow linden branch with three leaves.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hnojník.svg",
+    "https://www.wikidata.org/wiki/Q614426",
+    "https://cs.wikipedia.org/wiki/Hnojn%C3%ADk"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "leaf",
+      "color": "yellow",
+      "position": "center",
+      "role": "linden branch"
+    }
+  ]
+}
