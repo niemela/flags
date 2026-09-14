@@ -1,0 +1,55 @@
+{
+  "id": "CH-GR-sufers",
+  "name": "Sufers (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-GR",
+  "codes": {
+    "wikidata": "Q66012"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Square banner of the arms of Sufers: on red a white Latin cross above a blue wavy bar edged in white.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Sufers_Flag.svg",
+    "https://www.wikidata.org/wiki/Q66012",
+    "https://de.wikipedia.org/wiki/Sufers",
+    "https://fr.wikipedia.org/wiki/Sufers",
+    "https://it.wikipedia.org/wiki/Sufers"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "latin-cross",
+      "color": "white",
+      "position": "center",
+      "field": "red",
+      "cross": "white"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom",
+      "role": "wavy bar edged in white"
+    }
+  ]
+}

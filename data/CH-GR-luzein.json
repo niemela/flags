@@ -1,0 +1,53 @@
+{
+  "id": "CH-GR-luzein",
+  "name": "Luzein (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-GR",
+  "codes": {
+    "wikidata": "Q65296"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Luzein: divided diagonally from the upper fly, blue with a rising yellow arrow and yellow with a blue half-wing.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Luzein_Flag.svg",
+    "https://www.wikidata.org/wiki/Q65296",
+    "https://de.wikipedia.org/wiki/Luzein",
+    "https://fr.wikipedia.org/wiki/Luzein",
+    "https://it.wikipedia.org/wiki/Luzein"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "yellow",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "rising arrow"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "lower-fly",
+      "role": "half-wing"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "CH-GR-avers",
+  "name": "Avers (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-GR",
+  "codes": {
+    "wikidata": "Q69196"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Avers: divided diagonally from the upper hoist white and black, with a leaping black ibex with red horns and hooves on the white.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Avers_Flag.svg",
+    "https://www.wikidata.org/wiki/Q69196",
+    "https://de.wikipedia.org/wiki/Avers_GR",
+    "https://fr.wikipedia.org/wiki/Avers_(commune)",
+    "https://it.wikipedia.org/wiki/Avers"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "black",
+      "direction": "bend"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "upper-fly",
+      "role": "leaping ibex"
+    }
+  ]
+}

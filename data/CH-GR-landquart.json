@@ -1,0 +1,65 @@
+{
+  "id": "CH-GR-landquart",
+  "name": "Landquart (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-GR",
+  "codes": {
+    "wikidata": "Q70631"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Landquart: divided diagonally from the upper hoist white and black, with a leaping black ibex carrying a torch with a red and yellow flame on the white, and an inverted white key on the black.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Landquart_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70631",
+    "https://de.wikipedia.org/wiki/Landquart_GR",
+    "https://fr.wikipedia.org/wiki/Landquart_(commune)",
+    "https://it.wikipedia.org/wiki/Landquart_(Svizzera)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "black",
+      "direction": "bend"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "upper-fly",
+      "role": "ibex with torch"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "top",
+      "role": "torch flame"
+    },
+    {
+      "type": "key",
+      "color": "white",
+      "position": "lower-hoist",
+      "role": "inverted key"
+    }
+  ]
+}

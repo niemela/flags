@@ -1,0 +1,52 @@
+{
+  "id": "CH-GR-vals",
+  "name": "Vals (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-GR",
+  "codes": {
+    "wikidata": "Q64585"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Square banner of the arms of Vals: divided diagonally from the upper hoist yellow and black, with a black block stairway on the yellow and a yellow key on the black.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Vals_Flag.svg",
+    "https://www.wikidata.org/wiki/Q64585",
+    "https://de.wikipedia.org/wiki/Vals_GR",
+    "https://fr.wikipedia.org/wiki/Vals_(Suisse)",
+    "https://it.wikipedia.org/wiki/Vals_(Svizzera)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "black",
+      "direction": "bend"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "upper-fly",
+      "role": "block stairway"
+    },
+    {
+      "type": "key",
+      "color": "yellow",
+      "position": "lower-hoist"
+    }
+  ]
+}

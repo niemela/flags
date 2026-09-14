@@ -1,0 +1,56 @@
+{
+  "id": "CH-GR-valsot",
+  "name": "Valsot (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-GR",
+  "codes": {
+    "wikidata": "Q7912633"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Valsot: divided diagonally from the upper fly white and black, with an upright black ibex with red horns holding a hackle on the white, and an upright white unicorn on the black.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Valsot_Flag.svg",
+    "https://www.wikidata.org/wiki/Q7912633",
+    "https://de.wikipedia.org/wiki/Valsot",
+    "https://fr.wikipedia.org/wiki/Valsot",
+    "https://it.wikipedia.org/wiki/Valsot"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "black",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "upper-hoist",
+      "role": "upright ibex with hackle"
+    },
+    {
+      "type": "mythical-creature",
+      "color": "white",
+      "position": "lower-fly",
+      "role": "unicorn"
+    }
+  ]
+}
