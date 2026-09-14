@@ -1,0 +1,69 @@
+{
+  "id": "HU-SZ-vallaj",
+  "name": "Vállaj (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-SZ",
+  "codes": {
+    "wikidata": "Q1186597"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "White field with a serrated stripe of green and blue triangles along the top and bottom edges, charged at the centre with the municipal arms of Vállaj (a blue and yellow shield with a church, ears of grain and a plough) above the name VÁLLAJ in black.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Vállaj.svg",
+    "https://www.wikidata.org/wiki/Q1186597",
+    "https://hu.wikipedia.org/wiki/Vállaj"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "top",
+      "count": 12,
+      "role": "serrated top and bottom edges"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "top",
+      "count": 12,
+      "role": "serrated top and bottom edges"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Vállaj arms"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "bottom",
+      "role": "inscription VÁLLAJ"
+    }
+  ]
+}

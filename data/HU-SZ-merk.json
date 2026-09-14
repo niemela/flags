@@ -1,0 +1,61 @@
+{
+  "id": "HU-SZ-merk",
+  "name": "Mérk (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-SZ",
+  "codes": {
+    "wikidata": "Q1187296"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field with a serrated border of yellow and green triangles and yellow squares in the fly corners, charged at the centre with the municipal arms of Mérk: a blue shield with a white cup and a red charge, with a helm, a crest and red, green and yellow mantling, above a scroll inscribed MÉRK.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Mérk.svg",
+    "https://www.wikidata.org/wiki/Q1187296",
+    "https://hu.wikipedia.org/wiki/Mérk_(Magyarország)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "border",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "role": "serrated border of yellow and green triangles"
+    },
+    {
+      "type": "square",
+      "color": "yellow",
+      "position": "upper-fly",
+      "count": 2,
+      "role": "squares in the fly corners"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Mérk arms with helm, crest, mantling and scroll"
+    }
+  ]
+}

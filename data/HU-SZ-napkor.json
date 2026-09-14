@@ -1,0 +1,65 @@
+{
+  "id": "HU-SZ-napkor",
+  "name": "Napkor (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-SZ",
+  "codes": {
+    "wikidata": "Q221440"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "White field with a red vertical stripe at the hoist edge and a blue vertical stripe at the fly edge, charged at the centre with the municipal arms of Napkor (a crowned quartered blue and red shield with a sabre, scales, a star and an eagle, with a helm and red and blue mantling) above the name NAPKOR in black.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Napkor.svg",
+    "https://www.wikidata.org/wiki/Q221440",
+    "https://hu.wikipedia.org/wiki/Napkor"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        10,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Napkor arms with crown, helm and mantling"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "bottom",
+      "role": "inscription NAPKOR"
+    }
+  ]
+}

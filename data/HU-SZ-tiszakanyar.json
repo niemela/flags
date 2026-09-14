@@ -1,0 +1,81 @@
+{
+  "id": "HU-SZ-tiszakanyar",
+  "name": "Tiszakanyár (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-SZ",
+  "codes": {
+    "wikidata": "Q1186699"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with two narrow blue horizontal stripes near the top and bottom edges, charged at the centre with the municipal arms of Tiszakanyár (a red and blue shield with ears of grain, a stag and a fish) below the name TISZAKANYÁR in blue.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Tiszakanyár.svg",
+    "https://www.wikidata.org/wiki/Q1186699",
+    "https://hu.wikipedia.org/wiki/Tiszakanyár"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "position": "top",
+      "widths": [
+        1,
+        1,
+        1
+      ],
+      "role": "double stripe near the top"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "position": "bottom",
+      "widths": [
+        1,
+        1,
+        1
+      ],
+      "role": "double stripe near the bottom"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Tiszakanyár arms"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "top",
+      "role": "inscription TISZAKANYÁR"
+    }
+  ]
+}

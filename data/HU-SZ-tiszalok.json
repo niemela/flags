@@ -1,0 +1,68 @@
+{
+  "id": "HU-SZ-tiszalok",
+  "name": "Tiszalök (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-SZ",
+  "codes": {
+    "wikidata": "Q615233"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "White field with a narrow blue horizontal stripe near the top and bottom edges, charged at the centre with the town arms of Tiszalök (a red and blue shield with trees, waves and fish) above the name TISZALÖK in black.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Tiszalök.svg",
+    "https://www.wikidata.org/wiki/Q615233",
+    "https://hu.wikipedia.org/wiki/Tiszalök"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "position": "center",
+      "widths": [
+        1,
+        10,
+        1
+      ],
+      "role": "two narrow inset stripes"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Tiszalök arms"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "bottom",
+      "role": "inscription TISZALÖK"
+    }
+  ]
+}
