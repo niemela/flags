@@ -1,0 +1,57 @@
+{
+  "id": "HU-BA-godre",
+  "name": "Gödre (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-BA",
+  "codes": {
+    "wikidata": "Q596764"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "Two horizontal stripes of blue over light grey in the ratio 1:2, charged at the centre with the municipal arms of Gödre (a white shield with a grove of trees on a brown mound) above the name GÖDRE in blue.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Gödre.svg",
+    "https://www.wikidata.org/wiki/Q596764",
+    "https://hu.wikipedia.org/wiki/Gödre"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "grey"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Gödre arms"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "bottom",
+      "role": "inscription GÖDRE"
+    }
+  ]
+}

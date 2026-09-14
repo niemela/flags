@@ -1,0 +1,58 @@
+{
+  "id": "HU-BA-katoly",
+  "name": "Kátoly (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-BA",
+  "codes": {
+    "wikidata": "Q548826"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with a narrow blue stripe along the top edge and blue chevron-shaped stripes along the bottom edge, charged at the centre with the municipal arms of Kátoly (a blue shield with a yellow crown, a rose and a scroll inscribed KÁTOLY, with blue and yellow mantling).",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Kátoly.svg",
+    "https://www.wikidata.org/wiki/Q548826",
+    "https://hu.wikipedia.org/wiki/Kátoly"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "top"
+    },
+    {
+      "type": "chevron",
+      "color": "blue",
+      "position": "bottom",
+      "count": 2,
+      "role": "chevron-shaped stripes"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Kátoly arms with mantling"
+    }
+  ]
+}

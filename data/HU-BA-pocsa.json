@@ -1,0 +1,60 @@
+{
+  "id": "HU-BA-pocsa",
+  "name": "Pócsa (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-BA",
+  "codes": {
+    "wikidata": "Q2418153"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "5:9",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field with a serrated vertical stripe of red and green triangles at the fly edge, charged at the centre of the white with the municipal arms of Pócsa (a blue shield with a bunch of grapes and a sun) within a green wreath, below a scroll inscribed PÓCSA 1332–1997.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Pócsa.svg",
+    "https://www.wikidata.org/wiki/Q2418153",
+    "https://hu.wikipedia.org/wiki/Pócsa"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "fly",
+      "count": 8,
+      "role": "serrated edge"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "fly",
+      "count": 8,
+      "role": "serrated edge"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Pócsa arms with wreath and scroll"
+    }
+  ]
+}

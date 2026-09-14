@@ -1,0 +1,61 @@
+{
+  "id": "HU-BA-vekeny",
+  "name": "Vékény (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-BA",
+  "codes": {
+    "wikidata": "Q1091770"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A vertical white banner with two horizontal bands of blue and yellow at the bottom, charged near the top with the municipal arms of Vékény (a yellow and blue shield with a bunch of grapes and a pole) above the name VÉKÉNY in yellow.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Vékény.svg",
+    "https://www.wikidata.org/wiki/Q1091770",
+    "https://hu.wikipedia.org/wiki/Vékény"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2,
+      "position": "bottom"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "top",
+      "role": "Vékény arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "inscription VÉKÉNY"
+    }
+  ]
+}
