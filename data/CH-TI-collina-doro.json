@@ -1,0 +1,73 @@
+{
+  "id": "CH-TI-collina-doro",
+  "name": "Collina d'Oro (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-TI",
+  "codes": {
+    "wikidata": "Q69062"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Square banner of the arms of Collina d'Oro: on yellow a yellow sun above a green hill charged with a red chevron, over white and blue wavy bars.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Collina_d'Oro_Flag.svg",
+    "https://www.wikidata.org/wiki/Q69062",
+    "https://de.wikipedia.org/wiki/Collina_d’Oro",
+    "https://fr.wikipedia.org/wiki/Collina_d'Oro",
+    "https://it.wikipedia.org/wiki/Collina_d'Oro"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "top"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "center",
+      "role": "mount"
+    },
+    {
+      "type": "chevron",
+      "color": "red",
+      "position": "center",
+      "field": "green",
+      "chevron": "red"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "bottom",
+      "count": 2,
+      "role": "white and blue wavy bars"
+    }
+  ]
+}

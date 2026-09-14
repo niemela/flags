@@ -1,0 +1,62 @@
+{
+  "id": "CH-TI-paradiso",
+  "name": "Paradiso (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-TI",
+  "codes": {
+    "wikidata": "Q68205"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Paradiso: divided horizontally, green with a yellow demi-lion above white with three green wavy bars.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Paradiso_Flag.svg",
+    "https://www.wikidata.org/wiki/Q68205",
+    "https://de.wikipedia.org/wiki/Paradiso_TI",
+    "https://fr.wikipedia.org/wiki/Paradiso",
+    "https://it.wikipedia.org/wiki/Paradiso_(Svizzera)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        3,
+        1
+      ]
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "top",
+      "role": "demi-lion"
+    },
+    {
+      "type": "wave",
+      "color": "green",
+      "position": "bottom",
+      "count": 3
+    }
+  ]
+}

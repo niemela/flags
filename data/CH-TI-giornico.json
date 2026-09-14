@@ -1,0 +1,68 @@
+{
+  "id": "CH-TI-giornico",
+  "name": "Giornico (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-TI",
+  "codes": {
+    "wikidata": "Q67763"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Giornico: divided horizontally, red with a white cross and a white hand raised in blessing, and yellow with two red six-pointed stars.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Giornico_Flag_2025.svg",
+    "https://www.wikidata.org/wiki/Q67763",
+    "https://de.wikipedia.org/wiki/Giornico",
+    "https://fr.wikipedia.org/wiki/Giornico",
+    "https://it.wikipedia.org/wiki/Giornico"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "greek-cross",
+      "cross": "white",
+      "position": "top"
+    },
+    {
+      "type": "hand",
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "hand raised in blessing"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 6,
+      "color": "red",
+      "position": "bottom"
+    }
+  ]
+}

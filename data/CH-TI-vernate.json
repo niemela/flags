@@ -1,0 +1,60 @@
+{
+  "id": "CH-TI-vernate",
+  "name": "Vernate (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-TI",
+  "codes": {
+    "wikidata": "Q68825"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Vernate: on blue a white horizontal bar, over all a white arrow and a blue mace, points downward.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Vernate_Flag.svg",
+    "https://www.wikidata.org/wiki/Q68825",
+    "https://de.wikipedia.org/wiki/Vernate_TI",
+    "https://fr.wikipedia.org/wiki/Vernate_(Tessin)",
+    "https://it.wikipedia.org/wiki/Vernate_(Svizzera)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "fess"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "arrow pointing down"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "fly",
+      "role": "mace"
+    }
+  ]
+}

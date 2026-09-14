@@ -1,0 +1,82 @@
+{
+  "id": "CH-TI-quinto",
+  "name": "Quinto (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-TI",
+  "codes": {
+    "wikidata": "Q67501"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Quinto: white with a chief bearing the red letters QV above a yellow bar, below divided vertically red with white bends and blue with a white greyhound with a yellow collar.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Quinto_Flag_2025.svg",
+    "https://www.wikidata.org/wiki/Q67501",
+    "https://de.wikipedia.org/wiki/Quinto_TI",
+    "https://fr.wikipedia.org/wiki/Quinto_(Tessin)",
+    "https://it.wikipedia.org/wiki/Quinto_(Svizzera)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "role": "white chief"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "top",
+      "role": "letters QV"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2,
+      "position": "bottom"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "lower-hoist",
+      "count": 3,
+      "direction": "bend"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "lower-fly",
+      "role": "greyhound with collar"
+    }
+  ]
+}

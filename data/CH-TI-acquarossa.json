@@ -1,0 +1,64 @@
+{
+  "id": "CH-TI-acquarossa",
+  "name": "Acquarossa (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-TI",
+  "codes": {
+    "wikidata": "Q68358"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square banner of the arms of Acquarossa: on blue a yellow sun above a red wavy bar and a green base.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Acquarossa_Flag.svg",
+    "https://www.wikidata.org/wiki/Q68358",
+    "https://de.wikipedia.org/wiki/Acquarossa",
+    "https://fr.wikipedia.org/wiki/Acquarossa_(Tessin)",
+    "https://it.wikipedia.org/wiki/Acquarossa"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        4,
+        1
+      ]
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "wave",
+      "color": "red",
+      "position": "bottom",
+      "role": "red wavy bar"
+    }
+  ]
+}

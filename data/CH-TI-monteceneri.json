@@ -1,0 +1,63 @@
+{
+  "id": "CH-TI-monteceneri",
+  "name": "Monteceneri (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-TI",
+  "codes": {
+    "wikidata": "Q70633"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Monteceneri: divided vertically blue and yellow, over all a mountain counterchanged with a red sun on its peak and red flags on its slopes.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Monteceneri_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70633",
+    "https://de.wikipedia.org/wiki/Monteceneri",
+    "https://fr.wikipedia.org/wiki/Monteceneri",
+    "https://it.wikipedia.org/wiki/Monteceneri"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "mountain",
+      "color": "yellow",
+      "position": "center",
+      "role": "mount"
+    },
+    {
+      "type": "sun",
+      "color": "red",
+      "position": "center"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "small flags on the mountain"
+    }
+  ]
+}
