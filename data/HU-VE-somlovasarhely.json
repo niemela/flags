@@ -1,0 +1,67 @@
+{
+  "id": "HU-VE-somlovasarhely",
+  "name": "Somlóvásárhely (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-VE",
+  "codes": {
+    "wikidata": "Q507779"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Two equal horizontal stripes of yellow over green with a narrow serrated stripe of red, white and green along the top and bottom edges, charged at the centre with the municipal arms of Somlóvásárhely (a green shield with a yellow patriarchal cross between two towers and a castle wall) above the name SOMLÓVÁSÁRHELY.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Somlóvásárhely.svg",
+    "https://www.wikidata.org/wiki/Q507779",
+    "https://hu.wikipedia.org/wiki/Somlóvásárhely"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "top",
+      "count": 10,
+      "role": "serrated top and bottom edges"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "top",
+      "count": 10,
+      "role": "serrated top and bottom edges"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Somlóvásárhely arms"
+    }
+  ]
+}

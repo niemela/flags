@@ -1,0 +1,65 @@
+{
+  "id": "HU-VE-herend",
+  "name": "Herend (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-VE",
+  "codes": {
+    "wikidata": "Q385982"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "White field with a fly panel of red over green in the ratio 1:1, charged in the hoist with the town arms of Herend (a red and blue shield with a porcelain vase, a bough and a beehive) below the name HEREND in black.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Herend.svg",
+    "https://www.wikidata.org/wiki/Q385982",
+    "https://hu.wikipedia.org/wiki/Herend"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "fly panel"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Herend arms"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "upper-hoist",
+      "role": "inscription HEREND"
+    }
+  ]
+}

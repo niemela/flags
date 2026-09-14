@@ -1,0 +1,58 @@
+{
+  "id": "HU-VE-porva",
+  "name": "Porva (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-VE",
+  "codes": {
+    "wikidata": "Q747982"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a white band into a black upper hoist part and a red lower fly part, charged in the upper hoist with the municipal arms of Porva: a green shield with a white ploughshare, a wavy stripe and a bough.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Porva.svg",
+    "https://www.wikidata.org/wiki/Q747982",
+    "https://hu.wikipedia.org/wiki/Porva"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "black"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "lower-fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "upper-hoist",
+      "role": "Porva arms"
+    }
+  ]
+}

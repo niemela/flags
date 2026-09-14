@@ -1,0 +1,56 @@
+{
+  "id": "HU-VE-papa",
+  "name": "Pápa (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-VE",
+  "codes": {
+    "wikidata": "Q214945"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Two equal horizontal stripes of red over dark blue, charged at the centre with the town arms of Pápa (a blue shield with a figure of a saint, a crescent and a star) above the name PÁPA in yellow.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Pápa.svg",
+    "https://www.wikidata.org/wiki/Q214945",
+    "https://hu.wikipedia.org/wiki/Pápa_(település)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "navy"
+      ],
+      "count": 2
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Pápa arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "inscription PÁPA"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "HU-VE-szentjakabfa",
+  "name": "Szentjakabfa (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-VE",
+  "codes": {
+    "wikidata": "Q598909"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with a serrated stripe of red and blue triangles along the top and bottom edges, charged at the centre with the municipal arms of Szentjakabfa: a blue and red shield with a cross, a bunch of grapes and a scallop shell, between oak boughs, above a scroll inscribed SZENTJAKABFA.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Szentjakabfa.svg",
+    "https://www.wikidata.org/wiki/Q598909",
+    "https://hu.wikipedia.org/wiki/Szentjakabfa"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "top",
+      "count": 12,
+      "role": "serrated top and bottom edges"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "top",
+      "count": 12,
+      "role": "serrated top and bottom edges"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Szentjakabfa arms with boughs and scroll"
+    }
+  ]
+}

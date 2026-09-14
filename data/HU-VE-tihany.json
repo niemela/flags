@@ -1,0 +1,77 @@
+{
+  "id": "HU-VE-tihany",
+  "name": "Tihany (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-VE",
+  "codes": {
+    "wikidata": "Q75732"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "grey"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A hoist panel of seven horizontal stripes alternating red and light grey with four grey fish, and a blue fly charged with a yellow lion holding a sword.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Tihany.svg",
+    "https://www.wikidata.org/wiki/Q75732",
+    "https://hu.wikipedia.org/wiki/Tihany"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "grey",
+        "red",
+        "grey",
+        "red",
+        "grey",
+        "red"
+      ],
+      "count": 7,
+      "position": "hoist",
+      "role": "striped hoist panel"
+    },
+    {
+      "type": "animal-other",
+      "color": "grey",
+      "position": "hoist",
+      "count": 4,
+      "role": "fish"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "blue fly"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "fly",
+      "role": "lion holding a sword"
+    }
+  ]
+}
