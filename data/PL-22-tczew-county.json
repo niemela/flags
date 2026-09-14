@@ -1,0 +1,68 @@
+{
+  "id": "PL-22-tczew-county",
+  "name": "Tczew County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-22",
+  "codes": {
+    "wikidata": "Q1341069"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided vertically into two equal parts: a blue hoist with white wavy stripes from the county arms, and a white fly charged with a red griffin.",
+  "history": "Established by resolution No. IX/46/99 of the county council of 4 November 1999, re-enacted by resolution No. XII/69/11 of 30 August 2011.",
+  "periods": [
+    {
+      "start": "1999-11-04"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_tczewski_flag.svg",
+    "https://www.wikidata.org/wiki/Q1341069",
+    "https://pl.wikipedia.org/wiki/Powiat_tczewski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_pomorskim",
+    "https://www.powiat.tczew.pl/herb-i-flaga-powiatu.html"
+  ],
+  "features": [
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "hoist",
+      "count": 6,
+      "role": "wavy stripes on the blue hoist"
+    },
+    {
+      "type": "solid",
+      "color": "blue",
+      "position": "hoist"
+    },
+    {
+      "type": "solid",
+      "color": "white",
+      "position": "fly"
+    },
+    {
+      "type": "mythical-creature",
+      "color": "red",
+      "position": "fly",
+      "role": "griffin from the county arms"
+    }
+  ]
+}

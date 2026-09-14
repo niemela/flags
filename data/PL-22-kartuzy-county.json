@@ -1,0 +1,61 @@
+{
+  "id": "PL-22-kartuzy-county",
+  "name": "Kartuzy County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-22",
+  "codes": {
+    "wikidata": "Q942452"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field charged at the centre with the emblem of the county arms: a white tower with a black griffin below an arc of seven white stars.",
+  "history": "Established by resolution No. XXXIII/284/2013 of the county council of 12 December 2013.",
+  "periods": [
+    {
+      "start": "2013-12-12"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_kartuski_flag.svg",
+    "https://www.wikidata.org/wiki/Q942452",
+    "https://pl.wikipedia.org/wiki/Powiat_kartuski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_pomorskim",
+    "http://edziennik.gdansk.uw.gov.pl/WDU_G/2013/4717/akt.pdf",
+    "https://kartuzy.info/artykul/powiat-z-nowym-herbem/807792"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "tower from the county arms"
+    },
+    {
+      "type": "star",
+      "count": 7,
+      "points": 5,
+      "color": "white",
+      "position": "top",
+      "arrangement": "arc"
+    }
+  ]
+}

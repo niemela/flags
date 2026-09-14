@@ -1,0 +1,75 @@
+{
+  "id": "PL-22-puck-county",
+  "name": "Puck County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-22",
+  "codes": {
+    "wikidata": "Q219987"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field edged along the top and bottom by narrow black and yellow stripes, charged at the centre with the emblem of the county arms: a yellow sailing ship with a black griffin on the sail.",
+  "history": "Established by resolution No. XIX/100/2000 of the county council of 28 April 2000.",
+  "periods": [
+    {
+      "start": "2000-04-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_pucki_flag.svg",
+    "https://www.wikidata.org/wiki/Q219987",
+    "https://pl.wikipedia.org/wiki/Powiat_pucki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_pomorskim",
+    "https://bip.starostwo.puck.pl/a,14601,starostwo-powiatowe.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "yellow"
+      ],
+      "count": 2,
+      "position": "top",
+      "role": "narrow edge stripes"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "black"
+      ],
+      "count": 2,
+      "position": "bottom",
+      "role": "narrow edge stripes"
+    },
+    {
+      "type": "ship",
+      "color": "yellow",
+      "position": "center",
+      "role": "ship from the county arms"
+    }
+  ]
+}

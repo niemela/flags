@@ -1,0 +1,66 @@
+{
+  "id": "PL-22-sopot",
+  "name": "Sopot (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-22",
+  "codes": {
+    "wikidata": "Q92689"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Two equal horizontal stripes of light blue over yellow, charged at the centre with the emblems of the city arms of Sopot: a white seagull and a white fish.",
+  "history": "Established in 1904.",
+  "periods": [
+    {
+      "start": "1904"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Sopot_flag.svg",
+    "https://www.wikidata.org/wiki/Q92689",
+    "https://pl.wikipedia.org/wiki/Sopot",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_pomorskim",
+    "http://sopot.pttk.pl/wp-content/uploads/2013/12/Historia-Sopockiego-Herbu.pdf",
+    "https://bip.sopot.pl/a,19572,statut-miasta-sopotu.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "position": "center",
+      "role": "seagull from the city arms"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "center",
+      "role": "fish from the city arms"
+    }
+  ]
+}

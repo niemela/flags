@@ -1,0 +1,62 @@
+{
+  "id": "PL-22-kwidzyn-county",
+  "name": "Kwidzyn County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-22",
+  "codes": {
+    "wikidata": "Q1341112"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field charged towards the hoist, between two narrow vertical yellow stripes, with the emblem of the county arms: a yellow eagle.",
+  "history": "Established by resolution No. XXIX/198/2000 of the county council of 27 December 2000.",
+  "periods": [
+    {
+      "start": "2000-12-27"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_kwidzyński_flag.svg",
+    "https://www.wikidata.org/wiki/Q1341112",
+    "https://pl.wikipedia.org/wiki/Powiat_kwidzyński",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_pomorskim",
+    "http://bip.powiatkwidzynski.pl/strony/2511.dhtml"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "yellow"
+      ],
+      "count": 2,
+      "position": "hoist",
+      "role": "two narrow stripes flanking the emblem"
+    },
+    {
+      "type": "eagle",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "eagle from the county arms"
+    }
+  ]
+}

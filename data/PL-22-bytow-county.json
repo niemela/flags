@@ -1,0 +1,71 @@
+{
+  "id": "PL-22-bytow-county",
+  "name": "Bytów County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-22",
+  "codes": {
+    "wikidata": "Q1138169"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Two equal vertical stripes of yellow and blue, charged with the emblems of the county arms: a black griffin with red details on the yellow and two columns of five yellow stars on the blue.",
+  "history": "Established by resolution No. XV/69/2000 of the county council of 30 March 2000.",
+  "periods": [
+    {
+      "start": "2000-03-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_bytowski_flag.svg",
+    "https://www.wikidata.org/wiki/Q1138169",
+    "https://pl.wikipedia.org/wiki/Powiat_bytowski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_pomorskim",
+    "https://bip.powiatbytowski.pl/strony/menu/8.dhtml"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "mythical-creature",
+      "color": "black",
+      "position": "hoist",
+      "role": "griffin from the county arms"
+    },
+    {
+      "type": "star",
+      "count": 10,
+      "points": 6,
+      "color": "yellow",
+      "position": "fly",
+      "arrangement": "grid",
+      "rows": 5
+    }
+  ]
+}
