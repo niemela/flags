@@ -1,0 +1,63 @@
+{
+  "id": "PL-32-koszalin-county",
+  "name": "Koszalin County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-32",
+  "codes": {
+    "wikidata": "Q302851"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:7",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "White field charged at the centre with the emblem of the county arms: a red griffin holding a blue banner with yellow stars.",
+  "history": "Established on 13 June 2001.",
+  "periods": [
+    {
+      "start": "2001-06-13"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_koszaliński_flag.svg",
+    "https://www.wikidata.org/wiki/Q302851",
+    "https://pl.wikipedia.org/wiki/Powiat_koszaliński",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_zachodniopomorskim"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "mythical-creature",
+      "color": "red",
+      "position": "center",
+      "role": "griffin with banner from the county arms"
+    },
+    {
+      "type": "embedded-flag",
+      "color": "blue",
+      "position": "center",
+      "role": "blue banner with yellow stars held by the griffin"
+    }
+  ]
+}

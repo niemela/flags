@@ -1,0 +1,77 @@
+{
+  "id": "PL-32-choszczno-county",
+  "name": "Choszczno County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-32",
+  "codes": {
+    "wikidata": "Q1410659"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Five horizontal stripes of red, yellow, white, yellow and green in the ratio 4:1:10:1:4, charged at the centre with the emblem of the county arms: a red eagle above green oak leaves.",
+  "history": "Established by resolution No. XIII/79/2000 of the county council of 29 June 2000.",
+  "periods": [
+    {
+      "start": "2000-06-29"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_choszczeński_flag.svg",
+    "https://www.wikidata.org/wiki/Q1410659",
+    "https://pl.wikipedia.org/wiki/Powiat_choszczeński",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_zachodniopomorskim"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "white",
+        "yellow",
+        "green"
+      ],
+      "count": 5,
+      "widths": [
+        4,
+        1,
+        10,
+        1,
+        4
+      ]
+    },
+    {
+      "type": "eagle",
+      "color": "red",
+      "position": "center",
+      "role": "eagle from the county arms"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "center",
+      "role": "oak leaves"
+    }
+  ]
+}

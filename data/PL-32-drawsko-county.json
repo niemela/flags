@@ -1,0 +1,65 @@
+{
+  "id": "PL-32-drawsko-county",
+  "name": "Drawsko County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-32",
+  "codes": {
+    "wikidata": "Q1411593"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided into three wedges: a white triangle from the hoist reaching the fly between a light blue upper wedge and a red lower wedge, charged on the white with the county arms of Drawsko: a shield with a white and a red eagle above waves.",
+  "history": "Established 9 July 1999, re-enacted 19 May 2000.",
+  "periods": [
+    {
+      "start": "1999-07-09"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_drawski_flag.svg",
+    "https://www.wikidata.org/wiki/Q1411593",
+    "https://pl.wikipedia.org/wiki/Powiat_drawski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_zachodniopomorskim",
+    "https://www.powiatdrawski.pl/o-powiecie/symbole-powiatu/n,232850,flaga-powiatu-drawskiego.html",
+    "https://www.weksylologia.pl/biuletyn-PTW/Flaga-nr-04-05-lipiec-pazdziernik-1999.pdf"
+  ],
+  "features": [
+    {
+      "type": "pile",
+      "color": "white",
+      "position": "hoist",
+      "field": "light-blue",
+      "direction": "fly",
+      "role": "white triangle from the hoist"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "bottom",
+      "role": "red lower wedge"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Drawsko county arms"
+    }
+  ]
+}
