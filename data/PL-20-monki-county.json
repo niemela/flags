@@ -1,0 +1,70 @@
+{
+  "id": "PL-20-monki-county",
+  "name": "Mońki County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-20",
+  "codes": {
+    "wikidata": "Q615905"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided vertically into two equal parts: a red hoist charged with the emblem of the county arms, a white eagle and a white elk, and a fly of seven equal horizontal stripes, four red and three yellow, for the municipalities of the county.",
+  "history": "Established by resolution No. X/63/11 of the county council of 11 November 2011.",
+  "periods": [
+    {
+      "start": "2011-11-11"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_moniecki_flag.svg",
+    "https://www.wikidata.org/wiki/Q615905",
+    "https://pl.wikipedia.org/wiki/Powiat_moniecki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_podlaskim",
+    "http://bip.st.monki.wrotapodlasia.pl/insygnia_pm/symbole-powiatu-monieckiego.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "eagle",
+      "color": "white",
+      "position": "hoist",
+      "role": "eagle from the county arms"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "hoist",
+      "role": "elk from the county arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 7,
+      "position": "fly"
+    }
+  ]
+}

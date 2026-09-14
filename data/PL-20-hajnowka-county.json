@@ -1,0 +1,69 @@
+{
+  "id": "PL-20-hajnowka-county",
+  "name": "Hajnówka County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-20",
+  "codes": {
+    "wikidata": "Q1126256"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Two horizontal stripes of yellow over green in the ratio 2:1, charged at the centre with the emblem of the county arms: a brown bison between two green spruce trees.",
+  "history": "Established by resolution No. XXXVII/193/02 of the county council of 26 June 2002.",
+  "periods": [
+    {
+      "start": "2002-06-26"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_hajnowski_flag.svg",
+    "https://www.wikidata.org/wiki/Q1126256",
+    "https://pl.wikipedia.org/wiki/Powiat_hajnowski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_podlaskim"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "animal-other",
+      "color": "brown",
+      "position": "center",
+      "role": "bison from the county arms"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "count": 2,
+      "role": "spruce trees"
+    }
+  ]
+}

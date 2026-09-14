@@ -1,0 +1,59 @@
+{
+  "id": "PL-20-grajewo-county",
+  "name": "Grajewo County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-20",
+  "codes": {
+    "wikidata": "Q1125909"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field charged towards the hoist with the emblem of the county arms: a yellow elk with a star.",
+  "history": "Established by resolution No. XXXV/188/13 of the county council of 28 May 2013.",
+  "periods": [
+    {
+      "start": "2013-05-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_grajewski_flag.svg",
+    "https://www.wikidata.org/wiki/Q1125909",
+    "https://pl.wikipedia.org/wiki/Powiat_grajewski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_podlaskim",
+    "https://bip.starostwograjewo.pl/313bffe40275891/2ae498fb473cae9/6a80ff7bc75611f/4b9956ea9732f79/uchw_r_0528_xxxv_188_13.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "elk from the county arms"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "yellow",
+      "position": "hoist"
+    }
+  ]
+}

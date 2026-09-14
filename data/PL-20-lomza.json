@@ -1,0 +1,60 @@
+{
+  "id": "PL-20-lomza",
+  "name": "Łomża (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-20",
+  "codes": {
+    "wikidata": "Q215633"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided into three wedges: a blue triangle from the hoist reaching towards the fly between a yellow upper wedge for the sands of Masovia and a red lower wedge for the city walls, the blue standing for the Narew river.",
+  "history": "Established on 20 December 1995.",
+  "periods": [
+    {
+      "start": "1995-12-20"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flaga_Łomża.svg",
+    "https://www.wikidata.org/wiki/Q215633",
+    "https://pl.wikipedia.org/wiki/Łomża",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_podlaskim",
+    "https://um.lomza.pl/bip/prawo.php?wiad=119",
+    "https://www.weksylologia.pl/biuletyn-PTW/Flaga-nr-16-17-lipiec-pazdziernik-2001.pdf"
+  ],
+  "features": [
+    {
+      "type": "pile",
+      "color": "blue",
+      "position": "hoist",
+      "field": "yellow",
+      "direction": "fly",
+      "role": "blue triangle from the hoist"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "bottom",
+      "role": "red lower wedge"
+    }
+  ]
+}
