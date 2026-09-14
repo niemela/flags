@@ -1,0 +1,78 @@
+{
+  "id": "CZ-31-plavsko",
+  "name": "Plavsko (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-31",
+  "codes": {
+    "wikidata": "Q288849"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field with a blue diagonal band from the lower hoist to the upper fly bearing a yellow rose, with a blue rose in the upper hoist and a red rose in the lower fly.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 18 June 2003 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2003-06-18"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Plavsko.svg",
+    "https://www.wikidata.org/wiki/Q288849",
+    "https://cs.wikipedia.org/wiki/Plavsko"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "flower",
+      "color": "yellow",
+      "position": "center",
+      "role": "rose"
+    },
+    {
+      "type": "flower",
+      "color": "blue",
+      "position": "upper-hoist",
+      "role": "rose"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "lower-fly",
+      "role": "rose"
+    }
+  ]
+}

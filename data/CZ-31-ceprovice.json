@@ -1,0 +1,60 @@
+{
+  "id": "CZ-31-ceprovice",
+  "name": "Čepřovice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-31",
+  "codes": {
+    "wikidata": "Q338719"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with a yellow triangle rising from the bottom edge to the top centre, bordered in green, bearing three red roses arranged one and two.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Čepřovice.svg",
+    "https://www.wikidata.org/wiki/Q338719",
+    "https://cs.wikipedia.org/wiki/%C4%8Cep%C5%99ovice"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "bottom",
+      "fimbriation": {
+        "color": "green"
+      }
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "center",
+      "role": "three roses",
+      "count": 3
+    }
+  ]
+}

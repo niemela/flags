@@ -1,0 +1,61 @@
+{
+  "id": "CZ-31-budislav",
+  "name": "Budislav (Tábor District, Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-31",
+  "codes": {
+    "wikidata": "Q2538334"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Two horizontal stripes of white and blue in the ratio 4:1, with a blue fleur-de-lis between two red flames and three small red squares above.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Budislav_(okres_Tábor).svg",
+    "https://www.wikidata.org/wiki/Q2538334",
+    "https://cs.wikipedia.org/wiki/Budislav_(okres_T%C3%A1bor)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        4,
+        1
+      ]
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "blue",
+      "position": "center"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "two flames and three squares"
+    }
+  ]
+}

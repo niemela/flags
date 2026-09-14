@@ -1,0 +1,86 @@
+{
+  "id": "CZ-31-jickovice",
+  "name": "Jickovice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-31",
+  "codes": {
+    "wikidata": "Q2270850"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with a red triangle at the hoist bearing a white six-pointed star, bordered in yellow, and a green fly divided by a blue horizontal stripe edged in yellow forming a Y shape.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 4 April 2019 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2019-04-04"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Jickovice.svg",
+    "https://www.wikidata.org/wiki/Q2270850",
+    "https://cs.wikipedia.org/wiki/Jickovice"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "pall",
+      "color": "blue",
+      "position": "hoist",
+      "fimbriation": {
+        "color": "yellow"
+      }
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "fimbriation": {
+        "color": "yellow"
+      }
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "blue",
+        "green"
+      ],
+      "count": 3,
+      "position": "fly"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <path d="m0-8.5714e-7h600v200h-600z" fill="#fff"/>
+ <path d="m0 360h600v40h-600z" fill="#008000"/>
+ <path d="m0 320h600v40h-600z" fill="#fff"/>
+ <path d="m0 200h600v120h-600z"/>
+ <path d="m0 240h600v40h-600z" fill="#fc0"/>
+ <g id="g">
+  <path id="b1" d="m300 14.5-11.857 40.25 11.857 40.25 11.857-40.25z" fill="#025"/>
+  <use id="b2" transform="matrix(.5 .86605 -.866 .5 197.27 -232.52)" xlink:href="#b1"/>
+  <use transform="matrix(-1 0 0 1 600 -2.0594e-6)" xlink:href="#b2"/>
+  <g id="c" transform="matrix(.16701 0 0 .16701 249.9 14.5)">
+   <path d="m300 0-45 160 45 80-45 80 45 160z" fill="#2a7fff"/>
+   <path d="m300 0 45 160-45 80 45 80-45 160z" fill="#04a"/>
+  </g>
+  <use id="f" transform="matrix(.5 .86605 -.866 .5 197.27 -232.52)" xlink:href="#c"/>
+  <use transform="matrix(-1 0 0 1 600 -2.0594e-6)" xlink:href="#f"/>
+ </g>
+ <use x="-90" y="30" xlink:href="#g"/>
+ <use x="-150" y="100" xlink:href="#g"/>
+ <use x="90" y="30" xlink:href="#g"/>
+ <use x="150" y="100" xlink:href="#g"/>
+</svg>

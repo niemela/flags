@@ -1,0 +1,59 @@
+{
+  "id": "CZ-31-strakonice",
+  "name": "Strakonice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-31",
+  "codes": {
+    "wikidata": "Q750224"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly into a red upper fly part bearing a white Maltese cross and a yellow lower hoist part bearing a blue arrowhead with red shaft and white fletching.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Strakonice.svg",
+    "https://www.wikidata.org/wiki/Q750224",
+    "https://cs.wikipedia.org/wiki/Strakonice"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "yellow",
+      "direction": "bend"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "upper-fly",
+      "role": "Maltese cross"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "lower-hoist",
+      "role": "arrowhead"
+    }
+  ]
+}

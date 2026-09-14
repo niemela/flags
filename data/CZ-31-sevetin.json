@@ -1,0 +1,67 @@
+{
+  "id": "CZ-31-sevetin",
+  "name": "Ševětín (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-31",
+  "codes": {
+    "wikidata": "Q391492"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into a white upper hoist part bearing a red rose with yellow centre and a blue lower fly part bearing a yellow church tower with black roof.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 29 May 2007 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2007-05-29"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Sevetin_CZ_flag.svg",
+    "https://www.wikidata.org/wiki/Q391492",
+    "https://cs.wikipedia.org/wiki/%C5%A0ev%C4%9Bt%C3%ADn"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "rose"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "lower-fly",
+      "role": "church tower"
+    }
+  ]
+}

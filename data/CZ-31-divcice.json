@@ -1,0 +1,50 @@
+{
+  "id": "CZ-31-divcice",
+  "name": "Dívčice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-31",
+  "codes": {
+    "wikidata": "Q645185"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into a green upper hoist part and a blue lower fly part, with five white fleurs-de-lis arranged two, one and two.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Divcice_CZ_flag.svg",
+    "https://www.wikidata.org/wiki/Q645185",
+    "https://cs.wikipedia.org/wiki/D%C3%ADv%C4%8Dice"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "position": "center",
+      "count": 5
+    }
+  ]
+}

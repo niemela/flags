@@ -1,0 +1,49 @@
+{
+  "id": "CZ-31-sedlec",
+  "name": "Sedlec (České Budějovice District, Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-31",
+  "codes": {
+    "wikidata": "Q1935478"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into a red upper hoist part and a blue lower fly part, with a white fleur-de-lis over the division.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Sedlec_CB_CZ_flag.svg",
+    "https://www.wikidata.org/wiki/Q1935478",
+    "https://cs.wikipedia.org/wiki/Sedlec_(okres_%C4%8Cesk%C3%A9_Bud%C4%9Bjovice)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "position": "center"
+    }
+  ]
+}

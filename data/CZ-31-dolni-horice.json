@@ -1,0 +1,73 @@
+{
+  "id": "CZ-31-dolni-horice",
+  "name": "Dolní Hořice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-31",
+  "codes": {
+    "wikidata": "Q2418456"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Two equal vertical stripes of green and white, the green bearing a black bat on a yellow disc, and the white three red diagonal stripes.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Dolní_Hořice.svg",
+    "https://www.wikidata.org/wiki/Q2418456",
+    "https://cs.wikipedia.org/wiki/Doln%C3%AD_Ho%C5%99ice"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "position": "hoist"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "hoist",
+      "role": "bat"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "fly",
+      "stripes": [
+        "red"
+      ],
+      "count": 3,
+      "direction": "bend-sinister"
+    }
+  ]
+}

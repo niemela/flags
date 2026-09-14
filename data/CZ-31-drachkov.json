@@ -1,0 +1,81 @@
+{
+  "id": "CZ-31-drachkov",
+  "name": "Drachkov (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-31",
+  "codes": {
+    "wikidata": "Q769403"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Two equal vertical stripes of yellow and white, the yellow bearing a blue chevron above a red and white arrow shaft, and the white a red Maltese cross between narrow blue stripes at the top and bottom.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Drachkov.svg",
+    "https://www.wikidata.org/wiki/Q769403",
+    "https://cs.wikipedia.org/wiki/Drachkov"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "chevron",
+      "color": "blue",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "lower-hoist",
+      "role": "arrow shaft"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "fly",
+      "role": "Maltese cross"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "position": "fly",
+      "widths": [
+        1,
+        4,
+        1
+      ]
+    }
+  ]
+}

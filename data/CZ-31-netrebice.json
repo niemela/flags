@@ -1,0 +1,65 @@
+{
+  "id": "CZ-31-netrebice",
+  "name": "Netřebice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-31",
+  "codes": {
+    "wikidata": "Q1717092"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into a white upper hoist part bearing a red rose with yellow centre and a green lower fly part bearing five yellow six-pointed stars.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 6 January 2021 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2021-01-06"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Netřebice_(okres_Český_Krumlov).svg",
+    "https://www.wikidata.org/wiki/Q1717092",
+    "https://cs.wikipedia.org/wiki/Net%C5%99ebice_(okres_%C4%8Cesk%C3%BD_Krumlov)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "rose"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 6,
+      "color": "yellow",
+      "position": "lower-fly"
+    }
+  ]
+}

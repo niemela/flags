@@ -1,0 +1,54 @@
+{
+  "id": "CZ-31-desna",
+  "name": "Dešná (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-31",
+  "codes": {
+    "wikidata": "Q1207470"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into a white upper hoist part bearing a red diagonal stripe and a blue lower fly part.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Desna_(Jindrichuv_Hradec).svg",
+    "https://www.wikidata.org/wiki/Q1207470",
+    "https://cs.wikipedia.org/wiki/De%C5%A1n%C3%A1_(okres_Jind%C5%99ich%C5%AFv_Hradec)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "upper-hoist",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "direction": "bend-sinister"
+    }
+  ]
+}

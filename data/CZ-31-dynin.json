@@ -1,0 +1,81 @@
+{
+  "id": "CZ-31-dynin",
+  "name": "Dynín (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-31",
+  "codes": {
+    "wikidata": "Q1269204"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A hoist half divided per saltire into green top and bottom and yellow hoist and fly bearing a yellow and green fleur-de-lis, and a fly half of a white upper part with a red rose over horizontal stripes of white and blue.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 9 November 2010 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2010-11-09"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Dynín.svg",
+    "https://www.wikidata.org/wiki/Q1269204",
+    "https://cs.wikipedia.org/wiki/Dyn%C3%ADn"
+  ],
+  "features": [
+    {
+      "type": "per-saltire",
+      "hoist": "yellow",
+      "top": "green",
+      "fly": "yellow",
+      "bottom": "green",
+      "position": "hoist"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 6,
+      "position": "fly"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "upper-fly",
+      "role": "rose"
+    }
+  ]
+}

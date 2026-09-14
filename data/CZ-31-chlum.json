@@ -1,0 +1,70 @@
+{
+  "id": "CZ-31-chlum",
+  "name": "Chlum (Strakonice District, Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-31",
+  "codes": {
+    "wikidata": "Q860953"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Four horizontal stripes of blue, white, green and yellow, the yellow wavy and edged in black, with five yellow six-pointed stars in the blue stripe.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Chlum_(Strakonice_District).svg",
+    "https://www.wikidata.org/wiki/Q860953",
+    "https://cs.wikipedia.org/wiki/Chlum_(okres_Strakonice)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "green",
+        "yellow"
+      ],
+      "count": 4
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 6,
+      "color": "yellow",
+      "position": "top"
+    },
+    {
+      "type": "wave",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "wavy stripe",
+      "fimbriation": {
+        "color": "black"
+      }
+    }
+  ]
+}
