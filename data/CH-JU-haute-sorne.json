@@ -1,0 +1,62 @@
+{
+  "id": "CH-JU-haute-sorne",
+  "name": "Haute-Sorne (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-JU",
+  "codes": {
+    "wikidata": "Q5682949"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Haute-Sorne: on green a yellow mill wheel between a white crenellated line in chief and a white wavy bar in base.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Haute-Sorne_Flag.svg",
+    "https://www.wikidata.org/wiki/Q5682949",
+    "https://de.wikipedia.org/wiki/Haute-Sorne",
+    "https://fr.wikipedia.org/wiki/Haute-Sorne",
+    "https://it.wikipedia.org/wiki/Haute-Sorne"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "wheel",
+      "color": "yellow",
+      "position": "center",
+      "role": "mill wheel"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "embattled chief"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "bottom"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "CH-JU-courchapoix",
+  "name": "Courchapoix (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-JU",
+  "codes": {
+    "wikidata": "Q69852"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Courchapoix: divided diagonally by a white bend from the upper hoist, red with a yellow cogwheel and ear of wheat, and black with two crossed yellow keys.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Courchapoix_Flag.svg",
+    "https://www.wikidata.org/wiki/Q69852",
+    "https://de.wikipedia.org/wiki/Courchapoix",
+    "https://fr.wikipedia.org/wiki/Courchapoix",
+    "https://it.wikipedia.org/wiki/Courchapoix"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "black",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "wheel",
+      "color": "yellow",
+      "position": "lower-hoist",
+      "role": "cogwheel with ear of wheat"
+    },
+    {
+      "type": "key",
+      "color": "yellow",
+      "position": "upper-fly",
+      "count": 2,
+      "role": "crossed keys"
+    }
+  ]
+}

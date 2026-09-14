@@ -1,0 +1,71 @@
+{
+  "id": "CH-JU-basse-vendline",
+  "name": "Basse-Vendline (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-JU",
+  "codes": {
+    "wikidata": "Q113535598"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Basse-Vendline: on white a bend of blue and green, between a blue five-pointed star in the upper fly and three red five-pointed stars in the lower hoist.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Basse-Vendline_Flag.svg",
+    "https://www.wikidata.org/wiki/Q113535598",
+    "https://de.wikipedia.org/wiki/Basse-Vendline",
+    "https://fr.wikipedia.org/wiki/Basse-Vendline",
+    "https://it.wikipedia.org/wiki/Basse-Vendline"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "position": "center",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2,
+      "direction": "bend",
+      "role": "bend of blue and green"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "blue",
+      "position": "upper-fly"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "red",
+      "position": "lower-hoist",
+      "arrangement": "triangle"
+    }
+  ]
+}
