@@ -1,0 +1,74 @@
+{
+  "id": "AU-VIC_1877",
+  "name": "Victoria (Australia, 1870–1877)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "AU",
+  "codes": {
+    "wikidata": "Q36687"
+  },
+  "region": [
+    "Oceania",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A British Blue Ensign with the Union Flag in the canton and the five white stars of the Southern Cross in the fly.",
+  "history": "The first flag of the colony of Victoria, introduced on 4 February 1870 for the colonial warship HMVS Nelson: the Blue Ensign with the Southern Cross, the first Australian flag to carry the constellation. The stars were placed on a crowned shield in 1877.",
+  "periods": [
+    {
+      "start": "1870-02-04",
+      "end": "1877-03-25"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Victoria_(1870-1877).svg",
+    "https://www.wikidata.org/wiki/Q36687",
+    "https://en.wikipedia.org/wiki/Flag_of_Victoria_(state)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "features": [
+        {
+          "type": "greek-cross",
+          "color": "red"
+        },
+        {
+          "type": "saltire",
+          "color": "white"
+        },
+        {
+          "type": "saltire",
+          "color": "red"
+        }
+      ],
+      "role": "Union Flag"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "position": "fly",
+      "arrangement": "southern-cross"
+    }
+  ]
+}

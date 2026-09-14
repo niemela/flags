@@ -1,0 +1,72 @@
+{
+  "id": "AU-VIC_1877-11",
+  "name": "Victoria (Australia, 1877)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "AU",
+  "codes": {
+    "wikidata": "Q36687"
+  },
+  "region": [
+    "Oceania",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A British Blue Ensign with the Union Flag in the canton and a white disc in the fly bearing a crowned blue shield with the Southern Cross.",
+  "history": "Short-lived version of the Victorian Blue Ensign used from March 1877, with the Southern Cross on a crowned shield within a white disc. In November 1877 the disc was dropped and the crown placed directly above the stars, the pattern of the present flag.",
+  "periods": [
+    {
+      "start": "1877-03-26",
+      "end": "1877-11-29"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Victoria_(1877).svg",
+    "https://www.wikidata.org/wiki/Q36687",
+    "https://en.wikipedia.org/wiki/Flag_of_Victoria_(state)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "features": [
+        {
+          "type": "greek-cross",
+          "color": "red"
+        },
+        {
+          "type": "saltire",
+          "color": "white"
+        },
+        {
+          "type": "saltire",
+          "color": "red"
+        }
+      ],
+      "role": "Union Flag"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "fly",
+      "role": "crowned shield with the Southern Cross"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "US-MS_1865",
+  "name": "Mississippi (Magnolia Flag, 1861–1865)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US",
+  "codes": {
+    "wikidata": "Q1494"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A white field edged in red along the top, fly and bottom, with a navy canton bearing a white five-pointed star and a green magnolia tree in the centre.",
+  "history": "The 'Magnolia Flag' adopted by the Mississippi secession convention in January 1861, combining the Bonnie Blue Flag of secession in the canton with the state's magnolia tree. It was the state flag through the Civil War and fell out of use in 1865; the state was formally without a flag until 1894.",
+  "periods": [
+    {
+      "start": "1861-01-26",
+      "end": "1865"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Mississippi_(1861-1865).svg",
+    "https://www.wikidata.org/wiki/Q1494",
+    "https://en.wikipedia.org/wiki/Flag_of_Mississippi"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "border",
+      "color": "red",
+      "role": "red edging on three sides"
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "features": [
+        {
+          "type": "star",
+          "count": 1,
+          "points": 5,
+          "color": "white",
+          "position": "center"
+        }
+      ],
+      "role": "Bonnie Blue canton"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "role": "magnolia tree"
+    }
+  ]
+}

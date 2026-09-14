@@ -1,0 +1,73 @@
+{
+  "id": "HK_1910",
+  "name": "Hong Kong (British, 1876–1910)",
+  "type": [
+    "historical",
+    "subdivision"
+  ],
+  "parent": "GB",
+  "codes": {
+    "wikidata": "Q1054923"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A British Blue Ensign with the Union Flag in the canton and a disc in the fly bearing a harbour scene with a sailing ship and junk.",
+  "history": "Blue Ensign with the 'local scene' badge of Hong Kong, a view of the harbour with a merchant ship and a junk, introduced in 1876; versions of the harbour badge were used, with redrawings, until the arms of 1959 replaced it.",
+  "periods": [
+    {
+      "start": "1876",
+      "end": "1910"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hong_Kong_(1876–1955).svg",
+    "https://www.wikidata.org/wiki/Q1054923"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "features": [
+        {
+          "type": "greek-cross",
+          "color": "red"
+        },
+        {
+          "type": "saltire",
+          "color": "white"
+        },
+        {
+          "type": "saltire",
+          "color": "red"
+        }
+      ],
+      "role": "Union Flag"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "fly",
+      "role": "badge with harbour scene"
+    }
+  ]
+}

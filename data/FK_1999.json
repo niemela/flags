@@ -1,0 +1,77 @@
+{
+  "id": "FK_1999",
+  "name": "Falkland Islands (1948–1999)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "GB",
+  "codes": {
+    "wikidata": "Q9648"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A British Blue Ensign with the Union Flag in the canton and the coat of arms of the Falkland Islands, a ram above the ship Desire with the motto 'Desire the Right', on a white disc in the fly.",
+  "history": "Blue Ensign with the coat of arms granted to the Falkland Islands on 29 September 1948 shown on a white disc. On 25 January 1999 the disc was removed and the arms placed directly on the blue field, producing the present flag.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1948",
+      "end": "1999-01-25"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_the_Falkland_Islands_(1948–1999).svg",
+    "https://www.wikidata.org/wiki/Q9648",
+    "https://en.wikipedia.org/wiki/Flag_of_the_Falkland_Islands"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "features": [
+        {
+          "type": "greek-cross",
+          "color": "red"
+        },
+        {
+          "type": "saltire",
+          "color": "white"
+        },
+        {
+          "type": "saltire",
+          "color": "red"
+        }
+      ],
+      "role": "Union Flag"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "fly",
+      "role": "coat of arms on a disc"
+    }
+  ]
+}

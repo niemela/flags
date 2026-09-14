@@ -1,0 +1,76 @@
+{
+  "id": "GD_1967",
+  "name": "Grenada (colony, 1903–1967)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q769"
+  },
+  "region": [
+    "Americas",
+    "Latin America",
+    "Caribbean",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "A British Blue Ensign with the Union Flag in the canton and the colonial badge of Grenada, a sailing ship on a pale blue sea, on a disc in the fly.",
+  "history": "Blue Ensign defaced with the badge of the colony of Grenada, a sailing ship, used from 1903 until Grenada became an Associated State of the United Kingdom on 3 March 1967.",
+  "periods": [
+    {
+      "start": "1903",
+      "end": "1967-03-03"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Grenada_(1903–1967).svg",
+    "https://www.wikidata.org/wiki/Q769",
+    "https://en.wikipedia.org/wiki/Flag_of_Grenada"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "features": [
+        {
+          "type": "greek-cross",
+          "color": "red"
+        },
+        {
+          "type": "saltire",
+          "color": "white"
+        },
+        {
+          "type": "saltire",
+          "color": "red"
+        }
+      ],
+      "role": "Union Flag"
+    },
+    {
+      "type": "disc",
+      "color": "light-blue",
+      "position": "fly",
+      "role": "colonial badge with a sailing ship"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "FK_1948",
+  "name": "Falkland Islands (1925–1948)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "GB",
+  "codes": {
+    "wikidata": "Q9648"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A British Blue Ensign with the Union Flag in the canton and the colonial badge of the Falkland Islands, a shield with a sailing ship and a sea lion beneath the motto 'Desire the Right', in the fly.",
+  "history": "Blue Ensign of the Falkland Islands with the badge granted in 1925, showing the ship Desire, in which John Davis sighted the islands in 1592, and a sea lion. It was replaced in 1948 when the colony's coat of arms was placed on a white disc.",
+  "variant": [
+    "civil",
+    "state"
+  ],
+  "periods": [
+    {
+      "start": "1925",
+      "end": "1948"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_the_Falkland_Islands_(1925–1948).svg",
+    "https://www.wikidata.org/wiki/Q9648",
+    "https://en.wikipedia.org/wiki/Flag_of_the_Falkland_Islands"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "features": [
+        {
+          "type": "greek-cross",
+          "color": "red"
+        },
+        {
+          "type": "saltire",
+          "color": "white"
+        },
+        {
+          "type": "saltire",
+          "color": "red"
+        }
+      ],
+      "role": "Union Flag"
+    },
+    {
+      "type": "shield",
+      "color": "white",
+      "position": "fly",
+      "role": "colonial badge with ship and sea lion"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "HK_1876",
+  "name": "Hong Kong (British, 1871–1876)",
+  "type": [
+    "historical",
+    "subdivision"
+  ],
+  "parent": "GB",
+  "codes": {
+    "wikidata": "Q1054923"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A British Blue Ensign with the Union Flag in the canton and a white disc in the fly bearing the crowned letters 'H.K.' in black.",
+  "history": "The first distinctive flag of the colony of Hong Kong, a Blue Ensign with the colony's initials under a crown, introduced in 1871 and replaced in 1876 by a badge showing a harbour scene.",
+  "periods": [
+    {
+      "start": "1871",
+      "end": "1876"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hong_Kong_(1871–1876).svg",
+    "https://www.wikidata.org/wiki/Q1054923"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "features": [
+        {
+          "type": "greek-cross",
+          "color": "red"
+        },
+        {
+          "type": "saltire",
+          "color": "white"
+        },
+        {
+          "type": "saltire",
+          "color": "red"
+        }
+      ],
+      "role": "Union Flag"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "fly",
+      "role": "badge with crowned initials H.K."
+    }
+  ]
+}

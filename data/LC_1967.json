@@ -1,0 +1,76 @@
+{
+  "id": "LC_1967",
+  "name": "Saint Lucia (colony, 1939–1967)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q760"
+  },
+  "region": [
+    "Americas",
+    "Latin America",
+    "Caribbean",
+    "Commonwealth",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A British Blue Ensign with the Union Flag in the canton and the colonial arms of Saint Lucia of 1939, a black shield with two Tudor roses and two fleurs-de-lis around a bamboo cross, in the fly.",
+  "history": "Blue Ensign defaced with the arms granted to the colony of Saint Lucia in August 1939, whose roses and fleurs-de-lis recall the island's English and French past. It was replaced on 1 March 1967, when Saint Lucia became an Associated State, by the present flag designed by Dunstan St Omer.",
+  "periods": [
+    {
+      "start": "1939-08",
+      "end": "1967-03-01"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Saint_Lucia_(1939–1967).svg",
+    "https://www.wikidata.org/wiki/Q760",
+    "https://en.wikipedia.org/wiki/Flag_of_Saint_Lucia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "features": [
+        {
+          "type": "greek-cross",
+          "color": "red"
+        },
+        {
+          "type": "saltire",
+          "color": "white"
+        },
+        {
+          "type": "saltire",
+          "color": "red"
+        }
+      ],
+      "role": "Union Flag"
+    },
+    {
+      "type": "shield",
+      "color": "black",
+      "position": "fly",
+      "role": "colonial arms of 1939"
+    }
+  ]
+}

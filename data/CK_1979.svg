@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200px" height="600px" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect fill="#005A00" width="1200" height="600"/>
+<g id="star" transform="translate(900,80) scale(40)">
+ <g id="10">
+ <polygon id="3" fill="gold" points="0,0 0,1 .5,1" transform="translate(0,-1) rotate(18)"/>
+ <use xlink:href="#3" transform="scale(-1,1)"/>
+ </g>
+ <use xlink:href="#10" transform="rotate(72)"/>
+ <use xlink:href="#10" transform="rotate(-72)"/>
+ <use xlink:href="#10" transform="rotate(144)"/>
+ <use xlink:href="#10" transform="rotate(-144)"/>
+ </g>
+<use transform="rotate(24, 900, 300)" xlink:href="#star"/>
+<use transform="rotate(48, 900, 300)" xlink:href="#star"/>
+<use transform="rotate(72, 900, 300)" xlink:href="#star"/>
+<use transform="rotate(96, 900, 300)" xlink:href="#star"/>
+<use transform="rotate(120, 900, 300)" xlink:href="#star"/>
+<use transform="rotate(144, 900, 300)" xlink:href="#star"/>
+<use transform="rotate(168, 900, 300)" xlink:href="#star"/>
+<use transform="rotate(192, 900, 300)" xlink:href="#star"/>
+<use transform="rotate(216, 900, 300)" xlink:href="#star"/>
+<use transform="rotate(240, 900, 300)" xlink:href="#star"/>
+<use transform="rotate(264, 900, 300)" xlink:href="#star"/>
+<use transform="rotate(288, 900, 300)" xlink:href="#star"/>
+<use transform="rotate(312, 900, 300)" xlink:href="#star"/>
+<use transform="rotate(336, 900, 300)" xlink:href="#star"/>
+</svg>
