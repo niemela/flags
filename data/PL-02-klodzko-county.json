@@ -1,0 +1,55 @@
+{
+  "id": "PL-02-klodzko-county",
+  "name": "Kłodzko County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-02",
+  "codes": {
+    "wikidata": "Q637351"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Five diagonal stripes rising from the lower hoist to the upper fly, three red and two yellow, the colours of the Kłodzko arms.",
+  "history": "Established by resolution No. XIII/125/2000 of the county council of 26 April 2000.",
+  "periods": [
+    {
+      "start": "2000-04-26"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_kłodzki_flag.svg",
+    "https://www.wikidata.org/wiki/Q637351",
+    "https://pl.wikipedia.org/wiki/Powiat_kłodzki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_dolnośląskim",
+    "https://prawomiejscowe.pl/StarostwoPowiatowewKlodzku/document/2720/Uchwala-XIII_125_2000"
+  ],
+  "features": [
+    {
+      "type": "diagonal-stripes",
+      "position": "center",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 5,
+      "direction": "bend"
+    }
+  ]
+}

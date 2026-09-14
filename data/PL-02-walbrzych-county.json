@@ -1,0 +1,64 @@
+{
+  "id": "PL-02-walbrzych-county",
+  "name": "Wałbrzych County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-02",
+  "codes": {
+    "wikidata": "Q280091"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Two equal vertical stripes of yellow and green, charged at the centre with the emblem of the county arms: a black Silesian eagle and a yellow oak branch.",
+  "history": "Established by resolution No. XVI/8/2000 of the county council of 31 January 2000.",
+  "periods": [
+    {
+      "start": "2000-01-31"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_wałbrzyski_flag.svg",
+    "https://www.wikidata.org/wiki/Q280091",
+    "https://pl.wikipedia.org/wiki/Powiat_wałbrzyski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_dolnośląskim"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "eagle",
+      "color": "black",
+      "position": "center",
+      "role": "Silesian eagle from the county arms"
+    },
+    {
+      "type": "leaf",
+      "color": "yellow",
+      "position": "center",
+      "role": "oak branch from the county arms"
+    }
+  ]
+}

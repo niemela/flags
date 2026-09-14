@@ -1,0 +1,76 @@
+{
+  "id": "PL-02-zlotoryja-county",
+  "name": "Złotoryja County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-02",
+  "codes": {
+    "wikidata": "Q716173"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided vertically into two equal parts: a yellow hoist charged with the black Silesian eagle, and a red-and-white chequy fly charged with black crossed mining hammers.",
+  "history": "Established by resolution No. XIV/68/2003 of the county council of 26 September 2003.",
+  "periods": [
+    {
+      "start": "2003-09-26"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_złotoryjski_flag.svg",
+    "https://www.wikidata.org/wiki/Q716173",
+    "https://pl.wikipedia.org/wiki/Powiat_złotoryjski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_dolnośląskim",
+    "http://oi.uwoj.wroc.pl/dzienniki/Dzienniki2003/211/3011/3011.html",
+    "http://www.tmzz.pl/?page-id=1409"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "eagle",
+      "color": "black",
+      "position": "hoist",
+      "role": "Silesian eagle"
+    },
+    {
+      "type": "chequy",
+      "field": "red",
+      "chequy": "white",
+      "position": "fly",
+      "role": "red-and-white chequy"
+    },
+    {
+      "type": "tool",
+      "color": "black",
+      "position": "fly",
+      "role": "crossed mining hammers"
+    }
+  ]
+}

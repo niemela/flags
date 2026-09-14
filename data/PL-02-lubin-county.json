@@ -1,0 +1,67 @@
+{
+  "id": "PL-02-lubin-county",
+  "name": "Lubin County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-02",
+  "codes": {
+    "wikidata": "Q687839"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Three equal vertical stripes of black, white and red, charged at the centre with the emblem of the county arms: a red cross above a black crescent bearing a black cross.",
+  "history": "Established by resolution No. XXIV/150/2004 of the county council of 27 May 2004.",
+  "periods": [
+    {
+      "start": "2004-05-27"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_lubiński_flag.svg",
+    "https://www.wikidata.org/wiki/Q687839",
+    "https://pl.wikipedia.org/wiki/Powiat_lubiński",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_dolnośląskim",
+    "https://www.prawomiejscowe.pl/StarostwoPowiatowewLubinie/document/512963/Uchwa%C5%82a-XLIX-353-2018",
+    "http://oi.uwoj.wroc.pl/dzienniki/Dzienniki2004/DzU230.html"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "cross of the county arms"
+    },
+    {
+      "type": "crescent",
+      "color": "black",
+      "position": "center",
+      "role": "crescent with black cross from the county arms"
+    }
+  ]
+}
