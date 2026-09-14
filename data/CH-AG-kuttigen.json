@@ -1,0 +1,51 @@
+{
+  "id": "CH-AG-kuttigen",
+  "name": "Küttigen (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-AG",
+  "codes": {
+    "wikidata": "Q65007"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Küttigen: divided diagonally from the upper hoist, black with a white bend sinister above and yellow below.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Küttigen_Flag.svg",
+    "https://www.wikidata.org/wiki/Q65007",
+    "https://de.wikipedia.org/wiki/Küttigen",
+    "https://fr.wikipedia.org/wiki/Küttigen",
+    "https://it.wikipedia.org/wiki/Küttigen"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "black",
+      "bend": "yellow",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "upper-fly",
+      "count": 1,
+      "direction": "bend-sinister"
+    }
+  ]
+}

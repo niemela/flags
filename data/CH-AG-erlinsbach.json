@@ -1,0 +1,67 @@
+{
+  "id": "CH-AG-erlinsbach",
+  "name": "Erlinsbach, Aargau (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-AG",
+  "codes": {
+    "wikidata": "Q65415"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Erlinsbach: divided by a white wavy bend into yellow with a black bend sinister and blue with a white five-pointed star.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Erlinsbach_AG_Flag.svg",
+    "https://www.wikidata.org/wiki/Q65415",
+    "https://de.wikipedia.org/wiki/Erlinsbach_AG",
+    "https://fr.wikipedia.org/wiki/Erlinsbach_(Argovie)",
+    "https://it.wikipedia.org/wiki/Erlinsbach_(Argovia)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "blue",
+      "direction": "bend"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "center",
+      "role": "wavy diagonal river"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "black",
+      "position": "upper-fly",
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "lower-hoist"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "CH-AG-zeihen",
+  "name": "Zeihen (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-AG",
+  "codes": {
+    "wikidata": "Q66657"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Zeihen: on green a pale chequy of black and yellow in twelve panels, between two yellow ears of wheat.",
+  "history": "The arms were introduced in 1955; the flag is the square banner of the arms.",
+  "periods": [
+    {
+      "start": "1955"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Zeihen_Flag.svg",
+    "https://www.wikidata.org/wiki/Q66657",
+    "https://de.wikipedia.org/wiki/Zeihen",
+    "https://fr.wikipedia.org/wiki/Zeihen",
+    "https://it.wikipedia.org/wiki/Zeihen"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "chequy",
+      "field": "black",
+      "chequy": "yellow",
+      "position": "center",
+      "columns": 2,
+      "rows": 6,
+      "role": "chequy pale"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "ears of wheat"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "CH-AG-monthal",
+  "name": "Mönthal (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-AG",
+  "codes": {
+    "wikidata": "Q66817"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Mönthal: on blue three yellow piles rising from the base, surmounted by three yellow six-pointed stars.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Mönthal_Flag.svg",
+    "https://www.wikidata.org/wiki/Q66817",
+    "https://de.wikipedia.org/wiki/Mönthal",
+    "https://fr.wikipedia.org/wiki/Mönthal",
+    "https://it.wikipedia.org/wiki/Mönthal"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "bottom",
+      "count": 3,
+      "role": "three piles from the base"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 6,
+      "color": "yellow",
+      "position": "top",
+      "arrangement": "row"
+    }
+  ]
+}

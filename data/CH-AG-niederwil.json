@@ -1,0 +1,71 @@
+{
+  "id": "CH-AG-niederwil",
+  "name": "Niederwil (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-AG",
+  "codes": {
+    "wikidata": "Q65660"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square banner of the arms of Niederwil: divided by a red-and-white chequy bar into red with two white bends above and green with a white wavy river below.",
+  "history": "The present arms were introduced in 1953; the flag is the square banner of the arms.",
+  "periods": [
+    {
+      "start": "1953"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Niederwil_AG_Flag.svg",
+    "https://www.wikidata.org/wiki/Q65660",
+    "https://de.wikipedia.org/wiki/Niederwil_AG",
+    "https://fr.wikipedia.org/wiki/Niederwil_(Argovie)",
+    "https://it.wikipedia.org/wiki/Niederwil"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "chequy",
+      "field": "red",
+      "chequy": "white",
+      "position": "center",
+      "rows": 2,
+      "role": "chequy bar"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "top",
+      "count": 2,
+      "direction": "bend"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "bottom"
+    }
+  ]
+}

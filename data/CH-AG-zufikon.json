@@ -1,0 +1,74 @@
+{
+  "id": "CH-AG-zufikon",
+  "name": "Zufikon (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-AG",
+  "codes": {
+    "wikidata": "Q64221"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Square banner of the arms of Zufikon: a white field with a red chief and a black pale, between two inverted blue keys with their bits turned inward.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Zufikon_Flag.svg",
+    "https://www.wikidata.org/wiki/Q64221",
+    "https://de.wikipedia.org/wiki/Zufikon",
+    "https://fr.wikipedia.org/wiki/Zufikon",
+    "https://it.wikipedia.org/wiki/Zufikon"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        4
+      ],
+      "role": "red chief"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "black pale"
+    },
+    {
+      "type": "key",
+      "color": "blue",
+      "position": "center",
+      "count": 2,
+      "role": "inverted keys"
+    }
+  ]
+}
