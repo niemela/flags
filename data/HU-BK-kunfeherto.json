@@ -1,0 +1,54 @@
+{
+  "id": "HU-BK-kunfeherto",
+  "name": "Kunfehértó (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-BK",
+  "codes": {
+    "wikidata": "Q933764"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into a blue upper hoist part and a yellow lower fly part, charged at the centre with the municipal arms of Kunfehértó (a shield of yellow and blue with reeds, a bunch of grapes and a tree) above the name KUNFEHÉRTÓ in black.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Kunfehértó.svg",
+    "https://www.wikidata.org/wiki/Q933764",
+    "https://hu.wikipedia.org/wiki/Kunfehértó"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "yellow",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Kunfehértó arms"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "lower-hoist",
+      "role": "inscription KUNFEHÉRTÓ"
+    }
+  ]
+}

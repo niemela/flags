@@ -1,0 +1,59 @@
+{
+  "id": "HU-BK-petofiszallas",
+  "name": "Petőfiszállás (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-BK",
+  "codes": {
+    "wikidata": "Q303787"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A vertical white banner with a narrow yellow stripe along each side edge, charged near the top with the municipal arms of Petőfiszállás (a quartered shield of red and blue with a helm and red and blue mantling) above the name PETŐFISZÁLLÁS in yellow.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Petőfiszállás.svg",
+    "https://www.wikidata.org/wiki/Q303787",
+    "https://hu.wikipedia.org/wiki/Petőfiszállás"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "white",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        6,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "top",
+      "role": "Petőfiszállás arms with helm and mantling"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "inscription PETŐFISZÁLLÁS"
+    }
+  ]
+}

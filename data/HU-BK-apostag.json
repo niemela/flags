@@ -1,0 +1,57 @@
+{
+  "id": "HU-BK-apostag",
+  "name": "Apostag (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-BK",
+  "codes": {
+    "wikidata": "Q516344"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field with a narrow light blue border set in from the edge, charged at the centre with the municipal arms of Apostag (a yellow cartouche with a church and a red-roofed building) above the words APOSTAG KÖZSÉG in green.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Apostag.svg",
+    "https://www.wikidata.org/wiki/Q516344",
+    "https://hu.wikipedia.org/wiki/Apostag"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "border",
+      "color": "light-blue",
+      "role": "thin inset border"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Apostag arms"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "bottom",
+      "role": "inscription APOSTAG KÖZSÉG"
+    }
+  ]
+}

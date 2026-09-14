@@ -1,0 +1,58 @@
+{
+  "id": "HU-BK-ujtelek",
+  "name": "Újtelek (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-BK",
+  "codes": {
+    "wikidata": "Q586618"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Blue field with a red diagonal band from the lower hoist to the upper fly and a green triangle in the lower fly, charged at the centre with the municipal arms of Újtelek: a crowned blue shield with a white church and the years 1586 and 1991.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Újtelek.svg",
+    "https://www.wikidata.org/wiki/Q586618",
+    "https://hu.wikipedia.org/wiki/Újtelek_(Magyarország)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "lower-fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Újtelek arms with crown"
+    }
+  ]
+}

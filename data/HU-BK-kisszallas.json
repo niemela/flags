@@ -1,0 +1,63 @@
+{
+  "id": "HU-BK-kisszallas",
+  "name": "Kisszállás (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-BK",
+  "codes": {
+    "wikidata": "Q589975"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue over green with a yellow triangle at the hoist extending as a narrow yellow stripe along the centre to the fly, charged in the triangle with the municipal arms of Kisszállás (a blue shield with a white lamb and a green base, with a helm and mantling).",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Kisszállás.svg",
+    "https://www.wikidata.org/wiki/Q589975",
+    "https://hu.wikipedia.org/wiki/Kisszállás"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "center"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Kisszállás arms with helm and mantling"
+    }
+  ]
+}

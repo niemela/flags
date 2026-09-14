@@ -1,0 +1,63 @@
+{
+  "id": "HU-BK-dunaegyhaza",
+  "name": "Dunaegyháza (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-BK",
+  "codes": {
+    "wikidata": "Q608227"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with a red diagonal band from the upper hoist to the lower fly, with yellow wavy stripes in the lower hoist and a white Luther rose in the upper fly.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Dunaegyháza.svg",
+    "https://www.wikidata.org/wiki/Q608227",
+    "https://hu.wikipedia.org/wiki/Dunaegyháza"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "wave",
+      "color": "yellow",
+      "position": "lower-hoist",
+      "count": 3
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "upper-fly",
+      "role": "Luther rose"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "HU-BK-dunapataj",
+  "name": "Dunapataj (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-BK",
+  "codes": {
+    "wikidata": "Q911434"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "5:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A vertical white banner with a serrated stripe of red and green triangles along each side edge, charged near the top with the municipal arms of Dunapataj (a blue shield with a yellow branch) above the name Dunapataj in black.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Dunapataj.svg",
+    "https://www.wikidata.org/wiki/Q911434",
+    "https://hu.wikipedia.org/wiki/Dunapataj"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "count": 8,
+      "role": "serrated side stripes"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "hoist",
+      "count": 8,
+      "role": "serrated side stripes"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "top",
+      "role": "Dunapataj arms"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "inscription Dunapataj"
+    }
+  ]
+}
