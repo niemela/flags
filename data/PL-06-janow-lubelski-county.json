@@ -1,0 +1,75 @@
+{
+  "id": "PL-06-janow-lubelski-county",
+  "name": "Janów Lubelski County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q654050"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "shape": "complex",
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A gonfalon-style flag: a green rectangular hoist panel charged with the emblem of the county arms, a white stag's head above crossed cannon barrels, and a rounded fly tail of seven equal horizontal stripes, four white and three yellow, standing for the county's municipalities.",
+  "history": "Established by resolution No. XIX/149/04 of the county council of 3 December 2004.",
+  "periods": [
+    {
+      "start": "2004-12-03"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_janowski_flag.svg",
+    "https://www.wikidata.org/wiki/Q654050",
+    "https://pl.wikipedia.org/wiki/Powiat_janowski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_lubelskim",
+    "https://powiatjanowski.pl/symbole-powiatu/",
+    "https://spjanowlubelski.bip.lubelskie.pl/index.php?id=516&p1=szczegoly&p2=140088"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green",
+      "position": "hoist",
+      "role": "hoist panel"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "hoist",
+      "role": "stag's head from the county arms"
+    },
+    {
+      "type": "tool",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "crossed cannon barrels"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "yellow"
+      ],
+      "count": 7,
+      "position": "fly",
+      "role": "rounded tail of seven stripes"
+    }
+  ]
+}

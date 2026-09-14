@@ -1,0 +1,69 @@
+{
+  "id": "PL-06-radzyn-county",
+  "name": "Radzyń County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q913458"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "shape": "complex",
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A gonfalon-style flag: a red rectangular hoist panel charged with the emblem of the county arms, a white bear with a yellow crown and a patriarchal cross, and a rounded fly tail of eight equal horizontal stripes alternating white and yellow.",
+  "history": "Established by resolution No. XX/174/2005 of the county council of 21 April 2005.",
+  "periods": [
+    {
+      "start": "2005-04-21"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_radzyński_flag.svg",
+    "https://www.wikidata.org/wiki/Q913458",
+    "https://pl.wikipedia.org/wiki/Powiat_radzyński",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_lubelskim",
+    "https://powiatradzynski.pl/powiat-radzynski/insygnia-powiatu",
+    "https://kochamradzyn.pl/poznajcie/308-insygnia-powiatu-radzynskiego.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "position": "hoist",
+      "role": "hoist panel"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "hoist",
+      "role": "crowned bear with cross from the county arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "yellow"
+      ],
+      "count": 8,
+      "position": "fly",
+      "role": "rounded tail of eight stripes"
+    }
+  ]
+}

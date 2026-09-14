@@ -1,0 +1,62 @@
+{
+  "id": "PL-06-chelm-county",
+  "name": "Chełm County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q911203"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Green field charged at the centre with the emblem of the county arms: a white bear walking between three yellow oak trees.",
+  "history": "Established by resolution No. XVIII/140/09 of the county council of 24 April 2009.",
+  "periods": [
+    {
+      "start": "2009-04-24"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_chełmski_flag.svg",
+    "https://www.wikidata.org/wiki/Q911203",
+    "https://pl.wikipedia.org/wiki/Powiat_chełmski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_lubelskim",
+    "https://spchelm.bip.lubelskie.pl/index.php?id=59&p1=szczegoly&p2=347729"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "center",
+      "role": "bear from the county arms"
+    },
+    {
+      "type": "tree",
+      "color": "yellow",
+      "position": "center",
+      "count": 3,
+      "role": "three oak trees"
+    }
+  ]
+}

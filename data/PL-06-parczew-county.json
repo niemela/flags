@@ -1,0 +1,76 @@
+{
+  "id": "PL-06-parczew-county",
+  "name": "Parczew County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q913021"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided vertically into two equal parts: a red hoist charged with the emblem of the county arms, a white and a yellow stag's head, and a fly of seven equal horizontal stripes, four red, two white and one yellow, for the municipalities of the county.",
+  "history": "Established by resolution No. V/33/2024 of the county council of 30 August 2024, replacing the flag of 2000; designed by Kamil Wójcikowski and Robert Fidura.",
+  "periods": [
+    {
+      "start": "2024-08-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_parczewski_flag.svg",
+    "https://www.wikidata.org/wiki/Q913021",
+    "https://pl.wikipedia.org/wiki/Powiat_parczewski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_lubelskim",
+    "https://powiat.parczew.pl/index.php?c=page&id=113&v=1657468781",
+    "https://spparczew.bip.lubelskie.pl/index.php?id=82&id_dokumentu=1324367&akcja=szczegoly&p2=1324367"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "hoist",
+      "role": "white stag's head from the county arms"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "yellow stag's head from the county arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "yellow",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 7,
+      "position": "fly"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "PL-06-zamosc",
+  "name": "Zamość (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q145972"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly into a red upper part and a yellow lower part, charged in the upper hoist with the yellow Jelita arms, the arms of the city founder Jan Zamoyski.",
+  "history": "Established by resolution No. XVIII/121/95 of the city council of 28 August 1995.",
+  "periods": [
+    {
+      "start": "1995-08-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Zamość_flag.svg",
+    "https://www.wikidata.org/wiki/Q145972",
+    "https://pl.wikipedia.org/wiki/Zamość",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_lubelskim",
+    "https://zyciezamoscia.pl/reportaze/25-lat-flagi-miejskiej-zamoscia/",
+    "https://radio.lublin.pl/2020/09/flaga-zamoscia-ma-juz-25-lat/"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "yellow",
+      "direction": "bend"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "Jelita arms: three crossed spears"
+    }
+  ]
+}

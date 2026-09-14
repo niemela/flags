@@ -1,0 +1,64 @@
+{
+  "id": "PL-06-bilgoraj-county",
+  "name": "Biłgoraj County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q910918"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Three horizontal stripes of red, white and yellow in the ratio 1:2:1, charged at the centre with the county arms of Biłgoraj: a red shield with a white eagle above a bar.",
+  "history": "Established by resolution No. XXV/101/2000 of the county council of 27 June 2000.",
+  "periods": [
+    {
+      "start": "2000-06-27"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_biłgorajski_flag.svg",
+    "https://www.wikidata.org/wiki/Q910918",
+    "https://pl.wikipedia.org/wiki/Powiat_biłgorajski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_lubelskim",
+    "https://spbilgoraj.bip.lubelskie.pl/index.php?id=672&p1=szczegoly&p2=315936"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Biłgoraj county arms"
+    }
+  ]
+}

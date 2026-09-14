@@ -1,0 +1,61 @@
+{
+  "id": "PL-06-swidnik-county",
+  "name": "Świdnik County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q915920"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three horizontal stripes of red, white and red in the ratio 1:2:1, charged at the centre with the county arms of Świdnik: a red shield with a white stag's head between wings.",
+  "history": "Established by resolution No. XV/78/99 of the county council of 21 December 1999.",
+  "periods": [
+    {
+      "start": "1999-12-21"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_świdnicki_(lubelski)_flag.svg",
+    "https://www.wikidata.org/wiki/Q915920",
+    "https://pl.wikipedia.org/wiki/Powiat_świdnicki_(województwo_lubelskie)",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_lubelskim",
+    "https://www.powiatswidnik.pl/powiat/symbole-powiatu"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Świdnik county arms"
+    }
+  ]
+}

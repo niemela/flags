@@ -1,0 +1,74 @@
+{
+  "id": "PL-06-lublin-county",
+  "name": "Lublin County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q912777"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "shape": "complex",
+  "aspect_ratio": "4:9",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A square red hoist panel charged with the emblem of the county arms, a white stag's head with a yellow crown, and a fly tail cut diagonally, of sixteen equal horizontal stripes alternating white and yellow.",
+  "history": "Established by resolution No. XXXIII/284/01 of the county council of 21 December 2001.",
+  "periods": [
+    {
+      "start": "2001-12-21"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_lubelski_flag.svg",
+    "https://www.wikidata.org/wiki/Q912777",
+    "https://pl.wikipedia.org/wiki/Powiat_lubelski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_lubelskim",
+    "https://www.powiat.lublin.pl/powiat/o-powiecie/herb-i-flaga-powiatu.html",
+    "https://splublin.bip.lubelskie.pl/index.php?id=69&id_dokumentu=572088&akcja=szczegoly&p2=572088"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "position": "hoist",
+      "role": "square hoist panel"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "hoist",
+      "role": "stag's head from the county arms"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "yellow"
+      ],
+      "count": 16,
+      "position": "fly",
+      "role": "tail cut diagonally"
+    }
+  ]
+}
