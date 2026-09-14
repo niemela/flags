@@ -1,0 +1,71 @@
+{
+  "id": "GB-ENG-london_1986",
+  "name": "Greater London (Greater London Council flag, to 1986)",
+  "type": [
+    "historical",
+    "subdivision"
+  ],
+  "parent": "GB-ENG",
+  "codes": {
+    "wikidata": "Q1476542"
+  },
+  "region": [
+    "Europe",
+    "Northern Europe",
+    "British Isles",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Two horizontal stripes of red and white with a Saxon crown in the red and three wavy blue stripes across the white.",
+  "history": "Banner of the arms of the Greater London Council, granted in 1965 when the council was created: the Saxon crown and the waves of the Thames. It went out of use when the GLC was abolished in 1986.",
+  "periods": [
+    {
+      "start": "1965",
+      "end": "1986"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:County_Flag_of_Greater_London.svg",
+    "https://www.wikidata.org/wiki/Q1476542"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "top",
+      "role": "Saxon crown"
+    },
+    {
+      "type": "wave",
+      "color": "navy",
+      "position": "bottom",
+      "count": 3
+    }
+  ]
+}

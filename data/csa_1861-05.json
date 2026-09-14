@@ -1,0 +1,65 @@
+{
+  "id": "csa_1861-05",
+  "name": "Confederate States of America (Stars and Bars, 7 stars, 1861)",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q81931"
+  },
+  "region": [
+    "Americas",
+    "Northern America"
+  ],
+  "aspect_ratio": "5:9",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Three horizontal stripes of red, white and red with a navy canton bearing a circle of seven white five-pointed stars.",
+  "history": "The first version of the Confederate 'Stars and Bars', adopted on 4 March 1861 with seven stars for the seven states that had seceded by then: South Carolina, Mississippi, Florida, Alabama, Georgia, Louisiana and Texas. Stars were added as further states joined, reaching nine on 21 May 1861.",
+  "periods": [
+    {
+      "start": "1861-03-04",
+      "end": "1861-05-21"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_the_Confederate_States_(March_–_May_1861).svg",
+    "https://www.wikidata.org/wiki/Q81931",
+    "https://en.wikipedia.org/wiki/Flags_of_the_Confederate_States_of_America"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "features": [
+        {
+          "type": "star",
+          "count": 7,
+          "points": 5,
+          "color": "white",
+          "position": "center",
+          "arrangement": "circle"
+        }
+      ]
+    }
+  ]
+}

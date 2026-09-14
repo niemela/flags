@@ -1,0 +1,72 @@
+{
+  "id": "SY_1920-09",
+  "name": "Syria (French Mandate, 1920)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q858"
+  },
+  "region": [
+    "Asia",
+    "Western Asia",
+    "Middle East",
+    "MENA",
+    "Levant",
+    "Arab World"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A blue field with a white crescent in the centre and the French Tricolour in the canton.",
+  "history": "Flag adopted by the French High Commissioner, General Henri Gouraud, on 24 July 1920 after the occupation of Damascus, a blue flag with a crescent and the Tricolour in the canton. It was used only until 1 September 1920, when Syria was divided into separate states, each with its own flag.",
+  "periods": [
+    {
+      "start": "1920-07-24",
+      "end": "1920-09-01"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_the_French_Mandate_of_Syria_(1920).svg",
+    "https://www.wikidata.org/wiki/Q858",
+    "https://en.wikipedia.org/wiki/Flag_of_Syria"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "crescent",
+      "color": "white"
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "features": [
+        {
+          "type": "vertical-stripes",
+          "stripes": [
+            "navy",
+            "white",
+            "red"
+          ],
+          "count": 3
+        }
+      ],
+      "role": "French Tricolour"
+    }
+  ]
+}

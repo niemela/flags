@@ -1,0 +1,65 @@
+{
+  "id": "csa_1861-07",
+  "name": "Confederate States of America (Stars and Bars, 9 stars, 1861)",
+  "type": [
+    "historical",
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q81931"
+  },
+  "region": [
+    "Americas",
+    "Northern America"
+  ],
+  "aspect_ratio": "5:9",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Three horizontal stripes of red, white and red with a navy canton bearing a circle of nine white five-pointed stars.",
+  "history": "Version of the 'Stars and Bars' with nine stars after Virginia and Arkansas joined the Confederacy, used from 21 May 1861 until North Carolina and Tennessee brought the count to eleven on 2 July 1861.",
+  "periods": [
+    {
+      "start": "1861-05-21",
+      "end": "1861-07-02"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_the_Confederate_States_(May_–_July_1861).svg",
+    "https://www.wikidata.org/wiki/Q81931",
+    "https://en.wikipedia.org/wiki/Flags_of_the_Confederate_States_of_America"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "features": [
+        {
+          "type": "star",
+          "count": 9,
+          "points": 5,
+          "color": "white",
+          "position": "center",
+          "arrangement": "circle"
+        }
+      ]
+    }
+  ]
+}

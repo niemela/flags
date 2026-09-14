@@ -1,0 +1,67 @@
+{
+  "id": "british-east-india_1801",
+  "name": "British East India Company (1707–1801)",
+  "type": [
+    "historical",
+    "organization"
+  ],
+  "codes": {
+    "wikidata": "Q83164"
+  },
+  "region": [
+    "Asia",
+    "Southern Asia"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Thirteen alternating red and white horizontal stripes with the Union Flag of Great Britain, the red cross of St George over the white saltire of St Andrew on blue, in the canton.",
+  "history": "The East India Company ensign with the Union Flag of Great Britain in the canton, used from the Acts of Union of 1707; its stripes and canton are often cited as a model for the Grand Union Flag of the American colonies. When the cross of St Patrick was added to the Union Flag in 1801 the Company's ensign changed with it.",
+  "periods": [
+    {
+      "start": "1707",
+      "end": "1801"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_the_British_East_India_Company_(1707).svg",
+    "https://www.wikidata.org/wiki/Q83164",
+    "https://en.wikipedia.org/wiki/Flag_of_the_East_India_Company"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 13
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "features": [
+        {
+          "type": "greek-cross",
+          "color": "red",
+          "role": "cross of St George"
+        },
+        {
+          "type": "saltire",
+          "color": "white",
+          "role": "saltire of St Andrew"
+        }
+      ],
+      "role": "Union Flag of 1707"
+    }
+  ]
+}
