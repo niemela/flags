@@ -1,0 +1,65 @@
+{
+  "id": "CH-VS-saas-fee",
+  "name": "Saas-Fee (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VS",
+  "codes": {
+    "wikidata": "Q69693"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square banner of the arms of Saas-Fee: on blue the yellow letters SF between two white stars, above a green three-peaked mount.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Saas-Fee_Flag.svg",
+    "https://www.wikidata.org/wiki/Q69693",
+    "https://de.wikipedia.org/wiki/Saas-Fee",
+    "https://fr.wikipedia.org/wiki/Saas-Fee",
+    "https://it.wikipedia.org/wiki/Saas-Fee"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "letters SF"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 6,
+      "color": "white",
+      "position": "center",
+      "arrangement": "row"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "bottom",
+      "role": "three-peaked mount (Dreiberg)"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "CH-VS-randa",
+  "name": "Randa (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VS",
+  "codes": {
+    "wikidata": "Q67720"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square banner of the arms of Randa: on white a red bend sinister with a white six-pointed star in the upper fly, and a green triangle with a white edelweiss in the lower hoist.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Randa_Flag.svg",
+    "https://www.wikidata.org/wiki/Q67720",
+    "https://de.wikipedia.org/wiki/Randa_VS",
+    "https://fr.wikipedia.org/wiki/Randa",
+    "https://it.wikipedia.org/wiki/Randa_(Svizzera)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "white",
+      "position": "upper-fly"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "lower-hoist"
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "lower-hoist",
+      "role": "edelweiss"
+    }
+  ]
+}

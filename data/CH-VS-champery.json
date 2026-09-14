@@ -1,0 +1,82 @@
+{
+  "id": "CH-VS-champery",
+  "name": "Champéry (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VS",
+  "codes": {
+    "wikidata": "Q70099"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Champéry: quartered, white with three green firs on a green mount, and blue with a sower in yellow and white on a yellow field.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Champéry_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70099",
+    "https://de.wikipedia.org/wiki/Champéry",
+    "https://fr.wikipedia.org/wiki/Champéry",
+    "https://it.wikipedia.org/wiki/Champéry"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "white",
+        "blue",
+        "blue",
+        "white"
+      ]
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "upper-hoist",
+      "count": 3,
+      "role": "firs"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "lower-fly",
+      "count": 3,
+      "role": "firs"
+    },
+    {
+      "type": "human-figure",
+      "color": "yellow",
+      "position": "upper-fly",
+      "role": "sower"
+    },
+    {
+      "type": "human-figure",
+      "color": "yellow",
+      "position": "lower-hoist",
+      "role": "sower"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "bottom",
+      "role": "mount"
+    }
+  ]
+}

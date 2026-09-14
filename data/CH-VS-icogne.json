@@ -1,0 +1,80 @@
+{
+  "id": "CH-VS-icogne",
+  "name": "Icogne (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VS",
+  "codes": {
+    "wikidata": "Q69535"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square banner of the arms of Icogne: white with a blue chief charged with a yellow star and a white edelweiss, and three green firs on a green mount below.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Icogne_Flag.svg",
+    "https://www.wikidata.org/wiki/Q69535",
+    "https://de.wikipedia.org/wiki/Icogne",
+    "https://fr.wikipedia.org/wiki/Icogne",
+    "https://it.wikipedia.org/wiki/Icogne"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        3
+      ],
+      "role": "blue chief"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "upper-fly",
+      "role": "edelweiss"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "count": 3,
+      "role": "firs"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "bottom",
+      "role": "mount"
+    }
+  ]
+}

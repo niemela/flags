@@ -1,0 +1,62 @@
+{
+  "id": "CH-VS-trient",
+  "name": "Trient (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VS",
+  "codes": {
+    "wikidata": "Q68856"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Trient: on blue a white chamois standing on a green base before green mountains.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Trient_Flag.svg",
+    "https://www.wikidata.org/wiki/Q68856",
+    "https://de.wikipedia.org/wiki/Trient_VS",
+    "https://fr.wikipedia.org/wiki/Trient",
+    "https://it.wikipedia.org/wiki/Trient"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        1
+      ]
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "center",
+      "role": "chamois"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "center",
+      "role": "three-peaked mount (Dreiberg)"
+    }
+  ]
+}

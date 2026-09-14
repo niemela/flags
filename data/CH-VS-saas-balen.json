@@ -1,0 +1,71 @@
+{
+  "id": "CH-VS-saas-balen",
+  "name": "Saas-Balen (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VS",
+  "codes": {
+    "wikidata": "Q70304"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Square banner of the arms of Saas-Balen: on blue white mountains with a black cave above a green base with a white path.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Saas-Balen_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70304",
+    "https://de.wikipedia.org/wiki/Saas-Balen",
+    "https://fr.wikipedia.org/wiki/Saas-Balen",
+    "https://it.wikipedia.org/wiki/Saas-Balen"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        3,
+        1
+      ]
+    },
+    {
+      "type": "mountain",
+      "color": "white",
+      "position": "center",
+      "role": "three-peaked mount (Dreiberg)"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "cave"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "bottom",
+      "role": "path"
+    }
+  ]
+}

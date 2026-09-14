@@ -1,0 +1,74 @@
+{
+  "id": "CH-VS-vetroz",
+  "name": "Vétroz (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VS",
+  "codes": {
+    "wikidata": "Q69515"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square banner of the arms of Vétroz: red with a blue chief charged with a yellow cross with knobbed ends between two yellow stars, and a yellow bunch of grapes with green leaves below.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Vétroz_Flag.svg",
+    "https://www.wikidata.org/wiki/Q69515",
+    "https://de.wikipedia.org/wiki/Vétroz",
+    "https://fr.wikipedia.org/wiki/Vétroz",
+    "https://it.wikipedia.org/wiki/Vétroz"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        3
+      ],
+      "role": "blue chief"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "top",
+      "role": "cross with knobbed ends"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "yellow",
+      "position": "top",
+      "arrangement": "row"
+    },
+    {
+      "type": "fruit",
+      "color": "yellow",
+      "position": "center",
+      "role": "bunch of grapes with green leaves"
+    }
+  ]
+}

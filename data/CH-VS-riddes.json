@@ -1,0 +1,79 @@
+{
+  "id": "CH-VS-riddes",
+  "name": "Riddes (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VS",
+  "codes": {
+    "wikidata": "Q68504"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Square banner of the arms of Riddes: three vertical stripes of blue, white and red divided by wavy lines, with a yellow ear of wheat and two white stars on the blue, a black tower and bridge on the white, and a yellow torch on the red.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Riddes_Flag.svg",
+    "https://www.wikidata.org/wiki/Q68504",
+    "https://de.wikipedia.org/wiki/Riddes",
+    "https://fr.wikipedia.org/wiki/Riddes",
+    "https://it.wikipedia.org/wiki/Riddes"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "role": "divided by wavy lines"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "hoist"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "white",
+      "position": "upper-hoist",
+      "arrangement": "row"
+    },
+    {
+      "type": "building",
+      "color": "black",
+      "position": "center",
+      "role": "tower and bridge"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "fly",
+      "role": "torch"
+    }
+  ]
+}
