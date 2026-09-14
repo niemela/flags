@@ -1,0 +1,77 @@
+{
+  "id": "HU-NO-dregelypalank",
+  "name": "Drégelypalánk (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-NO",
+  "codes": {
+    "wikidata": "Q536464"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field with a panel of red and white horizontal stripes at the hoist and at the fly, charged at the centre with the municipal arms of Drégelypalánk: a red and blue shield with a castle, a crescent, a figure and a rose, above a scroll inscribed DRÉGELYPALÁNK.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Drégelypalánk.svg",
+    "https://www.wikidata.org/wiki/Q536464",
+    "https://hu.wikipedia.org/wiki/Drégelypalánk"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 9,
+      "position": "hoist",
+      "role": "striped hoist panel"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 9,
+      "position": "fly",
+      "role": "striped fly panel"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Drégelypalánk arms with scroll"
+    }
+  ]
+}
