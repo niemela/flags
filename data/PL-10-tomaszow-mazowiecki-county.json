@@ -1,0 +1,79 @@
+{
+  "id": "PL-10-tomaszow-mazowiecki-county",
+  "name": "Tomaszów Mazowiecki County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-10",
+  "codes": {
+    "wikidata": "Q606486"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Yellow field crossed by a blue wavy stripe, charged in the upper hoist with the emblem of the county arms, a black bear ridden by a red figure, and in the lower part with a green oak sprig.",
+  "history": "Established by resolution No. XL/329/2002 of the county council of 31 January 2002.",
+  "periods": [
+    {
+      "start": "2002-01-31"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_tomaszowski_(łódzki)_flag.svg",
+    "https://www.wikidata.org/wiki/Q606486",
+    "https://pl.wikipedia.org/wiki/Powiat_tomaszowski_(województwo_łódzkie)",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_łódzkim",
+    "https://www.powiat-tomaszowski.pl/uchwala-w-sprawie-ustanowienia-herbu-i-flagi.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "role": "wavy stripe for the river"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "upper-hoist",
+      "role": "bear with rider from the county arms"
+    },
+    {
+      "type": "human-figure",
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "rider"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "bottom",
+      "role": "oak sprig with acorn"
+    }
+  ]
+}

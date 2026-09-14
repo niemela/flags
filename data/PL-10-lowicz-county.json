@@ -1,0 +1,86 @@
+{
+  "id": "PL-10-lowicz-county",
+  "name": "Łowicz County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-10",
+  "codes": {
+    "wikidata": "Q1144093"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Two vertical stripes in the ratio 1:2: a red hoist charged with the white eagle of the county arms, and a yellow fly crossed by six narrow vertical stripes of green, white, red, black, white and blue.",
+  "history": "Established by resolution No. XLV/274/2002 of the county council of 9 October 2002.",
+  "periods": [
+    {
+      "start": "2002-10-09"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_łowicki_flag.svg",
+    "https://www.wikidata.org/wiki/Q1144093",
+    "https://pl.wikipedia.org/wiki/Powiat_łowicki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_łódzkim",
+    "https://www.bip.powiat.lowicz.pl/429,flaga-urzedowa-powiatu-lowickiego"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "eagle",
+      "color": "white",
+      "position": "hoist",
+      "role": "eagle from the county arms"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "red",
+        "black",
+        "white",
+        "blue"
+      ],
+      "count": 6,
+      "position": "fly",
+      "role": "narrow stripes on the yellow"
+    }
+  ]
+}
