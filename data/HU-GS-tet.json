@@ -1,0 +1,60 @@
+{
+  "id": "HU-GS-tet",
+  "name": "Tét (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-GS",
+  "codes": {
+    "wikidata": "Q632080"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field with a fly panel of blue and red triangles, charged at the centre of the white with the town arms of Tét: a crowned quartered blue and red shield with tools and a sabre, above a yellow scroll inscribed TÉT.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Tét.svg",
+    "https://www.wikidata.org/wiki/Q632080",
+    "https://hu.wikipedia.org/wiki/Tét"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "fly",
+      "count": 5,
+      "role": "fly panel of interlocking triangles"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "fly",
+      "count": 5,
+      "role": "fly panel of interlocking triangles"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Tét arms with crown and scroll"
+    }
+  ]
+}

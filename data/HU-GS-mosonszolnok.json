@@ -1,0 +1,59 @@
+{
+  "id": "HU-GS-mosonszolnok",
+  "name": "Mosonszolnok (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-GS",
+  "codes": {
+    "wikidata": "Q1017872"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "White field with a narrow yellow horizontal stripe near the top and bottom edges, charged at the centre with the municipal arms of Mosonszolnok: a blue shield with a white bird and a bunch of grapes, with a helm and grey mantling.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Mosonszolnok.svg",
+    "https://www.wikidata.org/wiki/Q1017872",
+    "https://hu.wikipedia.org/wiki/Mosonszolnok"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "white",
+        "yellow"
+      ],
+      "count": 3,
+      "position": "center",
+      "widths": [
+        1,
+        12,
+        1
+      ],
+      "role": "two narrow inset stripes"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Mosonszolnok arms with helm and mantling"
+    }
+  ]
+}

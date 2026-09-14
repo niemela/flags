@@ -1,0 +1,73 @@
+{
+  "id": "HU-GS-vag",
+  "name": "Vág (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-GS",
+  "codes": {
+    "wikidata": "Q765445"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A red hoist panel bearing the municipal arms of Vág (a red shield with a church, a bridge and a fish), and at the fly two horizontal stripes of green over blue separated from each other and from the hoist by white lines.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Vág.svg",
+    "https://www.wikidata.org/wiki/Q765445",
+    "https://hu.wikipedia.org/wiki/Vág_(település)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        1
+      ],
+      "role": "red hoist panel with white separator"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "position": "fly",
+      "widths": [
+        6,
+        1,
+        6
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Vág arms"
+    }
+  ]
+}

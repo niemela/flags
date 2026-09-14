@@ -1,0 +1,58 @@
+{
+  "id": "HU-GS-szany",
+  "name": "Szany (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-GS",
+  "codes": {
+    "wikidata": "Q1184662"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:2",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A vertical banner divided per saltire into green top and bottom triangles and blue side triangles with white fimbriation, charged at the centre with the municipal arms of Szany (a blue shield with a white church and a castle) above the name SZANY in white.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Szany.svg",
+    "https://www.wikidata.org/wiki/Q1184662",
+    "https://hu.wikipedia.org/wiki/Szany"
+  ],
+  "features": [
+    {
+      "type": "per-saltire",
+      "hoist": "blue",
+      "top": "green",
+      "fly": "blue",
+      "bottom": "green",
+      "fimbriation": {
+        "color": "white"
+      }
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Szany arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "bottom",
+      "role": "inscription SZANY"
+    }
+  ]
+}

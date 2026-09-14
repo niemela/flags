@@ -1,0 +1,69 @@
+{
+  "id": "HU-GS-gyarmat",
+  "name": "Gyarmat (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-GS",
+  "codes": {
+    "wikidata": "Q1029205"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "White field with a row of blue triangles along the top edge and a row of green triangles along the bottom edge, charged at the centre with the municipal arms of Gyarmat (a quartered shield of blue, green and yellow with ears of grain, a bunch of grapes and a plough) below the name GYARMAT in black.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Gyarmat.svg",
+    "https://www.wikidata.org/wiki/Q1029205",
+    "https://hu.wikipedia.org/wiki/Gyarmat_(település)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "top",
+      "count": 10,
+      "role": "serrated top edge"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "bottom",
+      "count": 10,
+      "role": "serrated bottom edge"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Gyarmat arms"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "top",
+      "role": "inscription GYARMAT"
+    }
+  ]
+}

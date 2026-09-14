@@ -1,0 +1,50 @@
+{
+  "id": "HU-GS-level",
+  "name": "Levél (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-GS",
+  "codes": {
+    "wikidata": "Q1129643"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Dark blue field charged at the centre with a bronze orb surmounted by a cross above the name LEVÉL in bronze.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Levél.svg",
+    "https://www.wikidata.org/wiki/Q1129643",
+    "https://hu.wikipedia.org/wiki/Levél_(település)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "orb with cross"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "bottom",
+      "role": "inscription LEVÉL"
+    }
+  ]
+}

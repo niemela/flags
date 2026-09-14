@@ -1,0 +1,60 @@
+{
+  "id": "HU-GS-arpas",
+  "name": "Árpás (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-GS",
+  "codes": {
+    "wikidata": "Q1076658"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field with a row of red triangles along the top edge and a row of green triangles along the bottom edge, charged at the centre with the municipal arms of Árpás: a quartered red, green and white shield with a church, ears of grain, a fish and bars, above a scroll inscribed ÁRPÁS.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Árpás.svg",
+    "https://www.wikidata.org/wiki/Q1076658",
+    "https://hu.wikipedia.org/wiki/Árpás"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "top",
+      "count": 10,
+      "role": "serrated top edge"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "bottom",
+      "count": 10,
+      "role": "serrated bottom edge"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Árpás arms with scroll"
+    }
+  ]
+}

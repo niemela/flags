@@ -1,0 +1,72 @@
+{
+  "id": "HU-GS-rabapatona",
+  "name": "Rábapatona (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-GS",
+  "codes": {
+    "wikidata": "Q367101"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field with a diagonal band of blue, yellow and green from the lower hoist to the upper fly, charged at the centre with the municipal arms of Rábapatona (a blue and yellow shield with a sabre, a ploughshare and ears of grain) between the year 2000 above and the name RÁBAPATONA below.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Rábapatona.svg",
+    "https://www.wikidata.org/wiki/Q367101",
+    "https://hu.wikipedia.org/wiki/Rábapatona"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "position": "center",
+      "stripes": [
+        "blue",
+        "yellow",
+        "green"
+      ],
+      "count": 3,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Rábapatona arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "top",
+      "role": "inscription 2000"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "bottom",
+      "role": "inscription RÁBAPATONA"
+    }
+  ]
+}

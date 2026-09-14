@@ -1,0 +1,50 @@
+{
+  "id": "HU-GS-gyorszemere",
+  "name": "Győrszemere (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-GS",
+  "codes": {
+    "wikidata": "Q1030750"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with a row of blue triangles along the top and bottom edges, charged at the centre with the municipal arms of Győrszemere: a red and blue shield with a figure and a bunch of grapes, with a helm, a crest and grey mantling, above a scroll inscribed GYŐRSZEMERE.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Győrszemere.svg",
+    "https://www.wikidata.org/wiki/Q1030750",
+    "https://hu.wikipedia.org/wiki/Győrszemere"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "top",
+      "count": 10,
+      "role": "serrated top and bottom edges"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Győrszemere arms with helm, crest, mantling and scroll"
+    }
+  ]
+}
