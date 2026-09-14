@@ -1,0 +1,81 @@
+{
+  "id": "AU_1903",
+  "name": "Australia (1901–1903)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q408"
+  },
+  "region": [
+    "Oceania",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A blue ensign with the Union Flag in the canton, a large white six-pointed Commonwealth Star below it and the five stars of the Southern Cross in the fly, the stars having nine, eight, seven, six and five points according to their brightness.",
+  "history": "The winning design of the 1901 Federal Flag Design Competition, first flown from the dome of the Royal Exhibition Building in Melbourne on 3 September 1901. In this original form the Commonwealth Star had six points for the six states and the stars of the Southern Cross had different numbers of points according to their brightness. A simplified version approved by King Edward VII was gazetted on 23 February 1903.",
+  "periods": [
+    {
+      "start": "1901-09-03",
+      "end": "1903-02-23"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Australia_(1901–1903).svg",
+    "https://en.wikipedia.org/wiki/Flag_of_Australia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "features": [
+        {
+          "type": "greek-cross",
+          "color": "red"
+        },
+        {
+          "type": "saltire",
+          "color": "white"
+        },
+        {
+          "type": "saltire",
+          "color": "red"
+        }
+      ],
+      "role": "Union Flag"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "white",
+      "position": "lower-hoist",
+      "role": "Commonwealth Star"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "position": "fly",
+      "arrangement": "southern-cross",
+      "role": "Southern Cross with 9, 8, 7, 6 and 5 points"
+    }
+  ]
+}

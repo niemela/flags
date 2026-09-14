@@ -1,0 +1,81 @@
+{
+  "id": "AU_1908",
+  "name": "Australia (1903–1908)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q408"
+  },
+  "region": [
+    "Oceania",
+    "Anglosphere",
+    "Commonwealth"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A blue ensign with the Union Flag in the canton, a large white six-pointed Commonwealth Star below it and the five stars of the Southern Cross in the fly, four of them seven-pointed and the smallest five-pointed.",
+  "history": "The simplified version of the 1901 design approved by King Edward VII on 11 February 1903 and gazetted on 23 February 1903, in which the four larger stars of the Southern Cross were standardised at seven points. The Commonwealth Star still had six points; a seventh, for the Territory of Papua and future territories, was added on 8 December 1908, producing the present flag.",
+  "periods": [
+    {
+      "start": "1903-02-23",
+      "end": "1908-12-08"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Australia_(1903–1908).svg",
+    "https://en.wikipedia.org/wiki/Flag_of_Australia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "features": [
+        {
+          "type": "greek-cross",
+          "color": "red"
+        },
+        {
+          "type": "saltire",
+          "color": "white"
+        },
+        {
+          "type": "saltire",
+          "color": "red"
+        }
+      ],
+      "role": "Union Flag"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "white",
+      "position": "lower-hoist",
+      "role": "Commonwealth Star"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "position": "fly",
+      "arrangement": "southern-cross",
+      "role": "Southern Cross"
+    }
+  ]
+}

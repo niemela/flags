@@ -1,0 +1,69 @@
+{
+  "id": "US_1777",
+  "name": "United States (Grand Union flag, 1775–1777)",
+  "type": [
+    "country"
+  ],
+  "codes": {
+    "wikidata": "Q30"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Thirteen alternating red and white stripes with a canton bearing the British Union Flag of the time (a red St George's cross over a white St Andrew's saltire on navy blue).",
+  "history": "The Continental Colours or Grand Union Flag was the first ensign of the Continental Navy and served as the de facto national flag of the rebelling colonies from late 1775. George Washington hoisted it on 1 January 1776 at his Cambridge camp. It combined the thirteen stripes of the united colonies with the British Union in the canton, and remained the national flag until the Continental Congress adopted the stars and stripes by the Flag Resolution of 14 June 1777.",
+  "families": [
+    "stars-and-stripes"
+  ],
+  "periods": [
+    {
+      "start": "1775-12-03",
+      "end": "1777-06-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_(1776–1777).svg",
+    "https://en.wikipedia.org/wiki/Flag_of_the_United_States"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 13
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "features": [
+        {
+          "type": "greek-cross",
+          "color": "red",
+          "role": "St George's cross"
+        },
+        {
+          "type": "saltire",
+          "color": "white",
+          "role": "St Andrew's saltire"
+        }
+      ],
+      "role": "pre-1801 British Union Flag"
+    }
+  ]
+}
