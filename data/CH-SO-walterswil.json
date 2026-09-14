@@ -1,0 +1,69 @@
+{
+  "id": "CH-SO-walterswil",
+  "name": "Walterswil, Solothurn (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-SO",
+  "codes": {
+    "wikidata": "Q66275"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Square banner of the arms of Walterswil: divided horizontally red and white, over all a bend counterchanged, with a green juniper branch with brown stem and three black berries in the lower hoist.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Walterswil_SO_Flag.svg",
+    "https://www.wikidata.org/wiki/Q66275",
+    "https://de.wikipedia.org/wiki/Walterswil_SO",
+    "https://fr.wikipedia.org/wiki/Walterswil_(Soleure)",
+    "https://it.wikipedia.org/wiki/Walterswil_(Soletta)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "diagonal-stripes",
+      "position": "center",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "direction": "bend",
+      "role": "bend counterchanged"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "lower-hoist",
+      "role": "juniper branch with black berries"
+    }
+  ]
+}

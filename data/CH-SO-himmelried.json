@@ -1,0 +1,61 @@
+{
+  "id": "CH-SO-himmelried",
+  "name": "Himmelried (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-SO",
+  "codes": {
+    "wikidata": "Q70044"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Himmelried: on white a green juniper tree on a green hill between two red six-pointed stars in chief.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Himmelried_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70044",
+    "https://de.wikipedia.org/wiki/Himmelried",
+    "https://fr.wikipedia.org/wiki/Himmelried",
+    "https://it.wikipedia.org/wiki/Himmelried"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "juniper"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 6,
+      "color": "red",
+      "position": "top"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "bottom",
+      "role": "mount"
+    }
+  ]
+}
