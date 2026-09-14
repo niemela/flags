@@ -1,0 +1,77 @@
+{
+  "id": "CH-FR-lully",
+  "name": "Lully, Fribourg (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-FR",
+  "codes": {
+    "wikidata": "Q70493"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Lully: white with a chief of three red roses, below red with a yellow pile from the base charged with a red lion, between two white mullets.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Lully_FR_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70493",
+    "https://de.wikipedia.org/wiki/Lully_FR",
+    "https://fr.wikipedia.org/wiki/Lully_(Fribourg)",
+    "https://it.wikipedia.org/wiki/Lully_(Friburgo)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        3
+      ],
+      "role": "white chief"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "top",
+      "count": 3,
+      "role": "roses"
+    },
+    {
+      "type": "pile",
+      "color": "yellow",
+      "position": "bottom",
+      "field": "red",
+      "direction": "chief"
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "center"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 6,
+      "color": "white",
+      "position": "center"
+    }
+  ]
+}

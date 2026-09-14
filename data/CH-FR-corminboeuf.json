@@ -1,0 +1,79 @@
+{
+  "id": "CH-FR-corminboeuf",
+  "name": "Corminboeuf (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-FR",
+  "codes": {
+    "wikidata": "Q66487"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square banner of the arms of Corminboeuf: divided horizontally, red with three white roses above yellow with Saint George on a black horse slaying a green dragon.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Corminboeuf_Flag.svg",
+    "https://www.wikidata.org/wiki/Q66487",
+    "https://de.wikipedia.org/wiki/Corminboeuf",
+    "https://fr.wikipedia.org/wiki/Corminboeuf",
+    "https://it.wikipedia.org/wiki/Corminboeuf"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "top",
+      "count": 3,
+      "role": "roses"
+    },
+    {
+      "type": "human-figure",
+      "color": "white",
+      "position": "bottom",
+      "role": "Saint George on horseback"
+    },
+    {
+      "type": "horse",
+      "color": "black",
+      "position": "bottom"
+    },
+    {
+      "type": "dragon",
+      "color": "green",
+      "position": "bottom"
+    }
+  ]
+}

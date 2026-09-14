@@ -1,0 +1,61 @@
+{
+  "id": "CH-FR-autigny",
+  "name": "Autigny (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-FR",
+  "codes": {
+    "wikidata": "Q70180"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Autigny: on white a red bend charged with a yellow spear, between two red crosses with trefoil ends.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Autigny_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70180",
+    "https://de.wikipedia.org/wiki/Autigny_FR",
+    "https://fr.wikipedia.org/wiki/Autigny_(Fribourg)",
+    "https://it.wikipedia.org/wiki/Autigny_(Svizzera)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "spear on the bend"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "two crosses with trefoil ends"
+    }
+  ]
+}

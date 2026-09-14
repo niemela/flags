@@ -1,0 +1,66 @@
+{
+  "id": "CH-FR-dudingen",
+  "name": "Düdingen (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-FR",
+  "codes": {
+    "wikidata": "Q70108"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square banner of the arms of Düdingen: divided horizontally, red with three white roses with yellow centres above white with two yellow bull's horns.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Düdingen_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70108",
+    "https://de.wikipedia.org/wiki/Düdingen",
+    "https://fr.wikipedia.org/wiki/Guin",
+    "https://it.wikipedia.org/wiki/Düdingen"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "top",
+      "count": 3,
+      "role": "roses"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "bull's horns (skull)"
+    }
+  ]
+}

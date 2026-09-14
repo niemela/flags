@@ -1,0 +1,75 @@
+{
+  "id": "CH-FR-gletterens",
+  "name": "Gletterens (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-FR",
+  "codes": {
+    "wikidata": "Q68573"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square banner of the arms of Gletterens: divided horizontally by a blue wavy line, white with a red rose above yellow with red pales.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Gletterens_Flag.svg",
+    "https://www.wikidata.org/wiki/Q68573",
+    "https://de.wikipedia.org/wiki/Gletterens",
+    "https://fr.wikipedia.org/wiki/Gletterens",
+    "https://it.wikipedia.org/wiki/Gletterens"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "upper-fly",
+      "role": "rose"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "role": "wavy division"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "red",
+        "red"
+      ],
+      "count": 3,
+      "position": "bottom",
+      "role": "three pales"
+    }
+  ]
+}

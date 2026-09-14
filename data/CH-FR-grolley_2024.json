@@ -1,0 +1,75 @@
+{
+  "id": "CH-FR-grolley_2024",
+  "name": "Grolley (Switzerland)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "CH-FR",
+  "successors": [
+    "CH-FR-grolley-ponthaux"
+  ],
+  "codes": {
+    "wikidata": "Q67037"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square banner of the arms of Grolley: on yellow a saltire of interlaced bands of white, red, black and green.",
+  "history": "A former municipality, merged with Ponthaux into Grolley-Ponthaux on 1 January 2025; its flag was the square banner of the municipal arms.",
+  "periods": [
+    {
+      "end": "2024-12-31"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Grolley_Flag.svg",
+    "https://www.wikidata.org/wiki/Q67037",
+    "https://de.wikipedia.org/wiki/Grolley",
+    "https://fr.wikipedia.org/wiki/Grolley",
+    "https://it.wikipedia.org/wiki/Grolley"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "saltire of interlaced bands"
+    },
+    {
+      "type": "diagonal-stripes",
+      "position": "center",
+      "stripes": [
+        "red",
+        "black",
+        "green"
+      ],
+      "count": 3,
+      "direction": "bend",
+      "role": "coloured bands of the saltire"
+    }
+  ]
+}

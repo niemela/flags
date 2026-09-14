@@ -1,0 +1,65 @@
+{
+  "id": "CH-FR-massonnens",
+  "name": "Massonnens (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-FR",
+  "codes": {
+    "wikidata": "Q70427"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Massonnens: divided horizontally, red with two yellow bends edged in white above yellow with a red cross with knobbed ends.",
+  "history": "The arms were adopted in 1941; the flag is the square banner of the arms.",
+  "periods": [
+    {
+      "start": "1941"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Massonnens_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70427",
+    "https://de.wikipedia.org/wiki/Massonnens",
+    "https://fr.wikipedia.org/wiki/Massonnens",
+    "https://it.wikipedia.org/wiki/Massonnens"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "top",
+      "count": 2,
+      "direction": "bend",
+      "role": "bends edged in white"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "bottom",
+      "role": "cross with knobbed ends"
+    }
+  ]
+}

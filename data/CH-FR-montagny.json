@@ -1,0 +1,62 @@
+{
+  "id": "CH-FR-montagny",
+  "name": "Montagny (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-FR",
+  "codes": {
+    "wikidata": "Q67683"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Montagny: white with a chief, below yellow with three red pales.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Montagny_Flag.svg",
+    "https://www.wikidata.org/wiki/Q67683",
+    "https://de.wikipedia.org/wiki/Montagny_FR",
+    "https://fr.wikipedia.org/wiki/Montagny_(Fribourg)",
+    "https://it.wikipedia.org/wiki/Montagny_(Svizzera)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "role": "white chief"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "red",
+        "red"
+      ],
+      "count": 3,
+      "position": "bottom",
+      "role": "three pales"
+    }
+  ]
+}

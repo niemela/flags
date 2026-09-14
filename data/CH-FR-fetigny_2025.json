@@ -1,0 +1,65 @@
+{
+  "id": "CH-FR-fetigny_2025",
+  "name": "Fétigny (Switzerland)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "CH-FR",
+  "successors": [
+    "CH-FR-fetigny-menieres"
+  ],
+  "codes": {
+    "wikidata": "Q70311"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Square banner of the arms of Fétigny: on yellow two red chevrons, over all a black cross with knobbed ends.",
+  "history": "A former municipality, merged with Ménières into Fétigny-Ménières on 1 January 2026; its flag was the square banner of the municipal arms.",
+  "periods": [
+    {
+      "end": "2025-12-31"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Fétigny_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70311",
+    "https://de.wikipedia.org/wiki/Fétigny_FR",
+    "https://fr.wikipedia.org/wiki/Fétigny_(Fribourg)",
+    "https://it.wikipedia.org/wiki/Fétigny"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "chevron",
+      "color": "red",
+      "position": "center",
+      "count": 2,
+      "field": "yellow",
+      "chevron": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "cross with knobbed ends"
+    }
+  ]
+}

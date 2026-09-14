@@ -1,0 +1,70 @@
+{
+  "id": "CH-FR-prez",
+  "name": "Prez (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-FR",
+  "codes": {
+    "wikidata": "Q65963837"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Prez: divided horizontally, yellow with a walking red lion above blue and red with three white scallop shells.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Prez_Flag.svg",
+    "https://www.wikidata.org/wiki/Q65963837",
+    "https://de.wikipedia.org/wiki/Prez_FR",
+    "https://fr.wikipedia.org/wiki/Prez_(Fribourg)",
+    "https://it.wikipedia.org/wiki/Prez_(Svizzera)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "top",
+      "role": "walking lion"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "position": "bottom"
+    },
+    {
+      "type": "shell",
+      "color": "white",
+      "position": "bottom",
+      "count": 3
+    }
+  ]
+}

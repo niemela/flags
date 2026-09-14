@@ -1,0 +1,71 @@
+{
+  "id": "CH-FR-rue",
+  "name": "Rue (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-FR",
+  "codes": {
+    "wikidata": "Q70188"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Rue: quartered, red with a yellow wheel, blue with a white scallop shell, blue with a white cross with knobbed ends, and red with a yellow key.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Rue_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70188",
+    "https://de.wikipedia.org/wiki/Rue_FR",
+    "https://fr.wikipedia.org/wiki/Rue_(Fribourg)",
+    "https://it.wikipedia.org/wiki/Rue_(Svizzera)"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "red",
+        "blue",
+        "red",
+        "blue"
+      ]
+    },
+    {
+      "type": "wheel",
+      "color": "yellow",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "shell",
+      "color": "white",
+      "position": "upper-fly"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "lower-hoist",
+      "role": "cross with knobbed ends"
+    },
+    {
+      "type": "key",
+      "color": "yellow",
+      "position": "lower-fly"
+    }
+  ]
+}

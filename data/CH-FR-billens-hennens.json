@@ -1,0 +1,66 @@
+{
+  "id": "CH-FR-billens-hennens",
+  "name": "Billens-Hennens (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-FR",
+  "codes": {
+    "wikidata": "Q70454"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Billens-Hennens: on red a black bend charged with three yellow five-pointed stars, between two narrow white bends.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Billens-Hennens_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70454",
+    "https://de.wikipedia.org/wiki/Billens-Hennens",
+    "https://fr.wikipedia.org/wiki/Billens-Hennens",
+    "https://it.wikipedia.org/wiki/Billens-Hennens"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "position": "center",
+      "stripes": [
+        "white",
+        "black",
+        "white"
+      ],
+      "count": 3,
+      "direction": "bend",
+      "role": "black bend between two white bendlets"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "arrangement": "row",
+      "role": "stars on the bend"
+    }
+  ]
+}
