@@ -1,0 +1,62 @@
+{
+  "id": "CH-UR-altdorf",
+  "name": "Altdorf (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-UR",
+  "codes": {
+    "wikidata": "Q68150"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Altdorf: divided vertically, yellow with a black demi-eagle with red beak and claws, and red with two white bends sinister.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Altdorf_Flag.svg",
+    "https://www.wikidata.org/wiki/Q68150",
+    "https://de.wikipedia.org/wiki/Altdorf_UR",
+    "https://fr.wikipedia.org/wiki/Altdorf_(Uri)",
+    "https://it.wikipedia.org/wiki/Altdorf_(Svizzera)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "eagle",
+      "color": "black",
+      "position": "hoist",
+      "role": "demi-eagle"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "fly",
+      "count": 2,
+      "direction": "bend-sinister"
+    }
+  ]
+}

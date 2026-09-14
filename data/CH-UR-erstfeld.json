@@ -1,0 +1,68 @@
+{
+  "id": "CH-UR-erstfeld",
+  "name": "Erstfeld (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-UR",
+  "codes": {
+    "wikidata": "Q69642"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Erstfeld: on blue a yellow stag on a green base bearing a white cloth with a red cross between its antlers.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Erstfeld_Flag.svg",
+    "https://www.wikidata.org/wiki/Q69642",
+    "https://de.wikipedia.org/wiki/Erstfeld",
+    "https://fr.wikipedia.org/wiki/Erstfeld",
+    "https://it.wikipedia.org/wiki/Erstfeld"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        4,
+        1
+      ]
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "center",
+      "role": "stag with a cloth between its antlers"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "top",
+      "role": "cloth with red cross"
+    }
+  ]
+}
