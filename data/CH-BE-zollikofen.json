@@ -1,0 +1,76 @@
+{
+  "id": "CH-BE-zollikofen",
+  "name": "Zollikofen (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BE",
+  "codes": {
+    "wikidata": "Q69675"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square banner of the arms of Zollikofen: divided horizontally, white with a red and a black lion facing each other holding blue tanner's knives, and red with a white bend charged with nine green leaves.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Zollikofen_Flag.svg",
+    "https://www.wikidata.org/wiki/Q69675",
+    "https://de.wikipedia.org/wiki/Zollikofen",
+    "https://fr.wikipedia.org/wiki/Zollikofen",
+    "https://it.wikipedia.org/wiki/Zollikofen"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "lion",
+      "color": "black",
+      "position": "upper-fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "bottom",
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "bottom",
+      "count": 9,
+      "role": "leaves on the bend"
+    }
+  ]
+}

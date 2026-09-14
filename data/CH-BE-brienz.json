@@ -1,0 +1,50 @@
+{
+  "id": "CH-BE-brienz",
+  "name": "Brienz (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BE",
+  "codes": {
+    "wikidata": "Q65268"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Brienz: divided by a curved line into white above and blue below, charged with a rampant lion counterchanged blue and white with a red tongue.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Brienz_Flag.svg",
+    "https://www.wikidata.org/wiki/Q65268",
+    "https://de.wikipedia.org/wiki/Brienz_BE",
+    "https://fr.wikipedia.org/wiki/Brienz_(Berne)",
+    "https://it.wikipedia.org/wiki/Brienz"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "blue",
+      "direction": "bend-sinister",
+      "role": "curved division"
+    },
+    {
+      "type": "lion",
+      "position": "center",
+      "role": "lion counterchanged blue and white"
+    }
+  ]
+}

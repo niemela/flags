@@ -1,0 +1,66 @@
+{
+  "id": "CH-BE-hellsau",
+  "name": "Hellsau (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BE",
+  "codes": {
+    "wikidata": "Q68603"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Hellsau: divided horizontally, white with three red pales above green with a yellow wavy bend sinister.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Hellsau_Flag.svg",
+    "https://www.wikidata.org/wiki/Q68603",
+    "https://de.wikipedia.org/wiki/Hellsau",
+    "https://fr.wikipedia.org/wiki/Hellsau",
+    "https://it.wikipedia.org/wiki/Hellsau"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "red",
+        "red"
+      ],
+      "count": 3,
+      "position": "top",
+      "role": "three pales"
+    },
+    {
+      "type": "wave",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "wavy diagonal river"
+    }
+  ]
+}

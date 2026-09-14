@@ -1,0 +1,64 @@
+{
+  "id": "CH-BE-niederhunigen",
+  "name": "Niederhünigen (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BE",
+  "codes": {
+    "wikidata": "Q67657"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Niederhünigen: divided horizontally, white with a red six-pointed star above red with two white swan's necks with yellow beaks facing each other.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Niederhünigen_Flag.svg",
+    "https://www.wikidata.org/wiki/Q67657",
+    "https://de.wikipedia.org/wiki/Niederhünigen",
+    "https://fr.wikipedia.org/wiki/Niederhünigen",
+    "https://it.wikipedia.org/wiki/Niederhünigen"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "red",
+      "position": "top"
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "position": "bottom",
+      "count": 2,
+      "role": "swan's necks"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "CH-BE-mont-tramelan",
+  "name": "Mont-Tramelan (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BE",
+  "codes": {
+    "wikidata": "Q66431"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Mont-Tramelan: on red a white bend charged with three red hearts, with a white trefoil in the lower fly.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Mont-Tramelan_Flag.svg",
+    "https://www.wikidata.org/wiki/Q66431",
+    "https://de.wikipedia.org/wiki/Mont-Tramelan",
+    "https://fr.wikipedia.org/wiki/Mont-Tramelan",
+    "https://it.wikipedia.org/wiki/Mont-Tramelan"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "three hearts on the bend"
+    },
+    {
+      "type": "leaf",
+      "color": "white",
+      "position": "lower-fly",
+      "role": "trefoil"
+    }
+  ]
+}

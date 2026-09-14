@@ -1,0 +1,65 @@
+{
+  "id": "CH-BE-ins",
+  "name": "Ins (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BE",
+  "codes": {
+    "wikidata": "Q69487"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square banner of the arms of Ins: on yellow a blue spade blade and a blue sickle below a red six-pointed star, above a green three-peaked mount.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Ins_Flag.svg",
+    "https://www.wikidata.org/wiki/Q69487",
+    "https://de.wikipedia.org/wiki/Ins_BE",
+    "https://fr.wikipedia.org/wiki/Anet_(Berne)",
+    "https://it.wikipedia.org/wiki/Ins"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "tool",
+      "color": "blue",
+      "position": "center",
+      "count": 2,
+      "role": "spade blade and sickle"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "red",
+      "position": "top"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "bottom",
+      "role": "three-peaked mount (Dreiberg)"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "CH-BE-auswil",
+  "name": "Auswil (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BE",
+  "codes": {
+    "wikidata": "Q67598"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Square banner of the arms of Auswil: divided horizontally, red with five white six-pointed stars above white with a rampant black bear with red tongue.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Auswil_Flag.svg",
+    "https://www.wikidata.org/wiki/Q67598",
+    "https://de.wikipedia.org/wiki/Auswil",
+    "https://fr.wikipedia.org/wiki/Auswil",
+    "https://it.wikipedia.org/wiki/Auswil"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 6,
+      "color": "white",
+      "position": "top",
+      "arrangement": "scattered"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "bottom",
+      "role": "rampant bear"
+    }
+  ]
+}

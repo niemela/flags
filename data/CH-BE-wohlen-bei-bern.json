@@ -1,0 +1,64 @@
+{
+  "id": "CH-BE-wohlen-bei-bern",
+  "name": "Wohlen bei Bern (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BE",
+  "codes": {
+    "wikidata": "Q67613"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Wohlen bei Bern: on blue a yellow sun and a yellow crescent, both with faces, above a yellow pile from the base charged with a blue letter W.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Wohlen_bei_Bern_Flag.svg",
+    "https://www.wikidata.org/wiki/Q67613",
+    "https://de.wikipedia.org/wiki/Wohlen_bei_Bern",
+    "https://fr.wikipedia.org/wiki/Wohlen_bei_Bern",
+    "https://it.wikipedia.org/wiki/Wohlen_bei_Bern"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "sun with a face"
+    },
+    {
+      "type": "moon",
+      "color": "yellow",
+      "position": "upper-fly",
+      "role": "crescent with a face"
+    },
+    {
+      "type": "pile",
+      "color": "yellow",
+      "position": "bottom",
+      "field": "blue",
+      "direction": "chief"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "bottom",
+      "role": "letter W"
+    }
+  ]
+}

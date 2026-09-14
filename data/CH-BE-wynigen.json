@@ -1,0 +1,53 @@
+{
+  "id": "CH-BE-wynigen",
+  "name": "Wynigen (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BE",
+  "codes": {
+    "wikidata": "Q67439"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square banner of the arms of Wynigen: divided diagonally from the upper fly, white above with a red rose with a yellow centre and green sepals, and red below.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Wynigen_Flag.svg",
+    "https://www.wikidata.org/wiki/Q67439",
+    "https://de.wikipedia.org/wiki/Wynigen",
+    "https://fr.wikipedia.org/wiki/Wynigen",
+    "https://it.wikipedia.org/wiki/Wynigen"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "rose"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "CH-BE-kandersteg",
+  "name": "Kandersteg (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BE",
+  "codes": {
+    "wikidata": "Q66218"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Kandersteg: divided horizontally, white with a black eagle above blue with a yellow ladder set as a pale.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Kandersteg_Flag.svg",
+    "https://www.wikidata.org/wiki/Q66218",
+    "https://de.wikipedia.org/wiki/Kandersteg",
+    "https://fr.wikipedia.org/wiki/Kandersteg",
+    "https://it.wikipedia.org/wiki/Kandersteg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "eagle",
+      "color": "black",
+      "position": "top"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "ladder"
+    }
+  ]
+}

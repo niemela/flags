@@ -1,0 +1,63 @@
+{
+  "id": "CH-BE-oberlangenegg",
+  "name": "Oberlangenegg (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BE",
+  "codes": {
+    "wikidata": "Q65481"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Oberlangenegg: on white a green fir with a red trunk between two red deer on a green base.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Oberlangenegg_Flag.svg",
+    "https://www.wikidata.org/wiki/Q65481",
+    "https://de.wikipedia.org/wiki/Oberlangenegg",
+    "https://fr.wikipedia.org/wiki/Oberlangenegg",
+    "https://it.wikipedia.org/wiki/Oberlangenegg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        4,
+        1
+      ]
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "fir with red trunk"
+    },
+    {
+      "type": "animal-other",
+      "color": "red",
+      "position": "center",
+      "count": 2,
+      "role": "deer"
+    }
+  ]
+}

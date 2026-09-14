@@ -1,0 +1,53 @@
+{
+  "id": "CH-BE-kernenried",
+  "name": "Kernenried (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BE",
+  "codes": {
+    "wikidata": "Q67618"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Kernenried: on red a white bend with a white six-pointed star in the upper fly.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Kernenried_Flag.svg",
+    "https://www.wikidata.org/wiki/Q67618",
+    "https://de.wikipedia.org/wiki/Kernenried",
+    "https://fr.wikipedia.org/wiki/Kernenried",
+    "https://it.wikipedia.org/wiki/Kernenried"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "white",
+      "position": "upper-fly"
+    }
+  ]
+}

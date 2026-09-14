@@ -1,0 +1,55 @@
+{
+  "id": "CH-BE-brienzwiler",
+  "name": "Brienzwiler (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BE",
+  "codes": {
+    "wikidata": "Q65211"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Brienzwiler: on blue a white bend sinister charged with a red tower set diagonally.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Brienzwiler_Flag.svg",
+    "https://www.wikidata.org/wiki/Q65211",
+    "https://de.wikipedia.org/wiki/Brienzwiler",
+    "https://fr.wikipedia.org/wiki/Brienzwiler",
+    "https://it.wikipedia.org/wiki/Brienzwiler"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "center",
+      "role": "tower on the bend"
+    }
+  ]
+}

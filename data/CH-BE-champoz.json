@@ -1,0 +1,70 @@
+{
+  "id": "CH-BE-champoz",
+  "name": "Champoz (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BE",
+  "codes": {
+    "wikidata": "Q66938"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Square banner of the arms of Champoz: divided horizontally by a green bar, red with a rising white sun above yellow with a blue gentian on green leaves.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Champoz_Flag.svg",
+    "https://www.wikidata.org/wiki/Q66938",
+    "https://de.wikipedia.org/wiki/Champoz",
+    "https://fr.wikipedia.org/wiki/Champoz",
+    "https://it.wikipedia.org/wiki/Champoz"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        4,
+        1,
+        5
+      ]
+    },
+    {
+      "type": "sun",
+      "color": "white",
+      "position": "top",
+      "role": "rising sun"
+    },
+    {
+      "type": "flower",
+      "color": "blue",
+      "position": "bottom",
+      "role": "gentian"
+    }
+  ]
+}

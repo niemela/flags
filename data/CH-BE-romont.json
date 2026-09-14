@@ -1,0 +1,66 @@
+{
+  "id": "CH-BE-romont",
+  "name": "Romont, Bern (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BE",
+  "codes": {
+    "wikidata": "Q70281"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square banner of the arms of Romont: divided horizontally, white with a blue eagle above red with a white tower on a green hill.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Romont_BE_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70281",
+    "https://de.wikipedia.org/wiki/Romont_BE",
+    "https://fr.wikipedia.org/wiki/Romont_(Berne)",
+    "https://it.wikipedia.org/wiki/Romont_(Berna)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "eagle",
+      "color": "blue",
+      "position": "top"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "bottom",
+      "role": "tower"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "bottom",
+      "role": "mount"
+    }
+  ]
+}

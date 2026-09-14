@@ -1,0 +1,73 @@
+{
+  "id": "CH-BE-forst-langenbuhl",
+  "name": "Forst-Längenbühl (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BE",
+  "codes": {
+    "wikidata": "Q67775"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Forst-Längenbühl: on red a white band with a peaked top bearing five green firs, with a yellow six-pointed star above and a white fleur-de-lis below.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Forst-Längenbühl_Flag.svg",
+    "https://www.wikidata.org/wiki/Q67775",
+    "https://de.wikipedia.org/wiki/Forst-Längenbühl",
+    "https://fr.wikipedia.org/wiki/Forst-Längenbühl",
+    "https://it.wikipedia.org/wiki/Forst-Längenbühl"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "peaked band"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "count": 5,
+      "role": "firs"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "yellow",
+      "position": "top"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "position": "bottom"
+    }
+  ]
+}

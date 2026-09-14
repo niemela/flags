@@ -1,0 +1,59 @@
+{
+  "id": "CH-BE-batterkinden",
+  "name": "Bätterkinden (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BE",
+  "codes": {
+    "wikidata": "Q67596"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Bätterkinden: divided horizontally, blue with three yellow wavy pales above red with a yellow sheaf of corn.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Bätterkinden_Flag.svg",
+    "https://www.wikidata.org/wiki/Q67596",
+    "https://de.wikipedia.org/wiki/Bätterkinden",
+    "https://fr.wikipedia.org/wiki/Bätterkinden",
+    "https://it.wikipedia.org/wiki/Bätterkinden"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "wave",
+      "color": "yellow",
+      "position": "top",
+      "count": 3,
+      "role": "three wavy pales"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "sheaf"
+    }
+  ]
+}

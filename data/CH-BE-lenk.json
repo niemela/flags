@@ -1,0 +1,58 @@
+{
+  "id": "CH-BE-lenk",
+  "name": "Lenk (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BE",
+  "codes": {
+    "wikidata": "Q65152"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square banner of the arms of Lenk: divided horizontally, white with green wavy pales radiating from a white sun above red with a white ibex horn and sword crossed.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Lenk_Flag.svg",
+    "https://www.wikidata.org/wiki/Q65152",
+    "https://de.wikipedia.org/wiki/Lenk",
+    "https://fr.wikipedia.org/wiki/Lenk_im_Simmental",
+    "https://it.wikipedia.org/wiki/Lenk"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "top",
+      "role": "wavy rays around a white sun"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "bottom",
+      "role": "crossed ibex horn and sword"
+    }
+  ]
+}

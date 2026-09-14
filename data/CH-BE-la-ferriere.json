@@ -1,0 +1,67 @@
+{
+  "id": "CH-BE-la-ferriere",
+  "name": "La Ferrière (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BE",
+  "codes": {
+    "wikidata": "Q69879"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of La Ferrière: divided horizontally, yellow with a rising red sun above blue with a white tower between four white spade-leaves.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_La_Ferrière_Flag.svg",
+    "https://www.wikidata.org/wiki/Q69879",
+    "https://de.wikipedia.org/wiki/La_Ferrière_BE",
+    "https://fr.wikipedia.org/wiki/La_Ferrière_(Berne)",
+    "https://it.wikipedia.org/wiki/La_Ferrière_(Svizzera)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "sun",
+      "color": "red",
+      "position": "top",
+      "role": "rising sun"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "bottom",
+      "role": "tower"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "bottom",
+      "role": "four spade-shaped leaves"
+    }
+  ]
+}

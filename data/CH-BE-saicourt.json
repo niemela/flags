@@ -1,0 +1,63 @@
+{
+  "id": "CH-BE-saicourt",
+  "name": "Saicourt (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BE",
+  "codes": {
+    "wikidata": "Q67384"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square banner of the arms of Saicourt: on yellow a red pale charged with a yellow crozier, above a green three-peaked mount.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Saicourt_Flag.svg",
+    "https://www.wikidata.org/wiki/Q67384",
+    "https://de.wikipedia.org/wiki/Saicourt",
+    "https://fr.wikipedia.org/wiki/Saicourt",
+    "https://it.wikipedia.org/wiki/Saicourt"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "pale"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crozier"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "bottom",
+      "role": "three-peaked mount (Dreiberg)"
+    }
+  ]
+}
