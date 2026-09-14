@@ -1,0 +1,57 @@
+{
+  "id": "CH-GE-cologny",
+  "name": "Cologny (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-GE",
+  "codes": {
+    "wikidata": "Q69245"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Square banner of the arms of Cologny: on blue a white column inscribed 1814 in black on a white base.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Cologny_Flag.svg",
+    "https://www.wikidata.org/wiki/Q69245",
+    "https://de.wikipedia.org/wiki/Cologny",
+    "https://fr.wikipedia.org/wiki/Cologny",
+    "https://it.wikipedia.org/wiki/Cologny"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "column inscribed 1814"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "white base"
+    }
+  ]
+}

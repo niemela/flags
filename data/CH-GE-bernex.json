@@ -1,0 +1,73 @@
+{
+  "id": "CH-GE-bernex",
+  "name": "Bernex (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-GE",
+  "codes": {
+    "wikidata": "Q65259"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Bernex: yellow with a black chief charged with three yellow bunches of grapes, below a green hill with a red flame rising from its top.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Bernex_Flag.svg",
+    "https://www.wikidata.org/wiki/Q65259",
+    "https://de.wikipedia.org/wiki/Bernex_GE",
+    "https://fr.wikipedia.org/wiki/Bernex_(Genève)",
+    "https://it.wikipedia.org/wiki/Bernex_(Svizzera)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "role": "black chief"
+    },
+    {
+      "type": "fruit",
+      "color": "yellow",
+      "position": "top",
+      "count": 3,
+      "role": "bunches of grapes"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "flame"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "bottom",
+      "role": "mount"
+    }
+  ]
+}

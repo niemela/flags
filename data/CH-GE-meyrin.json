@@ -1,0 +1,68 @@
+{
+  "id": "CH-GE-meyrin",
+  "name": "Meyrin (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-GE",
+  "codes": {
+    "wikidata": "Q68230"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Meyrin: divided vertically, green with an upright yellow sword between two white crescents addorsed, and red with a white bend between two narrow white bends.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Meyrin_Flag.svg",
+    "https://www.wikidata.org/wiki/Q68230",
+    "https://de.wikipedia.org/wiki/Meyrin",
+    "https://fr.wikipedia.org/wiki/Meyrin",
+    "https://it.wikipedia.org/wiki/Meyrin"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "sword",
+      "color": "yellow",
+      "position": "hoist"
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "hoist",
+      "count": 2
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "fly",
+      "count": 3,
+      "direction": "bend",
+      "role": "bend between two bendlets"
+    }
+  ]
+}
