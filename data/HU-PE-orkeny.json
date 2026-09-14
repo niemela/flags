@@ -1,0 +1,56 @@
+{
+  "id": "HU-PE-orkeny",
+  "name": "Örkény (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-PE",
+  "codes": {
+    "wikidata": "Q727143"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Two equal horizontal stripes of dark red over yellow, charged at the centre with the town arms of Örkény (a green and blue shield with ears of grain and a horse) above the name ÖRKÉNY in red.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Örkény.svg",
+    "https://www.wikidata.org/wiki/Q727143",
+    "https://hu.wikipedia.org/wiki/Örkény_(település)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "maroon",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Örkény arms"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "bottom",
+      "role": "inscription ÖRKÉNY"
+    }
+  ]
+}

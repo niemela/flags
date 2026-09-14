@@ -1,0 +1,53 @@
+{
+  "id": "HU-PE-szentendre",
+  "name": "Szentendre (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-PE",
+  "codes": {
+    "wikidata": "Q390798"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Two equal horizontal stripes of yellow over blue, charged at the centre with the town arms of Szentendre (a blue shield with a white lamb within a yellow baroque frame) above the name SZENTENDRE in yellow.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Szentendre.svg",
+    "https://www.wikidata.org/wiki/Q390798",
+    "https://hu.wikipedia.org/wiki/Szentendre"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Szentendre arms in a yellow frame"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "inscription SZENTENDRE"
+    }
+  ]
+}

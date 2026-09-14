@@ -1,0 +1,59 @@
+{
+  "id": "HU-PE-szigetbecse",
+  "name": "Szigetbecse (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-PE",
+  "codes": {
+    "wikidata": "Q571326"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with blue horizontal stripes near the top and along the bottom edge, charged at the centre with the municipal arms of Szigetbecse: a blue and white shield with a white bend, a wavy stripe and a snake, inscribed SZIGETBECSE on a yellow chief.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Szigetbecse.svg",
+    "https://www.wikidata.org/wiki/Q571326",
+    "https://hu.wikipedia.org/wiki/Szigetbecse"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "position": "center",
+      "widths": [
+        1,
+        6,
+        1
+      ],
+      "role": "blue stripes"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Szigetbecse arms"
+    }
+  ]
+}

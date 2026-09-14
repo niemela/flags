@@ -1,0 +1,79 @@
+{
+  "id": "HU-PE-ocsa",
+  "name": "Ócsa (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-PE",
+  "codes": {
+    "wikidata": "Q281625"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Red field with a serrated stripe of red, white and green triangles along the top and bottom edges, a black church in the hoist and horizontal white stripes in the fly.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Ócsa.svg",
+    "https://www.wikidata.org/wiki/Q281625",
+    "https://hu.wikipedia.org/wiki/Ócsa"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "top",
+      "count": 12,
+      "role": "serrated top and bottom edges"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "top",
+      "count": 12,
+      "role": "serrated top and bottom edges"
+    },
+    {
+      "type": "building",
+      "color": "black",
+      "position": "hoist",
+      "role": "twin-towered church"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 7,
+      "position": "fly",
+      "role": "white stripes in the fly"
+    }
+  ]
+}

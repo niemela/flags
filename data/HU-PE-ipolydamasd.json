@@ -1,0 +1,59 @@
+{
+  "id": "HU-PE-ipolydamasd",
+  "name": "Ipolydamásd (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-PE",
+  "codes": {
+    "wikidata": "Q1089639"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A vertical white banner with a blue diagonal band across the upper fly corner and another across the lower hoist corner, charged at the centre with the municipal arms of Ipolydamásd (a blue and white shield with a castle and wavy stripes) above the name IPOLYDAMÁSD in black.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Ipolydamásd.svg",
+    "https://www.wikidata.org/wiki/Q1089639",
+    "https://hu.wikipedia.org/wiki/Ipolydamásd"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "upper-fly",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "corner band"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "lower-hoist",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "corner band"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Ipolydamásd arms"
+    }
+  ]
+}
