@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600" height="400" >
+<desc>Flag of Noviny pod Ralskem CZ</desc>
+
+<defs><path id="heart" d="M 0,0 L 16,-16 C 32,-32 12,-44 0,-32 C -12,-44 -32,-32 -16,-16 L 0,0 z" fill="yellow" /></defs>
+
+<rect height="400" width="600" fill="#0a0" />
+<rect height="400" width="200" fill="#000" />
+<rect height="80" width="400" x="200" y="80" fill="#ffd500" />
+<rect height="80" width="400" x="200" y="240" fill="#ffd500" />
+
+<use xlink:href="#heart" x="50"  y="120" />
+<use xlink:href="#heart" x="50"  y="220" />
+<use xlink:href="#heart" x="50"  y="320" />
+<use xlink:href="#heart" x="100" y="70" />
+<use xlink:href="#heart" x="100" y="170" />
+<use xlink:href="#heart" x="100" y="270" />
+<use xlink:href="#heart" x="100" y="370" />
+<use xlink:href="#heart" x="150" y="120" />
+<use xlink:href="#heart" x="150" y="220" />
+<use xlink:href="#heart" x="150" y="320" />
+
+<path d="M 0,0 L 600,0 L 600,400 L 0,400 L 0,0  z " fill="none" stroke="#000" stroke-width="1" />
+</svg>

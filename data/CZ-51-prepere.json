@@ -1,0 +1,67 @@
+{
+  "id": "CZ-51-prepere",
+  "name": "Přepeře (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-51",
+  "codes": {
+    "wikidata": "Q2115656"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "White field with two blue wavy stripes, and a canton divided red, black and yellow bearing a white scallop shell.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Přepeře_CZ.svg",
+    "https://www.wikidata.org/wiki/Q2115656",
+    "https://cs.wikipedia.org/wiki/P%C5%99epe%C5%99e_(okres_Semily)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "count": 2
+    },
+    {
+      "type": "canton",
+      "color": "red",
+      "position": "canton",
+      "features": [
+        {
+          "type": "glyph",
+          "color": "white",
+          "position": "center",
+          "role": "scallop shell"
+        }
+      ]
+    }
+  ]
+}

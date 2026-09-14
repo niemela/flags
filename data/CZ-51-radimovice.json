@@ -1,0 +1,68 @@
+{
+  "id": "CZ-51-radimovice",
+  "name": "Radimovice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-51",
+  "codes": {
+    "wikidata": "Q1449150"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a green band bearing white linden leaves into a red upper hoist part bearing a white cockerel and a white lower fly part bearing two blue wavy stripes.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Radimovice_CZ.svg",
+    "https://www.wikidata.org/wiki/Q1449150",
+    "https://cs.wikipedia.org/wiki/Radimovice_(okres_Liberec)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "white",
+      "direction": "bend-sinister",
+      "fimbriation": {
+        "color": "green"
+      }
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "cockerel"
+    },
+    {
+      "type": "leaf",
+      "color": "white",
+      "position": "center",
+      "role": "linden leaves"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "lower-fly",
+      "count": 2
+    }
+  ]
+}

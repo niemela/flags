@@ -1,0 +1,75 @@
+{
+  "id": "CZ-51-koberovy",
+  "name": "Koberovy (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-51",
+  "codes": {
+    "wikidata": "Q1777911"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Two horizontal stripes of black and a lower part divided red and green, with eight yellow hearts in the black and a yellow chalice over the division below.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Koberovy.svg",
+    "https://www.wikidata.org/wiki/Q1777911",
+    "https://cs.wikipedia.org/wiki/Koberovy"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2,
+      "position": "bottom"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "top",
+      "role": "hearts",
+      "count": 8
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "chalice"
+    }
+  ]
+}

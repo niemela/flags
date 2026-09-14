@@ -1,0 +1,63 @@
+{
+  "id": "CZ-51-noviny-pod-ralskem",
+  "name": "Noviny pod Ralskem (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-51",
+  "codes": {
+    "wikidata": "Q2003000"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A black vertical stripe at the hoist strewn with yellow hearts, and a fly of five horizontal stripes of green, yellow, green, yellow and green.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Noviny_pod_Ralskem_CZ_flag.svg",
+    "https://www.wikidata.org/wiki/Q2003000",
+    "https://cs.wikipedia.org/wiki/Noviny_pod_Ralskem"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "position": "hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "hearts strewn"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "green",
+        "yellow",
+        "green"
+      ],
+      "count": 5
+    }
+  ]
+}

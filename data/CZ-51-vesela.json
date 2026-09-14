@@ -1,0 +1,55 @@
+{
+  "id": "CZ-51-vesela",
+  "name": "Veselá (Semily District, Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-51",
+  "codes": {
+    "wikidata": "Q2523872"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into a white upper hoist part bearing a red sun issuing from the upper hoist corner and a green lower fly part.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 12 May 2016 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2016-05-12"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Veselá_CZ.svg",
+    "https://www.wikidata.org/wiki/Q2523872",
+    "https://cs.wikipedia.org/wiki/Vesel%C3%A1_(okres_Semily)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "sun",
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "quarter sun"
+    }
+  ]
+}

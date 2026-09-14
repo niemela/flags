@@ -1,0 +1,70 @@
+{
+  "id": "CZ-51-korenov",
+  "name": "Kořenov (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-51",
+  "codes": {
+    "wikidata": "Q1785841"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Blue field with a stripe of red and yellow diagonal bars along the top, and a yellow sun rising from a white tree stump with green oak leaves.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Kořenov_CZ.svg",
+    "https://www.wikidata.org/wiki/Q1785841",
+    "https://cs.wikipedia.org/wiki/Ko%C5%99enov"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "top",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2,
+      "role": "striped top band"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "tree",
+      "color": "white",
+      "position": "bottom",
+      "role": "tree stump with oak leaves"
+    }
+  ]
+}

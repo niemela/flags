@@ -1,0 +1,75 @@
+{
+  "id": "CZ-51-zahori",
+  "name": "Záhoří (Semily District, Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-51",
+  "codes": {
+    "wikidata": "Q246786"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Three horizontal stripes of blue, white and blue in the ratio 1:6:1, with a blue triangle issuing from the fly edge bearing a white triangle, a blue bell at the hoist and four yellow stars in the fly.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Záhoří_SM_CZ.svg",
+    "https://www.wikidata.org/wiki/Q246786",
+    "https://cs.wikipedia.org/wiki/Z%C3%A1ho%C5%99%C3%AD_(okres_Semily)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        6,
+        1
+      ]
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "fly"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "fly"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "hoist",
+      "role": "bell"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 6,
+      "color": "yellow",
+      "position": "fly"
+    }
+  ]
+}

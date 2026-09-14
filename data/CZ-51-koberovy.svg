@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600" height="400" viewBox="-75 0 150 100">
+<desc>Flag of Koberovy (CZ)</desc>
+<defs>
+	<path id="heart" transform="scale(1.5)" d="M 0,0 L 4,-4 C 8,-8 3,-11 0,-8 C -3,-11 -8,-8 -4,-4 L 0,0 z" fill="yellow" />
+</defs>
+
+<rect height="37.5" width="150" x="-75" fill="black" />
+<rect height="62.5" width="75" x="0" y="37.5" fill="green" />
+<rect height="62.5" width="75" x="-75" y="37.5" fill="red" />
+
+<use xlink:href="#heart" y="18" />
+<use xlink:href="#heart" y="33" />
+<use xlink:href="#heart" x="30" y="25" />
+<use xlink:href="#heart" x="60" y="18" />
+<use xlink:href="#heart" x="60" y="33" />
+<use xlink:href="#heart" x="-30" y="25" />
+<use xlink:href="#heart" x="-60" y="18" />
+<use xlink:href="#heart" x="-60" y="33" />
+
+<g id="chalice" fill="yellow" stroke="black" stroke-width="0.6" transform="translate(0,13) scale(0.86)" >
+	<circle id="wafer" r="9" cy="41" />
+	<path d="M 1,70 C2,85 7,93 16,95 v1 h-16 h-16 v-1 C -7,93 -2,85 -1,70  z" />
+	<circle r="4" cy="71" />
+	<path d="M 0,42 h15 C 14,61 13,70 0,70 C -13,70 -14,61 -15,42 z" />
+	<path d="M16,95 h-32"/>
+</g>
+</svg>

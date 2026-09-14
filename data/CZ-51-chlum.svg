@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600" height="400" viewBox="0 0 600 400">
+<desc>Flag of Chlum (CZ) – Česká Lípa District</desc>
+<defs>
+	<g id="cross" fill="red">
+		<path id="arm" d="M0,20 l20,-20 v-40 l30,-30 v-40 l-30,27 v-60 h-40 v60 l-30,-27 v40 l30,30 v40 z" />
+		<use xlink:href="#arm" transform="rotate(90)" />
+		<use xlink:href="#arm" transform="rotate(180)" />
+		<use xlink:href="#arm" transform="rotate(270)" />
+	</g>
+</defs>
+<rect height="400" width="600" fill="#009900" />
+<rect height="300" width="500" x="50" y="50" fill="white" />
+<use xlink:href="#cross" transform="translate(300,200)" />
+</svg>

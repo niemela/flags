@@ -1,0 +1,67 @@
+{
+  "id": "CZ-51-lazne-libverda",
+  "name": "Lázně Libverda (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-51",
+  "codes": {
+    "wikidata": "Q1300631"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a white band into a blue upper hoist part bearing a yellow cockerel with red comb and a white lower fly part bearing a red heart.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 18 March 2003 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2003-03-18"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Lazne_Libverda.svg",
+    "https://www.wikidata.org/wiki/Q1300631",
+    "https://cs.wikipedia.org/wiki/L%C3%A1zn%C4%9B_Libverda"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "white",
+      "direction": "bend-sinister",
+      "fimbriation": {
+        "color": "white"
+      }
+    },
+    {
+      "type": "bird",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "cockerel"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "lower-fly",
+      "role": "heart"
+    }
+  ]
+}

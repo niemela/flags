@@ -1,0 +1,77 @@
+{
+  "id": "CZ-51-skuhrov",
+  "name": "Skuhrov (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-51",
+  "codes": {
+    "wikidata": "Q2010122"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Two horizontal stripes of red and a lower part divided yellow and black in the ratio 1:2, with white glass-blowing tongs in the red and a linden tree counterchanged green and yellow over the lower division.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Skuhrov_CZ.svg",
+    "https://www.wikidata.org/wiki/Q2010122",
+    "https://cs.wikipedia.org/wiki/Skuhrov_(okres_Jablonec_nad_Nisou)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "black"
+      ],
+      "count": 2,
+      "position": "bottom"
+    },
+    {
+      "type": "tool",
+      "color": "white",
+      "position": "top",
+      "role": "tongs"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "bottom",
+      "role": "counterchanged linden tree"
+    }
+  ]
+}
