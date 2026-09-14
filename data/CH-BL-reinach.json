@@ -1,0 +1,62 @@
+{
+  "id": "CH-BL-reinach",
+  "name": "Reinach, Basel-Landschaft (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BL",
+  "codes": {
+    "wikidata": "Q69747"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Reinach: divided vertically, white with a red Basel staff, and blue with three yellow balls in a column.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Reinach_BL_Flag.svg",
+    "https://www.wikidata.org/wiki/Q69747",
+    "https://de.wikipedia.org/wiki/Reinach_BL",
+    "https://fr.wikipedia.org/wiki/Reinach_(Bâle-Campagne)",
+    "https://it.wikipedia.org/wiki/Reinach_(Basilea_Campagna)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "Basel staff (crozier)"
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "position": "fly",
+      "count": 3,
+      "role": "three balls"
+    }
+  ]
+}

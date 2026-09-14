@@ -1,0 +1,74 @@
+{
+  "id": "CH-BL-roschenz",
+  "name": "Röschenz (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BL",
+  "codes": {
+    "wikidata": "Q66368"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square banner of the arms of Röschenz: divided vertically, black with a white Basel staff, and white with a blue wavy bar between two red roses with yellow centres and green sepals.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Röschenz_Flag.svg",
+    "https://www.wikidata.org/wiki/Q66368",
+    "https://de.wikipedia.org/wiki/Röschenz",
+    "https://fr.wikipedia.org/wiki/Röschenz",
+    "https://it.wikipedia.org/wiki/Röschenz"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "Basel staff (crozier)"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "role": "wavy bar"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "fly",
+      "count": 2,
+      "role": "roses"
+    }
+  ]
+}

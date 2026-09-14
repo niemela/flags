@@ -1,0 +1,72 @@
+{
+  "id": "CH-BL-wenslingen",
+  "name": "Wenslingen (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BL",
+  "codes": {
+    "wikidata": "Q67024"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Wenslingen: divided vertically, yellow with a green fir on a black base, and red with a yellow ear of wheat.",
+  "history": "The arms have existed since 1946; the flag is the square banner of the arms.",
+  "periods": [
+    {
+      "start": "1946"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Wenslingen_Flag.svg",
+    "https://www.wikidata.org/wiki/Q67024",
+    "https://de.wikipedia.org/wiki/Wenslingen",
+    "https://fr.wikipedia.org/wiki/Wenslingen",
+    "https://it.wikipedia.org/wiki/Wenslingen"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist",
+      "role": "fir on a black base"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "lower-hoist",
+      "role": "base"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "fly",
+      "role": "ear of wheat"
+    }
+  ]
+}

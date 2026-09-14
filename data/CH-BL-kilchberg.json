@@ -1,0 +1,52 @@
+{
+  "id": "CH-BL-kilchberg",
+  "name": "Kilchberg, Basel-Landschaft (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-BL",
+  "codes": {
+    "wikidata": "Q66811"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Square banner of the arms of Kilchberg: on white a black spade blade set diagonally with three black bends.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Kilchberg_BL_Flag.svg",
+    "https://www.wikidata.org/wiki/Q66811",
+    "https://de.wikipedia.org/wiki/Kilchberg_BL",
+    "https://fr.wikipedia.org/wiki/Kilchberg_(Bâle-Campagne)",
+    "https://it.wikipedia.org/wiki/Kilchberg_(Basilea_Campagna)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "spade blade set diagonally"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "black",
+      "position": "lower-hoist",
+      "count": 3,
+      "direction": "bend"
+    }
+  ]
+}
