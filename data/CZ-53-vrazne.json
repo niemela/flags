@@ -1,0 +1,66 @@
+{
+  "id": "CZ-53-vrazne",
+  "name": "Vrážné (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-53",
+  "codes": {
+    "wikidata": "Q1844059"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with a yellow embattled vertical stripe at the hoist, two white roses with yellow centres and a yellow patriarchal cross.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 18 June 2003 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2003-06-18"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Vrážné_flag_CZ.svg",
+    "https://www.wikidata.org/wiki/Q1844059",
+    "https://cs.wikipedia.org/wiki/Vr%C3%A1%C5%BEn%C3%A9"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "embattled hoist stripe"
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "top",
+      "role": "roses",
+      "count": 2
+    },
+    {
+      "type": "latin-cross",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "patriarchal cross"
+    }
+  ]
+}

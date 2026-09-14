@@ -1,0 +1,66 @@
+{
+  "id": "CZ-53-brnenec",
+  "name": "Brněnec (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-53",
+  "codes": {
+    "wikidata": "Q510483"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Three vertical stripes of white, red and white in the ratio 1:4:1, the red bearing a blue lozenge with a yellow acorn between two oak leaves.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Brněnec_flag_CZ.svg",
+    "https://www.wikidata.org/wiki/Q510483",
+    "https://cs.wikipedia.org/wiki/Brn%C4%9Bnec"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        4,
+        1
+      ]
+    },
+    {
+      "type": "lozenge",
+      "color": "blue",
+      "position": "center"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "acorn with oak leaves"
+    }
+  ]
+}

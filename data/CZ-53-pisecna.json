@@ -1,0 +1,65 @@
+{
+  "id": "CZ-53-pisecna",
+  "name": "Písečná (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-53",
+  "codes": {
+    "wikidata": "Q2520986"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Two vertical stripes of yellow and green in the ratio 1:2, with a black and white hunting horn in the yellow and a yellow stag in the green.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Pisecna_CZ.svg",
+    "https://www.wikidata.org/wiki/Q2520986",
+    "https://cs.wikipedia.org/wiki/P%C3%ADse%C4%8Dn%C3%A1_(okres_%C3%9Ast%C3%AD_nad_Orlic%C3%AD)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "hoist",
+      "role": "hunting horn"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "fly",
+      "role": "stag"
+    }
+  ]
+}

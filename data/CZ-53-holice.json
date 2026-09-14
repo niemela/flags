@@ -1,0 +1,62 @@
+{
+  "id": "CZ-53-holice",
+  "name": "Holice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-53",
+  "codes": {
+    "wikidata": "Q1624693"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into a yellow upper hoist part and a blue lower fly part, with a black diagonal stripe on the yellow and a white diagonal stripe on the blue along the division.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 9 April 2002 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2002-04-09"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Holice.svg",
+    "https://www.wikidata.org/wiki/Q1624693",
+    "https://cs.wikipedia.org/wiki/Holice"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "position": "center",
+      "stripes": [
+        "black",
+        "white"
+      ],
+      "count": 2,
+      "direction": "bend-sinister"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "CZ-53-rudna",
+  "name": "Rudná (Svitavy District, Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-53",
+  "codes": {
+    "wikidata": "Q507522"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly by a yellow band into a green upper part bearing a white sickle and a black lower part bearing crossed white miners' hammers.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 9 April 2002 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2002-04-09"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Rudná_flag_CZ.svg",
+    "https://www.wikidata.org/wiki/Q507522",
+    "https://cs.wikipedia.org/wiki/Rudn%C3%A1_(okres_Svitavy)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "black",
+      "direction": "bend",
+      "fimbriation": {
+        "color": "yellow"
+      }
+    },
+    {
+      "type": "tool",
+      "color": "white",
+      "position": "lower-hoist",
+      "role": "sickle"
+    },
+    {
+      "type": "tool",
+      "color": "white",
+      "position": "upper-fly",
+      "role": "crossed hammers"
+    }
+  ]
+}

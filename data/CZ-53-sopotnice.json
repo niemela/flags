@@ -1,0 +1,71 @@
+{
+  "id": "CZ-53-sopotnice",
+  "name": "Sopotnice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-53",
+  "codes": {
+    "wikidata": "Q2520607"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with a stepped chequered red and white stripe at the hoist and a yellow orb above crossed white miners' hammers and a white sudarium.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 11 May 2006 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2006-05-11"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Sopotnice_CZ.svg",
+    "https://www.wikidata.org/wiki/Q2520607",
+    "https://cs.wikipedia.org/wiki/Sopotnice"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "chequy",
+      "position": "hoist",
+      "field": "red",
+      "chequy": "white",
+      "columns": 3,
+      "rows": 7,
+      "role": "stepped hoist stripe"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "fly",
+      "role": "orb"
+    },
+    {
+      "type": "tool",
+      "color": "white",
+      "position": "fly",
+      "role": "crossed hammers"
+    }
+  ]
+}

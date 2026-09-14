@@ -1,0 +1,70 @@
+{
+  "id": "CZ-53-strazna",
+  "name": "Strážná (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-53",
+  "codes": {
+    "wikidata": "Q2009641"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into a yellow upper hoist part bearing a brown eagle with red beak and legs and a blue lower fly part bearing two white snowdrops on green stems.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 14 March 2002 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2002-03-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Strazna_CZ.svg",
+    "https://www.wikidata.org/wiki/Q2009641",
+    "https://cs.wikipedia.org/wiki/Str%C3%A1%C5%BEn%C3%A1"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "eagle",
+      "color": "brown",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "lower-fly",
+      "role": "snowdrops",
+      "count": 2
+    }
+  ]
+}

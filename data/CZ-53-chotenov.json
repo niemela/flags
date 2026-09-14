@@ -1,0 +1,66 @@
+{
+  "id": "CZ-53-chotenov",
+  "name": "Chotěnov (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-53",
+  "codes": {
+    "wikidata": "Q2520726"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into a red upper hoist part and a white lower fly part, with a red diagonal stripe in the white and a white diagonal stripe in the red.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 9 December 2002 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2002-12-09"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Chotenov.svg",
+    "https://www.wikidata.org/wiki/Q2520726",
+    "https://cs.wikipedia.org/wiki/Chot%C4%9Bnov"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "white",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "upper-hoist",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "lower-fly",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "direction": "bend-sinister"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "CZ-53-hradek",
+  "name": "Hrádek (Ústí nad Orlicí District, Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-53",
+  "codes": {
+    "wikidata": "Q2351861"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three horizontal stripes of yellow, navy blue and yellow in the ratio 1:2:1, with a white two-towered castle and a yellow spruce in the blue.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hradek_CZ.svg",
+    "https://www.wikidata.org/wiki/Q2351861",
+    "https://cs.wikipedia.org/wiki/Hr%C3%A1dek_(okres_%C3%9Ast%C3%AD_nad_Orlic%C3%AD)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "navy",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "two-towered castle"
+    },
+    {
+      "type": "tree",
+      "color": "yellow",
+      "position": "center",
+      "role": "spruce"
+    }
+  ]
+}

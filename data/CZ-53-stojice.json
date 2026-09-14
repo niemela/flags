@@ -1,0 +1,74 @@
+{
+  "id": "CZ-53-stojice",
+  "name": "Stojice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-53",
+  "codes": {
+    "wikidata": "Q1917015"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Two equal horizontal stripes of red and green separated by a wavy line, with a yellow sun in the red and white and blue wavy stripes in the green.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 20 January 2005 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2005-01-20"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Stojice.svg",
+    "https://www.wikidata.org/wiki/Q1917015",
+    "https://cs.wikipedia.org/wiki/Stojice"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "wave",
+      "color": "green",
+      "position": "center",
+      "role": "wavy division"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "top"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "bottom",
+      "count": 2
+    }
+  ]
+}

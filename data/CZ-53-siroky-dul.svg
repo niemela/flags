@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<path d="m0 0h122l200 200-200 200h-122z" fill="#008000"/>
+	<path d="m160 0h40l200 200-200 200h-40l200-200z m80 0l200 200-200 200h360v-400z" fill="#fff"/>
+	<path d="m200 0h40l200 200-200 200h-40l200-200zm-80 0h40l200 200-200 200h-40l200-200z" fill="#04a"/>
+	<path d="m0 180h120v-180l40 40v140h140l20 20-20 20h-140v140l-40 40v-180h-120z" fill="#fc0"/>
+	<path id="drop" d="m504 231c0 13 12 24 28 24s28-11 28-24c0-30-28-86-28-86s-28 56-28 86z" fill="#04a"/>
+	<use x="-56" y="100" xlink:href="#drop"/>
+	<use x="-56" y="-100" xlink:href="#drop"/>
+</svg>

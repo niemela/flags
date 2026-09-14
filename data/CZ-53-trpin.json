@@ -1,0 +1,84 @@
+{
+  "id": "CZ-53-trpin",
+  "name": "Trpín (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-53",
+  "codes": {
+    "wikidata": "Q1231891"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Two horizontal stripes of white and a lower part divided green and red in the ratio 1:2, with a red crown in the white, a yellow wheat sheaf in the green and a white tower in the red.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 27 June 2001 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2001-06-27"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Trpín_flag_CZ.svg",
+    "https://www.wikidata.org/wiki/Q1231891",
+    "https://cs.wikipedia.org/wiki/Trp%C3%ADn"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "red"
+      ],
+      "count": 2,
+      "position": "bottom"
+    },
+    {
+      "type": "crown",
+      "color": "red",
+      "position": "top"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "lower-hoist",
+      "role": "sheaf"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "lower-fly",
+      "role": "tower"
+    }
+  ]
+}

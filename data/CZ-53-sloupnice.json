@@ -1,0 +1,74 @@
+{
+  "id": "CZ-53-sloupnice",
+  "name": "Sloupnice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-53",
+  "codes": {
+    "wikidata": "Q2067993"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with green and yellow vertical stripes at the hoist and fly and a white swan with yellow beak in the centre.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 14 March 2002 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2002-03-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Sloupnice_flag_CZ.svg",
+    "https://www.wikidata.org/wiki/Q2067993",
+    "https://cs.wikipedia.org/wiki/Sloupnice"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2,
+      "position": "hoist"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2,
+      "position": "fly"
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "position": "center",
+      "role": "swan"
+    }
+  ]
+}

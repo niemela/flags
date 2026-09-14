@@ -1,0 +1,79 @@
+{
+  "id": "CZ-53-radkov",
+  "name": "Radkov (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-53",
+  "codes": {
+    "wikidata": "Q2089043"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three vertical stripes of red, blue and yellow in the ratio 1:4:1 separated by embattled lines, with a white stag's antler and three yellow six-pointed stars in the blue.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 25 March 2005 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2005-03-25"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Radkov_flag_CZ.svg",
+    "https://www.wikidata.org/wiki/Q2089043",
+    "https://cs.wikipedia.org/wiki/Radkov_(okres_Svitavy)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "blue",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        4,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "embattled divisions"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "antler"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 6,
+      "color": "yellow",
+      "position": "center"
+    }
+  ]
+}
