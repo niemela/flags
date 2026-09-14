@@ -1,0 +1,57 @@
+{
+  "id": "PL-18-lancut-county",
+  "name": "Łańcut County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-18",
+  "codes": {
+    "wikidata": "Q1340547"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field charged at the centre with the emblem of the county arms: a white Maltese cross bearing a red shield with a figure and a serpent.",
+  "history": "Established by resolution No. XXIV/144/2001 of the county council of 6 January 2001.",
+  "periods": [
+    {
+      "start": "2001-01-06"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_łańcucki_flag.svg",
+    "https://www.wikidata.org/wiki/Q1340547",
+    "https://pl.wikipedia.org/wiki/Powiat_łańcucki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_podkarpackim",
+    "http://www.powiat-lancut.itl.pl/bip/index.php?page=bip.php&under=135&grp=31"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "Maltese cross from the county arms"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "shield with the county emblem on the cross"
+    }
+  ]
+}

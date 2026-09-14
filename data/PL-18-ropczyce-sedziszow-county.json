@@ -1,0 +1,81 @@
+{
+  "id": "PL-18-ropczyce-sedziszow-county",
+  "name": "Ropczyce-Sędziszów County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-18",
+  "codes": {
+    "wikidata": "Q1335538"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Two horizontal stripes, a wider red over light blue, charged on the red with the emblems of the county arms, a crowned yellow letter R and the white Odrowąż arrow mark, and on the light blue with five yellow stars for the municipalities of the county.",
+  "history": "Established by resolution No. XXXIV/185/2002 of the county council of 26 September 2002.",
+  "periods": [
+    {
+      "start": "2002-09-26"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_ropczycko-sędziszowski_flag.svg",
+    "https://www.wikidata.org/wiki/Q1335538",
+    "https://pl.wikipedia.org/wiki/Powiat_ropczycko-sędziszowski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_podkarpackim",
+    "https://www.spropczyce.pl/powiat/statut-i-regulamin-powiatu",
+    "https://www.spropczyce.pl/powiat/insygnia-powiatu/flaga-powiatu"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "light-blue"
+      ],
+      "count": 2,
+      "widths": [
+        3,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "crowned letter R from the county arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "upper-fly",
+      "role": "Odrowąż mark from the county arms"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "yellow",
+      "position": "bottom",
+      "arrangement": "row"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "PL-18-bieszczady-county",
+  "name": "Bieszczady County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-18",
+  "codes": {
+    "wikidata": "Q163121"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field charged at the centre with the emblem of the county arms: a yellow rampant lion between two stars above a crescent.",
+  "history": "Established by resolution No. XXVI/167/12 of the county council of 31 January 2013.",
+  "periods": [
+    {
+      "start": "2013-01-31"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_bieszczadzki_flag.svg",
+    "https://www.wikidata.org/wiki/Q163121",
+    "https://pl.wikipedia.org/wiki/Powiat_bieszczadzki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_podkarpackim",
+    "https://edziennik.rzeszow.uw.gov.pl/legalact/2013/941",
+    "https://bieszczadzki.pl/strona-2032-symbole_powiatu.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "center",
+      "role": "lion from the county arms"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 6,
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "crescent",
+      "color": "yellow",
+      "position": "center"
+    }
+  ]
+}

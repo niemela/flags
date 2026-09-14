@@ -1,0 +1,61 @@
+{
+  "id": "PL-18-jaroslaw-county",
+  "name": "Jarosław County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-18",
+  "codes": {
+    "wikidata": "Q643915"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Three vertical stripes of white, red and white in the ratio 1:3:1, charged at the centre with the county arms of Jarosław: a blue shield with a white castle gate, scales and an eagle.",
+  "history": "Established by resolution No. XXII/174/2001 of the county council of 2 March 2001.",
+  "periods": [
+    {
+      "start": "2001-03-02"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Jarosław_County_Flag.svg",
+    "https://www.wikidata.org/wiki/Q643915",
+    "https://pl.wikipedia.org/wiki/Powiat_jarosławski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_podkarpackim",
+    "https://powiat.jaroslawski.pl/o-powiecie/herb-i-logo"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Jarosław county arms"
+    }
+  ]
+}
