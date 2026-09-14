@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600" height="400" viewBox="0 0 600 400" id="sirejovice_flag_svg">
+<desc>Flag of Sirejovice LT CZ</desc>
+
+<defs>
+<path id="window" d="M 0,26 L 0,4 L 3,2.5 C 7,0.5 14,0.5 18,2.5 L 21,4 L 21,26 L 0,26 z " x="0" y="0" fill="#000" stroke="#000" stroke-width="1" />
+
+<path id="corbel" d="M 0,0 L 9,0 L 9,7 L 0,7 L 0,0 z " fill="#ffd500" stroke="#000" stroke-width="1" />
+
+<clipPath id="flag_mask">
+<path id="flag" d="M 0,0 L 600,0 L 600,400 L 0,400 L 0,0 z" /></clipPath>
+</defs>
+
+<rect height="400" width="600" fill="#05f" />
+
+<rect height="150" width="200" fill="#fff" />
+
+<path d="M 75,0 L 125,0 L 125,50 L 200,50 L 200,100 L 125,100 L 125,150 L 75,150 L 75,100 L 0,100 L 0,50 L 75,50 L 75,0 z " fill="#f00" id="red_cross" />
+
+<path d="M 45,210 L 155,210 L 155,345 L 45,345 L 45,210 z " fill="#ffd500" stroke="#000" stroke-width="1" id="tower_body"/>
+
+<path d="M 37,210 L 37,183 L 50,183 L 50,191 L 55,191 L 55,197 L 60,197 L 60,191 L 65,191 L 65,183 L 78,183 L 78,191 L 83,191 L 83,197 L 88,197 L 88,191 L 93,191 L 93,183 L 106,183 L 106,191 L 111,191 L 111,197 L 116,197 L 116,191 L 121,191 L 121,183 L 135,183 L 135,191 L 140,191 L 140,197 L 145,197 L 145,191 L 150,191 L 150,183 L 163,183 L 163,210 L 37,210  z " fill="#ffd500" stroke="#000" stroke-width="1" id="battlement" />
+
+<use xlink:href="#corbel" x="53" y="210" />
+<use xlink:href="#corbel" x="81" y="210" />
+<use xlink:href="#corbel" x="109" y="210" />
+<use xlink:href="#corbel" x="137" y="210" />
+
+<path d="M 86,345 L 86,303 L 90,301 C 95.333,299 104.666,299 110,301 L 114,303 L 114,345 L 86,345 z " fill="#000" stroke="#000" stroke-width="1" id="door"/>
+
+<use xlink:href="#window" x="53" y="229" />
+<use xlink:href="#window" x="53" y="264" />
+<use xlink:href="#window" x="53" y="299" />
+
+<use xlink:href="#window" x="90" y="229" />
+<use xlink:href="#window" x="90" y="264" />
+
+<use xlink:href="#window" x="127" y="229" />
+<use xlink:href="#window" x="127" y="264" />
+<use xlink:href="#window" x="127" y="299" />
+
+<circle cx="100" cy="537" r="200" fill="#0a0" clip-path="url(#flag_mask)" id="green_hill"/>
+
+<rect height="250" width="400" x="200" y="150" fill="#ffd500" />
+
+<path d="M 0,0 L 600,0 L 600,400 L 0,400 L 0,0 z " fill="none" stroke="#000" stroke-width="1" /></svg>

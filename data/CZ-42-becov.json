@@ -1,0 +1,68 @@
+{
+  "id": "CZ-42-becov",
+  "name": "Bečov (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-42",
+  "codes": {
+    "wikidata": "Q854583"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A vertical stripe at the hoist striped diagonally black and yellow, and a fly of two equal horizontal stripes of white over blue.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Becov.svg",
+    "https://www.wikidata.org/wiki/Q854583",
+    "https://cs.wikipedia.org/wiki/Be%C4%8Dov"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "position": "hoist"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "hoist",
+      "stripes": [
+        "black",
+        "yellow"
+      ],
+      "count": 2,
+      "direction": "bend"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2
+    }
+  ]
+}

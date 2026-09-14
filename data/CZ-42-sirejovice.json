@@ -1,0 +1,85 @@
+{
+  "id": "CZ-42-sirejovice",
+  "name": "Siřejovice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-42",
+  "codes": {
+    "wikidata": "Q2065566"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A hoist third divided into a white upper part with a red cross and a blue lower part with a yellow tower on a green mound, and a fly of two equal horizontal stripes of blue over yellow.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Sirejovice_CZ_flag.svg",
+    "https://www.wikidata.org/wiki/Q2065566",
+    "https://cs.wikipedia.org/wiki/Si%C5%99ejovice"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2,
+      "position": "hoist"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "lower-hoist",
+      "role": "tower on a mound"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2,
+      "position": "fly"
+    }
+  ]
+}

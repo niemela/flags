@@ -1,0 +1,61 @@
+{
+  "id": "CZ-42-hostomice",
+  "name": "Hostomice (Teplice District, Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-42",
+  "codes": {
+    "wikidata": "Q617862"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Two vertical stripes of green and white in the ratio 1:1 separated by a stepped line with red squares along it, and crossed yellow miners' hammers in the green.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hostomice.svg",
+    "https://www.wikidata.org/wiki/Q617862",
+    "https://cs.wikipedia.org/wiki/Hostomice_(okres_Teplice)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "stepped division with red squares"
+    },
+    {
+      "type": "tool",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "crossed hammers"
+    }
+  ]
+}

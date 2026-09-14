@@ -1,0 +1,83 @@
+{
+  "id": "CZ-42-stare-krecany",
+  "name": "Staré Křečany (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-42",
+  "codes": {
+    "wikidata": "Q285145"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A hoist third divided into a white upper part bearing a red rose and a red lower part bearing a white rose, and a plain green fly.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 8 June 2004 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2004-06-08"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Staré_Křečany.svg",
+    "https://www.wikidata.org/wiki/Q285145",
+    "https://cs.wikipedia.org/wiki/Star%C3%A9_K%C5%99e%C4%8Dany"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "position": "hoist"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "rose"
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "lower-hoist",
+      "role": "rose"
+    },
+    {
+      "type": "solid",
+      "color": "green"
+    }
+  ]
+}

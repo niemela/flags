@@ -1,0 +1,63 @@
+{
+  "id": "CZ-42-vsestudy",
+  "name": "Všestudy (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-42",
+  "codes": {
+    "wikidata": "Q2305062"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Three horizontal stripes of white, a middle stripe chequered yellow and black, and blue in the ratio 1:1:1.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 5 December 2012 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2012-12-05"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Všestudy_(CV),_vlajka.svg",
+    "https://www.wikidata.org/wiki/Q2305062",
+    "https://cs.wikipedia.org/wiki/V%C5%A1estudy_(okres_Chomutov)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "yellow",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "chequy",
+      "position": "center",
+      "field": "yellow",
+      "chequy": "black",
+      "rows": 3,
+      "columns": 9
+    }
+  ]
+}

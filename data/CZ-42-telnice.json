@@ -1,0 +1,57 @@
+{
+  "id": "CZ-42-telnice",
+  "name": "Telnice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-42",
+  "codes": {
+    "wikidata": "Q145812"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a white band into a red upper hoist part bearing a blue twelve-pointed star and a green lower fly part.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Telnice_UL_CZ_flag.svg",
+    "https://www.wikidata.org/wiki/Q145812",
+    "https://cs.wikipedia.org/wiki/Telnice_(okres_%C3%9Ast%C3%AD_nad_Labem)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend-sinister",
+      "fimbriation": {
+        "color": "white"
+      }
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 12,
+      "color": "blue",
+      "position": "upper-hoist"
+    }
+  ]
+}
