@@ -1,0 +1,59 @@
+{
+  "id": "PL-08-zary-county",
+  "name": "Żary County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-08",
+  "codes": {
+    "wikidata": "Q318459"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Yellow field crossed by a diagonal band of white and red from the upper hoist to the lower fly, charged at the centre with the county arms of Żary: a red shield with a yellow stag's antler, an arrow and a star.",
+  "history": "Polish county (powiat) and city flags are established by resolution of the council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_żarski_flag.svg",
+    "https://www.wikidata.org/wiki/Q318459",
+    "https://pl.wikipedia.org/wiki/Powiat_żarski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_lubuskim"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "position": "center",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "direction": "bend",
+      "role": "white and red diagonal band"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Żary county arms"
+    }
+  ]
+}

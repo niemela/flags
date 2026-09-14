@@ -1,0 +1,60 @@
+{
+  "id": "PL-08-zielona-gora-county",
+  "name": "Zielona Góra County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-08",
+  "codes": {
+    "wikidata": "Q318384"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Yellow field crossed by three parallel diagonal stripes from the upper hoist to the lower fly, two blue and one green, the colours of the county arms.",
+  "history": "Established by resolution No. XIII/112/2000 of the county council of 29 June 2000.",
+  "periods": [
+    {
+      "start": "2000-06-29"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_zielonogórski_flag.svg",
+    "https://www.wikidata.org/wiki/Q318384",
+    "https://pl.wikipedia.org/wiki/Powiat_zielonogórski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_lubuskim"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "position": "center",
+      "stripes": [
+        "blue",
+        "green",
+        "blue"
+      ],
+      "count": 3,
+      "direction": "bend",
+      "role": "three diagonal stripes"
+    }
+  ]
+}

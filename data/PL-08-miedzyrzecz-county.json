@@ -1,0 +1,58 @@
+{
+  "id": "PL-08-miedzyrzecz-county",
+  "name": "Międzyrzecz County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-08",
+  "codes": {
+    "wikidata": "Q317917"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field crossed by two white wavy lines set one eighth from the top and bottom edges, charged towards the hoist with the emblem of the county arms: a white eagle's head.",
+  "history": "Established by resolution No. XLIX/324/10 of the county council of 28 September 2010.",
+  "periods": [
+    {
+      "start": "2010-09-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_międzyrzecki_flag.svg",
+    "https://www.wikidata.org/wiki/Q317917",
+    "https://pl.wikipedia.org/wiki/Powiat_międzyrzecki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_lubuskim"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "top",
+      "count": 2,
+      "role": "wavy lines near the top and bottom edges"
+    },
+    {
+      "type": "eagle",
+      "color": "white",
+      "position": "hoist",
+      "role": "eagle's head from the county arms"
+    }
+  ]
+}
