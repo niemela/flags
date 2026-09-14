@@ -1,0 +1,61 @@
+{
+  "id": "CH-VD-treycovagnes",
+  "name": "Treycovagnes (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q68718"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Treycovagnes: on yellow a red bend charged with three yellow scallop shells, between two green fir branches.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Treycovagnes_Flag.svg",
+    "https://www.wikidata.org/wiki/Q68718",
+    "https://de.wikipedia.org/wiki/Treycovagnes",
+    "https://fr.wikipedia.org/wiki/Treycovagnes",
+    "https://it.wikipedia.org/wiki/Treycovagnes"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "shell",
+      "color": "yellow",
+      "position": "center",
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "two fir branches"
+    }
+  ]
+}

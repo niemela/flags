@@ -1,0 +1,64 @@
+{
+  "id": "CH-VD-penthalaz",
+  "name": "Penthalaz (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q70659"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Penthalaz: divided vertically blue and yellow, with a wavy bend sinister in white and a mill wheel counterchanged on each half.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Penthalaz_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70659",
+    "https://de.wikipedia.org/wiki/Penthalaz",
+    "https://fr.wikipedia.org/wiki/Penthalaz",
+    "https://it.wikipedia.org/wiki/Penthalaz"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "center",
+      "role": "wavy bend sinister"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "lower-hoist",
+      "role": "mill wheel"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "upper-fly",
+      "role": "mill wheel"
+    }
+  ]
+}

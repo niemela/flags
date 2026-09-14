@@ -1,0 +1,73 @@
+{
+  "id": "CH-VD-la-praz",
+  "name": "La Praz (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q70549"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square banner of the arms of La Praz: white with a red chief charged with three yellow stars, and a green fir branch with red cones below.",
+  "history": "The arms were adopted in 1928; the flag is the square banner of the arms.",
+  "periods": [
+    {
+      "start": "1928"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_La_Praz_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70549",
+    "https://de.wikipedia.org/wiki/La_Praz_VD",
+    "https://fr.wikipedia.org/wiki/La_Praz",
+    "https://it.wikipedia.org/wiki/La_Praz"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "role": "red chief"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "yellow",
+      "position": "top",
+      "arrangement": "row"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "fir branch with red cones"
+    }
+  ]
+}

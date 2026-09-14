@@ -1,0 +1,69 @@
+{
+  "id": "CH-VD-montreux",
+  "name": "Montreux (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q69354"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Montreux: divided vertically, white with two red stars and two red crescents in a column, and blue with a yellow church.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Montreux_Flag.svg",
+    "https://www.wikidata.org/wiki/Q69354",
+    "https://de.wikipedia.org/wiki/Montreux",
+    "https://fr.wikipedia.org/wiki/Montreux",
+    "https://it.wikipedia.org/wiki/Montreux"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "red",
+      "position": "hoist",
+      "arrangement": "column"
+    },
+    {
+      "type": "crescent",
+      "color": "red",
+      "position": "hoist",
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "role": "church"
+    }
+  ]
+}

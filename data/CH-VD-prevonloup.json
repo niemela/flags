@@ -1,0 +1,47 @@
+{
+  "id": "CH-VD-prevonloup",
+  "name": "Prévonloup (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q70563"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Prévonloup: divided diagonally from the upper hoist red and white, with two covered chalices counterchanged.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Prévonloup_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70563",
+    "https://de.wikipedia.org/wiki/Prévonloup",
+    "https://fr.wikipedia.org/wiki/Prévonloup",
+    "https://it.wikipedia.org/wiki/Prévonloup"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "white",
+      "direction": "bend"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "two covered chalices counterchanged red and white"
+    }
+  ]
+}

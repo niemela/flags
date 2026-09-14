@@ -1,0 +1,74 @@
+{
+  "id": "CH-VD-gilly",
+  "name": "Gilly (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q70383"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Gilly: red with a chief charged with three yellow scallop shells, below white with red pales and a yellow chevron over all.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Gilly_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70383",
+    "https://de.wikipedia.org/wiki/Gilly_VD",
+    "https://fr.wikipedia.org/wiki/Gilly_(Vaud)",
+    "https://it.wikipedia.org/wiki/Gilly"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "role": "red chief"
+    },
+    {
+      "type": "shell",
+      "color": "yellow",
+      "position": "top",
+      "count": 3
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "red"
+      ],
+      "count": 2,
+      "position": "bottom",
+      "role": "pales"
+    },
+    {
+      "type": "chevron",
+      "color": "yellow",
+      "position": "bottom",
+      "field": "white",
+      "chevron": "yellow"
+    }
+  ]
+}

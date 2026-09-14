@@ -1,0 +1,70 @@
+{
+  "id": "CH-VD-ursins",
+  "name": "Ursins (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q70046"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Ursins: white with three blue pales, over all a red bend charged with three yellow bear's heads.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Ursins_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70046",
+    "https://de.wikipedia.org/wiki/Ursins",
+    "https://fr.wikipedia.org/wiki/Ursins",
+    "https://it.wikipedia.org/wiki/Ursins"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "blue",
+        "blue"
+      ],
+      "count": 3,
+      "position": "center",
+      "role": "three pales"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "center",
+      "count": 3,
+      "role": "bear's heads"
+    }
+  ]
+}

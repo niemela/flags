@@ -1,0 +1,70 @@
+{
+  "id": "CH-VD-cudrefin",
+  "name": "Cudrefin (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q70192"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Cudrefin: divided horizontally, red and white with a blue fish across the division, and yellow with a red crayfish.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Cudrefin_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70192",
+    "https://de.wikipedia.org/wiki/Cudrefin",
+    "https://fr.wikipedia.org/wiki/Cudrefin",
+    "https://it.wikipedia.org/wiki/Cudrefin"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "position": "top"
+    },
+    {
+      "type": "animal-other",
+      "color": "blue",
+      "position": "top",
+      "role": "fish"
+    },
+    {
+      "type": "animal-other",
+      "color": "red",
+      "position": "bottom",
+      "role": "crayfish"
+    }
+  ]
+}

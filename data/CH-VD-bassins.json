@@ -1,0 +1,71 @@
+{
+  "id": "CH-VD-bassins",
+  "name": "Bassins (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q43243"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Square banner of the arms of Bassins: divided horizontally, blue with a fox and a bear beside a fir with a bird on a green base, and red with a white fountain basin on a white base.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Bassins_Flag.svg",
+    "https://www.wikidata.org/wiki/Q43243",
+    "https://de.wikipedia.org/wiki/Bassins",
+    "https://fr.wikipedia.org/wiki/Bassins",
+    "https://it.wikipedia.org/wiki/Bassins"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "top",
+      "role": "fir with a bird"
+    },
+    {
+      "type": "animal-other",
+      "color": "brown",
+      "position": "top",
+      "count": 2,
+      "role": "fox and bear"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "bottom",
+      "role": "fountain basin"
+    }
+  ]
+}

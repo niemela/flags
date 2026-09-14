@@ -1,0 +1,74 @@
+{
+  "id": "CH-VD-veytaux",
+  "name": "Veytaux (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q68071"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Square banner of the arms of Veytaux: on white two blue wavy pales with a black tower between them, a black chamois standing on the tower, above a blue base.",
+  "history": "The arms have had their present form since 1930, when the vine was removed; the flag is the square banner of the arms.",
+  "periods": [
+    {
+      "start": "1930"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Veytaux_Flag.svg",
+    "https://www.wikidata.org/wiki/Q68071",
+    "https://de.wikipedia.org/wiki/Veytaux",
+    "https://fr.wikipedia.org/wiki/Veytaux",
+    "https://it.wikipedia.org/wiki/Veytaux"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        6,
+        1
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "count": 2,
+      "role": "wavy pales"
+    },
+    {
+      "type": "building",
+      "color": "black",
+      "position": "center",
+      "role": "tower"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "top",
+      "role": "chamois"
+    }
+  ]
+}

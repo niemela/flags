@@ -1,0 +1,50 @@
+{
+  "id": "CH-VD-signy-avenex",
+  "name": "Signy-Avenex (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q69324"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Signy-Avenex: divided diagonally from the upper hoist red and blue, over all a white cross with knobbed ends.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Signy-Avenex_Flag.svg",
+    "https://www.wikidata.org/wiki/Q69324",
+    "https://de.wikipedia.org/wiki/Signy-Avenex",
+    "https://fr.wikipedia.org/wiki/Signy-Avenex",
+    "https://it.wikipedia.org/wiki/Signy-Avenex"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "blue",
+      "direction": "bend"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "cross with knobbed ends"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "CH-VD-savigny",
+  "name": "Savigny, Vaud (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q70647"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Square banner of the arms of Savigny: divided horizontally red and white, over all three green firs on a black mount.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Savigny_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70647",
+    "https://de.wikipedia.org/wiki/Savigny_VD",
+    "https://fr.wikipedia.org/wiki/Savigny_(Vaud)",
+    "https://it.wikipedia.org/wiki/Savigny_(Svizzera)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "count": 3,
+      "role": "firs"
+    },
+    {
+      "type": "mountain",
+      "color": "black",
+      "position": "bottom",
+      "role": "mount"
+    }
+  ]
+}

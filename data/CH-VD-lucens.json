@@ -1,0 +1,50 @@
+{
+  "id": "CH-VD-lucens",
+  "name": "Lucens (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q70110"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Lucens: divided diagonally from the upper hoist red and white, over all a yellow sun with a face.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Lucens_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70110",
+    "https://de.wikipedia.org/wiki/Lucens",
+    "https://fr.wikipedia.org/wiki/Lucens",
+    "https://it.wikipedia.org/wiki/Lucens"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "white",
+      "direction": "bend"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "center",
+      "role": "sun with a face"
+    }
+  ]
+}

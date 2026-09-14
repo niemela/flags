@@ -1,0 +1,54 @@
+{
+  "id": "CH-VD-bonvillars",
+  "name": "Bonvillars (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q52269"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Square banner of the arms of Bonvillars: on white a blue saltire below three blue five-pointed stars in a row.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Bonvillars_Flag.svg",
+    "https://www.wikidata.org/wiki/Q52269",
+    "https://de.wikipedia.org/wiki/Bonvillars",
+    "https://fr.wikipedia.org/wiki/Bonvillars",
+    "https://it.wikipedia.org/wiki/Bonvillars"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "saltire",
+      "color": "blue",
+      "position": "bottom",
+      "field": "white",
+      "saltire": "blue"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "blue",
+      "position": "top",
+      "arrangement": "row"
+    }
+  ]
+}

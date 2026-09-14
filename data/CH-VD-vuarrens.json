@@ -1,0 +1,76 @@
+{
+  "id": "CH-VD-vuarrens",
+  "name": "Vuarrens (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q68910"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Vuarrens: divided horizontally, per pale white and red with two covered chalices counterchanged, and green with a yellow sheaf of wheat.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Vuarrens_Flag.svg",
+    "https://www.wikidata.org/wiki/Q68910",
+    "https://de.wikipedia.org/wiki/Vuarrens",
+    "https://fr.wikipedia.org/wiki/Vuarrens",
+    "https://it.wikipedia.org/wiki/Vuarrens"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "position": "top"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "covered chalice"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "upper-fly",
+      "role": "covered chalice"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "sheaf"
+    }
+  ]
+}

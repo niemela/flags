@@ -1,0 +1,59 @@
+{
+  "id": "CH-VD-hermenches",
+  "name": "Hermenches (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q68852"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Hermenches: divided diagonally from the upper hoist green and red, over all a yellow sheaf of wheat with a white dove perched on it.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Hermenches_Flag.svg",
+    "https://www.wikidata.org/wiki/Q68852",
+    "https://de.wikipedia.org/wiki/Hermenches",
+    "https://fr.wikipedia.org/wiki/Hermenches",
+    "https://it.wikipedia.org/wiki/Hermenches"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "red",
+      "direction": "bend"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "center",
+      "role": "sheaf"
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "position": "top",
+      "role": "dove"
+    }
+  ]
+}

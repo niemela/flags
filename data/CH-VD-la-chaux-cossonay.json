@@ -1,0 +1,55 @@
+{
+  "id": "CH-VD-la-chaux-cossonay",
+  "name": "La Chaux (Cossonay) (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q52701"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of La Chaux: divided horizontally, white with a red Maltese cross, and red with a white Maltese cross.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_La_Chaux_(Cossonay)_Flag.svg",
+    "https://www.wikidata.org/wiki/Q52701",
+    "https://de.wikipedia.org/wiki/La_Chaux_(Cossonay)",
+    "https://fr.wikipedia.org/wiki/La_Chaux_(Vaud)",
+    "https://it.wikipedia.org/wiki/La_Chaux_(Svizzera)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "top",
+      "role": "Maltese cross"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "bottom",
+      "role": "Maltese cross"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "CH-VD-mathod",
+  "name": "Mathod (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q68752"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Mathod: white with three blue pales, over all a red embattled bend charged with three yellow cat's heads.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Mathod_Flag.svg",
+    "https://www.wikidata.org/wiki/Q68752",
+    "https://de.wikipedia.org/wiki/Mathod",
+    "https://fr.wikipedia.org/wiki/Mathod",
+    "https://it.wikipedia.org/wiki/Mathod"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "blue",
+        "blue"
+      ],
+      "count": 3,
+      "position": "center",
+      "role": "three pales"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "embattled bend"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "center",
+      "count": 3,
+      "role": "cat's heads"
+    }
+  ]
+}

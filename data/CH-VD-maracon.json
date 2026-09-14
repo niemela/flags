@@ -1,0 +1,73 @@
+{
+  "id": "CH-VD-maracon",
+  "name": "Maracon (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q68640"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Maracon: divided horizontally, yellow with a rampant red lion, and per pale red with a white bend and white with red wavy bars.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Maracon_Flag.svg",
+    "https://www.wikidata.org/wiki/Q68640",
+    "https://de.wikipedia.org/wiki/Maracon",
+    "https://fr.wikipedia.org/wiki/Maracon",
+    "https://it.wikipedia.org/wiki/Maracon"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "top"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "position": "bottom"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "lower-hoist",
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "wave",
+      "color": "red",
+      "position": "lower-fly",
+      "count": 2
+    }
+  ]
+}

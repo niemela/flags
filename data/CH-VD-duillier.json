@@ -1,0 +1,64 @@
+{
+  "id": "CH-VD-duillier",
+  "name": "Duillier (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q70389"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Square banner of the arms of Duillier: divided vertically, red with a black bend sinister edged in white, and white with a red disc above and a white disc on red below.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Duillier_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70389",
+    "https://de.wikipedia.org/wiki/Duillier",
+    "https://fr.wikipedia.org/wiki/Duillier",
+    "https://it.wikipedia.org/wiki/Duillier"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "black",
+      "position": "hoist",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "bend sinister edged in white"
+    },
+    {
+      "type": "disc",
+      "color": "red",
+      "position": "upper-fly"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "lower-fly"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "CH-VD-biere",
+  "name": "Bière (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q52262"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Bière: on white three green firs on a red base.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Bière_Flag.svg",
+    "https://www.wikidata.org/wiki/Q52262",
+    "https://de.wikipedia.org/wiki/Bière",
+    "https://fr.wikipedia.org/wiki/Bière_(Vaud)",
+    "https://it.wikipedia.org/wiki/Bière"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        3,
+        1
+      ]
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "count": 3,
+      "role": "firs"
+    }
+  ]
+}

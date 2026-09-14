@@ -1,0 +1,61 @@
+{
+  "id": "CH-VD-bercher",
+  "name": "Bercher (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q52256"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Bercher: on red a yellow horizontal bar charged with a red hat, between three yellow rings, two above and one below.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Bercher_Flag.svg",
+    "https://www.wikidata.org/wiki/Q52256",
+    "https://de.wikipedia.org/wiki/Bercher",
+    "https://fr.wikipedia.org/wiki/Bercher",
+    "https://it.wikipedia.org/wiki/Bercher"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "fess"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "hat"
+    },
+    {
+      "type": "circle",
+      "color": "yellow",
+      "position": "center",
+      "count": 3,
+      "role": "rings"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "CH-VD-bourg-en-lavaux",
+  "name": "Bourg-en-Lavaux (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q52274"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square banner of the arms of Bourg-en-Lavaux: divided diagonally from the upper fly white and red, over all a white bunch of grapes on a green vine rising from a green base.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Bourg-en-Lavaux_Flag.svg",
+    "https://www.wikidata.org/wiki/Q52274",
+    "https://de.wikipedia.org/wiki/Bourg-en-Lavaux",
+    "https://fr.wikipedia.org/wiki/Bourg-en-Lavaux",
+    "https://it.wikipedia.org/wiki/Bourg-en-Lavaux"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "fruit",
+      "color": "white",
+      "position": "center",
+      "role": "bunch of grapes on a vine"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "base"
+    }
+  ]
+}

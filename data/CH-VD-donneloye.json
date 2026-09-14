@@ -1,0 +1,63 @@
+{
+  "id": "CH-VD-donneloye",
+  "name": "Donneloye (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q70584"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Square banner of the arms of Donneloye: divided horizontally by a dancetty line, blue with a yellow cross with knobbed ends and a yellow wing, and black.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Donneloye_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70584",
+    "https://de.wikipedia.org/wiki/Donneloye",
+    "https://fr.wikipedia.org/wiki/Donneloye",
+    "https://it.wikipedia.org/wiki/Donneloye"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "black"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ],
+      "role": "divided dancetty"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "cross with knobbed ends"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "upper-fly",
+      "role": "wing"
+    }
+  ]
+}

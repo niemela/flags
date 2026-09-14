@@ -1,0 +1,65 @@
+{
+  "id": "CH-VD-tevenon",
+  "name": "Tévenon (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q70726"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square banner of the arms of Tévenon: on blue a red bend edged in yellow charged with a yellow branch, above a green mount.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Tévenon_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70726",
+    "https://de.wikipedia.org/wiki/Tévenon",
+    "https://fr.wikipedia.org/wiki/Tévenon",
+    "https://it.wikipedia.org/wiki/Tévenon"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "bend edged in yellow"
+    },
+    {
+      "type": "leaf",
+      "color": "yellow",
+      "position": "center",
+      "role": "leafy branch on the bend"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "bottom",
+      "role": "mount"
+    }
+  ]
+}

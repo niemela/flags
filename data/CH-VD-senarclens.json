@@ -1,0 +1,66 @@
+{
+  "id": "CH-VD-senarclens",
+  "name": "Senarclens (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-VD",
+  "codes": {
+    "wikidata": "Q70533"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Senarclens: on yellow a blue bend sinister between a white scallop shell in the upper hoist and a white star and crescent in the lower fly.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Senarclens_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70533",
+    "https://de.wikipedia.org/wiki/Senarclens",
+    "https://fr.wikipedia.org/wiki/Senarclens",
+    "https://it.wikipedia.org/wiki/Senarclens"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "shell",
+      "color": "white",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "white",
+      "position": "lower-fly"
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "lower-fly"
+    }
+  ]
+}
