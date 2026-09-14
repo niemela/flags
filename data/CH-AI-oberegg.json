@@ -1,0 +1,71 @@
+{
+  "id": "CH-AI-oberegg",
+  "name": "Oberegg (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-AI",
+  "codes": {
+    "wikidata": "Q69407"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Oberegg: divided vertically, black with a yellow six-pointed star above a green hill with a white cross, and white with a red stag on a green hill.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Oberegg_Flag.svg",
+    "https://www.wikidata.org/wiki/Q69407",
+    "https://de.wikipedia.org/wiki/Oberegg_AI",
+    "https://fr.wikipedia.org/wiki/District_d'Oberegg",
+    "https://it.wikipedia.org/wiki/Oberegg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "yellow",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "animal-other",
+      "color": "red",
+      "position": "fly",
+      "role": "stag"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "bottom",
+      "role": "mount"
+    }
+  ]
+}
