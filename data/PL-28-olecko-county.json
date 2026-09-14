@@ -1,0 +1,62 @@
+{
+  "id": "PL-28-olecko-county",
+  "name": "Olecko County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-28",
+  "codes": {
+    "wikidata": "Q1135359"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three horizontal stripes of green, white and green in the ratio 2:1:2, charged at the centre with the county arms of Olecko: a white shield with a black eagle's head and green leaves.",
+  "history": "Established by resolution No. XXXII/214/2013 of the county council of 30 August 2013.",
+  "periods": [
+    {
+      "start": "2013-08-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_olecki_flag.svg",
+    "https://www.wikidata.org/wiki/Q1135359",
+    "https://pl.wikipedia.org/wiki/Powiat_olecki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_warmińsko-mazurskim",
+    "https://www.powiat.olecko.pl/strona-117-symbole_powiatu.html",
+    "https://www.powiat.olecko.pl/strona-118-insygnia.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Olecko county arms"
+    }
+  ]
+}

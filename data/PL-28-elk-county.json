@@ -1,0 +1,75 @@
+{
+  "id": "PL-28-elk-county",
+  "name": "Ełk County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-28",
+  "codes": {
+    "wikidata": "Q1135368"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided vertically in the ratio 2:3 into a blue hoist charged with the emblem of the county arms, a white cross with fleur-de-lis ends above a white water lily, and a white fly crossed by three blue diagonal stripes.",
+  "history": "Established on 28 March 2013.",
+  "periods": [
+    {
+      "start": "2013-03-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_ełcki_flag.svg",
+    "https://www.wikidata.org/wiki/Q1135368",
+    "https://pl.wikipedia.org/wiki/Powiat_ełcki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_warmińsko-mazurskim",
+    "http://edzienniki.olsztyn.uw.gov.pl/WDU_N/2013/1709/akt.pdf",
+    "https://wspolczesna.pl/herb-powiatu-elckiego-z-krzyzem-skomanda-i-biala-lilia/ar/5846543"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        3
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "cross from the county arms"
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "lower-hoist",
+      "role": "water lily from the county arms"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "fly",
+      "count": 3,
+      "direction": "bend",
+      "role": "three diagonal stripes on the white fly"
+    }
+  ]
+}
