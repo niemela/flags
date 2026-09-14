@@ -1,0 +1,74 @@
+{
+  "id": "CZ-41-novy-kostel",
+  "name": "Nový Kostel (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-41",
+  "codes": {
+    "wikidata": "Q934609"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Three vertical stripes of red, blue and green in the ratio 1:2:1, with a white triangle in the red and in the green pointing to the centre, and a white church with red roof amid yellow flames in the blue.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Novy_Kostel_CZ_flag.svg",
+    "https://www.wikidata.org/wiki/Q934609",
+    "https://cs.wikipedia.org/wiki/Nov%C3%BD_Kostel"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "blue",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "fly"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "church in flames"
+    }
+  ]
+}
