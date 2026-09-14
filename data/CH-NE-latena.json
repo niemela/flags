@@ -1,0 +1,54 @@
+{
+  "id": "CH-NE-latena",
+  "name": "Laténa (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-NE",
+  "codes": {
+    "wikidata": "Q123995545"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Square banner of the arms of Laténa: divided by a curved diagonal line into yellow above and blue below, separated by bands of green and white.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Laténa_Flag.svg",
+    "https://www.wikidata.org/wiki/Q123995545",
+    "https://de.wikipedia.org/wiki/Laténa",
+    "https://fr.wikipedia.org/wiki/Laténa",
+    "https://it.wikipedia.org/wiki/Laténa"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "blue",
+      "direction": "bend",
+      "role": "curved division"
+    },
+    {
+      "type": "wave",
+      "color": "green",
+      "position": "center",
+      "role": "green and white curved bands"
+    }
+  ]
+}

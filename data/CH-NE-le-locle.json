@@ -1,0 +1,74 @@
+{
+  "id": "CH-NE-le-locle",
+  "name": "Le Locle (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-NE",
+  "codes": {
+    "wikidata": "Q64093"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the arms of Le Locle: divided by a wavy bend of white, green and blue into a lower hoist chequy of yellow and black and an upper fly lozengy of red and yellow.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Le_Locle_Flag.svg",
+    "https://www.wikidata.org/wiki/Q64093",
+    "https://de.wikipedia.org/wiki/Le_Locle",
+    "https://fr.wikipedia.org/wiki/Le_Locle",
+    "https://it.wikipedia.org/wiki/Le_Locle"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "yellow",
+      "direction": "bend",
+      "role": "divided by a wavy bend"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "center",
+      "role": "wavy bend of white, green and blue"
+    },
+    {
+      "type": "chequy",
+      "field": "yellow",
+      "chequy": "black",
+      "position": "lower-hoist",
+      "role": "chequy lower hoist"
+    },
+    {
+      "type": "lozenge",
+      "color": "red",
+      "position": "upper-fly",
+      "count": 8,
+      "role": "lozengy red and yellow"
+    }
+  ]
+}

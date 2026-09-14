@@ -1,0 +1,65 @@
+{
+  "id": "CH-NE-val-de-ruz",
+  "name": "Val-de-Ruz (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-NE",
+  "codes": {
+    "wikidata": "Q2507659"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square banner of the arms of Val-de-Ruz: on green a red pile from the top charged with a yellow sun and an ear of wheat, over a white wavy bar.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Val-de-Ruz_Flag.svg",
+    "https://www.wikidata.org/wiki/Q2507659",
+    "https://de.wikipedia.org/wiki/Val-de-Ruz_NE",
+    "https://fr.wikipedia.org/wiki/Val-de-Ruz",
+    "https://it.wikipedia.org/wiki/Val-de-Ruz"
+  ],
+  "features": [
+    {
+      "type": "pile",
+      "color": "red",
+      "position": "top",
+      "field": "green",
+      "direction": "base"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "top"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "ear of wheat"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "center",
+      "role": "wavy bar"
+    }
+  ]
+}

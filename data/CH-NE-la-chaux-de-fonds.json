@@ -1,0 +1,73 @@
+{
+  "id": "CH-NE-la-chaux-de-fonds",
+  "name": "La Chaux-de-Fonds (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-NE",
+  "codes": {
+    "wikidata": "Q68124"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of La Chaux-de-Fonds: white with a blue chief bearing three white five-pointed stars and a base chequy of white and blue, charged with a yellow beehive between bees.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_La_Chaux-de-Fonds_Flag.svg",
+    "https://www.wikidata.org/wiki/Q68124",
+    "https://de.wikipedia.org/wiki/La_Chaux-de-Fonds",
+    "https://fr.wikipedia.org/wiki/La_Chaux-de-Fonds",
+    "https://it.wikipedia.org/wiki/La_Chaux-de-Fonds"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "role": "blue chief"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "white",
+      "position": "top",
+      "arrangement": "row"
+    },
+    {
+      "type": "chequy",
+      "field": "white",
+      "chequy": "blue",
+      "position": "bottom",
+      "rows": 3,
+      "role": "chequy base"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "beehive with bees"
+    }
+  ]
+}
