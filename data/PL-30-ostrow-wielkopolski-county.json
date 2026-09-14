@@ -1,0 +1,66 @@
+{
+  "id": "PL-30-ostrow-wielkopolski-county",
+  "name": "Ostrów Wielkopolski County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q133216"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into a blue lower hoist part and a red upper fly part, charged with the emblems of the county arms: a ring of yellow roses on the blue and crossed keys with an orb on the red.",
+  "history": "Established by resolution No. XXX/245/2002 of the county council of 14 February 2002.",
+  "periods": [
+    {
+      "start": "2002-02-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_ostrowski_flag.svg",
+    "https://www.wikidata.org/wiki/Q133216",
+    "https://pl.wikipedia.org/wiki/Powiat_ostrowski_(województwo_wielkopolskie)",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_wielkopolskim",
+    "https://bip.powiat-ostrowski.pl/artykul-5788.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "flower",
+      "color": "yellow",
+      "position": "lower-hoist",
+      "count": 8,
+      "arrangement": "circle",
+      "role": "ring of roses from the county arms"
+    },
+    {
+      "type": "key",
+      "color": "yellow",
+      "position": "upper-fly",
+      "count": 2,
+      "role": "crossed keys with an orb from the county arms"
+    }
+  ]
+}

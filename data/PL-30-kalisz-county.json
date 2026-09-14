@@ -1,0 +1,68 @@
+{
+  "id": "PL-30-kalisz-county",
+  "name": "Kalisz County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q133178"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "shape": "complex",
+  "aspect_ratio": "4:9",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red-and-white chequy field with a fly tail cut diagonally, charged towards the hoist with the emblem of the county arms: a crowned black bull's head with a yellow ring.",
+  "history": "The current flag was established by resolution No. LXX/635/2024 of the county council of 23 March 2024, replacing a first version adopted on 25 October 2000.",
+  "periods": [
+    {
+      "start": "2024-03-23"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_kaliski_flag.svg",
+    "https://www.wikidata.org/wiki/Q133178",
+    "https://pl.wikipedia.org/wiki/Powiat_kaliski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_wielkopolskim",
+    "https://www.powiat.kalisz.pl/index.php?c=page&id=64&v=1659110617",
+    "https://zyciekalisza.pl/artykul/nowy-herb-flaga-i-banner/1540559"
+  ],
+  "features": [
+    {
+      "type": "chequy",
+      "field": "white",
+      "chequy": "red",
+      "position": "center",
+      "role": "red-and-white chequy field"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "hoist",
+      "role": "crowned bull's head from the county arms"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "hoist"
+    }
+  ]
+}

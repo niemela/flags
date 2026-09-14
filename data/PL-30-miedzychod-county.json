@@ -1,0 +1,80 @@
+{
+  "id": "PL-30-miedzychod-county",
+  "name": "Międzychód County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q133209"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "shape": "complex",
+  "aspect_ratio": "4:9",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A square red and white hoist panel charged with the emblem of the county arms, a white eagle above a red castle, and a fly tail cut diagonally, of four equal horizontal stripes, two yellow, one white and one red, for the municipalities of the county.",
+  "history": "Established by resolution No. XXXIII/227/2013 of the county council of 29 August 2013.",
+  "periods": [
+    {
+      "start": "2013-08-29"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_międzychodzki_flag.svg",
+    "https://www.wikidata.org/wiki/Q133209",
+    "https://pl.wikipedia.org/wiki/Powiat_międzychodzki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_wielkopolskim",
+    "https://bip.powiatmiedzychodzki.pl/dokumenty/146"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "position": "hoist",
+      "role": "square hoist panel divided red over white"
+    },
+    {
+      "type": "eagle",
+      "color": "white",
+      "position": "hoist",
+      "role": "eagle from the county arms"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "hoist",
+      "role": "castle from the county arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "white",
+        "red",
+        "yellow"
+      ],
+      "count": 4,
+      "position": "fly",
+      "role": "tail cut diagonally"
+    }
+  ]
+}

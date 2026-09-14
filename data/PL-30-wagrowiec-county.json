@@ -1,0 +1,77 @@
+{
+  "id": "PL-30-wagrowiec-county",
+  "name": "Wągrowiec County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q133265"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided vertically into two equal parts: a red hoist charged with the emblem of the county arms, a white eagle beside a white axe with a yellow handle, and a fly of seven equal horizontal stripes, four red and three white.",
+  "history": "The current flag was established by resolution No. XVIII/135/2012 of the county council of 28 May 2012, replacing a first version adopted on 9 October 2002.",
+  "periods": [
+    {
+      "start": "2012-05-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_wągrowiecki_flag.svg",
+    "https://www.wikidata.org/wiki/Q133265",
+    "https://pl.wikipedia.org/wiki/Powiat_wągrowiecki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_wielkopolskim",
+    "http://www.poznan.uw.gov.pl/wuw-portlet/content/MTMzNzg%3D/Dziennik%20nr%20130%202002.pdf?coid=ZW93dn4xZGJlMzEyNi0yNzBmLTFkZDUtOTBhZC1lMjEyMzQyODFiYjN+cGx+MS4x",
+    "https://edziennik.poznan.uw.gov.pl/WDU_P/2012/2845/akt.pdf"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "eagle",
+      "color": "white",
+      "position": "hoist",
+      "role": "eagle from the county arms"
+    },
+    {
+      "type": "tool",
+      "color": "white",
+      "position": "hoist",
+      "role": "axe from the county arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "axe handle"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 7,
+      "position": "fly"
+    }
+  ]
+}

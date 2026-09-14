@@ -1,0 +1,76 @@
+{
+  "id": "PL-30-pleszew-county",
+  "name": "Pleszew County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q133236"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "shape": "complex",
+  "aspect_ratio": "4:9",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A square blue hoist panel charged with the emblem of the county arms, a white tower between yellow stars, and a fly tail cut diagonally, of six equal horizontal stripes, alternating white and blue, for the municipalities of the county.",
+  "history": "Established by resolution No. XXIX/226/01 of the county council of 29 March 2001.",
+  "periods": [
+    {
+      "start": "2001-03-29"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_pleszewski_flag.svg",
+    "https://www.wikidata.org/wiki/Q133236",
+    "https://pl.wikipedia.org/wiki/Powiat_pleszewski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_wielkopolskim",
+    "https://www.powiatpleszewski.pl/patronat-starosty-pleszewskiego/herb-i-flaga-powiatu-pleszewskiego"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "position": "hoist",
+      "role": "square hoist panel"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "tower from the county arms"
+    },
+    {
+      "type": "star",
+      "count": 6,
+      "points": 5,
+      "color": "yellow",
+      "position": "hoist",
+      "arrangement": "scattered"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 6,
+      "position": "fly",
+      "role": "tail cut diagonally"
+    }
+  ]
+}

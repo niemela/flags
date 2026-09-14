@@ -1,0 +1,75 @@
+{
+  "id": "PL-30-pila-county",
+  "name": "Piła County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q133230"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "shape": "complex",
+  "aspect_ratio": "4:9",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A square red hoist panel charged with the emblem of the county arms, a white eagle above a yellow wreath, and a fly tail cut diagonally, of nine equal horizontal stripes, five red and four yellow, for the municipalities of the county.",
+  "history": "The current flag was established by resolution No. XXXVII/357/2014 of the county council of 27 February 2014, replacing a first version adopted on 25 September 2000.",
+  "periods": [
+    {
+      "start": "2014-02-27"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_pilski_flag.svg",
+    "https://www.wikidata.org/wiki/Q133230",
+    "https://pl.wikipedia.org/wiki/Powiat_pilski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_wielkopolskim",
+    "https://www.powiat.pila.pl/o-powiecie/herb-flaga",
+    "https://pila.naszemiasto.pl/powiat-pilski-ma-nowy-herb-i-flage/ar/c8-2182680"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "position": "hoist",
+      "role": "square hoist panel"
+    },
+    {
+      "type": "eagle",
+      "color": "white",
+      "position": "hoist",
+      "role": "eagle from the county arms"
+    },
+    {
+      "type": "wreath",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "wreath from the county arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "fly",
+      "role": "tail cut diagonally"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "PL-30-slupca-county",
+  "name": "Słupca County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q133257"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "shape": "complex",
+  "aspect_ratio": "4:9",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A square red and blue hoist panel charged with the emblem of the county arms, a white eagle above a yellow cross and stars, and a fly tail cut diagonally, of eight equal horizontal stripes, two blue, two red and four white, for the municipalities of the county.",
+  "history": "Established by resolution No. XXIII/105/2000 of the county council of 26 October 2000.",
+  "periods": [
+    {
+      "start": "2000-10-26"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_słupecki_flag.svg",
+    "https://www.wikidata.org/wiki/Q133257",
+    "https://pl.wikipedia.org/wiki/Powiat_słupecki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_wielkopolskim",
+    "https://www.powiat-slupca.pl/index.php/powiat-slupecki/o-powiecie-slupeckim/",
+    "https://bip.powiat-slupca.pl/slupcap/bip/powiat/statut-powiatu.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2,
+      "position": "hoist",
+      "role": "square hoist panel divided red over blue"
+    },
+    {
+      "type": "eagle",
+      "color": "white",
+      "position": "hoist",
+      "role": "eagle from the county arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "cross and stars from the county arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 8,
+      "position": "fly",
+      "role": "tail cut diagonally"
+    }
+  ]
+}

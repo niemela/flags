@@ -1,0 +1,78 @@
+{
+  "id": "PL-30-chodziez-county",
+  "name": "Chodzież County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q133161"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "shape": "complex",
+  "aspect_ratio": "4:9",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A square red hoist panel charged with the emblem of the county arms, a white eagle above yellow towers, and a fly tail cut diagonally, of five equal horizontal stripes, three yellow and two red, for the municipalities of the county.",
+  "history": "The current flag, designed by Jerzy Bąk and Aleksander Bąk, was established by resolution No. IV/41/2019 of the county council in early 2019, replacing a first version adopted on 26 April 2002.",
+  "periods": [
+    {
+      "start": "2019"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_chodzieski_flag.svg",
+    "https://www.wikidata.org/wiki/Q133161",
+    "https://pl.wikipedia.org/wiki/Powiat_chodzieski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_wielkopolskim",
+    "https://www.powiat-chodzieski.pl/aktualnosc-365-nowe_symbole_powiatu.html",
+    "https://www.powiat-chodzieski.pl/dokument-3454-w_sprawie_ustanowienia_herbu_flagi.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "position": "hoist",
+      "role": "square hoist panel"
+    },
+    {
+      "type": "eagle",
+      "color": "white",
+      "position": "hoist",
+      "role": "eagle from the county arms"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "towers from the county arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 5,
+      "position": "fly",
+      "role": "tail cut diagonally"
+    }
+  ]
+}

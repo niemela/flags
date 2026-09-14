@@ -1,0 +1,75 @@
+{
+  "id": "PL-30-oborniki-county",
+  "name": "Oborniki County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q133213"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "shape": "complex",
+  "aspect_ratio": "9:19",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A square red hoist panel charged with the emblem of the county arms, a white eagle above three yellow fleurs-de-lis, and a fly tail cut diagonally, of three equal horizontal stripes, two white and one red, for the municipalities of the county.",
+  "history": "Established on 25 May 2000.",
+  "periods": [
+    {
+      "start": "2000-05-25"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_obornicki_flag.svg",
+    "https://www.wikidata.org/wiki/Q133213",
+    "https://pl.wikipedia.org/wiki/Powiat_obornicki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_wielkopolskim",
+    "https://powiatobornicki.pl/symbole-powiatu/"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red",
+      "position": "hoist",
+      "role": "square hoist panel"
+    },
+    {
+      "type": "eagle",
+      "color": "white",
+      "position": "hoist",
+      "role": "eagle from the county arms"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 3
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "tail cut diagonally"
+    }
+  ]
+}

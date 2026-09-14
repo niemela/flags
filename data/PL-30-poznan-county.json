@@ -1,0 +1,75 @@
+{
+  "id": "PL-30-poznan-county",
+  "name": "Poznań County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q101575"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "shape": "complex",
+  "aspect_ratio": "4:9",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A square blue hoist panel charged with the emblem of the county arms, Saints Peter and Paul above a shield with crossed keys, and a fly tail cut diagonally, of seventeen equal horizontal stripes, alternating white and red, for the municipalities of the county.",
+  "history": "Established by resolution No. XXVI/206/2001 of the county council of 4 January 2001.",
+  "periods": [
+    {
+      "start": "2001-01-04"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_poznański_flag.svg",
+    "https://www.wikidata.org/wiki/Q101575",
+    "https://pl.wikipedia.org/wiki/Powiat_poznański",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_wielkopolskim",
+    "https://powiat.poznan.pl/herb-i-flaga-2/",
+    "https://www.bip.powiat.poznan.pl/628,xxvi-sesja-z-dnia-4-stycznia-2001-r?tresc=1458"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue",
+      "position": "hoist",
+      "role": "square hoist panel"
+    },
+    {
+      "type": "human-figure",
+      "color": "white",
+      "position": "hoist",
+      "count": 2,
+      "role": "Saints Peter and Paul from the county arms"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "small shield with crossed keys"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 17,
+      "position": "fly",
+      "role": "tail cut diagonally"
+    }
+  ]
+}
