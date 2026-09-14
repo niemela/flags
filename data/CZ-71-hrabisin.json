@@ -1,0 +1,65 @@
+{
+  "id": "CZ-71-hrabisin",
+  "name": "Hrabišín (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-71",
+  "codes": {
+    "wikidata": "Q374844"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three horizontal stripes of green, yellow and green with a yellow serrated vertical stripe at the hoist and four white six-pointed stars, two in each green stripe.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hrabišín.svg",
+    "https://www.wikidata.org/wiki/Q374844",
+    "https://cs.wikipedia.org/wiki/Hrabi%C5%A1%C3%ADn"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        3,
+        1,
+        3
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "serrated hoist stripe"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 6,
+      "color": "white",
+      "position": "fly"
+    }
+  ]
+}

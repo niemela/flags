@@ -1,0 +1,62 @@
+{
+  "id": "CZ-71-konice",
+  "name": "Konice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-71",
+  "codes": {
+    "wikidata": "Q1781657"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Two equal horizontal stripes of white over red, with a blue canton bearing a yellow ring with four arrows.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Konice.svg",
+    "https://www.wikidata.org/wiki/Q1781657",
+    "https://cs.wikipedia.org/wiki/Konice"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "position": "canton",
+      "features": [
+        {
+          "type": "glyph",
+          "color": "yellow",
+          "position": "center",
+          "role": "ring with four arrows"
+        }
+      ]
+    }
+  ]
+}

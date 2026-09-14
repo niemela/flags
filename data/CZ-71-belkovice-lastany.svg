@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600" height="400" viewBox="0 0 54 36" id="belkovice_flag_svg">
+<desc>Flag of Bělkovice-Lašťany (CZ)</desc>
+<defs>
+<g id="star" transform="scale(7)">
+   <g id="cone">
+	<path id="triangle" d="M0,0 v1 h1 z" transform="translate(0,-1) rotate(30)"/>
+	<use xlink:href="#triangle" transform="scale(-1,1)"/>
+   </g>
+	<use xlink:href="#cone" transform="rotate(60)"/>
+	<use xlink:href="#cone" transform="rotate(120)"/>
+	<use xlink:href="#cone" transform="rotate(180)"/>
+	<use xlink:href="#cone" transform="rotate(240)"/>
+	<use xlink:href="#cone" transform="rotate(300)"/>
+</g>
+</defs>
+
+	<polygon fill="#00A000" points="0,0 0,36 54,36 36,18 54,0"/>
+	<polygon fill="red" points="9,18 50,32 54,30 54,6 50,4"/>
+   <g fill="yellow">
+	<polygon points="0,18 54,36 54,30 18,18 54,6 54,0"/>
+	<use xlink:href="#star" x="7.65" y="7.65"/>
+	<use xlink:href="#star" x="7.65" y="28.35"/>
+   </g>
+</svg>

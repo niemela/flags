@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="900" height="600" viewBox="0,0 600,400">
+  <title>flag of Štíty</title>
+  <rect width="600" height="400" fill="blue" />
+  <path d="M 300,25 L 324.85,140 423.74,76.26 360,175.15 475,200 360,224.85 423.74,323.74 324.85,260 300,375 275.15,260 176.26,323.74 240,224.85 125,200 240,175.15 176.26,76.26 275.15,140" fill="yellow" />
+  <g id="stern4">
+    <g id="stern2">
+      <path id="stern" d="M 341,31.79 L 356,44 371,31.79 372.97,51.03 392.21,53 380,68 392.21,83 372.97,84.97 371,104.21 356,92 341,104.21 339.03,84.97 319.79,83 332,68 319.79,53 339.03,51.03" fill="yellow" />
+      <use xlink:href="#stern" transform="matrix(-1,0,0,1,600,0)" />
+    </g>    <use xlink:href="#stern2" transform="matrix(1,0,0,-1,0,400)" />
+  </g>  <use xlink:href="#stern4" transform="rotate(90,300,200)" />
+</svg>
+

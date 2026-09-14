@@ -1,0 +1,76 @@
+{
+  "id": "CZ-71-vysovice",
+  "name": "Výšovice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-71",
+  "codes": {
+    "wikidata": "Q2162282"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Two vertical stripes of green and white above a red stripe along the bottom, with a fleur-de-lis counterchanged white and green over the division and a bulrush in each stripe.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Výšovice.svg",
+    "https://www.wikidata.org/wiki/Q2162282",
+    "https://cs.wikipedia.org/wiki/V%C3%BD%C5%A1ovice"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        7,
+        1
+      ]
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "position": "center",
+      "role": "counterchanged fleur-de-lis"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "bulrush"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "fly",
+      "role": "bulrush"
+    }
+  ]
+}

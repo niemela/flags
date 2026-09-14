@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="402" width="603" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <path d="m0 0h603v268h-603z" fill="#04a"/>
+ <path d="m0 268h603v67h-603z" fill="#fc0"/>
+ <path d="m0 335h603v67h-603z" fill="#008000"/>
+<g stroke="#4d4d4d">
+ <path d="m67 268v-201h20v20h20v-20h20v20h20v-20h20v20h20v-20h20v201" stroke-width="2" fill="#fff"/>
+ <path d="m207 234.5h-140m0-33h140m0-33h-140m0-33h140m0-33h-140m30.5-16v16m0 33v33m0 33v33m40 0v-33m0-33v-33m0-33v-16m40 0v16m0 33v33m0 33v33m20 33.5v-33.5m0-33v-33m0-33v-33m-40 0v33m0 33v33m0 33v33.5m-40 0v-33.5m0-33v-33m0-33v-33m-40 0v33m0 33v33m0 33v33.5"/>
+ <path d="m124.5 142.5h25v-17c0-10.21-12.5-14-12.5-14s-12.5 3.791-12.5 14z"/>
+</g>
+ <g transform="matrix(.11 0 0 .11 .5 215.5)">
+  <path id="b" fill="#520" d="m300-1l-50 241 50 241 50-241z"/>
+  <use id="d" xlink:href="#b" transform="rotate(45 300 240)"/>
+  <use xlink:href="#b" transform="rotate(90 300 240)"/>
+  <use xlink:href="#d" transform="translate(600) scale(-1 1)"/>
+  <g id="a">
+   <path d="m300 0l-32 160 32 80-32 80 32 160z" fill="#ffd42a"/>
+   <path d="m300 0l32 160-32 80 32 80-32 160z" fill="#d4aa00"/>
+  </g>
+  <use id="c" xlink:href="#a" transform="rotate(45 300 240)"/>
+  <use xlink:href="#a" transform="rotate(90 300 240)"/>
+  <use xlink:href="#c" transform="translate(600) scale(-1 1)"/>
+ </g>
+</svg>

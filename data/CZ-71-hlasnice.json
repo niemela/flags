@@ -1,0 +1,68 @@
+{
+  "id": "CZ-71-hlasnice",
+  "name": "Hlásnice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-71",
+  "codes": {
+    "wikidata": "Q1474902"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three horizontal stripes of blue, yellow and green in the ratio 4:1:1, with a white tower and a small yellow star in the blue.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hlásnice.svg",
+    "https://www.wikidata.org/wiki/Q1474902",
+    "https://cs.wikipedia.org/wiki/Hl%C3%A1snice"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "tower"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "yellow",
+      "position": "center-hoist"
+    }
+  ]
+}

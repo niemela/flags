@@ -1,0 +1,64 @@
+{
+  "id": "CZ-71-mladejovice",
+  "name": "Mladějovice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-71",
+  "codes": {
+    "wikidata": "Q1782138"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Three vertical stripes of red, green and red, the hoist red with five white triangles, the green with a white shield and the fly red with a white sickle-shaped charge.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Mladějovice_(okres_Olomouc).svg",
+    "https://www.wikidata.org/wiki/Q1782138",
+    "https://cs.wikipedia.org/wiki/Mlad%C4%9Bjovice"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "green",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "count": 5
+    },
+    {
+      "type": "shield",
+      "color": "white",
+      "position": "center"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "fly",
+      "role": "sickle-shaped charge"
+    }
+  ]
+}

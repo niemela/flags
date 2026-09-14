@@ -1,0 +1,52 @@
+{
+  "id": "CZ-71-velka-bystrice",
+  "name": "Velká Bystřice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-71",
+  "codes": {
+    "wikidata": "Q1022962"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with a yellow crescent above three yellow six-pointed stars.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Velká_Bystřice.svg",
+    "https://www.wikidata.org/wiki/Q1022962",
+    "https://cs.wikipedia.org/wiki/Velk%C3%A1_Byst%C5%99ice"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "top",
+      "role": "crescent"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 6,
+      "color": "yellow",
+      "position": "bottom"
+    }
+  ]
+}

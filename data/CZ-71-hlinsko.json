@@ -1,0 +1,68 @@
+{
+  "id": "CZ-71-hlinsko",
+  "name": "Hlinsko (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-71",
+  "codes": {
+    "wikidata": "Q1021059"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three vertical stripes of blue, a middle stripe divided diagonally red and yellow, and blue, with a white knife with yellow handle in each blue stripe and a blue fleur-de-lis in the middle.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hlinsko_(okres_Přerov).svg",
+    "https://www.wikidata.org/wiki/Q1021059",
+    "https://cs.wikipedia.org/wiki/Hlinsko_(okres_P%C5%99erov)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "center",
+      "role": "diagonal division"
+    },
+    {
+      "type": "tool",
+      "color": "white",
+      "position": "hoist",
+      "role": "knives",
+      "count": 2
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "blue",
+      "position": "center"
+    }
+  ]
+}

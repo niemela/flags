@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="400" width="600" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" >
+ <path fill="#008000" d="m0 0h600v400h-600z"/>
+ <path fill="#ffd42a" d="m0 0h100l22.5 22.5-22.5 22.5 22.5 22.5-22.5 22.5 22.5 22.5-22.5 22.5 22.5 22.5-22.5 22.5h500v40h-500l22.5 22.5-22.5 22.5 22.5 22.5-22.5 22.5 22.5 22.5-22.5 22.5 22.5 22.5-22.5 22.5h-100z"/>
+ <g id="star1" transform="matrix(.3 0 0 .3 172.387 18)">
+<path id="black" d="M300 -1l-71 241l71 241l71 -241z" fill="#666"/>
+<use id="b1" xlink:href="#black" transform="rotate(60 300 240)"/>
+<use xlink:href="#b1" transform="translate(600) scale(-1 1)"/>
+
+<g id="p">
+<path d="M300 0l-45 160l45 80l-45 80l45 160z" fill="#FFF"/>
+<path d="M300 0l45 160l-45 80l45 80l-45 160z" fill="#DDD"/>
+</g>
+<use id="b" xlink:href="#p" transform="rotate(60 300 240)"/>
+<use xlink:href="#b" transform="translate(600) scale(-1 1)"/>
+</g>
+<use xlink:href="#star1" x="194"/><use xlink:href="#star1" y="220"/><use xlink:href="#star1" x="194" y="220"/>
+</svg>
