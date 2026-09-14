@@ -1,0 +1,54 @@
+{
+  "id": "CH-GL-glarus-nord",
+  "name": "Glarus Nord (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-GL",
+  "codes": {
+    "wikidata": "Q70635"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Square banner of the arms of Glarus Nord: on yellow a blue wavy pale between eight blue six-pointed stars, four on each side.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Glarus_Nord_Flag.svg",
+    "https://www.wikidata.org/wiki/Q70635",
+    "https://de.wikipedia.org/wiki/Glarus_Nord",
+    "https://fr.wikipedia.org/wiki/Glaris_Nord",
+    "https://it.wikipedia.org/wiki/Glarona_Nord"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "role": "wavy pale"
+    },
+    {
+      "type": "star",
+      "count": 8,
+      "points": 6,
+      "color": "blue",
+      "position": "center",
+      "arrangement": "scattered",
+      "role": "four stars on each side"
+    }
+  ]
+}

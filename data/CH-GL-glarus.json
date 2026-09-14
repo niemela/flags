@@ -1,0 +1,67 @@
+{
+  "id": "CH-GL-glarus",
+  "name": "Glarus (Switzerland)",
+  "type": [
+    "city"
+  ],
+  "parent": "CH-GL",
+  "codes": {
+    "wikidata": "Q63912"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square banner of the arms of Glarus: divided by a white wavy bend sinister into red with three yellow six-pointed stars at the hoist and a yellow fly with a black wedge bearing a yellow star, the pattern of the Glarus municipal merger arms.",
+  "history": "Swiss municipal flags are square banners of the municipal arms, used alongside the arms without a separate adoption act.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:CHE_Glarus_Flag.svg",
+    "https://www.wikidata.org/wiki/Q63912",
+    "https://de.wikipedia.org/wiki/Glarus",
+    "https://fr.wikipedia.org/wiki/Glaris",
+    "https://it.wikipedia.org/wiki/Glarona"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "yellow",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "center",
+      "role": "wavy diagonal band"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 6,
+      "color": "yellow",
+      "position": "center",
+      "arrangement": "scattered"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "upper-fly",
+      "role": "wedge in the upper fly"
+    }
+  ]
+}
