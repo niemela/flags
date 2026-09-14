@@ -1,0 +1,53 @@
+{
+  "id": "HU-BZ-hollohaza",
+  "name": "Hollóháza (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-BZ",
+  "codes": {
+    "wikidata": "Q1007998"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "3:2",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into a blue upper hoist part and a red lower fly part, charged at the centre with a white disc bearing the municipal arms of Hollóháza (a green shield with a raven and a church, within a wreath) above the name HOLLÓHÁZA.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hollóháza.svg",
+    "https://www.wikidata.org/wiki/Q1007998",
+    "https://hu.wikipedia.org/wiki/Hollóháza"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "circle",
+      "color": "white",
+      "position": "center"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Hollóháza arms with wreath"
+    }
+  ]
+}

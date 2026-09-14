@@ -1,0 +1,75 @@
+{
+  "id": "HU-BZ-sajovelezd",
+  "name": "Sajóvelezd (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-BZ",
+  "codes": {
+    "wikidata": "Q1017595"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "White field with narrow horizontal stripes of red, white and green along the top and bottom edges, charged at the centre with the municipal arms of Sajóvelezd (a crowned blue and white shield with a church, a plant and a wavy stripe) between the names SAJÓVELEZD above and WELEZ below in yellow.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Sajóvelezd.svg",
+    "https://www.wikidata.org/wiki/Q1017595",
+    "https://hu.wikipedia.org/wiki/Sajóvelezd"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "position": "top"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "position": "bottom"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Sajóvelezd arms with crown"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "inscriptions SAJÓVELEZD and WELEZ"
+    }
+  ]
+}

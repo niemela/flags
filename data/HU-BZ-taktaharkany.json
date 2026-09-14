@@ -1,0 +1,69 @@
+{
+  "id": "HU-BZ-taktaharkany",
+  "name": "Taktaharkány (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-BZ",
+  "codes": {
+    "wikidata": "Q1089620"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "White field with a serrated stripe of red and green triangles along the top and bottom edges, charged at the centre with the municipal arms of Taktaharkány (a red and blue shield with a crown, a plough and ears of grain) above the name TAKTAHARKÁNY in yellow.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Taktaharkány.svg",
+    "https://www.wikidata.org/wiki/Q1089620",
+    "https://hu.wikipedia.org/wiki/Taktaharkány"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "top",
+      "count": 10,
+      "role": "serrated top and bottom edges"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "top",
+      "count": 10,
+      "role": "serrated top and bottom edges"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Taktaharkány arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "inscription TAKTAHARKÁNY"
+    }
+  ]
+}
