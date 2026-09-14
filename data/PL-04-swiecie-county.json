@@ -1,0 +1,56 @@
+{
+  "id": "PL-04-swiecie-county",
+  "name": "Świecie County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-04",
+  "codes": {
+    "wikidata": "Q774944"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A chequy of twelve red and white panels, white in the upper hoist, charged towards the hoist with the county arms of Świecie: a white shield with a black eagle's head and a sword.",
+  "history": "Established by resolution No. XXVIII/145/2001 of the county council of 30 May 2001.",
+  "periods": [
+    {
+      "start": "2001-05-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_świecki_flag.svg",
+    "https://www.wikidata.org/wiki/Q774944",
+    "https://pl.wikipedia.org/wiki/Powiat_świecki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_kujawsko-pomorskim",
+    "http://arch.bip.bydgoszcz.uw.gov.pl/index.php?option=com_journal&rok=2001&nr=76"
+  ],
+  "features": [
+    {
+      "type": "chequy",
+      "field": "white",
+      "chequy": "red",
+      "position": "center",
+      "columns": 4,
+      "rows": 3,
+      "role": "red-and-white chequy field"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Świecie county arms"
+    }
+  ]
+}

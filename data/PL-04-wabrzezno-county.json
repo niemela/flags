@@ -1,0 +1,66 @@
+{
+  "id": "PL-04-wabrzezno-county",
+  "name": "Wąbrzeźno County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-04",
+  "codes": {
+    "wikidata": "Q774738"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a white band into a black upper hoist part charged with the county arms of Wąbrzeźno, a black eagle with a sword on red, and a red lower fly part.",
+  "history": "Established by resolution No. XIX/98/2000 of the county council of 27 September 2000.",
+  "periods": [
+    {
+      "start": "2000-09-27"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_wąbrzeski_flag.svg",
+    "https://www.wikidata.org/wiki/Q774738",
+    "https://pl.wikipedia.org/wiki/Powiat_wąbrzeski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_kujawsko-pomorskim",
+    "https://www.wabrzezno.pl/5364,insygnia",
+    "https://turystyczne.wabrzezno.com/2016/11/07/herb-2/"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "black",
+      "bend": "red",
+      "direction": "bend-sinister",
+      "role": "divided by a diagonal band"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "upper-hoist",
+      "role": "Wąbrzeźno county arms"
+    }
+  ]
+}

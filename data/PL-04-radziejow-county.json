@@ -1,0 +1,66 @@
+{
+  "id": "PL-04-radziejow-county",
+  "name": "Radziejów County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-04",
+  "codes": {
+    "wikidata": "Q687625"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a yellow band into a red upper hoist part charged with the county arms of Radziejów, a black eagle with a sword on yellow, and a light blue lower fly part.",
+  "history": "Established by resolution No. XXXVII/174/2002 of the county council of 28 February 2002.",
+  "periods": [
+    {
+      "start": "2002-02-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_radziejowski_flag.svg",
+    "https://www.wikidata.org/wiki/Q687625",
+    "https://pl.wikipedia.org/wiki/Powiat_radziejowski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_kujawsko-pomorskim",
+    "http://arch.bip.bydgoszcz.uw.gov.pl/index.php?option=com_journal&rok=2002&nr=61",
+    "https://www.radziejow.pl/1077,flaga"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "light-blue",
+      "direction": "bend-sinister",
+      "role": "divided by a diagonal band"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "upper-hoist",
+      "role": "Radziejów county arms"
+    }
+  ]
+}

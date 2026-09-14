@@ -1,0 +1,74 @@
+{
+  "id": "PL-04-mogilno-county",
+  "name": "Mogilno County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-04",
+  "codes": {
+    "wikidata": "Q604053"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided horizontally in the ratio 7:3 into a yellow upper part charged with the emblem of the county arms, a crowned eagle half black and half red, and a lower part of red-and-white chequy.",
+  "history": "Established by resolution No. XLIV/261/02 of the county council of 30 August 2002.",
+  "periods": [
+    {
+      "start": "2002-08-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Mogilno_County_Flag.svg",
+    "https://www.wikidata.org/wiki/Q604053",
+    "https://pl.wikipedia.org/wiki/Powiat_mogileński",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_kujawsko-pomorskim",
+    "http://arch.bip.bydgoszcz.uw.gov.pl/index.php?option=com_journal&rok=2002&nr=114",
+    "https://pow-mogilenski.arch.rbip.mojregion.info/kujaw-02-114-2356-w-sprawie-ustanowienia-wzoru-herbu-flagi-oraz-innych-insygniw-powiatu-mogilenskiego-arch/"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        7,
+        3
+      ]
+    },
+    {
+      "type": "eagle",
+      "position": "top",
+      "role": "crowned half-black, half-red eagle from the county arms"
+    },
+    {
+      "type": "chequy",
+      "field": "red",
+      "chequy": "white",
+      "position": "bottom",
+      "rows": 2,
+      "role": "red-and-white chequy band"
+    }
+  ]
+}
