@@ -1,0 +1,77 @@
+{
+  "id": "CZ-52-puchlovice",
+  "name": "Puchlovice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-52",
+  "codes": {
+    "wikidata": "Q2061684"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Blue field with five yellow six-pointed stars, a stripe chequered black and yellow along the top and narrow stripes of white and green along the bottom.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 10 September 2021 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2021-09-10"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Puchlovice.svg",
+    "https://www.wikidata.org/wiki/Q2061684",
+    "https://cs.wikipedia.org/wiki/Puchlovice"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 6,
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "chequy",
+      "position": "top",
+      "field": "black",
+      "chequy": "yellow",
+      "columns": 12,
+      "rows": 2
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2,
+      "position": "bottom"
+    }
+  ]
+}

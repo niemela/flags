@@ -1,0 +1,66 @@
+{
+  "id": "CZ-52-borovnice",
+  "name": "Borovnice (Rychnov nad Kněžnou District, Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-52",
+  "codes": {
+    "wikidata": "Q894105"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Three horizontal stripes of red, white and blue in the ratio 1:1:1, with three white crescents in the red, four red hearts in the white and a white fish trap in the blue.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Borovnice_(Rychnov_nad_Kneznou).svg",
+    "https://www.wikidata.org/wiki/Q894105",
+    "https://cs.wikipedia.org/wiki/Borovnice_(okres_Rychnov_nad_Kn%C4%9B%C5%BEnou)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "top",
+      "role": "three crescents"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "four hearts",
+      "count": 4
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "bottom",
+      "role": "fish trap"
+    }
+  ]
+}

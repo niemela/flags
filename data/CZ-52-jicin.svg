@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600" height="400" viewBox="0 0 600 400">
+<desc>Flag of Jičín (CZ)</desc>
+<defs>
+	<clipPath id="clip">
+		<path d="M 0,-16.5 C -20,90 -20,170 100,235.5 C 220,170 220,90 200,-16.5 C 140,11 60,11 0,-16.5 z"/>
+	</clipPath>
+	<clipPath id="clip2">
+		<path d="M60,131 L140,131 L140,230 L120,230 L 120,181 C 120,167 112,159 100,155 C 88,159 80,167 80,181 L 80,230 L60,230 z"/>
+	</clipPath>
+</defs>
+
+<polygon points="0,0 600,0 600,200 300,300 0,200" fill="#fff"/>
+<polygon points="0,200 600,200 600,400 0,400" fill="#05f"/>
+
+<g clip-path="url(#clip)" transform="translate(200,80)">
+<path d="M 0,-16.5 C -20,90 -20,170 100,235.5 C 220,170 220,90 200,-16.5 C 140,11 60,11 0,-16.5 z" fill="#05f"/>
+<g id="portcullis" style="stroke:#222; stroke-width:1px; fill:yellow; fill-rule:evenodd;">
+	<path d="M100,187 l-2,-2 v-6 h-6 v6 l-2,2 l-2,-2 v-6 h-8 v-4 h8 v-6 h-8 v-4 h8 v-6 h-8 v-4 h40 v4 h-8 v6 h8 v4 h-8 v6 h8 v4 h-8 v6 l-2,2 l-2,-2 v-6 h-6 v6 z M102,159 h6 v6 h-6 z M102,169 h6 v6 h-6 z M92,159 h6 v6 h-6 z M92,169 h6 v6 h-6 z" />
+	<circle r="1" cx="100" cy="167"/>
+	<circle r="1" cx="100" cy="177"/>
+	<circle r="1" cx="110" cy="167"/>
+	<circle r="1" cx="110" cy="177"/>
+	<circle r="1" cx="90" cy="167"/>
+	<circle r="1" cx="90" cy="177"/>
+</g>
+	<path id="wall" d="M60,131 L140,131 L140,230 L120,230 L 120,181 C 120,167 112,159 100,155 C 88,159 80,167 80,181 L 80,230 L60,230 z" style="stroke:#555; stroke-width:1px; fill:white;"/>
+<g clip-path="url(#clip2)" style="stroke:#222; stroke-width:1px; fill:none;">
+		<path id="bricksinwall" d="M100,135.7 v7.3 m0,7.3 v7.3 
+	M115.2,135.7 v7.3 m0,7.3 v7.3 
+	M130.4,135.7 v7.3 m0,7.3 v7.3 
+	M107.6,143 v7.3 m0,7.3 v7.3
+	M122.8,143 v7.3 m0,7.3 v7.3"/>
+	<use xlink:href="#bricksinwall" transform="translate(200,0) scale(-1,1)"/>
+	<path id="brickwall" d="M60,143 h80 v7.3 h-80 v7.3 h80 v7.3 h-80" />
+</g>
+	<path id="centralwindow" d="M100,138 h6.5 v13 h-13 v-13 z" style="stroke:#555; fill:#000"/>
+	<path id="centralwindowx" d="M100,138 v13 m-6.5,-6.5 h13" style="stroke:#fff; stroke-width:1px;"/>
+	<path id="centralcrenellation" d="M100,129 h4.5 v-7 h12 v7 h9 v-7 h12 v13.7 h-75 v-13.7 h12 v7 h9 v-7 h12 v7 z M140,133 h-80" style="stroke:#222; stroke-width:1px; fill:white;"/>
+<g id="bricks" style="stroke:#222; stroke-width:1px; fill:none;">
+	<path id="tower_s" d="M136,70 v160 h38 v-160 z" fill="#fff"/>
+	<path id="outline" d="M136,70 v160 h38 v-160"/>
+	<path id="vertical" d="M151.2,70 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3"/>
+	<path id="vertical2" d="M166.4,70 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3"/>
+	
+	<path id="vertical_b" d="M143.6,77.3 v7.3 
+	m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3"/>
+	<path id="vertical_b2" d="M136,70 m15.2,0 m7.6,7.3 v7.3 
+	m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3 m0,7.3 v7.3"/>
+	
+	<path id="horizontal" d="M136,70 h38 m-38,7.3 h38  m-38,7.3 h38 m-38,7.3 h38 m-38,7.3 h38 m-38,7.3 h38 m-38,7.3 h38 m-38,7.3 h38 m-38,7.3 h38 m-38,7.3 h38 m-38,7.3 h38 m-38,7.3 h38 m-38,7.3 h38 m-38,7.3 h38 m-38,7.3 h38 m-38,7.3 h38 m-38,7.3 h38 m-38,7.3 h38 m-38,7.3 h38 m-38,7.3 h38 m-38,7.3 h38 m-38,7.3 h38"/>
+	
+	<path id="ledge" d="M136,156.4 h40 v3 h-40 z" fill="white"/>
+	
+	<path d="M155,12 v10"/>
+	<circle r="4" cx="155" cy="12" fill="yellow"/>
+		
+	<path id="roof" d="M155,18 l20,37 v7 h-40 v-7 z" fill="#da251d"/>
+	<path id="towercrenellation" d="M155,60 h3.5 v-7 h7 v7 h7 v-7 h7 v12 l-5.5,5 h-38 l-5.5,-5 v-12 h7 v7 h7 v-7 h7 v7 h3.5 z M130.5,65 h49" fill="white"/>
+	
+	<path id="upperwindow" d="M155,81.95 h7.5 v29.2 h-15 v-29.2 z" style="stroke:#555; fill:#000"/>
+	<path id="lowerwindow" d="M155,117.45 h7.5 v29.2 h-15 v-29.2 z" style="stroke:#555; fill:#000"/>
+	
+	<path id="upperwindowx" d="M155,81.95 v29.2 m-7.5,-7.3 h15 m-15,-7.3 h15 m-15,-7.3 h15" style="stroke:#fff"/>
+	<path id="lowerwindowx" d="M155,117.45 v29.2 m-7.5,-7.3 h15 m-15,-7.3 h15 m-15,-7.3 h15" style="stroke:#fff"/>
+</g>
+	<use xlink:href="#bricks" transform="translate(200,0) scale(-1,1)"/>
+
+	<path id="innershield" d="M100,50 h24 l-1,36 c-0.5,18 -14,22 -23,22 z"/>
+	<use xlink:href="#innershield" transform="translate(200,0) scale(-1,1)" fill="#fff500"/>
+	<path id="innershield_outline" d="M100,50 h24 l-1,36 c-0.5,18 -14,22 -23,22" style="stroke:#000; stroke-width:1px; fill:none;"/>
+	<use xlink:href="#innershield_outline" transform="translate(200,0) scale(-1,1)"/>
+
+	<path id="portal" d="M 119,230 L 119,181 C 119,170.5 111,161 100,157 C 89,161 81,170.5 81,181 L 81,230 L 78,230 L 78,181 C 78,167 88,157 100,153 C 112,157 122,167 122,181 L 122,230 z" style="stroke:#222; stroke-width:1px; fill:white;"/>
+
+	<path id="door" d="M 118,230 L 118,181 C 118,170.4881 126,161 137,157 L137,230 z" style="stroke:#555; stroke-width:1px; fill:yellow;"/>
+	<use xlink:href="#door" transform="translate(200,0) scale(-1,1)"/>
+
+	<path id="iron" d="M 118.5,188 l10,-10 h3.5 v3.5 l-13.5,13.5 z M 118.5,210 l10,-10 h3.5 v3.5 l-13.5,13.5 z" />
+	<use xlink:href="#iron" transform="translate(200,0) scale(-1,1)"/>
+</g>
+
+	<path id="shieldoutline" d="M 0,-16.5 C -20,90 -20,170 100,235.5 C 220,170 220,90 200,-16.5 C 140,11 60,11 0,-16.5 z" style="stroke:#000; stroke-width:2px; fill:none;" transform="translate(200,80)"/>
+</svg>

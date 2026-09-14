@@ -1,0 +1,63 @@
+{
+  "id": "CZ-52-dolni-dvur",
+  "name": "Dolní Dvůr (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-52",
+  "codes": {
+    "wikidata": "Q1236084"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into a white upper hoist part and a red lower fly part, with a yellow shield bearing crossed black miners' hammers and two green spruces over the division.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Dolní_Dvůr_CZ.svg",
+    "https://www.wikidata.org/wiki/Q1236084",
+    "https://cs.wikipedia.org/wiki/Doln%C3%AD_Dv%C5%AFr"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "shield",
+      "color": "yellow",
+      "position": "center",
+      "role": "shield with crossed hammers"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "two spruces",
+      "count": 2
+    }
+  ]
+}

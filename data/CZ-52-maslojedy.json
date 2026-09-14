@@ -1,0 +1,75 @@
+{
+  "id": "CZ-52-maslojedy",
+  "name": "Máslojedy (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-52",
+  "codes": {
+    "wikidata": "Q1904994"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Green field with a yellow linden tree at the hoist and a red diagonal band edged in white from the lower fly to the upper fly corner bearing a white sabre with yellow hilt.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 18 May 2012 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2012-05-18"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Máslojedy.svg",
+    "https://www.wikidata.org/wiki/Q1904994",
+    "https://cs.wikipedia.org/wiki/M%C3%A1slojedy"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "tree",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "linden tree"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "fly",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "direction": "bend-sinister",
+      "fimbriation": {
+        "color": "white"
+      }
+    },
+    {
+      "type": "sword",
+      "color": "white",
+      "position": "fly",
+      "role": "sabre"
+    }
+  ]
+}

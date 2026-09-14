@@ -1,0 +1,71 @@
+{
+  "id": "CZ-52-hajnice",
+  "name": "Hajnice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-52",
+  "codes": {
+    "wikidata": "Q1569724"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Two horizontal stripes of light blue and green in the ratio 2:1, with a white church between two green spruces with brown trunks and a white flower in the green.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hajnice_CZ.svg",
+    "https://www.wikidata.org/wiki/Q1569724",
+    "https://cs.wikipedia.org/wiki/Hajnice"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "church"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "spruces",
+      "count": 2
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "bottom"
+    }
+  ]
+}

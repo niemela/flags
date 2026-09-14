@@ -1,0 +1,74 @@
+{
+  "id": "CZ-52-dolni-kalna",
+  "name": "Dolní Kalná (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-52",
+  "codes": {
+    "wikidata": "Q1236092"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Three horizontal stripes of white, dark red and green separated by wavy lines, with a white chevron in the green bearing a red crown with yellow rim.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Dolní_Kalná.svg",
+    "https://www.wikidata.org/wiki/Q1236092",
+    "https://cs.wikipedia.org/wiki/Doln%C3%AD_Kaln%C3%A1"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "maroon",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "maroon",
+      "position": "top",
+      "role": "wavy stripe"
+    },
+    {
+      "type": "chevron",
+      "color": "white",
+      "position": "bottom"
+    },
+    {
+      "type": "crown",
+      "color": "red",
+      "position": "bottom"
+    }
+  ]
+}

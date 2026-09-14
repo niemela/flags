@@ -1,0 +1,76 @@
+{
+  "id": "CZ-52-javornice",
+  "name": "Javornice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-52",
+  "codes": {
+    "wikidata": "Q2238211"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Two vertical stripes of white and blue in the ratio 1:2 separated by a wavy line, with a red cross in the white and a white horse rampant with yellow hooves and a yellow maple leaf in the blue.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Javornice_CZ.svg",
+    "https://www.wikidata.org/wiki/Q2238211",
+    "https://cs.wikipedia.org/wiki/Javornice_(okres_Rychnov_nad_Kn%C4%9B%C5%BEnou)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "hoist",
+      "role": "wavy division"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "hoist"
+    },
+    {
+      "type": "horse",
+      "color": "white",
+      "position": "fly",
+      "role": "horse rampant"
+    },
+    {
+      "type": "leaf",
+      "color": "yellow",
+      "position": "upper-fly",
+      "role": "maple leaf"
+    }
+  ]
+}

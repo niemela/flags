@@ -1,0 +1,67 @@
+{
+  "id": "CZ-52-cernikovice",
+  "name": "Černíkovice (Rychnov nad Kněžnou District, Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-52",
+  "codes": {
+    "wikidata": "Q339404"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by bands of red and white into a yellow upper hoist part bearing a black hunting horn and a blue lower fly part.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Černíkovice_(okres_Rychnov_nad_Kněžnou).svg",
+    "https://www.wikidata.org/wiki/Q339404",
+    "https://cs.wikipedia.org/wiki/%C4%8Cern%C3%ADkovice_(okres_Rychnov_nad_Kn%C4%9B%C5%BEnou)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "upper-hoist",
+      "role": "hunting horn"
+    }
+  ]
+}

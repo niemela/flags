@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" 
+width="900" height="600" viewBox="0 0 1500 1000" id="flag_batnovice_cz">
+<desc id="en">Flag of Batňovice (CZ)</desc>
+<defs>
+<g id="ostrve" fill="#000000" stroke="#000000" stroke-width="0px">
+	<path id="pulostrve" d="M -1,0 L 22,0 L 22,64 L 65,35 L 76,66 L 22,112 L 22,142 L 73,116 L 86,147 L 22,190 L 22,372 L 75,347 L 94,374 L 22,418 L 22,468 L -1,468 z" />
+	<use xlink:href="#pulostrve" transform="scale(-1,1)"/>
+</g>
+</defs>
+<path d="M 0,500 h 1500 v 500 h -1500 v -500 z" fill="#008000" />
+<path d="M 0,0 h 1500 v 500 h -1500 v -500 z" fill="#fee202" />
+<use xlink:href="#ostrve" transform="translate(265,265) rotate(47) translate(0,-263)" />
+<use xlink:href="#ostrve" transform="translate(265,265) rotate(-47) translate(0,-263)" />
+</svg>

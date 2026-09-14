@@ -1,0 +1,70 @@
+{
+  "id": "CZ-52-obedovice",
+  "name": "Obědovice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-52",
+  "codes": {
+    "wikidata": "Q1412935"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Four horizontal stripes of red, blue, white and blue in the ratio 6:1:1:1, with two white towers flanking a yellow lattice window in the red.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Obědovice.svg",
+    "https://www.wikidata.org/wiki/Q1412935",
+    "https://cs.wikipedia.org/wiki/Ob%C4%9Bdovice"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 4,
+      "widths": [
+        6,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "top",
+      "role": "two towers",
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "top",
+      "role": "lattice window"
+    }
+  ]
+}

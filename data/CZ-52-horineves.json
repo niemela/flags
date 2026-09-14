@@ -1,0 +1,71 @@
+{
+  "id": "CZ-52-horineves",
+  "name": "Hořiněves (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-52",
+  "codes": {
+    "wikidata": "Q1632205"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Three vertical stripes, the hoist chequered red and white, the middle green bearing a white crozier with a leaf, and the fly white, in the ratio 1:2:1.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 11 April 2008 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2008-04-11"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hořiněves.svg",
+    "https://www.wikidata.org/wiki/Q1632205",
+    "https://cs.wikipedia.org/wiki/Ho%C5%99in%C4%9Bves"
+  ],
+  "features": [
+    {
+      "type": "chequy",
+      "position": "hoist",
+      "field": "red",
+      "chequy": "white",
+      "columns": 4,
+      "rows": 9
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "green",
+        "white"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "crozier with leaf"
+    }
+  ]
+}

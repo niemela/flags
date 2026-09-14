@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="900" height="600" id="flag_adrspach_svg">
+<desc>Flag of Adršpach</desc>
+<defs>
+<g id="petal">
+<path d="M 0,0 L -2,-2.706 C -3.55,-4.7 -2.133,-5 -1.777,-5 C -1,-5 -1,-4.777 0,-4.777 C 1,-4.777 1,-5 1.777,-5 C 2.133,-5 3.55,-4.7 2,-2.706 z"/>
+<path d="M 0,0 L 0,-4" style="stroke:#000;stroke-width:0.1px;"/>
+</g>
+<g id="blue_flower" style="fill:blue;stroke:#000;stroke-width:0.1px;">
+<use xlink:href="#petal" transform="rotate(72)"/>
+<use xlink:href="#petal" transform="rotate(-72)"/>
+<use xlink:href="#petal" transform="rotate(144)"/>
+<use xlink:href="#petal" transform="rotate(-144)"/>
+<use xlink:href="#petal" transform="rotate(0)"/>
+<circle r="1" fill="green"/>
+</g>
+</defs>
+<g transform="scale(20)">
+<rect height="30" width="45" fill="blue"/>
+<rect y="10" height="10" width="45" fill="white"/>
+<path d="M 0,0 v30 l 22.5,-15 z" fill="yellow"/>
+<use xlink:href="#blue_flower" transform="translate(7.5,15)"/>
+</g>
+</svg>

@@ -1,0 +1,82 @@
+{
+  "id": "CZ-52-hradek",
+  "name": "Hrádek (Hradec Králové District, Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-52",
+  "codes": {
+    "wikidata": "Q1632603"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Three vertical stripes of white, blue and a fly chequered black and yellow, with a red cross in the white and a white two-towered castle in the blue.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 14 March 2002 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2002-03-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hrádek_(Hradec_Králové_District).svg",
+    "https://www.wikidata.org/wiki/Q1632603",
+    "https://cs.wikipedia.org/wiki/Hr%C3%A1dek_(okres_Hradec_Kr%C3%A1lov%C3%A9)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "black"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "hoist"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "two-towered castle"
+    },
+    {
+      "type": "chequy",
+      "position": "fly",
+      "field": "black",
+      "chequy": "yellow",
+      "columns": 3,
+      "rows": 9
+    }
+  ]
+}
