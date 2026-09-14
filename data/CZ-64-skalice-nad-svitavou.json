@@ -1,0 +1,83 @@
+{
+  "id": "CZ-64-skalice-nad-svitavou",
+  "name": "Skalice nad Svitavou (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-64",
+  "codes": {
+    "wikidata": "Q1677930"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Three horizontal stripes of blue, red and blue, the lower blue with three white stripes, with a yellow crescent surrounded by yellow stars in the upper blue.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 11 May 2001 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2001-05-11"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Skalice_nad_Svitavou.svg",
+    "https://www.wikidata.org/wiki/Q1677930",
+    "https://cs.wikipedia.org/wiki/Skalice_nad_Svitavou"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "color": "white",
+      "position": "bottom",
+      "stripes": [
+        "white"
+      ],
+      "count": 3,
+      "role": "three narrow stripes"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "top",
+      "role": "crescent"
+    },
+    {
+      "type": "star",
+      "count": 11,
+      "points": 6,
+      "color": "yellow",
+      "position": "top"
+    }
+  ]
+}

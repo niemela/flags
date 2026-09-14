@@ -1,0 +1,66 @@
+{
+  "id": "CZ-64-prusy-boskuvky",
+  "name": "Prusy-Boškůvky (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-64",
+  "codes": {
+    "wikidata": "Q1309892"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Three horizontal stripes of navy blue, white and navy blue in the ratio 4:1:1, with a canton chequered red and white in the upper hoist corner.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Prusy-Boškůvky.svg",
+    "https://www.wikidata.org/wiki/Q1309892",
+    "https://cs.wikipedia.org/wiki/Prusy-Bo%C5%A1k%C5%AFvky"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "white",
+        "navy"
+      ],
+      "count": 3,
+      "widths": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "canton",
+      "position": "canton",
+      "features": [
+        {
+          "type": "chequy",
+          "position": "center",
+          "field": "red",
+          "chequy": "white",
+          "columns": 2,
+          "rows": 4
+        }
+      ]
+    }
+  ]
+}

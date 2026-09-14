@@ -1,0 +1,80 @@
+{
+  "id": "CZ-64-popovice",
+  "name": "Popovice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-64",
+  "codes": {
+    "wikidata": "Q781239"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A dark red vertical stripe at the hoist one third of the flag's length, and a blue fly with a white diagonal band from the lower hoist to the upper fly bearing a red rose with yellow centre and green sepals.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 13 May 2003 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2003-05-13"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Popovice_(okres_Brno-venkov).svg",
+    "https://www.wikidata.org/wiki/Q781239",
+    "https://cs.wikipedia.org/wiki/Popovice_(okres_Brno-venkov)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "maroon",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "fly",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "fly",
+      "role": "rose"
+    }
+  ]
+}

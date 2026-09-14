@@ -1,0 +1,63 @@
+{
+  "id": "CZ-64-lazany",
+  "name": "Lažany (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-64",
+  "codes": {
+    "wikidata": "Q1415895"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly by a white band into a blue lower hoist part bearing a white Maltese cross and a red upper fly part bearing a white crown-like charge.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 17 February 2006 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2006-02-17"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Lažany_(okres_Blansko).svg",
+    "https://www.wikidata.org/wiki/Q1415895",
+    "https://cs.wikipedia.org/wiki/La%C5%BEany_(okres_Blansko)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "blue",
+      "direction": "bend",
+      "fimbriation": {
+        "color": "white"
+      }
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "lower-hoist",
+      "role": "Maltese cross"
+    },
+    {
+      "type": "crown",
+      "color": "white",
+      "position": "upper-fly"
+    }
+  ]
+}

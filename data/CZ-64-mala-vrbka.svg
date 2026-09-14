@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<path d="m0,80l400,120-400,120h600v-240z" fill="#fff"/>
+	<path d="m0,0h600v80h-600l400,120-400,120h600v80h-600z" fill="#04a"/>
+	<g id="star" transform="matrix(.3 0 0 .3 0 127.7)">
+		<path id="b1" d="m300 0l-50 241 50 241 50-241z" fill="#a80"/>
+		<use id="b2" transform="rotate(45 300 240)" xlink:href="#b1"/>
+		<use transform="rotate(90 300 240)" xlink:href="#b1"/>
+		<use transform="matrix(-1 0 0 1 600 0)" xlink:href="#b2"/>
+		<g id="c">
+			<path d="m300 0-32 160 32 80-32 80 32 160z" fill="#fc0"/>
+			<path d="m300 0 32 160-32 80 32 80-32 160z" fill="#d4aa00"/>
+		</g>
+		<use id="d" transform="rotate(45 300 240)" xlink:href="#c"/>
+		<use transform="rotate(90 300 240)" xlink:href="#c"/>
+		<use transform="matrix(-1 0 0 1 600 0)" xlink:href="#d"/>
+	</g>
+</svg>

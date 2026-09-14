@@ -1,0 +1,86 @@
+{
+  "id": "CZ-64-kunice",
+  "name": "Kunice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-64",
+  "codes": {
+    "wikidata": "Q693772"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Three horizontal stripes of navy blue, white and navy blue in the ratio 1:6:1, the white bearing a navy blue hoist half with a yellow horseshoe and a white cross pattée, and a fly half of black and white stripes.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 4 March 2014 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2014-03-04"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Kunice(okres_Blansko).svg",
+    "https://www.wikidata.org/wiki/Q693772",
+    "https://cs.wikipedia.org/wiki/Kunice_(okres_Blansko)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "white",
+        "navy"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        6,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "horseshoe"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "hoist",
+      "role": "cross pattée"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "white",
+        "black",
+        "white",
+        "black",
+        "white",
+        "black"
+      ],
+      "count": 7,
+      "position": "fly"
+    }
+  ]
+}

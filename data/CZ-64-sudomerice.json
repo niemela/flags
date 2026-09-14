@@ -1,0 +1,72 @@
+{
+  "id": "CZ-64-sudomerice",
+  "name": "Sudoměřice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-64",
+  "codes": {
+    "wikidata": "Q2359219"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field with a stripe chequered red and yellow between narrow white stripes across the lower half.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 11 May 2001 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2001-05-11"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Sudoměřice.svg",
+    "https://www.wikidata.org/wiki/Q2359219",
+    "https://cs.wikipedia.org/wiki/Sudom%C4%9B%C5%99ice"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 5,
+      "widths": [
+        5,
+        1,
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "type": "chequy",
+      "position": "bottom",
+      "field": "red",
+      "chequy": "yellow",
+      "columns": 6,
+      "rows": 1
+    }
+  ]
+}

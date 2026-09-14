@@ -1,0 +1,61 @@
+{
+  "id": "CZ-64-zavist",
+  "name": "Závist (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-64",
+  "codes": {
+    "wikidata": "Q247061"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a white band into a red upper hoist part bearing a yellow bell and a green lower fly part bearing a white axe with yellow handle.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Závist.svg",
+    "https://www.wikidata.org/wiki/Q247061",
+    "https://cs.wikipedia.org/wiki/Z%C3%A1vist_(okres_Blansko)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend-sinister",
+      "fimbriation": {
+        "color": "white"
+      }
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "bell"
+    },
+    {
+      "type": "axe",
+      "color": "white",
+      "position": "lower-fly"
+    }
+  ]
+}

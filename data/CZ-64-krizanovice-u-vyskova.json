@@ -1,0 +1,79 @@
+{
+  "id": "CZ-64-krizanovice-u-vyskova",
+  "name": "Křižanovice u Vyškova (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-64",
+  "codes": {
+    "wikidata": "Q1309905"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Two vertical stripes, the hoist striped diagonally red and yellow, the fly white bearing two crossed blue axes with black handles, in the ratio 1:2.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 27 June 2001 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2001-06-27"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Vlajka_obce_Křižanovice_u_Vyškova.svg",
+    "https://www.wikidata.org/wiki/Q1309905",
+    "https://cs.wikipedia.org/wiki/K%C5%99i%C5%BEanovice_u_Vy%C5%A1kova"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "hoist",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2,
+      "direction": "bend"
+    },
+    {
+      "type": "axe",
+      "color": "blue",
+      "position": "fly",
+      "role": "crossed axes",
+      "count": 2
+    }
+  ]
+}

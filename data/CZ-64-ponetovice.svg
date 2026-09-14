@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="420" width="630" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <path fill="#008000" d="m0,0v420h630z"/>
+<path fill="#d40000" d="m210,0h420v280z"/>
+ <path fill="#fff" d="m0,0l630 420v-140l-420 -280z"/>
+
+<g id="star1" transform="matrix(.25,0,0,.25,75,210)">
+<path id="black1" d="M300 9l-101 181l101 181l101 -181z" fill="#520"/>
+<use id="b2" xlink:href="#black1" transform="rotate(60 300 190)"/>
+<use xlink:href="#b2" transform="translate(600) scale(-1 1)"/>
+<g id="y">
+<path d="M300 10l-50 90l50 90l-50 90l50 90z" fill="#ffd42a"/>
+<path d="M300 10l50 90l-50 90l50 90l-50 90z" fill="#d4aa00"/>
+</g>
+<use id="y1" xlink:href="#y" transform="rotate(60 300 190)"/>
+<use xlink:href="#y1" transform="translate(600) scale(-1 1)"/>
+</g>
+
+
+
+
+
+<use xlink:href="#star1" y="-95"/><use xlink:href="#star1" y="95"/>
+<use xlink:href="#star1" x="-90"/><use xlink:href="#star1" x="90"/>
+</svg>

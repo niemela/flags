@@ -1,0 +1,13 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" height="400" width="600">
+ <path d="m0,0,600,0v400h-600z" fill="#000"/>
+ <path d="m0,50,600,0,0,300-600,0z" fill="#056624"/>
+ <path d="m0,100,600,0,0,200-600,0z" fill="#FFF"/>
+ <path d="m0,50,600,150-600,150z" fill="#d40000"/>
+ 
+ <path id="m" d="m93,120l14 0l0 10l-14 0z" fill="#fcdd09"/>
+ <use xlink:href="#m" transform="rotate(45 100 200)"/><use xlink:href="#m" transform="rotate(90 100 200)"/><use xlink:href="#m" transform="rotate(135 100 200)"/><use xlink:href="#m" transform="rotate(180 100 200)"/><use xlink:href="#m" transform="rotate(225 100 200)"/><use xlink:href="#m" transform="rotate(270 100 200)"/><use xlink:href="#m" transform="rotate(315 100 200)"/>
+ <circle cx="100" cy="200" stroke="#d40000" r="75" fill="#fcdd09"/><circle cx="100" cy="200" stroke="#d40000" r="55" fill="#d40000"/>
+ <path id="k" d="m89.38,146.2,4.881,6.094,0,39.22c3.934,1.015,7.552,0.5139,11.49,0v-39.22l4.881-6.094c-7.116-1.219-14.23-1.101-21.25,0z" stroke="#d40000" fill="#fcdd09"/> <use xlink:href="#k" transform="rotate(90 100 200)"/><use xlink:href="#k" transform="rotate(180 100 200)"/> <use xlink:href="#k" transform="rotate(-90 100 200)"/> 
+ <g stroke="#d40000" fill="none"><path d="m153.7,200-107.4,0"/><path d="m100,146.1,0,107.4"/></g>
+ <circle cx="100" cy="200" stroke="#d40000" r="15" fill="#fcdd09"/> <path d="m100,193l7 7l-7 7l-7-7z" fill="#d40000"/>
+</svg>

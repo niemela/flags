@@ -1,0 +1,76 @@
+{
+  "id": "CZ-64-horni-porici",
+  "name": "Horní Poříčí (Blansko District, Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-64",
+  "codes": {
+    "wikidata": "Q656853"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Two horizontal stripes of blue and yellow in the ratio 1:4 separated by a wavy line, with a dark red heart above a green hill in the yellow.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 8 November 2016 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2016-11-08"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Horní_Poříčí_BK_CZ_flag.svg",
+    "https://www.wikidata.org/wiki/Q656853",
+    "https://cs.wikipedia.org/wiki/Horn%C3%AD_Po%C5%99%C3%AD%C4%8D%C3%AD_(okres_Blansko)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        4
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "top",
+      "role": "wavy division"
+    },
+    {
+      "type": "glyph",
+      "color": "maroon",
+      "position": "center",
+      "role": "heart"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "bottom",
+      "role": "hill"
+    }
+  ]
+}

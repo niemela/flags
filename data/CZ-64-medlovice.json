@@ -1,0 +1,68 @@
+{
+  "id": "CZ-64-medlovice",
+  "name": "Medlovice (Vyškov District, Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-64",
+  "codes": {
+    "wikidata": "Q1881894"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field with a white diagonal stripe from the lower hoist to the upper fly, a yellow wheat ear in the upper hoist and a white Maltese cross in the lower fly.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 9 October 2007 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2007-10-09"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Medlovice.svg",
+    "https://www.wikidata.org/wiki/Q1881894",
+    "https://cs.wikipedia.org/wiki/Medlovice_(okres_Vy%C5%A1kov)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "lower-fly",
+      "role": "Maltese cross"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "CZ-64-bucovice",
+  "name": "Bučovice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-64",
+  "codes": {
+    "wikidata": "Q776426"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Two horizontal stripes of blue and red separated by a white stepped line, with a white castle with red roofs in the blue at the hoist.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 3 April 1996 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "1996-04-03"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Vlajka_města_Bučovice.svg",
+    "https://www.wikidata.org/wiki/Q776426",
+    "https://cs.wikipedia.org/wiki/Bu%C4%8Dovice"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        3,
+        2
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "stepped white band"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "castle with red roofs"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "CZ-64-unkovice",
+  "name": "Unkovice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-64",
+  "codes": {
+    "wikidata": "Q2298382"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Two equal vertical stripes, the hoist blue with a pale yellow diagonal stripe from the upper hoist to the lower fly, the fly green with a white diagonal stripe.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Unkovice,_Brno-Country_District,_Czech_Republic.svg",
+    "https://www.wikidata.org/wiki/Q2298382",
+    "https://cs.wikipedia.org/wiki/Unkovice"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "hoist",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "fly",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "direction": "bend"
+    }
+  ]
+}
