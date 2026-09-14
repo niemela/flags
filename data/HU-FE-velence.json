@@ -1,0 +1,53 @@
+{
+  "id": "HU-FE-velence",
+  "name": "Velence (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-FE",
+  "codes": {
+    "wikidata": "Q1065977"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Three horizontal stripes of yellow, blue and yellow in the ratio 1:5:1, charged towards the hoist with the town arms of Velence: a blue and yellow shield with a bird, a fish and a bunch of grapes, with a scroll inscribed VELENCE.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Velence.svg",
+    "https://www.wikidata.org/wiki/Q1065977",
+    "https://hu.wikipedia.org/wiki/Velence_(Magyarország)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        5,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Velence arms with scroll"
+    }
+  ]
+}

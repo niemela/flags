@@ -1,0 +1,64 @@
+{
+  "id": "HU-FE-adony",
+  "name": "Adony (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-FE",
+  "codes": {
+    "wikidata": "Q366220"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Yellow field with a wavy blue stripe and a green fly panel along the fly edge, charged in the upper hoist with a black Gothic letter A.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Adony.svg",
+    "https://www.wikidata.org/wiki/Q366220",
+    "https://hu.wikipedia.org/wiki/Adony_(település)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "role": "wavy vertical stripe"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green"
+      ],
+      "count": 1,
+      "position": "fly"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "upper-hoist",
+      "role": "Gothic letter A"
+    }
+  ]
+}

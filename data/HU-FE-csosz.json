@@ -1,0 +1,50 @@
+{
+  "id": "HU-FE-csosz",
+  "name": "Csősz (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-FE",
+  "codes": {
+    "wikidata": "Q876585"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "shape": "swallowtail",
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green swallow-tailed field charged towards the hoist with the municipal arms of Csősz (a blue shield with a yellow lion, with a helm and red, blue and yellow mantling) above the name CSŐSZ in yellow.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Csősz.svg",
+    "https://www.wikidata.org/wiki/Q876585",
+    "https://hu.wikipedia.org/wiki/Csősz_(település)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Csősz arms with helm and mantling"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "lower-hoist",
+      "role": "inscription CSŐSZ"
+    }
+  ]
+}

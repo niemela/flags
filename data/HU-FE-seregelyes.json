@@ -1,0 +1,62 @@
+{
+  "id": "HU-FE-seregelyes",
+  "name": "Seregélyes (Hungary)",
+  "type": [
+    "city"
+  ],
+  "parent": "HU-FE",
+  "codes": {
+    "wikidata": "Q920824"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Three horizontal stripes of blue, white and blue in the ratio 1:3:1, charged at the centre with the municipal arms of Seregélyes (a crowned blue shield with a white bird, within a wreath) above the name SEREGÉLYES in yellow.",
+  "history": "Hungarian municipal symbols are adopted by decree of the local representative body (képviselő-testület); the flag carries the colours of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Seregélyes.svg",
+    "https://www.wikidata.org/wiki/Q920824",
+    "https://hu.wikipedia.org/wiki/Seregélyes_(Magyarország)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Seregélyes arms with crown and wreath"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "inscription SEREGÉLYES"
+    }
+  ]
+}
