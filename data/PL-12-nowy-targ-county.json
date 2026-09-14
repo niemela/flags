@@ -1,0 +1,64 @@
+{
+  "id": "PL-12-nowy-targ-county",
+  "name": "Nowy Targ County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-12",
+  "codes": {
+    "wikidata": "Q770911"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Three horizontal stripes of white, yellow and red in the ratio 2:1:2, the pattern shared by the counties of Lesser Poland, charged at the centre with the county arms of Nowy Targ: a red shield with a yellow crown and a sword.",
+  "history": "Established on 11 August 2000.",
+  "periods": [
+    {
+      "start": "2000-08-11"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_nowotarski_flag.svg",
+    "https://www.wikidata.org/wiki/Q770911",
+    "https://pl.wikipedia.org/wiki/Powiat_nowotarski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_małopolskim",
+    "https://bip.malopolska.pl/muw,a,1872155,2000-dzienniki-urzedowe-od-nr-76-do-nr-100.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Nowy Targ county arms"
+    }
+  ]
+}

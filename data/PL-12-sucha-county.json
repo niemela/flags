@@ -1,0 +1,64 @@
+{
+  "id": "PL-12-sucha-county",
+  "name": "Sucha County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-12",
+  "codes": {
+    "wikidata": "Q1280815"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Three horizontal stripes of white, yellow and red in the ratio 2:1:2, the pattern shared by the counties of Lesser Poland, charged at the centre with the county arms of Sucha: a red shield with a white eagle's head between fir trees above white bars.",
+  "history": "Established by resolution No. XIV/75/2000 of the county council of 14 March 2000.",
+  "periods": [
+    {
+      "start": "2000-03-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_suski_flag.svg",
+    "https://www.wikidata.org/wiki/Q1280815",
+    "https://pl.wikipedia.org/wiki/Powiat_suski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_małopolskim",
+    "https://spsuchabeskidzka.bip.info.pl/dokument.php?iddok=5170&idmp=67&r=o"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Sucha county arms"
+    }
+  ]
+}

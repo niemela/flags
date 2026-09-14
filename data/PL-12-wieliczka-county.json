@@ -1,0 +1,64 @@
+{
+  "id": "PL-12-wieliczka-county",
+  "name": "Wieliczka County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-12",
+  "codes": {
+    "wikidata": "Q609424"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Three horizontal stripes of white, yellow and red in the ratio 2:1:2, the pattern shared by the counties of Lesser Poland, charged at the centre with the county arms of Wieliczka: a red shield with a white eagle above mining tools.",
+  "history": "Established on 28 August 2001.",
+  "periods": [
+    {
+      "start": "2001-08-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_wielicki_flag.svg",
+    "https://www.wikidata.org/wiki/Q609424",
+    "https://pl.wikipedia.org/wiki/Powiat_wielicki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_małopolskim",
+    "https://www.powiatwielicki.pl/strefa-turystyki/o-powiecie.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Wieliczka county arms"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "PL-12-tatra-county",
+  "name": "Tatra County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-12",
+  "codes": {
+    "wikidata": "Q1147584"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three vertical stripes of green, white and green in the ratio 1:2:1, charged at the centre with the county arms of Tatra: a shield with the Virgin Mary on a mountain background.",
+  "history": "Established by resolution No. VII/38/99 of the county council of 10 May 1999.",
+  "periods": [
+    {
+      "start": "1999-05-10"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_tatrzański_flag.svg",
+    "https://www.wikidata.org/wiki/Q1147584",
+    "https://pl.wikipedia.org/wiki/Powiat_tatrzański",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_małopolskim",
+    "https://bip.malopolska.pl/spzakopane,a,47782,w-sprawie-ogloszenia-tekstu-jednolitego-statutu-powiatu-tatrzanskiego.html"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Tatra county arms"
+    }
+  ]
+}

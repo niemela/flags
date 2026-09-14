@@ -1,0 +1,60 @@
+{
+  "id": "PL-12-nowy-sacz-county",
+  "name": "Nowy Sącz County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-12",
+  "codes": {
+    "wikidata": "Q1147602"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided vertically into two parts: a hoist of six horizontal stripes alternating red and yellow, and a red fly charged with nine yellow six-pointed stars in three rows, the elements of the county arms.",
+  "history": "Polish county (powiat) and city flags are established by resolution of the council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_nowosądecki_flag.svg",
+    "https://www.wikidata.org/wiki/Q1147602",
+    "https://pl.wikipedia.org/wiki/Powiat_nowosądecki",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_małopolskim",
+    "https://bip.nowosadecki.pl/prawo/statut_powiatu/"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 6,
+      "position": "hoist"
+    },
+    {
+      "type": "solid",
+      "color": "red",
+      "position": "fly"
+    },
+    {
+      "type": "star",
+      "count": 9,
+      "points": 6,
+      "color": "yellow",
+      "position": "fly",
+      "arrangement": "grid",
+      "rows": 3
+    }
+  ]
+}

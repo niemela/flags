@@ -1,0 +1,64 @@
+{
+  "id": "PL-12-olkusz-county",
+  "name": "Olkusz County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-12",
+  "codes": {
+    "wikidata": "Q1340613"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Three horizontal stripes of white, yellow and red in the ratio 2:1:2, the pattern shared by the counties of Lesser Poland, charged at the centre with the county arms of Olkusz: a red shield with three white eagles.",
+  "history": "Established by resolution No. XX/129/2000 of the county council of 18 June 2000.",
+  "periods": [
+    {
+      "start": "2000-06-18"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_olkuski_flag.svg",
+    "https://www.wikidata.org/wiki/Q1340613",
+    "https://pl.wikipedia.org/wiki/Powiat_olkuski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_małopolskim",
+    "https://bip.malopolska.pl/spolkusz,a,285676,statut-powiatu-olkuskiego.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Olkusz county arms"
+    }
+  ]
+}

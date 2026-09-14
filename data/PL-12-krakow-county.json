@@ -1,0 +1,65 @@
+{
+  "id": "PL-12-krakow-county",
+  "name": "Kraków County (Poland)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "PL-12",
+  "codes": {
+    "wikidata": "Q1164890"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Three horizontal stripes of white, yellow and red in the ratio 2:1:2, the pattern shared by the counties of Lesser Poland, charged at the centre with the county arms of Kraków: a red shield with a crowned white eagle's head.",
+  "history": "Established by resolution No. X/44/99 of the county council of 27 August 1999.",
+  "periods": [
+    {
+      "start": "1999-08-27"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_powiat_krakowski_flag.svg",
+    "https://www.wikidata.org/wiki/Q1164890",
+    "https://pl.wikipedia.org/wiki/Powiat_krakowski",
+    "https://pl.wikipedia.org/wiki/Flagi_powiatów_w_województwie_małopolskim",
+    "https://powiat.krakow.pl/powiat/symbole-powiatu-krakowskiego",
+    "https://bip.malopolska.pl/muw,a,1872680,1999-dzienniki-urzedowe-od-nr-26-do-nr-50.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Kraków county arms"
+    }
+  ]
+}
