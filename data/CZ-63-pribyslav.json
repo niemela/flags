@@ -1,0 +1,85 @@
+{
+  "id": "CZ-63-pribyslav",
+  "name": "Přibyslav (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q161060"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A red hoist half bearing a yellow crown over two crossed white knives, and a fly half of blue with three white fish over yellow with crossed black knotted branches.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Pribyslav_CZ_flag.svg",
+    "https://www.wikidata.org/wiki/Q161060",
+    "https://cs.wikipedia.org/wiki/P%C5%99ibyslav"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2,
+      "position": "fly"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "hoist"
+    },
+    {
+      "type": "tool",
+      "color": "white",
+      "position": "hoist",
+      "role": "crossed knives"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "upper-fly",
+      "role": "three fish",
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "lower-fly",
+      "role": "crossed knotted branches"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "CZ-63-pacov",
+  "name": "Pacov (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q746111"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three horizontal stripes of blue, dark red and white at the fly above a yellow lower stripe, with a yellow canton bearing a white tower and a blue lion rampant.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Pacov-vlajka.svg",
+    "https://www.wikidata.org/wiki/Q746111",
+    "https://cs.wikipedia.org/wiki/Pacov"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "maroon",
+        "white",
+        "yellow"
+      ],
+      "count": 4
+    },
+    {
+      "type": "canton",
+      "color": "yellow",
+      "position": "canton",
+      "features": [
+        {
+          "type": "building",
+          "color": "white",
+          "position": "center",
+          "role": "tower"
+        },
+        {
+          "type": "lion",
+          "color": "blue",
+          "position": "center"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "CZ-63-cernovice",
+  "name": "Černovice (Pelhřimov District, Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q339102"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into a white upper hoist part bearing a red rose with yellow centre and a navy blue lower fly part bearing a yellow rose with red centre.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 15 July 1993 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "1993-07-15"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Černovice_(okres_Pelhřimov).svg",
+    "https://www.wikidata.org/wiki/Q339102",
+    "https://cs.wikipedia.org/wiki/%C4%8Cernovice_(okres_Pelh%C5%99imov)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "navy",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "rose"
+    },
+    {
+      "type": "flower",
+      "color": "yellow",
+      "position": "lower-fly",
+      "role": "rose"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "CZ-63-osove",
+  "name": "Osové (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q2034543"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "White field with a red cross set towards the hoist bearing a white sword with yellow hilt, two red roses with yellow centres at the hoist and two green stripes in the fly.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Osové.svg",
+    "https://www.wikidata.org/wiki/Q2034543",
+    "https://cs.wikipedia.org/wiki/Osov%C3%A9"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "hoist"
+    },
+    {
+      "type": "sword",
+      "color": "white",
+      "position": "center"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "hoist",
+      "role": "roses",
+      "count": 2
+    },
+    {
+      "type": "horizontal-stripes",
+      "color": "green",
+      "position": "fly",
+      "stripes": [
+        "green"
+      ],
+      "count": 2,
+      "role": "two stripes"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "CZ-63-radnoves",
+  "name": "Radňoves (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q93411"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a yellow band into a green upper hoist part bearing a yellow cartwheel and a lower fly part striped navy blue, red and yellow.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 22 October 2008 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2008-10-22"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Radňoves.svg",
+    "https://www.wikidata.org/wiki/Q93411",
+    "https://cs.wikipedia.org/wiki/Rad%C5%88oves"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "navy",
+      "direction": "bend-sinister",
+      "fimbriation": {
+        "color": "yellow"
+      }
+    },
+    {
+      "type": "wheel",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "cartwheel"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "red",
+        "yellow"
+      ],
+      "count": 3,
+      "position": "lower-fly"
+    }
+  ]
+}

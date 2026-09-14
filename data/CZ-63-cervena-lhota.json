@@ -1,0 +1,66 @@
+{
+  "id": "CZ-63-cervena-lhota",
+  "name": "Červená Lhota (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q128792"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Two horizontal stripes of red and white in the ratio 5:1 separated by an embattled line, with a white forked arrow in the red and a narrow red stripe along the bottom.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 9 December 2002 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2002-12-09"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Červená_Lhota_TR_flag.svg",
+    "https://www.wikidata.org/wiki/Q128792",
+    "https://cs.wikipedia.org/wiki/%C4%8Cerven%C3%A1_Lhota_(okres_T%C5%99eb%C3%AD%C4%8D)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        5,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "bottom",
+      "role": "embattled division"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "forked arrow"
+    }
+  ]
+}

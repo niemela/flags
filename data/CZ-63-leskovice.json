@@ -1,0 +1,66 @@
+{
+  "id": "CZ-63-leskovice",
+  "name": "Leškovice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q2635338"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Yellow field with a red vertical stripe near the hoist and a heart counterchanged yellow and red over it, and a brown owl on an open white book in the fly.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_Leškovice.svg",
+    "https://www.wikidata.org/wiki/Q2635338",
+    "https://cs.wikipedia.org/wiki/Le%C5%A1kovice"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2,
+      "position": "hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "counterchanged heart"
+    },
+    {
+      "type": "bird",
+      "color": "brown",
+      "position": "fly",
+      "role": "owl on a book"
+    }
+  ]
+}

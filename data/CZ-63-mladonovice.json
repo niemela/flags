@@ -1,0 +1,76 @@
+{
+  "id": "CZ-63-mladonovice",
+  "name": "Mladoňovice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q166245"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A hoist part of blue with a white eagle's wing holding a yellow key, a red stripe bearing two white fleurs-de-lis, and a fly of two equal horizontal stripes of yellow over white.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Mladoňovice_TR_flag.svg",
+    "https://www.wikidata.org/wiki/Q166245",
+    "https://cs.wikipedia.org/wiki/Mlado%C5%88ovice_(okres_T%C5%99eb%C3%AD%C4%8D)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "eagle",
+      "color": "white",
+      "position": "hoist",
+      "role": "eagle's wing with key"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "position": "center-hoist",
+      "count": 2
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "white"
+      ],
+      "count": 2,
+      "position": "fly"
+    }
+  ]
+}

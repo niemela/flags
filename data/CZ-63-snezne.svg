@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="600" height="400" viewBox="-21 -14 42 28">
+
+<rect fill="white" x="-21" y="-21" width="42" height="28"/>
+<rect fill="#0a0" x="-21" width="42" height="14"/>
+
+<g id="torteaux4" fill="red">
+<circle cx="7" r="1"/>
+<circle cx="-7" r="1"/>
+<circle cy="7" r="1"/>
+<circle cy="-7" r="1"/>
+</g>
+<use transform="rotate(45)" xlink:href="#torteaux4"/>
+
+</svg>

@@ -1,0 +1,58 @@
+{
+  "id": "CZ-63-orechov",
+  "name": "Ořechov (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q260332"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Two equal horizontal stripes of red over yellow, with a yellow portcullis in the red and two crossed black knotted branches in the yellow.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Ořechov.svg",
+    "https://www.wikidata.org/wiki/Q260332",
+    "https://cs.wikipedia.org/wiki/O%C5%99echov_(okres_%C5%BD%C4%8F%C3%A1r_nad_S%C3%A1zavou)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "top",
+      "role": "portcullis"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "bottom",
+      "role": "crossed knotted branches"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "CZ-63-police",
+  "name": "Police (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q246098"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into a red upper hoist part and a black lower fly part, with a yellow crowned lion holding a white shield with a red eagle.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Police_TR_flag.svg",
+    "https://www.wikidata.org/wiki/Q246098",
+    "https://cs.wikipedia.org/wiki/Police_(okres_T%C5%99eb%C3%AD%C4%8D)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "black",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "center",
+      "role": "crowned lion with shield"
+    }
+  ]
+}

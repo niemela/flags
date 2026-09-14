@@ -1,0 +1,67 @@
+{
+  "id": "CZ-63-michalovice",
+  "name": "Michalovice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q1923246"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Two equal horizontal stripes of red over white, with a yellow sword between two white wings in the red and a green dragon with red tongue hanging from yellow scales in the white.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Michalovice_vlajka_rev-1.svg",
+    "https://www.wikidata.org/wiki/Q1923246",
+    "https://cs.wikipedia.org/wiki/Michalovice_(okres_Havl%C3%AD%C4%8Dk%C5%AFv_Brod)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "sword",
+      "color": "yellow",
+      "position": "top"
+    },
+    {
+      "type": "eagle",
+      "color": "white",
+      "position": "top",
+      "role": "two wings",
+      "count": 2
+    },
+    {
+      "type": "mythical-creature",
+      "color": "green",
+      "position": "bottom",
+      "role": "dragon with scales"
+    }
+  ]
+}

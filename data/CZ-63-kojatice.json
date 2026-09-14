@@ -1,0 +1,80 @@
+{
+  "id": "CZ-63-kojatice",
+  "name": "Kojatice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q218347"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Two vertical stripes of red and green in the ratio 1:2, the red bearing a white triangle with a white flower between two white wedges, and the green a yellow wheat sheaf over a crossed white key and sword.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Kojatice_TR_flag.svg",
+    "https://www.wikidata.org/wiki/Q218347",
+    "https://cs.wikipedia.org/wiki/Kojatice"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "count": 3
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "fly",
+      "role": "sheaf"
+    },
+    {
+      "type": "key",
+      "color": "white",
+      "position": "fly"
+    },
+    {
+      "type": "sword",
+      "color": "white",
+      "position": "fly"
+    }
+  ]
+}

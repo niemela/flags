@@ -1,0 +1,76 @@
+{
+  "id": "CZ-63-pozdatin",
+  "name": "Pozďatín (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q245608"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "White field with a yellow diagonal band from the lower hoist to the upper fly bearing three light blue six-pointed stars, a white fish on light blue in the lower hoist and a green tree in the upper fly.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Pozďatín_TR_flag.svg",
+    "https://www.wikidata.org/wiki/Q245608",
+    "https://cs.wikipedia.org/wiki/Poz%C4%8Fat%C3%ADn"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 6,
+      "color": "light-blue",
+      "position": "center"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "lower-hoist",
+      "role": "fish"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "upper-fly"
+    }
+  ]
+}

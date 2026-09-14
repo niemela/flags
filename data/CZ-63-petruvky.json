@@ -1,0 +1,67 @@
+{
+  "id": "CZ-63-petruvky",
+  "name": "Petrůvky (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q246781"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A dark red vertical stripe at the hoist bearing a white cross above a white bell, and a fly divided diagonally white and blue.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Petrůvky_TR_flag.svg",
+    "https://www.wikidata.org/wiki/Q246781",
+    "https://cs.wikipedia.org/wiki/Petr%C5%AFvky"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "maroon",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "lower-hoist",
+      "role": "bell"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "fly",
+      "role": "diagonal fly part"
+    }
+  ]
+}

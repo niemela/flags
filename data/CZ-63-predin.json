@@ -1,0 +1,75 @@
+{
+  "id": "CZ-63-predin",
+  "name": "Předín (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q245612"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a green band bearing five yellow discs into a white upper hoist part with a black eagle and a red lower fly part with crossed white miners' hammers.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 25 November 2003 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2003-11-25"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Předín_TR_flag.svg",
+    "https://www.wikidata.org/wiki/Q245612",
+    "https://cs.wikipedia.org/wiki/P%C5%99ed%C3%ADn"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend-sinister",
+      "fimbriation": {
+        "color": "green"
+      }
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "position": "center",
+      "count": 5
+    },
+    {
+      "type": "eagle",
+      "color": "black",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "tool",
+      "color": "white",
+      "position": "lower-fly",
+      "role": "crossed hammers"
+    }
+  ]
+}

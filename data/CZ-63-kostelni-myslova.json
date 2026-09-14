@@ -1,0 +1,63 @@
+{
+  "id": "CZ-63-kostelni-myslova",
+  "name": "Kostelní Myslová (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q2349703"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Two equal horizontal stripes of navy blue and a lower part chequered red and green, with a yellow rose with red centre and green sepals in the blue.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Kostelní_Myslová.svg",
+    "https://www.wikidata.org/wiki/Q2349703",
+    "https://cs.wikipedia.org/wiki/Kosteln%C3%AD_Myslov%C3%A1"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "chequy",
+      "position": "bottom",
+      "field": "red",
+      "chequy": "green",
+      "columns": 9,
+      "rows": 3
+    },
+    {
+      "type": "flower",
+      "color": "yellow",
+      "position": "top",
+      "role": "rose"
+    }
+  ]
+}

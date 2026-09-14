@@ -1,0 +1,69 @@
+{
+  "id": "CZ-63-odunec",
+  "name": "Odunec (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q165964"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with a narrow white horizontal stripe through the centre, two yellow wheat ears flanking a white flower above and a yellow scallop shell between two yellow hooks below.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Odunec_TR_flag.svg",
+    "https://www.wikidata.org/wiki/Q165964",
+    "https://cs.wikipedia.org/wiki/Odunec"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        5,
+        1,
+        5
+      ]
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "top",
+      "count": 2
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "top"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "scallop shell"
+    }
+  ]
+}

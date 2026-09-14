@@ -1,0 +1,67 @@
+{
+  "id": "CZ-63-komarovice",
+  "name": "Komárovice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q218514"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Three vertical stripes of black, white and blue, the white and blue separated by a wavy line, with a green spruce with black trunk in the white.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Komárovice_TR_flag.svg",
+    "https://www.wikidata.org/wiki/Q218514",
+    "https://cs.wikipedia.org/wiki/Kom%C3%A1rovice_(okres_T%C5%99eb%C3%AD%C4%8D)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        5,
+        4
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "role": "wavy division"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "spruce"
+    }
+  ]
+}

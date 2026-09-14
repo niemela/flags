@@ -1,0 +1,74 @@
+{
+  "id": "CZ-63-namest-nad-oslavou",
+  "name": "Náměšť nad Oslavou (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q2427155"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Seven horizontal stripes alternating red and yellow, with a blue triangle rising from the bottom edge to the top centre bearing a white dove with a green olive branch on a green mound.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Náměšť_nad_Oslavou_TR_flag.svg",
+    "https://www.wikidata.org/wiki/Q2427155",
+    "https://cs.wikipedia.org/wiki/N%C3%A1m%C4%9B%C5%A1%C5%A5_nad_Oslavou"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 7
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "bottom"
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "position": "center",
+      "role": "dove with olive branch"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "bottom",
+      "role": "mound"
+    }
+  ]
+}

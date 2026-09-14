@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="420" width="630" xmlns:xlink="http://www.w3.org/1999/xlink"><defs>
+ <path id="z" fill="#4A0" stroke="#0F3F0F" d="m106.5,102.8c1.909-1.877-0.6001-6.734-0.8671-13.72,3.065,0.1267,10.7,6.265,15.48,5.76,23.53,42.56,16.26,40.98-14.62,7.96z"/>
+ <path id="k" d="m146.5,72.68c-2.075,11.81-32.64,11.9-32.38,25.88,0.2,9.74,25.6,37.34,32.4,47.94,6.83-10.56,32.19-38.21,32.38-47.94,0.26-13.98-30.3-14.07-32.38-25.88z"/>
+ <path id="p" fill="none" d="m171.8,101.9c-1.7-16.31-19-4.98-25.3-4.98-6.35,0-23.68-11.33-25.38,4.981"/>
+ <circle id="c" cx="146.5" cy="146.5" r="15"/>
+</defs>
+ <path fill="#FFF" d="M0,0h630c-210,140-420,280-630,420v-420z"/>
+ <path fill="#0f47af" d="M630,420,0,420,630,0z"/>
+ <g id="g"> <use xlink:href="#z"/><use xlink:href="#z" transform="rotate(72 146.5 146.5)"/><use xlink:href="#z" transform="rotate(144 146.5 146.5)"/><use xlink:href="#z" transform="rotate(216 146.5 146.5)"/><use xlink:href="#z" transform="rotate(288 146.5 146.5)"/></g>
+ <g  style="fill: #D40000; stroke: #800;"> <g id="g1"> <use xlink:href="#k" transform="rotate(72 146.5 146.5)"/><use xlink:href="#k" transform="rotate(144 146.5 146.5)"/><use xlink:href="#k" transform="rotate(216 146.5 146.5)"/><use xlink:href="#k" transform="rotate(288 146.5 146.5)"/><use xlink:href="#k"/></g></g>
+ <g  style=" stroke: #800;"> <g id="g2"> <use xlink:href="#p" transform="rotate(72 146.5 146.5)"/><use xlink:href="#p" transform="rotate(144 146.5 146.5)"/><use xlink:href="#p" transform="rotate(216 146.5 146.5)"/><use xlink:href="#p" transform="rotate(288 146.5 146.5)"/><use xlink:href="#p"/></g></g>
+ <use xlink:href="#c" style="fill: #FC0; stroke: #A40;"/>
+
+<g transform="translate(337 127)">
+ <use xlink:href="#g"/><use xlink:href="#z" transform="rotate(72 146.5 146.5)"/><use xlink:href="#z" transform="rotate(144 146.5 146.5)"/><use xlink:href="#z" transform="rotate(216 146.5 146.5)"/><use xlink:href="#z" transform="rotate(288 146.5 146.5)"/>
+ <use xlink:href="#g1" style="fill: #FC0; stroke: #A40;"/>
+ <use xlink:href="#g2" style=" stroke: #A40;"/>
+ <use xlink:href="#c" style="fill: #D40000; stroke: #800;"/>
+ </g>
+</svg>

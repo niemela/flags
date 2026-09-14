@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="400" width="600" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <path fill="#d40000" d="m0,200,600,0,0,200-600,0z"/>
+ <path d="m0,0,600,0,0,200-600,0z" fill="#ffd42a"/>
+ <path fill="#FFF" d="m131.2,200,0,50-131.2,0,0,25,131.2,0,0,50-131.2,0,0,25,131.2,0,0,50,25,0,0-50,131.2,0,0,50,25,0,0-50,131.2,0,0,50,25,0,0-50,131.2,0,0-25-131.2,0,0-50,131.2,0,0-25-131.2,0,0-50-25,0,0,50-131.2,0,0-50-25,0,0,50-131.2,0,0-50-25,0zm25,75,131.2,0,0,50-131.2,0,0-50zm156.2,0,131.2,0,0,50-131.2,0,0-50z"/>
+ <g id="r">
+ <g id="k">
+ <circle cx="143.75" cy="25" r="25" stroke="#2B0000" fill="#d40000"/>
+ <circle cx="143.75" cy="25" r="16" stroke="#2B0000" fill="#ffd42a"/>
+ </g>
+ <use xlink:href="#k" y="75"/>
+ <rect id="c" rx="4.5" height="50" width="9" stroke="#2b0000" y="37.5" x="139.2" fill="#d40000"/>
+ <use xlink:href="#k" y="150"/>
+ <use xlink:href="#c" y="75"/>
+ </g>
+ <use xlink:href="#r" x="156.25"/>
+ <use xlink:href="#r" x="312.25"/>
+</svg>

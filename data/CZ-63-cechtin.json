@@ -1,0 +1,66 @@
+{
+  "id": "CZ-63-cechtin",
+  "name": "Čechtín (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q128757"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a white band into a blue upper hoist part bearing a white scythe blade with yellow handle and a red lower fly part bearing a white flower.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 13 November 2002 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2002-11-13"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Čechtín_TR_flag.svg",
+    "https://www.wikidata.org/wiki/Q128757",
+    "https://cs.wikipedia.org/wiki/%C4%8Cecht%C3%ADn"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "red",
+      "direction": "bend-sinister",
+      "fimbriation": {
+        "color": "white"
+      }
+    },
+    {
+      "type": "tool",
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "scythe"
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "lower-fly"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "CZ-63-laz",
+  "name": "Láz (Třebíč District, Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q166647"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Yellow field with a blue diagonal band from the lower hoist to the upper fly bearing a yellow wheat ear, crossed by a black knotted branch from the upper hoist to the lower fly.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Láz_TR_flag.svg",
+    "https://www.wikidata.org/wiki/Q166647",
+    "https://cs.wikipedia.org/wiki/L%C3%A1z_(okres_T%C5%99eb%C3%AD%C4%8D)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "knotted branch"
+    }
+  ]
+}

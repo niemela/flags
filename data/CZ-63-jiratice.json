@@ -1,0 +1,59 @@
+{
+  "id": "CZ-63-jiratice",
+  "name": "Jiratice (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q218527"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "grey"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into a white upper hoist part bearing a grey scythe blade and a grey square with a hook, and a navy blue lower fly part bearing a yellow bucket pouring white water.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Jiratice_TR_flag.svg",
+    "https://www.wikidata.org/wiki/Q218527",
+    "https://cs.wikipedia.org/wiki/Jiratice"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "navy",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "tool",
+      "color": "grey",
+      "position": "upper-hoist",
+      "role": "scythe blade and square"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "lower-fly",
+      "role": "bucket"
+    }
+  ]
+}

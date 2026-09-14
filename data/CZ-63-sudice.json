@@ -1,0 +1,64 @@
+{
+  "id": "CZ-63-sudice",
+  "name": "Sudice (Třebíč District, Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q246735"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly by a green band into a white upper fly part with a green hat-shaped charge and a red lower hoist part with a yellow adze blade.",
+  "history": "Granted by decision of the Chairman of the Chamber of Deputies of the Czech Parliament on 27 June 2001 and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "periods": [
+    {
+      "start": "2001-06-27"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Sudice_TR_flag.svg",
+    "https://www.wikidata.org/wiki/Q246735",
+    "https://cs.wikipedia.org/wiki/Sudice_(okres_T%C5%99eb%C3%AD%C4%8D)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "red",
+      "direction": "bend"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "upper-fly",
+      "role": "hat-shaped charge"
+    },
+    {
+      "type": "tool",
+      "color": "yellow",
+      "position": "lower-hoist",
+      "role": "adze blade"
+    }
+  ]
+}

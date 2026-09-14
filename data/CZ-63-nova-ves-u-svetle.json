@@ -1,0 +1,66 @@
+{
+  "id": "CZ-63-nova-ves-u-svetle",
+  "name": "Nová Ves u Světlé (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q164605"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field with a diagonal band of white and black from the upper hoist to the lower fly, a white lion's face in the upper fly and a yellow wheat ear with a white ploughshare in the lower hoist.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Vlajka_-_Nová_Ves_u_Světlé.svg",
+    "https://www.wikidata.org/wiki/Q164605",
+    "https://cs.wikipedia.org/wiki/Nov%C3%A1_Ves_u_Sv%C4%9Btl%C3%A9"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "position": "center",
+      "stripes": [
+        "white",
+        "black"
+      ],
+      "count": 2,
+      "direction": "bend"
+    },
+    {
+      "type": "lion",
+      "color": "white",
+      "position": "upper-fly",
+      "role": "lion's face"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "lower-hoist"
+    }
+  ]
+}

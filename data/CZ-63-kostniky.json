@@ -1,0 +1,82 @@
+{
+  "id": "CZ-63-kostniky",
+  "name": "Kostníky (Czechia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CZ-63",
+  "codes": {
+    "wikidata": "Q218316"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Three vertical stripes of white, blue and white in the ratio 1:2:1, the white stripes bearing red diagonal stripes, with a yellow eight-pointed star in the blue.",
+  "history": "Czech municipal flags are granted by decision of the Chairman of the Chamber of Deputies of the Parliament and entered in the Register of Municipal Symbols (REKOS); the flag repeats the colours and charges of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Kostníky_TR_flag.svg",
+    "https://www.wikidata.org/wiki/Q218316",
+    "https://cs.wikipedia.org/wiki/Kostn%C3%ADky"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "white"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "hoist",
+      "stripes": [
+        "red"
+      ],
+      "count": 2,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "fly",
+      "stripes": [
+        "red"
+      ],
+      "count": 2,
+      "direction": "bend"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "yellow",
+      "position": "center"
+    }
+  ]
+}
