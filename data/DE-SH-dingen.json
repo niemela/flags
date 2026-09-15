@@ -1,0 +1,65 @@
+{
+  "id": "DE-SH-dingen",
+  "name": "Dingen (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-SH",
+  "codes": {
+    "wikidata": "Q551686",
+    "ags": "01051022"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field with a yellow eagle in the upper hoist, divided by a wavy diagonal line from a yellow lower hoist bearing a green chestnut leaf, the fly barry of green and yellow.",
+  "history": "The arms are blazoned as divided of green and gold by a wavy line per bend sinister.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Dingen.svg",
+    "https://www.wikidata.org/wiki/Q551686",
+    "https://de.wikipedia.org/wiki/Dingen"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "eagle",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "eagle in the upper hoist"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "bottom",
+      "role": "chestnut leaf on the yellow lower hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "green",
+        "yellow",
+        "green",
+        "yellow",
+        "green"
+      ],
+      "count": 7,
+      "position": "fly",
+      "role": "barry fly"
+    }
+  ]
+}

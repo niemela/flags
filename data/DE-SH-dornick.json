@@ -1,0 +1,63 @@
+{
+  "id": "DE-SH-dornick",
+  "name": "Dörnick (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-SH",
+  "codes": {
+    "wikidata": "Q635488",
+    "ags": "01057017"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided by a wavy line white over blue, with two crossed red hooks on the white and a white rowing boat on the blue, the figures of the municipal arms of Dörnick.",
+  "history": "Municipal flag of Dörnick; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Dörnick.svg",
+    "https://www.wikidata.org/wiki/Q635488",
+    "https://de.wikipedia.org/wiki/Dörnick"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "role": "wavy division"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "top",
+      "role": "two crossed hooks"
+    },
+    {
+      "type": "ship",
+      "color": "white",
+      "position": "bottom",
+      "role": "rowing boat"
+    }
+  ]
+}

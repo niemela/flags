@@ -1,0 +1,61 @@
+{
+  "id": "DE-SH-dalldorf",
+  "name": "Dalldorf (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-SH",
+  "codes": {
+    "wikidata": "Q667401",
+    "ags": "01053022"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Yellow field above a blue base, charged with a green arched bridge in the upper part and a yellow fish on the blue, the figures of the municipal arms of Dalldorf.",
+  "history": "Municipal flag of Dalldorf; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Dalldorf.svg",
+    "https://www.wikidata.org/wiki/Q667401",
+    "https://de.wikipedia.org/wiki/Dalldorf"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        3,
+        2
+      ]
+    },
+    {
+      "type": "building",
+      "color": "green",
+      "position": "top",
+      "role": "arched bridge"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "fish"
+    }
+  ]
+}

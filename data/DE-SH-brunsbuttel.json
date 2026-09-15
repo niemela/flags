@@ -1,0 +1,52 @@
+{
+  "id": "DE-SH-brunsbuttel",
+  "name": "Brunsbüttel (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-SH",
+  "codes": {
+    "wikidata": "Q516635",
+    "ags": "01051011"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Chequy of six red and white, charged at the centre with a red anchor with a ring crossed by a white spade, the figures of the city arms of Brunsbüttel.",
+  "history": "The arms are blazoned as red with a silver wavy bend sinister, overlaid by an anchor with ring and a spade crossed in counterchanged colours.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Brunsbüttel.svg",
+    "https://www.wikidata.org/wiki/Q516635",
+    "https://de.wikipedia.org/wiki/Brunsbüttel"
+  ],
+  "features": [
+    {
+      "type": "chequy",
+      "field": "red",
+      "chequy": "white",
+      "role": "chequy of six panels"
+    },
+    {
+      "type": "anchor",
+      "color": "red",
+      "position": "center",
+      "role": "anchor with ring"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "spade crossed with the anchor"
+    }
+  ]
+}

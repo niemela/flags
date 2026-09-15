@@ -1,0 +1,69 @@
+{
+  "id": "DE-SH-heide",
+  "name": "Heide (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-SH",
+  "codes": {
+    "wikidata": "Q492322",
+    "ags": "01051044"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with a narrow white stripe near the top and bottom edges, charged with the white figures of the city arms of Heide without a shield: Saint George on horseback slaying the dragon, between an anchor and a plant.",
+  "history": "The flag shows in red the figures of the city arms all in white without shield, accompanied above and below near the edge by a narrow white stripe; the meaning of the anchor is unexplained but probably goes back to the Wollersmannen.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Heide.svg",
+    "https://www.wikidata.org/wiki/Q492322",
+    "https://de.wikipedia.org/wiki/Heide_(Holstein)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 5,
+      "widths": [
+        1,
+        1,
+        24,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "human-figure",
+      "color": "white",
+      "position": "center",
+      "role": "Saint George on horseback slaying the dragon"
+    },
+    {
+      "type": "anchor",
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "fly",
+      "role": "plant at the fly"
+    }
+  ]
+}

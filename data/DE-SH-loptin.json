@@ -1,0 +1,58 @@
+{
+  "id": "DE-SH-loptin",
+  "name": "Löptin (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-SH",
+  "codes": {
+    "wikidata": "Q631646",
+    "ags": "01057047"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with two columns of red lozenges along the hoist, the fly charged with two blue horizontal stripes, the figures of the municipal arms of Löptin.",
+  "history": "Municipal flag of Löptin; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Löptin.svg",
+    "https://www.wikidata.org/wiki/Q631646",
+    "https://de.wikipedia.org/wiki/Löptin"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "lozenge",
+      "color": "red",
+      "position": "hoist",
+      "role": "two columns of red lozenges"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "two blue stripes in the fly"
+    }
+  ]
+}

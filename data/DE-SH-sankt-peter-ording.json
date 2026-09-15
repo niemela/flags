@@ -1,0 +1,76 @@
+{
+  "id": "DE-SH-sankt-peter-ording",
+  "name": "Sankt Peter-Ording (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-SH",
+  "codes": {
+    "wikidata": "Q20749",
+    "ags": "01054113"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "4:7",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field bordered above and below by a very narrow white and a somewhat broader red stripe, charged towards the hoist with the yellow crossed keys beneath a star and crescent of the municipal arms of Sankt Peter-Ording.",
+  "history": "The arms and the flag were approved on 11 July 1967; the flag shows in the hoist of a blue field, bordered above and below by a very narrow white and a somewhat broader red stripe, the figures of the arms.",
+  "periods": [
+    {
+      "start": "1967-07-11"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:DEU_Sankt_Peter-Ording_Flag.svg",
+    "https://www.wikidata.org/wiki/Q20749",
+    "https://de.wikipedia.org/wiki/Sankt_Peter-Ording"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue",
+        "white",
+        "red"
+      ],
+      "count": 5,
+      "widths": [
+        2,
+        1,
+        40,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "key",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 2,
+      "role": "crossed keys"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "star and crescent above the keys"
+    }
+  ]
+}

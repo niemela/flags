@@ -1,0 +1,75 @@
+{
+  "id": "DE-SH-wedel",
+  "name": "Wedel (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-SH",
+  "codes": {
+    "wikidata": "Q4356",
+    "ags": "01056050"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field bordered above and below by a narrow red and a very narrow white stripe, charged towards the hoist with the white nettle leaf of the city arms of Wedel bearing the figure of Roland.",
+  "history": "The arms and the flag were approved on 26 November 1963.",
+  "periods": [
+    {
+      "start": "1963-11-26"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Wedel.svg",
+    "https://www.wikidata.org/wiki/Q4356",
+    "https://de.wikipedia.org/wiki/Wedel"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue",
+        "white",
+        "red"
+      ],
+      "count": 5,
+      "widths": [
+        2,
+        1,
+        24,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "nettle leaf from the city arms"
+    },
+    {
+      "type": "human-figure",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "Roland figure within the nettle leaf"
+    }
+  ]
+}

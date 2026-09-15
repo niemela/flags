@@ -1,0 +1,61 @@
+{
+  "id": "DE-SH-strande",
+  "name": "Strande (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-SH",
+  "codes": {
+    "wikidata": "Q561233",
+    "ags": "01058157"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field charged with the figures of the municipal arms of Strande: a white sail beside a buoy marked in yellow, red and white, above a white wavy line.",
+  "history": "Municipal flag of Strande; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Strande.svg",
+    "https://www.wikidata.org/wiki/Q561233",
+    "https://de.wikipedia.org/wiki/Strande"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "sail"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "buoy with red and white markings"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "bottom"
+    }
+  ]
+}

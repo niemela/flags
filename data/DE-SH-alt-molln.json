@@ -1,0 +1,72 @@
+{
+  "id": "DE-SH-alt-molln",
+  "name": "Alt Mölln (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-SH",
+  "codes": {
+    "wikidata": "Q433223",
+    "ags": "01053002"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field above a narrow blue base separated by a white wavy stripe, charged with the figures of the municipal arms of Alt Mölln: a yellow windmill between a barrel and a sack.",
+  "history": "The flag is blazoned as the figures of the municipal arms in flag tinctures on a cloth divided horizontally by a wavy white stripe into a broad green and a narrow blue stripe.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Alt_Moelln.svg",
+    "https://www.wikidata.org/wiki/Q433223",
+    "https://de.wikipedia.org/wiki/Alt-Mölln"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        8,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "bottom",
+      "role": "wavy white stripe above the blue base"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "windmill (Galerieholländer)"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "barrel and sack beside the windmill"
+    }
+  ]
+}

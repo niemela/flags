@@ -1,0 +1,73 @@
+{
+  "id": "DE-SH-wyk-auf-fohr",
+  "name": "Wyk auf Föhr (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-SH",
+  "codes": {
+    "wikidata": "Q20771",
+    "ags": "01054164"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field bordered above and below by two narrow stripes of blue and yellow, charged towards the hoist with the yellow ship beneath a star of the city arms of Wyk auf Föhr.",
+  "history": "The arms and the flag were approved on 29 June 1956; the flag shows in the hoist of a red field, bordered above and below by two narrow stripes of blue and yellow, the figures of the arms.",
+  "periods": [
+    {
+      "start": "1956-06-29"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Wyk_auf_Foehr.svg",
+    "https://www.wikidata.org/wiki/Q20771",
+    "https://de.wikipedia.org/wiki/Wyk_auf_Föhr"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "red",
+        "yellow",
+        "blue"
+      ],
+      "count": 5,
+      "widths": [
+        1,
+        1,
+        14,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "ship",
+      "color": "yellow",
+      "position": "hoist"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "star above the ship"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "DE-SH-halstenbek",
+  "name": "Halstenbek (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-SH",
+  "codes": {
+    "wikidata": "Q542824",
+    "ags": "01056018"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontal tricolour of green, yellow and black with a broad yellow middle stripe, charged towards the hoist with three green fir trees whose roots reach into the black, which bears a white wavy bar, the figures of the municipal arms of Halstenbek.",
+  "history": "The flag was approved on 19 April 1985; the cloth is divided into a broader middle stripe and narrower stripes above (green) and below (black), with the three fir trees of the arms shifted clearly towards the staff and the wavy bar on the lower stripe.",
+  "periods": [
+    {
+      "start": "1985-04-19"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Halstenbek.svg",
+    "https://www.wikidata.org/wiki/Q542824",
+    "https://de.wikipedia.org/wiki/Halstenbek"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "black"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist",
+      "count": 3,
+      "role": "three fir trees"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "bottom",
+      "role": "wavy bar on the black stripe"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "DE-SH-rantzau",
+  "name": "Rantzau (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-SH",
+  "codes": {
+    "wikidata": "Q555551",
+    "ags": "01057065"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Vertically divided white and red, charged with the figures of the municipal arms of Rantzau: a red horned helmet on the white hoist and a white umbel on the red fly.",
+  "history": "The flag is blazoned as the figures of the municipal arms on a cloth divided equally into a white hoist and a red flying end.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Rantzau.svg",
+    "https://www.wikidata.org/wiki/Q555551",
+    "https://de.wikipedia.org/wiki/Rantzau_(Gemeinde)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "horned helmet from the arms"
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "fly",
+      "role": "umbel"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "DE-SH-hohenhorn",
+  "name": "Hohenhorn (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-SH",
+  "codes": {
+    "wikidata": "Q555748",
+    "ags": "01053053"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Yellow field above a green hill, charged with the figures of the municipal arms of Hohenhorn: a black megalithic tomb between two green linden leaves above a yellow plough on the hill.",
+  "history": "Municipal flag of Hohenhorn; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Hohenhorn.svg",
+    "https://www.wikidata.org/wiki/Q555748",
+    "https://de.wikipedia.org/wiki/Hohenhorn"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "bottom",
+      "role": "green hill"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "megalithic tomb"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "top",
+      "count": 2,
+      "role": "linden leaves"
+    },
+    {
+      "type": "tool",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "plough on the hill"
+    }
+  ]
+}

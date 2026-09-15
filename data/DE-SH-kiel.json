@@ -1,0 +1,53 @@
+{
+  "id": "DE-SH-kiel",
+  "name": "Kiel (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-SH",
+  "codes": {
+    "wikidata": "Q1707",
+    "ags": "01002000"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Red field charged with the white nettle leaf of the city arms of Kiel bearing a black boat.",
+  "history": "Municipal flag of Kiel; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_der_kreisfreien_Stadt_Kiel.svg",
+    "https://www.wikidata.org/wiki/Q1707",
+    "https://de.wikipedia.org/wiki/Kiel"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "nettle leaf from the city arms"
+    },
+    {
+      "type": "ship",
+      "color": "black",
+      "position": "center",
+      "role": "boat within the nettle leaf"
+    }
+  ]
+}

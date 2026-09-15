@@ -1,0 +1,67 @@
+{
+  "id": "DE-SH-bosbull",
+  "name": "Bosbüll (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-SH",
+  "codes": {
+    "wikidata": "Q559456",
+    "ags": "01054016"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field charged with five yellow ears of wheat above a yellow stripe and a base of blue and white wavy stripes, the figures of the municipal arms of Bosbüll.",
+  "history": "Municipal flag of Bosbüll; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Bosbüll.svg",
+    "https://www.wikidata.org/wiki/Q559456",
+    "https://de.wikipedia.org/wiki/Bosbüll"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        7,
+        2,
+        2
+      ]
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "top",
+      "count": 5,
+      "role": "five ears of wheat"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "bottom",
+      "role": "white wavy stripes on the blue base"
+    }
+  ]
+}

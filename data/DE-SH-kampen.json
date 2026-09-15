@@ -1,0 +1,56 @@
+{
+  "id": "DE-SH-kampen",
+  "name": "Kampen (Sylt, Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-SH",
+  "codes": {
+    "wikidata": "Q27332",
+    "ags": "01054061"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "7:11",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with white wavy stripes, the upper hoist a plain blue canton bearing a white thistle, the figure of the municipal arms of Kampen (Sylt).",
+  "history": "On the municipal flag the thistle is placed in the upper hoist corner on a blue ground of an otherwise blue and white striped cloth.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Kampen_(Sylt).svg",
+    "https://www.wikidata.org/wiki/Q27332",
+    "https://de.wikipedia.org/wiki/Kampen_(Sylt)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "center",
+      "role": "white wavy stripes"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "position": "hoist",
+      "role": "plain blue canton"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "thistle from the municipal arms"
+    }
+  ]
+}
