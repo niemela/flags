@@ -1,0 +1,70 @@
+{
+  "id": "DE-HE-melsungen",
+  "name": "Melsungen (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-HE",
+  "codes": {
+    "wikidata": "Q552495",
+    "ags": "06634014"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "35:12",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Hanging banner divided vertically white and blue with a white banner head bearing the city arms of Melsungen (a white castle on blue) above the name MELSUNGEN in black.",
+  "history": "The version first shown in 1963 is white-blue striped with a white banner head bearing the arms and the name Melsungen.",
+  "periods": [
+    {
+      "start": "1963"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Banner_Melsungen.svg",
+    "https://www.wikidata.org/wiki/Q552495",
+    "https://de.wikipedia.org/wiki/Melsungen"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "white banner head"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "top",
+      "role": "Melsungen arms — white castle on blue"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "top",
+      "role": "inscription Melsungen"
+    }
+  ]
+}

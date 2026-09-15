@@ -1,0 +1,68 @@
+{
+  "id": "DE-HE-spangenberg",
+  "name": "Spangenberg (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-HE",
+  "codes": {
+    "wikidata": "Q628667",
+    "ags": "06634024"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "35:12",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Hanging banner divided vertically red and yellow with a white banner head bearing the city arms of Spangenberg (a half yellow wheel and a clasp on red) above the name Spangenberg in black.",
+  "history": "The banner is red-yellow striped lengthwise with the arms in the white banner head.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Banner_Spangenberg.svg",
+    "https://www.wikidata.org/wiki/Q628667",
+    "https://de.wikipedia.org/wiki/Spangenberg"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "white banner head"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "top",
+      "role": "Spangenberg arms — half wheel and clasp on red"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "top",
+      "role": "inscription Spangenberg"
+    }
+  ]
+}

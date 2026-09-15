@@ -1,0 +1,58 @@
+{
+  "id": "DE-HE-weilmunster",
+  "name": "Weilmünster (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-HE",
+  "codes": {
+    "wikidata": "Q623420",
+    "ags": "06533018"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "5:2",
+  "colors": [
+    {
+      "color": "orange"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Hanging banner divided vertically orange and blue with the upper third counterchanged, charged at the quartering point with the municipal arms of Weilmünster (a red castle and a yellow lion).",
+  "history": "The flag shows the two colour bands orange and blue, counterchanged in the upper third, charged with the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:DEU_Weilmünster_Banner.svg",
+    "https://www.wikidata.org/wiki/Q623420",
+    "https://de.wikipedia.org/wiki/Weilmünster"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "orange",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "quartered",
+      "quarters": [
+        "blue",
+        "orange",
+        "orange",
+        "blue"
+      ],
+      "position": "top",
+      "role": "counterchanged upper third"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "top",
+      "role": "Weilmünster arms — castle and lion"
+    }
+  ]
+}
