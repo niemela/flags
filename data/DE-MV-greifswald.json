@@ -1,0 +1,66 @@
+{
+  "id": "DE-MV-greifswald",
+  "name": "Greifswald (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-MV",
+  "codes": {
+    "wikidata": "Q4098",
+    "ags": "13075039"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "4:7",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field with two narrow red stripes near the top and bottom edges, charged at the centre with the red griffin of the city arms of Greifswald.",
+  "history": "Municipal flag of Greifswald; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Hissflagge_der_Stadt_Greifswald.svg",
+    "https://www.wikidata.org/wiki/Q4098",
+    "https://de.wikipedia.org/wiki/Greifswald"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "position": "top",
+      "role": "two narrow red stripes near the top edge"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "position": "bottom",
+      "role": "two narrow red stripes near the bottom edge"
+    },
+    {
+      "type": "mythical-creature",
+      "color": "red",
+      "position": "center",
+      "role": "griffin"
+    }
+  ]
+}

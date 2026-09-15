@@ -1,0 +1,72 @@
+{
+  "id": "DE-MV-schwanheide",
+  "name": "Schwanheide (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-MV",
+  "codes": {
+    "wikidata": "Q674183",
+    "ags": "13076122"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertical stripes of red, white, red, white and red, charged at the centre with the figure of the municipal arms of Schwanheide, a white swan above a yellow ear of wheat.",
+  "history": "Arms and flag were approved together by the Ministry of the Interior on 6 October 2011 and registered as no. 338 in the roll of arms of Mecklenburg-Vorpommern.",
+  "periods": [
+    {
+      "start": "2011-10-06"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Schwanheide.svg",
+    "https://www.wikidata.org/wiki/Q674183",
+    "https://de.wikipedia.org/wiki/Schwanheide"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 5,
+      "widths": [
+        1,
+        1,
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "position": "center",
+      "role": "swan from the municipal arms"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "ear of wheat"
+    }
+  ]
+}
