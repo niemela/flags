@@ -1,0 +1,72 @@
+{
+  "id": "DE-NI-borkum",
+  "name": "Borkum (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NI",
+  "codes": {
+    "wikidata": "Q25082",
+    "ags": "03457002"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Green field with a white cross, a canton of horizontal black, red and blue stripes in the upper hoist, and at the centre of the cross a blue disc with a red lighthouse and the motto MEDIIS TRANQUILLUS IN UNDIS.",
+  "history": "The flag was fixed on 28 September 1929 and first hoisted on the Borkum beach on 31 July 1930.",
+  "periods": [
+    {
+      "start": "1929-09-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Borkum.svg",
+    "https://www.wikidata.org/wiki/Q25082",
+    "https://de.wikipedia.org/wiki/Borkum"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "cross": "white",
+      "position": "center",
+      "field": "green",
+      "role": "cross with arms 3/13 of the flag height"
+    },
+    {
+      "type": "canton",
+      "color": "black",
+      "position": "upper-hoist",
+      "stripes": [
+        "black",
+        "red",
+        "blue"
+      ],
+      "role": "black-red-blue canton"
+    },
+    {
+      "type": "disc",
+      "color": "blue",
+      "position": "center",
+      "role": "disc with lighthouse and motto"
+    }
+  ]
+}

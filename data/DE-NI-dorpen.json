@@ -1,0 +1,64 @@
+{
+  "id": "DE-NI-dorpen",
+  "name": "Dörpen (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NI",
+  "codes": {
+    "wikidata": "Q631146",
+    "ags": "03454008"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square green flag charged with the figures of the municipal arms of Dörpen: a white wavy bend sinister between a yellow ear of wheat and a yellow scroll of paper.",
+  "history": "The arms, designed by Ulf-Dietrich Korn of Münster, were approved together with the seal on 30 January 1969, and the hoisted flag on 8 May 1970 by the Regierungspräsident in Osnabrück.",
+  "periods": [
+    {
+      "start": "1970-05-08"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Dörpen.svg",
+    "https://www.wikidata.org/wiki/Q631146",
+    "https://de.wikipedia.org/wiki/Dörpen"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "center",
+      "role": "wavy bend sinister"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "ear of wheat"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "lower-fly",
+      "role": "scroll of paper"
+    }
+  ]
+}

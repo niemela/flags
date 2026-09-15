@@ -1,0 +1,55 @@
+{
+  "id": "DE-NI-geestland",
+  "name": "Geestland (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NI",
+  "codes": {
+    "wikidata": "Q1497761",
+    "ags": "03352062"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist by a white bend sinister, blue above and red below, charged at the centre with the city arms of Geestland (a wavy bend, a key and a wheel on red and blue).",
+  "history": "Municipal flag of Geestland; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Geestland.svg",
+    "https://www.wikidata.org/wiki/Q1497761",
+    "https://de.wikipedia.org/wiki/Geestland"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Geestland arms — wavy bend, key and wheel"
+    }
+  ]
+}

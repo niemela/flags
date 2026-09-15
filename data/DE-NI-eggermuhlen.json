@@ -1,0 +1,60 @@
+{
+  "id": "DE-NI-eggermuhlen",
+  "name": "Eggermühlen (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NI",
+  "codes": {
+    "wikidata": "Q683212",
+    "ags": "03459016"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Quartered red and black, the red quarters charged with black mill wheels and the black quarters with white wavy bends.",
+  "history": "The black colour refers to the fertile soils of Eggermühlen; the flag is quartered in the colours of the arms with their figures.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Eggermühlen.svg",
+    "https://www.wikidata.org/wiki/Q683212",
+    "https://de.wikipedia.org/wiki/Eggermühlen"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "red",
+        "black",
+        "black",
+        "red"
+      ]
+    },
+    {
+      "type": "wheel",
+      "color": "black",
+      "position": "center",
+      "count": 2,
+      "role": "mill wheels on the red quarters"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "center",
+      "count": 2,
+      "role": "wavy bends on the black quarters"
+    }
+  ]
+}
