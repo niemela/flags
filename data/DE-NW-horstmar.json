@@ -1,0 +1,69 @@
+{
+  "id": "DE-NW-horstmar",
+  "name": "Horstmar (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q181541",
+    "ags": "05566024"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Banner of the city arms of Horstmar: white with a red lion in the upper hoist and blue horizontal bars, two across the lower part and two shorter ones in the upper fly.",
+  "history": "Municipal flag of Horstmar; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Horstmar.svg",
+    "https://www.wikidata.org/wiki/Q181541",
+    "https://de.wikipedia.org/wiki/Horstmar"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "hoist",
+      "role": "lion in the upper hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "position": "bottom",
+      "role": "two blue bars across the lower part"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "two shorter blue bars in the upper fly"
+    }
+  ]
+}

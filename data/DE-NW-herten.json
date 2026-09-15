@@ -1,0 +1,56 @@
+{
+  "id": "DE-NW-herten",
+  "name": "Herten (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q3985",
+    "ags": "05562020"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "35:12",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Hanging banner divided vertically green and white below a white banner head bearing the city arms of Herten (a white bar on green above a chequy base).",
+  "history": "Municipal flag of Herten; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Banner_Herten.svg",
+    "https://www.wikidata.org/wiki/Q3985",
+    "https://de.wikipedia.org/wiki/Herten"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "white banner head"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "top",
+      "role": "Herten arms — bar on green above chequy"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "DE-NW-wetter",
+  "name": "Wetter (Ruhr, Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q11343",
+    "ags": "05954032"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontally divided red over white, charged at the centre with the city arms of Wetter (Ruhr) (a crenellated letter W above a chequy bar and a lily on yellow).",
+  "history": "The crenellated letter is the initial of the place name and an allusion to the castles of Wetter and Volmarstein; the hoisted flag is divided red and white with the city arms at the centre, and flags and banners without arms are also used.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Wetter_Ruhr.svg",
+    "https://www.wikidata.org/wiki/Q11343",
+    "https://de.wikipedia.org/wiki/Wetter_(Ruhr)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Wetter arms — crenellated W, chequy bar and lily"
+    }
+  ]
+}

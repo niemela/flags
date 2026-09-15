@@ -1,0 +1,59 @@
+{
+  "id": "DE-NW-soest",
+  "name": "Soest (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q6149",
+    "ags": "05974040"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Banner of the city arms of Soest: white with a red key with a crenellated bow in the hoist and red horizontal bars in the fly.",
+  "history": "Municipal flag of Soest; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_der_Stadt_Soest.svg",
+    "https://www.wikidata.org/wiki/Q6149",
+    "https://de.wikipedia.org/wiki/Soest"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "key",
+      "color": "red",
+      "position": "hoist",
+      "role": "key with crenellated bow from the city arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 7,
+      "position": "fly",
+      "role": "red bars in the fly"
+    }
+  ]
+}

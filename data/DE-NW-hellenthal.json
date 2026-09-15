@@ -1,0 +1,57 @@
+{
+  "id": "DE-NW-hellenthal",
+  "name": "Hellenthal (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q240964",
+    "ags": "05366020"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontally divided blue over white, with a white tau cross on the blue and a red shield with a blue crenellated chief on the white, the figures of the municipal arms of Hellenthal.",
+  "history": "According to the municipal administration there is no official municipal flag; banners of the arms are used instead.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Hellenthal.svg",
+    "https://www.wikidata.org/wiki/Q240964",
+    "https://de.wikipedia.org/wiki/Hellenthal"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "top",
+      "role": "tau cross"
+    },
+    {
+      "type": "shield",
+      "color": "red",
+      "position": "bottom",
+      "role": "red shield with blue crenellated chief"
+    }
+  ]
+}

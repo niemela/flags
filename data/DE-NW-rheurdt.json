@@ -1,0 +1,68 @@
+{
+  "id": "DE-NW-rheurdt",
+  "name": "Rheurdt (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q243206",
+    "ags": "05154048"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "35:12",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Hanging banner of blue with a yellow pale in the lower two thirds, the upper third charged with the shieldless municipal arms of Rheurdt, a white stag's head beneath three yellow figures.",
+  "history": "By deed of the Regierungspräsident in Düsseldorf of 11 August 1970 the municipality of Rheurdt was approved to bear arms, a seal and a banner, described as blue, gold (yellow) and blue striped lengthwise 1:2:1 with the shieldless figures of the arms in the upper third.",
+  "periods": [
+    {
+      "start": "1970-08-11"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Banner_Rheurdt.svg",
+    "https://www.wikidata.org/wiki/Q243206",
+    "https://de.wikipedia.org/wiki/Rheurdt"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ],
+      "position": "bottom",
+      "role": "blue-yellow-blue stripes in the lower two thirds"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "top",
+      "role": "stag's head beneath three yellow figures"
+    }
+  ]
+}

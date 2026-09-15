@@ -1,0 +1,73 @@
+{
+  "id": "DE-NW-ahaus",
+  "name": "Ahaus (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q14888",
+    "ags": "05554004"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "35:12",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Hanging banner divided vertically red and yellow with a white banner head bearing the city arms of Ahaus (red and yellow bars) above the inscription STADT AHAUS in black.",
+  "history": "The city bears arms, a flag and a seal with the approval of the Regierungspräsident of Münster of 14 April 1978; the banner is red-yellow striped with the arms in the white banner head and is also shown without arms.",
+  "periods": [
+    {
+      "start": "1978-04-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Banner_Ahaus.svg",
+    "https://www.wikidata.org/wiki/Q14888",
+    "https://de.wikipedia.org/wiki/Ahaus"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "white banner head"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "top",
+      "role": "Ahaus arms — red and yellow bars"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "top",
+      "role": "inscription STADT AHAUS"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "DE-NW-engelskirchen",
+  "name": "Engelskirchen (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q11046",
+    "ags": "05374008"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square banner of the municipal arms of Engelskirchen: white with a red lion and a red branch above a red and white chequy base.",
+  "history": "Municipal flag of Engelskirchen; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Engelskirchen.svg",
+    "https://www.wikidata.org/wiki/Q11046",
+    "https://de.wikipedia.org/wiki/Engelskirchen"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "top"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "top",
+      "role": "branch beside the lion"
+    },
+    {
+      "type": "chequy",
+      "field": "white",
+      "chequy": "red",
+      "position": "bottom",
+      "role": "chequy base"
+    }
+  ]
+}

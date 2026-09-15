@@ -1,0 +1,50 @@
+{
+  "id": "DE-NW-hamminkeln",
+  "name": "Hamminkeln (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q162717",
+    "ags": "05170012"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "35:12",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Hanging banner of green with a white fleur-de-lis reel above a white wavy bar in the upper part, the figures of the city arms of Hamminkeln.",
+  "history": "The fleur-de-lis reel refers to the historical allegiance of all the former municipalities except Dingden to the Duchy of Cleves.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Banner_Hamminkeln.svg",
+    "https://www.wikidata.org/wiki/Q162717",
+    "https://de.wikipedia.org/wiki/Hamminkeln"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "top",
+      "role": "fleur-de-lis reel (Lilienhaspel)"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "top",
+      "role": "wavy bar below the reel"
+    }
+  ]
+}

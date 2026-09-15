@@ -1,0 +1,52 @@
+{
+  "id": "DE-NW-altenberge",
+  "name": "Altenberge (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q181809",
+    "ags": "05566004"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Yellow field with a red horizontal band across the fly, the hoist part charged with the municipal arms of Altenberge (a green tree on a mount above a ploughshare on yellow).",
+  "history": "Municipal flag of Altenberge; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Altenberge.svg",
+    "https://www.wikidata.org/wiki/Q181809",
+    "https://de.wikipedia.org/wiki/Altenberge"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "red band across the fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Altenberge arms — tree and ploughshare on yellow"
+    }
+  ]
+}

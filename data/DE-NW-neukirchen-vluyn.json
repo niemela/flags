@@ -1,0 +1,65 @@
+{
+  "id": "DE-NW-neukirchen-vluyn",
+  "name": "Neukirchen-Vluyn (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q162771",
+    "ags": "05170028"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "35:12",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Hanging banner with vertical stripes of black, yellow and black below a white banner head bearing the city arms of Neukirchen-Vluyn (black and yellow wavy bars).",
+  "history": "By deed of the Minister of the Interior of North Rhine-Westphalia of 23 November 1961 the then municipality was granted the right to bear arms and a seal, and by deed of 9 May 1962 the right to bear a banner, consisting of three equal stripes in the colours black, yellow and black.",
+  "periods": [
+    {
+      "start": "1962-05-09"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Banner_Neukirchen-Vluyn.svg",
+    "https://www.wikidata.org/wiki/Q162771",
+    "https://de.wikipedia.org/wiki/Neukirchen-Vluyn"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black",
+        "yellow",
+        "black"
+      ],
+      "count": 3
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "white banner head"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "top",
+      "role": "Neukirchen-Vluyn arms — wavy bars"
+    }
+  ]
+}

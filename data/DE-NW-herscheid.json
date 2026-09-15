@@ -1,0 +1,65 @@
+{
+  "id": "DE-NW-herscheid",
+  "name": "Herscheid (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q5839",
+    "ags": "05962020"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "35:12",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Hanging banner divided vertically white and red below a white banner head bearing the municipal arms of Herscheid (a red horse on white above a chequy base) and the inscription HERSCHEID in black, with a narrow red strip at the top.",
+  "history": "Municipal flag of Herscheid; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Banner_Herscheid.svg",
+    "https://www.wikidata.org/wiki/Q5839",
+    "https://de.wikipedia.org/wiki/Herscheid"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "white banner head"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "top",
+      "role": "Herscheid arms — horse above chequy"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "top",
+      "role": "inscription HERSCHEID"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "DE-NW-roetgen",
+  "name": "Roetgen (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q200743",
+    "ags": "05334024"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "35:12",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Hanging banner of red with a white winged creature in the upper part and two white pales in the lower part, the figures of the municipal arms of Roetgen.",
+  "history": "Municipal flag of Roetgen; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Banner_Roetgen.svg",
+    "https://www.wikidata.org/wiki/Q200743",
+    "https://de.wikipedia.org/wiki/Roetgen"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "mythical-creature",
+      "color": "white",
+      "position": "top",
+      "role": "winged creature from the municipal arms"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 5,
+      "position": "bottom",
+      "role": "two white pales in the lower part"
+    }
+  ]
+}

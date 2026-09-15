@@ -1,0 +1,59 @@
+{
+  "id": "DE-NW-erkelenz",
+  "name": "Erkelenz (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q7025",
+    "ags": "05370004"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontally divided blue over white, with a yellow lion on the blue and a red rose on the white, the shieldless figures of the city arms of Erkelenz.",
+  "history": "The colours and flag of the city originate in the arms; the colours are blue and white (silver), and the flag is charged with the shieldless figures of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Hissflagge_Erkelenz.svg",
+    "https://www.wikidata.org/wiki/Q7025",
+    "https://de.wikipedia.org/wiki/Erkelenz"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "top"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "bottom",
+      "role": "rose"
+    }
+  ]
+}

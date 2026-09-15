@@ -1,0 +1,67 @@
+{
+  "id": "DE-NW-norvenich",
+  "name": "Nörvenich (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q200068",
+    "ags": "05358052"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "35:12",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Hanging banner with four vertical stripes of yellow, green, yellow and green below a yellow banner head bearing the black lion of the municipal arms of Nörvenich.",
+  "history": "By decree of the Minister of the Interior of North Rhine-Westphalia of 26 June 1969 the municipality was granted the right to bear arms and a banner, described as yellow-green-yellow-green striped lengthwise in the ratio 1:1:1:1 with the arms.",
+  "periods": [
+    {
+      "start": "1969-06-26"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Banner_Noervenich.svg",
+    "https://www.wikidata.org/wiki/Q200068",
+    "https://de.wikipedia.org/wiki/Nörvenich"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "green",
+        "yellow",
+        "green"
+      ],
+      "count": 4
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "yellow banner head"
+    },
+    {
+      "type": "lion",
+      "color": "black",
+      "position": "top",
+      "role": "lion from the municipal arms"
+    }
+  ]
+}

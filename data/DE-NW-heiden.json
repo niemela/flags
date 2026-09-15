@@ -1,0 +1,66 @@
+{
+  "id": "DE-NW-heiden",
+  "name": "Heiden (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q200275",
+    "ags": "05554028"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "4:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field crossed by two white horizontal stripes, charged at the centre with the yellow megalithic tomb of the municipal arms of Heiden; the fly edge is cut into three tongues.",
+  "history": "By deed of the Minister of the Interior of North Rhine-Westphalia in Düsseldorf of 17 April 1956 the municipality was granted the right to bear arms, a seal and a flag; the banner is blue-white-blue 1:3:1 striped lengthwise with the arms above the centre.",
+  "periods": [
+    {
+      "start": "1956-04-17"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Heiden.svg",
+    "https://www.wikidata.org/wiki/Q200275",
+    "https://de.wikipedia.org/wiki/Heiden_(Münsterland)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 5,
+      "widths": [
+        1,
+        1,
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "megalithic tomb (dolmen) from the municipal arms"
+    }
+  ]
+}

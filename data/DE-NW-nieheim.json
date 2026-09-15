@@ -1,0 +1,65 @@
+{
+  "id": "DE-NW-nieheim",
+  "name": "Nieheim (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q241761",
+    "ags": "05762028"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontally divided yellow over red, with a square in counterchanged colours at the hoist of each stripe, the red square bearing the yellow cross with four roundels of the city arms of Nieheim.",
+  "history": "By deed of the Regierungspräsident Detmold of 8 February 1974 the city of Nieheim was granted the right to bear arms and a flag, described as yellow and red striped lengthwise with a square in counterchanged colours at the front of each stripe.",
+  "periods": [
+    {
+      "start": "1974-02-08"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_der_Stadt_Nieheim.svg",
+    "https://www.wikidata.org/wiki/Q241761",
+    "https://de.wikipedia.org/wiki/Nieheim"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "square",
+      "color": "red",
+      "position": "hoist",
+      "role": "counterchanged square at the hoist of the yellow stripe"
+    },
+    {
+      "type": "square",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "counterchanged square at the hoist of the red stripe"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "yellow",
+      "position": "hoist",
+      "role": "cross with four roundels from the city arms"
+    }
+  ]
+}

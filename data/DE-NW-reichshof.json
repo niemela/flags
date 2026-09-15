@@ -1,0 +1,79 @@
+{
+  "id": "DE-NW-reichshof",
+  "name": "Reichshof (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q11058",
+    "ags": "05374040"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "35:12",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Hanging banner with narrow vertical stripes of red and white below a white banner head bearing the municipal arms of Reichshof (a yellow eagle on black above a red lion on white), with a black and yellow strip at the top.",
+  "history": "Municipal flag of Reichshof; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Banner_Reichshof.svg",
+    "https://www.wikidata.org/wiki/Q11058",
+    "https://de.wikipedia.org/wiki/Reichshof"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 9
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "white banner head"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "top",
+      "role": "Reichshof arms — eagle and lion"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "yellow"
+      ],
+      "count": 2,
+      "position": "top",
+      "role": "black and yellow strip at the top"
+    }
+  ]
+}

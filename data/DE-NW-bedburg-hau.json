@@ -1,0 +1,57 @@
+{
+  "id": "DE-NW-bedburg-hau",
+  "name": "Bedburg-Hau (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q243433",
+    "ags": "05154004"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "35:12",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Hanging banner divided horizontally blue over yellow, with a yellow tau cross on the blue and a red cross-shaped house mark on the yellow, the figures of the municipal arms of Bedburg-Hau.",
+  "history": "Municipal flag of Bedburg-Hau; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Banner_Bedburg-Hau.svg",
+    "https://www.wikidata.org/wiki/Q243433",
+    "https://de.wikipedia.org/wiki/Bedburg-Hau"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "top",
+      "role": "tau cross"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "bottom",
+      "role": "cross-shaped house mark"
+    }
+  ]
+}

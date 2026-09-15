@@ -1,0 +1,56 @@
+{
+  "id": "DE-NW-kevelaer",
+  "name": "Kevelaer (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q243526",
+    "ags": "05154032"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontally divided blue over yellow, with a yellow rose on the blue and a red fleur-de-lis on the yellow, the heraldic emblems of the city arms of Kevelaer.",
+  "history": "The hoisted flag is a flag of the arms, divided blue and gold (yellow) with the heraldic emblems as described; the banner is the corresponding banner of arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Kevelaer.svg",
+    "https://www.wikidata.org/wiki/Q243526",
+    "https://de.wikipedia.org/wiki/Kevelaer"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "flower",
+      "color": "yellow",
+      "position": "top",
+      "role": "rose"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "red",
+      "position": "bottom"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "DE-NW-everswinkel",
+  "name": "Everswinkel (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q2809",
+    "ags": "05570024"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Horizontally divided red over white, with a white church on the red and a black chevron above a black boar on the white, the figures of the municipal arms of Everswinkel.",
+  "history": "By deed of the Minister of the Interior of North Rhine-Westphalia of 15 March 1962 the municipality of Everswinkel was granted the right to bear arms, a flag, a banner and an official seal.",
+  "periods": [
+    {
+      "start": "1962-03-15"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Everswinkel.svg",
+    "https://www.wikidata.org/wiki/Q2809",
+    "https://de.wikipedia.org/wiki/Everswinkel"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "top",
+      "role": "church"
+    },
+    {
+      "type": "chevron",
+      "color": "black",
+      "position": "bottom"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "bottom",
+      "role": "boar"
+    }
+  ]
+}

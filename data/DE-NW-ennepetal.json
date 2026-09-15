@@ -1,0 +1,62 @@
+{
+  "id": "DE-NW-ennepetal",
+  "name": "Ennepetal (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q11301",
+    "ags": "05954008"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Banner of the city arms of Ennepetal: yellow with a red chevron and a blue wavy pale below a red and white chequy chief.",
+  "history": "The city arms were created in close cooperation with the Hauptstaatsarchiv; the chequy chief recalls the county of Mark.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Ennepetal.svg",
+    "https://www.wikidata.org/wiki/Q11301",
+    "https://de.wikipedia.org/wiki/Ennepetal"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "chequy",
+      "field": "red",
+      "chequy": "white",
+      "position": "top",
+      "role": "chequy chief"
+    },
+    {
+      "type": "chevron",
+      "color": "red",
+      "position": "center"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "role": "wavy pale"
+    }
+  ]
+}

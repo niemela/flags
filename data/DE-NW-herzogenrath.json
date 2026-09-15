@@ -1,0 +1,63 @@
+{
+  "id": "DE-NW-herzogenrath",
+  "name": "Herzogenrath (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q6916",
+    "ags": "05334016"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Banner of the city arms of Herzogenrath: the hoist half white with a red lion, the fly half barry of red and yellow.",
+  "history": "Municipal flag of Herzogenrath; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Herzogenrath.svg",
+    "https://www.wikidata.org/wiki/Q6916",
+    "https://de.wikipedia.org/wiki/Herzogenrath"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 5,
+      "position": "fly",
+      "role": "red and yellow bars in the fly"
+    }
+  ]
+}

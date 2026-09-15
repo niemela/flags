@@ -1,0 +1,59 @@
+{
+  "id": "DE-NW-niederkruchten",
+  "name": "Niederkrüchten (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q163837",
+    "ags": "05166020"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "35:12",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Hanging banner divided vertically blue and yellow below a white banner head bearing the municipal arms of Niederkrüchten (a bird and a lion on red beside blue and white bars).",
+  "history": "The banner is described as blue and yellow striped lengthwise 1:1 beneath a white banner head containing the municipal shield.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Banner_Niederkruechten.svg",
+    "https://www.wikidata.org/wiki/Q163837",
+    "https://de.wikipedia.org/wiki/Niederkrüchten"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "white banner head"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "top",
+      "role": "Niederkrüchten arms — bird, lion and bars"
+    }
+  ]
+}

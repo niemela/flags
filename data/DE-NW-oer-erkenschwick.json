@@ -1,0 +1,65 @@
+{
+  "id": "DE-NW-oer-erkenschwick",
+  "name": "Oer-Erkenschwick (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q16138",
+    "ags": "05562028"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "35:12",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Hanging banner divided vertically red and black below a yellow banner head bearing the city arms of Oer-Erkenschwick (a chevron on blue and crossed hammers on yellow) and the inscription OER-ERKENSCHWICK in black.",
+  "history": "Municipal flag of Oer-Erkenschwick; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Banner_Oer_Erkenschwick.svg",
+    "https://www.wikidata.org/wiki/Q16138",
+    "https://de.wikipedia.org/wiki/Oer-Erkenschwick"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "black"
+      ],
+      "count": 2
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "yellow banner head"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "top",
+      "role": "Oer-Erkenschwick arms — chevron and hammers"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "top",
+      "role": "inscription OER-ERKENSCHWICK"
+    }
+  ]
+}

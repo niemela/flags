@@ -1,0 +1,74 @@
+{
+  "id": "DE-NW-monschau",
+  "name": "Monschau (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q200783",
+    "ags": "05334020"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Yellow hoist charged with the black lion of the city arms of Monschau holding a red shield with roundels, the fly divided horizontally red over white.",
+  "history": "Municipal flag of Monschau; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:DEU_Monschau_Flag.svg",
+    "https://www.wikidata.org/wiki/Q200783",
+    "https://de.wikipedia.org/wiki/Monschau"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        3
+      ],
+      "role": "yellow hoist, the fly divided red over white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "fly divided red over white"
+    },
+    {
+      "type": "lion",
+      "color": "black",
+      "position": "hoist"
+    },
+    {
+      "type": "shield",
+      "color": "red",
+      "position": "hoist",
+      "role": "red shield with roundels held by the lion"
+    }
+  ]
+}

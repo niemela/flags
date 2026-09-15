@@ -1,0 +1,62 @@
+{
+  "id": "DE-NW-olsberg",
+  "name": "Olsberg (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q10921",
+    "ags": "05958036"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Seven equal horizontal stripes of yellow and red, with a square yellow canton at the hoist bearing the black ring with four crossed ends of the city arms of Olsberg.",
+  "history": "The flag is striped yellow and red in seven equal stripes, with the figure of the arms in the square yellow canton.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Olsberg.svg",
+    "https://www.wikidata.org/wiki/Q10921",
+    "https://de.wikipedia.org/wiki/Olsberg"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 7
+    },
+    {
+      "type": "canton",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "square yellow canton"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "hoist",
+      "role": "ring with four crossed ends from the city arms"
+    }
+  ]
+}

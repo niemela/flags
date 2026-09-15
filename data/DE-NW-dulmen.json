@@ -1,0 +1,53 @@
+{
+  "id": "DE-NW-dulmen",
+  "name": "Dülmen (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q6910",
+    "ags": "05558016"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Horizontally divided yellow over blue, with a blue cross with trefoiled ends on the yellow towards the hoist, taken from the city arms of Dülmen.",
+  "history": "The city of Dülmen was most recently granted the right to bear arms, a seal, a banner and a flag by deed of the Regierungspräsident in Münster of 19 July 1977; the banner is yellow and blue striped lengthwise 1:1 with the cross in the upper half of the yellow stripe.",
+  "periods": [
+    {
+      "start": "1977-07-19"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Duelmen.svg",
+    "https://www.wikidata.org/wiki/Q6910",
+    "https://de.wikipedia.org/wiki/Dülmen"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "hoist",
+      "role": "cross with trefoiled ends from the city arms"
+    }
+  ]
+}

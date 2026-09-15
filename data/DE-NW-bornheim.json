@@ -1,0 +1,62 @@
+{
+  "id": "DE-NW-bornheim",
+  "name": "Bornheim (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q6852",
+    "ags": "05382012"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "35:12",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Hanging banner with vertical stripes of red and yellow below a white banner head bearing the city arms of Bornheim (a chequy bend and a lily on yellow).",
+  "history": "Municipal flag of Bornheim; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Banner_Bornheim_(Rheinland).svg",
+    "https://www.wikidata.org/wiki/Q6852",
+    "https://de.wikipedia.org/wiki/Bornheim_(Rheinland)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 5
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "white banner head"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "top",
+      "role": "Bornheim arms — chequy bend and lily"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "DE-NW-aldenhoven",
+  "name": "Aldenhoven (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q199968",
+    "ags": "05358004"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "35:12",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Hanging banner divided horizontally yellow over black, with a blue fleur-de-lis on the yellow and a yellow cross within a wreath on the black, the figures of the municipal arms of Aldenhoven.",
+  "history": "Municipal flag of Aldenhoven; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Banner_Aldenhoven.svg",
+    "https://www.wikidata.org/wiki/Q199968",
+    "https://de.wikipedia.org/wiki/Aldenhoven"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "black"
+      ],
+      "count": 2
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "blue",
+      "position": "top"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "cross within a wreath"
+    }
+  ]
+}

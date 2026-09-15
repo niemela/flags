@@ -1,0 +1,63 @@
+{
+  "id": "DE-NW-wiehl",
+  "name": "Wiehl (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q11043",
+    "ags": "05374048"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "35:12",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Hanging banner divided vertically blue and yellow below a red banner head bearing the white castle of the city arms of Wiehl.",
+  "history": "Municipal flag of Wiehl; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Banner_Wiehl.svg",
+    "https://www.wikidata.org/wiki/Q11043",
+    "https://de.wikipedia.org/wiki/Wiehl"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "red banner head"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "top",
+      "role": "castle from the city arms"
+    }
+  ]
+}

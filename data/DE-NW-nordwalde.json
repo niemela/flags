@@ -1,0 +1,57 @@
+{
+  "id": "DE-NW-nordwalde",
+  "name": "Nordwalde (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-NW",
+  "codes": {
+    "wikidata": "Q182248",
+    "ags": "05566064"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "35:12",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Hanging banner with five vertical stripes of green and white, charged at the top of the middle green stripe with the municipal arms of Nordwalde (three trees on green), beneath a green and white chequy strip at the top.",
+  "history": "Municipal flag of Nordwalde; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Banner_Nordwalde.svg",
+    "https://www.wikidata.org/wiki/Q182248",
+    "https://de.wikipedia.org/wiki/Nordwalde"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 5
+    },
+    {
+      "type": "chequy",
+      "field": "green",
+      "chequy": "white",
+      "position": "top",
+      "role": "chequy strip at the top"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "top",
+      "role": "Nordwalde arms — three trees on green"
+    }
+  ]
+}
