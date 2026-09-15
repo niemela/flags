@@ -1,0 +1,53 @@
+{
+  "id": "DE-RP-remagen",
+  "name": "Remagen (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-RP",
+  "codes": {
+    "wikidata": "Q486548",
+    "ags": "07131070"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontal tricolour of red, white and red in the proportions 1:2:1, charged at the centre with the city arms of Remagen (a white castle with a crowned wolf on red).",
+  "history": "The hoisted flag of the city of Remagen is red, white and red striped; the banner is red-white-red 1:2:1 striped lengthwise with the arms laid on; the meaning of the crowned wolf is unexplained.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flagge_Remagen.svg",
+    "https://www.wikidata.org/wiki/Q486548",
+    "https://de.wikipedia.org/wiki/Remagen"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Remagen arms — castle with crowned wolf on red"
+    }
+  ]
+}
