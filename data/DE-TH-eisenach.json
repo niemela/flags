@@ -1,0 +1,62 @@
+{
+  "id": "DE-TH-eisenach",
+  "name": "Eisenach (Germany)",
+  "type": [
+    "city"
+  ],
+  "parent": "DE-TH",
+  "codes": {
+    "wikidata": "Q7070",
+    "ags": "16056000"
+  },
+  "region": [
+    "Europe",
+    "Western Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Five horizontal stripes of blue, white, red, white and blue, charged at the centre with a red cross formée on a white field.",
+  "history": "Municipal flag of Eisenach; German municipalities use their flags alongside the arms, the hoisted form (Hissflagge) and the hanging banner (Banner) sharing the same design.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Hissflagge_Eisenach.svg",
+    "https://www.wikidata.org/wiki/Q7070",
+    "https://de.wikipedia.org/wiki/Eisenach"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 5,
+      "widths": [
+        4,
+        4,
+        5,
+        4,
+        4
+      ]
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "center",
+      "field": "white",
+      "role": "cross formée"
+    }
+  ]
+}
