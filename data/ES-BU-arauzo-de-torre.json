@@ -1,0 +1,61 @@
+{
+  "id": "ES-BU-arauzo-de-torre",
+  "name": "Arauzo de Torre (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BU",
+  "codes": {
+    "wikidata": "Q1614650",
+    "ine": "09022"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Green field with a yellow stripe near the top and a white stripe near the bottom, charged at the centre with a yellow tower.",
+  "history": "Municipal flag of Arauzo de Torre; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera-arauzo-de-torre.svg",
+    "https://www.wikidata.org/wiki/Q1614650",
+    "https://es.wikipedia.org/wiki/Arauzo_de_Torre"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 5,
+      "widths": [
+        1,
+        1,
+        5,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "tower"
+    }
+  ]
+}

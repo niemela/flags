@@ -1,0 +1,65 @@
+{
+  "id": "ES-BU-castellanos-de-castro",
+  "name": "Castellanos de Castro (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BU",
+  "codes": {
+    "wikidata": "Q1626927",
+    "ine": "09079"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, red above with a yellow castle and green below with two yellow keys in saltire.",
+  "history": "Municipal flag of Castellanos de Castro; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Castellanos_de_Castro.svg",
+    "https://www.wikidata.org/wiki/Q1626927",
+    "https://es.wikipedia.org/wiki/Castellanos_de_Castro"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle"
+    },
+    {
+      "type": "key",
+      "color": "yellow",
+      "position": "fly",
+      "count": 2,
+      "role": "two keys in saltire"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "hoist",
+      "role": "shading of the castle"
+    }
+  ]
+}

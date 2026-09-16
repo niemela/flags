@@ -1,0 +1,80 @@
+{
+  "id": "ES-BU-santa-maria-rivarredonda",
+  "name": "Santa María Rivarredonda (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BU",
+  "codes": {
+    "wikidata": "Q1656711",
+    "ine": "09353"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square green flag with a blue stripe along the upper edge bearing three stars, yellow, white and red, charged at the centre with the crowned municipal arms of Santa María Rivarredonda (a castle on red, a church and waves).",
+  "history": "The municipal flag is square, 1:1, green in its field.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Santa_María_Ribarredonda_(Burgos).svg",
+    "https://www.wikidata.org/wiki/Q1656711",
+    "https://es.wikipedia.org/wiki/Santa_María_Ribarredonda"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        5
+      ]
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "yellow",
+      "position": "top",
+      "role": "three stars on the blue stripe, yellow, white and red"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "top",
+      "role": "the white star"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "top",
+      "role": "the red star"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Santa María Rivarredonda arms — castle, church and waves"
+    }
+  ]
+}

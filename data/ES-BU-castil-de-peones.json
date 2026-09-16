@@ -1,0 +1,52 @@
+{
+  "id": "ES-BU-castil-de-peones",
+  "name": "Castil de Peones (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BU",
+  "codes": {
+    "wikidata": "Q1607140",
+    "ine": "09083"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square flag divided red over blue, the blue rising as a stepped mount at the centre, with two white foot soldiers holding maces on the red.",
+  "history": "Municipal flag of Castil de Peones; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Castil_de_Peones.svg",
+    "https://www.wikidata.org/wiki/Q1607140",
+    "https://es.wikipedia.org/wiki/Castil_de_Peones"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2,
+      "role": "stepped division"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "top",
+      "role": "two foot soldiers (peones) with maces"
+    }
+  ]
+}

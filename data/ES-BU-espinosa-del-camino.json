@@ -1,0 +1,67 @@
+{
+  "id": "ES-BU-espinosa-del-camino",
+  "name": "Espinosa del Camino (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BU",
+  "codes": {
+    "wikidata": "Q946759",
+    "ine": "09123"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "pink"
+    }
+  ],
+  "description": "Vertical tricolour of green, white and green with a broad white middle stripe charged with two red scallop shells in pale.",
+  "history": "Municipal flag of Espinosa del Camino; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Espinosa_del_Camino.svg",
+    "https://www.wikidata.org/wiki/Q946759",
+    "https://es.wikipedia.org/wiki/Espinosa_del_Camino"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        1.4,
+        1
+      ]
+    },
+    {
+      "type": "shell",
+      "color": "red",
+      "position": "center",
+      "count": 2,
+      "role": "two scallop shells in pale"
+    },
+    {
+      "type": "glyph",
+      "color": "pink",
+      "position": "center",
+      "role": "shading of the shells"
+    }
+  ]
+}

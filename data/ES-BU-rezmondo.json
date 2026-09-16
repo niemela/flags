@@ -1,0 +1,63 @@
+{
+  "id": "ES-BU-rezmondo",
+  "name": "Rezmondo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BU",
+  "codes": {
+    "wikidata": "Q1642461",
+    "ine": "09317"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally by a blue wavy band fimbriated white from the upper fly to the lower hoist, green above and red below, charged at the centre with the crowned municipal arms of Rezmondo (a castle on red, a wavy bend and a sun on green).",
+  "history": "Municipal flag of Rezmondo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Rezmondo_(Burgos).svg",
+    "https://www.wikidata.org/wiki/Q1642461",
+    "https://es.wikipedia.org/wiki/Rezmondo"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "role": "wavy band edged white from the upper fly to the lower hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "edges of the wavy band"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Rezmondo arms — castle, wavy bend and sun"
+    }
+  ]
+}

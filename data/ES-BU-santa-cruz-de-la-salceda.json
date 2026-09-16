@@ -1,0 +1,81 @@
+{
+  "id": "ES-BU-santa-cruz-de-la-salceda",
+  "name": "Santa Cruz de la Salceda (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BU",
+  "codes": {
+    "wikidata": "Q1641208",
+    "ine": "09345"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "Square yellow flag charged with a green willow with a brown trunk beneath a red cross, between two black wolves passant at its foot.",
+  "history": "Municipal flag of Santa Cruz de la Salceda; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Santa_Cruz_de_la_Salceda.svg",
+    "https://www.wikidata.org/wiki/Q1641208",
+    "https://es.wikipedia.org/wiki/Santa_Cruz_de_la_Salceda"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "willow (salceda)"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "trunk of the willow"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "top",
+      "role": "cross above the tree"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "bottom",
+      "count": 2,
+      "role": "two wolves passant"
+    },
+    {
+      "type": "glyph",
+      "color": "grey",
+      "position": "bottom",
+      "role": "shading of the wolves"
+    }
+  ]
+}

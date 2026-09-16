@@ -1,0 +1,71 @@
+{
+  "id": "ES-BU-los-altos",
+  "name": "Los Altos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BU",
+  "codes": {
+    "wikidata": "Q1778599",
+    "ine": "09014"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square white flag with blue wavy stripes and a red vertical stripe through the centre, charged with the crowned municipal arms of Los Altos (quartered with a castle, a tree and figures).",
+  "history": "Municipal flag of Los Altos; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Los_Altos.svg",
+    "https://www.wikidata.org/wiki/Q1778599",
+    "https://es.wikipedia.org/wiki/Los_Altos_(Burgos)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "count": 4,
+      "role": "wavy stripes"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "central vertical stripe"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Los Altos arms — quartered with castle, tree and figures"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crown of the arms"
+    }
+  ]
+}

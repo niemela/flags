@@ -1,0 +1,57 @@
+{
+  "id": "ES-BU-orbaneja-riopico",
+  "name": "Orbaneja Riopico (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BU",
+  "codes": {
+    "wikidata": "Q946797",
+    "ine": "09241"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Red field with a white stripe and a blue stripe along the lower edge, charged at the centre with a white building with blue openings.",
+  "history": "Municipal flag of Orbaneja Riopico; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Orbaneja_Riopico.svg",
+    "https://www.wikidata.org/wiki/Q946797",
+    "https://es.wikipedia.org/wiki/Orbaneja_Riopico"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "house with blue door and windows"
+    }
+  ]
+}

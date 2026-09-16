@@ -1,0 +1,54 @@
+{
+  "id": "ES-BU-milagros",
+  "name": "Milagros (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BU",
+  "codes": {
+    "wikidata": "Q1634531",
+    "ine": "09218"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "Square flag divided diagonally by a light blue wavy band from the upper hoist to the lower fly, white above and yellow below, charged at the centre with the crowned municipal arms of Milagros (a wheel, a saltire and a bridge on blue).",
+  "history": "Municipal flag of Milagros; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Milagros_(Burgos).svg",
+    "https://www.wikidata.org/wiki/Q1634531",
+    "https://es.wikipedia.org/wiki/Milagros_(Burgos)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "yellow",
+      "direction": "bend"
+    },
+    {
+      "type": "wave",
+      "color": "light-blue",
+      "position": "center",
+      "role": "wavy band from the upper hoist to the lower fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Milagros arms — wheel, saltire and bridge on blue"
+    }
+  ]
+}

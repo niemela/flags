@@ -1,0 +1,65 @@
+{
+  "id": "ES-BU-pampliega",
+  "name": "Pampliega (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BU",
+  "codes": {
+    "wikidata": "Q1656665",
+    "ine": "09250"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square flag divided horizontally red over yellow, with a blue bend and a white bend sinister in saltire, charged at the centre with the crowned municipal arms of Pampliega (grapes, a sword, stars and a castle on red).",
+  "history": "Municipal flag of Pampliega; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Pampliega_(Burgos).svg",
+    "https://www.wikidata.org/wiki/Q1656665",
+    "https://es.wikipedia.org/wiki/Pampliega"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "role": "bend from the upper hoist to the lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "bend sinister from the upper fly to the lower hoist"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Pampliega arms — grapes, sword, stars and castle"
+    }
+  ]
+}

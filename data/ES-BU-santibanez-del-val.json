@@ -1,0 +1,54 @@
+{
+  "id": "ES-BU-santibanez-del-val",
+  "name": "Santibáñez del Val (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BU",
+  "codes": {
+    "wikidata": "Q1607408",
+    "ine": "09356"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field charged at the centre with a yellow castle supported by two white lions.",
+  "history": "Municipal flag of Santibáñez del Val; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Santibáñez_del_Val_(Burgos).svg",
+    "https://www.wikidata.org/wiki/Q1607408",
+    "https://es.wikipedia.org/wiki/Santibáñez_del_Val"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle"
+    },
+    {
+      "type": "lion",
+      "color": "white",
+      "position": "center",
+      "count": 2,
+      "role": "two lions supporting the castle"
+    }
+  ]
+}
