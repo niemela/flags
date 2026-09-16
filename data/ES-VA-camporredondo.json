@@ -1,0 +1,61 @@
+{
+  "id": "ES-VA-camporredondo",
+  "name": "Camporredondo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VA",
+  "codes": {
+    "wikidata": "Q2476584",
+    "ine": "47032"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field within a blue border charged with twelve white stars, charged at the centre with two white eradicated pines.",
+  "history": "The municipal flag is rectangular, of proportions 2:3, formed of a red cloth with two white eradicated pines placed in fess, with a blue border of a seventh of the length of the flag charged with twelve white five-pointed stars, five in the upper and lower parts, one at the hoist and one at the fly.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Camporredondo.svg",
+    "https://www.wikidata.org/wiki/Q2476584",
+    "https://es.wikipedia.org/wiki/Camporredondo_(Valladolid)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "border",
+      "color": "blue",
+      "role": "border a seventh of the length"
+    },
+    {
+      "type": "star",
+      "count": 12,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "role": "twelve five-pointed stars on the border, five above, five below, one at the hoist and one at the fly"
+    },
+    {
+      "type": "tree",
+      "color": "white",
+      "position": "center",
+      "count": 2,
+      "role": "two eradicated pines side by side"
+    }
+  ]
+}

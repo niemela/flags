@@ -1,0 +1,83 @@
+{
+  "id": "ES-VA-cigales",
+  "name": "Cigales (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VA",
+  "codes": {
+    "wikidata": "Q1769167",
+    "ine": "47050"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square flag vertically divided with a green hoist third and a red fly, the green charged with the crowned arms of Cigales (a castle on blue within a border of fleurs-de-lis).",
+  "history": "The arms were published in the Boletín Oficial de Castilla y León of 27 July 1992. The flag was officially approved in 1999 and published in the Boletín Oficial de Castilla y León of 21 January 1999: square, of proportion 1:1, tierced at the hoist green and red, with the municipal arms in their colours on the first partition.",
+  "periods": [
+    {
+      "start": "1999"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cigales.svg",
+    "https://www.wikidata.org/wiki/Q1769167",
+    "https://es.wikipedia.org/wiki/Cigales"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Cigales arms — castle on blue within a border of fleurs-de-lis"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "crown and castle of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "hoist",
+      "role": "blue field of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "white of the arms"
+    }
+  ]
+}

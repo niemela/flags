@@ -1,0 +1,61 @@
+{
+  "id": "ES-VA-ataquines",
+  "name": "Ataquines (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VA",
+  "codes": {
+    "wikidata": "Q1907000",
+    "ine": "47011"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Vertically divided red and white by an embattled line, charged with yellow ears of wheat on the red and a green pine on the white.",
+  "history": "Municipal flag of Ataquines; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Ataquines.svg",
+    "https://www.wikidata.org/wiki/Q1907000",
+    "https://es.wikipedia.org/wiki/Ataquines"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "role": "embattled division"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "three ears of wheat"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "fly",
+      "role": "pine tree"
+    }
+  ]
+}

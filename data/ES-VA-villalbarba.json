@@ -1,0 +1,77 @@
+{
+  "id": "ES-VA-villalbarba",
+  "name": "Villalbarba (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VA",
+  "codes": {
+    "wikidata": "Q1929274",
+    "ine": "47213"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A central blue panel bearing a crowned yellow castle between two swords, within a border of yellow and red bars charged with red eight-pointed stars.",
+  "history": "Municipal flag of Villalbarba; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villalbarba_(Valladolid).svg",
+    "https://www.wikidata.org/wiki/Q1929274",
+    "https://es.wikipedia.org/wiki/Villalbarba"
+  ],
+  "features": [
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "central panel"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "crowned castle on the central panel"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "two swords flanking the castle"
+    },
+    {
+      "type": "border",
+      "color": "yellow",
+      "role": "broad border of yellow and red bars"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "bars of the border and eight-pointed stars on it"
+    },
+    {
+      "type": "star",
+      "count": 8,
+      "points": 8,
+      "color": "red",
+      "position": "center",
+      "role": "eight-pointed stars on the border"
+    }
+  ]
+}

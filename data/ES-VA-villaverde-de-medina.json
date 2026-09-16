@@ -1,0 +1,58 @@
+{
+  "id": "ES-VA-villaverde-de-medina",
+  "name": "Villaverde de Medina (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VA",
+  "codes": {
+    "wikidata": "Q1766702",
+    "ine": "47228"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field with a white cross throughout, charged with yellow castles at the upper hoist and lower fly and yellow vine leaves at the upper fly and lower hoist.",
+  "history": "Municipal flag of Villaverde de Medina; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villaverde_de_Medina.svg",
+    "https://www.wikidata.org/wiki/Q1766702",
+    "https://es.wikipedia.org/wiki/Villaverde_de_Medina"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "cross": "white",
+      "position": "center",
+      "field": "green",
+      "role": "cross throughout"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "canton",
+      "count": 2,
+      "role": "castles in the upper hoist and lower fly quarters"
+    },
+    {
+      "type": "leaf",
+      "color": "yellow",
+      "position": "fly",
+      "count": 2,
+      "role": "vine leaves in the upper fly and lower hoist quarters"
+    }
+  ]
+}

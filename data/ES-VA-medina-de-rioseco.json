@@ -1,0 +1,81 @@
+{
+  "id": "ES-VA-medina-de-rioseco",
+  "name": "Medina de Rioseco (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VA",
+  "codes": {
+    "wikidata": "Q1648251",
+    "ine": "47086"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "grey"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Quartered, red with a yellow castle at the upper hoist and lower fly, blue with a white horse's head above a yellow wall at the upper fly and lower hoist.",
+  "history": "Municipal flag of Medina de Rioseco; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Medina_de_Rioseco.svg",
+    "https://www.wikidata.org/wiki/Q1648251",
+    "https://es.wikipedia.org/wiki/Medina_de_Rioseco"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "red",
+        "blue",
+        "blue",
+        "red"
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "canton",
+      "count": 2,
+      "role": "castles on the red quarters"
+    },
+    {
+      "type": "horse",
+      "color": "white",
+      "position": "fly",
+      "count": 2,
+      "role": "horse's heads above walls on the blue quarters"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "shading of the castles"
+    },
+    {
+      "type": "glyph",
+      "color": "grey",
+      "position": "center",
+      "role": "shading of the horses"
+    }
+  ]
+}

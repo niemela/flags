@@ -1,0 +1,72 @@
+{
+  "id": "ES-VA-canalejas-de-penafiel",
+  "name": "Canalejas de Peñafiel (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VA",
+  "codes": {
+    "wikidata": "Q607434",
+    "ine": "47033"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Red field within a white border charged with red castles, charged at the centre with a crowned yellow tower.",
+  "history": "The heraldic arms and the flag were officially approved on 28 March 2014 and published in the Boletín Oficial de Castilla y León of 23 April 2014; the flag is of dimensions 1:2, fimbriated.",
+  "periods": [
+    {
+      "start": "2014-03-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Canalejas_de_Peñafiel.svg",
+    "https://www.wikidata.org/wiki/Q607434",
+    "https://es.wikipedia.org/wiki/Canalejas_de_Peñafiel"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "border",
+      "color": "white",
+      "role": "border charged with eight small red castles"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "small castles on the border"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "tower beneath a crown"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "shading of the tower"
+    }
+  ]
+}

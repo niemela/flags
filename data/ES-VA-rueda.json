@@ -1,0 +1,88 @@
+{
+  "id": "ES-VA-rueda",
+  "name": "Rueda (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VA",
+  "codes": {
+    "wikidata": "Q987366",
+    "ine": "47139"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Vertically divided with a red hoist third charged with three yellow castles in a column and a green fly charged with a white eight-spoked wheel.",
+  "history": "The arms were approved on 16 July 1986 and published in the Boletín Oficial de Castilla y León of 4 August 1986. The municipal flag was officially approved on 31 March 2011 and published in the Boletín Oficial de Castilla y León of 20 May 2011: of dimensions 2:3, tierced at the hoist, on the green cloth of the fly a wheel of eight spokes in white or silver, and on the red hoist third three yellow castles of three towers, crenellated and pierced blue, placed in pale.",
+  "periods": [
+    {
+      "start": "2011-03-31"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Rueda.svg",
+    "https://www.wikidata.org/wiki/Q987366",
+    "https://es.wikipedia.org/wiki/Rueda_(Valladolid)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 3,
+      "role": "three castles in pale, each of three towers"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "hoist",
+      "role": "door and windows of the castles"
+    },
+    {
+      "type": "wheel",
+      "color": "white",
+      "position": "fly",
+      "role": "wheel of eight spokes"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "fly",
+      "role": "shading of the wheel"
+    }
+  ]
+}

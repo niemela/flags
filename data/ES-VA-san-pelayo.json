@@ -1,0 +1,93 @@
+{
+  "id": "ES-VA-san-pelayo",
+  "name": "San Pelayo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VA",
+  "codes": {
+    "wikidata": "Q1866943",
+    "ine": "47149"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Vertically divided with a white hoist third bearing two black cauldrons and a shield between two wolves, the red fly charged with Saint Pelayo in a yellow castle.",
+  "history": "Municipal flag of San Pelayo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_San_Pelayo.svg",
+    "https://www.wikidata.org/wiki/Q1866943",
+    "https://es.wikipedia.org/wiki/San_Pelayo_(Valladolid)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "hoist",
+      "role": "two cauldrons and two wolves on the white hoist third"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "small shield of the arms between the wolves"
+    },
+    {
+      "type": "human-figure",
+      "color": "white",
+      "position": "fly",
+      "role": "Saint Pelayo holding a palm and a book within a castle"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "role": "castle around the saint"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "fly",
+      "role": "shading of the castle"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "fly",
+      "role": "palm of the saint"
+    }
+  ]
+}
