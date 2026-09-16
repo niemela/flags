@@ -1,0 +1,79 @@
+{
+  "id": "ES-B-les-franqueses-del-valles",
+  "name": "Les Franqueses del Vallès (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q15412",
+    "ine": "08086"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertical tricolour of green, white and yellow, the green bearing an open white book on a yellow crozier, the white a red cross throughout and the yellow four red pales.",
+  "history": "Municipal flag of Les Franqueses del Vallès; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Les_Franqueses_del_Vallès.svg",
+    "https://www.wikidata.org/wiki/Q15412",
+    "https://es.wikipedia.org/wiki/Les_Franqueses_del_Vallès",
+    "https://ca.wikipedia.org/wiki/Les_Franqueses_del_Vallès"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "book",
+      "color": "white",
+      "position": "hoist",
+      "role": "open book on a crozier"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "center",
+      "role": "cross throughout on the white stripe"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "fly",
+      "role": "four red pales on yellow at the fly"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "ES-B-gava",
+  "name": "Gavà (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q15622",
+    "ine": "08089"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A dark blue hoist third bearing two crossed keys, yellow and white, the fly with four red bars on yellow.",
+  "history": "The flag of Gavà combines the crossed keys of the municipal arms on dark blue at the hoist with the four bars of Catalonia at the fly.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Gavà.svg",
+    "https://www.wikidata.org/wiki/Q15622",
+    "https://es.wikipedia.org/wiki/Gavá",
+    "https://ca.wikipedia.org/wiki/Gavà"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "navy",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "key",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 2,
+      "role": "two crossed keys, yellow and white"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "the white key"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "fly",
+      "role": "four red bars on yellow at the fly"
+    }
+  ]
+}

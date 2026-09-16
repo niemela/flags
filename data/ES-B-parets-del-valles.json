@@ -1,0 +1,80 @@
+{
+  "id": "ES-B-parets-del-valles",
+  "name": "Parets del Vallès (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q15437",
+    "ine": "08159"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Quartered in cross, the upper hoist and lower fly quarters light green charged with the white horse salient of the arms, the other two quarters with four red pales on yellow.",
+  "history": "The flag was approved on 11 January 2010 and published in the Diari Oficial de la Generalitat de Catalunya no. 5555 of 28 January 2010; it is an oblong flag of 2:3, quartered in cross, the upper hoist and lower fly quarters light green charged with the white horse salient of the arms, the others with the four bars.",
+  "periods": [
+    {
+      "start": "2010-01-11"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Parets_del_Vallès.svg",
+    "https://www.wikidata.org/wiki/Q15437",
+    "https://es.wikipedia.org/wiki/Parets",
+    "https://ca.wikipedia.org/wiki/Parets_del_Vallès",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Parets_del_Vallès"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "green",
+        "yellow",
+        "yellow",
+        "green"
+      ]
+    },
+    {
+      "type": "horse",
+      "color": "white",
+      "position": "hoist",
+      "count": 2,
+      "role": "horse salient of the arms in the green quarters, 15/36 of the height"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "fly",
+      "role": "four red pales on yellow in the other quarters"
+    }
+  ]
+}

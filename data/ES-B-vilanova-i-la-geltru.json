@@ -1,0 +1,75 @@
+{
+  "id": "ES-B-vilanova-i-la-geltru",
+  "name": "Vilanova i la Geltrú (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q15553",
+    "ine": "08307"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontal bicolour, the upper part dark blue with a yellow castle at the centre and the lower part yellow with four red pales.",
+  "history": "The flag was approved on 8 March 1999 and published in the Diari Oficial de la Generalitat de Catalunya no. 2857 of 29 March 1999; it is based on the arms, an oblong flag of 2:3, horizontal bicolour, the upper part dark blue with a yellow castle 8/18 of the height at the centre and the lower part yellow with four red pales.",
+  "periods": [
+    {
+      "start": "1999-03-08"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Vilanova_i_la_Geltrú.svg",
+    "https://www.wikidata.org/wiki/Q15553",
+    "https://es.wikipedia.org/wiki/Villanueva_y_Geltrú",
+    "https://ca.wikipedia.org/wiki/Vilanova_i_la_Geltrú",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Vilanova_i_la_Geltrú"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "top",
+      "role": "castle, 8/18 of the height"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "bottom",
+      "role": "four red pales on yellow in the lower half"
+    }
+  ]
+}

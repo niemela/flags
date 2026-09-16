@@ -1,0 +1,62 @@
+{
+  "id": "ES-B-abrera",
+  "name": "Abrera (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q15593",
+    "ine": "08001"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "Green field with a broad blue band of light blue lines across the centre, representing the river Llobregat, charged with a green tree.",
+  "history": "The tree became the municipal emblem around 1830, when the council took it to be the origin of the town's name, and the river Llobregat is represented on the flag of the town.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Abrera.svg",
+    "https://www.wikidata.org/wiki/Q15593",
+    "https://es.wikipedia.org/wiki/Abrera",
+    "https://ca.wikipedia.org/wiki/Abrera"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "central band with thin light blue lines, the river Llobregat"
+    },
+    {
+      "type": "glyph",
+      "color": "light-blue",
+      "position": "center",
+      "role": "thin lines on the river band"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "ES-B-monistrol-de-calders",
+  "name": "Monistrol de Calders (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q16703",
+    "ine": "08128"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Yellow upper half, a red stripe and a green lower part separated by a white wavy line.",
+  "history": "The flag was approved on 27 October 1998; it is an oblong flag of 2:3.",
+  "periods": [
+    {
+      "start": "1998-10-27"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Monistrol_de_Calders.svg",
+    "https://www.wikidata.org/wiki/Q16703",
+    "https://es.wikipedia.org/wiki/Monistrol_de_Calders",
+    "https://ca.wikipedia.org/wiki/Monistrol_de_Calders"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "bottom",
+      "role": "wavy line between the red and the green"
+    }
+  ]
+}

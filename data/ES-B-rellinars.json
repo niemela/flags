@@ -1,0 +1,68 @@
+{
+  "id": "ES-B-rellinars",
+  "name": "Rellinars (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q13932",
+    "ine": "08179"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "purple"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Purple field with a yellow bend over a white bend sinister, and three white six-pointed stars in the spaces between them.",
+  "history": "The flag was approved on 19 May 2003 and published in the Diari Oficial de la Generalitat de Catalunya no. 3900; it is an oblong flag of 2:3, purple, with a yellow bend and a white bend sinister each 1/6 of the height, the bend above the bend sinister, and three white six-pointed stars of diameter 1/6 of the height, all equidistant from the bend and the bend sinister.",
+  "periods": [
+    {
+      "start": "2003-05-19"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Rellinars.svg",
+    "https://www.wikidata.org/wiki/Q13932",
+    "https://es.wikipedia.org/wiki/Rellinars",
+    "https://ca.wikipedia.org/wiki/Rellinars",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Rellinars"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "purple"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "role": "bend 1/6 of the height, over the bend sinister"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "bend sinister 1/6 of the height beneath the bend"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 6,
+      "color": "white",
+      "position": "top",
+      "role": "three stars equidistant from the bend and bend sinister"
+    }
+  ]
+}

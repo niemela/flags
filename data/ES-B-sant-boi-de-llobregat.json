@@ -1,0 +1,54 @@
+{
+  "id": "ES-B-sant-boi-de-llobregat",
+  "name": "Sant Boi de Llobregat (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q15635",
+    "ine": "08200"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with a white pile issuing from the fly whose point reaches the hoist, the pile bearing a smaller red pile at the fly.",
+  "history": "Municipal flag of Sant Boi de Llobregat; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Sant_Boi_de_Llobregat.svg",
+    "https://www.wikidata.org/wiki/Q15635",
+    "https://es.wikipedia.org/wiki/San_Baudilio_de_Llobregat",
+    "https://ca.wikipedia.org/wiki/Sant_Boi_de_Llobregat"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "pile",
+      "color": "white",
+      "position": "fly",
+      "role": "pile from the fly edge to the hoist"
+    },
+    {
+      "type": "pile",
+      "color": "red",
+      "position": "fly",
+      "role": "smaller pile within the white pile"
+    }
+  ]
+}

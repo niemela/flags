@@ -1,0 +1,60 @@
+{
+  "id": "ES-B-collsuspina",
+  "name": "Collsuspina (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q13779",
+    "ine": "08070"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "White field with a green triangle whose base is the hoist edge and whose apex is at the middle of the fly, over which lies a yellow triangle with the same base and its apex at the centre of the flag.",
+  "history": "The flag was approved by the municipal council on 30 March 2006 and published in the Diari Oficial de la Generalitat de Catalunya; it is an oblong flag of 2:3, white, with a green triangle with its base along the hoist and its apex at the middle of the fly, and over it a yellow triangle with the same base and its apex at the centre.",
+  "periods": [
+    {
+      "start": "2006-03-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Collsuspina.svg",
+    "https://www.wikidata.org/wiki/Q13779",
+    "https://es.wikipedia.org/wiki/Collsuspina",
+    "https://ca.wikipedia.org/wiki/Collsuspina",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Collsuspina"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "hoist",
+      "role": "triangle from the hoist edge to the middle of the fly"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "triangle from the hoist edge to the centre of the flag"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ES-B-rubi",
+  "name": "Rubí (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q13934",
+    "ine": "08184"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with a yellow bend from the upper hoist corner to the fly over a white bend sinister from the upper fly corner to the lower hoist.",
+  "history": "The official flag of Rubí is an oblong flag of 2:3, red, with a yellow bend fixed from the upper hoist corner to the inside of the fly over a white bend sinister from the upper fly corner to the lower hoist corner.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Rubi.svg",
+    "https://www.wikidata.org/wiki/Q13934",
+    "https://es.wikipedia.org/wiki/Rubí_(Barcelona)",
+    "https://ca.wikipedia.org/wiki/Rubí",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Rubí"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "role": "bend from the upper hoist corner, over the bend sinister"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "bend sinister from the upper fly corner to the lower hoist"
+    }
+  ]
+}

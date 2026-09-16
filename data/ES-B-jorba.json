@@ -1,0 +1,87 @@
+{
+  "id": "ES-B-jorba",
+  "name": "Jorba (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q15951",
+    "ine": "08103"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Quartered, the first and fourth quarters red with a white comet of the arms and the second and third light blue with the yellow open castle of the arms.",
+  "history": "The flag was approved on 2 March 2001 and published in the Diari Oficial de la Generalitat de Catalunya no. 3347 of 14 March 2001; it is an oblong flag of 2:3, quartered in cross, with the white comet of the arms 5/12 of the height centred in the red first and fourth quarters and the yellow open castle of the same arms in the second and third.",
+  "periods": [
+    {
+      "start": "2001-03-02"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Jorba.svg",
+    "https://www.wikidata.org/wiki/Q15951",
+    "https://es.wikipedia.org/wiki/Jorba",
+    "https://ca.wikipedia.org/wiki/Jorba",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Jorba"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "red",
+        "light-blue",
+        "light-blue",
+        "red"
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "comet of the arms in the first and fourth quarters, 5/12 of the height"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "count": 2,
+      "role": "open castle of the arms in the second and third quarters"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "fly",
+      "role": "openings of the castles"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "fly",
+      "role": "shading of the castles"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "ES-B-castelltercol",
+  "name": "Castellterçol (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q15408",
+    "ine": "08064"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field charged at the centre with a yellow castle beneath three yellow suns.",
+  "history": "The official flag of Castellterçol is oblong, of proportions two high by three long, blue, with the castle and the three yellow suns of the arms at the centre, of height 5/6 and width 4/9; it was approved on 20 November 1995 and published in the DOGC of 5 December 1995. The castle and three suns (castell-tres-sols) form a canting sign.",
+  "periods": [
+    {
+      "start": "1995-11-20"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Castellterçol.svg",
+    "https://www.wikidata.org/wiki/Q15408",
+    "https://es.wikipedia.org/wiki/Castelltersol",
+    "https://ca.wikipedia.org/wiki/Castellterçol",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Castellterçol"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "top",
+      "count": 3,
+      "role": "three suns above the castle"
+    }
+  ]
+}

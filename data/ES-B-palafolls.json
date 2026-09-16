@@ -1,0 +1,63 @@
+{
+  "id": "ES-B-palafolls",
+  "name": "Palafolls (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q12595",
+    "ine": "08155"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Red upper two thirds, the lower third barry wavy of white and blue charged with three blue crosses.",
+  "history": "Municipal flag of Palafolls; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Palafolls.svg",
+    "https://www.wikidata.org/wiki/Q12595",
+    "https://es.wikipedia.org/wiki/Palafolls",
+    "https://ca.wikipedia.org/wiki/Palafolls"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom",
+      "role": "barry wavy of white and blue in the lower third"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "blue",
+      "position": "bottom",
+      "count": 3,
+      "role": "three crosses on the lower third"
+    }
+  ]
+}

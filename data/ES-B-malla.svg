@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="360">
+<defs>
+<pattern id="rhombus" x="30" y="30" width="80" height="100" patternUnits="userSpaceOnUse">
+<path d="M40,0L80,50L40,100L0,50z" fill="#000000" />
+</pattern>
+</defs>
+<path d="M15,15h510v330H15z" style="stroke:#da121a; stroke-width:30; fill:#fcdd09" />
+<path d="M30,30h480v300H30z" fill="url(#rhombus)" />
+</svg>

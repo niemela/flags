@@ -1,0 +1,67 @@
+{
+  "id": "ES-B-sora",
+  "name": "Sora (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q13849",
+    "ine": "08272"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "White field with two equal and opposed dark green right triangles at the lower hoist and lower fly, charged with a yellow hoe and a yellow rake, and a green sheaf of wheat at the centre.",
+  "history": "The flag was approved on 4 January 2008 and published in the Diari Oficial de la Generalitat de Catalunya no. 5052 of 21 January 2008; it is based on the arms, an oblong flag of 2:3, white, with two equal and opposed dark green right triangles, the first with one leg along the hoist of half the height and the other along the lower edge of half the length, charged with the yellow hoe of the arms.",
+  "periods": [
+    {
+      "start": "2008-01-04"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Sora.svg",
+    "https://www.wikidata.org/wiki/Q13849",
+    "https://es.wikipedia.org/wiki/Sora_(Barcelona)",
+    "https://ca.wikipedia.org/wiki/Sora",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Sora"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "bottom",
+      "count": 2,
+      "role": "two opposed right triangles with legs of half the height along the hoist and fly and half the length along the lower edge"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "hoe of the arms on the hoist triangle and rake on the fly triangle"
+    },
+    {
+      "type": "wheat",
+      "color": "green",
+      "position": "center",
+      "role": "sheaf of wheat"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "ES-B-vallromanes",
+  "name": "Vallromanes (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q15460",
+    "ine": "08296"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A light blue hoist part separated by a curved line from a fly of four red bars on yellow, the blue charged with a red wheel with yellow spokes.",
+  "history": "Municipal flag of Vallromanes; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Vallromanes_(Barcelona).svg",
+    "https://www.wikidata.org/wiki/Q15460",
+    "https://es.wikipedia.org/wiki/Vallromanes",
+    "https://ca.wikipedia.org/wiki/Vallromanes"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "light-blue",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        3
+      ],
+      "role": "curved division"
+    },
+    {
+      "type": "wheel",
+      "color": "red",
+      "position": "hoist",
+      "role": "wheel with yellow spokes"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "fly",
+      "role": "four red bars on yellow at the fly"
+    }
+  ]
+}

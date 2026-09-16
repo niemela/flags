@@ -1,0 +1,65 @@
+{
+  "id": "ES-B-castellfollit-del-boix",
+  "name": "Castellfollit del Boix (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q16685",
+    "ine": "08059"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided per bend from the upper hoist to the lower fly, dark green above and yellow below, with two juxtaposed bands along the division, white above red.",
+  "history": "The flag was approved on 25 November 2008 and published in the Diari Oficial de la Generalitat de Catalunya on 9 December 2008; it reproduces the heraldic colours in bend, the yellow of the castle on red and the green of the box on white, without the figures: an oblong flag of 2:3, bicolour per bend dark green above and yellow below, with two juxtaposed bands, white above and red below, each 1/12 of the height.",
+  "periods": [
+    {
+      "start": "2008-11-25"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Castellfollit_del_Boix.svg",
+    "https://www.wikidata.org/wiki/Q16685",
+    "https://es.wikipedia.org/wiki/Castellfollit_del_Boix",
+    "https://ca.wikipedia.org/wiki/Castellfollit_del_Boix",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Castellfollit_del_Boix"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "yellow",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "white band above the division, 1/12 of the height"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "red band below the white, 1/12 of the height"
+    }
+  ]
+}

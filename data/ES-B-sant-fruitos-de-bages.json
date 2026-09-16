@@ -1,0 +1,72 @@
+{
+  "id": "ES-B-sant-fruitos-de-bages",
+  "name": "Sant Fruitós de Bages (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q16730",
+    "ine": "08213"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "pink"
+    }
+  ],
+  "description": "Dark green field with a white monastery of the arms at the centre beneath five white stars, above a yellow stripe along the lower edge.",
+  "history": "Municipal flag of Sant Fruitós de Bages; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_San_Fructuoso_de_Bages.svg",
+    "https://www.wikidata.org/wiki/Q16730",
+    "https://es.wikipedia.org/wiki/San_Fructuoso_de_Bages",
+    "https://ca.wikipedia.org/wiki/Sant_Fruitós_de_Bages"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        5,
+        1
+      ]
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "monastery of Sant Benet de Bages"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "position": "top"
+    },
+    {
+      "type": "glyph",
+      "color": "pink",
+      "position": "center",
+      "role": "shading of the building"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "ES-B-cerdanyola-del-valles",
+  "name": "Cerdanyola del Vallès (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q13922",
+    "ine": "08266"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Green field with the first vertical third occupied by four red lozengy bars on a yellow ground outlined in white.",
+  "history": "The flag was approved on 21 November 2005 and published in the Diari Oficial de la Generalitat de Catalunya no. 4534 of 21 December 2005; it is an oblong flag of 2:3, green, with the first vertical third occupied by four red bars of lozengy structure, not touching each other, on a yellow ground outlined in white.",
+  "periods": [
+    {
+      "start": "2005-11-21"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cerdanyola_del_Vallès.svg",
+    "https://www.wikidata.org/wiki/Q13922",
+    "https://es.wikipedia.org/wiki/Sardañola_del_Vallés",
+    "https://ca.wikipedia.org/wiki/Cerdanyola_del_Vallès",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Cerdanyola_del_Vallès"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "lozenge",
+      "color": "red",
+      "position": "hoist",
+      "role": "four bars of lozenges which do not touch, on yellow outlined white"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "outline of the yellow hoist panel"
+    }
+  ]
+}

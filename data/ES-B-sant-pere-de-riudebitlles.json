@@ -1,0 +1,61 @@
+{
+  "id": "ES-B-sant-pere-de-riudebitlles",
+  "name": "Sant Pere de Riudebitlles (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q633095",
+    "ine": "08232"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided by two ascending diagonals into three parts, a dark blue hoist part twice the size of the others bearing a yellow sprig, a white middle band and a yellow fly.",
+  "history": "The flag was approved on 20 November 1997; it is an oblong flag of 2:3 divided by ascending diagonals into three parts: that at the hoist, twice the others, dark blue; the middle white; and that at the fly yellow.",
+  "periods": [
+    {
+      "start": "1997-11-20"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Sant_Pere_de_Riudebitlles.svg",
+    "https://www.wikidata.org/wiki/Q633095",
+    "https://es.wikipedia.org/wiki/San_Pedro_de_Riudevitlles",
+    "https://ca.wikipedia.org/wiki/Sant_Pere_de_Riudebitlles"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "navy",
+      "bend": "yellow",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "white band between the dark blue and the yellow"
+    },
+    {
+      "type": "leaf",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "sprig of leaves in the upper hoist"
+    }
+  ]
+}

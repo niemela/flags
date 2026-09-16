@@ -1,0 +1,82 @@
+{
+  "id": "ES-B-santa-margarida-i-els-monjos",
+  "name": "Santa Margarida i els Monjos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q660350",
+    "ine": "08251"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "purple"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Purple field with a green dragon langued red at the centre, the lower third formed of five yellow and four red alternating stripes.",
+  "history": "The flag was approved on 27 August 1990 and published in the Diari Oficial de la Generalitat de Catalunya no. 1345 of 19 September 1990; it is an oblong flag of 2:3, purple, with a lower third formed of five yellow and four red alternating stripes and a green dragon with a red tongue at the centre of the purple field.",
+  "periods": [
+    {
+      "start": "1990-08-27"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Santa_Margarida_i_els_Monjos.svg",
+    "https://www.wikidata.org/wiki/Q660350",
+    "https://es.wikipedia.org/wiki/Santa_Margarita_y_Monjós",
+    "https://ca.wikipedia.org/wiki/Santa_Margarida_i_els_Monjos",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Santa_Margarida_i_els_Monjos"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "purple",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "mythical-creature",
+      "color": "green",
+      "position": "center",
+      "role": "dragon langued red"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "bottom",
+      "role": "four red bars on yellow in the lower third"
+    }
+  ]
+}

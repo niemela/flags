@@ -1,0 +1,84 @@
+{
+  "id": "ES-B-caldes-de-montbui",
+  "name": "Caldes de Montbui (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q15400",
+    "ine": "08033"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Two equal vertical parts, the first yellow with the black cauldron of the arms, the second divided horizontally white with a red cross throughout above four red pales on yellow.",
+  "history": "The flag was approved on 6 July 2017 and published in the Diari Oficial de la Generalitat de Catalunya no. 7412 of 14 July 2017; it is an oblong flag of 2:3 composed of two equal vertical parts, the first yellow with the black cauldron of the arms at the centre, the second a horizontal bicolour of white with a red cross throughout and the four bars.",
+  "periods": [
+    {
+      "start": "2017-07-06"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Caldes_de_Montbui.svg",
+    "https://www.wikidata.org/wiki/Q15400",
+    "https://es.wikipedia.org/wiki/Caldas_de_Montbuy",
+    "https://ca.wikipedia.org/wiki/Caldes_de_Montbui",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Caldes_de_Montbui"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "hoist",
+      "role": "cauldron of the arms, 3/8 of the height"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "fly",
+      "role": "red cross throughout on white in the upper fly"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "fly",
+      "role": "four red pales on yellow in the lower fly"
+    }
+  ]
+}

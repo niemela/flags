@@ -1,0 +1,68 @@
+{
+  "id": "ES-B-vic",
+  "name": "Vic (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q13855",
+    "ine": "08298"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Paly of yellow and red (the four bars of Catalonia) with two white triangles at the hoist and fly meeting at the centre, each charged with a red cross.",
+  "history": "The flag of Vic is a banner of the municipal arms, which combine the four bars of Catalonia with the crosses of the city.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Vic.svg",
+    "https://www.wikidata.org/wiki/Q13855",
+    "https://es.wikipedia.org/wiki/Vic",
+    "https://ca.wikipedia.org/wiki/Vic"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "role": "four red bars on yellow (Senyera)"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "count": 2,
+      "role": "triangles from the hoist and fly edges meeting at the centre"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "hoist",
+      "count": 2,
+      "role": "a cross on each white triangle"
+    }
+  ]
+}

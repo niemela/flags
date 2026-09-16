@@ -1,0 +1,90 @@
+{
+  "id": "ES-B-montmajor",
+  "name": "Montmajor (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q15522",
+    "ine": "08132"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "A red hoist third charged with the yellow orb of the arms banded light blue and crossed with a Greek cross patée, the fly white above and yellow below with a black stripe between.",
+  "history": "The flag was approved on 14 September 2005 and published in the Diari Oficial de la Generalitat de Catalunya; it is an oblong flag of 2:3, white above and yellow below with a black fess 1/6 of the height at the centre, the first vertical third red charged with the yellow orb crossed with a Greek cross patée and banded light blue of the arms.",
+  "periods": [
+    {
+      "start": "2005-09-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Montmajor.svg",
+    "https://www.wikidata.org/wiki/Q15522",
+    "https://es.wikipedia.org/wiki/Montmajor",
+    "https://ca.wikipedia.org/wiki/Montmajor",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Montmajor"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "orb (mound) crossed with a Greek cross patée, banded light blue"
+    },
+    {
+      "type": "glyph",
+      "color": "light-blue",
+      "position": "hoist",
+      "role": "bands of the orb"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "black",
+        "yellow"
+      ],
+      "count": 3,
+      "position": "fly",
+      "widths": [
+        5,
+        2,
+        5
+      ],
+      "role": "fly white above and yellow below with a black fess"
+    }
+  ]
+}

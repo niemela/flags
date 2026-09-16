@@ -1,0 +1,77 @@
+{
+  "id": "ES-B-sant-celoni",
+  "name": "Sant Celoni (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q15441",
+    "ine": "08202"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field charged at the centre with a cross with a red vertical arm and a yellow horizontal arm, itself charged with a smaller cross with a white vertical arm and a black horizontal arm.",
+  "history": "The flag was published in the Diari Oficial de la Generalitat de Catalunya on 5 June 1991; it is defined as an oblong flag of 2:3, blue, charged at the centre with a cross whose vertical arm is red and horizontal arm yellow, both one third of the height wide, in turn charged with another cross with a white vertical and black horizontal arm.",
+  "periods": [
+    {
+      "start": "1991-06-05"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Sant_Celoni.svg",
+    "https://www.wikidata.org/wiki/Q15441",
+    "https://es.wikipedia.org/wiki/Sant_Celoni",
+    "https://ca.wikipedia.org/wiki/Sant_Celoni"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "center",
+      "role": "cross with red vertical and yellow horizontal arms, 1/3 of the height"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "horizontal arm of the outer cross"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "vertical arm of the inner cross"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "horizontal arm of the inner cross"
+    }
+  ]
+}

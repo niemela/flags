@@ -1,0 +1,89 @@
+{
+  "id": "ES-B-santpedor",
+  "name": "Santpedor (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q16736",
+    "ine": "08192"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Green field with the last vertical third bearing four red pales on yellow, charged on the green with two keys in pale, yellow and white, the attribute of Saint Peter.",
+  "history": "The official flag of Santpedor (published 18 November 2003) is an oblong flag of 2:3, green, with the last vertical third bearing the four bars of Catalonia, which recall the royal jurisdiction over the town, a 'street of Barcelona' by grant of Martin I in 1400, and the keys of Saint Peter, patron of the town, taken from the arms approved on 22 September 1995.",
+  "periods": [
+    {
+      "start": "2003-11-18"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Santpedor.svg",
+    "https://www.wikidata.org/wiki/Q16736",
+    "https://es.wikipedia.org/wiki/Sampedor",
+    "https://ca.wikipedia.org/wiki/Santpedor",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Santpedor"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "key",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 2,
+      "role": "two keys in pale, one yellow and one white"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "the white key"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "fly",
+      "role": "four red pales on yellow in the fly third"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "ES-B-pacs-del-penedes",
+  "name": "Pacs del Penedès (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q958681",
+    "ine": "08154"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "White upper part charged with a green wreath enclosing black and red feathers, the lower third with four red bars on yellow.",
+  "history": "Municipal flag of Pacs del Penedès; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Pacs_del_Penedès.svg",
+    "https://www.wikidata.org/wiki/Q958681",
+    "https://es.wikipedia.org/wiki/Pachs_del_Panadés",
+    "https://ca.wikipedia.org/wiki/Pacs_del_Penedès"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "top",
+      "role": "wreath of leaves enclosing feathers"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "top",
+      "role": "black feather"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "top",
+      "role": "red feathers"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "bottom",
+      "role": "four red bars on yellow in the lower third"
+    }
+  ]
+}

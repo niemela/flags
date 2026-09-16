@@ -1,0 +1,64 @@
+{
+  "id": "ES-B-roda-de-ter",
+  "name": "Roda de Ter (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q13815",
+    "ine": "08183"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with a white cogwheel towards the hoist and a narrow white stripe separating a yellow lower stripe half the depth of the blue.",
+  "history": "The flag was approved on 18 May 1994 and published in the Diari Oficial de la Generalitat de Catalunya on 3 June 1994; it is an oblong flag of 2:3, blue, with a white cogwheel of diameter 1/2 centred at the hoist side, and a narrow white fess of 1/20 separating the lower yellow stripe, half the depth of the blue.",
+  "periods": [
+    {
+      "start": "1994-05-18"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Roda_de_Ter.svg",
+    "https://www.wikidata.org/wiki/Q13815",
+    "https://es.wikipedia.org/wiki/Roda_de_Ter",
+    "https://ca.wikipedia.org/wiki/Roda_de_Ter",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Roda_de_Ter"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        12,
+        1,
+        6
+      ]
+    },
+    {
+      "type": "wheel",
+      "color": "white",
+      "position": "hoist",
+      "role": "cogwheel of diameter 1/2, centred towards the hoist"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "ES-B-manresa",
+  "name": "Manresa (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q16697",
+    "ine": "08113"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontally divided, the upper half with four red pales on yellow and the lower half white with a red cross throughout.",
+  "history": "The flag of Manresa is a banner of the municipal arms, which combine the four bars of Catalonia with the red cross of the city on white.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Manresa_fosca.svg",
+    "https://www.wikidata.org/wiki/Q16697",
+    "https://es.wikipedia.org/wiki/Manresa",
+    "https://ca.wikipedia.org/wiki/Manresa"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "top",
+      "role": "four red pales on yellow in the upper half"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "bottom",
+      "role": "cross throughout on the white lower half"
+    }
+  ]
+}

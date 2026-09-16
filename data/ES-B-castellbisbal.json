@@ -1,0 +1,76 @@
+{
+  "id": "ES-B-castellbisbal",
+  "name": "Castellbisbal (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q13921",
+    "ine": "08054"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "purple"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A hoist part with four red pales on yellow, the fly purple charged with a white lozenge bearing the castle and crozier of the arms in purple.",
+  "history": "The flag of Castellbisbal combines the four bars of Catalonia at the hoist with the purple field and the white lozenge charged with the castle and bishop's crozier of the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_castellbisbal.svg",
+    "https://www.wikidata.org/wiki/Q13921",
+    "https://es.wikipedia.org/wiki/Castellbisbal",
+    "https://ca.wikipedia.org/wiki/Castellbisbal"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "purple"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        1.4
+      ]
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "hoist",
+      "role": "four red pales on yellow at the hoist"
+    },
+    {
+      "type": "lozenge",
+      "color": "white",
+      "position": "fly",
+      "role": "lozenge with the castle and crozier of the arms"
+    }
+  ]
+}

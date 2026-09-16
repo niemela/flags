@@ -1,0 +1,56 @@
+{
+  "id": "ES-B-ripollet",
+  "name": "Ripollet (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q13933",
+    "ine": "08180"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "purple"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided by two diagonal lines from the upper hoist to the lower fly into a purple lower hoist, a light blue central band bearing a yellow chick, and a yellow upper fly.",
+  "history": "Municipal flag of Ripollet; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Ripollet.svg",
+    "https://www.wikidata.org/wiki/Q13933",
+    "https://es.wikipedia.org/wiki/Ripollet",
+    "https://ca.wikipedia.org/wiki/Ripollet"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "light-blue",
+      "bend": "purple",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "fly",
+      "role": "yellow upper fly triangle"
+    },
+    {
+      "type": "bird",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "chick in the upper hoist"
+    }
+  ]
+}

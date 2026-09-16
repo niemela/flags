@@ -1,0 +1,100 @@
+{
+  "id": "ES-B-torrelavit",
+  "name": "Torrelavit (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q1228768",
+    "ine": "08287"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "purple"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "A dark green hoist third bearing a yellow castle with red openings, the fly yellow with a purple bunch of grapes and four red pales at the fly edge.",
+  "history": "Municipal flag of Torrelavit; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Torrelavit.svg",
+    "https://www.wikidata.org/wiki/Q1228768",
+    "https://es.wikipedia.org/wiki/Torrelavit",
+    "https://ca.wikipedia.org/wiki/Terrassola_i_Lavit"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle with red openings"
+    },
+    {
+      "type": "fruit",
+      "color": "purple",
+      "position": "center",
+      "role": "bunch of grapes"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "fly",
+      "role": "four red pales at the fly edge"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "outlines of the figures"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "hoist",
+      "role": "shading of the castle"
+    }
+  ]
+}

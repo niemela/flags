@@ -1,0 +1,75 @@
+{
+  "id": "ES-B-sant-marti-de-centelles",
+  "name": "Sant Martí de Centelles (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q13823",
+    "ine": "08224"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Barry of blue, white, yellow and blue, the outer stripes twice the width of the central two, charged at the centre with a lozenge quartered per saltire yellow and red.",
+  "history": "The flag was approved on 18 July 1991 and published in the Diari Oficial de la Generalitat de Catalunya no. 1475 of 2 August 1991; it is an oblong flag of 2:3, barry blue, white, yellow and blue, the upper and lower stripes twice as wide as the two central ones, with a lozenge of 4/6 of the height quartered per saltire yellow and red.",
+  "periods": [
+    {
+      "start": "1991-07-18"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Sant_Martí_de_Centelles.svg",
+    "https://www.wikidata.org/wiki/Q13823",
+    "https://es.wikipedia.org/wiki/San_Martín_de_Centellas",
+    "https://ca.wikipedia.org/wiki/Sant_Martí_de_Centelles",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Sant_Martí_de_Centelles"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "yellow",
+        "blue"
+      ],
+      "count": 4,
+      "widths": [
+        2,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "lozenge",
+      "color": "yellow",
+      "position": "center",
+      "role": "lozenge 4/6 of the height quartered per saltire yellow and red"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "red quarters of the lozenge"
+    }
+  ]
+}

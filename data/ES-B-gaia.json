@@ -1,0 +1,71 @@
+{
+  "id": "ES-B-gaia",
+  "name": "Gaià (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q16696",
+    "ine": "08090"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided per bend sinister light blue and yellow, the light blue with the white fleur-de-lis and crescent of the arms, the yellow with four red bars.",
+  "history": "The flag was published in the Diari Oficial de la Generalitat de Catalunya on 6 April 1999; it is an oblong flag of 2:3, bicolour per bend sinister light blue and yellow, with the white fleur-de-lis and crescent of the arms (approved 29 May 1997, attributes of the Virgin), the whole half the height, and the lower part with four red bars.",
+  "periods": [
+    {
+      "start": "1999-04-06"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Gaià.svg",
+    "https://www.wikidata.org/wiki/Q16696",
+    "https://es.wikipedia.org/wiki/Gayá",
+    "https://ca.wikipedia.org/wiki/Gaià",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Gaià"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "light-blue",
+      "bend": "yellow",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "position": "hoist",
+      "role": "fleur-de-lis above a crescent"
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "fly",
+      "count": 4,
+      "role": "four red bars on the yellow"
+    }
+  ]
+}

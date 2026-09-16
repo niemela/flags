@@ -1,0 +1,93 @@
+{
+  "id": "ES-B-tona",
+  "name": "Tona (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q13853",
+    "ine": "08283"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "Two equal vertical parts, the first dark green with the white castle of the arms with green door and windows, the second divided horizontally white with a red cross throughout above four red pales on yellow.",
+  "history": "On 28 September 2016 the council began the procedure to give the municipality an official flag, and on 29 March 2017 resolved to hold a popular consultation between five proposals; the chosen design was approved by the Generalitat on 12 January 2018. It is an oblong flag of 2:3 of two equal vertical parts, the first dark green with the white castle of the arms, the second a horizontal bicolour of white with a red cross throughout and the four bars.",
+  "periods": [
+    {
+      "start": "2018-01-12"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Tona.svg",
+    "https://www.wikidata.org/wiki/Q13853",
+    "https://es.wikipedia.org/wiki/Tona_(España)",
+    "https://ca.wikipedia.org/wiki/Tona_(Osona)",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Tona"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "castle with dark green door and windows, 7/13 of the height"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "fly",
+      "role": "cross throughout on the white upper fly"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "fly",
+      "role": "four red pales on yellow in the lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "grey",
+      "position": "hoist",
+      "role": "shading of the castle"
+    }
+  ]
+}

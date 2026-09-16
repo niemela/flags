@@ -1,0 +1,74 @@
+{
+  "id": "ES-B-sant-quirze-de-besora",
+  "name": "Sant Quirze de Besora (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q13830",
+    "ine": "08237"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red hoist part charged with a yellow laurel wreath, the fly paly of black and white.",
+  "history": "Municipal flag of Sant Quirze de Besora; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Sant_Quirze_de_Besora.svg",
+    "https://www.wikidata.org/wiki/Q13830",
+    "https://es.wikipedia.org/wiki/San_Quirico_de_Besora",
+    "https://ca.wikipedia.org/wiki/Sant_Quirze_de_Besora"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "black"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "laurel wreath"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black",
+        "white",
+        "black",
+        "white",
+        "black",
+        "white",
+        "black"
+      ],
+      "count": 7,
+      "position": "fly",
+      "role": "paly of black and white at the fly"
+    }
+  ]
+}

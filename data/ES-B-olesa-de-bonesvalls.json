@@ -1,0 +1,57 @@
+{
+  "id": "ES-B-olesa-de-bonesvalls",
+  "name": "Olesa de Bonesvalls (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q659734",
+    "ine": "08146"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided per bend sinister, the upper half yellow with the red scallop shell of the arms, the lower green, the two halves separated by a red bend sinister.",
+  "history": "The official flag of Olesa de Bonesvalls is an oblong flag of 2:3 divided per bend sinister, the upper half yellow with the red scallop of the arms and the lower half green, separated by a red bend sinister of 1/5 of the height; it carries the colours of the arms, in which a green valley figures on a yellow field.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Olesa_de_bonesvalls.svg",
+    "https://www.wikidata.org/wiki/Q659734",
+    "https://es.wikipedia.org/wiki/Olesa_de_Bonesvalls",
+    "https://ca.wikipedia.org/wiki/Olesa_de_Bonesvalls",
+    "https://ca.wikipedia.org/wiki/Bandera_d'Olesa_de_Bonesvalls"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "role": "bend sinister 1/5 of the height separating the halves"
+    },
+    {
+      "type": "shell",
+      "color": "red",
+      "position": "hoist",
+      "role": "scallop shell of the arms, 1/3 of the height"
+    }
+  ]
+}

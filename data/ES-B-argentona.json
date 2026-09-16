@@ -1,0 +1,78 @@
+{
+  "id": "ES-B-argentona",
+  "name": "Argentona (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q11539",
+    "ine": "08009"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Nine horizontal stripes, five yellow and four red, with a white vertical pale one quarter of the length at the hoist bearing a green palm frond.",
+  "history": "The flag was approved on 31 March 1994 and published in the Diari Oficial de la Generalitat de Catalunya no. 1886 of 20 April 1994; it is an oblong flag of 2:3 divided into nine equal stripes, five yellow and four red alternating, with a white pale of one quarter of the flag at the hoist charged with the green palm of the arms, the palm and the four bars having the same meaning as in the arms.",
+  "periods": [
+    {
+      "start": "1994-03-31"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Argentona.svg",
+    "https://www.wikidata.org/wiki/Q11539",
+    "https://es.wikipedia.org/wiki/Argentona",
+    "https://ca.wikipedia.org/wiki/Argentona",
+    "https://ca.wikipedia.org/wiki/Bandera_d'Argentona"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "role": "four red bars on yellow (Senyera)"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "hoist pale one quarter of the length"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "hoist",
+      "role": "palm frond of the arms, 7/9 of the height"
+    }
+  ]
+}

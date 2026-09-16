@@ -1,0 +1,64 @@
+{
+  "id": "ES-B-rubio",
+  "name": "Rubió (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-B",
+  "codes": {
+    "wikidata": "Q15963",
+    "ine": "08185"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "purple"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Purple field with the second vertical third red, the first third charged with the white crescent and fleur-de-lis of the arms.",
+  "history": "The flag was approved on 29 December 2006 and published in the Diari Oficial de la Generalitat de Catalunya no. 4807 of 25 January 2007; it is an oblong flag of 2:3, purple, with the second vertical third red and the crescent and fleur-de-lis of the arms (approved 12 February 1996, attributes of the Virgin Mary, patron of the village) centred in the upper half of the first third.",
+  "periods": [
+    {
+      "start": "2006-12-29"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Rubió.svg",
+    "https://www.wikidata.org/wiki/Q15963",
+    "https://es.wikipedia.org/wiki/Rubió",
+    "https://ca.wikipedia.org/wiki/Rubió",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Rubió"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "purple",
+        "red",
+        "purple"
+      ],
+      "count": 3
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "position": "hoist",
+      "role": "fleur-de-lis above a crescent, attributes of the Virgin Mary"
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "hoist"
+    }
+  ]
+}
