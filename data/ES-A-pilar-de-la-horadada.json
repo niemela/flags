@@ -1,0 +1,61 @@
+{
+  "id": "ES-A-pilar-de-la-horadada",
+  "name": "Pilar de la Horadada (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q956513",
+    "ine": "03902"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Vertically divided red and green, with a yellow tower on the red and a white column bearing a red cross of Santiago on the green, the figures of the municipal arms of Pilar de la Horadada.",
+  "history": "The flag is a rectangle of proportions 2:3 parted per pale and contains the most representative elements and colours of the arms, red and green.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_del_Pilar_de_la_Horadada.svg",
+    "https://www.wikidata.org/wiki/Q956513",
+    "https://es.wikipedia.org/wiki/Pilar_de_la_Horadada",
+    "https://ca.wikipedia.org/wiki/El_Pilar_de_la_Foradada"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "tower"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "fly",
+      "role": "column with a red cross of Santiago"
+    }
+  ]
+}

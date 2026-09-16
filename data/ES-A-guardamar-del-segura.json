@@ -1,0 +1,74 @@
+{
+  "id": "ES-A-guardamar-del-segura",
+  "name": "Guardamar del Segura (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q927965",
+    "ine": "03076"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A narrow hoist stripe with four red bars on yellow, the fly blue charged with a yellow tower above white waves, the figures of the municipal arms of Guardamar del Segura.",
+  "history": "Municipal flag of Guardamar del Segura; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Guardamar_del_Segura.svg",
+    "https://www.wikidata.org/wiki/Q927965",
+    "https://es.wikipedia.org/wiki/Guardamar_del_Segura",
+    "https://ca.wikipedia.org/wiki/Guardamar_del_Segura"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "role": "Senyera stripe at the hoist",
+      "position": "hoist"
+    },
+    {
+      "type": "solid",
+      "color": "blue",
+      "position": "fly"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "tower"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "bottom"
+    }
+  ]
+}

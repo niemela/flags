@@ -1,0 +1,55 @@
+{
+  "id": "ES-A-daya-nueva",
+  "name": "Daya Nueva (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1752092",
+    "ine": "03061"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Yellow field charged at the centre with a lozenge bearing the Senyera between three green pears.",
+  "history": "The flag of Daia Nova is described as three parts long by two wide, in gold or yellow.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Daia_Nova.svg",
+    "https://www.wikidata.org/wiki/Q1752092",
+    "https://es.wikipedia.org/wiki/Daya_Nueva",
+    "https://ca.wikipedia.org/wiki/Daia_Nova"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "lozenge",
+      "color": "yellow",
+      "position": "center",
+      "role": "lozenge of the Senyera"
+    },
+    {
+      "type": "fruit",
+      "color": "green",
+      "position": "center",
+      "count": 3,
+      "role": "pears"
+    }
+  ]
+}

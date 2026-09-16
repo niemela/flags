@@ -1,0 +1,67 @@
+{
+  "id": "ES-A-castell-de-castells",
+  "name": "Castell de Castells (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1753070",
+    "ine": "03054"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertically divided white and black, with a red cross of Calatrava between two black shackles on the white and a yellow castle on the black.",
+  "history": "Municipal flag of Castell de Castells; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Castell_de_Castells.svg",
+    "https://www.wikidata.org/wiki/Q1753070",
+    "https://es.wikipedia.org/wiki/Castell_de_Castells",
+    "https://ca.wikipedia.org/wiki/Castell_de_Castells"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "black"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "cross of Calatrava"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "hoist",
+      "role": "two shackles"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "role": "castle"
+    }
+  ]
+}

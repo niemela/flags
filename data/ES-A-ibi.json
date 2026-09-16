@@ -1,0 +1,68 @@
+{
+  "id": "ES-A-ibi",
+  "name": "Ibi (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q530567",
+    "ine": "03079"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Vertically divided yellow and white, charged at the centre with two red towers flanking a lozenge of the Senyera, the figures of the municipal arms of Ibi.",
+  "history": "The flag of Ibi was recognised by resolution of the Conselleria de Justicia of 28 January 2003; the lozenge with the yellow and red bars symbolises its status as a royal town, as does the motto IBI REGII PATRIMONII of the arms.",
+  "periods": [
+    {
+      "start": "2003-01-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Ibi_Spain.svg",
+    "https://www.wikidata.org/wiki/Q530567",
+    "https://es.wikipedia.org/wiki/Ibi",
+    "https://ca.wikipedia.org/wiki/Ibi"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "center",
+      "count": 2,
+      "role": "two towers"
+    },
+    {
+      "type": "lozenge",
+      "color": "yellow",
+      "position": "center",
+      "role": "lozenge with the red bars of the Senyera"
+    }
+  ]
+}

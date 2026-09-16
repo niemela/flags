@@ -1,0 +1,72 @@
+{
+  "id": "ES-A-l-alqueria-d-asnar",
+  "name": "L'Alqueria d'Asnar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q621092",
+    "ine": "03017"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with a broad yellow panel at the centre bearing a green tree between two red lions, surrounded by twelve white castles on the blue border.",
+  "history": "Municipal flag of L'Alqueria d'Asnar; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_l'Alqueria_d'Asnar.svg",
+    "https://www.wikidata.org/wiki/Q621092",
+    "https://es.wikipedia.org/wiki/Alquería_de_Aznar",
+    "https://ca.wikipedia.org/wiki/L'Alqueria_d'Asnar"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "square",
+      "color": "yellow",
+      "position": "center",
+      "role": "central yellow panel"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center"
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "center",
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "top",
+      "count": 12,
+      "role": "castles around the border"
+    }
+  ]
+}

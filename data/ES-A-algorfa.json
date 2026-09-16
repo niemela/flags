@@ -1,0 +1,64 @@
+{
+  "id": "ES-A-algorfa",
+  "name": "Algorfa (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q954749",
+    "ine": "03012"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Vertically divided white and blue, with a red cross of Saint James on the white and a white castle on the blue, the figures of the municipal arms of Algorfa.",
+  "history": "The flag was approved by resolution of 27 April 2007, published in the DOCV; the arms had been approved by decree of 3 October 1957, and the cross recalls the Order of Santiago, to which Algorfa passed after the conquest.",
+  "periods": [
+    {
+      "start": "2007-04-27"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_d'Algorfa.svg",
+    "https://www.wikidata.org/wiki/Q954749",
+    "https://es.wikipedia.org/wiki/Algorfa",
+    "https://ca.wikipedia.org/wiki/Algorfa",
+    "https://ca.wikipedia.org/wiki/Bandera_d'Algorfa"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "cross of Saint James"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "fly",
+      "role": "castle"
+    }
+  ]
+}
