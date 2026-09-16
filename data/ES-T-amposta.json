@@ -1,0 +1,63 @@
+{
+  "id": "ES-T-amposta",
+  "name": "Amposta (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-T",
+  "codes": {
+    "wikidata": "Q477311",
+    "ine": "43014"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with a yellow pale of four red pales along the hoist, charged at the centre of the fly with a white Maltese cross.",
+  "history": "The official flag of Amposta is oblong, of proportions two high by three long, red, with a yellow pale charged with four red pales of thickness 3/11 of the length of the cloth at the hoist, and a white Maltese cross of 5/11 of the height. It was approved by the municipal council on 26 March 2007; its symbolism evokes the Hospitaller lordship over the town. Previously a white flag with a red cross patty, which did not accurately represent the cross of the Hospital, had been used.",
+  "periods": [
+    {
+      "start": "2007-03-26"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_d'Amposta.svg",
+    "https://www.wikidata.org/wiki/Q477311",
+    "https://es.wikipedia.org/wiki/Amposta",
+    "https://ca.wikipedia.org/wiki/Amposta",
+    "https://ca.wikipedia.org/wiki/Bandera_d'Amposta"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "pale of four red pales on yellow along the hoist"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "center",
+      "role": "Maltese cross"
+    }
+  ]
+}

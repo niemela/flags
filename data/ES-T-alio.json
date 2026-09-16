@@ -1,0 +1,67 @@
+{
+  "id": "ES-T-alio",
+  "name": "Alió (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-T",
+  "codes": {
+    "wikidata": "Q983582",
+    "ine": "43010"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Vertically divided white and yellow, the white charged with a light blue wing and the yellow with a black tau cross.",
+  "history": "The official flag of Alió is oblong, of proportions two high by three long, a vertical bicolour of white and yellow, with a light blue half-wing of height 5/6 of the cloth at the centre of the first half and a black tau on the second; published in the DOGC on 4 April 2002 and based on the arms of the town.",
+  "periods": [
+    {
+      "start": "2002"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_d'Alió.svg",
+    "https://www.wikidata.org/wiki/Q983582",
+    "https://es.wikipedia.org/wiki/Alió",
+    "https://ca.wikipedia.org/wiki/Alió",
+    "https://ca.wikipedia.org/wiki/Bandera_d'Alió"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "light-blue",
+      "position": "hoist",
+      "role": "wing (half vol) on the white"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "fly",
+      "role": "tau cross on the yellow"
+    }
+  ]
+}

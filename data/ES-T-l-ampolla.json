@@ -1,0 +1,50 @@
+{
+  "id": "ES-T-l-ampolla",
+  "name": "L'Ampolla (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-T",
+  "codes": {
+    "wikidata": "Q983572",
+    "ine": "43906"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided by a white band from the lower fly to the upper hoist, blue at the upper fly and green at the lower hoist.",
+  "history": "Municipal flag of L'Ampolla; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_l'Ampolla.svg",
+    "https://www.wikidata.org/wiki/Q983572",
+    "https://es.wikipedia.org/wiki/La_Ampolla",
+    "https://ca.wikipedia.org/wiki/L'Ampolla"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "green",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "band from the upper hoist to the lower fly"
+    }
+  ]
+}

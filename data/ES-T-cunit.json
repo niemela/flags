@@ -1,0 +1,79 @@
+{
+  "id": "ES-T-cunit",
+  "name": "Cunit (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-T",
+  "codes": {
+    "wikidata": "Q474489",
+    "ine": "43051"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A blue hoist third bearing a yellow palm tree, the fly of the four red bars of Aragon on yellow.",
+  "history": "The official flag of Cunit is oblong, of proportions two high by three long, divided vertically into two parts, the first at the hoist of 1/3 of the width blue, charged with a yellow palm tree of height 7/9 of the cloth, and the second with the four bars; published in the DOGC on 21 October 1991.",
+  "periods": [
+    {
+      "start": "1991"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Cunit.svg",
+    "https://www.wikidata.org/wiki/Q474489",
+    "https://es.wikipedia.org/wiki/Cunit",
+    "https://ca.wikipedia.org/wiki/Cunit",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Cunit"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "tree",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "palm tree"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "role": "four red bars on yellow (Senyera)",
+      "position": "fly"
+    }
+  ]
+}

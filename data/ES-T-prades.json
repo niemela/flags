@@ -1,0 +1,73 @@
+{
+  "id": "ES-T-prades",
+  "name": "Prades (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-T",
+  "codes": {
+    "wikidata": "Q1233494",
+    "ine": "43116"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "Divided per saltire, the upper and lower triangles yellow with four red pales and the hoist and fly triangles light blue strewn with yellow fleurs-de-lis.",
+  "history": "The official flag of Prades is oblong, of proportions two high by three long, quartered per saltire, the first and fourth yellow with four red pales, the second and third light blue strewn with yellow fleurs-de-lis of height 3/16 of the cloth; approved on 27 October 2000.",
+  "periods": [
+    {
+      "start": "2000-10-27"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Prades.svg",
+    "https://www.wikidata.org/wiki/Q1233494",
+    "https://es.wikipedia.org/wiki/Prades_(España)",
+    "https://ca.wikipedia.org/wiki/Prades",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Prades"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "four red pales in the upper and lower triangles"
+    },
+    {
+      "type": "triangle",
+      "color": "light-blue",
+      "position": "hoist",
+      "role": "hoist triangle strewn with fleurs-de-lis"
+    },
+    {
+      "type": "triangle",
+      "color": "light-blue",
+      "position": "fly",
+      "role": "fly triangle strewn with fleurs-de-lis"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 6,
+      "role": "fleurs-de-lis on the light blue triangles"
+    }
+  ]
+}

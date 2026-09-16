@@ -1,0 +1,57 @@
+{
+  "id": "ES-T-salou",
+  "name": "Salou (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-T",
+  "codes": {
+    "wikidata": "Q662789",
+    "ine": "43905"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with a yellow horizontal stripe near the lower edge, charged at the upper hoist with a white tower.",
+  "history": "Municipal flag of Salou; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Salou.svg",
+    "https://www.wikidata.org/wiki/Q662789",
+    "https://es.wikipedia.org/wiki/Salou",
+    "https://ca.wikipedia.org/wiki/Salou"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "horizontal stripe near the lower edge"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "canton",
+      "role": "tower at the upper hoist"
+    }
+  ]
+}

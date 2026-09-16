@@ -1,0 +1,61 @@
+{
+  "id": "ES-T-prat-de-comte",
+  "name": "Prat de Comte (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-T",
+  "codes": {
+    "wikidata": "Q1917483",
+    "ine": "43117"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Green field with a yellow horizontal stripe in the upper part and a white horizontal stripe in the lower part.",
+  "history": "The official flag of Prat de Comte is oblong, of proportions two high by three long, green, with an upper yellow fess and a lower white fess of thickness 1/6 of the height, set at 1/6 from the upper and lower edges respectively; the sun and the sheep of the arms have been transformed into the fesses of the flag.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Prat_de_Comte.svg",
+    "https://www.wikidata.org/wiki/Q1917483",
+    "https://es.wikipedia.org/wiki/Prat_de_Compte",
+    "https://ca.wikipedia.org/wiki/Prat_de_Comte",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Prat_de_Comte"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "fess of 1/6 set at 1/6 from the upper edge"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "fess of 1/6 set at 1/6 from the lower edge"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ES-T-riudoms",
+  "name": "Riudoms (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-T",
+  "codes": {
+    "wikidata": "Q679015",
+    "ine": "43129"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Horizontally divided by wavy lines, yellow above and green below, separated by a blue wavy stripe.",
+  "history": "Municipal flag of Riudoms; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Riudoms.svg",
+    "https://www.wikidata.org/wiki/Q679015",
+    "https://es.wikipedia.org/wiki/Riudoms",
+    "https://ca.wikipedia.org/wiki/Riudoms",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Riudoms"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2,
+      "role": "division by wavy lines"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "role": "wavy stripe between the yellow and the green"
+    }
+  ]
+}

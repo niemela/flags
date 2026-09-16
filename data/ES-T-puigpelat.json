@@ -1,0 +1,68 @@
+{
+  "id": "ES-T-puigpelat",
+  "name": "Puigpelat (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-T",
+  "codes": {
+    "wikidata": "Q983559",
+    "ine": "43119"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Red field with black stripes along the upper and lower edges, each edged with a thin white stripe, charged at the centre with a white Maltese cross.",
+  "history": "The official flag of Puigpelat is oblong, of proportions two high by three long, red, with a white Maltese cross of height 3/13 of the cloth at the centre, and two juxtaposed fesses above and below, one white of thickness 1/13 and one black; approved on 19 November 2007 and published in the DOGC on 4 December 2007, based on the arms.",
+  "periods": [
+    {
+      "start": "2007-11-19"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Puigpelat.svg",
+    "https://www.wikidata.org/wiki/Q983559",
+    "https://es.wikipedia.org/wiki/Puigpelat",
+    "https://ca.wikipedia.org/wiki/Puigpelat",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Puigpelat"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "white",
+        "red",
+        "white",
+        "black"
+      ],
+      "count": 5,
+      "widths": [
+        3,
+        1,
+        5,
+        1,
+        3
+      ]
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "center",
+      "role": "Maltese cross"
+    }
+  ]
+}

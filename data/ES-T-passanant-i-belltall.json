@@ -1,0 +1,74 @@
+{
+  "id": "ES-T-passanant-i-belltall",
+  "name": "Passanant i Belltall (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-T",
+  "codes": {
+    "wikidata": "Q1248489",
+    "ine": "43101"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field with the middle vertical third red charged with a white Maltese cross, and a red bar across each outer third.",
+  "history": "The official flag of Passanant i Belltall is oblong, of proportions two high by three long, white, with the second vertical third red charged with a white Maltese cross of width 1/5 of the length at the centre, and the other two thirds with a red bar; approved on 24 March 2009 and published in the DOGC on 21 April 2009, based on the arms of the town.",
+  "periods": [
+    {
+      "start": "2009-03-24"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Passanant_i_Belltall.svg",
+    "https://www.wikidata.org/wiki/Q1248489",
+    "https://es.wikipedia.org/wiki/Pasanant",
+    "https://ca.wikipedia.org/wiki/Passanant_i_Belltall",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Passanant_i_Belltall"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 3
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "center",
+      "role": "Maltese cross on the red third"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "short red bar on the hoist third"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "short red bar on the fly third"
+    }
+  ]
+}

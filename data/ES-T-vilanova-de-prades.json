@@ -1,0 +1,81 @@
+{
+  "id": "ES-T-vilanova-de-prades",
+  "name": "Vilanova de Prades (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-T",
+  "codes": {
+    "wikidata": "Q1233468",
+    "ine": "43168"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A white hoist stripe bearing a black castle, the fly divided per saltire with yellow and red pales above and below and light blue triangles strewn with fleurs-de-lis at the sides.",
+  "history": "The official flag of Vilanova de Prades is oblong, of proportions two high by three long, divided vertically into two parts, the first white at the hoist of width 1/4 with the black castle of the arms, the second quartered per saltire; the council began the adoption file on 31 May 2016, and the flag was approved on 11 April 2017 and published in the DOGC. It is based on the arms of the town.",
+  "periods": [
+    {
+      "start": "2017-04-11"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Vilanova_de_Prades.svg",
+    "https://www.wikidata.org/wiki/Q1233468",
+    "https://es.wikipedia.org/wiki/Vilanova_de_Prades",
+    "https://ca.wikipedia.org/wiki/Vilanova_de_Prades",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Vilanova_de_Prades"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        3
+      ]
+    },
+    {
+      "type": "building",
+      "color": "black",
+      "position": "hoist",
+      "role": "castle with white door and windows"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "fly",
+      "role": "four red pales in the upper and lower triangles of the fly"
+    },
+    {
+      "type": "triangle",
+      "color": "light-blue",
+      "position": "fly",
+      "count": 2,
+      "role": "triangles strewn with yellow fleurs-de-lis at the sides of the fly"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "ES-T-el-catllar",
+  "name": "El Catllar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-T",
+  "codes": {
+    "wikidata": "Q594741",
+    "ine": "43043"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Green field with a white cross throughout charged with a narrower red cross, itself charged with a thin white cross.",
+  "history": "The official flag of El Catllar is oblong, of proportions two high by three long, green, with three full crosses superimposed, white, red and white, of arms of thickness 3/9, 2/9 and 1/9 of the height of the cloth; published in the DOGC on 30 April 1999 and rectified on 6 February 2015.",
+  "periods": [
+    {
+      "start": "1999"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_del_Catllar.svg",
+    "https://www.wikidata.org/wiki/Q594741",
+    "https://es.wikipedia.org/wiki/Catllar",
+    "https://ca.wikipedia.org/wiki/El_Catllar",
+    "https://ca.wikipedia.org/wiki/Bandera_del_Catllar"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "cross": "white",
+      "position": "center",
+      "field": "green",
+      "role": "cross of 3/9 of the height"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "narrower cross of 2/9 over the white"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "thin cross of 1/9 over the red"
+    }
+  ]
+}

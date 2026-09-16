@@ -1,0 +1,62 @@
+{
+  "id": "ES-T-horta-de-sant-joan",
+  "name": "Horta de Sant Joan (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-T",
+  "codes": {
+    "wikidata": "Q603155",
+    "ine": "43071"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Dark green field charged with a large white fig leaf, with a white stripe along the fly bearing a red cross.",
+  "history": "Municipal flag of Horta de Sant Joan; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_d'Horta_de_Sant_Joan.svg",
+    "https://www.wikidata.org/wiki/Q603155",
+    "https://es.wikipedia.org/wiki/Horta_de_San_Juan",
+    "https://ca.wikipedia.org/wiki/Horta_de_Sant_Joan"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "leaf",
+      "color": "white",
+      "position": "hoist",
+      "role": "fig leaf"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "fly",
+      "role": "cross on the white fly stripe"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "ES-T-el-pont-d-armentera",
+  "name": "El Pont d'Armentera (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-T",
+  "codes": {
+    "wikidata": "Q983585",
+    "ine": "43113"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Light blue field with two yellow vertical stripes towards the hoist and the fly, charged at the centre with a yellow bridge of three arches beneath a yellow cross patty.",
+  "history": "The official flag of El Pont d'Armentera is oblong, of proportions two high by three long, light blue, with the yellow bridge of three arches of the arms, of height 5/12 and width 4/9 of the cloth, at the centre and at 1/6 from the lower edge, with a yellow Greek cross patty above; approved on 16 September 2005 and published in the DOGC on 20 October 2005.",
+  "periods": [
+    {
+      "start": "2005-09-16"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_del_Pont_d'Armentera.svg",
+    "https://www.wikidata.org/wiki/Q983585",
+    "https://es.wikipedia.org/wiki/Pont_de_Armentera",
+    "https://ca.wikipedia.org/wiki/El_Pont_d'Armentera",
+    "https://ca.wikipedia.org/wiki/Bandera_del_Pont_d'Armentera"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "vertical stripe towards the hoist"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "vertical stripe towards the fly"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "bridge of three arches"
+    },
+    {
+      "type": "greek-cross",
+      "color": "yellow",
+      "position": "top",
+      "role": "cross patty above the bridge"
+    }
+  ]
+}

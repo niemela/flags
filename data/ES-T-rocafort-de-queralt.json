@@ -1,0 +1,89 @@
+{
+  "id": "ES-T-rocafort-de-queralt",
+  "name": "Rocafort de Queralt (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-T",
+  "codes": {
+    "wikidata": "Q730040",
+    "ine": "43130"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A hoist third divided horizontally, red and white stripes above and chequy of yellow and black below, the fly dark blue charged with a yellow castle.",
+  "history": "The official flag of Rocafort de Queralt is oblong, of proportions two high by three long, dark blue in the second and third vertical thirds, with the yellow open castle of the arms of height 1/3 of the cloth; the municipal council approved the flag on 14 March 2002 after the favourable report of the Institut d'Estudis Catalans of 24 October 2001, and it was published in the DOGC on 29 October 2002.",
+  "periods": [
+    {
+      "start": "2002-03-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Rocafort_de_Queralt.svg",
+    "https://www.wikidata.org/wiki/Q730040",
+    "https://es.wikipedia.org/wiki/Rocafort_de_Queralt",
+    "https://ca.wikipedia.org/wiki/Rocafort_de_Queralt",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Rocafort_de_Queralt"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "navy"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 6,
+      "position": "hoist",
+      "role": "red and white stripes in the upper half of the hoist third"
+    },
+    {
+      "type": "chequy",
+      "field": "yellow",
+      "chequy": "black",
+      "position": "hoist",
+      "role": "chequy in the lower half of the hoist third"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "role": "open castle on the dark blue"
+    }
+  ]
+}

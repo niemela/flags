@@ -1,0 +1,69 @@
+{
+  "id": "ES-T-alcanar",
+  "name": "Alcanar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-T",
+  "codes": {
+    "wikidata": "Q987434",
+    "ine": "43004"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field charged with three dark green eradicated reeds, with a red stripe along the fly bearing a white Maltese cross.",
+  "history": "The official flag of Alcanar is oblong, of proportions two high by three long, white, with the three dark green eradicated reeds of the arms, the whole 21/28 of the height and 8/21 of the length of the cloth; approved by the Generalitat on 24 March 2014 and published in the DOGC on 3 April 2014.",
+  "periods": [
+    {
+      "start": "2014-03-24"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Alcanar.svg",
+    "https://www.wikidata.org/wiki/Q987434",
+    "https://es.wikipedia.org/wiki/Alcanar",
+    "https://ca.wikipedia.org/wiki/Alcanar",
+    "https://ca.wikipedia.org/wiki/Bandera_d'Alcanar"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        5,
+        1
+      ]
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "center",
+      "count": 3,
+      "role": "three eradicated reeds"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "fly",
+      "role": "Maltese cross on the red fly stripe"
+    }
+  ]
+}
