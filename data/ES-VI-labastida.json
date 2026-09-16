@@ -1,0 +1,59 @@
+{
+  "id": "ES-VI-labastida",
+  "name": "Labastida (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VI",
+  "codes": {
+    "wikidata": "Q1155351",
+    "ine": "01028"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square flag of sixty-four squares each divided diagonally into green, white and yellow triangles, over all a red saltire.",
+  "history": "The flag is square, of proportion 1:1, formed of sixty-four equal squares divided per bend and per bend sinister alternately.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_labastida.svg",
+    "https://www.wikidata.org/wiki/Q1155351",
+    "https://es.wikipedia.org/wiki/Labastida",
+    "https://eu.wikipedia.org/wiki/Bastida_(Araba)"
+  ],
+  "features": [
+    {
+      "type": "chequy",
+      "field": "green",
+      "chequy": "yellow",
+      "role": "sixty-four squares each divided per bend and per bend sinister alternately into green, white and yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "white triangles of the squares"
+    },
+    {
+      "type": "saltire",
+      "color": "red",
+      "position": "center",
+      "role": "saltire over all"
+    }
+  ]
+}
