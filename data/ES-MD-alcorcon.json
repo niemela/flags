@@ -1,0 +1,71 @@
+{
+  "id": "ES-MD-alcorcon",
+  "name": "Alcorcón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-MD",
+  "codes": {
+    "wikidata": "Q10372",
+    "ine": "28007"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "status": "de-facto",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with a green stripe along the fly, charged towards the hoist with the crowned municipal arms of Alcorcón (three cauldrons on red above a green mount).",
+  "history": "The official flag is described as square, gyronny at the hoist of yellow, red and green, charged with the municipal arms; although two official versions of the arms and flag exist, the town council of Alcorcón uses simpler alternative versions such as this one.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Alcorcón.svg",
+    "https://www.wikidata.org/wiki/Q10372",
+    "https://es.wikipedia.org/wiki/Alcorcón",
+    "https://es.wikipedia.org/wiki/Bandera_de_Alcorcón"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Alcorcón arms — three cauldrons on red above a green mount"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "cauldrons and crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "white of the arms"
+    }
+  ]
+}

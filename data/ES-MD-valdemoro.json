@@ -1,0 +1,76 @@
+{
+  "id": "ES-MD-valdemoro",
+  "name": "Valdemoro (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-MD",
+  "codes": {
+    "wikidata": "Q840373",
+    "ine": "28161"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "White field with a broad diagonal band of green and red from the lower hoist to the upper fly, charged at the centre with the crowned municipal arms of Valdemoro (a tower on blue and a figure, with the words VAL DE MORO).",
+  "history": "Municipal flag of Valdemoro; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Valdemoro.svg",
+    "https://www.wikidata.org/wiki/Q840373",
+    "https://es.wikipedia.org/wiki/Valdemoro"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "green",
+      "position": "center",
+      "role": "green upper half of the band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "red lower half of the band"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Valdemoro arms — tower on blue and figure, with the words VAL DE MORO"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "blue field of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crown of the arms"
+    }
+  ]
+}

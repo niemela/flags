@@ -1,0 +1,63 @@
+{
+  "id": "ES-MD-pradena-del-rincon",
+  "name": "Prádena del Rincón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-MD",
+  "codes": {
+    "wikidata": "Q2046216",
+    "ine": "28117"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, green above and red below, charged at the centre with the crowned municipal arms of Prádena del Rincón (a tree and a bull on green and a cross on yellow).",
+  "history": "Municipal flag of Prádena del Rincón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Prádena_del_Rincón.svg",
+    "https://www.wikidata.org/wiki/Q2046216",
+    "https://es.wikipedia.org/wiki/Prádena_del_Rincón"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Prádena del Rincón arms — tree and bull on green, cross on yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "yellow field and crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "bull of the arms"
+    }
+  ]
+}

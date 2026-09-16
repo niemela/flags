@@ -1,0 +1,50 @@
+{
+  "id": "ES-MD-meco",
+  "name": "Meco (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-MD",
+  "codes": {
+    "wikidata": "Q1646210",
+    "ine": "28083"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, red above and yellow below, charged at the centre with the crowned municipal arms of Meco (a sword between roundels on red).",
+  "history": "The flag of Meco, approved in the Boletín Oficial de la Comunidad de Madrid of 19 October 1985, is divided diagonally through the middle into two parts, the upper gules (red) and the lower gold (yellow).",
+  "periods": [
+    {
+      "start": "1985"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Meco.svg",
+    "https://www.wikidata.org/wiki/Q1646210",
+    "https://es.wikipedia.org/wiki/Meco_(Madrid)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "yellow",
+      "direction": "bend"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Meco arms — sword between roundels on red"
+    }
+  ]
+}

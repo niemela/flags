@@ -1,0 +1,65 @@
+{
+  "id": "ES-MD-la-cabrera",
+  "name": "La Cabrera (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-MD",
+  "codes": {
+    "wikidata": "Q509056",
+    "ine": "28030"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Yellow field with a green saltire charged with red stripes, with two black goats rampant at the hoist and the fly.",
+  "history": "Municipal flag of La Cabrera; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_La_Cabrera.svg",
+    "https://www.wikidata.org/wiki/Q509056",
+    "https://es.wikipedia.org/wiki/La_Cabrera_(Madrid)"
+  ],
+  "features": [
+    {
+      "type": "saltire",
+      "color": "green",
+      "position": "center",
+      "field": "yellow",
+      "role": "saltire charged with a red stripe along each arm"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "stripes along the arms of the saltire"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "hoist",
+      "role": "goat rampant at the hoist"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "fly",
+      "role": "goat rampant at the fly"
+    }
+  ]
+}

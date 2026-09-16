@@ -1,0 +1,68 @@
+{
+  "id": "ES-MD-el-alamo",
+  "name": "El Álamo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-MD",
+  "codes": {
+    "wikidata": "Q1984836",
+    "ine": "28004"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, green at the hoist and white at the fly, charged at the centre with the crowned municipal arms of El Álamo (a stone cross on steps between two poplars on white).",
+  "history": "El Álamo adopted its arms and flag officially on 20 May 1993, published in the Boletín Oficial del Estado on 16 June 1993; the flag is of proportion 2:3, divided diagonally from the lower hoist corner to the upper fly, green at the hoist and white opposite.",
+  "periods": [
+    {
+      "start": "1993-05-20"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_El_Álamo.svg",
+    "https://www.wikidata.org/wiki/Q1984836",
+    "https://es.wikipedia.org/wiki/El_Álamo_(Comunidad_de_Madrid)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "white",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "El Álamo arms — stone cross on steps between two poplars on white"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "grey",
+      "position": "center",
+      "role": "stone cross of the arms"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "ES-MD-las-rozas-de-madrid",
+  "name": "Las Rozas de Madrid (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-MD",
+  "codes": {
+    "wikidata": "Q592747",
+    "ine": "28127"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with a fly stripe of white, yellow and red, the white charged with a stylised blue bird.",
+  "history": "Municipal flag of Las Rozas de Madrid; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Las_Rozas.svg",
+    "https://www.wikidata.org/wiki/Q592747",
+    "https://es.wikipedia.org/wiki/Las_Rozas_de_Madrid",
+    "https://es.wikipedia.org/wiki/Bandera_de_Las_Rozas_de_Madrid"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        5,
+        1
+      ]
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "stripes of white, yellow and red along the fly"
+    },
+    {
+      "type": "bird",
+      "color": "blue",
+      "position": "fly",
+      "role": "stylised bird on the white stripe"
+    }
+  ]
+}

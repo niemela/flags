@@ -1,0 +1,63 @@
+{
+  "id": "ES-MD-hoyo-de-manzanares",
+  "name": "Hoyo de Manzanares (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-MD",
+  "codes": {
+    "wikidata": "Q664769",
+    "ine": "28072"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided by a broad yellow band from the lower hoist to the upper fly, green above and red below, charged at the centre with the crowned municipal arms of Hoyo de Manzanares (mountains on white and a tree on yellow).",
+  "history": "Municipal flag of Hoyo de Manzanares; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Hoyo_de_Manzanares.svg",
+    "https://www.wikidata.org/wiki/Q664769",
+    "https://es.wikipedia.org/wiki/Hoyo_de_Manzanares"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "role": "broad band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Hoyo de Manzanares arms — mountains on white and tree on yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "white field of the arms"
+    }
+  ]
+}

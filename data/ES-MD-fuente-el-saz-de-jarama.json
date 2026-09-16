@@ -1,0 +1,72 @@
+{
+  "id": "ES-MD-fuente-el-saz-de-jarama",
+  "name": "Fuente el Saz de Jarama (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-MD",
+  "codes": {
+    "wikidata": "Q770809",
+    "ine": "28059"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided diagonally from the upper fly to the lower hoist, blue above with the crowned municipal arms of Fuente el Saz de Jarama and white below with a yellow figure of the Virgin.",
+  "history": "Municipal flag of Fuente el Saz de Jarama; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Fuente_el_Saz.svg",
+    "https://www.wikidata.org/wiki/Q770809",
+    "https://es.wikipedia.org/wiki/Fuente_el_Saz_de_Jarama"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "white",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "canton",
+      "role": "Fuente el Saz de Jarama arms — willow tree above waves on white"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "fly",
+      "role": "figure of the Virgin at the lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "canton",
+      "role": "willow of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "fly",
+      "role": "outlines of the figure"
+    }
+  ]
+}
