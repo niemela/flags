@@ -1,0 +1,58 @@
+{
+  "id": "ES-AV-velayos",
+  "name": "Velayos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q1630403",
+    "ine": "05254"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertically divided, the hoist red with a yellow tower, the fly chequy of red and white.",
+  "history": "Municipal flag of Velayos; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Velayos.svg",
+    "https://www.wikidata.org/wiki/Q1630403",
+    "https://es.wikipedia.org/wiki/Velayos_(Ávila)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "tower"
+    },
+    {
+      "type": "chequy",
+      "field": "red",
+      "chequy": "white",
+      "position": "fly",
+      "role": "chequy fly half"
+    }
+  ]
+}

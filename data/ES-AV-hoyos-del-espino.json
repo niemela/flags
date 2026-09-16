@@ -1,0 +1,69 @@
+{
+  "id": "ES-AV-hoyos-del-espino",
+  "name": "Hoyos del Espino (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q1632480",
+    "ine": "05105"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Tierced and indented at the hoist, red with three yellow wheels, the fly yellow with a green pine and a white saw.",
+  "history": "The arms and the flag were approved officially on 30 June 2005 (Boletín Oficial de Castilla y León no. 141 of 21 July 2005); the flag is of 2:3, tierced and indented at the hoist, red with three yellow wheels, the fly yellow with a green pine overlaid by a white saw.",
+  "periods": [
+    {
+      "start": "2005-06-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Hoyos_del_Espino.svg",
+    "https://www.wikidata.org/wiki/Q1632480",
+    "https://es.wikipedia.org/wiki/Hoyos_del_Espino"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "wheel",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 3
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "fly",
+      "role": "pine with a white saw across its trunk"
+    }
+  ]
+}

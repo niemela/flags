@@ -1,0 +1,69 @@
+{
+  "id": "ES-AV-la-colilla",
+  "name": "La Colilla (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q1632389",
+    "ine": "05061"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Tierced at the hoist, red with a white indented stripe, the fly red with six yellow rocks surmounted by a white star.",
+  "history": "The arms and the flag were approved officially on 12 March 2003 (Boletín Oficial de Castilla y León no. 60 of 28 March 2003); the fly bears on red six yellow rocks surmounted by a white five-pointed star, the hoist tierced red with a white indented stripe.",
+  "periods": [
+    {
+      "start": "2003-03-12"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_La_Colilla.svg",
+    "https://www.wikidata.org/wiki/Q1632389",
+    "https://es.wikipedia.org/wiki/La_Colilla"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "white indented stripe at the hoist"
+    },
+    {
+      "type": "mountain",
+      "color": "yellow",
+      "position": "fly",
+      "count": 6,
+      "role": "six rocks"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "fly"
+    }
+  ]
+}

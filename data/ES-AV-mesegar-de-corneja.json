@@ -1,0 +1,75 @@
+{
+  "id": "ES-AV-mesegar-de-corneja",
+  "name": "Mesegar de Corneja (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q784095",
+    "ine": "05126"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Tierced at the hoist, blue with a white monogram of Mary between two yellow crowns, the fly red with a yellow sheaf of wheat between two white episcopal croziers.",
+  "history": "The arms and the flag were approved officially on 26 January 2011 (Boletín Oficial de la Provincia de Ávila no. 56 of 22 March 2011); the flag is of 2:3, tierced at the hoist, the red fly bearing a yellow sheaf of wheat accompanied by two white episcopal croziers.",
+  "periods": [
+    {
+      "start": "2011-01-26"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Mesegar_de_Corneja.svg",
+    "https://www.wikidata.org/wiki/Q784095",
+    "https://es.wikipedia.org/wiki/Mesegar_de_Corneja"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "monogram of Mary between two yellow crowns"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "fly",
+      "role": "sheaf of wheat"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "fly",
+      "role": "two episcopal croziers"
+    }
+  ]
+}

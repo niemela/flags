@@ -1,0 +1,72 @@
+{
+  "id": "ES-AV-medinilla",
+  "name": "Medinilla (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q1449963",
+    "ine": "05124"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A blue hoist stripe with five yellow bees, the fly white bearing a panel divided yellow over green with green mountains and framed by a black chain.",
+  "history": "Municipal flag of Medinilla; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Medinilla.svg",
+    "https://www.wikidata.org/wiki/Q1449963",
+    "https://es.wikipedia.org/wiki/Medinilla"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "five bees on the hoist stripe"
+    },
+    {
+      "type": "square",
+      "color": "yellow",
+      "position": "fly",
+      "role": "panel yellow above green mountains framed by a black chain"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "fly"
+    }
+  ]
+}

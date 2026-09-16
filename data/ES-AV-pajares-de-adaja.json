@@ -1,0 +1,67 @@
+{
+  "id": "ES-AV-pajares-de-adaja",
+  "name": "Pajares de Adaja (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q1632431",
+    "ine": "05177"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field with a blue wavy diagonal stripe from the upper hoist to the lower fly, a red thatched barn in the fly triangle and three green ears of wheat in the hoist triangle.",
+  "history": "The arms and the flag were approved on 22 May 2004 (Boletín Oficial de Castilla y León no. 134 of 14 July 2004); the flag is rectangular of 2:3, white, with a blue wavy stripe one sixth of the width from the upper hoist to the lower fly, the fly triangle charged with a red barn and the hoist triangle with three green ears of wheat.",
+  "periods": [
+    {
+      "start": "2004-05-22"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Pajares_de_Adaja.svg",
+    "https://www.wikidata.org/wiki/Q1632431",
+    "https://es.wikipedia.org/wiki/Pajares_de_Adaja"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "role": "wavy diagonal stripe from the upper hoist to the lower fly"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "fly",
+      "role": "thatched barn (pajar)"
+    },
+    {
+      "type": "wheat",
+      "color": "green",
+      "position": "hoist",
+      "count": 3
+    }
+  ]
+}

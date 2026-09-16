@@ -1,0 +1,77 @@
+{
+  "id": "ES-AV-santo-tome-de-zabarcos",
+  "name": "Santo Tomé de Zabarcos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q749685",
+    "ine": "05230"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A green hoist third bearing three yellow ears of wheat, the fly compony of red and white in four squares, the red squares charged with yellow towers.",
+  "history": "The arms and the flag were approved officially on 3 June 2005 (Boletín Oficial de Castilla y León no. 139 of 19 July 2005); the flag is of dimensions 2:3, tierced at the hoist in green with three ears of wheat, the fly compony of red and white with the red squares charged with a yellow tower.",
+  "periods": [
+    {
+      "start": "2005-06-03"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Santo_Tomé_de_Zabarcos.svg",
+    "https://www.wikidata.org/wiki/Q749685",
+    "https://es.wikipedia.org/wiki/Santo_Tomé_de_Zabarcos"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 3
+    },
+    {
+      "type": "chequy",
+      "field": "white",
+      "chequy": "red",
+      "position": "fly",
+      "role": "fly compony of red and white with yellow towers on the red"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "count": 2,
+      "role": "towers"
+    }
+  ]
+}

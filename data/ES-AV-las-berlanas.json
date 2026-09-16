@@ -1,0 +1,51 @@
+{
+  "id": "ES-AV-las-berlanas",
+  "name": "Las Berlanas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q1632805",
+    "ine": "05027"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square red flag with a white cross throughout, cantoned by four yellow towers.",
+  "history": "Municipal flag of Las Berlanas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Las_Berlanas.svg",
+    "https://www.wikidata.org/wiki/Q1632805",
+    "https://es.wikipedia.org/wiki/Las_Berlanas"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "cross": "white",
+      "position": "center",
+      "field": "red",
+      "role": "cross throughout"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 4,
+      "role": "towers in the four cantons"
+    }
+  ]
+}

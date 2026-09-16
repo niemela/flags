@@ -1,0 +1,56 @@
+{
+  "id": "ES-AV-narros-del-puerto",
+  "name": "Narros del Puerto (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q1606774",
+    "ine": "05148"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field with a white panel bordered by a yellow chain, bearing three green mountains.",
+  "history": "Municipal flag of Narros del Puerto; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_NarrosDelPuerto.svg",
+    "https://www.wikidata.org/wiki/Q1606774",
+    "https://es.wikipedia.org/wiki/Narros_del_Puerto"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "square",
+      "color": "white",
+      "position": "center",
+      "role": "white panel framed by a yellow chain"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "bottom",
+      "count": 3
+    }
+  ]
+}

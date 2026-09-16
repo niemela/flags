@@ -1,0 +1,78 @@
+{
+  "id": "ES-AV-collado-del-miron",
+  "name": "Collado del Mirón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q1607852",
+    "ine": "05063"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A hoist third chequy of blue and white, the fly red with a yellow tree rising between green mountains.",
+  "history": "The arms and the flag were approved officially on 16 December 2009 (Boletín Oficial de Castilla y León no. 244 of 21 December 2010); the flag is of dimensions 2:3, tierced at the hoist and indented horizontally at the fly.",
+  "periods": [
+    {
+      "start": "2009-12-16"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Collado_del_Miron.svg",
+    "https://www.wikidata.org/wiki/Q1607852",
+    "https://es.wikipedia.org/wiki/Collado_del_Mirón"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "chequy",
+      "field": "blue",
+      "chequy": "white",
+      "position": "hoist",
+      "role": "chequy hoist third"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "fly",
+      "role": "mountains at the base of the fly"
+    },
+    {
+      "type": "tree",
+      "color": "yellow",
+      "position": "fly"
+    }
+  ]
+}

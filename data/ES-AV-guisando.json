@@ -1,0 +1,58 @@
+{
+  "id": "ES-AV-guisando",
+  "name": "Guisando (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q1450130",
+    "ine": "05089"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Red field with a white triangle based on the hoist and pointing to the centre, bearing a green chestnut tree.",
+  "history": "The arms and the flag were approved officially on 30 January 2001 (Boletín Oficial de Castilla y León no. 34 of 16 February 2001); the flag is rectangular of 2:3, a red cloth with a white triangle bearing a green chestnut, its vertices at the ends of the staff and at the centre of the flag.",
+  "periods": [
+    {
+      "start": "2001-01-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Guisando_(Ávila).svg",
+    "https://www.wikidata.org/wiki/Q1450130",
+    "https://es.wikipedia.org/wiki/Guisando"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "triangle from the hoist to the centre"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist",
+      "role": "chestnut tree"
+    }
+  ]
+}

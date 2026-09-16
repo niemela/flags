@@ -1,0 +1,61 @@
+{
+  "id": "ES-AV-villatoro",
+  "name": "Villatoro (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q1630428",
+    "ine": "05263"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Two equal vertical stripes joined by an embattled line, white at the hoist with two red boars and red at the fly with an open white book bearing the date 1503.",
+  "history": "The arms and the flag were approved officially on 26 June 2001 (Boletín Oficial de Castilla y León no. 144 of 25 July 2001); the flag is rectangular of 2:3, formed of two equal interlocked vertical stripes, white at the hoist with two red boars and red with an open white book.",
+  "periods": [
+    {
+      "start": "2001-06-26"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villatoro.svg",
+    "https://www.wikidata.org/wiki/Q1630428",
+    "https://es.wikipedia.org/wiki/Villatoro_(Ávila)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "role": "embattled division"
+    },
+    {
+      "type": "animal-other",
+      "color": "red",
+      "position": "hoist",
+      "count": 2,
+      "role": "two boars (verracos)"
+    },
+    {
+      "type": "book",
+      "color": "white",
+      "position": "fly",
+      "role": "open book with the date 1503"
+    }
+  ]
+}

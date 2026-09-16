@@ -1,0 +1,68 @@
+{
+  "id": "ES-AV-solosancho",
+  "name": "Solosancho (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q1610933",
+    "ine": "05238"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontally divided green over red, with a white vertical stripe one third of the length at the hoist bearing a red castle.",
+  "history": "The arms and the flag were approved on 24 November 1997 (Boletín Oficial del Estado no. 307 of 24 December 1997); the flag is rectangular of 2:3, formed of two equal horizontal stripes, green above and red below, and a white vertical stripe of one third of the flag next to the staff bearing a red castle.",
+  "periods": [
+    {
+      "start": "1997-11-24"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Solosancho.svg",
+    "https://www.wikidata.org/wiki/Q1610933",
+    "https://es.wikipedia.org/wiki/Solosancho"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "widths": [
+        1
+      ],
+      "role": "hoist stripe one third of the length"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "hoist",
+      "role": "castle"
+    }
+  ]
+}

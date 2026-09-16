@@ -1,0 +1,60 @@
+{
+  "id": "ES-AV-becedillas",
+  "name": "Becedillas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q1606676",
+    "ine": "05025"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square flag divided vertically blue and red, with a white bull's head and a bird on the blue and a yellow crozier on the red.",
+  "history": "Municipal flag of Becedillas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Becedillas.svg",
+    "https://www.wikidata.org/wiki/Q1606676",
+    "https://es.wikipedia.org/wiki/Becedillas"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "hoist",
+      "role": "bull's head with a bird above"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "fly",
+      "role": "crozier"
+    }
+  ]
+}

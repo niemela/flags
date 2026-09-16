@@ -1,0 +1,75 @@
+{
+  "id": "ES-AV-villanueva-de-gomez",
+  "name": "Villanueva de Gómez (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q664700",
+    "ine": "05258"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue hoist third bearing a pair of white shears between two yellow bells, the fly green with a yellow shield charged with blue roundels laid over a white sword.",
+  "history": "The descriptions of the arms and the flag were approved officially on 3 April 2008 (Boletín Oficial de Castilla y León no. 8 of 14 January 2009); the flag is of dimensions 2:3, tierced at the hoist.",
+  "periods": [
+    {
+      "start": "2008-04-03"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villanueva_de_Gómez.svg",
+    "https://www.wikidata.org/wiki/Q664700",
+    "https://es.wikipedia.org/wiki/Villanueva_de_Gómez"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "open shears between two yellow bells"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "two bells"
+    },
+    {
+      "type": "shield",
+      "color": "yellow",
+      "position": "fly",
+      "role": "shield with blue roundels over a white sword"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "ES-AV-san-lorenzo-de-tormes",
+  "name": "San Lorenzo de Tormes (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q1606412",
+    "ine": "05214"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red hoist third bearing a yellow gridiron, the fly white with a blue horizontal stripe through the centre.",
+  "history": "The arms and the flag were approved officially on 10 May 2007 (Boletín Oficial de Castilla y León no. 98 of 22 May 2007); the arms show a gold gridiron between two palms on red above a wavy fess of white and blue.",
+  "periods": [
+    {
+      "start": "2007-05-10"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_San_Lorenzo_de_Tormes.svg",
+    "https://www.wikidata.org/wiki/Q1606412",
+    "https://es.wikipedia.org/wiki/San_Lorenzo_de_Tormes"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "gridiron of Saint Lawrence"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "central blue stripe on the white fly"
+    }
+  ]
+}

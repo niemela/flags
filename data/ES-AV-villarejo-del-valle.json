@@ -1,0 +1,71 @@
+{
+  "id": "ES-AV-villarejo-del-valle",
+  "name": "Villarejo del Valle (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q1630412",
+    "ine": "05262"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "purple"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A purple hoist third with a white column, indented at its fly edge, the fly divided horizontally white over green.",
+  "history": "The flag was approved officially on the same day as the blazon of the arms (Boletín Oficial de Castilla y León no. 171 of 4 September 2002); the arms show a bunch of grapes between chestnut and olive branches on green.",
+  "periods": [
+    {
+      "start": "2002-09-04"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villarejo_del_Valle.svg",
+    "https://www.wikidata.org/wiki/Q1630412",
+    "https://es.wikipedia.org/wiki/Villarejo_del_Valle"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "purple",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "role": "hoist third indented at its edge"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "column (rollo)"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "fly divided white over green"
+    }
+  ]
+}

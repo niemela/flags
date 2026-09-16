@@ -1,0 +1,65 @@
+{
+  "id": "ES-AV-diego-del-carpio",
+  "name": "Diego del Carpio (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q1618210",
+    "ine": "05903"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertically divided at a third from the hoist, red with three yellow crowns and white with the crowned municipal arms of Diego del Carpio (a bend on red) at the centre of the fly.",
+  "history": "The flag is described as rectangular of 1:2, parted at a third from the staff, red at the hoist with three gold crowns and white at the fly with the municipal arms at its centre (Boletín Oficial de Castilla y León no. 161 of 20 August 2001).",
+  "periods": [
+    {
+      "start": "2001-08-20"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Diego_del_Carpio.svg",
+    "https://www.wikidata.org/wiki/Q1618210",
+    "https://es.wikipedia.org/wiki/Diego_del_Carpio"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 3
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "fly",
+      "role": "Diego del Carpio arms — bend on red"
+    }
+  ]
+}

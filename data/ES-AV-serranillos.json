@@ -1,0 +1,60 @@
+{
+  "id": "ES-AV-serranillos",
+  "name": "Serranillos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q766377",
+    "ine": "05233"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided by two lines from the lower hoist corner to the middle of the upper edge and to the middle of the fly, white above, green in the centre and yellow below.",
+  "history": "The flag description was published in the Boletín Oficial de Castilla y León no. 149 of 6 August 1997: a rectangular flag of 2:3 formed of two triangles sharing a vertex at the lower hoist corner, the other vertices at the centre of the upper edge and the centre of the fly.",
+  "periods": [
+    {
+      "start": "1997-08-06"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Serranillos.svg",
+    "https://www.wikidata.org/wiki/Q766377",
+    "https://es.wikipedia.org/wiki/Serranillos"
+  ],
+  "features": [
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "center",
+      "role": "triangle from the lower hoist to the middle of the upper edge and the middle of the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "top",
+      "role": "upper hoist triangle"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "lower triangle"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "ES-AV-mamblas",
+  "name": "Mamblas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q1632369",
+    "ine": "05117"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Red field with a white triangle from the hoist to the middle of the fly, bearing three blue wavy stripes.",
+  "history": "The arms and the flag were approved officially on 28 January 2005 (Boletín Oficial de Castilla y León no. 237 of 12 December 2005); the flag is rectangular of 2:3, a red cloth with a white triangle bearing three blue wavy stripes, its vertices at the ends of the staff and at the midpoint of the fly.",
+  "periods": [
+    {
+      "start": "2005-01-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Mamblas.svg",
+    "https://www.wikidata.org/wiki/Q1632369",
+    "https://es.wikipedia.org/wiki/Mamblas"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "triangle from the hoist to the middle of the fly"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "hoist",
+      "role": "three wavy stripes on the triangle"
+    }
+  ]
+}

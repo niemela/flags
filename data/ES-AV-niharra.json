@@ -1,0 +1,65 @@
+{
+  "id": "ES-AV-niharra",
+  "name": "Niharra (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q1632453",
+    "ine": "05172"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square flag, the upper two thirds blue within a yellow frame and the lower third white, charged with the crowned municipal arms of Niharra (a bird on blue above a stone wall on white).",
+  "history": "The arms and the flag were approved officially on 6 May 1997 (Boletín Oficial de Castilla y León no. 109 of 10 June 1997); the flag is described as square.",
+  "periods": [
+    {
+      "start": "1997-05-06"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Niharra.svg",
+    "https://www.wikidata.org/wiki/Q1632453",
+    "https://es.wikipedia.org/wiki/Niharra"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "border",
+      "color": "yellow",
+      "position": "top",
+      "role": "yellow frame around the blue panel"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Niharra arms — bird above a stone wall"
+    }
+  ]
+}

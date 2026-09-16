@@ -1,0 +1,76 @@
+{
+  "id": "ES-AV-berrocalejo-de-aragona",
+  "name": "Berrocalejo de Aragona (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q1601818",
+    "ine": "05030"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square flag divided vertically, the hoist blue with a white Romanesque arch, the fly yellow with four vertical red bars.",
+  "history": "The flag is described as a cloth of proportions 1:1 parted per pale, the hoist rectangle blue charged with a silver Romanesque arch and the fly rectangle gold with four vertical red bars alternating with the gold of the cloth (Boletín Oficial de la Provincia de Ávila, 5 December 2018).",
+  "periods": [
+    {
+      "start": "2018-12-05"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Berrocalejo_de_Aragona.svg",
+    "https://www.wikidata.org/wiki/Q1601818",
+    "https://es.wikipedia.org/wiki/Berrocalejo_de_Aragona"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "Romanesque arch"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "fly",
+      "role": "four red pales on yellow"
+    }
+  ]
+}

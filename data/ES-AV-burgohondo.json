@@ -1,0 +1,50 @@
+{
+  "id": "ES-AV-burgohondo",
+  "name": "Burgohondo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AV",
+  "codes": {
+    "wikidata": "Q1601831",
+    "ine": "05041"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square flag divided diagonally from the upper fly, blue above and yellow below, charged at the centre with the crowned municipal arms of Burgohondo (a church, roundels and a bridge).",
+  "history": "The arms and the flag were approved officially on 25 March 1999 (Boletín Oficial de Castilla y León no. 67 of 12 April 1999); the flag is described as square, in blue and gold divided diagonally, with the arms of Burgohondo at the centre.",
+  "periods": [
+    {
+      "start": "1999-03-25"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Burgohondo.svg",
+    "https://www.wikidata.org/wiki/Q1601831",
+    "https://es.wikipedia.org/wiki/Burgohondo"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "yellow",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Burgohondo arms — church, roundels and bridge"
+    }
+  ]
+}
