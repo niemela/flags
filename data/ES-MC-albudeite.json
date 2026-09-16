@@ -1,0 +1,59 @@
+{
+  "id": "ES-MC-albudeite",
+  "name": "Albudeite (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-MC",
+  "codes": {
+    "wikidata": "Q1769962",
+    "ine": "30004"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Yellow field charged at the centre with a red castle between two black wolves.",
+  "history": "The arms and flag of Albudeite were officially approved by decree 283/2006 of 15 December.",
+  "periods": [
+    {
+      "start": "2006-12-15"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Albudeite.svg",
+    "https://www.wikidata.org/wiki/Q1769962",
+    "https://es.wikipedia.org/wiki/Albudeite"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "center",
+      "role": "castle with three towers"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "center",
+      "count": 2,
+      "role": "two wolves passant flanking the castle"
+    }
+  ]
+}

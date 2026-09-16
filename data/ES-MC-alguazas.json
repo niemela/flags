@@ -1,0 +1,65 @@
+{
+  "id": "ES-MC-alguazas",
+  "name": "Alguazas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-MC",
+  "codes": {
+    "wikidata": "Q1770951",
+    "ine": "30007"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal tricolour of red, sky blue and green with the central stripe twice as wide as the others, charged at the centre with the arms of Alguazas (a tower on blue with the motto, within an ornate frame).",
+  "history": "The upper stripe is red, the central sky blue and the lower flag green, so that the central stripe is twice as wide as each of the other two.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Alguazas_(Murcia).svg",
+    "https://www.wikidata.org/wiki/Q1770951",
+    "https://es.wikipedia.org/wiki/Alguazas"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "light-blue",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Alguazas arms — tower on blue with motto within an ornate frame"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "frame of the arms"
+    }
+  ]
+}
