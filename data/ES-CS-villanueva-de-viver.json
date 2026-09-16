@@ -1,0 +1,66 @@
+{
+  "id": "ES-CS-villanueva-de-viver",
+  "name": "Villanueva de Viver (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1646187",
+    "ine": "12133"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, white above with a row of white houses and green below with a yellow crown.",
+  "history": "Municipal flag of Villanueva de Viver; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villanueva_de_Viver.svg",
+    "https://www.wikidata.org/wiki/Q1646187",
+    "https://es.wikipedia.org/wiki/Villanueva_de_Viver",
+    "https://ca.wikipedia.org/wiki/Vilanova_de_Viver",
+    "https://ca.wikipedia.org/wiki/Escut_i_bandera_de_Vilanova_de_Viver"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "green",
+      "direction": "bend"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "fly",
+      "role": "row of houses outlined black"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "fly",
+      "role": "outlines of the houses"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "crown in the lower hoist"
+    }
+  ]
+}

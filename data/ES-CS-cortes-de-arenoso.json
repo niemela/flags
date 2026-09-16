@@ -1,0 +1,81 @@
+{
+  "id": "ES-CS-cortes-de-arenoso",
+  "name": "Cortes de Arenoso (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1647013",
+    "ine": "12048"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "pink"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Blue field charged with a white castle between two trees above white wavy stripes along the lower edge.",
+  "history": "Municipal flag of Cortes de Arenoso; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cortes_d'Arenós.svg",
+    "https://www.wikidata.org/wiki/Q1647013",
+    "https://es.wikipedia.org/wiki/Cortes_de_Arenoso",
+    "https://ca.wikipedia.org/wiki/Cortes_d'Arenós",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Cortes_d'Arenós",
+    "https://ca.wikipedia.org/wiki/Escut_i_bandera_de_Cortes_d'Arenós"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "castle"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "count": 2,
+      "role": "trees flanking the castle"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "bottom",
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "pink",
+      "position": "center",
+      "role": "shading of the castle"
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "bottom",
+      "role": "shading of the waves"
+    }
+  ]
+}

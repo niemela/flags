@@ -1,0 +1,79 @@
+{
+  "id": "ES-CS-barracas",
+  "name": "Barracas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1995232",
+    "ine": "12020"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with a green diagonal band from the upper hoist to the lower fly and two bands of the four red bars on yellow at the upper fly and lower hoist, charged at the centre with the crowned municipal arms of Barracas (keys on blue, a chequy field and the four bars).",
+  "history": "Municipal flag of Barracas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Barraques.svg",
+    "https://www.wikidata.org/wiki/Q1995232",
+    "https://es.wikipedia.org/wiki/Barracas_(Castellón)",
+    "https://ca.wikipedia.org/wiki/Barraques",
+    "https://ca.wikipedia.org/wiki/Escut_i_bandera_de_Barraques"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "green",
+      "position": "center",
+      "role": "band from the upper hoist to the lower fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "fly",
+      "count": 2,
+      "role": "bands of the four red bars on yellow at the upper fly and lower hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "red bars on the yellow bands"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Barracas arms — keys, chequy and the four bars"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "blue field of the arms"
+    }
+  ]
+}

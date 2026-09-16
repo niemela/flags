@@ -1,0 +1,88 @@
+{
+  "id": "ES-CS-caudiel",
+  "name": "Caudiel (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1645781",
+    "ine": "12043"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A hoist third of four red pales on yellow within a white bordure charged with eight small shields, the fly red with a yellow tower between two green laurel branches.",
+  "history": "The flag was approved by resolution of 27 January 2009 of the vicepresident primer and conseller de Presidència, published in the Diari Oficial de la Comunitat Valenciana; it is a flag of 2:3 tierced at the hoist, the first third with four pales of gules on or within a bordure of argent charged with eight shields of or and a fess of azure, taken from the arms approved on 17 January 2005.",
+  "periods": [
+    {
+      "start": "2009-01-27"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Caudiel.svg",
+    "https://www.wikidata.org/wiki/Q1645781",
+    "https://es.wikipedia.org/wiki/Caudiel",
+    "https://ca.wikipedia.org/wiki/Caudiel",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Caudiel"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "hoist",
+      "role": "four red pales on yellow within a white bordure of eight shields"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "role": "tower between two laurel branches"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "fly",
+      "role": "laurel branches"
+    }
+  ]
+}

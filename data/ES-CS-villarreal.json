@@ -1,0 +1,60 @@
+{
+  "id": "ES-CS-villarreal",
+  "name": "Villarreal (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q12292",
+    "ine": "12135"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Four red bars on yellow.",
+  "history": "Municipal flag of Villarreal; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Sinyal_d'Aragón.svg",
+    "https://www.wikidata.org/wiki/Q12292",
+    "https://es.wikipedia.org/wiki/Villarreal",
+    "https://ca.wikipedia.org/wiki/Vila-real"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "role": "four red bars on yellow (Senyera)"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "outlines of the bars"
+    }
+  ]
+}

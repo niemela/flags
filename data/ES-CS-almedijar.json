@@ -1,0 +1,57 @@
+{
+  "id": "ES-CS-almedijar",
+  "name": "Almedíjar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1635760",
+    "ine": "12010"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, red above with a yellow tower between two laurel branches and green below.",
+  "history": "The flag was approved by resolution of 18 January 2005 of the conseller de Justícia i Administracions Públiques, published in the Diari Oficial de la Generalitat Valenciana no. 4944 of 11 February 2005; it is a flag of 2:3, divided per half in the height, with the tower of the arms (approved 18 April 2000), which refers to the ancient fortress of Almedíjar, with two laurel branches.",
+  "periods": [
+    {
+      "start": "2005-01-18"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Almedíjar_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1635760",
+    "https://es.wikipedia.org/wiki/Almedíjar",
+    "https://ca.wikipedia.org/wiki/Almedíxer",
+    "https://ca.wikipedia.org/wiki/Bandera_d'Almedíxer",
+    "https://ca.wikipedia.org/wiki/Escut_i_bandera_d'Almedíxer"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "tower above two laurel branches, the figures of the arms"
+    }
+  ]
+}

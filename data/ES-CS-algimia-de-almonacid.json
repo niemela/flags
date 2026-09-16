@@ -1,0 +1,63 @@
+{
+  "id": "ES-CS-algimia-de-almonacid",
+  "name": "Algimia de Almonacid (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1635917",
+    "ine": "12008"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Tierced per bend sinister red, yellow and white, the red charged with a yellow castle bearing a white flag.",
+  "history": "The flag was approved by resolution of 9 March 2004 of the conseller de Justícia i Administracions Públiques, published in the Diari Oficial de la Generalitat Valenciana; it is a flag of 2:3, tierced per bend sinister, with the castle of the arms, which are gules a castle or with a flag argent on the central tower.",
+  "periods": [
+    {
+      "start": "2004-03-09"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Algimia_de_Almonacid_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1635917",
+    "https://es.wikipedia.org/wiki/Algimia_de_Almonacid",
+    "https://ca.wikipedia.org/wiki/Algímia_d'Almonesir",
+    "https://ca.wikipedia.org/wiki/Bandera_d'Algímia_d'Almonesir",
+    "https://ca.wikipedia.org/wiki/Escut_i_bandera_d'Algímia_d'Almonesir"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "white",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "role": "broad yellow band between the red and the white"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle with a white flag on the central tower"
+    }
+  ]
+}

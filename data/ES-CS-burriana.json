@@ -1,0 +1,90 @@
+{
+  "id": "ES-CS-burriana",
+  "name": "Burriana (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q385070",
+    "ine": "12032"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Four red bars on yellow with a blue hoist stripe bearing three yellow crowns in pale.",
+  "history": "The flag of Burriana is the traditional symbol representing the three crowns granted by King Peter the Ceremonious in 1349 added to the royal senyera; it was rehabilitated by resolution of 24 January 2002 of the conseller de Justícia i Administracions Públiques, and is officially described as a flag of 2:3, four red bars on a yellow ground.",
+  "periods": [
+    {
+      "start": "2002-01-24"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Borriana.svg",
+    "https://www.wikidata.org/wiki/Q385070",
+    "https://es.wikipedia.org/wiki/Burriana",
+    "https://ca.wikipedia.org/wiki/Borriana",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Borriana",
+    "https://ca.wikipedia.org/wiki/Escut_i_bandera_de_Borriana"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        3
+      ]
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 3,
+      "role": "three crowns in pale granted by Peter the Ceremonious in 1349"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "fly",
+      "role": "four red bars on yellow at the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "hoist",
+      "role": "shading of the crowns"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "ES-CS-sant-joan-de-moro",
+  "name": "Sant Joan de Moró (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q627890",
+    "ine": "12902"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Red field with a yellow embattled wall along the lower part, charged above with a white Paschal Lamb bearing a banner.",
+  "history": "Municipal flag of Sant Joan de Moró; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Sant_Joan_de_Moró.svg",
+    "https://www.wikidata.org/wiki/Q627890",
+    "https://es.wikipedia.org/wiki/Sant_Joan_del_Moró",
+    "https://ca.wikipedia.org/wiki/Sant_Joan_de_Moró"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        1
+      ],
+      "role": "embattled division"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "top",
+      "role": "Paschal Lamb with a banner, attribute of Saint John"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "bottom",
+      "role": "masonry lines of the wall"
+    }
+  ]
+}

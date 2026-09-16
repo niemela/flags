@@ -1,0 +1,64 @@
+{
+  "id": "ES-CS-figueroles",
+  "name": "Figueroles (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1646916",
+    "ine": "12060"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "White field with two blue bends from the upper hoist to the lower fly, charged at the centre with a yellow castle above the letters CDA.",
+  "history": "Municipal flag of Figueroles; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Figueroles.svg",
+    "https://www.wikidata.org/wiki/Q1646916",
+    "https://es.wikipedia.org/wiki/Figueroles",
+    "https://ca.wikipedia.org/wiki/Figueroles"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "count": 2,
+      "role": "two bends from the upper hoist to the lower fly"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "letters CDA beneath the castle"
+    }
+  ]
+}

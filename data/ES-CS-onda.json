@@ -1,0 +1,74 @@
+{
+  "id": "ES-CS-onda",
+  "name": "Onda (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q984821",
+    "ine": "12084"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontally divided, the upper half white with a canton of four red pales on yellow and a red cross, the lower half white with four blue wavy stripes.",
+  "history": "The flag was rehabilitated by resolution of 10 September 2002 of the conseller de Justícia i Administracions Públiques, published in the Diari Oficial de la Generalitat Valenciana no. 4347 of 1 October 2002; it is a flag of 2:3 parted per horizontal half, with four blue waves on white in the lower half; the flag goes back to the chapters agreed between the Order of Montesa and the town of Onda on 15 May 1412.",
+  "periods": [
+    {
+      "start": "2002-09-10"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Onda_Spain.svg",
+    "https://www.wikidata.org/wiki/Q984821",
+    "https://es.wikipedia.org/wiki/Onda_(Castellón)",
+    "https://ca.wikipedia.org/wiki/Onda",
+    "https://ca.wikipedia.org/wiki/Bandera_d'Onda"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "canton",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "canton of four red pales on yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "four pales on the canton and a cross in the upper fly"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom",
+      "count": 4,
+      "role": "four waves in the lower half"
+    }
+  ]
+}

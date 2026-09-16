@@ -1,0 +1,72 @@
+{
+  "id": "ES-CS-vall-de-almonacid",
+  "name": "Vall de Almonacid (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q780982",
+    "ine": "12125"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertically divided, the hoist red with a yellow castle and the fly with three blue bends on white.",
+  "history": "Municipal flag of Vall de Almonacid; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Vall_de_Allmonacid.svg",
+    "https://www.wikidata.org/wiki/Q780982",
+    "https://es.wikipedia.org/wiki/Vall_de_Almonacid",
+    "https://ca.wikipedia.org/wiki/La_Vall_d'Almonesir",
+    "https://ca.wikipedia.org/wiki/Escut_i_bandera_de_la_Vall_d'Almonesir"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "fly",
+      "count": 3,
+      "role": "three bends on the white fly"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "hoist",
+      "role": "outlines of the castle"
+    }
+  ]
+}

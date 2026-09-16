@@ -1,0 +1,50 @@
+{
+  "id": "ES-CS-alfondeguilla",
+  "name": "Alfondeguilla (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1769907",
+    "ine": "12007"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, blue above and white below, charged at the centre with a yellow tower on rocks bearing a white flag.",
+  "history": "Municipal flag of Alfondeguilla; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_d'Alfondeguilla.svg",
+    "https://www.wikidata.org/wiki/Q1769907",
+    "https://es.wikipedia.org/wiki/Alfondeguilla",
+    "https://ca.wikipedia.org/wiki/Alfondeguilla"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "white",
+      "direction": "bend"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "tower on rocks with a white flag"
+    }
+  ]
+}

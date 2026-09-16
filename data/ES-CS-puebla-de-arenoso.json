@@ -1,0 +1,58 @@
+{
+  "id": "ES-CS-puebla-de-arenoso",
+  "name": "Puebla de Arenoso (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1767485",
+    "ine": "12092"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertically divided, the hoist blue with a yellow castle and the fly white with three blue wavy stripes.",
+  "history": "Municipal flag of Puebla de Arenoso; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Pobla_d'Arenós.svg",
+    "https://www.wikidata.org/wiki/Q1767485",
+    "https://es.wikipedia.org/wiki/Puebla_de_Arenoso",
+    "https://ca.wikipedia.org/wiki/La_Pobla_d'Arenós"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "count": 3
+    }
+  ]
+}

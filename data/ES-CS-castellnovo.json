@@ -1,0 +1,57 @@
+{
+  "id": "ES-CS-castellnovo",
+  "name": "Castellnovo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1635733",
+    "ine": "12039"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with a white diagonal stripe at the upper hoist and another at the lower fly, charged at the centre with a white tower.",
+  "history": "Municipal flag of Castellnovo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Castellnovo.svg",
+    "https://www.wikidata.org/wiki/Q1635733",
+    "https://es.wikipedia.org/wiki/Castellnovo",
+    "https://ca.wikipedia.org/wiki/Castellnou_(Alt_Palància)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "hoist",
+      "role": "stripe at the upper hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "fly",
+      "role": "stripe at the lower fly"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "tower"
+    }
+  ]
+}

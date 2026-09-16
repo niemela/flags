@@ -1,0 +1,91 @@
+{
+  "id": "ES-CS-soneja",
+  "name": "Soneja (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1645719",
+    "ine": "12106"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A hoist third parted horizontally green with black scales and a sword above white with blue wavy stripes, the fly red with three yellow thistles.",
+  "history": "The flag was approved by resolution of 22 September 2005 of the conseller de Justícia i Administracions Públiques, published in the Diari Oficial de la Generalitat Valenciana; it is a flag of 2:3, tierced at the hoist with the first third parted horizontally, and at the fly red with three thistles of or, from the arms approved on 15 November 1999.",
+  "periods": [
+    {
+      "start": "2005-09-22"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Soneja.svg",
+    "https://www.wikidata.org/wiki/Q1645719",
+    "https://es.wikipedia.org/wiki/Soneja",
+    "https://ca.wikipedia.org/wiki/Soneixa",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Soneixa",
+    "https://ca.wikipedia.org/wiki/Escut_i_bandera_de_Soneixa"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "hoist",
+      "role": "scales and sword on the green upper hoist"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "hoist",
+      "role": "wavy stripes on the white lower hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "white lower hoist quarter"
+    },
+    {
+      "type": "flower",
+      "color": "yellow",
+      "position": "fly",
+      "count": 3,
+      "role": "three thistles"
+    }
+  ]
+}

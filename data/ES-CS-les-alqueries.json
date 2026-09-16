@@ -1,0 +1,83 @@
+{
+  "id": "ES-CS-les-alqueries",
+  "name": "Les Alqueries (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1646869",
+    "ine": "12901"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Green field with a central band of four red bars on yellow, charged at the centre with the crowned municipal arms of Les Alqueries (crowns on red and the four bars).",
+  "history": "Municipal flag of Les Alqueries; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_les_Alqueries.svg",
+    "https://www.wikidata.org/wiki/Q1646869",
+    "https://es.wikipedia.org/wiki/Alquerías_del_Niño_Perdido",
+    "https://ca.wikipedia.org/wiki/Les_Alqueries"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "center",
+      "role": "four red bars on yellow across the centre"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Les Alqueries arms — crowns and the four bars"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "shading of the crown"
+    }
+  ]
+}

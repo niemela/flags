@@ -1,0 +1,70 @@
+{
+  "id": "ES-CS-higueras",
+  "name": "Higueras (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1983382",
+    "ine": "12069"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three horizontal stripes of green, yellow and green, the middle of double width, charged with a green fig tree with a white trunk.",
+  "history": "The flag was approved by resolution of 3 February 2004 of the conseller de Justícia i Administracions Públiques, published in the Diari Oficial de la Generalitat Valenciana no. 4695 of 19 February 2004; it is a flag of 2:3, tierced horizontally, the second third of double width, the outer thirds vert and the middle or charged with a fig tree vert with a trunk argent.",
+  "periods": [
+    {
+      "start": "2004-02-03"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:BanderadeHigueras.svg",
+    "https://www.wikidata.org/wiki/Q1983382",
+    "https://es.wikipedia.org/wiki/Higueras_(Castellón)",
+    "https://ca.wikipedia.org/wiki/Figueres_(Alt_Palància)",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Figueres"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "fig tree with a white trunk"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "trunk of the fig tree"
+    }
+  ]
+}

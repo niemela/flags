@@ -1,0 +1,56 @@
+{
+  "id": "ES-CS-la-vall-d-uixo",
+  "name": "La Vall d'Uixó (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1637512",
+    "ine": "12126"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field charged with two yellow suns and two white towers arranged in saltire.",
+  "history": "Municipal flag of La Vall d'Uixó; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Vall_d'Uixó-2.svg",
+    "https://www.wikidata.org/wiki/Q1637512",
+    "https://es.wikipedia.org/wiki/Vall_de_Uxó",
+    "https://ca.wikipedia.org/wiki/La_Vall_d'Uixó"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 2,
+      "role": "suns in the upper hoist and lower fly"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "fly",
+      "count": 2,
+      "role": "towers in the upper fly and lower hoist"
+    }
+  ]
+}

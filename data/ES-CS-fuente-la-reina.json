@@ -1,0 +1,54 @@
+{
+  "id": "ES-CS-fuente-la-reina",
+  "name": "Fuente la Reina (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q745282",
+    "ine": "12063"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Red field charged at the centre with a yellow fountain with a blue jet of water.",
+  "history": "Municipal flag of Fuente la Reina; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_La_Font_de_la_Reina.svg",
+    "https://www.wikidata.org/wiki/Q745282",
+    "https://es.wikipedia.org/wiki/Fuente_la_Reina",
+    "https://ca.wikipedia.org/wiki/La_Font_de_la_Reina"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "fountain basin"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "jet of water and pool of the fountain"
+    }
+  ]
+}

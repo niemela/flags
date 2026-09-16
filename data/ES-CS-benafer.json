@@ -1,0 +1,80 @@
+{
+  "id": "ES-CS-benafer",
+  "name": "Benafer (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1763720",
+    "ine": "12024"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with a red triangle issuing from the hoist bearing a white orb banded and crossed yellow, the blue charged with four yellow fleurs-de-lis.",
+  "history": "The flag was approved by resolution of 5 April 2001 of the conseller de Justícia i Administracions Públiques, published in the Diari Oficial de la Generalitat Valenciana; it is a flag of 2:3, enté at the hoist in red with a silver orb banded and crossed gold, the attribute of Saint Saviour, patron of the village, and blue with four gold fleurs-de-lis, the arms of Ènnec de Vallterra, bishop of Segorbe, who bought the Muslim farmstead of Benafer in 1379.",
+  "periods": [
+    {
+      "start": "2001-04-05"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Benafer_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1763720",
+    "https://es.wikipedia.org/wiki/Benafer",
+    "https://ca.wikipedia.org/wiki/Benafer",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Benafer",
+    "https://ca.wikipedia.org/wiki/Escut_i_bandera_de_Benafer"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "triangle with its base along the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "orb (mound) banded and crossed yellow, attribute of Saint Saviour"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "fly",
+      "count": 4,
+      "role": "four fleurs-de-lis, the arms of bishop Ènnec de Vallterra"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "hoist",
+      "role": "shading of the orb"
+    }
+  ]
+}
