@@ -1,0 +1,73 @@
+{
+  "id": "ES-BI-berango",
+  "name": "Berango (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BI",
+  "codes": {
+    "wikidata": "Q1242343",
+    "ine": "48016"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Blue field with a white cross potent cantoned by four yellow fleurs-de-lis, with a white fly stripe bearing four black wolves passant.",
+  "history": "Municipal flag of Berango; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Berango.svg",
+    "https://www.wikidata.org/wiki/Q1242343",
+    "https://es.wikipedia.org/wiki/Berango",
+    "https://eu.wikipedia.org/wiki/Berango"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        1
+      ]
+    },
+    {
+      "type": "greek-cross",
+      "cross": "white",
+      "position": "hoist",
+      "role": "cross potent on the blue"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 4,
+      "role": "fleurs-de-lis in the cantons of the cross"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "fly",
+      "count": 4,
+      "role": "four wolves passant in pale"
+    }
+  ]
+}

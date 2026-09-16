@@ -1,0 +1,66 @@
+{
+  "id": "ES-BI-artea",
+  "name": "Artea (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BI",
+  "codes": {
+    "wikidata": "Q1242330",
+    "ine": "48023"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field charged with a yellow cross fleury, with a hoist third chequy of white and red.",
+  "history": "Municipal flag of Artea; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Artea.svg",
+    "https://www.wikidata.org/wiki/Q1242330",
+    "https://es.wikipedia.org/wiki/Castillo_y_Elejabeitia",
+    "https://eu.wikipedia.org/wiki/Arteaga"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "chequy",
+      "field": "white",
+      "chequy": "red",
+      "position": "hoist",
+      "role": "chequy hoist third of two columns"
+    },
+    {
+      "type": "latin-cross",
+      "color": "yellow",
+      "position": "fly",
+      "role": "cross fleury"
+    }
+  ]
+}

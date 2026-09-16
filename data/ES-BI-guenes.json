@@ -1,0 +1,75 @@
+{
+  "id": "ES-BI-guenes",
+  "name": "Güeñes (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BI",
+  "codes": {
+    "wikidata": "Q596305",
+    "ine": "48045"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A blue hoist stripe bearing three yellow fleurs-de-lis, the fly divided red over white with the municipal arms of Güeñes (a bridge and a cross) at the upper hoist of the fly.",
+  "history": "Municipal flag of Güeñes; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Gueñesko_udal_ikurrina.svg",
+    "https://www.wikidata.org/wiki/Q596305",
+    "https://es.wikipedia.org/wiki/Güeñes",
+    "https://eu.wikipedia.org/wiki/Gueñes"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 3,
+      "role": "three fleurs-de-lis in pale"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "fly divided red over white"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "fly",
+      "role": "Güeñes arms — bridge and cross"
+    }
+  ]
+}

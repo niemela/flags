@@ -1,0 +1,54 @@
+{
+  "id": "ES-BI-forua",
+  "name": "Forua (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BI",
+  "codes": {
+    "wikidata": "Q679513",
+    "ine": "48906"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "Blue field with a white bend from the upper hoist to the lower fly, and a grey tower in the upper hoist.",
+  "history": "Municipal flag of Forua; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Foruko_udal_ikurrina.svg",
+    "https://www.wikidata.org/wiki/Q679513",
+    "https://es.wikipedia.org/wiki/Forúa",
+    "https://eu.wikipedia.org/wiki/Forua"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "bend from the upper hoist to the lower fly"
+    },
+    {
+      "type": "building",
+      "color": "grey",
+      "position": "hoist",
+      "role": "tower"
+    }
+  ]
+}

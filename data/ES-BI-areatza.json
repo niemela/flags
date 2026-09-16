@@ -1,0 +1,61 @@
+{
+  "id": "ES-BI-areatza",
+  "name": "Areatza (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BI",
+  "codes": {
+    "wikidata": "Q1228114",
+    "ine": "48093"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Yellow field with a black bend from the upper hoist to the lower fly between two black wolves passant, langued red.",
+  "history": "Municipal flag of Areatza; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Areatza.svg",
+    "https://www.wikidata.org/wiki/Q1228114",
+    "https://es.wikipedia.org/wiki/Villaro",
+    "https://eu.wikipedia.org/wiki/Areatza"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "black",
+      "position": "center",
+      "role": "bend from the upper hoist to the lower fly"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "hoist",
+      "count": 2,
+      "role": "two wolves passant langued red"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "tongues of the wolves"
+    }
+  ]
+}

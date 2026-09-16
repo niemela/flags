@@ -1,0 +1,66 @@
+{
+  "id": "ES-BI-fruiz",
+  "name": "Fruiz (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BI",
+  "codes": {
+    "wikidata": "Q648519",
+    "ine": "48035"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Blue field with a white hoist panel edged yellow bearing black ermine spots.",
+  "history": "Municipal flag of Fruiz; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Fruizko_udal_ikurrina.svg",
+    "https://www.wikidata.org/wiki/Q648519",
+    "https://es.wikipedia.org/wiki/Frúniz",
+    "https://eu.wikipedia.org/wiki/Fruiz"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "hoist panel edged yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "edge of the hoist panel"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "hoist",
+      "role": "ermine spots on the hoist panel"
+    }
+  ]
+}

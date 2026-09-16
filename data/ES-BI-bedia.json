@@ -1,0 +1,73 @@
+{
+  "id": "ES-BI-bedia",
+  "name": "Bedia (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BI",
+  "codes": {
+    "wikidata": "Q1242425",
+    "ine": "48092"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "Yellow field with a blue panel bearing a white lozenge throughout, charged at the centre with the municipal arms of Bedia (a bridge and a church on blue within a wreath).",
+  "history": "Municipal flag of Bedia; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Bedia.svg",
+    "https://www.wikidata.org/wiki/Q1242425",
+    "https://es.wikipedia.org/wiki/Bedia_(España)",
+    "https://eu.wikipedia.org/wiki/Bedia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "border",
+      "color": "yellow",
+      "role": "yellow border around the blue panel"
+    },
+    {
+      "type": "lozenge",
+      "color": "white",
+      "position": "center",
+      "role": "white lozenge throughout on the blue panel"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "blue panel"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Bedia arms — bridge and church within a wreath"
+    },
+    {
+      "type": "glyph",
+      "color": "grey",
+      "position": "center",
+      "role": "bridge of the arms"
+    }
+  ]
+}

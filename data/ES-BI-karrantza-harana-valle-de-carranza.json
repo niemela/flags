@@ -1,0 +1,73 @@
+{
+  "id": "ES-BI-karrantza-harana-valle-de-carranza",
+  "name": "Karrantza Harana / Valle de Carranza (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BI",
+  "codes": {
+    "wikidata": "Q686837",
+    "ine": "48022"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red hoist third bearing a yellow hunting horn, the fly a horizontal tricolour of blue, white and green.",
+  "history": "Municipal flag of Karrantza Harana / Valle de Carranza; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Karrantza_udal_ikurrina.svg",
+    "https://www.wikidata.org/wiki/Q686837",
+    "https://es.wikipedia.org/wiki/Valle_de_Carranza",
+    "https://eu.wikipedia.org/wiki/Karrantza"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "hunting horn"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "fly tricolour blue, white and green"
+    }
+  ]
+}

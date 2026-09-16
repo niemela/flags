@@ -1,0 +1,70 @@
+{
+  "id": "ES-BI-mendexa",
+  "name": "Mendexa (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BI",
+  "codes": {
+    "wikidata": "Q1227761",
+    "ine": "48063"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Green field with a black eagle displayed at the centre, above two stripes along the lower edge, white and blue.",
+  "history": "Municipal flag of Mendexa; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Mendexako_udal-ikurriña.svg",
+    "https://www.wikidata.org/wiki/Q1227761",
+    "https://es.wikipedia.org/wiki/Mendeja",
+    "https://eu.wikipedia.org/wiki/Mendexa"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        5,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "eagle",
+      "color": "black",
+      "position": "center",
+      "role": "eagle displayed with red head plumes"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "plumes of the eagle"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+version="1.0"
+width="750"
+height="500">
+<rect x="0" y="0" width="750" height="500" fill="#fff" stroke="none"/>
+<rect x="0" y="0" width="325" height="200" fill="#080" stroke="none"/>
+<rect x="0" y="300" width="325" height="200" fill="#080" stroke="none"/>
+<rect x="425" y="300" width="325" height="200" fill="#080" stroke="none"/>
+<rect x="425" y="0" width="325" height="200" fill="#080" stroke="none"/>
+<circle cx="162.5" cy="100" r="90" stroke="#fd0" stroke-width="10" fill="none" />
+<path d="M 162.5 10 a 45,45 1 0 0 0,90"  stroke="#fd0" stroke-width="10" fill="none" id="arc1"/>
+<use xlink:href="#arc1" transform="rotate(180 162.5 100)"/>
+<use xlink:href="#arc1" transform="rotate(90 162.5 100)"/>
+<use xlink:href="#arc1" transform="rotate(270 162.5 100)"/>
+</svg>

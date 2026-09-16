@@ -1,0 +1,50 @@
+{
+  "id": "ES-BI-maruri-jatabe",
+  "name": "Maruri-Jatabe (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BI",
+  "codes": {
+    "wikidata": "Q678721",
+    "ine": "48061"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided diagonally from the upper fly to the lower hoist by a white band, yellow above and blue below.",
+  "history": "Municipal flag of Maruri-Jatabe; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_Maruri.svg",
+    "https://www.wikidata.org/wiki/Q678721",
+    "https://es.wikipedia.org/wiki/Maruri",
+    "https://eu.wikipedia.org/wiki/Jatabe"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "white band from the upper fly to the lower hoist"
+    }
+  ]
+}

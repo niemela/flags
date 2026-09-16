@@ -1,0 +1,52 @@
+{
+  "id": "ES-BI-barrika",
+  "name": "Barrika (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BI",
+  "codes": {
+    "wikidata": "Q4481",
+    "ine": "48014"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Horizontally divided light blue over dark blue, with a green triangle at the hoist.",
+  "history": "Municipal flag of Barrika; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Barrika_bandera.svg",
+    "https://www.wikidata.org/wiki/Q4481",
+    "https://es.wikipedia.org/wiki/Barrica_(Vizcaya)",
+    "https://eu.wikipedia.org/wiki/Barrika"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "navy"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "hoist",
+      "role": "triangle with its base along the hoist"
+    }
+  ]
+}

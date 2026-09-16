@@ -1,0 +1,59 @@
+{
+  "id": "ES-BI-mendata",
+  "name": "Mendata (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BI",
+  "codes": {
+    "wikidata": "Q661515",
+    "ine": "48062"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with a green wavy hoist stripe, charged towards the fly with the municipal arms of Mendata (scales and a sword above a river on blue).",
+  "history": "Municipal flag of Mendata; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Mendata.svg",
+    "https://www.wikidata.org/wiki/Q661515",
+    "https://es.wikipedia.org/wiki/Mendata",
+    "https://eu.wikipedia.org/wiki/Mendata"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "wave",
+      "color": "green",
+      "position": "hoist",
+      "role": "wavy vertical hoist stripe"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "fly",
+      "role": "Mendata arms — scales and sword above a river"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "fly",
+      "role": "blue field of the arms"
+    }
+  ]
+}

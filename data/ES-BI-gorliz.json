@@ -1,0 +1,63 @@
+{
+  "id": "ES-BI-gorliz",
+  "name": "Gorliz (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BI",
+  "codes": {
+    "wikidata": "Q763669",
+    "ine": "48043"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Red field with a white triangle issuing from the hoist bearing a blue cross, and a green triangle at the lower hoist.",
+  "history": "Municipal flag of Gorliz; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Gorliz_bandera.svg",
+    "https://www.wikidata.org/wiki/Q763669",
+    "https://es.wikipedia.org/wiki/Górliz",
+    "https://eu.wikipedia.org/wiki/Gorliz"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "triangle from the hoist with its apex at the fly"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "blue",
+      "position": "hoist",
+      "role": "cross on the white triangle"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "bottom",
+      "role": "triangle at the lower hoist"
+    }
+  ]
+}
