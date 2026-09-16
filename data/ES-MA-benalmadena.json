@@ -1,0 +1,68 @@
+{
+  "id": "ES-MA-benalmadena",
+  "name": "Benalmádena (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-MA",
+  "codes": {
+    "wikidata": "Q488869",
+    "ine": "29025"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, yellow above and orange below, charged at the centre with the crowned municipal arms of Benalmádena (a castle between trees on blue above waves, with the letters F and Y).",
+  "history": "The official symbols of Benalmádena are its flag and its arms, approved officially by the Junta de Andalucía on 30 January 2001.",
+  "periods": [
+    {
+      "start": "2001-01-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Benalmádena.svg",
+    "https://www.wikidata.org/wiki/Q488869",
+    "https://es.wikipedia.org/wiki/Benalmádena"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "orange",
+      "direction": "bend"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Benalmádena arms — castle between trees on blue above waves, with the letters F and Y"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "blue field of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "trees of the arms"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "ES-MA-sedella",
+  "name": "Sedella (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-MA",
+  "codes": {
+    "wikidata": "Q1630165",
+    "ine": "29087"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "purple"
+    }
+  ],
+  "description": "Divided by a white band from the lower hoist to the upper fly, red at the upper hoist and green at the lower fly, charged at the centre with the crowned municipal arms of Sedella (a castle and a lion on yellow with the motto SE DE ELLA PER IPSO FACTA SUNT).",
+  "history": "Municipal flag of Sedella; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Sedella_(Málaga).svg",
+    "https://www.wikidata.org/wiki/Q1630165",
+    "https://es.wikipedia.org/wiki/Sedella"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "broad band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Sedella arms — castle and lion on yellow, with motto"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "yellow field of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "purple",
+      "position": "center",
+      "role": "lion of the arms"
+    }
+  ]
+}

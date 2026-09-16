@@ -1,0 +1,81 @@
+{
+  "id": "ES-MA-alhaurin-el-grande",
+  "name": "Alhaurín el Grande (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-MA",
+  "codes": {
+    "wikidata": "Q846149",
+    "ine": "29008"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "purple"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided by a white band from the lower hoist to the upper fly, purple at the lower hoist and green at the upper fly, charged at the centre with the arms of Alhaurín el Grande (a crowned double-headed eagle bearing a shield).",
+  "history": "Municipal flag of Alhaurín el Grande; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Alhaurín_el_Grande_Spain.svg",
+    "https://www.wikidata.org/wiki/Q846149",
+    "https://es.wikipedia.org/wiki/Alhaurín_el_Grande"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "purple",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Alhaurín el Grande arms — crowned double-headed eagle bearing a shield"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "eagle of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "red of the arms"
+    }
+  ]
+}

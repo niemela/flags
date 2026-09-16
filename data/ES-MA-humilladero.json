@@ -1,0 +1,66 @@
+{
+  "id": "ES-MA-humilladero",
+  "name": "Humilladero (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-MA",
+  "codes": {
+    "wikidata": "Q1630322",
+    "ine": "29059"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal tricolour of light blue, red and green with a green mountain silhouette and a yellow sun on the light blue.",
+  "history": "Municipal flag of Humilladero; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Humilladero_(Málaga).svg",
+    "https://www.wikidata.org/wiki/Q1630322",
+    "https://es.wikipedia.org/wiki/Humilladero_(Málaga)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "red",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        3,
+        3,
+        2
+      ]
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "top",
+      "role": "mountain silhouette on the light blue"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "canton",
+      "role": "sun at the upper hoist"
+    }
+  ]
+}

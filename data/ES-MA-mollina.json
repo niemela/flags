@@ -1,0 +1,64 @@
+{
+  "id": "ES-MA-mollina",
+  "name": "Mollina (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-MA",
+  "codes": {
+    "wikidata": "Q1630374",
+    "ine": "29072"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Olive green field with a red stripe along the lower edge, charged at the centre with a white dove carrying an olive branch.",
+  "history": "Municipal flag of Mollina; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Mollina_(Málaga).svg",
+    "https://www.wikidata.org/wiki/Q1630374",
+    "https://es.wikipedia.org/wiki/Mollina"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        4,
+        1
+      ]
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "position": "center",
+      "role": "dove in flight carrying an olive branch"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "olive branch"
+    }
+  ]
+}

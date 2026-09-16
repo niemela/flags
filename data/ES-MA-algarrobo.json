@@ -1,0 +1,53 @@
+{
+  "id": "ES-MA-algarrobo",
+  "name": "Algarrobo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-MA",
+  "codes": {
+    "wikidata": "Q926410",
+    "ine": "29005"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with a blue central stripe with embattled edges charged with a white carob tree.",
+  "history": "Municipal flag of Algarrobo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Algarrobo_(Málaga).svg",
+    "https://www.wikidata.org/wiki/Q926410",
+    "https://es.wikipedia.org/wiki/Algarrobo_(Málaga)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "central stripe with embattled edges"
+    },
+    {
+      "type": "tree",
+      "color": "white",
+      "position": "center",
+      "role": "carob tree"
+    }
+  ]
+}
