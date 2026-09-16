@@ -1,0 +1,68 @@
+{
+  "id": "ES-GR-albunol",
+  "name": "Albuñol (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q565002",
+    "ine": "18006"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Red field with a yellow tower and a white isosceles triangle at the hoist bearing three blue wavy stripes.",
+  "history": "Albuñol adopted its arms and flag officially on 17 December 2007; the flag is rectangular of 2:3, formed of a red cloth with a yellow tower masoned black and open in red, with a white isosceles triangle at the hoist bearing three wavy stripes.",
+  "periods": [
+    {
+      "start": "2007-12-17"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Albuñol_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q565002",
+    "https://es.wikipedia.org/wiki/Albuñol"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "role": "tower masoned black and open in red"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "isosceles triangle with its base along the hoist"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "hoist",
+      "count": 3,
+      "role": "three wavy stripes on the triangle"
+    }
+  ]
+}

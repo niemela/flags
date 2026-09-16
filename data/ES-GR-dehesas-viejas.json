@@ -1,0 +1,62 @@
+{
+  "id": "ES-GR-dehesas-viejas",
+  "name": "Dehesas Viejas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q5801472",
+    "ine": "18065"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Yellow field charged at the centre with a green holm oak between two green embattled vertical stripes edged black.",
+  "history": "Municipal flag of Dehesas Viejas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Dehesas_Viejas_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q5801472",
+    "https://es.wikipedia.org/wiki/Dehesas_Viejas"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "holm oak"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green"
+      ],
+      "count": 2,
+      "position": "hoist",
+      "role": "embattled stripes near the hoist and fly"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "edges of the embattled stripes"
+    }
+  ]
+}

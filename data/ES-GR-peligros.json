@@ -1,0 +1,69 @@
+{
+  "id": "ES-GR-peligros",
+  "name": "Peligros (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q538809",
+    "ine": "18153"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "status": "de-facto",
+  "colors": [
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Burgundy field with five light blue waves along the hoist and a large golden newt at the fly.",
+  "history": "Peligros has its own arms and flag, although they have not been made official under the regional regulations, which does not prevent their widespread use; the ensign used by the municipality since January 2026 is a rectangular burgundy flag with five soft blue waves at the hoist and a large golden newt at the fly.",
+  "periods": [
+    {
+      "start": "2026-01"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Peligros_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q538809",
+    "https://es.wikipedia.org/wiki/Peligros"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "maroon"
+    },
+    {
+      "type": "wave",
+      "color": "light-blue",
+      "position": "hoist",
+      "count": 5,
+      "role": "five soft waves along the hoist side"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "fly",
+      "role": "large newt (gallipato)"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "fly",
+      "role": "outline of the newt"
+    }
+  ]
+}

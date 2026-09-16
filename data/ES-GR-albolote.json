@@ -1,0 +1,62 @@
+{
+  "id": "ES-GR-albolote",
+  "name": "Albolote (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q565415",
+    "ine": "18003"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Horizontally divided red over green with a white triangle issuing from the hoist to the fly, charged with a green eradicated tree.",
+  "history": "Albolote has arms and a flag adopted officially in 1974 and 2001 respectively.",
+  "periods": [
+    {
+      "start": "2001"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Albolote_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q565415",
+    "https://es.wikipedia.org/wiki/Albolote"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "triangle from the hoist edge to the fly"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist",
+      "role": "eradicated tree"
+    }
+  ]
+}

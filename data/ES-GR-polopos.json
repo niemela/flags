@@ -1,0 +1,77 @@
+{
+  "id": "ES-GR-polopos",
+  "name": "Polopos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q611250",
+    "ine": "18162"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Three vertical stripes in the proportions 1:2:1, the outer red and the central chequy of black and white, charged at the centre with the crowned municipal arms of Polopos (a tower between poplars on yellow with a flag).",
+  "history": "Polopos adopted its arms officially on 18 October 1991 and its flag on 5 December 1998; the flag is rectangular of 2:3, formed of three vertical stripes in the proportions 1/4, 1/2 and 1/4, the outer red and the central chequy of 25 pieces, 13 black.",
+  "periods": [
+    {
+      "start": "1998-12-05"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Polopos_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q611250",
+    "https://es.wikipedia.org/wiki/Polopos_(Granada)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "chequy",
+      "field": "black",
+      "chequy": "white",
+      "position": "center",
+      "role": "chequy of 25 pieces in the central stripe"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Polopos arms — tower between poplars with a flag"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "yellow field of the arms"
+    }
+  ]
+}

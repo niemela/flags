@@ -1,0 +1,66 @@
+{
+  "id": "ES-GR-santa-fe",
+  "name": "Santa Fe (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q615722",
+    "ine": "18175"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "status": "de-facto",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal tricolour of red, white and green with a white stripe twice as wide as the others, charged at the centre with the crowned arms of Santa Fe (a castle and a pomegranate, inscribed SANTA FE).",
+  "history": "Santa Fe has been using its own arms and flag, although they have not been made official under the regional regulations, which does not prevent their widespread use.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Santa_Fe_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q615722",
+    "https://es.wikipedia.org/wiki/Santa_Fe_(Granada)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Santa Fe arms — castle and pomegranate, inscribed SANTA FE"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crown and inscription of the arms"
+    }
+  ]
+}

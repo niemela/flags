@@ -1,0 +1,68 @@
+{
+  "id": "ES-GR-cacin",
+  "name": "Cacín (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q554253",
+    "ine": "18034"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A red hoist stripe bearing a white clay pot, the fly of five horizontal stripes, blue and white alternating.",
+  "history": "Municipal flag of Cacín; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cacín_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q554253",
+    "https://es.wikipedia.org/wiki/Cacín"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "clay pot with a geometric pattern"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 5,
+      "position": "fly",
+      "role": "barry of blue and white at the fly"
+    }
+  ]
+}

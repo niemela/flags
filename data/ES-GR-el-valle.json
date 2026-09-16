@@ -1,0 +1,61 @@
+{
+  "id": "ES-GR-el-valle",
+  "name": "El Valle (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q618366",
+    "ine": "18902"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontally divided blue over green, the blue charged with a red cross of Calatrava and the green with three white keys in pale.",
+  "history": "Municipal flag of El Valle; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_El_Valle_Spain.svg",
+    "https://www.wikidata.org/wiki/Q618366",
+    "https://es.wikipedia.org/wiki/El_Valle_(Granada)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "top",
+      "role": "cross of Calatrava"
+    },
+    {
+      "type": "key",
+      "color": "white",
+      "position": "bottom",
+      "count": 3,
+      "role": "three keys in pale"
+    }
+  ]
+}

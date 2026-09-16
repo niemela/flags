@@ -1,0 +1,73 @@
+{
+  "id": "ES-GR-turon",
+  "name": "Turón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q618375",
+    "ine": "18181"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A yellow hoist stripe of one third bearing a black goat's head, the fly divided horizontally red over green.",
+  "history": "Turón adopted its arms and flag officially on 4 June 2009; the flag is rectangular of 2:3, formed of a yellow vertical stripe of one third at the hoist with a black goat's head and a fly divided horizontally red above and green below.",
+  "periods": [
+    {
+      "start": "2009-06-04"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Turón_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q618375",
+    "https://es.wikipedia.org/wiki/Turón_(Granada)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "hoist",
+      "role": "goat's head"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "fly divided red over green"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "ES-GR-cenes-de-la-vega",
+  "name": "Cenes de la Vega (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q555126",
+    "ine": "18047"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided by a blue diagonal band fimbriated white from the lower hoist to the upper fly, red at the hoist with a yellow pomegranate and green at the fly.",
+  "history": "Cenes de la Vega adopted its arms and flag officially on 9 May 2008; the flag is rectangular of 2:3, formed of a blue diagonal edged white from the lower hoist corner to the upper fly, the hoist triangle red with a yellow pomegranate and the fly triangle green; the pomegranate represents Granada, the blue stripe the waters of the Genil and the red and green the colours of the flag of Andalusia.",
+  "periods": [
+    {
+      "start": "2008-05-09"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cenes_de_la_Vega_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q555126",
+    "https://es.wikipedia.org/wiki/Cenes_de_la_Vega"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "role": "band edged white from the lower hoist to the upper fly"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "edges of the band"
+    },
+    {
+      "type": "fruit",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "pomegranate"
+    }
+  ]
+}

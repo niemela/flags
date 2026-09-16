@@ -1,0 +1,55 @@
+{
+  "id": "ES-GR-alhendin",
+  "name": "Alhendín (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q564773",
+    "ine": "18014"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "status": "de-facto",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided by a white bend from the upper hoist to the lower fly, green below and blue above, charged at the centre with the crowned municipal arms of Alhendín (quartered with castles, saltires and a tree).",
+  "history": "Alhendín has its own arms and flag, although they have not been made official under the regional regulations, which does not prevent their widespread use by the council, associations and sports clubs; the flag is rectangular of 2:3 with a white bend from the upper hoist to the lower fly and the municipal arms at the centre.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Alhendín_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q564773",
+    "https://es.wikipedia.org/wiki/Alhendín"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "green",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "bend from the upper hoist to the lower fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Alhendín arms — quartered with castles, saltires and tree"
+    }
+  ]
+}

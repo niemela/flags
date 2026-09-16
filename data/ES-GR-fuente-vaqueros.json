@@ -1,0 +1,62 @@
+{
+  "id": "ES-GR-fuente-vaqueros",
+  "name": "Fuente Vaqueros (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q574513",
+    "ine": "18079"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Horizontal tricolour of red, white and green, the white stripe widening to the full height at the hoist, charged at the centre with the crowned municipal arms of Fuente Vaqueros (a fountain on blue and a book).",
+  "history": "Fuente Vaqueros adopted its arms and flag officially on 5 December 2005; the flag is rectangular of 2:3, formed of three equal horizontal stripes, red above, green below and white in the centre opening to the ends of the hoist, with the municipal arms centred and superimposed.",
+  "periods": [
+    {
+      "start": "2005-12-05"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Fuente_Vaqueros_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q574513",
+    "https://es.wikipedia.org/wiki/Fuente_Vaqueros"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "white stripe opening to the ends of the hoist"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Fuente Vaqueros arms — fountain and book"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "ES-GR-arenas-del-rey",
+  "name": "Arenas del Rey (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q550981",
+    "ine": "18020"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with a red diagonal band at the upper fly and a blue diagonal band at the lower hoist, charged at the centre with the crowned municipal arms of Arenas del Rey (an eagle, roundels and a bridge on yellow).",
+  "history": "Municipal flag of Arenas del Rey; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Arenas_del_Rey_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q550981",
+    "https://es.wikipedia.org/wiki/Arenas_del_Rey"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "fly",
+      "role": "band at the upper fly"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "hoist",
+      "role": "band at the lower hoist"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Arenas del Rey arms — eagle, roundels and bridge"
+    }
+  ]
+}

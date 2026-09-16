@@ -1,0 +1,59 @@
+{
+  "id": "ES-GR-pinos-puente",
+  "name": "Pinos Puente (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q611199",
+    "ine": "18158"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Vertical tricolour of green, white and green, the white charged with a green pine.",
+  "history": "Pinos Puente adopted its arms and flag officially on 9 July 1992; the flag is rectangular of 3:2, divided vertically into three parts, the lateral green of 1/4 of the length each and the central white.",
+  "periods": [
+    {
+      "start": "1992-07-09"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Pinos_Puente_Spain.svg",
+    "https://www.wikidata.org/wiki/Q611199",
+    "https://es.wikipedia.org/wiki/Pinos_Puente"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "pine"
+    }
+  ]
+}

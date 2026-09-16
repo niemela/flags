@@ -1,0 +1,59 @@
+{
+  "id": "ES-GR-diezma",
+  "name": "Diezma (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q983622",
+    "ine": "18067"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Tierced per bend sinister, green at the upper hoist, white in the middle and red at the lower fly, charged at the centre with the crowned municipal arms of Diezma (a castle on red, a fleur-de-lis and a mount).",
+  "history": "Diezma adopted its arms and flag officially on 26 March 2025; the flag is rectangular of 2:3, tierced per bend sinister, green from the lower third of the hoist to the right third of the upper edge, with the municipal arms superimposed at the centre.",
+  "periods": [
+    {
+      "start": "2025-03-26"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Diezma_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q983622",
+    "https://es.wikipedia.org/wiki/Diezma"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "broad white band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Diezma arms — castle, fleur-de-lis and mount"
+    }
+  ]
+}

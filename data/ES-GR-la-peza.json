@@ -1,0 +1,68 @@
+{
+  "id": "ES-GR-la-peza",
+  "name": "La Peza (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q611223",
+    "ine": "18154"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Three vertical stripes of yellow, red and yellow in the proportions 1:3:1, the red charged with a yellow castle.",
+  "history": "La Peza adopted its arms and flag officially on 6 June 1998; the flag is rectangular of 2:3, formed of three vertical stripes in the proportions 1/5, 3/5 and 1/5, the outer yellow and the central red with a yellow castle.",
+  "periods": [
+    {
+      "start": "1998-06-06"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_La_Peza_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q611223",
+    "https://es.wikipedia.org/wiki/La_Peza"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle masoned black"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "shading of the castle"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "ES-GR-nevada",
+  "name": "Nevada (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q605280",
+    "ine": "18903"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided by a broad white band from the lower hoist to the upper fly, crimson at the upper hoist and lower fly, charged at the centre with the crowned municipal arms of Nevada (a crescent, a bird, a cross of Saint James and ears of wheat).",
+  "history": "Municipal flag of Nevada; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Nevada_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q605280",
+    "https://es.wikipedia.org/wiki/Nevada_(Granada)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "maroon",
+      "bend": "maroon",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "broad band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Nevada arms — crescent, bird, cross of Saint James and ears of wheat"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "red of the arms"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "ES-GR-lecrin",
+  "name": "Lecrín (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q339160",
+    "ine": "18119"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "pink"
+    }
+  ],
+  "description": "Two equal vertical stripes, green at the hoist with a white castle and, at the fly, seven horizontal stripes of white and blue.",
+  "history": "Lecrín adopted its arms and flag officially on 29 January 2009; the flag is rectangular of 2:3, formed of two equal vertical stripes, green with a white castle masoned black and open in green at the hoist and seven equal horizontal stripes at the fly.",
+  "periods": [
+    {
+      "start": "2009-01-29"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Lecrín_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q339160",
+    "https://es.wikipedia.org/wiki/Lecrín"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "castle masoned black and open in green"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white"
+      ],
+      "count": 7,
+      "position": "fly",
+      "role": "seven equal stripes of white and blue at the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "pink",
+      "position": "hoist",
+      "role": "shading of the castle"
+    }
+  ]
+}

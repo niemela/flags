@@ -1,0 +1,70 @@
+{
+  "id": "ES-GR-benalua-de-las-villas",
+  "name": "Benalúa de las Villas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q554814",
+    "ine": "18028"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "pink"
+    }
+  ],
+  "description": "White field with three green trees above a red indented stripe and a blue stripe along the lower edge.",
+  "history": "Municipal flag of Benalúa de las Villas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Benalúa_de_las_Villas_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q554814",
+    "https://es.wikipedia.org/wiki/Benalúa_de_las_Villas"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "top",
+      "count": 3
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "position": "bottom",
+      "role": "red stripe indented on its upper edge above a white and a blue stripe"
+    },
+    {
+      "type": "glyph",
+      "color": "pink",
+      "position": "top",
+      "role": "shading of the trees"
+    }
+  ]
+}

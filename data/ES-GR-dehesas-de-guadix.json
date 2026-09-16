@@ -1,0 +1,60 @@
+{
+  "id": "ES-GR-dehesas-de-guadix",
+  "name": "Dehesas de Guadix (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q559308",
+    "ine": "18064"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontally divided yellow over green with a blue triangle fimbriated white issuing from the hoist.",
+  "history": "Municipal flag of Dehesas de Guadix; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Dehesas_de_Guadix.svg",
+    "https://www.wikidata.org/wiki/Q559308",
+    "https://es.wikipedia.org/wiki/Dehesas_de_Guadix"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "triangle edged white with its base along the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "edge of the triangle"
+    }
+  ]
+}

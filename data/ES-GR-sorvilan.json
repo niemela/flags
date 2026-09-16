@@ -1,0 +1,72 @@
+{
+  "id": "ES-GR-sorvilan",
+  "name": "Sorvilán (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q615809",
+    "ine": "18177"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Green field charged with a white tower between two yellow ears of wheat, with a white and a blue stripe along the lower edge.",
+  "history": "Sorvilán adopted its arms and flag officially on 22 March 2001; the flag is rectangular of 2:3, green, with a white tower between two yellow ears of wheat and white and blue stripes along the lower edge representing the coast.",
+  "periods": [
+    {
+      "start": "2001-03-22"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Sorvilán_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q615809",
+    "https://es.wikipedia.org/wiki/Sorvilán"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "tower"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "ears of wheat flanking the tower"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2,
+      "position": "bottom",
+      "role": "white and blue stripes along the lower edge"
+    }
+  ]
+}

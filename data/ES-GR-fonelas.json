@@ -1,0 +1,67 @@
+{
+  "id": "ES-GR-fonelas",
+  "name": "Fonelas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q574337",
+    "ine": "18076"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three vertical stripes in the proportions 1:2:1, the outer chequy of black and yellow and the central red charged with the white stela of Fonelas.",
+  "history": "The flag is rectangular of 2:3, formed of three vertical stripes in the proportions 1/4, 1/2 and 1/4, the outer chequy of black and yellow and the central red with the stela of Fonelas in white.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Fonelas_Spain.svg",
+    "https://www.wikidata.org/wiki/Q574337",
+    "https://es.wikipedia.org/wiki/Fonelas"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black",
+        "red",
+        "black"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "chequy",
+      "field": "black",
+      "chequy": "yellow",
+      "position": "hoist",
+      "role": "chequy of black and yellow in the outer stripes"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "stylised stela of Fonelas on the red"
+    }
+  ]
+}

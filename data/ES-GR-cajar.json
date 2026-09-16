@@ -1,0 +1,77 @@
+{
+  "id": "ES-GR-cajar",
+  "name": "Cájar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q554805",
+    "ine": "18036"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "White field with the fly two thirds barry of light blue and white, charged at the hoist with a green pomegranate.",
+  "history": "Municipal flag of Cájar; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cájar_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q554805",
+    "https://es.wikipedia.org/wiki/Cájar"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "light-blue",
+        "white",
+        "light-blue"
+      ],
+      "count": 5,
+      "position": "fly",
+      "role": "barry of light blue and white at the fly"
+    },
+    {
+      "type": "fruit",
+      "color": "green",
+      "position": "hoist",
+      "role": "pomegranate open showing its seeds"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "hoist",
+      "role": "seeds of the pomegranate"
+    }
+  ]
+}

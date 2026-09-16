@@ -1,0 +1,59 @@
+{
+  "id": "ES-GR-algarinejo",
+  "name": "Algarinejo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q388975",
+    "ine": "18012"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Vertically divided green and white, with a rectangle of each colour on the other.",
+  "history": "Algarinejo adopted its arms and flag officially on 20 August 1998; the flag is rectangular of 2:3, formed of two equal vertical stripes, green at the hoist and white at the fly, with a rectangle of the one on the other.",
+  "periods": [
+    {
+      "start": "1998-08-20"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Algarinejo.svg",
+    "https://www.wikidata.org/wiki/Q388975",
+    "https://es.wikipedia.org/wiki/Algarinejo"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "square",
+      "color": "white",
+      "position": "hoist",
+      "role": "white rectangle on the green"
+    },
+    {
+      "type": "square",
+      "color": "green",
+      "position": "fly",
+      "role": "green rectangle on the white"
+    }
+  ]
+}

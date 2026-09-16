@@ -1,0 +1,49 @@
+{
+  "id": "ES-GR-rubite",
+  "name": "Rubite (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q615061",
+    "ine": "18170"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided by a white bend sinister from the lower hoist to the upper fly, green above and blue below.",
+  "history": "Municipal flag of Rubite; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Rubite_Spain.svg",
+    "https://www.wikidata.org/wiki/Q615061",
+    "https://es.wikipedia.org/wiki/Rubite"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "band from the lower hoist to the upper fly"
+    }
+  ]
+}

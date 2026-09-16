@@ -1,0 +1,67 @@
+{
+  "id": "ES-GR-cortes-de-baza",
+  "name": "Cortes de Baza (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q557947",
+    "ine": "18053"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "status": "de-facto",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A red hoist stripe of one third bearing a white tower, the fly of three horizontal stripes, white, blue and white.",
+  "history": "Cortes de Baza has its own arms and flag, although they have not been made official under the regional regulations, which does not prevent their widespread use; the flag is rectangular of 2:3, formed of three equal horizontal stripes, white at the edges and blue in the centre, with a vertical stripe of 1/3 of the length next to the hoist.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cortes_de_Baza_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q557947",
+    "https://es.wikipedia.org/wiki/Cortes_de_Baza"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "tower"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "white"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "fly tricolour white, blue and white"
+    }
+  ]
+}

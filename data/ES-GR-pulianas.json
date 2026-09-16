@@ -1,0 +1,54 @@
+{
+  "id": "ES-GR-pulianas",
+  "name": "Pulianas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q615266",
+    "ine": "18165"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided by a broad white band from the lower hoist to the upper fly, red above and green below, charged at the centre with the crowned municipal arms of Pulianas (a castle on red above a bridge and waves).",
+  "history": "Municipal flag of Pulianas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Pulianas_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q615266",
+    "https://es.wikipedia.org/wiki/Pulianas"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "broad band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Pulianas arms — castle above a bridge and waves"
+    }
+  ]
+}

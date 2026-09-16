@@ -1,0 +1,49 @@
+{
+  "id": "ES-GR-cuevas-del-campo",
+  "name": "Cuevas del Campo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q558119",
+    "ine": "18912"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, yellow above with a black key and blue below.",
+  "history": "Municipal flag of Cuevas del Campo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cuevas_del_Campo.svg",
+    "https://www.wikidata.org/wiki/Q558119",
+    "https://es.wikipedia.org/wiki/Cuevas_del_Campo"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "key",
+      "color": "black",
+      "position": "hoist",
+      "role": "key in pale in the upper hoist"
+    }
+  ]
+}

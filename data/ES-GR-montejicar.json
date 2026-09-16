@@ -1,0 +1,67 @@
+{
+  "id": "ES-GR-montejicar",
+  "name": "Montejícar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q593505",
+    "ine": "18136"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A white triangle from the upper corners to the middle of the lower edge bearing a green eradicated olive tree, the hoist triangle yellow and the fly triangle red.",
+  "history": "Montejícar adopted its arms and flag officially on 6 March 2007; the flag is rectangular of 2:3, formed of a white triangle with a green eradicated olive tree whose vertices are at the upper corners and the midpoint of the lower edge, the hoist triangle yellow and the fly triangle red.",
+  "periods": [
+    {
+      "start": "2007-03-06"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Montejícar_Spain.svg",
+    "https://www.wikidata.org/wiki/Q593505",
+    "https://es.wikipedia.org/wiki/Montejícar"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "triangle at the hoist"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "fly",
+      "role": "triangle at the fly"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "eradicated olive tree"
+    }
+  ]
+}

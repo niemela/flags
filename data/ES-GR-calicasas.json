@@ -1,0 +1,65 @@
+{
+  "id": "ES-GR-calicasas",
+  "name": "Calicasas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q554225",
+    "ine": "18037"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontally divided red over green with a white isosceles triangle from the hoist to the middle of the fly, over which lies a blue triangle from the hoist to the centre.",
+  "history": "Calicasas adopted its arms and flag officially on 4 January 2006; the flag is rectangular of 2:3, formed of a white isosceles triangle with its vertices at the ends of the hoist and the midpoint of the fly, with a smaller triangle superimposed.",
+  "periods": [
+    {
+      "start": "2006-01-04"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Calicasas.svg",
+    "https://www.wikidata.org/wiki/Q554225",
+    "https://es.wikipedia.org/wiki/Calicasas"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "isosceles triangle with its base along the hoist and its apex at the middle of the fly"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "triangle with its base along the hoist and its apex at the centre"
+    }
+  ]
+}

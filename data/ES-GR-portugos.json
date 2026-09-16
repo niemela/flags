@@ -1,0 +1,63 @@
+{
+  "id": "ES-GR-portugos",
+  "name": "Pórtugos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q609921",
+    "ine": "18163"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Vertical tricolour of green, white and green with a broad white middle stripe, charged with the crowned municipal arms of Pórtugos (a mountain and a fountain on green) above five orange roundels.",
+  "history": "Municipal flag of Pórtugos; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Pórtugos_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q609921",
+    "https://es.wikipedia.org/wiki/Pórtugos"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Pórtugos arms — mountain and fountain"
+    },
+    {
+      "type": "disc",
+      "color": "orange",
+      "position": "bottom",
+      "count": 5,
+      "role": "five roundels in a row beneath the arms"
+    }
+  ]
+}

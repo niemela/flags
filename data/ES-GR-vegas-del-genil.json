@@ -1,0 +1,69 @@
+{
+  "id": "ES-GR-vegas-del-genil",
+  "name": "Vegas del Genil (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q618377",
+    "ine": "18911"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Light blue field with white wavy stripes at the hoist and the fly and a white central pale charged with the crowned municipal arms of Vegas del Genil (a bridge, a tree and waves).",
+  "history": "Vegas del Genil adopted its arms and flag officially on 16 June 2004; the flag is rectangular of 2:3, light blue with white wavy stripes at the hoist and the fly and a white central stripe bearing the municipal arms.",
+  "periods": [
+    {
+      "start": "2004-06-16"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Vegas_del_Genil_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q618377",
+    "https://es.wikipedia.org/wiki/Vegas_del_Genil"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "hoist",
+      "role": "wavy stripe at the hoist"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "fly",
+      "role": "wavy stripe at the fly"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "central pale"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Vegas del Genil arms — bridge, tree and waves"
+    }
+  ]
+}

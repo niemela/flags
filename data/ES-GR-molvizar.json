@@ -1,0 +1,54 @@
+{
+  "id": "ES-GR-molvizar",
+  "name": "Molvízar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q578183",
+    "ine": "18133"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided by a blue bend from the upper hoist to the lower fly, yellow above and green below, charged at the centre with the crowned municipal arms of Molvízar (a tree and a sword on white above waves).",
+  "history": "Municipal flag of Molvízar; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Molvízar_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q578183",
+    "https://es.wikipedia.org/wiki/Molvízar"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "green",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "role": "bend from the upper hoist to the lower fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Molvízar arms — tree and sword above waves"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "ES-GR-torrenueva-costa",
+  "name": "Torrenueva Costa (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q6150800",
+    "ine": "18916"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Vertically divided green and blue, the green with a yellow sun bearing a green disc and a white tower in the canton and the blue with white waves at the lower fly.",
+  "history": "Torrenueva Costa adopted its arms and flag in 2003, when it was still a local entity of Motril, and ratified them as a municipality on 21 October 2019.",
+  "periods": [
+    {
+      "start": "2003"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Torrenueva_Costa_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q6150800",
+    "https://es.wikipedia.org/wiki/Torrenueva_Costa"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "canton",
+      "role": "sun bearing a green disc with a white tower"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "canton",
+      "role": "tower on the disc of the sun"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "fly",
+      "role": "waves at the lower fly"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ES-GR-colomera",
+  "name": "Colomera (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GR",
+  "codes": {
+    "wikidata": "Q557966",
+    "ine": "18051"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided by a red diagonal band from the lower hoist to the upper fly, green above and blue below, charged at the centre with the crowned municipal arms of Colomera (a dove and a tower).",
+  "history": "Municipal flag of Colomera; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Colomera_(Granada).svg",
+    "https://www.wikidata.org/wiki/Q557966",
+    "https://es.wikipedia.org/wiki/Colomera"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "role": "band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Colomera arms — dove and tower"
+    }
+  ]
+}
