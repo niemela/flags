@@ -1,0 +1,68 @@
+{
+  "id": "ES-CR-torre-de-juan-abad",
+  "name": "Torre de Juan Abad (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CR",
+  "codes": {
+    "wikidata": "Q1640790",
+    "ine": "13084"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertical tricolour of white, blue and white, the hoist charged with a red tower, the blue with three yellow fleurs-de-lis in pale and the fly with a red cross of Saint James.",
+  "history": "Municipal flag of Torre de Juan Abad; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Torre_de_Juan_Abad.svg",
+    "https://www.wikidata.org/wiki/Q1640790",
+    "https://es.wikipedia.org/wiki/Torre_de_Juan_Abad"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "white"
+      ],
+      "count": 3
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "hoist",
+      "role": "tower"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "center",
+      "count": 3,
+      "role": "three fleurs-de-lis in pale"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "fly",
+      "role": "cross of Saint James"
+    }
+  ]
+}

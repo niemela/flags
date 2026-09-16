@@ -1,0 +1,54 @@
+{
+  "id": "ES-CR-saceruela",
+  "name": "Saceruela (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CR",
+  "codes": {
+    "wikidata": "Q1657948",
+    "ine": "13073"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Gyronny of yellow and black, charged at the centre with a red cross of Calatrava.",
+  "history": "The flag is gyronny of gold and sable with the cross of Calatrava at the centre.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Saceruela_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1657948",
+    "https://es.wikipedia.org/wiki/Saceruela"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "black",
+      "position": "center",
+      "count": 4,
+      "role": "gyronny of eight yellow and black"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "center",
+      "role": "cross of Calatrava"
+    }
+  ]
+}

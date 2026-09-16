@@ -1,0 +1,59 @@
+{
+  "id": "ES-CR-san-carlos-del-valle",
+  "name": "San Carlos del Valle (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CR",
+  "codes": {
+    "wikidata": "Q1628769",
+    "ine": "13074"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field with a blue canton bearing a white cross throughout and a red cross of Saint James in the fly.",
+  "history": "Municipal flag of San Carlos del Valle; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_San_Carlos_del_Valle_(Ciudad_Real).svg",
+    "https://www.wikidata.org/wiki/Q1628769",
+    "https://es.wikipedia.org/wiki/San_Carlos_del_Valle"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "position": "hoist",
+      "role": "canton of half the height and length"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "white",
+      "position": "hoist",
+      "role": "cross throughout on the canton"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "fly",
+      "role": "cross of Saint James"
+    }
+  ]
+}

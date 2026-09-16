@@ -1,0 +1,51 @@
+{
+  "id": "ES-CR-navalpino",
+  "name": "Navalpino (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CR",
+  "codes": {
+    "wikidata": "Q1657975",
+    "ine": "13059"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided by a broad white diagonal band from the lower hoist to the upper fly, green above and green below, charged at the centre with the crowned municipal arms of Navalpino (a pine, a tree stump and a bird).",
+  "history": "Municipal flag of Navalpino; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Navalpino.svg",
+    "https://www.wikidata.org/wiki/Q1657975",
+    "https://es.wikipedia.org/wiki/Navalpino"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "broad band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Navalpino arms — pine, stump and bird"
+    }
+  ]
+}

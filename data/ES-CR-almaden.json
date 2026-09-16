@@ -1,0 +1,56 @@
+{
+  "id": "ES-CR-almaden",
+  "name": "Almadén (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CR",
+  "codes": {
+    "wikidata": "Q465085",
+    "ine": "13011"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Horizontally divided red over green with a white triangle issuing from the hoist to the fly, charged with the crowned municipal arms of Almadén (a castle, a lion and mining tools).",
+  "history": "Municipal flag of Almadén; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Almadén_Spain.svg",
+    "https://www.wikidata.org/wiki/Q465085",
+    "https://es.wikipedia.org/wiki/Almadén"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "triangle from the hoist edge to the fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Almadén arms — castle, lion and mining tools"
+    }
+  ]
+}

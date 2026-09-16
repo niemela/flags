@@ -1,0 +1,55 @@
+{
+  "id": "ES-CR-fontanarejo",
+  "name": "Fontanarejo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CR",
+  "codes": {
+    "wikidata": "Q1658056",
+    "ine": "13041"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Vertical tricolour of white, red and white with a broad red middle stripe charged with a white six-pointed star.",
+  "history": "Municipal flag of Fontanarejo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Fontanarejo_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1658056",
+    "https://es.wikipedia.org/wiki/Fontanarejo"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "white",
+      "position": "center"
+    }
+  ]
+}

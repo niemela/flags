@@ -1,0 +1,56 @@
+{
+  "id": "ES-CR-viso-del-marques",
+  "name": "Viso del Marqués (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CR",
+  "codes": {
+    "wikidata": "Q1641553",
+    "ine": "13098"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided horizontally light blue over yellow with a white triangle issuing from the hoist bearing the crowned municipal arms of Viso del Marqués (a chequy field on red).",
+  "history": "Municipal flag of Viso del Marqués; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Viso_del_Marqués_(Ciudad_Real).svg",
+    "https://www.wikidata.org/wiki/Q1641553",
+    "https://es.wikipedia.org/wiki/Viso_del_Marqués"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "triangle with its base along the hoist"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Viso del Marqués arms — chequy on red"
+    }
+  ]
+}

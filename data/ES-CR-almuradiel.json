@@ -1,0 +1,54 @@
+{
+  "id": "ES-CR-almuradiel",
+  "name": "Almuradiel (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CR",
+  "codes": {
+    "wikidata": "Q1632554",
+    "ine": "13016"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided by a white diagonal band from the lower hoist to the upper fly, blue above and red below, charged at the centre with the crowned municipal arms of Almuradiel (a cross of Calatrava, the monogram of Charles III and an anchor).",
+  "history": "Municipal flag of Almuradiel; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Almuradiel.svg",
+    "https://www.wikidata.org/wiki/Q1632554",
+    "https://es.wikipedia.org/wiki/Almuradiel"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Almuradiel arms — cross of Calatrava, monogram of Charles III and anchor"
+    }
+  ]
+}

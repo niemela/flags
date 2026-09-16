@@ -1,0 +1,58 @@
+{
+  "id": "ES-CR-alcoba",
+  "name": "Alcoba de los Montes (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CR",
+  "codes": {
+    "wikidata": "Q1658775",
+    "ine": "13006"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Horizontally divided white over red with a green triangle at the hoist bearing a white six-pointed star.",
+  "history": "Municipal flag of Alcoba; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Alcoba.svg",
+    "https://www.wikidata.org/wiki/Q1658775",
+    "https://es.wikipedia.org/wiki/Alcoba_de_los_Montes"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "hoist",
+      "role": "triangle with its base along the hoist"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "white",
+      "position": "hoist"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ES-CR-llanos-del-caudillo",
+  "name": "Llanos del Caudillo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CR",
+  "codes": {
+    "wikidata": "Q585451",
+    "ine": "13904"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided by a broad white diagonal band from the lower hoist to the upper fly, green above and blue below, charged at the centre with the crowned municipal arms of Llanos del Caudillo (a sun on blue above ears of wheat on green).",
+  "history": "Municipal flag of Llanos del Caudillo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Llanos_del_Caudillo_(Ciudad_Real).svg",
+    "https://www.wikidata.org/wiki/Q585451",
+    "https://es.wikipedia.org/wiki/Llanos_del_Caudillo"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "broad band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Llanos del Caudillo arms — sun above ears of wheat"
+    }
+  ]
+}

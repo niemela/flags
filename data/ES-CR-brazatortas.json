@@ -1,0 +1,54 @@
+{
+  "id": "ES-CR-brazatortas",
+  "name": "Brazatortas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CR",
+  "codes": {
+    "wikidata": "Q1631975",
+    "ine": "13024"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly by a broad white band, red above and green below, charged at the centre with the crowned municipal arms of Brazatortas (a tree, ears of wheat and a boar on white and green).",
+  "history": "Municipal flag of Brazatortas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Brazatortas_(Ciudad_Real).svg",
+    "https://www.wikidata.org/wiki/Q1631975",
+    "https://es.wikipedia.org/wiki/Brazatortas"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "broad band from the upper hoist to the lower fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Brazatortas arms — tree, ears of wheat and boar"
+    }
+  ]
+}

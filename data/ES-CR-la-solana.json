@@ -1,0 +1,71 @@
+{
+  "id": "ES-CR-la-solana",
+  "name": "La Solana (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CR",
+  "codes": {
+    "wikidata": "Q1607352",
+    "ine": "13079"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, yellow above and blue below, within an embattled border green above and brown below, charged at the centre with the arms of La Solana (a sun on red beneath a helm).",
+  "history": "Municipal flag of La Solana; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_La_Solana_(Ciudad_Real).svg",
+    "https://www.wikidata.org/wiki/Q1607352",
+    "https://es.wikipedia.org/wiki/La_Solana_(Ciudad_Real)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "border",
+      "color": "green",
+      "role": "embattled border, green along the upper edges and brown along the lower"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "lower part of the embattled border"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "La Solana arms — sun on red beneath a helm"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "red field of the arms"
+    }
+  ]
+}

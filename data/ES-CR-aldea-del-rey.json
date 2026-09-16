@@ -1,0 +1,69 @@
+{
+  "id": "ES-CR-aldea-del-rey",
+  "name": "Aldea del Rey (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CR",
+  "codes": {
+    "wikidata": "Q579584",
+    "ine": "13009"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "pink"
+    }
+  ],
+  "description": "White field charged at the centre with a red castle between four red crosses of Calatrava in the corners.",
+  "history": "Municipal flag of Aldea del Rey; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Aldea_del_Rey_(Ciudad_Real).svg",
+    "https://www.wikidata.org/wiki/Q579584",
+    "https://es.wikipedia.org/wiki/Aldea_del_Rey"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "center",
+      "role": "castle"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "hoist",
+      "count": 4,
+      "role": "crosses of Calatrava in the four corners"
+    },
+    {
+      "type": "glyph",
+      "color": "maroon",
+      "position": "center",
+      "role": "shading of the castle"
+    },
+    {
+      "type": "glyph",
+      "color": "pink",
+      "position": "center",
+      "role": "highlights of the castle"
+    }
+  ]
+}

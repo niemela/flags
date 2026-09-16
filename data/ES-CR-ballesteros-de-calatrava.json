@@ -1,0 +1,54 @@
+{
+  "id": "ES-CR-ballesteros-de-calatrava",
+  "name": "Ballesteros de Calatrava (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CR",
+  "codes": {
+    "wikidata": "Q953205",
+    "ine": "13022"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Vertically divided red and white, the red charged with two white crossbows in pale and the white with a red cross of Calatrava.",
+  "history": "Municipal flag of Ballesteros de Calatrava; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Ballesteros_de_Calatrava_Spain.svg",
+    "https://www.wikidata.org/wiki/Q953205",
+    "https://es.wikipedia.org/wiki/Ballesteros_de_Calatrava"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "two crossbows in pale"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "fly",
+      "role": "cross of Calatrava"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "ES-CR-campo-de-criptana",
+  "name": "Campo de Criptana (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CR",
+  "codes": {
+    "wikidata": "Q681080",
+    "ine": "13028"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Vertically divided blue and red, the blue charged with two white crescents in pale and the red with a yellow castle beneath a yellow star.",
+  "history": "The arms and the flag of Campo de Criptana share the same parted design; the arms are shown charged on the pennant of Castile and a cross of Saint James.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Campo_de_Criptana_(Ciudad_Real).svg",
+    "https://www.wikidata.org/wiki/Q681080",
+    "https://es.wikipedia.org/wiki/Campo_de_Criptana"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "hoist",
+      "count": 2,
+      "role": "two crescents in pale"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "role": "castle"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "yellow",
+      "position": "fly"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "fly",
+      "role": "shading of the castle"
+    }
+  ]
+}
