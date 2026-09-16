@@ -1,0 +1,66 @@
+{
+  "id": "ES-TE-ojos-negros",
+  "name": "Ojos Negros (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1651233",
+    "ine": "44169"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with the bars of Aragon along the hoist with a pointed edge, charged with two rows of four black discs (the black eyes).",
+  "history": "Municipal flag of Ojos Negros; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Ojos_Negros_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1651233",
+    "https://es.wikipedia.org/wiki/Ojos_Negros"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "stripe with a pointed edge along the hoist bearing the red bars of Aragon"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "bars on the hoist stripe"
+    },
+    {
+      "type": "disc",
+      "color": "black",
+      "position": "fly",
+      "count": 8,
+      "role": "two rows of four black discs"
+    }
+  ]
+}

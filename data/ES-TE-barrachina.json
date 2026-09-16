@@ -1,0 +1,70 @@
+{
+  "id": "ES-TE-barrachina",
+  "name": "Barrachina (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1653300",
+    "ine": "44035"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A white hoist stripe with red and yellow bars above and below bearing a green tree, separated by a green line from the red fly charged with a yellow bend.",
+  "history": "Municipal flag of Barrachina; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Barrachina.svg",
+    "https://www.wikidata.org/wiki/Q1653300",
+    "https://es.wikipedia.org/wiki/Barrachina"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "bars of red and yellow at the top and bottom of the hoist stripe and bend on the red fly"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist",
+      "role": "tree on the hoist stripe"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "fly",
+      "role": "bend from the upper hoist of the fly to the lower fly"
+    }
+  ]
+}

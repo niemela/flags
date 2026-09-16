@@ -1,0 +1,68 @@
+{
+  "id": "ES-TE-cascante-del-rio",
+  "name": "Cascante del Río (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1652429",
+    "ine": "44064"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "Blue field with a yellow tree at the upper hoist, divided by a light blue stepped line from the lower hoist to the upper fly from a fly part of red and yellow bars.",
+  "history": "Municipal flag of Cascante del Río; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cascante_del_Río.svg",
+    "https://www.wikidata.org/wiki/Q1652429",
+    "https://es.wikipedia.org/wiki/Cascante_del_Río"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "tree",
+      "color": "yellow",
+      "position": "canton",
+      "role": "tree at the upper hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "light-blue",
+      "position": "center",
+      "role": "stepped line from the lower hoist to the upper fly"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "fly",
+      "role": "bars of yellow and red at the lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "fly",
+      "role": "bars at the lower fly"
+    }
+  ]
+}

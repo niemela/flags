@@ -1,0 +1,66 @@
+{
+  "id": "ES-TE-arcos-de-las-salinas",
+  "name": "Arcos de las Salinas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q677995",
+    "ine": "44026"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with a red stripe edged yellow with a dancetty inner edge along the hoist and two white lozenges at the fly.",
+  "history": "Municipal flag of Arcos de las Salinas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Arcos_de_las_Salinas.svg",
+    "https://www.wikidata.org/wiki/Q677995",
+    "https://es.wikipedia.org/wiki/Arcos_de_las_Salinas"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "stripe with a zigzag inner edge along the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "edge of the hoist stripe"
+    },
+    {
+      "type": "lozenge",
+      "color": "white",
+      "position": "fly",
+      "count": 2,
+      "role": "two lozenges at the fly"
+    }
+  ]
+}

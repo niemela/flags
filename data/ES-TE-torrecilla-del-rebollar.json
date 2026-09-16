@@ -1,0 +1,63 @@
+{
+  "id": "ES-TE-torrecilla-del-rebollar",
+  "name": "Torrecilla del Rebollar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1651029",
+    "ine": "44222"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "maroon"
+    }
+  ],
+  "description": "Yellow field charged at the centre with a green oak tree between two red towers.",
+  "history": "Municipal flag of Torrecilla del Rebollar; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Torrecilla_del_Rebollar_(Teruel).svg",
+    "https://www.wikidata.org/wiki/Q1651029",
+    "https://es.wikipedia.org/wiki/Torrecilla_del_Rebollar"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "oak tree"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "center",
+      "count": 2,
+      "role": "two towers flanking the tree"
+    },
+    {
+      "type": "glyph",
+      "color": "maroon",
+      "position": "center",
+      "role": "shading of the towers"
+    }
+  ]
+}

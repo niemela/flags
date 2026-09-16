@@ -1,0 +1,60 @@
+{
+  "id": "ES-TE-oliete",
+  "name": "Oliete (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q675071",
+    "ine": "44172"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field with a blue chevron from the hoist bearing a yellow castle, and two blue wavy stripes edged yellow to the fly.",
+  "history": "Municipal flag of Oliete; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Oliete_(Teruel).svg",
+    "https://www.wikidata.org/wiki/Q675071",
+    "https://es.wikipedia.org/wiki/Oliete"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "chevron",
+      "color": "blue",
+      "position": "hoist",
+      "role": "chevron issuing from the hoist corners and pointing to the fly"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle within the chevron"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "count": 2,
+      "role": "two wavy stripes edged yellow to the fly"
+    }
+  ]
+}

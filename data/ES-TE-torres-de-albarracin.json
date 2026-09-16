@@ -1,0 +1,60 @@
+{
+  "id": "ES-TE-torres-de-albarracin",
+  "name": "Torres de Albarracín (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1650890",
+    "ine": "44229"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Square white standard within concentric borders of green, white and red and a chequered outer edge, charged at the centre with a six-pointed star of red, green and white lozenges.",
+  "history": "Municipal flag of Torres de Albarracín; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Torres_de_Albarracín.svg",
+    "https://www.wikidata.org/wiki/Q1650890",
+    "https://es.wikipedia.org/wiki/Torres_de_Albarracín"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "border",
+      "color": "green",
+      "role": "concentric borders of green, white and red with a chequered outer edge"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "red border and lozenges of the star"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "green",
+      "position": "center",
+      "role": "six-pointed star of red, green and white lozenges at the centre"
+    }
+  ]
+}

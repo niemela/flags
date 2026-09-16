@@ -1,0 +1,63 @@
+{
+  "id": "ES-TE-villarquemado",
+  "name": "Villarquemado (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q927360",
+    "ine": "44261"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with the four red bars of Aragon in a hoist stripe with a pointed edge, charged with three yellow towers arranged two and one.",
+  "history": "Municipal flag of Villarquemado; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villarquemado.svg",
+    "https://www.wikidata.org/wiki/Q927360",
+    "https://es.wikipedia.org/wiki/Villarquemado"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "stripe with a pointed edge along the hoist bearing the red bars of Aragon"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "bars on the hoist stripe"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "count": 3,
+      "role": "three towers arranged two and one"
+    }
+  ]
+}

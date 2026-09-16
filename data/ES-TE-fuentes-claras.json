@@ -1,0 +1,75 @@
+{
+  "id": "ES-TE-fuentes-claras",
+  "name": "Fuentes Claras (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1643299",
+    "ine": "44112"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three horizontal stripes of red, blue and yellow in the proportions 2:5:2, the blue charged with a yellow fountain and arch bearing a green tree.",
+  "history": "Fuentes Claras has official arms and flag; the flag is a cloth whose length is three halves of its width, divided into three fesses, the first red and the third yellow of equal width (8/36 each) and the middle blue (20/36), on which are placed its principal arms: a golden fountain with two spouts on waves of azure and argent.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Fuentesclaras.svg",
+    "https://www.wikidata.org/wiki/Q1643299",
+    "https://es.wikipedia.org/wiki/Fuentes_Claras"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        5,
+        2
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "fountain within an arch"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "tree within the arch"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "waves of the fountain"
+    }
+  ]
+}

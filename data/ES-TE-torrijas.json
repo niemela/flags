@@ -1,0 +1,65 @@
+{
+  "id": "ES-TE-torrijas",
+  "name": "Torrijas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1651208",
+    "ine": "44231"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with red stripes with a yellow embattled inner edge along the upper and lower edges, charged at the hoist with a yellow tower.",
+  "history": "Municipal flag of Torrijas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Torrijas_(BOA).svg",
+    "https://www.wikidata.org/wiki/Q1651208",
+    "https://es.wikipedia.org/wiki/Torrijas"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "stripe with an embattled yellow inner edge along the upper edge"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "stripe with an embattled yellow inner edge along the lower edge"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "tower with a red door"
+    }
+  ]
+}

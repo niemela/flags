@@ -1,0 +1,65 @@
+{
+  "id": "ES-TE-formiche-alto",
+  "name": "Formiche Alto (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1657098",
+    "ine": "44103"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Green field with a yellow band from the lower hoist to the upper fly, charged with a yellow castle at the lower hoist and a pomegranate flower at the upper fly.",
+  "history": "Municipal flag of Formiche Alto; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Formiche_Alto.svg",
+    "https://www.wikidata.org/wiki/Q1657098",
+    "https://es.wikipedia.org/wiki/Formiche_Alto"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "role": "band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle at the lower hoist"
+    },
+    {
+      "type": "flower",
+      "color": "yellow",
+      "position": "fly",
+      "role": "pomegranate flower at the upper fly"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "fly",
+      "role": "pomegranate at the upper fly"
+    }
+  ]
+}

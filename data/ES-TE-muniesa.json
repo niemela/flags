@@ -1,0 +1,56 @@
+{
+  "id": "ES-TE-muniesa",
+  "name": "Muniesa (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1651022",
+    "ine": "44161"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with a broad red pale, charged with a yellow open book and a quill.",
+  "history": "Municipal flag of Muniesa; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Muniesa_(Teruel).svg",
+    "https://www.wikidata.org/wiki/Q1651022",
+    "https://es.wikipedia.org/wiki/Muniesa"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "broad pale"
+    },
+    {
+      "type": "book",
+      "color": "yellow",
+      "position": "center",
+      "role": "open book with a quill"
+    }
+  ]
+}

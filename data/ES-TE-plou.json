@@ -1,0 +1,58 @@
+{
+  "id": "ES-TE-plou",
+  "name": "Plou (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q963212",
+    "ine": "44184"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, yellow above and blue below, charged with a white monument at the hoist and a green plant at the upper fly.",
+  "history": "Municipal flag of Plou; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Plou_(Teruel).svg",
+    "https://www.wikidata.org/wiki/Q963212",
+    "https://es.wikipedia.org/wiki/Plou"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "blue",
+      "direction": "bend"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "monument (peirón) with a cross at the lower hoist"
+    },
+    {
+      "type": "flower",
+      "color": "green",
+      "position": "fly",
+      "role": "plant at the upper fly"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "ES-TE-visiedo",
+  "name": "Visiedo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1651431",
+    "ine": "44266"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square standard with a red border, a yellow frame of foliage and a central blue panel with a red saltire bearing a white oval with a castle and a cockerel.",
+  "history": "Municipal flag of Visiedo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Visiedo.svg",
+    "https://www.wikidata.org/wiki/Q1651431",
+    "https://es.wikipedia.org/wiki/Visiedo"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "border",
+      "color": "red",
+      "role": "border with foliage"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "central panel"
+    },
+    {
+      "type": "saltire",
+      "color": "red",
+      "position": "center",
+      "role": "saltire on the central panel"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center",
+      "role": "oval bearing a castle and a cockerel"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "foliage of the frame"
+    }
+  ]
+}

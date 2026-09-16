@@ -1,0 +1,68 @@
+{
+  "id": "ES-TE-aguaton",
+  "name": "Aguatón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1657152",
+    "ine": "44003"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A hoist third blue with a yellow cross bearing a yellow castle and a torch, the fly red with a triangular point at the hoist and two wavy stripes of blue edged yellow.",
+  "history": "Municipal flag of Aguatón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Aguatón.svg",
+    "https://www.wikidata.org/wiki/Q1657152",
+    "https://es.wikipedia.org/wiki/Aguatón"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "greek-cross",
+      "cross": "yellow",
+      "position": "hoist",
+      "role": "cross on the blue hoist third"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle with a torch above on the cross"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "count": 2,
+      "role": "two wavy stripes edged yellow on the red fly"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "ES-TE-toril-y-masegoso",
+  "name": "Toril y Masegoso (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1651247",
+    "ine": "44217"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with a band of yellow and red bars from the lower hoist to the upper fly, charged with a yellow bull's head at the upper hoist and a yellow tree at the lower fly.",
+  "history": "Municipal flag of Toril y Masegoso; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Toril_y_Masegoso_(Teruel).svg",
+    "https://www.wikidata.org/wiki/Q1651247",
+    "https://es.wikipedia.org/wiki/Toril_y_Masegoso"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "role": "band of yellow and red bars from the lower hoist to the upper fly"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "bars of the band"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "canton",
+      "role": "bull's head at the upper hoist"
+    },
+    {
+      "type": "tree",
+      "color": "yellow",
+      "position": "fly",
+      "role": "tree at the lower fly"
+    }
+  ]
+}

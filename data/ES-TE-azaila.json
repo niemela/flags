@@ -1,0 +1,65 @@
+{
+  "id": "ES-TE-azaila",
+  "name": "Azaila (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1632357",
+    "ine": "44031"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with a red pointed hoist stripe edged white, charged with a yellow sword and lance in saltire.",
+  "history": "Municipal flag of Azaila; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Azaila.svg",
+    "https://www.wikidata.org/wiki/Q1632357",
+    "https://es.wikipedia.org/wiki/Azaila"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "stripe along the hoist with a pointed edge, edged white"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "edge of the hoist stripe"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "sword and lance in saltire on the red"
+    }
+  ]
+}

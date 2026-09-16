@@ -1,0 +1,60 @@
+{
+  "id": "ES-TE-lagueruela",
+  "name": "Lagueruela (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1651549",
+    "ine": "44132"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Blue field with a yellow-edged vesica (eye shape) at the hoist bearing a yellow tower, and two green discs edged yellow at the fly.",
+  "history": "Municipal flag of Lagueruela; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Lagueruela_(Teruel).svg",
+    "https://www.wikidata.org/wiki/Q1651549",
+    "https://es.wikipedia.org/wiki/Lagueruela"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "lozenge",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "eye-shaped vesica outline at the hoist"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "tower within the vesica"
+    },
+    {
+      "type": "disc",
+      "color": "green",
+      "position": "fly",
+      "count": 2,
+      "role": "two discs edged yellow at the fly"
+    }
+  ]
+}

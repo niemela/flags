@@ -1,0 +1,59 @@
+{
+  "id": "ES-TE-torremocha-de-jiloca",
+  "name": "Torremocha de Jiloca (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1651439",
+    "ine": "44228"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field with a red hoist part edged yellow with a rounded fly edge, charged with a yellow tower.",
+  "history": "Municipal flag of Torremocha de Jiloca; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Torremocha_de_Jiloca.svg",
+    "https://www.wikidata.org/wiki/Q1651439",
+    "https://es.wikipedia.org/wiki/Torremocha_de_Jiloca"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "hoist part with a rounded edge"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "edge of the red hoist part"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "tower on the red"
+    }
+  ]
+}

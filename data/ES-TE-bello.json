@@ -1,0 +1,86 @@
+{
+  "id": "ES-TE-bello",
+  "name": "Bello (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q572787",
+    "ine": "44039"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "The four red bars of Aragon on yellow with a large blue-edged yellow vesica (eye shape) at the centre bearing a blue tower beneath a red cross.",
+  "history": "Municipal flag of Bello; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Bello_(Teruel).svg",
+    "https://www.wikidata.org/wiki/Q572787",
+    "https://es.wikipedia.org/wiki/Bello_(Teruel)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "role": "four red bars on yellow (Senyera)"
+    },
+    {
+      "type": "lozenge",
+      "color": "yellow",
+      "position": "center",
+      "role": "eye-shaped vesica edged blue"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "edge of the vesica and tower"
+    },
+    {
+      "type": "building",
+      "color": "blue",
+      "position": "center",
+      "role": "tower with a white door"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "center",
+      "role": "cross patty above the tower"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "door of the tower"
+    }
+  ]
+}

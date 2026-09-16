@@ -1,0 +1,77 @@
+{
+  "id": "ES-TE-rodenas",
+  "name": "Ródenas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1651444",
+    "ine": "44197"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "Horizontal stripes of yellow, red, blue and red, charged at the hoist with a red oval edged white bearing three grey swords.",
+  "history": "Municipal flag of Ródenas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Ródenas_(Teruel).svg",
+    "https://www.wikidata.org/wiki/Q1651444",
+    "https://es.wikipedia.org/wiki/Ródenas"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "blue",
+        "red"
+      ],
+      "count": 4,
+      "widths": [
+        1,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "type": "disc",
+      "color": "red",
+      "position": "hoist",
+      "role": "oval edged white at the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "edge of the oval"
+    },
+    {
+      "type": "glyph",
+      "color": "grey",
+      "position": "hoist",
+      "role": "three swords in pale and saltire on the oval"
+    }
+  ]
+}

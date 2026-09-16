@@ -1,0 +1,63 @@
+{
+  "id": "ES-TE-abejuela",
+  "name": "Abejuela (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q692805",
+    "ine": "44002"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field with a blue semicircle issuing from the hoist bearing a yellow castle, and two wavy stripes of yellow and green across the fly.",
+  "history": "Municipal flag of Abejuela; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Abejuela.svg",
+    "https://www.wikidata.org/wiki/Q692805",
+    "https://es.wikipedia.org/wiki/Abejuela"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "disc",
+      "color": "blue",
+      "position": "hoist",
+      "role": "semicircle issuing from the hoist"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle on the semicircle"
+    },
+    {
+      "type": "wave",
+      "color": "yellow",
+      "position": "fly",
+      "count": 2,
+      "role": "two wavy stripes of yellow edged green"
+    }
+  ]
+}

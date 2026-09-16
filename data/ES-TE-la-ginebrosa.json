@@ -1,0 +1,66 @@
+{
+  "id": "ES-TE-la-ginebrosa",
+  "name": "La Ginebrosa (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1651455",
+    "ine": "44118"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Yellow field with a blue chevron pointing to the fly bearing a green tree, continued by a blue wavy stripe to the fly, with two blue discs at the fly.",
+  "history": "Municipal flag of La Ginebrosa; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_La_Ginebrosa.svg",
+    "https://www.wikidata.org/wiki/Q1651455",
+    "https://es.wikipedia.org/wiki/La_Ginebrosa"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "chevron",
+      "color": "blue",
+      "position": "hoist",
+      "role": "chevron issuing from the hoist corners and pointing to the fly"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist",
+      "role": "tree within the chevron"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "role": "wavy stripe from the chevron to the fly"
+    },
+    {
+      "type": "disc",
+      "color": "blue",
+      "position": "fly",
+      "count": 2,
+      "role": "two discs at the fly"
+    }
+  ]
+}

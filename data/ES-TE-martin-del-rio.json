@@ -1,0 +1,75 @@
+{
+  "id": "ES-TE-martin-del-rio",
+  "name": "Martín del Río (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1650939",
+    "ine": "44144"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field with a central band of yellow and red bars, charged at the centre with a blue oval bearing a mitre between two arrows.",
+  "history": "Municipal flag of Martín del Río; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Martín_del_Río_(Teruel).svg",
+    "https://www.wikidata.org/wiki/Q1650939",
+    "https://es.wikipedia.org/wiki/Martín_del_Río"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 5,
+      "position": "center",
+      "role": "central band of yellow and red bars"
+    },
+    {
+      "type": "disc",
+      "color": "blue",
+      "position": "center",
+      "role": "oval at the centre"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "mitre between two white arrows on the oval"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "cross on the mitre"
+    }
+  ]
+}

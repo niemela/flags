@@ -1,0 +1,56 @@
+{
+  "id": "ES-TE-villastar",
+  "name": "Villastar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1766555",
+    "ine": "44263"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, blue above and red below with a red triangle at the fly, charged with a white tower at the hoist and two white Maltese crosses at the fly.",
+  "history": "Municipal flag of Villastar; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villastar.svg",
+    "https://www.wikidata.org/wiki/Q1766555",
+    "https://es.wikipedia.org/wiki/Villastar"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "tower at the hoist"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "fly",
+      "count": 2,
+      "role": "two Maltese crosses at the upper and lower fly"
+    }
+  ]
+}

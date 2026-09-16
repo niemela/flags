@@ -1,0 +1,59 @@
+{
+  "id": "ES-TE-escorihuela",
+  "name": "Escorihuela (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1653504",
+    "ine": "44097"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with a stripe of red and yellow pales along the hoist, charged with a large yellow letter E.",
+  "history": "Municipal flag of Escorihuela; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Escorihuela.svg",
+    "https://www.wikidata.org/wiki/Q1653504",
+    "https://es.wikipedia.org/wiki/Escorihuela"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 4,
+      "position": "hoist",
+      "role": "narrow pales of red and yellow along the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "large letter E on the blue"
+    }
+  ]
+}

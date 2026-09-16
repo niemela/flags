@@ -1,0 +1,62 @@
+{
+  "id": "ES-TE-foz-calanda",
+  "name": "Foz-Calanda (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1768500",
+    "ine": "44107"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with a white crescent-shaped band at the hoist bearing a yellow sickle, and a yellow horizontal stripe across the fly.",
+  "history": "Municipal flag of Foz-Calanda; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Foz-Calanda.svg",
+    "https://www.wikidata.org/wiki/Q1768500",
+    "https://es.wikipedia.org/wiki/Foz-Calanda"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "crescent-shaped band at the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "sickle on the crescent"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "horizontal stripe across the fly"
+    }
+  ]
+}

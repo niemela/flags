@@ -1,0 +1,52 @@
+{
+  "id": "ES-TE-orrios",
+  "name": "Orrios (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1651042",
+    "ine": "44175"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, white above and red below, charged with a white Maltese cross on the red and a red cross on the white.",
+  "history": "Municipal flag of Orrios; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Orrios_(Teruel).svg",
+    "https://www.wikidata.org/wiki/Q1651042",
+    "https://es.wikipedia.org/wiki/Orrios"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "fly",
+      "role": "Maltese cross on the red"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "hoist",
+      "role": "cross patty on the white"
+    }
+  ]
+}

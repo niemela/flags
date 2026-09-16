@@ -1,0 +1,68 @@
+{
+  "id": "ES-TE-maicas",
+  "name": "Maicas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q875871",
+    "ine": "44142"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Green field with bars of red and yellow along the upper and lower edges, charged at the centre with a yellow arched fountain.",
+  "history": "Municipal flag of Maicas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Maicas_(Teruel).svg",
+    "https://www.wikidata.org/wiki/Q875871",
+    "https://es.wikipedia.org/wiki/Maicas"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "bars of red and yellow along the upper and lower edges"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "bars along the edges"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "arched fountain"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "shading of the fountain"
+    }
+  ]
+}

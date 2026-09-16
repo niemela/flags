@@ -1,0 +1,66 @@
+{
+  "id": "ES-TE-cucalon",
+  "name": "Cucalón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q632938",
+    "ine": "44090"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "Vertically divided green and yellow with the green hoist half charged with a yellow tower, the yellow fly charged with three acorns between two axes.",
+  "history": "Municipal flag of Cucalón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cucalón.svg",
+    "https://www.wikidata.org/wiki/Q632938",
+    "https://es.wikipedia.org/wiki/Cucalón"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "tower"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "fly",
+      "role": "three acorns and axe handles on the yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "grey",
+      "position": "fly",
+      "role": "axe heads"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "ES-TE-singra",
+  "name": "Singra (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1908280",
+    "ine": "44213"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with a green band edged red from the upper hoist to the lower fly bearing a castle, with a yellow sun at the upper fly and a white crescent at the lower hoist.",
+  "history": "Municipal flag of Singra; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Singra_(Teruel).svg",
+    "https://www.wikidata.org/wiki/Q1908280",
+    "https://es.wikipedia.org/wiki/Singra"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "green",
+      "position": "center",
+      "role": "band edged red from the upper hoist to the lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "edges of the band"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "center",
+      "role": "castle on the band"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "fly",
+      "role": "sun at the upper fly"
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "hoist",
+      "role": "crescent at the lower hoist"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "ES-TE-torrijo-del-campo",
+  "name": "Torrijo del Campo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1650828",
+    "ine": "44232"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with a white hoist third bearing a green lozenge charged with a yellow tower, and two small shields of the bars of Aragon at the fly.",
+  "history": "Under mayor Miguel Ángel Meléndez the town council of Torrijo del Campo began a file for the adoption of municipal arms and a flag, which ended with the authorisation of the Government of Aragon by decree 100/1997 of 10 June to adopt them. The flag was to be a blue cloth of proportion 2/3, with a small shield of the Royal Sign of Aragon in each of its fly corners, and at the hoist a horizontal stripe of a third of the length of the cloth with a yellow tower with green door and windows placed within a white lozenge.",
+  "periods": [
+    {
+      "start": "1997-06-10"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Torrijo_del_Campo.svg",
+    "https://www.wikidata.org/wiki/Q1650828",
+    "https://es.wikipedia.org/wiki/Torrijo_del_Campo"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "lozenge",
+      "color": "green",
+      "position": "hoist",
+      "role": "lozenge on the white hoist third"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "tower with green door and windows on the lozenge"
+    },
+    {
+      "type": "shield",
+      "color": "yellow",
+      "position": "fly",
+      "count": 2,
+      "role": "two small shields with the red bars of Aragon at the upper and lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "fly",
+      "role": "bars on the shields"
+    }
+  ]
+}

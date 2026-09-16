@@ -1,0 +1,71 @@
+{
+  "id": "ES-TE-estercuel",
+  "name": "Estercuel (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1651625",
+    "ine": "44100"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Seven horizontal stripes alternating black and red, charged towards the hoist with a white oval bearing a green tree above a red building.",
+  "history": "Municipal flag of Estercuel; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Estercuel_(Teruel).svg",
+    "https://www.wikidata.org/wiki/Q1651625",
+    "https://es.wikipedia.org/wiki/Estercuel"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "red",
+        "black",
+        "red",
+        "black",
+        "red",
+        "black"
+      ],
+      "count": 7
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "hoist",
+      "role": "oval towards the hoist"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist",
+      "role": "tree on the oval"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "building beneath the tree"
+    }
+  ]
+}

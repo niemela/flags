@@ -1,0 +1,71 @@
+{
+  "id": "ES-TE-alacon",
+  "name": "Alacón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1653542",
+    "ine": "44006"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "purple"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Yellow field with four red bars along the hoist, charged at the fly with a purple leaping figure above a blue tower with white wings.",
+  "history": "Municipal flag of Alacón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Alacón.svg",
+    "https://www.wikidata.org/wiki/Q1653542",
+    "https://es.wikipedia.org/wiki/Alacón"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "four red bars along the hoist"
+    },
+    {
+      "type": "human-figure",
+      "color": "purple",
+      "position": "fly",
+      "role": "leaping figure"
+    },
+    {
+      "type": "building",
+      "color": "blue",
+      "position": "fly",
+      "role": "tower with white wings"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "fly",
+      "role": "wings of the tower"
+    }
+  ]
+}

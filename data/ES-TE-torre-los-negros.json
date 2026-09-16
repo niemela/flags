@@ -1,0 +1,69 @@
+{
+  "id": "ES-TE-torre-los-negros",
+  "name": "Torre los Negros (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1641538",
+    "ine": "44227"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Red field charged with a large yellow wavy-edged rectangle bearing a tower supported by two black figures.",
+  "history": "Municipal flag of Torre los Negros; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Torre_los_Negros.svg",
+    "https://www.wikidata.org/wiki/Q1641538",
+    "https://es.wikipedia.org/wiki/Torre_los_Negros"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "large wavy-edged rectangle at the centre"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "tower with red door and windows"
+    },
+    {
+      "type": "human-figure",
+      "color": "black",
+      "position": "center",
+      "count": 2,
+      "role": "two figures supporting the tower"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "branches beneath the tower"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "ES-TE-loscos",
+  "name": "Loscos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1651451",
+    "ine": "44138"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with a blue chevron pointing to the fly, charged at the hoist with a red church and at the fly with two red horizontal stripes.",
+  "history": "Municipal flag of Loscos; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Loscos_(Teruel).svg",
+    "https://www.wikidata.org/wiki/Q1651451",
+    "https://es.wikipedia.org/wiki/Loscos"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "chevron",
+      "color": "blue",
+      "position": "hoist",
+      "role": "thin chevron pointing to the fly"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "hoist",
+      "role": "church with a flame above"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "two horizontal stripes at the fly"
+    }
+  ]
+}

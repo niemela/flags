@@ -1,0 +1,72 @@
+{
+  "id": "ES-TE-cortes-de-aragon",
+  "name": "Cortes de Aragón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q2047697",
+    "ine": "44084"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "purple"
+    }
+  ],
+  "description": "Horizontal tricolour of red, yellow and red with a broad yellow stripe, charged with a white oval bearing a purple saffron flower and a white aqueduct.",
+  "history": "Municipal flag of Cortes de Aragón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cortes_de_Aragón.svg",
+    "https://www.wikidata.org/wiki/Q2047697",
+    "https://es.wikipedia.org/wiki/Cortes_de_Aragón_(Teruel)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "hoist",
+      "role": "oval bearing a saffron flower"
+    },
+    {
+      "type": "glyph",
+      "color": "purple",
+      "position": "hoist",
+      "role": "saffron flower on the oval"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "fly",
+      "role": "aqueduct of three arches"
+    }
+  ]
+}

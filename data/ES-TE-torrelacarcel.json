@@ -1,0 +1,62 @@
+{
+  "id": "ES-TE-torrelacarcel",
+  "name": "Torrelacárcel (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1650815",
+    "ine": "44226"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with a hoist part of yellow and red bars with a crenellated edge, from which a yellow point extends to the fly.",
+  "history": "Municipal flag of Torrelacárcel; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Torrelacárcel.svg",
+    "https://www.wikidata.org/wiki/Q1650815",
+    "https://es.wikipedia.org/wiki/Torrelacárcel"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "stripe of yellow and red bars with a crenellated edge along the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "bars on the hoist stripe"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "center",
+      "role": "long yellow point extending from the hoist stripe to the fly"
+    }
+  ]
+}

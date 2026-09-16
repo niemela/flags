@@ -1,0 +1,76 @@
+{
+  "id": "ES-TE-buena",
+  "name": "Bueña (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1653339",
+    "ine": "44046"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A red hoist stripe with a dancetty edge bearing a yellow castle, the fly yellow with a horizontal band of white and green wavy stripes and a red stripe.",
+  "history": "By decree 29/1998 of 10 February the Government of Aragon authorised the town council of Bueña, in the province of Teruel, to adopt its municipal arms and flag; the arms are gules, a mountain argent with a winding path vert leading to a castle or with a flag bearing the Royal Sign of Aragon.",
+  "periods": [
+    {
+      "start": "1998-02-10"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Bueña.svg",
+    "https://www.wikidata.org/wiki/Q1653339",
+    "https://es.wikipedia.org/wiki/Bueña"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "role": "dancetty (zigzag) division"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "fly",
+      "role": "band of white wavy stripes edged green with a red stripe across the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "fly",
+      "role": "wavy edges of the band"
+    }
+  ]
+}

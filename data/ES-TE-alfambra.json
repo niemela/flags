@@ -1,0 +1,70 @@
+{
+  "id": "ES-TE-alfambra",
+  "name": "Alfambra (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TE",
+  "codes": {
+    "wikidata": "Q1653307",
+    "ine": "44016"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Vertically divided, the hoist blue with a yellow castle beneath crossed swords, the fly yellow with a red mount and a red fess.",
+  "history": "Municipal flag of Alfambra; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Alfambra.svg",
+    "https://www.wikidata.org/wiki/Q1653307",
+    "https://es.wikipedia.org/wiki/Alfambra"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle beneath crossed swords"
+    },
+    {
+      "type": "mountain",
+      "color": "red",
+      "position": "fly",
+      "role": "stylised red mount"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "red fess across the mount"
+    }
+  ]
+}
