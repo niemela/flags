@@ -1,0 +1,62 @@
+{
+  "id": "ES-CB-marina-de-cudeyo",
+  "name": "Marina de Cudeyo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CB",
+  "codes": {
+    "wikidata": "Q1606273",
+    "ine": "39040"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field with a blue diagonal band at the upper hoist and a red diagonal band across the centre from the lower hoist to the upper fly, and a green triangle at the lower fly.",
+  "history": "Municipal flag of Marina de Cudeyo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Marina_de_Cudeyo_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1606273",
+    "https://es.wikipedia.org/wiki/Marina_de_Cudeyo"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "role": "band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "hoist",
+      "role": "band at the upper hoist"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "fly",
+      "role": "triangle at the lower fly"
+    }
+  ]
+}

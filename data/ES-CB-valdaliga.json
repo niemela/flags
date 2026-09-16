@@ -1,0 +1,56 @@
+{
+  "id": "ES-CB-valdaliga",
+  "name": "Valdáliga (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CB",
+  "codes": {
+    "wikidata": "Q743849",
+    "ine": "39091"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with a red saltire fimbriated blue, charged at the centre with a white tower.",
+  "history": "Municipal flag of Valdáliga; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Valdáliga_(Cantabria).svg",
+    "https://www.wikidata.org/wiki/Q743849",
+    "https://es.wikipedia.org/wiki/Valdáliga"
+  ],
+  "features": [
+    {
+      "type": "saltire",
+      "color": "red",
+      "position": "center",
+      "field": "white",
+      "role": "saltire edged blue"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "edges of the saltire"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "tower"
+    }
+  ]
+}

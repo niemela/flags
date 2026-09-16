@@ -1,0 +1,50 @@
+{
+  "id": "ES-CB-argonos",
+  "name": "Argoños (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CB",
+  "codes": {
+    "wikidata": "Q1443853",
+    "ine": "39005"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided by a white diagonal band from the upper hoist to the lower fly, green above and light blue below.",
+  "history": "Municipal flag of Argoños; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Argonos_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1443853",
+    "https://es.wikipedia.org/wiki/Argoños",
+    "https://es.wikipedia.org/wiki/Bandera_de_Argoños"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "light-blue",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "band from the upper hoist to the lower fly"
+    }
+  ]
+}

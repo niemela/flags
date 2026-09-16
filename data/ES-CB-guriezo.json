@@ -1,0 +1,49 @@
+{
+  "id": "ES-CB-guriezo",
+  "name": "Guriezo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CB",
+  "codes": {
+    "wikidata": "Q1635156",
+    "ine": "39030"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, blue at the hoist and green at the fly, charged in the upper hoist with a yellow cross fleury.",
+  "history": "Municipal flag of Guriezo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Guriezo_(Cantabria).svg",
+    "https://www.wikidata.org/wiki/Q1635156",
+    "https://es.wikipedia.org/wiki/Guriezo"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "latin-cross",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "cross fleury"
+    }
+  ]
+}

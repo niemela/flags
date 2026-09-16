@@ -1,0 +1,79 @@
+{
+  "id": "ES-CB-escalante",
+  "name": "Escalante (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CB",
+  "codes": {
+    "wikidata": "Q641071",
+    "ine": "39029"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A hoist third of blue and white horizontal stripes, the fly divided horizontally green over red.",
+  "history": "Municipal flag of Escalante; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Escalante_Spain.svg",
+    "https://www.wikidata.org/wiki/Q641071",
+    "https://es.wikipedia.org/wiki/Escalante_(Cantabria)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 9,
+      "position": "hoist",
+      "role": "barry of blue and white at the hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "red"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "fly divided green over red"
+    }
+  ]
+}

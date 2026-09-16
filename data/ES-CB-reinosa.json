@@ -1,0 +1,60 @@
+{
+  "id": "ES-CB-reinosa",
+  "name": "Reinosa (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CB",
+  "codes": {
+    "wikidata": "Q671326",
+    "ine": "39059"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Three horizontal stripes of blue, red and blue crossed by a white vertical stripe of double width, charged at its centre with the crowned arms of Reinosa (a horse, a tower and a rose).",
+  "history": "The flag is described as three horizontal bands of equal width, blue above and below and red in the centre, crossed vertically by a white stripe of double thickness at whose geometric centre the arms of the city are placed.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_del_Ayto_de_Reinosa_2.svg",
+    "https://www.wikidata.org/wiki/Q671326",
+    "https://es.wikipedia.org/wiki/Reinosa"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "vertical stripe of double width"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Reinosa arms — horse, tower and rose"
+    }
+  ]
+}

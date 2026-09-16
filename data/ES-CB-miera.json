@@ -1,0 +1,59 @@
+{
+  "id": "ES-CB-miera",
+  "name": "Miera (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CB",
+  "codes": {
+    "wikidata": "Q1770055",
+    "ine": "39045"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Five horizontal stripes of blue and yellow with a white triangle at the hoist bearing the crowned municipal arms of Miera (a church on blue above waves).",
+  "history": "Municipal flag of Miera; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Miera.svg",
+    "https://www.wikidata.org/wiki/Q1770055",
+    "https://es.wikipedia.org/wiki/Miera_(Cantabria)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "blue",
+        "yellow",
+        "blue"
+      ],
+      "count": 5
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "triangle with its base along the hoist"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Miera arms — church above waves"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "ES-CB-polanco",
+  "name": "Polanco (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CB",
+  "codes": {
+    "wikidata": "Q595358",
+    "ine": "39054"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with a red diagonal band at the lower hoist and a blue diagonal band at the upper fly, charged at the centre with the crowned municipal arms of Polanco (a tower and an apple above waves on blue).",
+  "history": "Municipal flag of Polanco; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Polanco_(Cantabria).svg",
+    "https://www.wikidata.org/wiki/Q595358",
+    "https://es.wikipedia.org/wiki/Polanco_(España)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "hoist",
+      "role": "band at the lower hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "fly",
+      "role": "band at the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Polanco arms — tower and apple above waves"
+    }
+  ]
+}
