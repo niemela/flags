@@ -1,0 +1,58 @@
+{
+  "id": "ES-GI-peralada",
+  "name": "Peralada (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q11803",
+    "ine": "17132"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Red field with three yellow pales, each charged with three blue heraldic rocks.",
+  "history": "The official flag of Peralada is an oblong flag of 2:3, a red field charged with three yellow pales each charged with three blue heraldic rocks; it is a heraldic flag of the arms of the Rocabertí family, marquesses of Peralada.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Peralada.svg",
+    "https://www.wikidata.org/wiki/Q11803",
+    "https://es.wikipedia.org/wiki/Perelada",
+    "https://ca.wikipedia.org/wiki/Peralada",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Peralada"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 7
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "three heraldic rocks (chess rooks) on each pale, the arms of the Rocabertí"
+    }
+  ]
+}

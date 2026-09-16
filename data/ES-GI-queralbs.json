@@ -1,0 +1,66 @@
+{
+  "id": "ES-GI-queralbs",
+  "name": "Queralbs (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q12327",
+    "ine": "17043"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Green field with two juxtaposed central pales, white and orange, and a white heraldic rock on each side.",
+  "history": "The flag was approved on 12 July 2006 and published in the Diari Oficial de la Generalitat de Catalunya no. 4696 of 11 August 2006; it is an oblong flag of 2:3, green, with two juxtaposed central pales, the first white and the second orange, each 1/9 of the length, and a white heraldic rock at the centre of each side of the field.",
+  "periods": [
+    {
+      "start": "2006-07-12"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Queralbs.svg",
+    "https://www.wikidata.org/wiki/Q12327",
+    "https://es.wikipedia.org/wiki/Queralbs",
+    "https://ca.wikipedia.org/wiki/Queralbs",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Queralbs"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "orange",
+        "green"
+      ],
+      "count": 4,
+      "widths": [
+        4,
+        1,
+        1,
+        4
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "heraldic rock (chess rook) at the centre of each green part"
+    }
+  ]
+}

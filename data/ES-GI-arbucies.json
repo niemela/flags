@@ -1,0 +1,57 @@
+{
+  "id": "ES-GI-arbucies",
+  "name": "Arbúcies (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q13010",
+    "ine": "17009"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided by a broad white diagonal band from the lower hoist to the upper fly, blue above and green below, charged at the centre with a green sprig with red berries.",
+  "history": "Municipal flag of Arbúcies; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_d'Arbúcies.svg",
+    "https://www.wikidata.org/wiki/Q13010",
+    "https://es.wikipedia.org/wiki/Arbucias",
+    "https://ca.wikipedia.org/wiki/Arbúcies",
+    "https://ca.wikipedia.org/wiki/Bandera_d'Arbúcies"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "broad band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "center",
+      "role": "sprig of strawberry tree with red berries"
+    }
+  ]
+}

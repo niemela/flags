@@ -1,0 +1,83 @@
+{
+  "id": "ES-GI-juia",
+  "name": "Juià (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q13432",
+    "ine": "17087"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Dark blue field with a white bend sinister and a yellow bend in saltire, the lower third yellow with four red pales.",
+  "history": "The official flag of Juià is an oblong flag of 2:3, dark blue, with the lower horizontal third yellow with four red pales equidistant from each other, each 1/9 of the length wide.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Juyá_(Gerona).svg",
+    "https://www.wikidata.org/wiki/Q13432",
+    "https://es.wikipedia.org/wiki/Juyá",
+    "https://ca.wikipedia.org/wiki/Juià",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Juià"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "saltire",
+      "color": "yellow",
+      "position": "top",
+      "role": "yellow bend over a white bend sinister on the blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "top",
+      "role": "bend sinister"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "bottom",
+      "role": "four red pales on yellow in the lower third"
+    }
+  ]
+}

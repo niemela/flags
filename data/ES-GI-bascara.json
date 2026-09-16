@@ -1,0 +1,65 @@
+{
+  "id": "ES-GI-bascara",
+  "name": "Bàscara (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q11232",
+    "ine": "17016"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided per bend sinister yellow and dark blue, with two juxtaposed bends sinister along the division, red above and white below.",
+  "history": "The flag was approved on 14 April 2010 and published in the Diari Oficial de la Generalitat de Catalunya no. 5620 of 3 May 2010; it is an oblong flag of 2:3, bicolour per bend sinister yellow and dark blue, with two juxtaposed bends sinister each 1/18 of the length, red above and white below, at the centre.",
+  "periods": [
+    {
+      "start": "2010-04-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Bàscara.svg",
+    "https://www.wikidata.org/wiki/Q11232",
+    "https://es.wikipedia.org/wiki/Báscara",
+    "https://ca.wikipedia.org/wiki/Bàscara",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Bàscara"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "navy",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "role": "bend sinister 1/18 of the length above the division"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "bend sinister below the red"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "ES-GI-besalu",
+  "name": "Besalú (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q12586",
+    "ine": "17019"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided vertically into two equal parts, the hoist red with a yellow patriarchal cross and the fly with four red pales on yellow.",
+  "history": "The council opened the adoption file on 19 April 1995 and the flag was approved on 10 May 1995 and published in the Diari Oficial de la Generalitat de Catalunya; it is based on the arms and shows exactly the same in each partition: a yellow patriarchal cross on red at the hoist and four red pales on yellow at the fly.",
+  "periods": [
+    {
+      "start": "1995-05-10"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Besalú.svg",
+    "https://www.wikidata.org/wiki/Q12586",
+    "https://es.wikipedia.org/wiki/Besalú",
+    "https://ca.wikipedia.org/wiki/Besalú",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Besalú"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "patriarchal cross 7/9 of the height"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "fly",
+      "role": "four red pales on yellow at the fly"
+    }
+  ]
+}

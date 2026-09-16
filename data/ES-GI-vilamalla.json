@@ -1,0 +1,60 @@
+{
+  "id": "ES-GI-vilamalla",
+  "name": "Vilamalla (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q12163",
+    "ine": "17226"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with a yellow saltire of Saint Vincent, accompanied by two crossed keys above and two yellow wheels at the sides.",
+  "history": "The official flag of Vilamalla is an oblong flag of 2:3, red, with a yellow saltire called of Saint Vincent, accompanied by two keys in saltire with their wards upwards and outwards, and two wheels; the saltire is 1/6 of the height wide, equal to the diameter of the wheels.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Vilamalla_Spain.svg",
+    "https://www.wikidata.org/wiki/Q12163",
+    "https://es.wikipedia.org/wiki/Vilamalla",
+    "https://ca.wikipedia.org/wiki/Vilamalla",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Vilamalla"
+  ],
+  "features": [
+    {
+      "type": "saltire",
+      "color": "yellow",
+      "position": "center",
+      "field": "red",
+      "role": "saltire of Saint Vincent, 1/6 of the height"
+    },
+    {
+      "type": "key",
+      "color": "yellow",
+      "position": "top",
+      "count": 2,
+      "role": "two keys in saltire above the crossing"
+    },
+    {
+      "type": "wheel",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 2,
+      "role": "wheels at the hoist and fly"
+    }
+  ]
+}

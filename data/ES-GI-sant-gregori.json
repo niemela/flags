@@ -1,0 +1,56 @@
+{
+  "id": "ES-GI-sant-gregori",
+  "name": "Sant Gregori (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q13448",
+    "ine": "17163"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with a white patriarchal cross in the upper hoist and three yellow bends at the lower fly.",
+  "history": "Municipal flag of Sant Gregori; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Sant_Gregori.svg",
+    "https://www.wikidata.org/wiki/Q13448",
+    "https://es.wikipedia.org/wiki/San_Gregorio_(Gerona)",
+    "https://ca.wikipedia.org/wiki/Sant_Gregori",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Sant_Gregori"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "patriarchal cross"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "fly",
+      "count": 3,
+      "role": "three bends at the lower fly"
+    }
+  ]
+}

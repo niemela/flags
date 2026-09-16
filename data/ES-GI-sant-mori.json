@@ -1,0 +1,55 @@
+{
+  "id": "ES-GI-sant-mori",
+  "name": "Sant Mori (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q11844",
+    "ine": "17176"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Yellow field with a red chevron couched pointing to the fly and a blue heraldic rock at the hoist.",
+  "history": "Municipal flag of Sant Mori; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Sant_Mori.svg",
+    "https://www.wikidata.org/wiki/Q11844",
+    "https://es.wikipedia.org/wiki/San_Mori",
+    "https://ca.wikipedia.org/wiki/Sant_Mori",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Sant_Mori"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "chevron",
+      "color": "red",
+      "position": "center",
+      "role": "chevron couched from the hoist pointing to the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "hoist",
+      "role": "heraldic rock (chess rook) at the hoist"
+    }
+  ]
+}

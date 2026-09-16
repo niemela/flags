@@ -1,0 +1,88 @@
+{
+  "id": "ES-GI-l-escala",
+  "name": "L'Escala (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q11304",
+    "ine": "17062"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "A dark blue hoist part bearing a yellow tower, the fly with four red bars on yellow.",
+  "history": "Municipal flag of L'Escala; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_l'Escala.svg",
+    "https://www.wikidata.org/wiki/Q11304",
+    "https://es.wikipedia.org/wiki/La_Escala",
+    "https://ca.wikipedia.org/wiki/L'Escala"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "navy",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "building",
+      "color": "navy",
+      "position": "hoist",
+      "role": "tower"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "fly",
+      "role": "four red bars on yellow at the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "tower on the blue"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "hoist",
+      "role": "outlines of the tower"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "ES-GI-la-vall-de-bianya",
+  "name": "La Vall de Bianya (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q12701",
+    "ine": "17208"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "Vertically divided dark green and yellow, the green charged with a white sword and a white crozier, the yellow with a light blue orb surmounted by a black cross.",
+  "history": "Municipal flag of La Vall de Bianya; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Vall_de_Bianya.svg",
+    "https://www.wikidata.org/wiki/Q12701",
+    "https://es.wikipedia.org/wiki/Vall_de_Vianya",
+    "https://ca.wikipedia.org/wiki/La_Vall_de_Bianya"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "sword and crozier in pale"
+    },
+    {
+      "type": "glyph",
+      "color": "light-blue",
+      "position": "fly",
+      "role": "orb (mound) banded white"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "black",
+      "position": "fly",
+      "role": "cross surmounting the orb"
+    }
+  ]
+}

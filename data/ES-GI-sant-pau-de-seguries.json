@@ -1,0 +1,55 @@
+{
+  "id": "ES-GI-sant-pau-de-seguries",
+  "name": "Sant Pau de Segúries (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q12343",
+    "ine": "17177"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field with a green inverted chevron along the lower edge and a red sword in pale at the centre.",
+  "history": "Municipal flag of Sant Pau de Segúries; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Sant_Pau_de_Segúries.svg",
+    "https://www.wikidata.org/wiki/Q12343",
+    "https://es.wikipedia.org/wiki/San_Pablo_de_Seguries",
+    "https://ca.wikipedia.org/wiki/Sant_Pau_de_Segúries",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Sant_Pau_de_Segúries"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "chevron",
+      "color": "green",
+      "position": "bottom",
+      "role": "chevron couched along the lower edge"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "sword in pale"
+    }
+  ]
+}

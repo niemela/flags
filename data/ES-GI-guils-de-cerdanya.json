@@ -1,0 +1,56 @@
+{
+  "id": "ES-GI-guils-de-cerdanya",
+  "name": "Guils de Cerdanya (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q13748",
+    "ine": "17082"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field charged at the centre with a yellow eight-pointed star surrounded by eight smaller yellow stars.",
+  "history": "Municipal flag of Guils de Cerdanya; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Guils_de_Cerdanya.svg",
+    "https://www.wikidata.org/wiki/Q13748",
+    "https://es.wikipedia.org/wiki/Guils_de_Cerdaña",
+    "https://ca.wikipedia.org/wiki/Guils_de_Cerdanya",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Guils_de_Cerdanya"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "yellow",
+      "position": "center",
+      "role": "large star"
+    },
+    {
+      "type": "star",
+      "count": 8,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "ring of eight small stars"
+    }
+  ]
+}

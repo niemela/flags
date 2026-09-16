@@ -1,0 +1,58 @@
+{
+  "id": "ES-GI-pals",
+  "name": "Pals (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q13493",
+    "ine": "17124"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontally divided by a wavy line, light blue above and yellow below, charged with three red stakes rising from the yellow.",
+  "history": "Municipal flag of Pals; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Pals.svg",
+    "https://www.wikidata.org/wiki/Q13493",
+    "https://es.wikipedia.org/wiki/Pals",
+    "https://ca.wikipedia.org/wiki/Pals",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Pals"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "role": "wavy division"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "three stakes (pals), the canting figures"
+    }
+  ]
+}

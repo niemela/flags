@@ -1,0 +1,83 @@
+{
+  "id": "ES-GI-sant-feliu-de-pallerols",
+  "name": "Sant Feliu de Pallerols (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q12656",
+    "ine": "17161"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Horizontally divided, the upper half light blue with three white six-pointed stars and the lower half with four red bars on yellow.",
+  "history": "Municipal flag of Sant Feliu de Pallerols; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Sant_Feliu_de_Pallerols.svg",
+    "https://www.wikidata.org/wiki/Q12656",
+    "https://es.wikipedia.org/wiki/San_Felíu_de_Pallarols",
+    "https://ca.wikipedia.org/wiki/Sant_Feliu_de_Pallerols",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Sant_Feliu_de_Pallerols"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 6,
+      "color": "white",
+      "position": "top"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "bottom",
+      "role": "four red bars on yellow in the lower half"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "bottom",
+      "role": "outlines of the bars"
+    }
+  ]
+}

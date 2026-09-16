@@ -1,0 +1,66 @@
+{
+  "id": "ES-GI-ordis",
+  "name": "Ordis (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q11796",
+    "ine": "17115"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Yellow field with a red panel at the centre bearing two yellow ears of barley in saltire, and a blue bell in each corner.",
+  "history": "The flag of Ordis (approved 21 June 1995) incorporates the arms (approved 4 August 1987); it is an oblong flag of 2:3 with the ears of barley, the canting figure of the name.",
+  "periods": [
+    {
+      "start": "1995-06-21"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_d'Ordis.svg",
+    "https://www.wikidata.org/wiki/Q11796",
+    "https://es.wikipedia.org/wiki/Ordis",
+    "https://ca.wikipedia.org/wiki/Ordis",
+    "https://ca.wikipedia.org/wiki/Bandera_d'Ordis"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "square",
+      "color": "red",
+      "position": "center",
+      "role": "central red rectangle"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "two ears of barley (ordi) in saltire on the red"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "hoist",
+      "role": "four bells in the corners"
+    }
+  ]
+}

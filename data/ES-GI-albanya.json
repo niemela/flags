@@ -1,0 +1,69 @@
+{
+  "id": "ES-GI-albanya",
+  "name": "Albanyà (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q10973",
+    "ine": "17003"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Red field with a blue lozenge at the centre, over which lie a white bend sinister and a yellow bend crossing in saltire.",
+  "history": "The flag was approved on 15 January 2002 and published in the Diari Oficial de la Generalitat de Catalunya; it is an oblong flag of 2:3, red, with a blue diamond at the centre separated from the corners by 1/6 of the height, over all a white bend sinister of 1/6 and over that a yellow bend of the same width.",
+  "periods": [
+    {
+      "start": "2002-01-15"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_d'Albanyà.svg",
+    "https://www.wikidata.org/wiki/Q10973",
+    "https://es.wikipedia.org/wiki/Albañá",
+    "https://ca.wikipedia.org/wiki/Albanyà",
+    "https://ca.wikipedia.org/wiki/Bandera_d'Albanyà"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "lozenge",
+      "color": "blue",
+      "position": "center",
+      "role": "lozenge separated from the corners by 1/6 of the height"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "bend sinister 1/6 wide over the lozenge"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "role": "bend 1/6 wide over the bend sinister"
+    }
+  ]
+}

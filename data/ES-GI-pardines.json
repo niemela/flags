@@ -1,0 +1,77 @@
+{
+  "id": "ES-GI-pardines",
+  "name": "Pardines (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q12294",
+    "ine": "17125"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A dark green hoist part with a wavy edge bearing a white quatrefoil, the fly with four red bars on yellow.",
+  "history": "Municipal flag of Pardines; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Pardines.svg",
+    "https://www.wikidata.org/wiki/Q12294",
+    "https://es.wikipedia.org/wiki/Pardinas",
+    "https://ca.wikipedia.org/wiki/Pardines"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "role": "wavy division"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "quatrefoil with a star"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "fly",
+      "role": "four red bars on yellow at the fly"
+    }
+  ]
+}

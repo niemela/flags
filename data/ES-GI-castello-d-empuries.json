@@ -1,0 +1,71 @@
+{
+  "id": "ES-GI-castello-d-empuries",
+  "name": "Castelló d'Empúries (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q11286",
+    "ine": "17047"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Barry of three yellow and three red stripes, charged at the centre with the light blue castle of the arms closed in black.",
+  "history": "The flag was approved by the municipal council on 27 September 2007, confirmed by the Generalitat on 17 April 2008 and published in the Diari Oficial de la Generalitat de Catalunya; it transposes the municipal arms to the cloth, the barry alluding to the arms of the counts of Empúries and the castle to their residence.",
+  "periods": [
+    {
+      "start": "2008-04-17"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Castelló_d'Empúries.svg",
+    "https://www.wikidata.org/wiki/Q11286",
+    "https://es.wikipedia.org/wiki/Castellón_de_Ampurias",
+    "https://ca.wikipedia.org/wiki/Castelló_d'Empúries",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Castelló_d'Empúries"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 6
+    },
+    {
+      "type": "building",
+      "color": "light-blue",
+      "position": "center",
+      "role": "castle closed in black, 5/6 of the height"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "openings of the castle"
+    }
+  ]
+}

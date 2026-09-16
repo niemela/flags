@@ -1,0 +1,69 @@
+{
+  "id": "ES-GI-canet-d-adri",
+  "name": "Canet d'Adri (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q13422",
+    "ine": "17040"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Yellow field with a red couped saltire in the hoist third, a vairy pale of white and red at the centre and a red gridiron in the fly third.",
+  "history": "The flag was approved on 23 November 2012 and published in the Diari Oficial de la Generalitat de Catalunya no. 6270 of 10 December 2012; it is an oblong flag of 2:3, yellow, with a red couped saltire centred in the first vertical third and a red gridiron of 11/25 of the height.",
+  "periods": [
+    {
+      "start": "2012-11-23"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Canet_d'Adri.svg",
+    "https://www.wikidata.org/wiki/Q13422",
+    "https://es.wikipedia.org/wiki/Canet_de_Adri",
+    "https://ca.wikipedia.org/wiki/Canet_d'Adri",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Canet_d'Adri"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "saltire",
+      "color": "red",
+      "position": "hoist",
+      "role": "couped saltire 2/11 of the height centred in the first third"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "pale vairy of white and red"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "fly",
+      "role": "gridiron 11/25 of the height in the fly third"
+    }
+  ]
+}

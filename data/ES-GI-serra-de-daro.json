@@ -1,0 +1,72 @@
+{
+  "id": "ES-GI-serra-de-daro",
+  "name": "Serra de Daró (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q13570",
+    "ine": "17191"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field with a white fess indented below forming yellow triangles, above a white and blue wavy fess.",
+  "history": "The flag was approved on 10 March 2002 and published in the Diari Oficial de la Generalitat de Catalunya no. 3111 of 31 March 2002; it is an oblong flag of 2:3, red, with a white fess 1/6 of the height whose lower edge is indented forming six yellow triangles, a canting sign (serra, saw).",
+  "periods": [
+    {
+      "start": "2002-03-10"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Serra_de_Daró.svg",
+    "https://www.wikidata.org/wiki/Q13570",
+    "https://es.wikipedia.org/wiki/Serra_de_Daró",
+    "https://ca.wikipedia.org/wiki/Serra_de_Daró",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Serra_de_Daró"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "fess 1/6 of the height with its lower edge indented into six yellow triangles"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "top",
+      "role": "six triangles below the white fess"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom",
+      "role": "wavy fess edged white"
+    }
+  ]
+}

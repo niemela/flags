@@ -1,0 +1,52 @@
+{
+  "id": "ES-GI-palau-de-santa-eulalia",
+  "name": "Palau de Santa Eulàlia (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q11797",
+    "ine": "17119"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Yellow field with a red saltire fimbriated black.",
+  "history": "Municipal flag of Palau de Santa Eulàlia; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Palau_de_Santa_Eulàlia.svg",
+    "https://www.wikidata.org/wiki/Q11797",
+    "https://es.wikipedia.org/wiki/Palau_de_Santa_Eulalia",
+    "https://ca.wikipedia.org/wiki/Palau_de_Santa_Eulàlia",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Palau_de_Santa_Eulàlia"
+  ],
+  "features": [
+    {
+      "type": "saltire",
+      "color": "red",
+      "position": "center",
+      "field": "yellow",
+      "role": "saltire edged black"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "edges of the saltire"
+    }
+  ]
+}

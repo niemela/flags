@@ -1,0 +1,81 @@
+{
+  "id": "ES-GI-olot",
+  "name": "Olot (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q12618",
+    "ine": "17114"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Horizontally divided, the upper half light blue with a white wing and the lower half with four red bars on yellow.",
+  "history": "Municipal flag of Olot; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_d'Olot.svg",
+    "https://www.wikidata.org/wiki/Q12618",
+    "https://es.wikipedia.org/wiki/Olot",
+    "https://ca.wikipedia.org/wiki/Olot"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "top",
+      "role": "wing on the light blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "bottom",
+      "role": "four red bars on yellow in the lower half"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "bottom",
+      "role": "outlines of the bars"
+    }
+  ]
+}

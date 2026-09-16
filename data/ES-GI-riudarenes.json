@@ -1,0 +1,63 @@
+{
+  "id": "ES-GI-riudarenes",
+  "name": "Riudarenes (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q13078",
+    "ine": "17148"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontally divided into a light green upper part, a middle of three blue wavy stripes on white and a yellow lower part.",
+  "history": "Municipal flag of Riudarenes; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Riudarenes_(Gerona).svg",
+    "https://www.wikidata.org/wiki/Q13078",
+    "https://es.wikipedia.org/wiki/Riudarenas",
+    "https://ca.wikipedia.org/wiki/Riudarenes",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Riudarenes"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "count": 3,
+      "role": "three wavy stripes in the middle part"
+    }
+  ]
+}

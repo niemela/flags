@@ -1,0 +1,62 @@
+{
+  "id": "ES-GI-macanet-de-cabrenys",
+  "name": "Maçanet de Cabrenys (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q6615",
+    "ine": "17102"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Yellow field with two stripes along the lower edge, red above blue, and a black mallet in the upper hoist.",
+  "history": "The official flag of Maçanet de Cabrenys is an oblong flag of 2:3, yellow, with two juxtaposed fesses at the bottom, red above and blue below, each 1/6 of the height.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Maçanet_de_Cabrenys.svg",
+    "https://www.wikidata.org/wiki/Q6615",
+    "https://es.wikipedia.org/wiki/Massanet_de_Cabrenys",
+    "https://ca.wikipedia.org/wiki/Maçanet_de_Cabrenys",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Maçanet_de_Cabrenys"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "hoist",
+      "role": "mallet (maça), the canting figure"
+    }
+  ]
+}

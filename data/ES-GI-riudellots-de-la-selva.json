@@ -1,0 +1,64 @@
+{
+  "id": "ES-GI-riudellots-de-la-selva",
+  "name": "Riudellots de la Selva (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CT",
+  "codes": {
+    "wikidata": "Q13635",
+    "ine": "17150"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field with a light blue hoist stripe, three light blue wavy stripes across the lower part and a red sprig with three fruits in the upper fly.",
+  "history": "Municipal flag of Riudellots de la Selva; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Riudellots_de_la_Selva.svg",
+    "https://www.wikidata.org/wiki/Q13635",
+    "https://es.wikipedia.org/wiki/Riudellots_de_la_Selva",
+    "https://ca.wikipedia.org/wiki/Riudellots_de_la_Selva",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Riudellots_de_la_Selva"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "light-blue",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "light-blue",
+      "position": "bottom",
+      "count": 3,
+      "role": "wavy stripes across the lower part"
+    },
+    {
+      "type": "leaf",
+      "color": "red",
+      "position": "fly",
+      "role": "sprig with three fruits"
+    }
+  ]
+}
