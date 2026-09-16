@@ -1,0 +1,85 @@
+{
+  "id": "ES-SE-el-coronil",
+  "name": "El Coronil (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SE",
+  "codes": {
+    "wikidata": "Q1447700",
+    "ine": "41036"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with four green horizontal stripes in the fly two thirds and a fifth green stripe along the lower edge, charged towards the hoist with the crowned municipal arms of El Coronil (a tower on green and a dove).",
+  "history": "Municipal flag of El Coronil; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_El_Coronil_(Sevilla).svg",
+    "https://www.wikidata.org/wiki/Q1447700",
+    "https://es.wikipedia.org/wiki/El_Coronil"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green",
+        "white",
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 7,
+      "position": "fly",
+      "role": "four green stripes on the fly part"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "green stripe along the lower edge"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "El Coronil arms — tower on green and dove"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "hoist",
+      "role": "blue of the arms"
+    }
+  ]
+}

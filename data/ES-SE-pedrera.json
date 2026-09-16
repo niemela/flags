@@ -1,0 +1,72 @@
+{
+  "id": "ES-SE-pedrera",
+  "name": "Pedrera (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SE",
+  "codes": {
+    "wikidata": "Q1628338",
+    "ine": "41072"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided by a black band from the upper hoist to the lower fly, green at the lower hoist and white at the upper fly, charged at the centre with the municipal arms of Pedrera (stones and sickles on yellow).",
+  "history": "The flag of Pedrera is rectangular, of proportions 2:3, with a band crossing it diagonally from the top of the hoist to the bottom of the fly, in black, of a width equal to 1/10 of the width of the flag.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Pedrera_(Sevilla).svg",
+    "https://www.wikidata.org/wiki/Q1628338",
+    "https://es.wikipedia.org/wiki/Pedrera"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "green",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "black",
+      "position": "center",
+      "role": "band of 1/10 of the width from the upper hoist to the lower fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Pedrera arms — stones and sickles on yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "yellow field of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "sickles of the arms"
+    }
+  ]
+}

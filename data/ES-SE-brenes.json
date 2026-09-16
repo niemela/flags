@@ -1,0 +1,80 @@
+{
+  "id": "ES-SE-brenes",
+  "name": "Brenes (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SE",
+  "codes": {
+    "wikidata": "Q579216",
+    "ine": "41018"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "White field with a broad green stripe across the lower half bearing two blue wavy stripes, charged at the hoist with the crowned arms of Brenes (a tree on white within a red bordure).",
+  "history": "Municipal flag of Brenes; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Brenes_(Sevilla).svg",
+    "https://www.wikidata.org/wiki/Q579216",
+    "https://es.wikipedia.org/wiki/Brenes"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "broad stripe across the lower half"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom",
+      "count": 2,
+      "role": "two wavy stripes on the green"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Brenes arms — tree on white within a red bordure"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "bordure of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "crown of the arms"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "ES-SE-castilleja-del-campo",
+  "name": "Castilleja del Campo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SE",
+  "codes": {
+    "wikidata": "Q1628373",
+    "ine": "41030"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with a green rectangle at the centre bearing a yellow castle between two white lions, surrounded by white stars and fleurs-de-lis.",
+  "history": "Municipal flag of Castilleja del Campo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Castilleja_del_Campo_(Sevilla).svg",
+    "https://www.wikidata.org/wiki/Q1628373",
+    "https://es.wikipedia.org/wiki/Castilleja_del_Campo"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "square",
+      "color": "green",
+      "position": "center",
+      "role": "large green rectangle within a red border"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle"
+    },
+    {
+      "type": "lion",
+      "color": "white",
+      "position": "center",
+      "count": 2,
+      "role": "two lions rampant flanking the castle"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 6,
+      "color": "white",
+      "position": "center",
+      "role": "six-pointed stars at the middle of the border"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "position": "center",
+      "count": 4,
+      "role": "fleurs-de-lis in the corners of the border"
+    }
+  ]
+}

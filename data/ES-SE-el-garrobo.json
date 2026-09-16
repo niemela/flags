@@ -1,0 +1,53 @@
+{
+  "id": "ES-SE-el-garrobo",
+  "name": "El Garrobo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SE",
+  "codes": {
+    "wikidata": "Q972275",
+    "ine": "41043"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field with a yellow stripe along the upper edge and a pattern of yellow flame-like carob pods across the field.",
+  "history": "Municipal flag of El Garrobo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_El_Garrobo_(Sevilla).svg",
+    "https://www.wikidata.org/wiki/Q972275",
+    "https://es.wikipedia.org/wiki/El_Garrobo"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "stripe along the upper edge"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "rows of stylised carob pods (flames) across the green"
+    }
+  ]
+}
