@@ -1,0 +1,76 @@
+{
+  "id": "ES-C-ortigueira",
+  "name": "Ortigueira (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GA",
+  "codes": {
+    "wikidata": "Q1375842",
+    "ine": "15061"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "White field with two blue stripes near the top and two near the bottom, charged at the centre with three green nettles growing from grey rocks, the canting figure of the arms.",
+  "history": "Municipal flag of Ortigueira; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Ortigueira.svg",
+    "https://www.wikidata.org/wiki/Q1375842",
+    "https://es.wikipedia.org/wiki/Ortigueira",
+    "https://gl.wikipedia.org/wiki/Ortigueira"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 7,
+      "widths": [
+        1,
+        1,
+        1,
+        8,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "flower",
+      "color": "green",
+      "position": "center",
+      "count": 3,
+      "role": "three nettles (ortigas) on rocks"
+    },
+    {
+      "type": "glyph",
+      "color": "grey",
+      "position": "center",
+      "role": "rocks beneath the nettles"
+    }
+  ]
+}

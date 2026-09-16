@@ -1,0 +1,58 @@
+{
+  "id": "ES-C-carino",
+  "name": "Cariño (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GA",
+  "codes": {
+    "wikidata": "Q1403988",
+    "ine": "15901"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertically divided white and light blue, the white charged with a light blue anchor and the blue with six yellow six-pointed stars.",
+  "history": "Municipal flag of Cariño; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_Cariño.svg",
+    "https://www.wikidata.org/wiki/Q1403988",
+    "https://es.wikipedia.org/wiki/Cariño_(La_Coruña)",
+    "https://gl.wikipedia.org/wiki/Cariño"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "anchor",
+      "color": "blue",
+      "position": "hoist"
+    },
+    {
+      "type": "star",
+      "count": 6,
+      "points": 6,
+      "color": "yellow",
+      "position": "fly"
+    }
+  ]
+}

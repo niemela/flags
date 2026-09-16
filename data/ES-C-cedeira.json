@@ -1,0 +1,64 @@
+{
+  "id": "ES-C-cedeira",
+  "name": "Cedeira (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GA",
+  "codes": {
+    "wikidata": "Q1113395",
+    "ine": "15022"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Yellow field with a green bend from the upper hoist to the lower fly, a red cross patée in the upper fly and three black mountains with green trees in the lower hoist.",
+  "history": "Municipal flag of Cedeira; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Cedeira.svg",
+    "https://www.wikidata.org/wiki/Q1113395",
+    "https://es.wikipedia.org/wiki/Cedeira",
+    "https://gl.wikipedia.org/wiki/Cedeira"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "green",
+      "position": "center",
+      "role": "bend from the upper hoist to the lower fly"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "fly",
+      "role": "cross patée"
+    },
+    {
+      "type": "mountain",
+      "color": "black",
+      "position": "hoist",
+      "count": 3,
+      "role": "three mountains with trees"
+    }
+  ]
+}

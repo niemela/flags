@@ -1,0 +1,79 @@
+{
+  "id": "ES-C-santa-comba",
+  "name": "Santa Comba (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GA",
+  "codes": {
+    "wikidata": "Q1442500",
+    "ine": "15077"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "purple"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Purple field with a yellow castle between two white scallop shells at the hoist and a white wavy pale at the fly.",
+  "history": "Municipal flag of Santa Comba; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Comba.svg",
+    "https://www.wikidata.org/wiki/Q1442500",
+    "https://es.wikipedia.org/wiki/Santa_Comba",
+    "https://gl.wikipedia.org/wiki/Santa_Comba"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "purple"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle"
+    },
+    {
+      "type": "shell",
+      "color": "white",
+      "position": "hoist",
+      "count": 2,
+      "role": "scallops above the castle"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "fly",
+      "role": "wavy vertical stripe at the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "hoist",
+      "role": "outlines of the castle"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "hoist",
+      "role": "shading of the castle"
+    }
+  ]
+}

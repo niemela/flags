@@ -1,0 +1,80 @@
+{
+  "id": "ES-C-paderne-a-coruna",
+  "name": "Paderne (A Coruña, Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GA",
+  "codes": {
+    "wikidata": "Q426243",
+    "ine": "15064"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A blue hoist stripe bearing two white scallop shells, the fly white with an orange boar's head facing the hoist.",
+  "history": "Municipal flag of Paderne, A Coruña; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Paderne.svg",
+    "https://www.wikidata.org/wiki/Q426243",
+    "https://es.wikipedia.org/wiki/Paderne",
+    "https://gl.wikipedia.org/wiki/Paderne"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "shell",
+      "color": "white",
+      "position": "hoist",
+      "count": 2
+    },
+    {
+      "type": "animal-other",
+      "color": "orange",
+      "position": "fly",
+      "role": "boar's head facing the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "fly",
+      "role": "outline of the boar's head"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "fly",
+      "role": "tongue of the boar"
+    }
+  ]
+}

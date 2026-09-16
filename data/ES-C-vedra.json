@@ -1,0 +1,63 @@
+{
+  "id": "ES-C-vedra",
+  "name": "Vedra (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GA",
+  "codes": {
+    "wikidata": "Q1616092",
+    "ine": "15089"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Vertically divided yellow and green in the proportions 1:1, the yellow charged with a green dragon langued red.",
+  "history": "The arms and the flag of Vedra were made official on 23 September 1996 with their publication in the Diario Oficial de Galicia; the flag is divided into two halves, at the left a green dragon on a yellow ground and at the right a green ground.",
+  "periods": [
+    {
+      "start": "1996-09-23"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Vedra.svg",
+    "https://www.wikidata.org/wiki/Q1616092",
+    "https://es.wikipedia.org/wiki/Vedra",
+    "https://gl.wikipedia.org/wiki/Vedra"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "mythical-creature",
+      "color": "green",
+      "position": "hoist",
+      "role": "dragon"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "tongue of the dragon"
+    }
+  ]
+}

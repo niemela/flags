@@ -1,0 +1,61 @@
+{
+  "id": "ES-C-vilarmaior",
+  "name": "Vilarmaior (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GA",
+  "codes": {
+    "wikidata": "Q974227",
+    "ine": "15091"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Green field with a yellow bend from the upper hoist to the lower fly charged with three red crosses patée, between six yellow annulets.",
+  "history": "Municipal flag of Vilarmaior; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Vilarmaior.svg",
+    "https://www.wikidata.org/wiki/Q974227",
+    "https://es.wikipedia.org/wiki/Villarmayor_(La_Coruña)",
+    "https://gl.wikipedia.org/wiki/Vilarmaior"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "role": "bend from the upper hoist to the lower fly"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "center",
+      "count": 3,
+      "role": "three crosses patée on the bend"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "six annulets, three on each side of the bend"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "ES-C-mugardos",
+  "name": "Mugardos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GA",
+  "codes": {
+    "wikidata": "Q1442847",
+    "ine": "15051"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "Vertical tricolour of yellow, light blue and yellow with a broad light blue middle stripe bearing a yellow eight-pointed star between two crowns.",
+  "history": "Municipal flag of Mugardos; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Mugardos.svg",
+    "https://www.wikidata.org/wiki/Q1442847",
+    "https://es.wikipedia.org/wiki/Mugardos",
+    "https://gl.wikipedia.org/wiki/Mugardos"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "light-blue",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "crowns above and below the star"
+    }
+  ]
+}

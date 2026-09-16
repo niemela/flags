@@ -1,0 +1,64 @@
+{
+  "id": "ES-C-cambre",
+  "name": "Cambre (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GA",
+  "codes": {
+    "wikidata": "Q1113375",
+    "ine": "15017"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field charged at the centre with a green pine with a brown trunk between two blue scallop shells.",
+  "history": "Municipal flag of Cambre; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Cambre.svg",
+    "https://www.wikidata.org/wiki/Q1113375",
+    "https://es.wikipedia.org/wiki/Cambre",
+    "https://gl.wikipedia.org/wiki/Cambre"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "pine"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "trunk of the pine"
+    },
+    {
+      "type": "shell",
+      "color": "blue",
+      "position": "center",
+      "count": 2,
+      "role": "two scallop shells outlined blue"
+    }
+  ]
+}

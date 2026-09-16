@@ -1,0 +1,75 @@
+{
+  "id": "ES-C-sada",
+  "name": "Sada (A Coruña, Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GA",
+  "codes": {
+    "wikidata": "Q1616081",
+    "ine": "15075"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Blue field with a yellow two-masted ship with white sails above two white waves, flanked by two yellow open towers.",
+  "history": "The arms and the flag were approved on 14 July 2011 (Diario Oficial de Galicia of 1 August 2011); the flag is a blue cloth with a yellow two-masted ship with white sails in the wind above two white waves, flanked by two yellow donjoned and open towers, the whole representing the entrance to the bay of Sada.",
+  "periods": [
+    {
+      "start": "2011-07-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Sada.svg",
+    "https://www.wikidata.org/wiki/Q1616081",
+    "https://es.wikipedia.org/wiki/Sada_(La_Coruña)",
+    "https://gl.wikipedia.org/wiki/Sada"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "ship",
+      "color": "yellow",
+      "position": "center",
+      "role": "two-masted ship with white sails above two white waves"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 2,
+      "role": "two donjoned open towers at the hoist and fly"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "sails and waves"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "outlines of the towers"
+    }
+  ]
+}
