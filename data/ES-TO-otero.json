@@ -1,0 +1,60 @@
+{
+  "id": "ES-TO-otero",
+  "name": "Otero (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TO",
+  "codes": {
+    "wikidata": "Q728228",
+    "ine": "45126"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontally divided red over blue with a green triangle edged white at the hoist bearing a white pillar.",
+  "history": "Municipal flag of Otero; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Otero.svg",
+    "https://www.wikidata.org/wiki/Q728228",
+    "https://es.wikipedia.org/wiki/Otero"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "hoist",
+      "role": "triangle edged white with its base at the hoist and its apex at the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "edge of the triangle and pillar on it"
+    }
+  ]
+}

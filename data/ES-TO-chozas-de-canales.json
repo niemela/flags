@@ -1,0 +1,76 @@
+{
+  "id": "ES-TO-chozas-de-canales",
+  "name": "Chozas de Canales (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TO",
+  "codes": {
+    "wikidata": "Q1629996",
+    "ine": "45056"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Vertically divided red and white, the red charged with two yellow huts, the white with a blue castle above blue and white waves.",
+  "history": "Municipal flag of Chozas de Canales; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Chozas_de_Canales_(Toledo).svg",
+    "https://www.wikidata.org/wiki/Q1629996",
+    "https://es.wikipedia.org/wiki/Chozas_de_Canales"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 2,
+      "role": "two thatched huts with black doors"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "hoist",
+      "role": "doors of the huts"
+    },
+    {
+      "type": "building",
+      "color": "blue",
+      "position": "fly",
+      "role": "castle on the white"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "role": "waves beneath the castle"
+    }
+  ]
+}

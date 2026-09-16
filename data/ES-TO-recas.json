@@ -1,0 +1,71 @@
+{
+  "id": "ES-TO-recas",
+  "name": "Recas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TO",
+  "codes": {
+    "wikidata": "Q686635",
+    "ine": "45145"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "purple"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Horizontally divided purple over green with a yellow triangle at the hoist bearing an olive tree.",
+  "history": "The description of the municipal flag was approved at the same time as the arms and published in the Diario Oficial de Castilla-La Mancha of 13 March 1991: a flag divided by a triangle at the hoist, the upper stripe purple, the lower green and the triangle next to the hoist yellow, with an olive tree in its natural colours at its centre.",
+  "periods": [
+    {
+      "start": "1991"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Recas.svg",
+    "https://www.wikidata.org/wiki/Q686635",
+    "https://es.wikipedia.org/wiki/Recas"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "purple",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "triangle with its base at the hoist and its apex at the centre"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist",
+      "role": "olive tree in its natural colours on the triangle"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "hoist",
+      "role": "trunk of the olive tree"
+    }
+  ]
+}

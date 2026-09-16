@@ -1,0 +1,69 @@
+{
+  "id": "ES-TO-villamuelas",
+  "name": "Villamuelas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TO",
+  "codes": {
+    "wikidata": "Q388988",
+    "ine": "45191"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Quartered white and green, charged with green millstones on the white quarters and yellow castles on the green quarters.",
+  "history": "Municipal flag of Villamuelas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villamuelas.svg",
+    "https://www.wikidata.org/wiki/Q388988",
+    "https://es.wikipedia.org/wiki/Villamuelas"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "white",
+        "green",
+        "green",
+        "white"
+      ]
+    },
+    {
+      "type": "wheel",
+      "color": "green",
+      "position": "canton",
+      "count": 2,
+      "role": "millstones on the white quarters"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "count": 2,
+      "role": "castles on the green quarters"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "shading of the castles"
+    }
+  ]
+}

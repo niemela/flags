@@ -1,0 +1,67 @@
+{
+  "id": "ES-TO-la-villa-de-don-fadrique",
+  "name": "La Villa de Don Fadrique (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TO",
+  "codes": {
+    "wikidata": "Q1631965",
+    "ine": "45186"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Vertically divided white and green, charged with a red cross of Saint James on the white and three white wavy stripes edged blue on the green.",
+  "history": "Municipal flag of La Villa de Don Fadrique; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villa_de_Don_Fadrique.svg",
+    "https://www.wikidata.org/wiki/Q1631965",
+    "https://es.wikipedia.org/wiki/La_Villa_de_Don_Fadrique"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "latin-cross",
+      "color": "red",
+      "position": "hoist",
+      "role": "cross of Saint James"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "fly",
+      "count": 3,
+      "role": "three wavy stripes edged blue"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "fly",
+      "role": "edges of the wavy stripes"
+    }
+  ]
+}

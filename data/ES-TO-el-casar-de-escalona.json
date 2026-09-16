@@ -1,0 +1,66 @@
+{
+  "id": "ES-TO-el-casar-de-escalona",
+  "name": "El Casar de Escalona (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TO",
+  "codes": {
+    "wikidata": "Q1644302",
+    "ine": "45040"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "maroon"
+    }
+  ],
+  "description": "White field with a blue horizontal stripe across the centre, charged with three red houses, two above and one below.",
+  "history": "Municipal flag of El Casar de Escalona; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_El_Casar_de_Escalona.svg",
+    "https://www.wikidata.org/wiki/Q1644302",
+    "https://es.wikipedia.org/wiki/El_Casar_de_Escalona"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "horizontal stripe across the centre"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "center",
+      "count": 3,
+      "role": "three houses, two above the stripe and one below"
+    },
+    {
+      "type": "glyph",
+      "color": "maroon",
+      "position": "center",
+      "role": "doors and roofs of the houses"
+    }
+  ]
+}

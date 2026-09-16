@@ -1,0 +1,88 @@
+{
+  "id": "ES-TO-la-torre-de-esteban-hambran",
+  "name": "La Torre de Esteban Hambrán (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TO",
+  "codes": {
+    "wikidata": "Q948677",
+    "ine": "45171"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "A hoist half of red and yellow bars within a chequered border bearing a white tower, the fly quartered red with a white crescent and white with blue wavy stripes.",
+  "history": "Municipal flag of La Torre de Esteban Hambrán; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_La_Torre_de_Esteban_Hambrán.svg",
+    "https://www.wikidata.org/wiki/Q948677",
+    "https://es.wikipedia.org/wiki/La_Torre_de_Esteban_Hambrán"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "bars of the hoist half and the upper fly quarter"
+    },
+    {
+      "type": "border",
+      "color": "blue",
+      "position": "hoist",
+      "role": "chequered border of blue and yellow around the hoist half"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "tower"
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "fly",
+      "role": "crescent on the red upper fly"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "count": 3,
+      "role": "three wavy stripes on the white lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "hoist",
+      "role": "door and windows of the tower"
+    }
+  ]
+}

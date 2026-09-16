@@ -1,0 +1,58 @@
+{
+  "id": "ES-TO-domingo-perez",
+  "name": "Domingo Pérez (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TO",
+  "codes": {
+    "wikidata": "Q1769400",
+    "ine": "45058"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided by a chequered band of yellow and red from the upper hoist to the lower fly, white at the lower hoist and blue at the upper fly.",
+  "history": "Municipal flag of Domingo Pérez; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Domingo_Pérez.svg",
+    "https://www.wikidata.org/wiki/Q1769400",
+    "https://es.wikipedia.org/wiki/Domingo_Pérez_(Toledo)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "white",
+      "direction": "bend"
+    },
+    {
+      "type": "chequy",
+      "color": "yellow",
+      "position": "center",
+      "role": "chequered band of yellow and red from the upper hoist to the lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "red squares of the band"
+    }
+  ]
+}

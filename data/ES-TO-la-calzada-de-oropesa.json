@@ -1,0 +1,66 @@
+{
+  "id": "ES-TO-la-calzada-de-oropesa",
+  "name": "La Calzada de Oropesa (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TO",
+  "codes": {
+    "wikidata": "Q979973",
+    "ine": "45030"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Horizontal tricolour of white, red and white with a double-width red stripe, charged at the centre with a yellow crown.",
+  "history": "Municipal flag of La Calzada de Oropesa; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Calzada_de_Oropesa.svg",
+    "https://www.wikidata.org/wiki/Q979973",
+    "https://es.wikipedia.org/wiki/La_Calzada_de_Oropesa"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "center",
+      "role": "open crown"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "shading of the crown"
+    }
+  ]
+}

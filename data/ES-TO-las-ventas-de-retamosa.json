@@ -1,0 +1,54 @@
+{
+  "id": "ES-TO-las-ventas-de-retamosa",
+  "name": "Las Ventas de Retamosa (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TO",
+  "codes": {
+    "wikidata": "Q1644829",
+    "ine": "45183"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided by a green diagonal band from the lower hoist to the upper fly, white above and blue below.",
+  "history": "The heraldic arms and the flag were officially approved on 14 January 1994 and published in the Diario Oficial de Castilla-La Mancha of 21 April 1994; the flag is rectangular, of proportion 2:3, tierced in bend sinister, the upper part white, the central green and the lower blue.",
+  "periods": [
+    {
+      "start": "1994-01-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Las_Ventas_de_Retamosa_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1644829",
+    "https://es.wikipedia.org/wiki/Las_Ventas_de_Retamosa"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "green",
+      "position": "center",
+      "role": "band from the lower hoist to the upper fly"
+    }
+  ]
+}
