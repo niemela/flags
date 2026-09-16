@@ -1,0 +1,72 @@
+{
+  "id": "ES-Z-la-almolda",
+  "name": "La Almolda (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639154",
+    "ine": "50022"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with a pale of the bars of Aragon towards the hoist, charged at the hoist with a yellow castle and at the fly with two white wavy stripes.",
+  "history": "Municipal flag of La Almolda; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_La_Almolda.svg",
+    "https://www.wikidata.org/wiki/Q1639154",
+    "https://es.wikipedia.org/wiki/La_Almolda"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "pale of yellow and red bars towards the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "bars on the pale and a crescent and star on the hoist"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "fly",
+      "count": 2,
+      "role": "two wavy stripes across the fly"
+    }
+  ]
+}

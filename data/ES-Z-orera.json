@@ -1,0 +1,63 @@
+{
+  "id": "ES-Z-orera",
+  "name": "Orera (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1650765",
+    "ine": "50196"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field charged at the centre with a white church tower between two shields of the bars of Aragon.",
+  "history": "Municipal flag of Orera; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Orera.svg",
+    "https://www.wikidata.org/wiki/Q1650765",
+    "https://es.wikipedia.org/wiki/Orera"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "church tower"
+    },
+    {
+      "type": "shield",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "two shields of the bars of Aragon flanking the tower"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "bars on the shields"
+    }
+  ]
+}

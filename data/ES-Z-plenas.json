@@ -1,0 +1,74 @@
+{
+  "id": "ES-Z-plenas",
+  "name": "Plenas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639389",
+    "ine": "50213"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Yellow field with a blue horizontal stripe across the centre bearing a yellow ear of wheat and a vine leaf, between a blue lozenge above and a red lozenge below.",
+  "history": "Municipal flag of Plenas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Plenas.svg",
+    "https://www.wikidata.org/wiki/Q1639389",
+    "https://es.wikipedia.org/wiki/Plenas"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "horizontal stripe across the centre"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "center",
+      "role": "ear of wheat on the stripe"
+    },
+    {
+      "type": "leaf",
+      "color": "yellow",
+      "position": "center",
+      "role": "vine leaf on the stripe"
+    },
+    {
+      "type": "lozenge",
+      "color": "blue",
+      "position": "top",
+      "role": "lozenge above the stripe"
+    },
+    {
+      "type": "lozenge",
+      "color": "red",
+      "position": "bottom",
+      "role": "lozenge below the stripe"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "ES-Z-torrellas",
+  "name": "Torrellas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1650599",
+    "ine": "50261"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with a white chevron pointing to the fly and yellow stripes across the fly, charged at the hoist with three yellow towers.",
+  "history": "Municipal flag of Torrellas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Torrellas.svg",
+    "https://www.wikidata.org/wiki/Q1650599",
+    "https://es.wikipedia.org/wiki/Torrellas"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "chevron",
+      "color": "white",
+      "position": "hoist",
+      "role": "chevron issuing from the hoist corners and pointing to the fly"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 3,
+      "role": "three towers in a column"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "two horizontal stripes across the fly"
+    }
+  ]
+}

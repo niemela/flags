@@ -1,0 +1,74 @@
+{
+  "id": "ES-Z-malejan",
+  "name": "Maleján (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1646178",
+    "ine": "50156"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Red field with white stripes near the upper and lower edges, charged at the centre with a yellow tower between two axes beneath a green tree.",
+  "history": "Municipal flag of Maleján; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Maleján.svg",
+    "https://www.wikidata.org/wiki/Q1646178",
+    "https://es.wikipedia.org/wiki/Maleján"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 7,
+      "widths": [
+        1,
+        1,
+        1,
+        8,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "tower between two axes"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "small tree above the tower"
+    }
+  ]
+}

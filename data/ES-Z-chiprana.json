@@ -1,0 +1,65 @@
+{
+  "id": "ES-Z-chiprana",
+  "name": "Chiprana (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q509039",
+    "ine": "50092"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Blue field with a yellow hoist part with a pointed edge fimbriated red, charged with a green cypress.",
+  "history": "Municipal flag of Chiprana; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Chiprana.svg",
+    "https://www.wikidata.org/wiki/Q509039",
+    "https://es.wikipedia.org/wiki/Chiprana"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "stripe with a pointed fly edge along the hoist, edged red"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "edge of the hoist stripe"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist",
+      "role": "cypress"
+    }
+  ]
+}

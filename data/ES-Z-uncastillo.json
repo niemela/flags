@@ -1,0 +1,55 @@
+{
+  "id": "ES-Z-uncastillo",
+  "name": "Uncastillo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q583280",
+    "ine": "50267"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field charged towards the hoist with a yellow castle beneath a white star.",
+  "history": "Municipal flag of Uncastillo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Uncastillo.svg",
+    "https://www.wikidata.org/wiki/Q583280",
+    "https://es.wikipedia.org/wiki/Uncastillo"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle with a central tower"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "white",
+      "position": "hoist",
+      "role": "eight-pointed star above the castle"
+    }
+  ]
+}

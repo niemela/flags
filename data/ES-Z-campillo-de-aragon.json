@@ -1,0 +1,78 @@
+{
+  "id": "ES-Z-campillo-de-aragon",
+  "name": "Campillo de Aragón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1651164",
+    "ine": "50071"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A white hexagonal hoist panel edged green bearing a red tower, the fly of red and yellow bars with blue stripes.",
+  "history": "Municipal flag of Campillo de Aragón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Campillo_de_Aragón.svg",
+    "https://www.wikidata.org/wiki/Q1651164",
+    "https://es.wikipedia.org/wiki/Campillo_de_Aragón"
+  ],
+  "features": [
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "hexagonal panel at the hoist edged green"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "hoist",
+      "role": "edge of the hoist panel"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "hoist",
+      "role": "church tower on the panel"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "blue"
+      ],
+      "count": 9,
+      "position": "fly",
+      "role": "bars of red and yellow with blue stripes on the fly"
+    }
+  ]
+}

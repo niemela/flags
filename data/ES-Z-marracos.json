@@ -1,0 +1,59 @@
+{
+  "id": "ES-Z-marracos",
+  "name": "Marracos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1769840",
+    "ine": "50902"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with a diagonal band of yellow and red bars from the lower hoist to the upper fly, charged at the upper hoist with a yellow tower topped by an eagle.",
+  "history": "Municipal flag of Marracos; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Marracos.svg",
+    "https://www.wikidata.org/wiki/Q1769840",
+    "https://es.wikipedia.org/wiki/Marracos"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "role": "band of yellow and red bars from the lower hoist to the upper fly"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "bars of the band"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "canton",
+      "role": "tower topped by an eagle at the upper hoist"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "ES-Z-vierlas",
+  "name": "Vierlas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q594134",
+    "ine": "50281"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Blue field with a green hoist third bearing a yellow church, divided from the blue by yellow wavy lines.",
+  "history": "Municipal flag of Vierlas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Vierlas.svg",
+    "https://www.wikidata.org/wiki/Q594134",
+    "https://es.wikipedia.org/wiki/Vierlas"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "role": "division by wavy lines"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "wavy lines along the division"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "church with a cross"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "hoist",
+      "role": "sword across the church door"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "ES-Z-grisen",
+  "name": "Grisén (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1640400",
+    "ine": "50123"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Vertically divided white and red, charged with a brown castle on a green mount on the white and a white Maltese cross on the red.",
+  "history": "Municipal flag of Grisén; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Grisén.svg",
+    "https://www.wikidata.org/wiki/Q1640400",
+    "https://es.wikipedia.org/wiki/Grisén"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "maroon",
+      "position": "hoist",
+      "role": "castle on a green mount"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "hoist",
+      "role": "mount beneath the castle"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "fly",
+      "role": "Maltese cross"
+    }
+  ]
+}

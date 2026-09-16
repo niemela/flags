@@ -1,0 +1,95 @@
+{
+  "id": "ES-Z-monterde",
+  "name": "Monterde (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1650681",
+    "ine": "50173"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field flanked by pales of the bars of Aragon with pointed edges, with two blue horizontal stripes, charged with a green mount surmounted by a shield of the bars of Aragon.",
+  "history": "The flag is a white cloth of proportion 2:3, with a green triangular mount surmounted by a small shield of the Royal Sign of Aragon and two blue horizontal stripes at a distance of a ninth of the width from the upper and lower edges, flanked vertically by the Royal Sign of Aragon (nine horizontal bands alternately yellow and red).",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Monterde.svg",
+    "https://www.wikidata.org/wiki/Q1650681",
+    "https://es.wikipedia.org/wiki/Monterde"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "pale of yellow and red bars with a pointed edge along the hoist"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "pale of yellow and red bars with a pointed edge along the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "bars on the pales"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "horizontal stripe near the upper edge"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "horizontal stripe near the lower edge"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "center",
+      "role": "triangular mount surmounted by a small shield of the bars of Aragon"
+    }
+  ]
+}

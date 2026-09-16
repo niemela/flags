@@ -1,0 +1,53 @@
+{
+  "id": "ES-Z-chodes",
+  "name": "Chodes (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639490",
+    "ine": "50093"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with a red arc towards the hoist, charged with a yellow cross of four lobes bearing a castle.",
+  "history": "Municipal flag of Chodes; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Chodes.svg",
+    "https://www.wikidata.org/wiki/Q1639490",
+    "https://es.wikipedia.org/wiki/Chodes"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "arc from the upper to the lower edge towards the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "cross of four lobes bearing a castle at the hoist"
+    }
+  ]
+}

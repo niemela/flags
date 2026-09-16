@@ -1,0 +1,77 @@
+{
+  "id": "ES-Z-mequinenza",
+  "name": "Mequinenza (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q837051",
+    "ine": "50165"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Quartered: green with a yellow tower at the upper hoist, green with a white conifer at the lower fly, and white with two blue wavy stripes at the upper fly and lower hoist.",
+  "history": "The flag of Mequinenza is a cloth of proportion 2:3, quartered: the first green with a yellow tower with red door and windows, the fourth green with a white conifer fruited yellow, and the second and third white with two blue wavy stripes.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Mequinenza.svg",
+    "https://www.wikidata.org/wiki/Q837051",
+    "https://es.wikipedia.org/wiki/Mequinenza"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "green",
+        "white",
+        "white",
+        "green"
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "canton",
+      "role": "tower with red door and windows on the upper hoist quarter"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "canton",
+      "role": "door and windows of the tower"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "count": 4,
+      "role": "two wavy stripes on each white quarter"
+    },
+    {
+      "type": "tree",
+      "color": "white",
+      "position": "fly",
+      "role": "conifer fruited yellow on the lower fly quarter"
+    }
+  ]
+}

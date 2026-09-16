@@ -1,0 +1,72 @@
+{
+  "id": "ES-Z-urries",
+  "name": "Urriés (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1638830",
+    "ine": "50270"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red hoist third bearing a yellow scallop shell, the blue fly charged with white mountains beneath a white star.",
+  "history": "Municipal flag of Urriés; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Urriés.svg",
+    "https://www.wikidata.org/wiki/Q1638830",
+    "https://es.wikipedia.org/wiki/Urriés"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "shell",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "scallop shell"
+    },
+    {
+      "type": "mountain",
+      "color": "white",
+      "position": "fly",
+      "role": "mountain range along the lower fly"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "white",
+      "position": "fly",
+      "role": "star above the mountains"
+    }
+  ]
+}

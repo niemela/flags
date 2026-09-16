@@ -1,0 +1,84 @@
+{
+  "id": "ES-Z-villanueva-de-gallego",
+  "name": "Villanueva de Gállego (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639259",
+    "ine": "50288"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Vertical tricolour of yellow, red and yellow with a broad red stripe bearing a yellow tower between two lions, with a letter J at the upper hoist and an Arabic letter at the lower fly.",
+  "history": "On 23 April 2006 the new local emblems, the arms and the flag, were presented at the town hall of Villanueva de Gállego.",
+  "periods": [
+    {
+      "start": "2006"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villanueva_de_Gállego.svg",
+    "https://www.wikidata.org/wiki/Q1639259",
+    "https://es.wikipedia.org/wiki/Villanueva_de_Gállego"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "tower"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "two lions supporting the tower"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "shading of the tower"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "letter J at the upper hoist and Arabic letter at the lower fly"
+    }
+  ]
+}

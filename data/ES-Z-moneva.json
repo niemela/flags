@@ -1,0 +1,64 @@
+{
+  "id": "ES-Z-moneva",
+  "name": "Moneva (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639514",
+    "ine": "50171"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with a yellow chevron issuing from the hoist bearing a green falcon, with green stripes across the fly.",
+  "history": "Municipal flag of Moneva; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Moneva.svg",
+    "https://www.wikidata.org/wiki/Q1639514",
+    "https://es.wikipedia.org/wiki/Moneva"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "chevron",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "chevron issuing from the hoist corners"
+    },
+    {
+      "type": "bird",
+      "color": "green",
+      "position": "hoist",
+      "role": "falcon on the chevron"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "green"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "stripes of green, yellow and green across the fly"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "ES-Z-grisel",
+  "name": "Grisel (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q537345",
+    "ine": "50122"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Yellow field with stripes of green and red along the upper and lower edges, charged at the centre with a green tree between an ear of wheat and a vine leaf.",
+  "history": "Municipal flag of Grisel; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Grisel.svg",
+    "https://www.wikidata.org/wiki/Q537345",
+    "https://es.wikipedia.org/wiki/Grisel"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "red",
+        "green",
+        "yellow",
+        "green",
+        "red",
+        "green"
+      ],
+      "count": 7,
+      "widths": [
+        1,
+        1,
+        1,
+        12,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "tree bearing a small cross"
+    },
+    {
+      "type": "wheat",
+      "color": "green",
+      "position": "hoist",
+      "role": "ear of wheat beside the tree"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "fly",
+      "role": "vine leaf beside the tree"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "cross on the tree"
+    }
+  ]
+}

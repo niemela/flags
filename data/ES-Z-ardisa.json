@@ -1,0 +1,65 @@
+{
+  "id": "ES-Z-ardisa",
+  "name": "Ardisa (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1640175",
+    "ine": "50033"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with a red panel at the hoist with a rounded edge bearing a yellow castle, and a green dancetty stripe towards the fly.",
+  "history": "Municipal flag of Ardisa; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Ardisa.svg",
+    "https://www.wikidata.org/wiki/Q1640175",
+    "https://es.wikipedia.org/wiki/Ardisa"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "panel at the hoist with a rounded fly edge"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle on the red panel"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "dancetty (zigzag) stripe towards the fly"
+    }
+  ]
+}

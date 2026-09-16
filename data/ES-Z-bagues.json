@@ -1,0 +1,65 @@
+{
+  "id": "ES-Z-bagues",
+  "name": "Bagüés (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1641134",
+    "ine": "50041"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Blue field with a white horizontal stripe across the centre, charged with a red disc edged white bearing a green sheaf.",
+  "history": "Municipal flag of Bagüés; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Bagüés.svg",
+    "https://www.wikidata.org/wiki/Q1641134",
+    "https://es.wikipedia.org/wiki/Bagüés"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "horizontal stripe across the centre"
+    },
+    {
+      "type": "disc",
+      "color": "red",
+      "position": "center",
+      "role": "disc edged white"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "sheaf on the disc"
+    }
+  ]
+}

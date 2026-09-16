@@ -1,0 +1,65 @@
+{
+  "id": "ES-Z-sestrica",
+  "name": "Sestrica (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639129",
+    "ine": "50243"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A hoist third of blue and white diagonal stripes, the red fly charged with a yellow pair of scales.",
+  "history": "Municipal flag of Sestrica; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Sestrica.svg",
+    "https://www.wikidata.org/wiki/Q1639129",
+    "https://es.wikipedia.org/wiki/Sestrica"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "hoist",
+      "count": 2,
+      "role": "two white diagonal stripes on the blue hoist third"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "fly",
+      "role": "pair of scales on the red fly"
+    }
+  ]
+}

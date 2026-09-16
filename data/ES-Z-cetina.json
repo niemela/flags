@@ -1,0 +1,63 @@
+{
+  "id": "ES-Z-cetina",
+  "name": "Cetina (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q959334",
+    "ine": "50081"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Yellow field with a broad red horizontal stripe with embattled blue edges, charged with two crossed yellow sheaves.",
+  "history": "Municipal flag of Cetina; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cetina.svg",
+    "https://www.wikidata.org/wiki/Q959334",
+    "https://es.wikipedia.org/wiki/Cetina_(Aragón)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "broad horizontal stripe with embattled blue edges"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "embattled edges of the stripe"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "two crossed sheaves on the stripe"
+    }
+  ]
+}

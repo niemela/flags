@@ -1,0 +1,67 @@
+{
+  "id": "ES-Z-terrer",
+  "name": "Terrer (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q979314",
+    "ine": "50253"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A hoist triangle of the bars of Aragon with its apex at the centre, the fly green with a central band of white and red stripes.",
+  "history": "Municipal flag of Terrer; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Terrer_Spain.svg",
+    "https://www.wikidata.org/wiki/Q979314",
+    "https://es.wikipedia.org/wiki/Terrer"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "triangle of yellow and red bars with its base at the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "bars on the triangle and central red stripe"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 3,
+      "position": "center",
+      "role": "central band of white and red stripes across the fly"
+    }
+  ]
+}

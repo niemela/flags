@@ -1,0 +1,58 @@
+{
+  "id": "ES-Z-cabolafuente",
+  "name": "Cabolafuente (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1641779",
+    "ine": "50065"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Divided diagonally by a wavy band of yellow and red from the upper hoist to the lower fly, red at the lower hoist and green at the upper fly.",
+  "history": "Municipal flag of Cabolafuente; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cabolafuente_(Zaragoza).svg",
+    "https://www.wikidata.org/wiki/Q1641779",
+    "https://es.wikipedia.org/wiki/Cabolafuente"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "red",
+      "direction": "bend"
+    },
+    {
+      "type": "wave",
+      "color": "yellow",
+      "position": "center",
+      "role": "wavy band of yellow and red stripes from the upper hoist to the lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "shading of the band"
+    }
+  ]
+}

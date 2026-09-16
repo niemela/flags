@@ -1,0 +1,58 @@
+{
+  "id": "ES-Z-fayon",
+  "name": "Fayón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639270",
+    "ine": "50105"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Red field with a yellow triangle at the hoist charged with red lozenges, and a group of yellow lozenges at the fly.",
+  "history": "Municipal flag of Fayón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Fayón.svg",
+    "https://www.wikidata.org/wiki/Q1639270",
+    "https://es.wikipedia.org/wiki/Fayón"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "triangle with its base at the hoist"
+    },
+    {
+      "type": "lozenge",
+      "color": "red",
+      "position": "hoist",
+      "count": 4,
+      "role": "four lozenges on the triangle"
+    },
+    {
+      "type": "lozenge",
+      "color": "yellow",
+      "position": "fly",
+      "count": 4,
+      "role": "four lozenges at the fly"
+    }
+  ]
+}

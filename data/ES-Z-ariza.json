@@ -1,0 +1,78 @@
+{
+  "id": "ES-Z-ariza",
+  "name": "Ariza (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1640165",
+    "ine": "50034"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Yellow field with red stripes near the upper and lower edges, charged at the centre with a black eagle above a white bridge.",
+  "history": "Municipal flag of Ariza; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Ariza.svg",
+    "https://www.wikidata.org/wiki/Q1640165",
+    "https://es.wikipedia.org/wiki/Ariza"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "position": "top",
+      "role": "two red stripes near the upper edge"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "position": "bottom",
+      "role": "two red stripes near the lower edge"
+    },
+    {
+      "type": "eagle",
+      "color": "black",
+      "position": "center",
+      "role": "eagle displayed"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "bridge of two arches beneath the eagle"
+    }
+  ]
+}

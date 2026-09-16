@@ -1,0 +1,68 @@
+{
+  "id": "ES-Z-pleitas",
+  "name": "Pleitas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1641078",
+    "ine": "50212"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field with a blue diagonal band edged yellow from the upper hoist to the lower fly, charged with a white Maltese cross at the lower hoist and a white tower at the upper fly.",
+  "history": "Municipal flag of Pleitas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Pleitas.svg",
+    "https://www.wikidata.org/wiki/Q1641078",
+    "https://es.wikipedia.org/wiki/Pleitas"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "role": "band edged yellow from the upper hoist to the lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "edges of the band"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "hoist",
+      "role": "Maltese cross at the lower hoist"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "fly",
+      "role": "tower at the upper fly"
+    }
+  ]
+}

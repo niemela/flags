@@ -1,0 +1,71 @@
+{
+  "id": "ES-Z-las-pedrosas",
+  "name": "Las Pedrosas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1650711",
+    "ine": "50205"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with a yellow fly part with a dancetty edge bearing a red stripe, charged at the hoist with yellow ears of wheat on stones.",
+  "history": "Municipal flag of Las Pedrosas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Las_Pedrosas.svg",
+    "https://www.wikidata.org/wiki/Q1650711",
+    "https://es.wikipedia.org/wiki/Las_Pedrosas_(Zaragoza)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "dancetty white line between the blue and the yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "fly",
+      "role": "fly part with a dancetty edge"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "horizontal stripe across the yellow fly"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "ears of wheat rising from stones"
+    }
+  ]
+}

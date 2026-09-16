@@ -1,0 +1,79 @@
+{
+  "id": "ES-Z-atea",
+  "name": "Atea (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1771909",
+    "ine": "50037"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "maroon"
+    }
+  ],
+  "description": "Green field with a central band of yellow and red bars and two yellow chevrons edged maroon issuing from the hoist.",
+  "history": "Municipal flag of Atea; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Atea.svg",
+    "https://www.wikidata.org/wiki/Q1771909",
+    "https://es.wikipedia.org/wiki/Atea_(Zaragoza)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 5,
+      "position": "center",
+      "role": "central band of yellow and red bars"
+    },
+    {
+      "type": "chevron",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 2,
+      "role": "two chevrons edged maroon issuing from the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "shading of the chevrons"
+    },
+    {
+      "type": "glyph",
+      "color": "maroon",
+      "position": "center",
+      "role": "edges of the chevrons"
+    }
+  ]
+}

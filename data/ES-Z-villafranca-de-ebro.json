@@ -1,0 +1,62 @@
+{
+  "id": "ES-Z-villafranca-de-ebro",
+  "name": "Villafranca de Ebro (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1638846",
+    "ine": "50285"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with a cross gyronny of red and yellow, charged with a yellow pine at the upper hoist and a yellow church at the lower hoist.",
+  "history": "The flag is a blue cloth of proportion 2:3, with a cross gyronny of red and yellow, a yellow pine in the upper hoist corner and a church in the lower hoist corner.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villafranca_de_Ebro.svg",
+    "https://www.wikidata.org/wiki/Q1638846",
+    "https://es.wikipedia.org/wiki/Villafranca_de_Ebro"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "center",
+      "field": "blue",
+      "role": "cross gyronny of red and yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "yellow gyrons of the cross"
+    },
+    {
+      "type": "tree",
+      "color": "yellow",
+      "position": "canton",
+      "role": "pine at the upper hoist"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "church at the lower hoist"
+    }
+  ]
+}

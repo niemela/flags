@@ -1,0 +1,65 @@
+{
+  "id": "ES-Z-torrehermosa",
+  "name": "Torrehermosa (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q663442",
+    "ine": "50259"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Yellow field with red triangles at the hoist and fly, charged at the centre with a white tower topped by a yellow tree.",
+  "history": "Municipal flag of Torrehermosa; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Torrehermosa.svg",
+    "https://www.wikidata.org/wiki/Q663442",
+    "https://es.wikipedia.org/wiki/Torrehermosa"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "triangle with its base at the hoist"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "fly",
+      "role": "triangle with its base at the fly"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "tower"
+    },
+    {
+      "type": "tree",
+      "color": "yellow",
+      "position": "center",
+      "role": "tree growing from the tower"
+    }
+  ]
+}

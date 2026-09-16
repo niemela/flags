@@ -1,0 +1,68 @@
+{
+  "id": "ES-Z-alcala-de-moncayo",
+  "name": "Alcalá de Moncayo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639119",
+    "ine": "50014"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A white hoist third bearing a red castle, the fly of five horizontal stripes of green and white.",
+  "history": "Municipal flag of Alcalá de Moncayo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Alcalá_de_Moncayo.svg",
+    "https://www.wikidata.org/wiki/Q1639119",
+    "https://es.wikipedia.org/wiki/Alcalá_de_Moncayo"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "hoist",
+      "role": "castle"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 5,
+      "position": "fly",
+      "role": "stripes of green and white on the fly"
+    }
+  ]
+}

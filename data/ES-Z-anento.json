@@ -1,0 +1,71 @@
+{
+  "id": "ES-Z-anento",
+  "name": "Anento (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639608",
+    "ine": "50028"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field with green triangles at the top and bottom and a blue horizontal stripe across the centre, charged with a yellow castle.",
+  "history": "Municipal flag of Anento; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Anento.svg",
+    "https://www.wikidata.org/wiki/Q1639608",
+    "https://es.wikipedia.org/wiki/Anento"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "top",
+      "role": "triangle with its base along the upper edge"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "bottom",
+      "role": "triangle with its base along the lower edge"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "horizontal stripe across the centre"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle"
+    }
+  ]
+}

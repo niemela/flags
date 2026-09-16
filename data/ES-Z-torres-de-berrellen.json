@@ -1,0 +1,54 @@
+{
+  "id": "ES-Z-torres-de-berrellen",
+  "name": "Torres de Berrellén (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1628472",
+    "ine": "50262"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Blue field with a chequered yellow and black hoist part with a semicircular edge, charged with a yellow fleur-de-lis.",
+  "history": "Municipal flag of Torres de Berrellén; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Torres_de_Berrellén.svg",
+    "https://www.wikidata.org/wiki/Q1628472",
+    "https://es.wikipedia.org/wiki/Torres_de_Berrellén"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "chequy",
+      "field": "yellow",
+      "chequy": "black",
+      "position": "hoist",
+      "role": "chequy of yellow and black at the hoist with a semicircular fly edge"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "fleur-de-lis on the blue beside the chequy"
+    }
+  ]
+}

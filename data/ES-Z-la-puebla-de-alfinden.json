@@ -1,0 +1,75 @@
+{
+  "id": "ES-Z-la-puebla-de-alfinden",
+  "name": "La Puebla de Alfindén (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1640155",
+    "ine": "50219"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with wavy stripes of red and yellow, the hoist third bearing a yellow lion on red above a bridge on white.",
+  "history": "Municipal flag of La Puebla de Alfindén; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_La_Puebla_de_Alfindén.svg",
+    "https://www.wikidata.org/wiki/Q1640155",
+    "https://es.wikipedia.org/wiki/La_Puebla_de_Alfindén"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "wave",
+      "color": "red",
+      "position": "fly",
+      "count": 4,
+      "role": "wavy stripes of red and yellow across the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "fly",
+      "role": "yellow wavy stripes"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "canton",
+      "role": "lion on red at the upper hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "canton",
+      "role": "red panel at the upper hoist"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "bridge above waves on white at the lower hoist"
+    }
+  ]
+}

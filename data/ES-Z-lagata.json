@@ -1,0 +1,74 @@
+{
+  "id": "ES-Z-lagata",
+  "name": "Lagata (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1641046",
+    "ine": "50133"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Yellow field with a blue dancetty stripe across the fly and a black zigzag line, charged at the hoist with a red wheel, a green palm and a black scythe.",
+  "history": "Municipal flag of Lagata; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Lagata.svg",
+    "https://www.wikidata.org/wiki/Q1641046",
+    "https://es.wikipedia.org/wiki/Lagata"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "broad dancetty stripe across the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "zigzag line and scythe at the hoist"
+    },
+    {
+      "type": "wheel",
+      "color": "red",
+      "position": "hoist",
+      "role": "wheel"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "hoist",
+      "role": "palm frond"
+    }
+  ]
+}

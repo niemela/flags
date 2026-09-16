@@ -1,0 +1,74 @@
+{
+  "id": "ES-Z-alpartir",
+  "name": "Alpartir (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1641433",
+    "ine": "50026"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Yellow field with a red hoist part bearing a green tree, the fly of red and yellow bars with a white pointed stripe.",
+  "history": "Municipal flag of Alpartir; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Alpartir.svg",
+    "https://www.wikidata.org/wiki/Q1641433",
+    "https://es.wikipedia.org/wiki/Alpartir"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "stripe with a pointed edge along the hoist"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist",
+      "role": "tree on the hoist stripe"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "white",
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 7,
+      "position": "fly",
+      "role": "bars of red and yellow on the fly with a white pointed stripe"
+    }
+  ]
+}

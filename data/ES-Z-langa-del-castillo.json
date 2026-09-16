@@ -1,0 +1,65 @@
+{
+  "id": "ES-Z-langa-del-castillo",
+  "name": "Langa del Castillo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1628164",
+    "ine": "50134"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field with white embattled stripes along the upper and lower edges, charged at the hoist with a yellow tower bearing a white oval with a letter L.",
+  "history": "Municipal flag of Langa del Castillo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Langa_del_Castillo.svg",
+    "https://www.wikidata.org/wiki/Q1628164",
+    "https://es.wikipedia.org/wiki/Langa_del_Castillo"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "embattled stripe along the upper edge"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "embattled stripe along the lower edge"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "tower bearing a white oval with a letter L"
+    }
+  ]
+}

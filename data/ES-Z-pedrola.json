@@ -1,0 +1,71 @@
+{
+  "id": "ES-Z-pedrola",
+  "name": "Pedrola (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q574869",
+    "ine": "50204"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided per saltire with white triangles at the hoist and fly bearing chequered crescents, and the bars of Aragon in the upper and lower triangles.",
+  "history": "Municipal flag of Pedrola; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Pedrola.svg",
+    "https://www.wikidata.org/wiki/Q574869",
+    "https://es.wikipedia.org/wiki/Pedrola"
+  ],
+  "features": [
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "hoist and fly triangles"
+    },
+    {
+      "type": "crescent",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 2,
+      "role": "chequered crescents of yellow and black on the white triangles"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "chequers of the crescents"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "bars of Aragon in the upper and lower triangles"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "red bars in the upper and lower triangles"
+    }
+  ]
+}

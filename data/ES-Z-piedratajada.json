@@ -1,0 +1,71 @@
+{
+  "id": "ES-Z-piedratajada",
+  "name": "Piedratajada (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1650724",
+    "ine": "50207"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal stripes of white, red, blue, red and white, the blue charged with yellow ears of wheat and a stone with a flag.",
+  "history": "Municipal flag of Piedratajada; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Piedratajada.svg",
+    "https://www.wikidata.org/wiki/Q1650724",
+    "https://es.wikipedia.org/wiki/Piedratajada"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "blue",
+        "red",
+        "white"
+      ],
+      "count": 5,
+      "widths": [
+        2,
+        1,
+        4,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "two ears of wheat towards the hoist and the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "stone with a flag and a cross at the centre"
+    }
+  ]
+}

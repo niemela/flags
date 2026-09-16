@@ -1,0 +1,59 @@
+{
+  "id": "ES-Z-novallas",
+  "name": "Novallas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1635927",
+    "ine": "50190"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field with a blue triangle edged yellow at the hoist bearing a yellow castle.",
+  "history": "The flag is a red cloth of proportion 2:3, enté at the hoist of blue, fimbriated yellow and charged with a yellow castle with red door and windows.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_novallas.svg",
+    "https://www.wikidata.org/wiki/Q1635927",
+    "https://es.wikipedia.org/wiki/Novallas"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "triangle edged yellow with its base at the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "edge of the triangle"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle with red door and windows on the triangle"
+    }
+  ]
+}

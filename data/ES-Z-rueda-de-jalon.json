@@ -1,0 +1,55 @@
+{
+  "id": "ES-Z-rueda-de-jalon",
+  "name": "Rueda de Jalón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q931379",
+    "ine": "50228"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Five horizontal stripes alternating red and white, charged at the hoist with two yellow tower fragments.",
+  "history": "Municipal flag of Rueda de Jalón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Rueda_de_Jalón.svg",
+    "https://www.wikidata.org/wiki/Q931379",
+    "https://es.wikipedia.org/wiki/Rueda_de_Jalón"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 5
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 2,
+      "role": "two tower fragments on the central stripe at the hoist"
+    }
+  ]
+}

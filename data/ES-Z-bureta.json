@@ -1,0 +1,72 @@
+{
+  "id": "ES-Z-bureta",
+  "name": "Bureta (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1770009",
+    "ine": "50061"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Five horizontal stripes of light blue, red, yellow, red and light blue, charged at the centre with a blue oval bearing a yellow vine leaf.",
+  "history": "Municipal flag of Bureta; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Bureta.svg",
+    "https://www.wikidata.org/wiki/Q1770009",
+    "https://es.wikipedia.org/wiki/Bureta_(Zaragoza)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "red",
+        "yellow",
+        "red",
+        "light-blue"
+      ],
+      "count": 5
+    },
+    {
+      "type": "disc",
+      "color": "blue",
+      "position": "center",
+      "role": "oval edged white"
+    },
+    {
+      "type": "leaf",
+      "color": "yellow",
+      "position": "center",
+      "role": "vine leaf on the oval"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "edge of the oval"
+    }
+  ]
+}

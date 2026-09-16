@@ -1,0 +1,71 @@
+{
+  "id": "ES-Z-monegrillo",
+  "name": "Monegrillo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639335",
+    "ine": "50170"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Yellow field with a red triangle at the hoist, the fly with black triangles along the upper and lower edges and a central white stripe edged green.",
+  "history": "Municipal flag of Monegrillo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Monegrillo.svg",
+    "https://www.wikidata.org/wiki/Q1639335",
+    "https://es.wikipedia.org/wiki/Monegrillo"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "triangle with its base at the hoist"
+    },
+    {
+      "type": "triangle",
+      "color": "black",
+      "position": "top",
+      "count": 6,
+      "role": "black triangles along the upper and lower edges of the fly"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "position": "center",
+      "role": "central white stripe edged green across the fly"
+    }
+  ]
+}

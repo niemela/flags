@@ -1,0 +1,90 @@
+{
+  "id": "ES-Z-la-zaida",
+  "name": "La Zaida (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1650377",
+    "ine": "50296"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A white hoist third bearing a blue fleur-de-lis between two cockerels, a chequered pale of black and yellow, and a fly of yellow and red bars.",
+  "history": "Municipal flag of La Zaida; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_La_Zaida.svg",
+    "https://www.wikidata.org/wiki/Q1650377",
+    "https://es.wikipedia.org/wiki/La_Zaida"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "black",
+      "position": "hoist",
+      "role": "fleur-de-lis between two cockerels"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "cockerels on the hoist and bars of the fly"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "chequered pale of black and yellow"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "role": "four red bars on yellow (Senyera)",
+      "position": "fly"
+    }
+  ]
+}

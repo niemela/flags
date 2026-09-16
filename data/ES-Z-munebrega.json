@@ -1,0 +1,85 @@
+{
+  "id": "ES-Z-munebrega",
+  "name": "Munébrega (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1650485",
+    "ine": "50183"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "Red field with white and blue stripes along the upper and lower edges, charged at the centre with a yellow church.",
+  "history": "Municipal flag of Munébrega; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Munébrega.svg",
+    "https://www.wikidata.org/wiki/Q1650485",
+    "https://es.wikipedia.org/wiki/Munébrega"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white"
+      ],
+      "count": 5,
+      "position": "top",
+      "role": "stripes of white and blue along the upper edge"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white"
+      ],
+      "count": 5,
+      "position": "bottom",
+      "role": "stripes of white and blue along the lower edge"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "church with two towers"
+    },
+    {
+      "type": "glyph",
+      "color": "light-blue",
+      "position": "center",
+      "role": "shading of the stripes"
+    }
+  ]
+}

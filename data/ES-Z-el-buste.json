@@ -1,0 +1,67 @@
+{
+  "id": "ES-Z-el-buste",
+  "name": "El Buste (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q649386",
+    "ine": "50063"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A blue triangle at the hoist bearing a yellow ram's head, the fly of green and white horizontal stripes.",
+  "history": "Municipal flag of El Buste; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_El_Buste.svg",
+    "https://www.wikidata.org/wiki/Q649386",
+    "https://es.wikipedia.org/wiki/El_Buste"
+  ],
+  "features": [
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "triangle with its base at the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "ram's head on the triangle"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "white",
+        "green",
+        "white",
+        "green",
+        "white"
+      ],
+      "count": 7,
+      "position": "fly",
+      "role": "stripes of white and green on the fly"
+    }
+  ]
+}

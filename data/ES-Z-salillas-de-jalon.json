@@ -1,0 +1,61 @@
+{
+  "id": "ES-Z-salillas-de-jalon",
+  "name": "Salillas de Jalón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1640997",
+    "ine": "50231"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with a green hoist part edged yellow bearing a yellow eight-pointed star, and a yellow wavy stripe across the fly.",
+  "history": "Municipal flag of Salillas de Jalón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Salillas_de_Jalón.svg",
+    "https://www.wikidata.org/wiki/Q1640997",
+    "https://es.wikipedia.org/wiki/Salillas_de_Jalón"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "hoist",
+      "role": "hoist part with a curved edge, edged yellow"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "eight-pointed star on the green"
+    },
+    {
+      "type": "wave",
+      "color": "yellow",
+      "position": "fly",
+      "role": "wavy stripe across the fly"
+    }
+  ]
+}

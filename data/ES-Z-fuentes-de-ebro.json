@@ -1,0 +1,54 @@
+{
+  "id": "ES-Z-fuentes-de-ebro",
+  "name": "Fuentes de Ebro (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639187",
+    "ine": "50115"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "pink"
+    }
+  ],
+  "description": "Red field charged with five white towers arranged in saltire.",
+  "history": "Municipal flag of Fuentes de Ebro; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Fuentes_de_Ebro.svg",
+    "https://www.wikidata.org/wiki/Q1639187",
+    "https://es.wikipedia.org/wiki/Fuentes_de_Ebro"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "count": 5,
+      "role": "five towers arranged in saltire"
+    },
+    {
+      "type": "glyph",
+      "color": "pink",
+      "position": "center",
+      "role": "shading of the towers"
+    }
+  ]
+}

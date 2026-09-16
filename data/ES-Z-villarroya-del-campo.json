@@ -1,0 +1,73 @@
+{
+  "id": "ES-Z-villarroya-del-campo",
+  "name": "Villarroya del Campo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639234",
+    "ine": "50294"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with two blue embattled pales edged white, charged at the hoist with two yellow ears of wheat and at the fly with two yellow suns.",
+  "history": "Municipal flag of Villarroya del Campo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villarroya_del_Campo.svg",
+    "https://www.wikidata.org/wiki/Q1639234",
+    "https://es.wikipedia.org/wiki/Villarroya_del_Campo"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 2,
+      "position": "center",
+      "role": "two embattled pales edged white"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "edges of the pales"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 2,
+      "role": "two crossed ears of wheat"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "fly",
+      "count": 2,
+      "role": "two suns one above the other"
+    }
+  ]
+}

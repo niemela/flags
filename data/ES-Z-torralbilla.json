@@ -1,0 +1,55 @@
+{
+  "id": "ES-Z-torralbilla",
+  "name": "Torralbilla (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1638854",
+    "ine": "50258"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, white above and blue below, charged with a green tree on the white and a white tower on the blue.",
+  "history": "Municipal flag of Torralbilla; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Torralbilla_(Zaragoza).svg",
+    "https://www.wikidata.org/wiki/Q1638854",
+    "https://es.wikipedia.org/wiki/Torralbilla"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist",
+      "role": "tree on the white"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "fly",
+      "role": "tower on the blue"
+    }
+  ]
+}

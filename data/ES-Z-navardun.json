@@ -1,0 +1,76 @@
+{
+  "id": "ES-Z-navardun",
+  "name": "Navardún (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1640032",
+    "ine": "50186"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Blue field with yellow stripes curving from the hoist corners to the fly and a red stripe across the centre widening into an oval bearing a yellow tower.",
+  "history": "As set out in decree 305/2015 of the Government of Aragon signed in Zaragoza on 1 December 2015 and published in the Boletín Oficial de Aragón of 10 December 2015, the municipal flag of Navardún is a cloth of proportions 2:3, blue, with a yellow horizontal stripe from the upper and lower parts of the hoist to the fly; at the centre of the hoist two red horizontal stripes which widen into an oval at the centre, in which is set a yellow tower of six merlons with black door and windows, and which continue to the fly as a single stripe.",
+  "periods": [
+    {
+      "start": "2015-12-01"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Navardún_(oficial).svg",
+    "https://www.wikidata.org/wiki/Q1640032",
+    "https://es.wikipedia.org/wiki/Navardún"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "stripes curving from the upper and lower hoist to the fly"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "horizontal stripe widening into an oval at the centre"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "tower of six merlons with black door and windows on the oval"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "door and windows of the tower"
+    }
+  ]
+}

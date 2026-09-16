@@ -1,0 +1,71 @@
+{
+  "id": "ES-Z-nombrevilla",
+  "name": "Nombrevilla (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1640066",
+    "ine": "50188"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with a red chevron edged yellow pointing to the fly bearing a white letter N, continued by a red stripe edged yellow bearing a white cross of Lorraine.",
+  "history": "Municipal flag of Nombrevilla; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Nombrevilla.svg",
+    "https://www.wikidata.org/wiki/Q1640066",
+    "https://es.wikipedia.org/wiki/Nombrevilla"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "chevron",
+      "color": "red",
+      "position": "hoist",
+      "role": "chevron edged yellow issuing from the hoist and pointing to the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "edges of the chevron and stripe"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "letter N on the chevron and cross of Lorraine on the stripe"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "stripe edged yellow from the chevron to the fly"
+    }
+  ]
+}

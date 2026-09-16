@@ -1,0 +1,73 @@
+{
+  "id": "ES-Z-acered",
+  "name": "Acered (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639539",
+    "ine": "50002"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "grey"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, white above and light blue below, charged with a yellow castle at the centre and bunches of grapes at the upper hoist and lower fly.",
+  "history": "The flag is a cloth with a blue triangle running from the lower part of the hoist to the upper part of the fly.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Drapeau_Acered_décret_132_2009_du_Gouvernement_d'Aragon.svg",
+    "https://www.wikidata.org/wiki/Q1639539",
+    "https://es.wikipedia.org/wiki/Acered"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "light-blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle"
+    },
+    {
+      "type": "fruit",
+      "color": "grey",
+      "position": "canton",
+      "role": "bunch of grapes at the upper hoist"
+    },
+    {
+      "type": "fruit",
+      "color": "grey",
+      "position": "fly",
+      "role": "bunch of grapes at the lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "stems of the grapes"
+    }
+  ]
+}

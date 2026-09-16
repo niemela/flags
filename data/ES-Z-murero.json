@@ -1,0 +1,65 @@
+{
+  "id": "ES-Z-murero",
+  "name": "Murero (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1650345",
+    "ine": "50184"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Yellow field with a blue vesica (eye shape) at the hoist bearing a yellow trilobite, the fly of yellow and red bars with pointed ends.",
+  "history": "Municipal flag of Murero; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Murero.svg",
+    "https://www.wikidata.org/wiki/Q1650345",
+    "https://es.wikipedia.org/wiki/Murero"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "lozenge",
+      "color": "blue",
+      "position": "hoist",
+      "role": "eye-shaped vesica at the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "hoist",
+      "role": "trilobite on the vesica"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 4,
+      "position": "fly",
+      "role": "four red bars with pointed ends on the fly"
+    }
+  ]
+}

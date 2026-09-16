@@ -1,0 +1,98 @@
+{
+  "id": "ES-Z-malon",
+  "name": "Malon (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1768945",
+    "ine": "50157"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue hoist part with a black cross bearing a yellow tower between two crowns, the fly of the bars of Aragon with a pointed division.",
+  "history": "Municipal flag of Malon; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Malón.svg",
+    "https://www.wikidata.org/wiki/Q1768945",
+    "https://es.wikipedia.org/wiki/Malón_(Zaragoza)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "role": "pointed division"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "black",
+      "position": "hoist",
+      "role": "cross on the blue hoist part"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "tower at the crossing"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 2,
+      "role": "two crowns above and below the tower"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "pearls of the crowns"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "role": "four red bars on yellow (Senyera)",
+      "position": "fly"
+    }
+  ]
+}

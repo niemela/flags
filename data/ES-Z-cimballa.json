@@ -1,0 +1,67 @@
+{
+  "id": "ES-Z-cimballa",
+  "name": "Cimballa (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1650672",
+    "ine": "50082"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A blue triangle at the hoist bearing a red embattled lozenge with two yellow concentric circles, the field of the bars of Aragon, with a blue triangle at the fly.",
+  "history": "The flag is a cloth of proportion 2:3 of the Royal Sign of Aragon, enté azure at the hoist bearing a red embattled lozenge charged with two yellow concentric circles, and at the fly a blue triangle.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cimballa.svg",
+    "https://www.wikidata.org/wiki/Q1650672",
+    "https://es.wikipedia.org/wiki/Cimballa"
+  ],
+  "features": [
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "triangle with its base at the hoist"
+    },
+    {
+      "type": "lozenge",
+      "color": "red",
+      "position": "hoist",
+      "role": "embattled lozenge bearing two yellow concentric circles"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "bars of Aragon on the field and circles on the lozenge"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "bars of Aragon"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "fly",
+      "role": "triangle with its base at the fly"
+    }
+  ]
+}

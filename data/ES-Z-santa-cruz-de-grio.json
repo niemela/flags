@@ -1,0 +1,56 @@
+{
+  "id": "ES-Z-santa-cruz-de-grio",
+  "name": "Santa Cruz de Grío (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1650664",
+    "ine": "50236"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Yellow field with a blue triangle from the hoist continued by a blue cross of Lorraine, the hoist charged with a yellow crozier and palm.",
+  "history": "Municipal flag of Santa Cruz de Grío; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Santa_Cruz_de_Grío.svg",
+    "https://www.wikidata.org/wiki/Q1650664",
+    "https://es.wikipedia.org/wiki/Santa_Cruz_de_Grío"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "triangle with its base at the hoist"
+    },
+    {
+      "type": "latin-cross",
+      "color": "blue",
+      "position": "center",
+      "role": "double cross of Lorraine extending from the triangle"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "crozier and palm on the triangle"
+    }
+  ]
+}

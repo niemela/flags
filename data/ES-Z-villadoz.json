@@ -1,0 +1,68 @@
+{
+  "id": "ES-Z-villadoz",
+  "name": "Villadoz (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639196",
+    "ine": "50283"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field with a blue triangle edged white issuing from the hoist to the fly, charged with a yellow cypress at the hoist and two bees at the fly.",
+  "history": "Municipal flag of Villadoz; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villadoz.svg",
+    "https://www.wikidata.org/wiki/Q1639196",
+    "https://es.wikipedia.org/wiki/Villadoz"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "large triangle edged white with its base at the hoist and its apex at the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "edge of the triangle"
+    },
+    {
+      "type": "tree",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "cypress on the triangle"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "fly",
+      "role": "two bees at the upper and lower fly"
+    }
+  ]
+}

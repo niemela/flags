@@ -1,0 +1,72 @@
+{
+  "id": "ES-Z-el-frago",
+  "name": "El Frago (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1650363",
+    "ine": "50109"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with red dancetty stripes edged yellow along the upper and lower edges, charged with a yellow oval of the bars of Aragon between two yellow crowns.",
+  "history": "Municipal flag of El Frago; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_El_Frago.svg",
+    "https://www.wikidata.org/wiki/Q1650363",
+    "https://es.wikipedia.org/wiki/El_Frago"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "dancetty stripe edged yellow along the upper edge"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "dancetty stripe edged yellow along the lower edge"
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "position": "center",
+      "role": "oval of the bars of Aragon"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "two crowns flanking the oval"
+    }
+  ]
+}

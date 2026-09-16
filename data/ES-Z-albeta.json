@@ -1,0 +1,81 @@
+{
+  "id": "ES-Z-albeta",
+  "name": "Albeta (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q633953",
+    "ine": "50011"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontal stripes of blue, red, yellow, blue, yellow, red and blue with a broad central yellow stripe, charged with a blue lozenge between two red crescents and two Arabic letters.",
+  "history": "Municipal flag of Albeta; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Albeta.svg",
+    "https://www.wikidata.org/wiki/Q633953",
+    "https://es.wikipedia.org/wiki/Albeta"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red",
+        "yellow",
+        "blue",
+        "yellow",
+        "red",
+        "blue"
+      ],
+      "count": 7,
+      "widths": [
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "lozenge",
+      "color": "blue",
+      "position": "center",
+      "role": "small lozenge at the centre"
+    },
+    {
+      "type": "crescent",
+      "color": "red",
+      "position": "center",
+      "count": 2,
+      "role": "two crescents beneath the lozenge"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "Arabic letters above the lozenge"
+    }
+  ]
+}

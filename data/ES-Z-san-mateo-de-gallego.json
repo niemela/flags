@@ -1,0 +1,86 @@
+{
+  "id": "ES-Z-san-mateo-de-gallego",
+  "name": "San Mateo de Gállego (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639441",
+    "ine": "50235"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue hoist part with a pointed edge bearing a white tree beneath a yellow star, the fly of red and yellow bars.",
+  "history": "Municipal flag of San Mateo de Gállego; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_San_Mateo_de_Gállego.svg",
+    "https://www.wikidata.org/wiki/Q1639441",
+    "https://es.wikipedia.org/wiki/San_Mateo_de_Gállego"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "stripe with a pointed edge along the hoist"
+    },
+    {
+      "type": "tree",
+      "color": "white",
+      "position": "hoist",
+      "role": "tree"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "star above the tree"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 5,
+      "position": "fly",
+      "role": "bars of red and yellow on the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "bars of the fly"
+    }
+  ]
+}

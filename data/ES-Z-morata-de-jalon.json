@@ -1,0 +1,66 @@
+{
+  "id": "ES-Z-morata-de-jalon",
+  "name": "Morata de Jalón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1646180",
+    "ine": "50175"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontal tricolour of red, blue and yellow with narrow blue stripe, charged at the centre with a white arched gateway bearing a yellow tree.",
+  "history": "Municipal flag of Morata de Jalón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Morata_de_Jalón.svg",
+    "https://www.wikidata.org/wiki/Q1646180",
+    "https://es.wikipedia.org/wiki/Morata_de_Jalón"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue",
+        "yellow"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "crenellated gateway with an arch"
+    },
+    {
+      "type": "tree",
+      "color": "yellow",
+      "position": "center",
+      "role": "tree within the arch"
+    }
+  ]
+}

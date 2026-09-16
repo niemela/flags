@@ -1,0 +1,54 @@
+{
+  "id": "ES-Z-biota",
+  "name": "Biota (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q511881",
+    "ine": "50051"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with two white diagonal bands from the upper hoist to the lower fly, charged between them with a yellow tower.",
+  "history": "Municipal flag of Biota; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Biota.svg",
+    "https://www.wikidata.org/wiki/Q511881",
+    "https://es.wikipedia.org/wiki/Biota_(Zaragoza)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 2,
+      "role": "two bands from the upper hoist to the lower fly"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "tower between the bands"
+    }
+  ]
+}

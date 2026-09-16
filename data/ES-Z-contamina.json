@@ -1,0 +1,88 @@
+{
+  "id": "ES-Z-contamina",
+  "name": "Contamina (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1641087",
+    "ine": "50087"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with green stripes edged by yellow wavy lines along the upper and lower edges, charged with a shield of the bars of Aragon at the upper hoist and a crown at the lower hoist.",
+  "history": "Municipal flag of Contamina; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Contamina.svg",
+    "https://www.wikidata.org/wiki/Q1641087",
+    "https://es.wikipedia.org/wiki/Contamina"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "blue",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        3,
+        1
+      ],
+      "role": "green edges divided from the blue by yellow wavy lines"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "wavy lines and crown"
+    },
+    {
+      "type": "shield",
+      "color": "yellow",
+      "position": "canton",
+      "role": "small shield of the bars of Aragon at the upper hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "canton",
+      "role": "bars on the shield"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "crown at the lower hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "pearls of the crown"
+    }
+  ]
+}

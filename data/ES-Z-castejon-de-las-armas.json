@@ -1,0 +1,62 @@
+{
+  "id": "ES-Z-castejon-de-las-armas",
+  "name": "Castejón de las Armas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1650744",
+    "ine": "50076"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with a stepped hoist part of yellow and red bars, charged at the centre with a yellow bow and arrow.",
+  "history": "Municipal flag of Castejón de las Armas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Castejón_de_las_Armas.svg",
+    "https://www.wikidata.org/wiki/Q1650744",
+    "https://es.wikipedia.org/wiki/Castejón_de_las_Armas"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "stepped stripe of yellow and red bars along the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "bars on the hoist stripe"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "bow and arrow at the centre"
+    }
+  ]
+}

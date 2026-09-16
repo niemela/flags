@@ -1,0 +1,77 @@
+{
+  "id": "ES-Z-villalengua",
+  "name": "Villalengua (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1650349",
+    "ine": "50287"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with a central band of white and green stripes, charged with a red oval bearing a yellow wall with an apple, between two white Maltese crosses.",
+  "history": "Municipal flag of Villalengua; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villalengua.svg",
+    "https://www.wikidata.org/wiki/Q1650349",
+    "https://es.wikipedia.org/wiki/Villalengua"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "white"
+      ],
+      "count": 3,
+      "position": "center",
+      "role": "central band of white, green and white stripes"
+    },
+    {
+      "type": "disc",
+      "color": "red",
+      "position": "center",
+      "role": "oval outline"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "wall bearing an apple within the oval"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "center",
+      "count": 2,
+      "role": "Maltese crosses above and below the oval"
+    }
+  ]
+}

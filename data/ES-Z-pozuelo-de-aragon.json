@@ -1,0 +1,68 @@
+{
+  "id": "ES-Z-pozuelo-de-aragon",
+  "name": "Pozuelo de Aragón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1641025",
+    "ine": "50216"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with yellow wavy stripes edged red near the upper and lower edges, charged at the centre with three yellow wells.",
+  "history": "Municipal flag of Pozuelo de Aragón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Pozuelo_de_Aragón.svg",
+    "https://www.wikidata.org/wiki/Q1641025",
+    "https://es.wikipedia.org/wiki/Pozuelo_de_Aragón"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2,
+      "position": "top",
+      "role": "stripes of yellow and red with a wavy inner edge along the upper edge"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2,
+      "position": "bottom",
+      "role": "stripes of red and yellow with a wavy inner edge along the lower edge"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "count": 3,
+      "role": "three wells, one above and two below"
+    }
+  ]
+}

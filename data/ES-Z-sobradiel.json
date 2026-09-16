@@ -1,0 +1,80 @@
+{
+  "id": "ES-Z-sobradiel",
+  "name": "Sobradiel (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1650760",
+    "ine": "50247"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Yellow field with red stripes and chequered yellow and black edges along the top and bottom, charged with two blue bells.",
+  "history": "Municipal flag of Sobradiel; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Sobradiel.svg",
+    "https://www.wikidata.org/wiki/Q1650760",
+    "https://es.wikipedia.org/wiki/Sobradiel"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "red",
+        "yellow",
+        "red",
+        "black"
+      ],
+      "count": 5,
+      "widths": [
+        1,
+        1,
+        8,
+        1,
+        1
+      ],
+      "role": "chequered yellow and black edges and red stripes along the upper and lower edges"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "yellow squares of the chequered edges"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "two bells side by side"
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "center",
+      "role": "shading of the bells"
+    }
+  ]
+}

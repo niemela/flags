@@ -1,0 +1,71 @@
+{
+  "id": "ES-Z-cadrete",
+  "name": "Cadrete (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639202",
+    "ine": "50066"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with pales of yellow along the hoist, charged at the fly with a green tree beneath a white cross.",
+  "history": "Municipal flag of Cadrete; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cadrete.svg",
+    "https://www.wikidata.org/wiki/Q1639202",
+    "https://es.wikipedia.org/wiki/Cadrete"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 7,
+      "position": "hoist",
+      "role": "pales of yellow and red along the hoist"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "fly",
+      "role": "tree at the fly"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "fly",
+      "role": "cross patty above the tree"
+    }
+  ]
+}

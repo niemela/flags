@@ -1,0 +1,69 @@
+{
+  "id": "ES-Z-pradilla-de-ebro",
+  "name": "Pradilla de Ebro (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1650590",
+    "ine": "50217"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with a green stripe along the hoist, charged at the centre with a yellow octagonal tower between four yellow eight-pointed stars.",
+  "history": "In 1997 the town council of Pradilla de Ebro was authorised to adopt its heraldic arms and municipal flag; the arms are azure, an octagonal Mudéjar tower or, masoned sable and pierced of the field, accompanied in each corner by an eight-pointed star or, on a base vert fimbriated argent.",
+  "periods": [
+    {
+      "start": "1997"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Pradilla_de_Ebro.svg",
+    "https://www.wikidata.org/wiki/Q1650590",
+    "https://es.wikipedia.org/wiki/Pradilla_de_Ebro"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "stripe along the hoist"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "octagonal Mudéjar tower"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 8,
+      "color": "yellow",
+      "position": "center",
+      "role": "four eight-pointed stars in the corners of the blue"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ES-Z-manchones",
+  "name": "Manchones (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639285",
+    "ine": "50161"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field with wavy stripes of blue and yellow along the upper and lower edges, charged at the centre with a yellow shrine.",
+  "history": "Municipal flag of Manchones; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Manchones.svg",
+    "https://www.wikidata.org/wiki/Q1639285",
+    "https://es.wikipedia.org/wiki/Manchones"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "top",
+      "role": "wavy stripes of blue and yellow along the upper edge"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom",
+      "role": "wavy stripes of blue and yellow along the lower edge"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "shrine (peirón) with a small shield"
+    }
+  ]
+}

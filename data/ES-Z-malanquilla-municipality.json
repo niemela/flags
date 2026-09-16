@@ -1,0 +1,71 @@
+{
+  "id": "ES-Z-malanquilla-municipality",
+  "name": "Malanquilla (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1650569",
+    "ine": "50155"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Vertical tricolour with a blue hoist bearing a white windmill, a centre of the bars of Aragon and a green fly bearing three yellow ears of wheat.",
+  "history": "Municipal flag of Malanquilla Municipality; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Malanquilla.svg",
+    "https://www.wikidata.org/wiki/Q1650569",
+    "https://es.wikipedia.org/wiki/Malanquilla"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "windmill"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "bars of Aragon on the central stripe"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "fly",
+      "count": 3,
+      "role": "three ears of wheat"
+    }
+  ]
+}

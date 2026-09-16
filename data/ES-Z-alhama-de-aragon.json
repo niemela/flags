@@ -1,0 +1,61 @@
+{
+  "id": "ES-Z-alhama-de-aragon",
+  "name": "Alhama de Aragón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1642171",
+    "ine": "50020"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided by a broad blue wavy band from the lower hoist to the upper fly, red at the upper hoist and lower fly, charged with yellow towers in the red corners.",
+  "history": "Municipal flag of Alhama de Aragón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Alhama_de_Aragón.svg",
+    "https://www.wikidata.org/wiki/Q1642171",
+    "https://es.wikipedia.org/wiki/Alhama_de_Aragón"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "role": "broad wavy band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "canton",
+      "role": "tower at the upper hoist"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "role": "tower at the lower fly"
+    }
+  ]
+}

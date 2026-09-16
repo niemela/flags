@@ -1,0 +1,80 @@
+{
+  "id": "ES-Z-herrera-de-los-navarros",
+  "name": "Herrera de los Navarros (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1641124",
+    "ine": "50124"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with white dancetty stripes along the upper and lower edges, charged towards the hoist with a white horseshoe enclosing a shield of the bars of Aragon.",
+  "history": "The flag of Herrera de los Navarros is shown on a cloth whose length is three halves of its width.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Herrera_de_los_Navarros.svg",
+    "https://www.wikidata.org/wiki/Q1641124",
+    "https://es.wikipedia.org/wiki/Herrera_de_los_Navarros"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "dancetty stripe along the upper edge"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "dancetty stripe along the lower edge"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "horseshoe towards the hoist"
+    },
+    {
+      "type": "shield",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "small shield of the bars of Aragon within the horseshoe"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "bars on the shield"
+    }
+  ]
+}

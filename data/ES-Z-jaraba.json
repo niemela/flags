@@ -1,0 +1,51 @@
+{
+  "id": "ES-Z-jaraba",
+  "name": "Jaraba (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1641070",
+    "ine": "50129"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Yellow field with a blue semicircle issuing from the hoist and three blue lozenges in a row to the fly.",
+  "history": "Municipal flag of Jaraba; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Jaraba.svg",
+    "https://www.wikidata.org/wiki/Q1641070",
+    "https://es.wikipedia.org/wiki/Jaraba"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "disc",
+      "color": "blue",
+      "position": "hoist",
+      "role": "semicircle issuing from the hoist"
+    },
+    {
+      "type": "lozenge",
+      "color": "blue",
+      "position": "fly",
+      "count": 3,
+      "role": "three lozenges in a row towards the fly"
+    }
+  ]
+}

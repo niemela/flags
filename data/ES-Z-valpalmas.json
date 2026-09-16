@@ -1,0 +1,67 @@
+{
+  "id": "ES-Z-valpalmas",
+  "name": "Valpalmas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1650402",
+    "ine": "50276"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with a central band of red, yellow and red stripes, charged at the centre with a blue lozenge bearing a white tower.",
+  "history": "Municipal flag of Valpalmas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Valpalmas.svg",
+    "https://www.wikidata.org/wiki/Q1650402",
+    "https://es.wikipedia.org/wiki/Valpalmas"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 3,
+      "position": "center",
+      "role": "central band of red, yellow and red stripes"
+    },
+    {
+      "type": "lozenge",
+      "color": "blue",
+      "position": "center",
+      "role": "lozenge over the band"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "tower on the lozenge"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "ES-Z-ores",
+  "name": "Orés (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1985374",
+    "ine": "50197"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Blue field with a yellow rectangular frame bearing blue triangles at the hoist and fly, charged at the centre with a red flame on a yellow base.",
+  "history": "Municipal flag of Orés; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Orés.svg",
+    "https://www.wikidata.org/wiki/Q1985374",
+    "https://es.wikipedia.org/wiki/Orés"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "border",
+      "color": "yellow",
+      "role": "rectangular frame inset from the edges"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "count": 2,
+      "role": "blue triangles at the hoist and fly within the frame"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "flame at the centre"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "shading of the flame"
+    }
+  ]
+}

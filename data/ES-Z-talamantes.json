@@ -1,0 +1,61 @@
+{
+  "id": "ES-Z-talamantes",
+  "name": "Talamantes (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639321",
+    "ine": "50250"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontal tricolour of red, blue and green, the blue charged towards the hoist with a green tree above two white crossed axes.",
+  "history": "Municipal flag of Talamantes; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Talamantes.svg",
+    "https://www.wikidata.org/wiki/Q1639321",
+    "https://es.wikipedia.org/wiki/Talamantes"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist",
+      "role": "tree on the blue stripe"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "two crossed axes beneath the tree"
+    }
+  ]
+}

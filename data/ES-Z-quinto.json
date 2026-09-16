@@ -1,0 +1,63 @@
+{
+  "id": "ES-Z-quinto",
+  "name": "Quinto (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1752280",
+    "ine": "50222"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A white hoist third bearing five red discs and a red wavy line, the fly blue.",
+  "history": "The flag has a proportion of 2:3, white in its hoist third and blue in the remaining two thirds.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Quinto.svg",
+    "https://www.wikidata.org/wiki/Q1752280",
+    "https://es.wikipedia.org/wiki/Quinto_(Zaragoza)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "role": "wavy division edged red"
+    },
+    {
+      "type": "disc",
+      "color": "red",
+      "position": "hoist",
+      "count": 5,
+      "role": "five discs arranged two, one, two on the white"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "wavy line along the division"
+    }
+  ]
+}

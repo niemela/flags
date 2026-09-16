@@ -1,0 +1,67 @@
+{
+  "id": "ES-Z-bordalba",
+  "name": "Bordalba (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1641108",
+    "ine": "50054"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Red field with a white cross throughout, charged with yellow fleurs-de-lis at the upper hoist and lower fly and yellow castles at the upper fly and lower hoist.",
+  "history": "Municipal flag of Bordalba; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Bordalba.svg",
+    "https://www.wikidata.org/wiki/Q1641108",
+    "https://es.wikipedia.org/wiki/Bordalba"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "cross": "white",
+      "position": "center",
+      "field": "red",
+      "role": "cross throughout"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "canton",
+      "count": 2,
+      "role": "fleurs-de-lis in the upper hoist and lower fly quarters"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "count": 2,
+      "role": "castles in the upper fly and lower hoist quarters"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "shading of the castles"
+    }
+  ]
+}

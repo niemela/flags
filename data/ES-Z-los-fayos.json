@@ -1,0 +1,84 @@
+{
+  "id": "ES-Z-los-fayos",
+  "name": "Los Fayos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639179",
+    "ine": "50106"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with white dancetty stripes along the upper and lower edges bearing green trees, charged at the centre with a yellow castle.",
+  "history": "Municipal flag of Los Fayos; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Los_Fayos.svg",
+    "https://www.wikidata.org/wiki/Q1639179",
+    "https://es.wikipedia.org/wiki/Los_Fayos"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "dancetty stripe along the upper edge bearing three green trees"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "dancetty stripe along the lower edge bearing three green trees"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "top",
+      "count": 6,
+      "role": "six small trees on the white stripes"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle with red door and windows"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "door and windows of the castle"
+    }
+  ]
+}

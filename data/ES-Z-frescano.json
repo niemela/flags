@@ -1,0 +1,64 @@
+{
+  "id": "ES-Z-frescano",
+  "name": "Fréscano (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639221",
+    "ine": "50111"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Red field with a stepped hoist part bearing a yellow stork, the fly of blue, yellow and blue horizontal stripes.",
+  "history": "Municipal flag of Fréscano; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Fréscano.svg",
+    "https://www.wikidata.org/wiki/Q1639221",
+    "https://es.wikipedia.org/wiki/Fréscano"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "stepped hoist part"
+    },
+    {
+      "type": "bird",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "stork holding a branch"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "blue"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "stripes of blue, yellow and blue on the fly"
+    }
+  ]
+}

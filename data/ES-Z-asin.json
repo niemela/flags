@@ -1,0 +1,56 @@
+{
+  "id": "ES-Z-asin",
+  "name": "Asín (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1647174",
+    "ine": "50036"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Yellow field with a blue chevron pointing to the fly, from which a red horizontal stripe extends to the fly.",
+  "history": "Municipal flag of Asín; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Asín.svg",
+    "https://www.wikidata.org/wiki/Q1647174",
+    "https://es.wikipedia.org/wiki/Asín"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "chevron",
+      "color": "blue",
+      "position": "hoist",
+      "role": "thin chevron issuing from the hoist corners and pointing to the fly"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "horizontal stripe from the chevron to the fly"
+    }
+  ]
+}

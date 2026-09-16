@@ -1,0 +1,88 @@
+{
+  "id": "ES-Z-paniza",
+  "name": "Paniza (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1640449",
+    "ine": "50200"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Red field with yellow stripes at the hoist and fly, charged at the centre with a blue lozenge bearing yellow ears of wheat.",
+  "history": "Municipal flag of Paniza; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Paniza.svg",
+    "https://www.wikidata.org/wiki/Q1640449",
+    "https://es.wikipedia.org/wiki/Paniza"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 5,
+      "position": "hoist",
+      "role": "bars of yellow and red at the hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 5,
+      "position": "fly",
+      "role": "bars of yellow and red at the fly"
+    },
+    {
+      "type": "lozenge",
+      "color": "blue",
+      "position": "center",
+      "role": "lozenge with curved sides"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "center",
+      "role": "ears of wheat on the lozenge"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "shading of the wheat"
+    }
+  ]
+}

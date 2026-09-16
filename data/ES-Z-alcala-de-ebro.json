@@ -1,0 +1,59 @@
+{
+  "id": "ES-Z-alcala-de-ebro",
+  "name": "Alcalá de Ebro (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1650394",
+    "ine": "50013"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided by a red band edged yellow from the upper hoist to the lower fly, blue at the lower hoist and upper fly, charged at the centre with a yellow castle.",
+  "history": "Municipal flag of Alcalá de Ebro; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Alcalá_de_Ebro.svg",
+    "https://www.wikidata.org/wiki/Q1650394",
+    "https://es.wikipedia.org/wiki/Alcalá_de_Ebro"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "role": "broad band edged yellow from the upper hoist to the lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "edges of the band"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle on the band"
+    }
+  ]
+}

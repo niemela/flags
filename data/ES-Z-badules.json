@@ -1,0 +1,74 @@
+{
+  "id": "ES-Z-badules",
+  "name": "Badules (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639646",
+    "ine": "50040"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Blue field with a yellow central pale charged with three red stacked panels (a rendering of a cart).",
+  "history": "Municipal flag of Badules; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Badules.svg",
+    "https://www.wikidata.org/wiki/Q1639646",
+    "https://es.wikipedia.org/wiki/Badules"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "central pale"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "three panels in a column on the pale"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "details of the panels"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "shading of the panels"
+    }
+  ]
+}

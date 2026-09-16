@@ -1,0 +1,70 @@
+{
+  "id": "ES-Z-mediana-de-aragon",
+  "name": "Mediana de Aragón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q303257",
+    "ine": "50164"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided by a white zigzag line, blue above and green below, charged at the upper hoist with a red oval bearing a yellow ear of wheat.",
+  "history": "Municipal flag of Mediana de Aragón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Mediana_de_Aragón.svg",
+    "https://www.wikidata.org/wiki/Q303257",
+    "https://es.wikipedia.org/wiki/Mediana_de_Aragón"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2,
+      "role": "mountain-shaped division edged white"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "line of the division"
+    },
+    {
+      "type": "disc",
+      "color": "red",
+      "position": "canton",
+      "role": "oval at the upper hoist"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "canton",
+      "role": "ear of wheat on the oval"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "ES-Z-valdehorna",
+  "name": "Valdehorna (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q740785",
+    "ine": "50273"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided by a stepped yellow band from the lower hoist to the upper fly, blue at the upper hoist and red at the lower fly, charged with a crowned shield of the bars of Aragon between crossed tools.",
+  "history": "Municipal flag of Valdehorna; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Valdehorna.svg",
+    "https://www.wikidata.org/wiki/Q740785",
+    "https://es.wikipedia.org/wiki/Valdehorna"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "role": "stepped band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "shield",
+      "color": "yellow",
+      "position": "canton",
+      "role": "crowned shield of the bars of Aragon between crossed tools at the upper hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "canton",
+      "role": "bars on the shield"
+    }
+  ]
+}

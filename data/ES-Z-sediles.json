@@ -1,0 +1,60 @@
+{
+  "id": "ES-Z-sediles",
+  "name": "Sediles (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q769756",
+    "ine": "50242"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontally divided red over yellow with a blue triangle at the hoist, charged across the centre with a white feather bearing the bars of Aragon.",
+  "history": "Municipal flag of Sediles; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Sediles.svg",
+    "https://www.wikidata.org/wiki/Q769756",
+    "https://es.wikipedia.org/wiki/Sediles"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "triangle with its base at the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "feather across the centre bearing the red and yellow bars of Aragon"
+    }
+  ]
+}

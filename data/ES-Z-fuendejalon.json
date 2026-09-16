@@ -1,0 +1,71 @@
+{
+  "id": "ES-Z-fuendejalon",
+  "name": "Fuendejalón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q541606",
+    "ine": "50113"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "purple"
+    }
+  ],
+  "description": "A red hoist third bearing a white Maltese cross with a yellow tower, the yellow fly with rows of purple lozenges along the upper and lower edges.",
+  "history": "Municipal flag of Fuendejalón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Fuendejalón.svg",
+    "https://www.wikidata.org/wiki/Q541606",
+    "https://es.wikipedia.org/wiki/Fuendejalón"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "hoist",
+      "role": "Maltese cross"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "tower on the cross"
+    },
+    {
+      "type": "lozenge",
+      "color": "purple",
+      "position": "fly",
+      "count": 10,
+      "role": "rows of lozenges along the upper and lower edges of the fly"
+    }
+  ]
+}

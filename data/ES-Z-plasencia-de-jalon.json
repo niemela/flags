@@ -1,0 +1,65 @@
+{
+  "id": "ES-Z-plasencia-de-jalon",
+  "name": "Plasencia de Jalón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1650559",
+    "ine": "50211"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Vertically divided red and blue by a wavy line edged white, the red charged with a yellow wing.",
+  "history": "Municipal flag of Plasencia de Jalón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Plasencia_de_Jalón.svg",
+    "https://www.wikidata.org/wiki/Q1650559",
+    "https://es.wikipedia.org/wiki/Plasencia_de_Jalón"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "role": "wavy division edged white"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "wavy line of the division"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "wing on the red hoist part"
+    }
+  ]
+}

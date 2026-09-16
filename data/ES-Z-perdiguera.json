@@ -1,0 +1,77 @@
+{
+  "id": "ES-Z-perdiguera",
+  "name": "Perdiguera (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q1639503",
+    "ine": "50206"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A green hoist third bearing a partridge, the fly divided yellow over red.",
+  "history": "Municipal flag of Perdiguera; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Perdiguera.svg",
+    "https://www.wikidata.org/wiki/Q1639503",
+    "https://es.wikipedia.org/wiki/Perdiguera"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "bird",
+      "color": "brown",
+      "position": "hoist",
+      "role": "partridge"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "markings of the partridge"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "fly divided yellow over red"
+    }
+  ]
+}

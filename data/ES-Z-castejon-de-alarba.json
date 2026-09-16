@@ -1,0 +1,86 @@
+{
+  "id": "ES-Z-castejon-de-alarba",
+  "name": "Castejón de Alarba (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-Z",
+  "codes": {
+    "wikidata": "Q541657",
+    "ine": "50075"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "The four red bars of Aragon on yellow, charged at the centre with a green lozenge edged blue bearing a white tower topped by a black covered cup.",
+  "history": "The flag is a cloth of the Royal Sign of Aragon, formed of four red and five yellow bands placed alternately and of the same width, of proportion 2:3, with a green lozenge edged by a broad blue band at its centre, and within it a white tower with green door and windows surmounted by a black covered cup outlined in yellow.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Castejón_de_Alarba.svg",
+    "https://www.wikidata.org/wiki/Q541657",
+    "https://es.wikipedia.org/wiki/Castejón_de_Alarba"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "role": "four red bars on yellow (Senyera)"
+    },
+    {
+      "type": "lozenge",
+      "color": "green",
+      "position": "center",
+      "role": "lozenge edged with a broad blue band"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "edge of the lozenge"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "tower with green door and windows on the lozenge"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "covered cup outlined yellow above the tower"
+    }
+  ]
+}
