@@ -1,0 +1,70 @@
+{
+  "id": "ES-CA-barbate",
+  "name": "Barbate (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CA",
+  "codes": {
+    "wikidata": "Q13154",
+    "ine": "11007"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Red field with white and blue wavy stripes above a dark blue lower stripe, charged at the centre with the crowned municipal arms of Barbate (a tuna and a star on blue).",
+  "history": "Municipal flag of Barbate; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Barbate.svg",
+    "https://www.wikidata.org/wiki/Q13154",
+    "https://es.wikipedia.org/wiki/Barbate"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "navy"
+      ],
+      "count": 2,
+      "widths": [
+        3,
+        1
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "bottom",
+      "count": 2,
+      "role": "two white wavy stripes above the dark blue"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom",
+      "role": "blue wavy stripe between the white"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Barbate arms — tuna and star on blue"
+    }
+  ]
+}

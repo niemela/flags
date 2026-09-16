@@ -1,0 +1,70 @@
+{
+  "id": "ES-CA-espera",
+  "name": "Espera (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CA",
+  "codes": {
+    "wikidata": "Q1448444",
+    "ine": "11017"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Green field with four thin yellow horizontal stripes across the lower half, charged at the centre with the crowned municipal arms of Espera (a castle on red with the motto SOY ESPERA, ANTIGUA COMO OTRA TILE).",
+  "history": "Municipal flag of Espera; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Espera.svg",
+    "https://www.wikidata.org/wiki/Q1448444",
+    "https://es.wikipedia.org/wiki/Espera"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 4,
+      "position": "center",
+      "role": "four thin stripes across the lower half"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Espera arms — castle on red with motto"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "red field of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "shading of the crown"
+    }
+  ]
+}

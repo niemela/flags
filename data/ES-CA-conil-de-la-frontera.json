@@ -1,0 +1,60 @@
+{
+  "id": "ES-CA-conil-de-la-frontera",
+  "name": "Conil de la Frontera (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CA",
+  "codes": {
+    "wikidata": "Q832984",
+    "ine": "11014"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with a green stripe along the upper edge and three blue wavy stripes along the lower part, charged at the centre with the crowned municipal arms of Conil de la Frontera (a castle on red and a tuna on blue).",
+  "history": "Municipal flag of Conil de la Frontera; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Conil_de_la_Frontera.svg",
+    "https://www.wikidata.org/wiki/Q832984",
+    "https://es.wikipedia.org/wiki/Conil_de_la_Frontera"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        3
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom",
+      "count": 3
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Conil de la Frontera arms — castle and tuna"
+    }
+  ]
+}
