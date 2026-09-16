@@ -1,0 +1,72 @@
+{
+  "id": "ES-CU-torrejoncillo-del-rey",
+  "name": "Torrejoncillo del Rey (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q773294",
+    "ine": "16211"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "pink"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, white above with a red tower and red below with a white crown between six white roundels.",
+  "history": "The arms and the flag were approved officially on 13 December 1995 (Diario Oficial de Castilla-La Mancha no. 64 of 29 December 1995); the flag is rectangular of 2:3, formed of two triangles along the diagonal from the lower hoist corner to the upper fly.",
+  "periods": [
+    {
+      "start": "1995-12-13"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Torrejoncillo_del_Rey.svg",
+    "https://www.wikidata.org/wiki/Q773294",
+    "https://es.wikipedia.org/wiki/Torrejoncillo_del_Rey"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "hoist",
+      "role": "tower"
+    },
+    {
+      "type": "crown",
+      "color": "white",
+      "position": "fly",
+      "role": "crown between six roundels"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "fly",
+      "count": 6
+    },
+    {
+      "type": "glyph",
+      "color": "pink",
+      "position": "fly",
+      "role": "shading of the crown"
+    }
+  ]
+}

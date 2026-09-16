@@ -1,0 +1,67 @@
+{
+  "id": "ES-CU-valverdejo",
+  "name": "Valverdejo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q1767463",
+    "ine": "16237"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field with a blue fess and a red pale forming a cross, cantoned by four blue stars.",
+  "history": "Municipal flag of Valverdejo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Valverdejo_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1767463",
+    "https://es.wikipedia.org/wiki/Valverdejo"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "fess"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "pale over the fess"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "blue",
+      "position": "hoist",
+      "role": "stars in the four cantons"
+    }
+  ]
+}

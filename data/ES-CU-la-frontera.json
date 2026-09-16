@@ -1,0 +1,50 @@
+{
+  "id": "ES-CU-la-frontera",
+  "name": "La Frontera (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q1916240",
+    "ine": "16085"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with a white bend sinister from the lower hoist to the upper fly and a white castle in the upper hoist.",
+  "history": "Municipal flag of La Frontera; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_La_Frontera.svg",
+    "https://www.wikidata.org/wiki/Q1916240",
+    "https://es.wikipedia.org/wiki/La_Frontera_(Cuenca)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "castle"
+    }
+  ]
+}

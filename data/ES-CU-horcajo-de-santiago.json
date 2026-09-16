@@ -1,0 +1,59 @@
+{
+  "id": "ES-CU-horcajo-de-santiago",
+  "name": "Horcajo de Santiago (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q1900655",
+    "ine": "16106"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with a white triangle issuing from the hoist to the fly, charged at the hoist with a red cross of Saint James between two red scallops.",
+  "history": "Municipal flag of Horcajo de Santiago; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Horcajo_de_Santiago.svg",
+    "https://www.wikidata.org/wiki/Q1900655",
+    "https://es.wikipedia.org/wiki/Horcajo_de_Santiago"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "triangle from the hoist edge to the fly"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "hoist",
+      "role": "cross of Saint James"
+    },
+    {
+      "type": "shell",
+      "color": "red",
+      "position": "hoist",
+      "count": 2
+    }
+  ]
+}

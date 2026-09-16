@@ -1,0 +1,73 @@
+{
+  "id": "ES-CU-salinas-del-manzano",
+  "name": "Salinas del Manzano (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q949890",
+    "ine": "16187"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertically divided, the hoist red with a yellow castle and the fly white with wavy stripes of blue and green.",
+  "history": "Municipal flag of Salinas del Manzano; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Salinas_del_Manzano_(Cuenca).svg",
+    "https://www.wikidata.org/wiki/Q949890",
+    "https://es.wikipedia.org/wiki/Salinas_del_Manzano"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "fly",
+      "role": "green wavy stripe among the blue"
+    }
+  ]
+}

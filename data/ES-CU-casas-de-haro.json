@@ -1,0 +1,45 @@
+{
+  "id": "ES-CU-casas-de-haro",
+  "name": "Casas de Haro (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q1920004",
+    "ine": "16064"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, white above and light blue below, charged towards the hoist with the crowned municipal arms of Casas de Haro (trees and a bunch of grapes on green).",
+  "history": "Municipal flag of Casas de Haro; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Casas_de_Haro.svg",
+    "https://www.wikidata.org/wiki/Q1920004",
+    "https://es.wikipedia.org/wiki/Casas_de_Haro"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "light-blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Casas de Haro arms — trees and grapes on green"
+    }
+  ]
+}

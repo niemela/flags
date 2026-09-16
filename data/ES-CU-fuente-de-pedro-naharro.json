@@ -1,0 +1,46 @@
+{
+  "id": "ES-CU-fuente-de-pedro-naharro",
+  "name": "Fuente de Pedro Naharro (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q1903594",
+    "ine": "16086"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, white above and blue below, charged towards the hoist with a white fountain.",
+  "history": "Municipal flag of Fuente de Pedro Naharro; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Fuente_de_Pedro_Naharro.svg",
+    "https://www.wikidata.org/wiki/Q1903594",
+    "https://es.wikipedia.org/wiki/Fuente_de_Pedro_Naharro"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "blue",
+      "direction": "bend"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "fountain with a basin and jets"
+    }
+  ]
+}

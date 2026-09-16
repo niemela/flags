@@ -1,0 +1,59 @@
+{
+  "id": "ES-CU-motilla-del-palancar",
+  "name": "Motilla del Palancar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q288552",
+    "ine": "16134"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with a red bend sinister fimbriated white from the lower hoist to the upper fly, a white eight-pointed star in the upper hoist and a white fleur-de-lis in the lower fly.",
+  "history": "Municipal flag of Motilla del Palancar; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Motilla_del_Palancar.svg",
+    "https://www.wikidata.org/wiki/Q288552",
+    "https://es.wikipedia.org/wiki/Motilla_del_Palancar"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "role": "band edged white from the lower hoist to the upper fly"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "position": "fly"
+    }
+  ]
+}

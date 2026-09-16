@@ -1,0 +1,69 @@
+{
+  "id": "ES-CU-huerta-del-marquesado",
+  "name": "Huerta del Marquesado (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q1902360",
+    "ine": "16111"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Vertically divided, the hoist red with a yellow castle and the fly white with five blue wavy stripes.",
+  "history": "Municipal flag of Huerta del Marquesado; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Huerta_del_Marquesado.svg",
+    "https://www.wikidata.org/wiki/Q1902360",
+    "https://es.wikipedia.org/wiki/Huerta_del_Marquesado"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "count": 5
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "hoist",
+      "role": "shading of the castle"
+    }
+  ]
+}

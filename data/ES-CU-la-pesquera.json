@@ -1,0 +1,68 @@
+{
+  "id": "ES-CU-la-pesquera",
+  "name": "La Pesquera (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q1902672",
+    "ine": "16157"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A hoist third divided diagonally red and white, the fly divided horizontally green over blue.",
+  "history": "Municipal flag of La Pesquera; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_La_Pesquera_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1902672",
+    "https://es.wikipedia.org/wiki/La_Pesquera_(Cuenca)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "triangle at the lower hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "blue"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "fly divided green over blue"
+    }
+  ]
+}

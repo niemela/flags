@@ -1,0 +1,60 @@
+{
+  "id": "ES-CU-tebar",
+  "name": "Tébar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q611267",
+    "ine": "16204"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Three horizontal stripes of red, white and green in the proportions 2:1:1, the red charged with a yellow tower.",
+  "history": "Municipal flag of Tébar; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Tebar.svg",
+    "https://www.wikidata.org/wiki/Q611267",
+    "https://es.wikipedia.org/wiki/Tébar"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "top",
+      "role": "tower"
+    }
+  ]
+}

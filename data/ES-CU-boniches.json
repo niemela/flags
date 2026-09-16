@@ -1,0 +1,78 @@
+{
+  "id": "ES-CU-boniches",
+  "name": "Boniches (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q1902627",
+    "ine": "16036"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A red hoist part bearing a yellow castle between two green trees, the fly divided horizontally white over blue.",
+  "history": "Municipal flag of Boniches; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Boniches.svg",
+    "https://www.wikidata.org/wiki/Q1902627",
+    "https://es.wikipedia.org/wiki/Boniches"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        1
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist",
+      "count": 2,
+      "role": "trees flanking the castle"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "fly divided white over blue"
+    }
+  ]
+}

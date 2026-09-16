@@ -1,0 +1,63 @@
+{
+  "id": "ES-CU-olivares-de-jucar",
+  "name": "Olivares de Júcar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q1647653",
+    "ine": "16139"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Vertical tricolour of green, white and green with a broad white middle stripe charged with a green eradicated olive tree with a brown trunk.",
+  "history": "Municipal flag of Olivares de Júcar; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Olivares_de_Júcar.svg",
+    "https://www.wikidata.org/wiki/Q1647653",
+    "https://es.wikipedia.org/wiki/Olivares_de_Júcar"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "eradicated olive tree"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "trunk of the olive tree"
+    }
+  ]
+}

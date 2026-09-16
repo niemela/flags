@@ -1,0 +1,79 @@
+{
+  "id": "ES-CU-valverde-de-jucar",
+  "name": "Valverde de Júcar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q1767561",
+    "ine": "16236"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Square flag divided diagonally by a bend of black, yellow and red from the upper hoist to the lower fly, white below with a red cross of Calatrava and blue above strewn with yellow saltires.",
+  "history": "Municipal flag of Valverde de Júcar; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Valverde_de_Júcar.svg",
+    "https://www.wikidata.org/wiki/Q1767561",
+    "https://es.wikipedia.org/wiki/Valverde_de_Júcar"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "white",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "role": "bend of black, yellow and red stripes"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "black stripe of the bend"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "red stripe of the bend"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "hoist",
+      "role": "cross of Calatrava outlined yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "fly",
+      "role": "small saltires strewn on the blue"
+    }
+  ]
+}

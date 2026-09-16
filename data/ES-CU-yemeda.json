@@ -1,0 +1,74 @@
+{
+  "id": "ES-CU-yemeda",
+  "name": "Yémeda (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q643191",
+    "ine": "16276"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally by a blue wavy band fimbriated white from the lower hoist to the upper fly, red above with a yellow tower and green below with three yellow pines.",
+  "history": "Municipal flag of Yémeda; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Yémeda.svg",
+    "https://www.wikidata.org/wiki/Q643191",
+    "https://es.wikipedia.org/wiki/Yémeda"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "role": "wavy band edged white from the lower hoist to the upper fly"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "edges of the wavy band"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "role": "tower"
+    },
+    {
+      "type": "tree",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 3,
+      "role": "three pines"
+    }
+  ]
+}

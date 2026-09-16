@@ -1,0 +1,57 @@
+{
+  "id": "ES-CU-valdemeca",
+  "name": "Valdemeca (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q1647156",
+    "ine": "16224"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Vertically divided, the hoist red with a green bend and the fly white with a green pine and a crook.",
+  "history": "Municipal flag of Valdemeca; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Valdemeca.svg",
+    "https://www.wikidata.org/wiki/Q1647156",
+    "https://es.wikipedia.org/wiki/Valdemeca"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "green",
+      "position": "hoist",
+      "role": "bend on the red hoist"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "fly",
+      "role": "pine with a shepherd's crook"
+    }
+  ]
+}

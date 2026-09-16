@@ -1,0 +1,68 @@
+{
+  "id": "ES-CU-san-clemente",
+  "name": "San Clemente (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q1750966",
+    "ine": "16190"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Dark blue field charged at the centre with a yellow castle between the white letters S and C, with two yellow suns above.",
+  "history": "Municipal flag of San Clemente; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_San_Clemente.svg",
+    "https://www.wikidata.org/wiki/Q1750966",
+    "https://es.wikipedia.org/wiki/San_Clemente_(Cuenca)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "letters S and C flanking the castle"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "top",
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "shading of the castle"
+    }
+  ]
+}

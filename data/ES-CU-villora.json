@@ -1,0 +1,64 @@
+{
+  "id": "ES-CU-villora",
+  "name": "Víllora (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q1767428",
+    "ine": "16274"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertical stripes of green, white, red, white and green, the red central stripe broad and charged with a yellow castle.",
+  "history": "Municipal flag of Víllora; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Víllora.svg",
+    "https://www.wikidata.org/wiki/Q1767428",
+    "https://es.wikipedia.org/wiki/Víllora"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 5,
+      "widths": [
+        3,
+        0.5,
+        4,
+        0.5,
+        3
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle"
+    }
+  ]
+}

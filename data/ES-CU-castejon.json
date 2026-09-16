@@ -1,0 +1,65 @@
+{
+  "id": "ES-CU-castejon",
+  "name": "Castejón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q2000587",
+    "ine": "16067"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Four horizontal stripes of yellow, green, white and blue, the yellow broadest and charged with a red castle.",
+  "history": "Municipal flag of Castejón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Castejón_(Cuenca).svg",
+    "https://www.wikidata.org/wiki/Q2000587",
+    "https://es.wikipedia.org/wiki/Castejón_(Cuenca)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green",
+        "white",
+        "blue"
+      ],
+      "count": 4,
+      "widths": [
+        3,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "top",
+      "role": "castle"
+    }
+  ]
+}

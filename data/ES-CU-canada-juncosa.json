@@ -1,0 +1,55 @@
+{
+  "id": "ES-CU-canada-juncosa",
+  "name": "Cañada Juncosa (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q1902591",
+    "ine": "16047"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field with a red rectangle at the centre and four green stars, one at the middle of each edge.",
+  "history": "Municipal flag of Cañada Juncosa; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Cañadajuncosa_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1902591",
+    "https://es.wikipedia.org/wiki/Cañada_Juncosa"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "square",
+      "color": "red",
+      "position": "center",
+      "role": "central red rectangle"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "green",
+      "position": "top",
+      "role": "stars at the middle of the four edges"
+    }
+  ]
+}

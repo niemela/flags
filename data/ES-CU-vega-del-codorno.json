@@ -1,0 +1,63 @@
+{
+  "id": "ES-CU-vega-del-codorno",
+  "name": "Vega del Codorno (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q1766366",
+    "ine": "16239"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided into a hoist of blue and white wavy stripes, a red triangle at the upper fly and a green triangle at the lower fly.",
+  "history": "Municipal flag of Vega del Codorno; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Vega_del_Codorno.svg",
+    "https://www.wikidata.org/wiki/Q1766366",
+    "https://es.wikipedia.org/wiki/Vega_del_Codorno"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "hoist",
+      "count": 3,
+      "role": "wavy stripes at the hoist"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "fly",
+      "role": "triangle at the upper fly"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "fly",
+      "role": "triangle at the lower fly"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ES-CU-leganiel",
+  "name": "Leganiel (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q1648802",
+    "ine": "16119"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided by two diagonal lines from the lower hoist to the upper fly into a yellow hoist, a white central band and a blue fly, charged at the centre with the crowned municipal arms of Leganiel (a castle, a cross of Saint James and mountains above waves).",
+  "history": "Municipal flag of Leganiel; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Leganiel.svg",
+    "https://www.wikidata.org/wiki/Q1648802",
+    "https://es.wikipedia.org/wiki/Leganiel"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "broad white band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Leganiel arms — castle, cross of Saint James and mountains above waves"
+    }
+  ]
+}

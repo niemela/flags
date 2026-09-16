@@ -1,0 +1,62 @@
+{
+  "id": "ES-CU-quintanar-del-rey",
+  "name": "Quintanar del Rey (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q1647678",
+    "ine": "16175"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Red field with a white bend from the upper hoist to the lower fly and a yellow crown in the upper fly.",
+  "history": "Municipal flag of Quintanar del Rey; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Quintanar_del_Rey.svg",
+    "https://www.wikidata.org/wiki/Q1647678",
+    "https://es.wikipedia.org/wiki/Quintanar_del_Rey"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "bend from the upper hoist to the lower fly"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "fly",
+      "role": "royal crown"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "fly",
+      "role": "shading of the crown"
+    }
+  ]
+}

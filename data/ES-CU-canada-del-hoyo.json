@@ -1,0 +1,63 @@
+{
+  "id": "ES-CU-canada-del-hoyo",
+  "name": "Cañada del Hoyo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q1771107",
+    "ine": "16046"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Quartered, the first and fourth white with a dark blue castle, the second and third yellow with a black bend.",
+  "history": "Municipal flag of Cañada del Hoyo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cañada_del_Hoyo.svg",
+    "https://www.wikidata.org/wiki/Q1771107",
+    "https://es.wikipedia.org/wiki/Cañada_del_Hoyo"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "white",
+        "yellow",
+        "yellow",
+        "white"
+      ]
+    },
+    {
+      "type": "building",
+      "color": "navy",
+      "position": "hoist",
+      "count": 2,
+      "role": "castles in the white quarters"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "black",
+      "position": "fly",
+      "count": 2,
+      "role": "bends in the yellow quarters"
+    }
+  ]
+}

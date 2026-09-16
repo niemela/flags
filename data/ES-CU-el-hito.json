@@ -1,0 +1,57 @@
+{
+  "id": "ES-CU-el-hito",
+  "name": "El Hito (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CU",
+  "codes": {
+    "wikidata": "Q1920027",
+    "ine": "16101"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "purple"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Purple field with a white boundary stone at the centre, above white and blue stripes along the lower edge.",
+  "history": "Municipal flag of El Hito; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_El_Hito.svg",
+    "https://www.wikidata.org/wiki/Q1920027",
+    "https://es.wikipedia.org/wiki/El_Hito"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "purple",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        5,
+        0.5,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "boundary stone (hito) on a base"
+    }
+  ]
+}
