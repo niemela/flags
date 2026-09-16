@@ -1,0 +1,79 @@
+{
+  "id": "ES-LE-palacios-de-la-valduerna",
+  "name": "Palacios de la Valduerna (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q137186",
+    "ine": "24108"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "purple"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Green field with a broad red horizontal stripe edged yellow across the centre, charged with the crowned municipal arms of Palacios de la Valduerna (a lion, a tower and flags).",
+  "history": "Municipal flag of Palacios de la Valduerna; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Palacios_de_la_Valduerna_(León).svg",
+    "https://www.wikidata.org/wiki/Q137186",
+    "https://es.wikipedia.org/wiki/Palacios_de_la_Valduerna"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "broad horizontal stripe edged yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "edges of the stripe and crown of the arms"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Palacios de la Valduerna arms — lion, tower and flags"
+    },
+    {
+      "type": "glyph",
+      "color": "purple",
+      "position": "center",
+      "role": "lion of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "white of the arms"
+    }
+  ]
+}

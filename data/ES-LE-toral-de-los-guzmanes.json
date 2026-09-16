@@ -1,0 +1,59 @@
+{
+  "id": "ES-LE-toral-de-los-guzmanes",
+  "name": "Toral de los Guzmanes (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q1640206",
+    "ine": "24168"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field charged at the centre with a yellow castle flanked by two yellow cauldrons chequy of red.",
+  "history": "The flag is azure, a castle or flanked by two cauldrons or chequy gules.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Toral_de_los_Guzmanes.svg",
+    "https://www.wikidata.org/wiki/Q1640206",
+    "https://es.wikipedia.org/wiki/Toral_de_los_Guzmanes"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "two cauldrons flanking the castle"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "chequy of the cauldrons"
+    }
+  ]
+}

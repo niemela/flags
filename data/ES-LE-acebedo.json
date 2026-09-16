@@ -1,0 +1,72 @@
+{
+  "id": "ES-LE-acebedo",
+  "name": "Acebedo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q26440",
+    "ine": "24001"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square flag divided diagonally by a yellow band from the upper hoist to the lower fly, red above and blue below, charged at the centre with the crowned municipal arms of Acebedo (a holly branch, a key and a sword).",
+  "history": "Municipal flag of Acebedo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Acebedo.svg",
+    "https://www.wikidata.org/wiki/Q26440",
+    "https://es.wikipedia.org/wiki/Acebedo"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "blue",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "role": "broad band from the upper hoist to the lower fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Acebedo arms — holly branch, key and sword"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "holly of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "sword of the arms"
+    }
+  ]
+}

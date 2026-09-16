@@ -1,0 +1,49 @@
+{
+  "id": "ES-LE-villabraz",
+  "name": "Villabraz (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q1640104",
+    "ine": "24203"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided diagonally from the upper fly to the lower hoist, white above with a red cross of Saint James and green below.",
+  "history": "Municipal flag of Villabraz; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_villabraz.svg",
+    "https://www.wikidata.org/wiki/Q1640104",
+    "https://es.wikipedia.org/wiki/Villabraz"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "latin-cross",
+      "color": "red",
+      "position": "canton",
+      "role": "cross of Saint James at the upper hoist"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "ES-LE-villaquejida",
+  "name": "Villaquejida (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q1615311",
+    "ine": "24221"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square flag quartered light blue and white by a white cross charged with four yellow fleurs-de-lis, with a yellow inescutcheon bearing a green tree at the centre.",
+  "history": "The flag is argent, a cross azure charged with four fleurs-de-lis or, one at each end of the cross, and an inescutcheon or with a tree vert (proportion 1:1).",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Villaquejida.svg",
+    "https://www.wikidata.org/wiki/Q1615311",
+    "https://es.wikipedia.org/wiki/Villaquejida"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "white",
+      "position": "center",
+      "role": "cross throughout"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "center",
+      "count": 4,
+      "role": "fleur-de-lis at each end of the cross"
+    },
+    {
+      "type": "shield",
+      "color": "yellow",
+      "position": "center",
+      "role": "inescutcheon bearing a green tree"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "tree of the inescutcheon"
+    }
+  ]
+}

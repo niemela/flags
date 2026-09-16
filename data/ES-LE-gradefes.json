@@ -1,0 +1,72 @@
+{
+  "id": "ES-LE-gradefes",
+  "name": "Gradefes (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q769912",
+    "ine": "24079"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "purple"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided by a blue band from the lower hoist to the upper fly, light grey-white above and purple below, charged at the centre with the crowned municipal arms of Gradefes (a cross, a lion and a bridge above waves).",
+  "history": "Municipal flag of Gradefes; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Gradefes.svg",
+    "https://www.wikidata.org/wiki/Q769912",
+    "https://es.wikipedia.org/wiki/Gradefes"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "purple",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "role": "band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Gradefes arms — cross, lion and bridge above waves"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "lion of the arms"
+    }
+  ]
+}

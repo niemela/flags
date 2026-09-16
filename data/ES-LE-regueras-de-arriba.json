@@ -1,0 +1,76 @@
+{
+  "id": "ES-LE-regueras-de-arriba",
+  "name": "Regueras de Arriba (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q141199",
+    "ine": "24127"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field divided by a blue band edged white running from the hoist and forking to the fly corners, with a red triangle at the fly charged with the crowned municipal arms of Regueras de Arriba.",
+  "history": "The municipal flag is rectangular, of proportions 2:3, the cloth green, divided in the middle by a blue stripe flanked with white and forked into two stripes of the same colour from the centre to the fly corners, with a red triangle at the fly bearing the municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Regueras_de_Arriba_(León).svg",
+    "https://www.wikidata.org/wiki/Q141199",
+    "https://es.wikipedia.org/wiki/Regueras_de_Arriba"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "pall",
+      "color": "blue",
+      "position": "center",
+      "role": "pall edged white from the hoist forking to the fly corners"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "edges of the pall"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "fly",
+      "role": "triangle at the fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "fly",
+      "role": "Regueras de Arriba arms — tower, tree and column on white"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "fly",
+      "role": "crown of the arms"
+    }
+  ]
+}

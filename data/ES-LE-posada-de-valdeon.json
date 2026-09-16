@@ -1,0 +1,64 @@
+{
+  "id": "ES-LE-posada-de-valdeon",
+  "name": "Posada de Valdeón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q1635220",
+    "ine": "24116"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field with a broad blue horizontal stripe across the centre, charged with four red discs above and four below.",
+  "history": "Municipal flag of Posada de Valdeón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Posada_de_Valdeón_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1635220",
+    "https://es.wikipedia.org/wiki/Posada_de_Valdeón"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "broad horizontal stripe across the centre"
+    },
+    {
+      "type": "disc",
+      "color": "red",
+      "position": "top",
+      "count": 4,
+      "role": "four discs in a row above the stripe"
+    },
+    {
+      "type": "disc",
+      "color": "red",
+      "position": "bottom",
+      "count": 4,
+      "role": "four discs in a row below the stripe"
+    }
+  ]
+}

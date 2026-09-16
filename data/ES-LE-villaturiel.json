@@ -1,0 +1,63 @@
+{
+  "id": "ES-LE-villaturiel",
+  "name": "Villaturiel (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q1607183",
+    "ine": "24227"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square flag divided diagonally from the upper fly to the lower hoist, green above with a yellow crown at the upper hoist and red below, charged at the centre with the crowned municipal arms of Villaturiel (a tower, ears of wheat and a cauldron).",
+  "history": "Municipal flag of Villaturiel; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villaturiel.svg",
+    "https://www.wikidata.org/wiki/Q1607183",
+    "https://es.wikipedia.org/wiki/Villaturiel"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "canton",
+      "role": "royal crown at the upper hoist"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Villaturiel arms — tower, ears of wheat and cauldron"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "white field of the arms"
+    }
+  ]
+}

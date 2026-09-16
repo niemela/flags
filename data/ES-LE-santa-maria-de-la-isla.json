@@ -1,0 +1,63 @@
+{
+  "id": "ES-LE-santa-maria-de-la-isla",
+  "name": "Santa María de la Isla (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q137704",
+    "ine": "24155"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Horizontal tricolour of red, white and green with a blue triangle with its base along the hoist bearing a ring of white stars.",
+  "history": "The flag is rectangular, of proportions 2:3, formed of three horizontal stripes of equal proportions; it is rectangular for aesthetic reasons, so as to have the same shape as the flags of Spain and Castile and León, with which it must always fly.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Santa_Maria_de_la_Isla_Spain.svg",
+    "https://www.wikidata.org/wiki/Q137704",
+    "https://es.wikipedia.org/wiki/Santa_María_de_la_Isla"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "triangle with its base along the hoist"
+    },
+    {
+      "type": "star",
+      "count": 12,
+      "points": 5,
+      "color": "white",
+      "position": "hoist",
+      "role": "ring of stars on the triangle"
+    }
+  ]
+}

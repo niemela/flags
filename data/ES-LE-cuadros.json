@@ -1,0 +1,61 @@
+{
+  "id": "ES-LE-cuadros",
+  "name": "Cuadros (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q137167",
+    "ine": "24061"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "purple"
+    }
+  ],
+  "description": "White field within a border of red and of vair (blue and white), charged at the centre with a purple lion rampant.",
+  "history": "Municipal flag of Cuadros; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cuadros.svg",
+    "https://www.wikidata.org/wiki/Q137167",
+    "https://es.wikipedia.org/wiki/Cuadros"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "border",
+      "color": "red",
+      "role": "border of red and vair"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "vair (bell-shaped) pattern in the border"
+    },
+    {
+      "type": "lion",
+      "color": "purple",
+      "position": "center",
+      "role": "lion rampant"
+    }
+  ]
+}

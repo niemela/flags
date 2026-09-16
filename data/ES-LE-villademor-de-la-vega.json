@@ -1,0 +1,68 @@
+{
+  "id": "ES-LE-villademor-de-la-vega",
+  "name": "Villademor de la Vega (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q596287",
+    "ine": "24207"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A triangle with its base along the hoist and its apex at the middle of the fly barry wavy of white and blue, the upper triangle red and the lower green.",
+  "history": "The arms and flag of Villademor de la Vega are of recent make, adopted officially in 2000; the flag is a rectangular cloth of 2:3 with a triangle whose apex is at the centre of the fly and whose base is at the hoist, with ten wavy horizontal stripes alternately white and blue, the upper fly triangle red and the lower green. The tradition of the town banner (pendón) is older, though it was lost around the 1940s and recovered in 2011.",
+  "periods": [
+    {
+      "start": "2000"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Villademor_de_la_Vega_Spain.svg",
+    "https://www.wikidata.org/wiki/Q596287",
+    "https://es.wikipedia.org/wiki/Villademor_de_la_Vega"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "bottom",
+      "role": "lower fly triangle"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "triangle with its base along the hoist and its apex at the middle of the fly, barry wavy of white and blue"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "hoist",
+      "count": 5,
+      "role": "blue wavy stripes on the triangle"
+    }
+  ]
+}

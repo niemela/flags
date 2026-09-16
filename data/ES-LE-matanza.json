@@ -1,0 +1,62 @@
+{
+  "id": "ES-LE-matanza",
+  "name": "Matanza (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q138304",
+    "ine": "24099"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field with narrow red stripes along the upper and lower edges, charged at the centre with two red crossed swords.",
+  "history": "Municipal flag of Matanza; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Matanza_Spain.svg",
+    "https://www.wikidata.org/wiki/Q138304",
+    "https://es.wikipedia.org/wiki/Matanza_de_los_Oteros"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "narrow stripe near the upper edge"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "narrow stripe near the lower edge"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "two swords in saltire at the centre"
+    }
+  ]
+}

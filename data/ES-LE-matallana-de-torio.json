@@ -1,0 +1,90 @@
+{
+  "id": "ES-LE-matallana-de-torio",
+  "name": "Matallana de Torío (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q80143",
+    "ine": "24098"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "purple"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "The fly two thirds barry of white and blue, the hoist third divided white above with a purple lion and red below with two crossed yellow hammers.",
+  "history": "Municipal flag of Matallana de Torío; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Matallana_de_Torío_Spain.svg",
+    "https://www.wikidata.org/wiki/Q80143",
+    "https://es.wikipedia.org/wiki/Matallana_de_Torío"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white"
+      ],
+      "count": 9,
+      "position": "fly",
+      "role": "barry of white and blue at the fly"
+    },
+    {
+      "type": "lion",
+      "color": "purple",
+      "position": "canton",
+      "role": "lion rampant at the upper hoist"
+    },
+    {
+      "type": "square",
+      "color": "red",
+      "position": "hoist",
+      "role": "red lower hoist quarter"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "two crossed hammers on the red"
+    }
+  ]
+}

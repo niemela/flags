@@ -1,0 +1,83 @@
+{
+  "id": "ES-LE-bustillo-del-paramo",
+  "name": "Bustillo del Páramo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q26594",
+    "ine": "24026"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Green field with a broad white band across the centre bearing a red horizontal stripe, charged at the centre with the crowned municipal arms of Bustillo del Páramo (a tower on white between two oxen).",
+  "history": "Municipal flag of Bustillo del Páramo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Bustillo_del_Páramo.svg",
+    "https://www.wikidata.org/wiki/Q26594",
+    "https://es.wikipedia.org/wiki/Bustillo_del_Páramo"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "red stripe through the white band"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Bustillo del Páramo arms — tower on white between two oxen"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "oxen of the arms"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "ES-LE-destriana",
+  "name": "Destriana (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q1622295",
+    "ine": "24066"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square flag divided diagonally from the upper hoist to the lower fly, crimson at the lower hoist and white at the upper fly, charged at the centre with the crowned municipal arms of Destriana (a sword and a sun on white and a tower and tree on blue).",
+  "history": "Municipal flag of Destriana; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Destriana.svg",
+    "https://www.wikidata.org/wiki/Q1622295",
+    "https://es.wikipedia.org/wiki/Destriana"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "maroon",
+      "direction": "bend"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Destriana arms — sword and sun on white, tower and tree on blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "sun and crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "sword and cap of the crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "blue field of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "tree of the arms"
+    }
+  ]
+}

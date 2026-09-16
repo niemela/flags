@@ -1,0 +1,68 @@
+{
+  "id": "ES-LE-valderrey",
+  "name": "Valderrey (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q1635228",
+    "ine": "24182"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Green field with a white menhir at the hoist and four white horizontal stripes at the fly.",
+  "history": "Municipal flag of Valderrey; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Valderrey.svg",
+    "https://www.wikidata.org/wiki/Q1635228",
+    "https://es.wikipedia.org/wiki/Valderrey"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "standing stone (menhir) at the hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "white",
+        "green",
+        "white",
+        "green",
+        "white"
+      ],
+      "count": 7,
+      "position": "fly",
+      "role": "four white stripes at the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "hoist",
+      "role": "markings on the menhir"
+    }
+  ]
+}

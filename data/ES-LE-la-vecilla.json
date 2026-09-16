@@ -1,0 +1,71 @@
+{
+  "id": "ES-LE-la-vecilla",
+  "name": "La Vecilla (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q1615474",
+    "ine": "24193"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontal tricolour of blue, white and blue with a broad white stripe, charged at the centre with the crowned municipal arms of La Vecilla (a bridge above waves and stars).",
+  "history": "Municipal flag of La Vecilla; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_La_Vecilla_(León).svg",
+    "https://www.wikidata.org/wiki/Q1615474",
+    "https://es.wikipedia.org/wiki/La_Vecilla"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "La Vecilla arms — bridge above waves and stars"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "stars and crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "cap of the crown of the arms"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ES-LE-marana",
+  "name": "Maraña (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q141219",
+    "ine": "24096"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field with green triangles at the hoist and fly, forming a white triangle with its apex at the top, charged with a red cross on a pedestal.",
+  "history": "Municipal flag of Maraña; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Maraña_Spain.svg",
+    "https://www.wikidata.org/wiki/Q141219",
+    "https://es.wikipedia.org/wiki/Maraña"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "hoist",
+      "role": "triangle at the lower hoist"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "fly",
+      "role": "triangle at the lower fly"
+    },
+    {
+      "type": "latin-cross",
+      "color": "red",
+      "position": "center",
+      "role": "cross on a pillar and pedestal"
+    }
+  ]
+}

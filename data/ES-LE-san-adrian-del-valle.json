@@ -1,0 +1,80 @@
+{
+  "id": "ES-LE-san-adrian-del-valle",
+  "name": "San Adrián del Valle (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q1635334",
+    "ine": "24141"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Red field with thin yellow lines, with stripes of white, yellow and green along the lower edge, charged at the centre with the crowned municipal arms of San Adrián del Valle (a tree and a lion on white above a well).",
+  "history": "The council of San Adrián del Valle, in session on 23 December 2019, agreed to approve the heraldic arms and the municipal flag; the flag is rectangular, of taffeta or silk, with a proportion of three modules long by two wide (2:3).",
+  "periods": [
+    {
+      "start": "2019-12-23"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_San_Adrián_del_Valle_(León).svg",
+    "https://www.wikidata.org/wiki/Q1635334",
+    "https://es.wikipedia.org/wiki/San_Adrián_del_Valle"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "thin horizontal lines across the red"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "yellow",
+        "green"
+      ],
+      "count": 3,
+      "position": "bottom",
+      "role": "stripes of white, yellow and green along the lower edge"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "San Adrián del Valle arms — tree and lion on white above a well"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "lion of the arms"
+    }
+  ]
+}

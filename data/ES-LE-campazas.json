@@ -1,0 +1,75 @@
+{
+  "id": "ES-LE-campazas",
+  "name": "Campazas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q137733",
+    "ine": "24032"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "purple"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Horizontal tricolour of purple, white and purple, the white edged with thin yellow lines and charged with the crowned municipal arms of Campazas (a tower, a lion and the bars of Aragon).",
+  "history": "Municipal flag of Campazas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Campazas_Spain.svg",
+    "https://www.wikidata.org/wiki/Q137733",
+    "https://es.wikipedia.org/wiki/Campazas"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "purple",
+        "white",
+        "purple"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "thin lines edging the white stripe and the bars of the arms"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Campazas arms — tower, lion and the bars of Aragon"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "bars of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "green of the arms"
+    }
+  ]
+}

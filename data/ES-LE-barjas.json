@@ -1,0 +1,60 @@
+{
+  "id": "ES-LE-barjas",
+  "name": "Barjas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q1605971",
+    "ine": "24011"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Horizontal tricolour of green, white and green with a broad white stripe charged with a blue zigzag stripe.",
+  "history": "Municipal flag of Barjas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Barjas_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1605971",
+    "https://es.wikipedia.org/wiki/Barjas"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "zigzag (dancetty) stripe across the white"
+    }
+  ]
+}

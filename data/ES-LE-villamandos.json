@@ -1,0 +1,75 @@
+{
+  "id": "ES-LE-villamandos",
+  "name": "Villamandos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q1640171",
+    "ine": "24211"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "purple"
+    }
+  ],
+  "description": "Green field with a broad band across the centre of red, white and red stripes edged yellow, charged with the crowned municipal arms of Villamandos (a skull, crossed swords, a lion and an axe).",
+  "history": "Municipal flag of Villamandos; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villamandos_(León).svg",
+    "https://www.wikidata.org/wiki/Q1640171",
+    "https://es.wikipedia.org/wiki/Villamandos"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "position": "center",
+      "role": "band of red, white and red stripes edged yellow across the centre"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "edges of the band and crown of the arms"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Villamandos arms — skull, crossed swords, lion and axe"
+    },
+    {
+      "type": "glyph",
+      "color": "purple",
+      "position": "center",
+      "role": "lion of the arms"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "ES-LE-bercianos-del-real-camino",
+  "name": "Bercianos del Real Camino (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q26637",
+    "ine": "24018"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided by a broad white band from the lower hoist to the upper fly, yellow at the upper fly and blue at the lower hoist, charged at the upper hoist with a red scallop shell.",
+  "history": "Municipal flag of Bercianos del Real Camino; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Bercianos_del_Real_Camino_Spain.svg",
+    "https://www.wikidata.org/wiki/Q26637",
+    "https://es.wikipedia.org/wiki/Bercianos_del_Real_Camino"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "broad band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "shell",
+      "color": "red",
+      "position": "canton",
+      "role": "scallop shell at the upper hoist"
+    }
+  ]
+}

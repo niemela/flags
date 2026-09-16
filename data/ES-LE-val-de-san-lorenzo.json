@@ -1,0 +1,59 @@
+{
+  "id": "ES-LE-val-de-san-lorenzo",
+  "name": "Val de San Lorenzo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q928409",
+    "ine": "24185"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided into three triangles from the fly, yellow above, red in the centre and green below.",
+  "history": "Municipal flag of Val de San Lorenzo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Val_de_San_Lorenzo_Spain.svg",
+    "https://www.wikidata.org/wiki/Q928409",
+    "https://es.wikipedia.org/wiki/Val_de_San_Lorenzo"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "top",
+      "role": "triangle along the upper edge from the upper hoist to the middle of the fly"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "bottom",
+      "role": "triangle along the lower edge from the lower hoist to the middle of the fly"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "central triangle with its base along the hoist and its apex at the middle of the fly"
+    }
+  ]
+}

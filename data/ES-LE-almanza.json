@@ -1,0 +1,52 @@
+{
+  "id": "ES-LE-almanza",
+  "name": "Almanza (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LE",
+  "codes": {
+    "wikidata": "Q26449",
+    "ine": "24004"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Vertically divided by an embattled line, red at the hoist and ermine (white with black ermine spots) at the fly.",
+  "history": "Municipal flag of Almanza; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Almanza_Spain.svg",
+    "https://www.wikidata.org/wiki/Q26449",
+    "https://es.wikipedia.org/wiki/Almanza"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "role": "embattled division"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "fly",
+      "role": "ermine spots on the white fly half"
+    }
+  ]
+}
