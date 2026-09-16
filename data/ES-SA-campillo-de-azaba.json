@@ -1,0 +1,59 @@
+{
+  "id": "ES-SA-campillo-de-azaba",
+  "name": "Campillo de Azaba (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SA",
+  "codes": {
+    "wikidata": "Q1648490",
+    "ine": "37074"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly by three wavy bands, two blue and one white, green at the lower hoist and red at the upper fly.",
+  "history": "The municipal flag is rectangular, of proportions 2:3, formed of three wavy diagonal stripes from the upper hoist corner to the lower fly, two blue and a central white one, the hoist part green and the fly part red.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Campillo_de_Azaba.svg",
+    "https://www.wikidata.org/wiki/Q1648490",
+    "https://es.wikipedia.org/wiki/Campillo_de_Azaba"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "count": 2,
+      "role": "two blue wavy bands along the division"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "center",
+      "role": "white wavy band between the blue"
+    }
+  ]
+}

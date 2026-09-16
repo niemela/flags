@@ -1,0 +1,77 @@
+{
+  "id": "ES-SA-la-alberca",
+  "name": "La Alberca (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SA",
+  "codes": {
+    "wikidata": "Q1012961",
+    "ine": "37010"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Square flag divided diagonally from the upper hoist to the lower fly, white above and red below, charged at the centre with the crowned municipal arms of La Alberca (a tree and a pig on white above a bridge on red).",
+  "history": "The arms of La Alberca were published in the Boletín Oficial de Castilla y León on 29 June 1993; the municipal flag was approved on 3 May 1993 and is quadrangular, enamelled gules and argent in the same position as adopted for the arms.",
+  "periods": [
+    {
+      "start": "1993-05-03"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_La_Alberca.svg",
+    "https://www.wikidata.org/wiki/Q1012961",
+    "https://es.wikipedia.org/wiki/La_Alberca_(Salamanca)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "La Alberca arms — tree and pig on white above a bridge on red"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "tree of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "pig of the arms"
+    }
+  ]
+}

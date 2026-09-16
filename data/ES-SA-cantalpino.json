@@ -1,0 +1,72 @@
+{
+  "id": "ES-SA-cantalpino",
+  "name": "Cantalpino (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SA",
+  "codes": {
+    "wikidata": "Q1640807",
+    "ine": "37082"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Square flag divided diagonally by a white band from the lower hoist to the upper fly, red above and green below, charged at the centre with the crowned municipal arms of Cantalpino (a pine between two wolves on white within a bordure of castles and lions).",
+  "history": "Municipal flag of Cantalpino; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cantalpino.svg",
+    "https://www.wikidata.org/wiki/Q1640807",
+    "https://es.wikipedia.org/wiki/Cantalpino"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Cantalpino arms — pine between two wolves on white within a bordure of castles and lions"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crown and castles of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "wolves of the arms"
+    }
+  ]
+}

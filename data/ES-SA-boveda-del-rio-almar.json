@@ -1,0 +1,69 @@
+{
+  "id": "ES-SA-boveda-del-rio-almar",
+  "name": "Bóveda del Río Almar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SA",
+  "codes": {
+    "wikidata": "Q1640620",
+    "ine": "37057"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square white flag with two chequy squares of blue and white, two blue wavy bends sinister, two black arches and small green trees.",
+  "history": "Municipal flag of Bóveda del Río Almar; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Boveda_de_rio_Almar.svg",
+    "https://www.wikidata.org/wiki/Q1640620",
+    "https://es.wikipedia.org/wiki/Bóveda_del_Río_Almar"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "chequy",
+      "field": "blue",
+      "chequy": "white",
+      "role": "two chequy panels at the upper fly and the lower hoist"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "count": 2,
+      "role": "two wavy bends sinister"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "two arches (vaults) at the upper hoist and the centre"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "small trees scattered on the field"
+    }
+  ]
+}

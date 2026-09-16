@@ -1,0 +1,76 @@
+{
+  "id": "ES-SA-navales",
+  "name": "Navales (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SA",
+  "codes": {
+    "wikidata": "Q1768639",
+    "ine": "37216"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Ochre yellow field with a blue triangle at the upper fly and a red triangle at the lower hoist, charged at the centre with the crowned municipal arms of Navales (a saint on red, ears of wheat on green and chequy of blue and white).",
+  "history": "The municipal flag is 1,500 mm long and 1,000 mm wide, divided into three diagonal stripes in the colours gules, azure and gold, with the arms of the town at its centre.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Navales.svg",
+    "https://www.wikidata.org/wiki/Q1768639",
+    "https://es.wikipedia.org/wiki/Navales"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "fly",
+      "role": "triangle at the upper fly corner"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "triangle at the lower hoist corner"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Navales arms — saint on red, ears of wheat on green and chequy of blue and white"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "chequy of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "green field of the arms"
+    }
+  ]
+}

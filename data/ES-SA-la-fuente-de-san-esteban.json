@@ -1,0 +1,72 @@
+{
+  "id": "ES-SA-la-fuente-de-san-esteban",
+  "name": "La Fuente de San Esteban (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SA",
+  "codes": {
+    "wikidata": "Q1637591",
+    "ine": "37135"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Square flag divided diagonally from the upper hoist to the lower fly, red at the lower hoist and green at the upper fly, charged at the centre with the crowned municipal arms of La Fuente de San Esteban (a sheaf of wheat and a hand on red above a fountain).",
+  "history": "The municipal flag is parted per bend, gules (red) and sinople (green), charged with the crowned municipal arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_La_Fuente_de_San_Esteban.svg",
+    "https://www.wikidata.org/wiki/Q1637591",
+    "https://es.wikipedia.org/wiki/La_Fuente_de_San_Esteban"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "red",
+      "direction": "bend"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "La Fuente de San Esteban arms — sheaf of wheat and hand on red above a fountain"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "sheaf and crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "hand of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "fountain of the arms"
+    }
+  ]
+}

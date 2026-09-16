@@ -1,0 +1,72 @@
+{
+  "id": "ES-SA-villares-de-la-reina",
+  "name": "Villares de la Reina (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SA",
+  "codes": {
+    "wikidata": "Q1640099",
+    "ine": "37362"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided by a red band from the lower hoist to the upper fly, blue at the upper hoist and green at the lower fly, charged at the centre with the crowned municipal arms of Villares de la Reina (a tower on red and a bell on blue).",
+  "history": "Municipal flag of Villares de la Reina; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villares_de_la_Reina_(Salamanca).svg",
+    "https://www.wikidata.org/wiki/Q1640099",
+    "https://es.wikipedia.org/wiki/Villares_de_la_Reina"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "role": "broad band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Villares de la Reina arms — tower on red and bell on blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "tower and crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "bell of the arms"
+    }
+  ]
+}

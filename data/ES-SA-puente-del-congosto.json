@@ -1,0 +1,78 @@
+{
+  "id": "ES-SA-puente-del-congosto",
+  "name": "Puente del Congosto (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SA",
+  "codes": {
+    "wikidata": "Q1990601",
+    "ine": "37261"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square flag of three vertical stripes, the outer stripes chequy of blue and white and the central stripe red, charged with the crowned municipal arms of Puente del Congosto (a castle above a bridge on red and chequy of white and blue).",
+  "history": "Puente del Congosto adopted its arms and flag officially on 30 April 2003, published in the Boletín Oficial de Castilla y León on 2 June 2003; the flag is a square cloth of proportion 1:1 divided vertically into three equal stripes, the central one red.",
+  "periods": [
+    {
+      "start": "2003-04-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Puente_del_Congosto_(Salamanca).svg",
+    "https://www.wikidata.org/wiki/Q1990601",
+    "https://es.wikipedia.org/wiki/Puente_del_Congosto"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 3
+    },
+    {
+      "type": "chequy",
+      "field": "blue",
+      "chequy": "white",
+      "position": "hoist",
+      "role": "chequy hoist stripe"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "fly",
+      "role": "chequy fly stripe"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Puente del Congosto arms — castle above a bridge on red and chequy of white and blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle and crown of the arms"
+    }
+  ]
+}

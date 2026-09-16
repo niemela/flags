@@ -1,0 +1,83 @@
+{
+  "id": "ES-SA-san-morales",
+  "name": "San Morales (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SA",
+  "codes": {
+    "wikidata": "Q1905253",
+    "ine": "37288"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A yellow hoist third bearing eight red stars, the fly divided horizontally red over blue and charged with a yellow tower, a sword and a crown, and a second tower.",
+  "history": "Municipal flag of San Morales; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_San_Morales.svg",
+    "https://www.wikidata.org/wiki/Q1905253",
+    "https://es.wikipedia.org/wiki/San_Morales"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "star",
+      "count": 8,
+      "points": 8,
+      "color": "red",
+      "position": "hoist",
+      "role": "eight stars in two columns"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "fly divided red over blue"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "count": 2,
+      "role": "towers at the upper and lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "fly",
+      "role": "sword with a crown at the centre of the fly"
+    }
+  ]
+}

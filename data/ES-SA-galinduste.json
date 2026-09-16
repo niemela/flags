@@ -1,0 +1,72 @@
+{
+  "id": "ES-SA-galinduste",
+  "name": "Galinduste (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SA",
+  "codes": {
+    "wikidata": "Q1777833",
+    "ine": "37143"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Square flag divided diagonally from the upper fly to the lower hoist, white above and red below, charged at the centre with the crowned municipal arms of Galinduste (a castle on green and chequy of blue and white).",
+  "history": "The municipal flag is square, parted per bend, gules in the part next to the hoist and argent in the flying part, charged with the arms of the council.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Galinduste.svg",
+    "https://www.wikidata.org/wiki/Q1777833",
+    "https://es.wikipedia.org/wiki/Galinduste"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Galinduste arms — castle on green and chequy of blue and white"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "green field of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "chequy of the arms"
+    }
+  ]
+}

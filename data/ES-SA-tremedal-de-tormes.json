@@ -1,0 +1,75 @@
+{
+  "id": "ES-SA-tremedal-de-tormes",
+  "name": "Tremedal de Tormes (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SA",
+  "codes": {
+    "wikidata": "Q519470",
+    "ine": "37329"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "A white hoist third bearing three green oak branches with acorns, the fly divided horizontally red over green.",
+  "history": "Municipal flag of Tremedal de Tormes; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Tremedal_de_Tormes_2026.svg",
+    "https://www.wikidata.org/wiki/Q519470",
+    "https://es.wikipedia.org/wiki/Tremedal_de_Tormes"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "hoist",
+      "count": 3,
+      "role": "three oak branches with acorns in a column"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "hoist",
+      "role": "acorns of the branches"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "fly divided red over green"
+    }
+  ]
+}

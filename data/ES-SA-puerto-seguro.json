@@ -1,0 +1,77 @@
+{
+  "id": "ES-SA-puerto-seguro",
+  "name": "Puerto Seguro (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SA",
+  "codes": {
+    "wikidata": "Q1766763",
+    "ine": "37264"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square flag divided diagonally from the upper hoist to the lower fly, ochre yellow above and red below, charged at the centre with the crowned municipal arms of Puerto Seguro (a tree, flags and chequy of white and blue).",
+  "history": "The arms of Puerto Seguro were approved on 26 April 2002; the municipal flag was approved on 28 July 2005 and is square, parted per bend sinister of gold and gules, charged with the arms.",
+  "periods": [
+    {
+      "start": "2005-07-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Puerto_Seguro.svg",
+    "https://www.wikidata.org/wiki/Q1766763",
+    "https://es.wikipedia.org/wiki/Puerto_Seguro"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "red",
+      "direction": "bend"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Puerto Seguro arms — tree, three red flags on yellow and chequy of white and blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "chequy of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "chequy of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "tree of the arms"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "ES-SA-coca-de-alba",
+  "name": "Coca de Alba (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SA",
+  "codes": {
+    "wikidata": "Q1651744",
+    "ine": "37108"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square flag divided diagonally from the upper hoist to the lower fly, red at the lower hoist and white at the upper fly, charged at the centre with the crowned municipal arms of Coca de Alba (a bridge on green and chequy of blue and white).",
+  "history": "The municipal flag of Coca de Alba was approved on 9 July 2014, published in the Boletín Oficial de Castilla y León on 20 April 2015; it is a flag parted per bend, gules and argent, charged with the municipal arms.",
+  "periods": [
+    {
+      "start": "2014-07-09"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Coca_de_Alba.svg",
+    "https://www.wikidata.org/wiki/Q1651744",
+    "https://es.wikipedia.org/wiki/Coca_de_Alba"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Coca de Alba arms — bridge on green and chequy of blue and white"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "chequy of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "green field of the arms"
+    }
+  ]
+}

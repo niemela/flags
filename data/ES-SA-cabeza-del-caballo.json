@@ -1,0 +1,63 @@
+{
+  "id": "ES-SA-cabeza-del-caballo",
+  "name": "Cabeza del Caballo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SA",
+  "codes": {
+    "wikidata": "Q1639363",
+    "ine": "37065"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Vertically divided red and white, the red charged with a white horse's head and the white with three blue wavy stripes.",
+  "history": "The municipal flag of Cabeza del Caballo was approved on 8 November 2008, published in the Boletín Oficial de Castilla y León on 13 March 2009; it is rectangular, of proportions 2:3, formed of two equal vertical stripes.",
+  "periods": [
+    {
+      "start": "2008-11-08"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_Cabeza_de_Caballo.svg",
+    "https://www.wikidata.org/wiki/Q1639363",
+    "https://es.wikipedia.org/wiki/Cabeza_del_Caballo"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "horse",
+      "color": "white",
+      "position": "hoist",
+      "role": "horse's head"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "count": 3,
+      "role": "three wavy stripes on the white"
+    }
+  ]
+}

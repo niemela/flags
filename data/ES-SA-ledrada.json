@@ -1,0 +1,72 @@
+{
+  "id": "ES-SA-ledrada",
+  "name": "Ledrada (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SA",
+  "codes": {
+    "wikidata": "Q1777860",
+    "ine": "37171"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, green at the lower hoist and white at the upper fly, charged at the centre with the crowned municipal arms of Ledrada (an ivy branch and a black bend on yellow).",
+  "history": "The municipal flag is dyed with the tinctures of the arms, each covering half of the cloth, with the green at the hoist side and the silver at the edge.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Ledrada.svg",
+    "https://www.wikidata.org/wiki/Q1777860",
+    "https://es.wikipedia.org/wiki/Ledrada"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "green",
+      "direction": "bend"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Ledrada arms — ivy branch and black bend on yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "yellow field and crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "bend of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "cap of the crown of the arms"
+    }
+  ]
+}
