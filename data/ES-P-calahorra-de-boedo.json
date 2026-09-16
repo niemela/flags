@@ -1,0 +1,68 @@
+{
+  "id": "ES-P-calahorra-de-boedo",
+  "name": "Calahorra de Boedo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-P",
+  "codes": {
+    "wikidata": "Q1923939",
+    "ine": "34041"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Red field with a stripe of vair (white and blue) between two yellow cauldrons at the hoist, and a large yellow tower at the fly.",
+  "history": "Municipal flag of Calahorra de Boedo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Calahorra_de_Boedo.svg",
+    "https://www.wikidata.org/wiki/Q1923939",
+    "https://es.wikipedia.org/wiki/Calahorra_de_Boedo"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "stripe of vair at the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "hoist",
+      "role": "vair pattern of the stripe"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "two cauldrons above and below the vair stripe"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "role": "large tower"
+    }
+  ]
+}

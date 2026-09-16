@@ -1,0 +1,63 @@
+{
+  "id": "ES-P-santoyo",
+  "name": "Santoyo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-P",
+  "codes": {
+    "wikidata": "Q1918060",
+    "ine": "34174"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square flag divided diagonally from the upper fly to the lower hoist, red at the upper hoist and blue at the lower fly, charged at the centre with the crowned municipal arms of Santoyo (a castle on blue and a lion on white).",
+  "history": "Municipal flag of Santoyo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Santoyo.svg",
+    "https://www.wikidata.org/wiki/Q1918060",
+    "https://es.wikipedia.org/wiki/Santoyo"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Santoyo arms — castle on blue and lion on white"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle and crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "white field of the arms"
+    }
+  ]
+}

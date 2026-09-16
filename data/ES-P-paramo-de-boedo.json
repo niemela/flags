@@ -1,0 +1,82 @@
+{
+  "id": "ES-P-paramo-de-boedo",
+  "name": "Páramo de Boedo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-P",
+  "codes": {
+    "wikidata": "Q1918847",
+    "ine": "34122"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A white hoist third bearing three black cauldrons, the fly divided horizontally blue over red and charged with the crowned municipal arms of Páramo de Boedo (a crown on blue above wavy stripes on red within a bordure of cauldrons).",
+  "history": "Municipal flag of Páramo de Boedo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Páramo_Boedo.svg",
+    "https://www.wikidata.org/wiki/Q1918847",
+    "https://es.wikipedia.org/wiki/Páramo_de_Boedo"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "hoist",
+      "role": "three cauldrons in a column on the white stripe"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "fly divided blue over red"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "fly",
+      "role": "Páramo de Boedo arms — crown on blue above wavy stripes on red, within a bordure of cauldrons"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "fly",
+      "role": "crown of the arms"
+    }
+  ]
+}

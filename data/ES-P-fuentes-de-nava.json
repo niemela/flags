@@ -1,0 +1,55 @@
+{
+  "id": "ES-P-fuentes-de-nava",
+  "name": "Fuentes de Nava (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-P",
+  "codes": {
+    "wikidata": "Q936286",
+    "ine": "34076"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided horizontally by an embattled line, red above with a white fountain at the upper hoist and white below with a red fountain at the lower hoist.",
+  "history": "Municipal flag of Fuentes de Nava; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_Fuentes_de_Nava.svg",
+    "https://www.wikidata.org/wiki/Q936286",
+    "https://es.wikipedia.org/wiki/Fuentes_de_Nava"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "role": "embattled division"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "canton",
+      "role": "fountain on the red at the upper hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "fountain on the white at the lower hoist"
+    }
+  ]
+}

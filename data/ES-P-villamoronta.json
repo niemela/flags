@@ -1,0 +1,72 @@
+{
+  "id": "ES-P-villamoronta",
+  "name": "Villamoronta (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-P",
+  "codes": {
+    "wikidata": "Q1917722",
+    "ine": "34223"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue hoist third bearing a white helmet between two yellow stars, the fly red with a yellow tower.",
+  "history": "Municipal flag of Villamoronta; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villamoronta.svg",
+    "https://www.wikidata.org/wiki/Q1917722",
+    "https://es.wikipedia.org/wiki/Villamoronta"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "helmet at the centre of the hoist stripe"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 8,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "two stars above and below the helmet"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "role": "tower"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "ES-P-boadilla-del-camino",
+  "name": "Boadilla del Camino (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-P",
+  "codes": {
+    "wikidata": "Q592699",
+    "ine": "34034"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field with a white stripe along the hoist bearing two outlined scallop shells, charged at the centre with a yellow Gothic pillory column.",
+  "history": "Municipal flag of Boadilla del Camino; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Boadilla_del_Camino_(Palencia).svg",
+    "https://www.wikidata.org/wiki/Q592699",
+    "https://es.wikipedia.org/wiki/Boadilla_del_Camino"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        3
+      ]
+    },
+    {
+      "type": "shell",
+      "color": "white",
+      "position": "hoist",
+      "count": 2,
+      "role": "two scallop shells outlined on the white stripe"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "Gothic pillory column (rollo) at the centre"
+    }
+  ]
+}

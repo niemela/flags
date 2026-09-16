@@ -1,0 +1,62 @@
+{
+  "id": "ES-P-villasila-de-valdavia",
+  "name": "Villasila de Valdavia (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-P",
+  "codes": {
+    "wikidata": "Q1766721",
+    "ine": "34234"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A blue hoist third and a red fly charged with two yellow castles beneath a yellow crown.",
+  "history": "Municipal flag of Villasila de Valdavia; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villasila_de_Valdavia.svg",
+    "https://www.wikidata.org/wiki/Q1766721",
+    "https://es.wikipedia.org/wiki/Villasila_de_Valdavia"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "count": 2,
+      "role": "two castles side by side"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "fly",
+      "role": "crown above the castles"
+    }
+  ]
+}

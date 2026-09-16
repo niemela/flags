@@ -1,0 +1,76 @@
+{
+  "id": "ES-P-villaeles-de-valdavia",
+  "name": "Villaeles de Valdavia (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-P",
+  "codes": {
+    "wikidata": "Q1906953",
+    "ine": "34208"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A white hoist third bearing two red letters F above and below a yellow crown, the fly red with a blue wavy stripe edged white.",
+  "history": "Municipal flag of Villaeles de Valdavia; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_Villaeles_de_Valdavia.svg",
+    "https://www.wikidata.org/wiki/Q1906953",
+    "https://es.wikipedia.org/wiki/Villaeles_de_Valdavia"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "two letters F on the hoist stripe"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "crown between the letters"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "role": "wavy stripe edged white across the red"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "fly",
+      "role": "edges of the wavy stripe"
+    }
+  ]
+}

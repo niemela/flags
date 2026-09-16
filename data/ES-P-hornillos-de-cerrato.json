@@ -1,0 +1,74 @@
+{
+  "id": "ES-P-hornillos-de-cerrato",
+  "name": "Hornillos de Cerrato (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-P",
+  "codes": {
+    "wikidata": "Q1918521",
+    "ine": "34087"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A hoist third divided blue over white and a red fly charged with a yellow tower between two white cauldrons.",
+  "history": "Municipal flag of Hornillos de Cerrato; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Hornillos_de_Cerrato.svg",
+    "https://www.wikidata.org/wiki/Q1918521",
+    "https://es.wikipedia.org/wiki/Hornillos_de_Cerrato"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2,
+      "position": "hoist",
+      "role": "hoist third divided blue over white"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "role": "tower"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "fly",
+      "role": "two cauldrons flanking the tower"
+    }
+  ]
+}

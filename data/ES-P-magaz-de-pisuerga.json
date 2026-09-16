@@ -1,0 +1,71 @@
+{
+  "id": "ES-P-magaz-de-pisuerga",
+  "name": "Magaz de Pisuerga (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-P",
+  "codes": {
+    "wikidata": "Q660256",
+    "ine": "34098"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A white hoist third bearing two yellow crosses fleury, the fly red with a white castle.",
+  "history": "Municipal flag of Magaz de Pisuerga; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Magaz_de_Pisuerga.svg",
+    "https://www.wikidata.org/wiki/Q660256",
+    "https://es.wikipedia.org/wiki/Magaz_de_Pisuerga"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "greek-cross",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 2,
+      "role": "two crosses fleury one above the other"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "fly",
+      "role": "castle with three towers"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "fly",
+      "role": "door and windows of the castle"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "ES-P-villanuno-de-valdavia",
+  "name": "Villanuño de Valdavia (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-P",
+  "codes": {
+    "wikidata": "Q1918075",
+    "ine": "34228"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A yellow hoist third bearing a white sword, the fly red charged with a yellow crown.",
+  "history": "The flag of Villanuño de Valdavia is of dimensions 2:3, tierced at the hoist.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villanuño_de_Valdavia.svg",
+    "https://www.wikidata.org/wiki/Q1918075",
+    "https://es.wikipedia.org/wiki/Villanuño_de_Valdavia"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "sword point downward on the hoist stripe"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "fly",
+      "role": "royal crown"
+    }
+  ]
+}

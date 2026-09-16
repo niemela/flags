@@ -1,0 +1,49 @@
+{
+  "id": "ES-P-cobos-de-cerrato",
+  "name": "Cobos de Cerrato (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-P",
+  "codes": {
+    "wikidata": "Q1923975",
+    "ine": "34060"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided by a curving line from the lower hoist to the upper fly, yellow at the upper hoist with three black arched openings and green at the lower fly.",
+  "history": "Municipal flag of Cobos de Cerrato; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cobos_de_Cerrato.svg",
+    "https://www.wikidata.org/wiki/Q1923975",
+    "https://es.wikipedia.org/wiki/Cobos_de_Cerrato"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "canton",
+      "role": "three arched openings (dovecote holes) at the upper hoist"
+    }
+  ]
+}
