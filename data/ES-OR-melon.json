@@ -1,0 +1,65 @@
+{
+  "id": "ES-OR-melon",
+  "name": "Melón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-OR",
+  "codes": {
+    "wikidata": "Q1644993",
+    "ine": "32046"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with a chequy stripe of red and white along the hoist, charged at the centre with a yellow crozier between two yellow crosses fleury.",
+  "history": "Municipal flag of Melón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Melón.svg",
+    "https://www.wikidata.org/wiki/Q1644993",
+    "https://es.wikipedia.org/wiki/Melón_(Orense)",
+    "https://gl.wikipedia.org/wiki/Melón"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "chequy",
+      "field": "red",
+      "chequy": "white",
+      "position": "hoist",
+      "role": "chequy stripe along the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crozier at the centre"
+    },
+    {
+      "type": "greek-cross",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "two crosses fleury flanking the crozier"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "ES-OR-lobeira",
+  "name": "Lobeira (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-OR",
+  "codes": {
+    "wikidata": "Q1644975",
+    "ine": "32041"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Green field with a yellow stripe along the hoist with a dancetty edge, charged at the centre with a yellow wolf passant.",
+  "history": "Municipal flag of Lobeira; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Lobeira_Ourense.svg",
+    "https://www.wikidata.org/wiki/Q1644975",
+    "https://es.wikipedia.org/wiki/Lobera_(Orense)",
+    "https://gl.wikipedia.org/wiki/Lobeira"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "stripe along the hoist with a zigzag inner edge"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "center",
+      "role": "wolf passant"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "tongue and claws of the wolf"
+    }
+  ]
+}

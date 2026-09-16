@@ -1,0 +1,72 @@
+{
+  "id": "ES-OR-castrelo-do-val",
+  "name": "Castrelo do Val (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-OR",
+  "codes": {
+    "wikidata": "Q1607748",
+    "ine": "32021"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A black hoist third bearing a yellow cross between two white scallop shells, the fly green with a large yellow castle.",
+  "history": "Municipal flag of Castrelo do Val; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Castrelo_do_Val.svg",
+    "https://www.wikidata.org/wiki/Q1607748",
+    "https://es.wikipedia.org/wiki/Castrelo_del_Valle",
+    "https://gl.wikipedia.org/wiki/Castrelo_do_Val"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "greek-cross",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "cross patty between two scallop shells"
+    },
+    {
+      "type": "shell",
+      "color": "white",
+      "position": "hoist",
+      "count": 2,
+      "role": "two scallop shells above and below the cross"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "role": "large castle with three towers"
+    }
+  ]
+}

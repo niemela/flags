@@ -1,0 +1,60 @@
+{
+  "id": "ES-OR-padrenda",
+  "name": "Padrenda (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-OR",
+  "codes": {
+    "wikidata": "Q1607736",
+    "ine": "32056"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with two white horizontal stripes, charged with eight white scallop shells in three rows.",
+  "history": "Municipal flag of Padrenda; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Padrenda.svg",
+    "https://www.wikidata.org/wiki/Q1607736",
+    "https://es.wikipedia.org/wiki/Padrenda",
+    "https://gl.wikipedia.org/wiki/Padrenda"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 5,
+      "widths": [
+        3,
+        1,
+        3,
+        1,
+        3
+      ]
+    },
+    {
+      "type": "shell",
+      "color": "white",
+      "position": "center",
+      "count": 8,
+      "role": "eight scallop shells arranged 2, 3 and 3"
+    }
+  ]
+}

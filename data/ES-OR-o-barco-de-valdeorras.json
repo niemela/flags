@@ -1,0 +1,50 @@
+{
+  "id": "ES-OR-o-barco-de-valdeorras",
+  "name": "O Barco de Valdeorras (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-OR",
+  "codes": {
+    "wikidata": "Q1607428",
+    "ine": "32009"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, red below and white above with a light blue triangle at the lower fly.",
+  "history": "Municipal flag of O Barco de Valdeorras; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_O_Barco.svg",
+    "https://www.wikidata.org/wiki/Q1607428",
+    "https://es.wikipedia.org/wiki/El_Barco_de_Valdeorras",
+    "https://gl.wikipedia.org/wiki/O_Barco_de_Valdeorras"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend"
+    },
+    {
+      "type": "triangle",
+      "color": "light-blue",
+      "position": "fly",
+      "role": "triangle at the lower fly between the red and the white"
+    }
+  ]
+}

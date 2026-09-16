@@ -1,0 +1,73 @@
+{
+  "id": "ES-OR-nogueira-de-ramuin",
+  "name": "Nogueira de Ramuín (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-OR",
+  "codes": {
+    "wikidata": "Q577578",
+    "ine": "32052"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Vertically divided green and blue by a narrow white pale, the green charged with a yellow knife-grinder's wheel with an umbrella and the blue with nine yellow bells charged with red crosses.",
+  "history": "Municipal flag of Nogueira de Ramuín; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Nogueira_de_Ramuín.svg",
+    "https://www.wikidata.org/wiki/Q577578",
+    "https://es.wikipedia.org/wiki/Nogueira_de_Ramuín",
+    "https://gl.wikipedia.org/wiki/Nogueira_de_Ramuín"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "narrow white pale between the green and the blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "knife-grinder's wheel with an umbrella on the green and nine bells on the blue"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "fly",
+      "role": "crosses on the bells"
+    }
+  ]
+}

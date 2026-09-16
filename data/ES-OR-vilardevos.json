@@ -1,0 +1,63 @@
+{
+  "id": "ES-OR-vilardevos",
+  "name": "Vilardevós (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-OR",
+  "codes": {
+    "wikidata": "Q1629581",
+    "ine": "32091"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A blue hoist stripe bearing three white scallop shells, the fly red with a white Maltese cross.",
+  "history": "Municipal flag of Vilardevós; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Vilardevós.svg",
+    "https://www.wikidata.org/wiki/Q1629581",
+    "https://es.wikipedia.org/wiki/Villardevós",
+    "https://gl.wikipedia.org/wiki/Vilardevós"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "shell",
+      "color": "white",
+      "position": "hoist",
+      "count": 3,
+      "role": "three scallop shells in a column"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "fly",
+      "role": "Maltese cross"
+    }
+  ]
+}

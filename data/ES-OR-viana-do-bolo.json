@@ -1,0 +1,85 @@
+{
+  "id": "ES-OR-viana-do-bolo",
+  "name": "Viana do Bolo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-OR",
+  "codes": {
+    "wikidata": "Q1627561",
+    "ine": "32086"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Vertically divided into three, the hoist and fly quartered of red and yellow bars and green with white scallop shells, the centre red with a yellow castle.",
+  "history": "Municipal flag of Viana do Bolo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_VIana_do_Bolo.svg",
+    "https://www.wikidata.org/wiki/Q1627561",
+    "https://es.wikipedia.org/wiki/Viana_del_Bollo",
+    "https://gl.wikipedia.org/wiki/Viana_do_Bolo"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "bars of red and yellow in the upper hoist and lower fly quarters"
+    },
+    {
+      "type": "shell",
+      "color": "white",
+      "position": "hoist",
+      "count": 3,
+      "role": "three shells on green at the lower hoist"
+    },
+    {
+      "type": "shell",
+      "color": "white",
+      "position": "fly",
+      "count": 3,
+      "role": "three shells on green at the upper fly"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle on the red central stripe"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "shading of the castle"
+    }
+  ]
+}

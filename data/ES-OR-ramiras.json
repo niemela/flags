@@ -1,0 +1,66 @@
+{
+  "id": "ES-OR-ramiras",
+  "name": "Ramirás (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-OR",
+  "codes": {
+    "wikidata": "Q605058",
+    "ine": "32068"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red hoist stripe bearing a yellow cross fleury and a sickle, the fly wavy of white and blue vertical stripes.",
+  "history": "Municipal flag of Ramirás; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Ramirás.svg",
+    "https://www.wikidata.org/wiki/Q605058",
+    "https://es.wikipedia.org/wiki/Ramiranes",
+    "https://gl.wikipedia.org/wiki/Ramirás"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        3
+      ]
+    },
+    {
+      "type": "greek-cross",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "cross fleury above a sickle"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "count": 7,
+      "role": "wavy vertical stripes on the white fly"
+    }
+  ]
+}

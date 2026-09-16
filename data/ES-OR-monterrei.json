@@ -1,0 +1,72 @@
+{
+  "id": "ES-OR-monterrei",
+  "name": "Monterrei (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-OR",
+  "codes": {
+    "wikidata": "Q1452663",
+    "ine": "32050"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Vertically divided blue and red, the blue with a book between two bunches of grapes and the red with a yellow castle.",
+  "history": "Municipal flag of Monterrei; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Monterrei_Ourense_Galiza.svg",
+    "https://www.wikidata.org/wiki/Q1452663",
+    "https://es.wikipedia.org/wiki/Monterrey_(España)",
+    "https://gl.wikipedia.org/wiki/Monterrei",
+    "https://es.wikipedia.org/wiki/Bandera_de_Monterrey"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "book between two bunches of grapes on the blue and castle on the red"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "role": "castle"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "pages of the book"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "ES-OR-calvos-de-randin",
+  "name": "Calvos de Randín (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-OR",
+  "codes": {
+    "wikidata": "Q777044",
+    "ine": "32016"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Green field charged at the centre with a yellow tower between two columns of four yellow roundels.",
+  "history": "Municipal flag of Calvos de Randín; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Calvos_de_Randín.svg",
+    "https://www.wikidata.org/wiki/Q777044",
+    "https://es.wikipedia.org/wiki/Calvos_de_Randín",
+    "https://gl.wikipedia.org/wiki/Calvos_de_Randín"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "tower"
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 4,
+      "role": "four roundels in a column at the hoist"
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "position": "fly",
+      "count": 4,
+      "role": "four roundels in a column at the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "outlines of the charges"
+    }
+  ]
+}

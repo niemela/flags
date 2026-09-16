@@ -1,0 +1,87 @@
+{
+  "id": "ES-OR-xinzo-de-limia",
+  "name": "Xinzo de Limia (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-OR",
+  "codes": {
+    "wikidata": "Q918637",
+    "ine": "32032"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Vertically divided, the hoist white with a black bend within a border of yellow chain, the fly divided yellow with a red cockerel above green with crossed ears of wheat.",
+  "history": "Municipal flag of Xinzo de Limia; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Xinzo_de_Limia.svg",
+    "https://www.wikidata.org/wiki/Q918637",
+    "https://es.wikipedia.org/wiki/Ginzo_de_Limia",
+    "https://gl.wikipedia.org/wiki/Xinzo_de_Limia"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "black",
+      "position": "hoist",
+      "role": "bend on the white hoist half"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "chain border of the hoist half"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "fly divided yellow over green"
+    },
+    {
+      "type": "bird",
+      "color": "red",
+      "position": "fly",
+      "role": "cockerel on the yellow"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "fly",
+      "count": 2,
+      "role": "crossed ears of wheat on the green"
+    }
+  ]
+}

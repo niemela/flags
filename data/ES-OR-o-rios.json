@@ -1,0 +1,66 @@
+{
+  "id": "ES-OR-o-rios",
+  "name": "O Riós (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-OR",
+  "codes": {
+    "wikidata": "Q1645023",
+    "ine": "32071"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Yellow field charged with a green eradicated chestnut tree, with a fly stripe of wavy vertical stripes of white and blue.",
+  "history": "Municipal flag of O Riós; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Riós.svg",
+    "https://www.wikidata.org/wiki/Q1645023",
+    "https://es.wikipedia.org/wiki/Riós",
+    "https://gl.wikipedia.org/wiki/O_Riós"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist",
+      "role": "eradicated chestnut tree"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "count": 3,
+      "role": "wavy vertical stripes on the white fly"
+    }
+  ]
+}

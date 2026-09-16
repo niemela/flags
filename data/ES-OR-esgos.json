@@ -1,0 +1,63 @@
+{
+  "id": "ES-OR-esgos",
+  "name": "Esgos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-OR",
+  "codes": {
+    "wikidata": "Q1607520",
+    "ine": "32031"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with two yellow pales towards the hoist and the fly, charged at the centre with a yellow cross patty.",
+  "history": "Municipal flag of Esgos; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Esgos.svg",
+    "https://www.wikidata.org/wiki/Q1607520",
+    "https://es.wikipedia.org/wiki/Esgos",
+    "https://gl.wikipedia.org/wiki/Esgos"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "pale towards the hoist"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "pale towards the fly"
+    },
+    {
+      "type": "greek-cross",
+      "color": "yellow",
+      "position": "center",
+      "role": "cross patty"
+    }
+  ]
+}
