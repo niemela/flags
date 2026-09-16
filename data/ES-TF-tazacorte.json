@@ -1,0 +1,59 @@
+{
+  "id": "ES-TF-tazacorte",
+  "name": "Tazacorte (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TF",
+  "codes": {
+    "wikidata": "Q426350",
+    "ine": "38045"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Light blue field with a yellow cross throughout and a saltire of red and green.",
+  "history": "Municipal flag of Tazacorte; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Tazacorte_bandera.svg",
+    "https://www.wikidata.org/wiki/Q426350",
+    "https://es.wikipedia.org/wiki/Tazacorte"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "cross": "yellow",
+      "position": "center",
+      "field": "light-blue",
+      "role": "cross throughout"
+    },
+    {
+      "type": "saltire",
+      "color": "red",
+      "position": "center",
+      "role": "red saltire from the upper hoist to the lower fly"
+    },
+    {
+      "type": "saltire",
+      "color": "green",
+      "position": "center",
+      "role": "green saltire from the lower hoist to the upper fly"
+    }
+  ]
+}

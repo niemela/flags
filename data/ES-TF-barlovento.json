@@ -1,0 +1,55 @@
+{
+  "id": "ES-TF-barlovento",
+  "name": "Barlovento (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TF",
+  "codes": {
+    "wikidata": "Q433918",
+    "ine": "38007"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided by a yellow diagonal band from the lower hoist to the upper fly, green at the hoist and blue at the fly.",
+  "history": "On 29 October 1998 the autonomous community of the Canary Islands approved the heraldic arms and the flag of the town council of Barlovento, published in the Boletín Oficial de Canarias of 2 December 1998: a rectangular cloth whose length is one and a half times its width, divided by a yellow diagonal band joining the lower hoist corner to the upper fly corner into two triangles, green at the hoist and blue at the fly; if the flag bears the arms they are placed at the centre at two thirds of the height. The green represents the mountains and the yellow, symbol of gold and abundance, the cereal wealth of the municipality in the past.",
+  "periods": [
+    {
+      "start": "1998-10-29"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Barlovento.svg",
+    "https://www.wikidata.org/wiki/Q433918",
+    "https://es.wikipedia.org/wiki/Barlovento_(La_Palma)",
+    "https://es.wikipedia.org/wiki/Bandera_de_Barlovento"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "role": "band from the lower hoist corner to the upper fly corner"
+    }
+  ]
+}

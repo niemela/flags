@@ -1,0 +1,59 @@
+{
+  "id": "ES-TF-santiago-del-teide",
+  "name": "Santiago del Teide (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TF",
+  "codes": {
+    "wikidata": "Q915283",
+    "ine": "38040"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Dark blue field charged at the centre with a red cross of Saint James surrounded by ten white silhouettes of Mount Teide.",
+  "history": "The municipal flag was approved by order of the Government of the Canary Islands of 3 December 1991, its length being one and a half times its height; the cross of Saint James alludes to the name of the municipality, as do the silhouettes of the Teide, whose number on the flag corresponds to the number of settlements that make up the municipality. The municipality also has a white standard approved by the same order.",
+  "periods": [
+    {
+      "start": "1991-12-03"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_Santiago_del_Teide.svg",
+    "https://www.wikidata.org/wiki/Q915283",
+    "https://es.wikipedia.org/wiki/Santiago_del_Teide"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "latin-cross",
+      "color": "red",
+      "position": "center",
+      "role": "cross of Saint James"
+    },
+    {
+      "type": "mountain",
+      "color": "white",
+      "position": "center",
+      "count": 10,
+      "role": "ten silhouettes of the Teide arranged around the cross"
+    }
+  ]
+}

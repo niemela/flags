@@ -1,0 +1,77 @@
+{
+  "id": "ES-TF-el-rosario-tenerife",
+  "name": "El Rosario (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-TF",
+  "codes": {
+    "wikidata": "Q176624",
+    "ine": "38032"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, white at the hoist and green at the fly, charged with the crowned arms of El Rosario (roses, a pine and an anchor).",
+  "history": "The flag of the municipality was approved by the Government of the Canary Islands on 13 August 1999 as a rectangular cloth of silk, taffeta, satin, wool or synthetic fibre whose length is one and a half times its width, composed of two right triangles, white the one at the hoist and green the one at the fly.",
+  "periods": [
+    {
+      "start": "1999-08-13"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_El_Rosario_(con_escudo).svg",
+    "https://www.wikidata.org/wiki/Q176624",
+    "https://es.wikipedia.org/wiki/El_Rosario_(Tenerife)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "El Rosario arms — roses, a pine and an anchor on green within a yellow border"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "border and crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "roses of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "blue of the arms"
+    }
+  ]
+}
