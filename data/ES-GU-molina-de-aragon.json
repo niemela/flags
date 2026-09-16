@@ -1,0 +1,73 @@
+{
+  "id": "ES-GU-molina-de-aragon",
+  "name": "Molina de Aragón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GU",
+  "codes": {
+    "wikidata": "Q919050",
+    "ine": "19190"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A white hoist stripe bearing the crowned municipal arms of Molina de Aragón (an arm holding a wheel and fleurs-de-lis on blue), the fly divided horizontally blue over red.",
+  "history": "Municipal flag of Molina de Aragón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Molina_de_Aragon.svg",
+    "https://www.wikidata.org/wiki/Q919050",
+    "https://es.wikipedia.org/wiki/Molina_de_Aragón"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Molina de Aragón arms — arm holding a wheel and fleurs-de-lis on blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "fly divided blue over red"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "wheel, fleurs-de-lis and crown of the arms"
+    }
+  ]
+}

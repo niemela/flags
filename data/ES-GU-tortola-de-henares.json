@@ -1,0 +1,68 @@
+{
+  "id": "ES-GU-tortola-de-henares",
+  "name": "Tórtola de Henares (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GU",
+  "codes": {
+    "wikidata": "Q548550",
+    "ine": "19286"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red isosceles triangle with its base along the hoist and its apex at the fly bearing a yellow tower, the upper triangle white and the lower triangle white with two blue wavy stripes.",
+  "history": "Tórtola de Henares adopted its arms and flag officially on 17 October 2005; the flag is rectangular of 2:3, formed of a red isosceles triangle with its base at the hoist and its point at the fly, the upper triangle white and the lower white with two blue waves separated by a white wave of half their width.",
+  "periods": [
+    {
+      "start": "2005-10-17"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Tórtola_de_Henares.svg",
+    "https://www.wikidata.org/wiki/Q548550",
+    "https://es.wikipedia.org/wiki/Tórtola_de_Henares"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "isosceles triangle with its base along the hoist and its apex at the fly"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "tower on the red triangle"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom",
+      "count": 2,
+      "role": "two wavy stripes in the lower triangle"
+    }
+  ]
+}

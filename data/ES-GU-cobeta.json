@@ -1,0 +1,52 @@
+{
+  "id": "ES-GU-cobeta",
+  "name": "Cobeta (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GU",
+  "codes": {
+    "wikidata": "Q1655353",
+    "ine": "19090"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, white above with a red tower and red below with a white castle.",
+  "history": "Municipal flag of Cobeta; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cobeta.svg",
+    "https://www.wikidata.org/wiki/Q1655353",
+    "https://es.wikipedia.org/wiki/Cobeta"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "hoist",
+      "role": "tower on the white"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "fly",
+      "role": "castle on the red"
+    }
+  ]
+}

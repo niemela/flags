@@ -1,0 +1,66 @@
+{
+  "id": "ES-GU-matarrubia",
+  "name": "Matarrubia (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GU",
+  "codes": {
+    "wikidata": "Q1653820",
+    "ine": "19173"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Vertically divided green and blue, the green with a yellow oak branch with acorns and the blue with a white dog's head above a white chalice.",
+  "history": "Municipal flag of Matarrubia; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Matarrubia.svg",
+    "https://www.wikidata.org/wiki/Q1653820",
+    "https://es.wikipedia.org/wiki/Matarrubia"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "leaf",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "oak branch with acorns"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "fly",
+      "role": "dog's head"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "fly",
+      "role": "chalice beneath the dog's head"
+    }
+  ]
+}

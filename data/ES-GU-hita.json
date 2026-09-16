@@ -1,0 +1,69 @@
+{
+  "id": "ES-GU-hita",
+  "name": "Hita (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GU",
+  "codes": {
+    "wikidata": "Q1769186",
+    "ine": "19138"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Square flag with a yellow hoist stripe with an indented edge inscribed AVE MARIA in blue, the fly divided horizontally red over green.",
+  "history": "Municipal flag of Hita; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hita_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1769186",
+    "https://es.wikipedia.org/wiki/Hita"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "role": "indented (dancetty) division"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "fly divided red over green"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "hoist",
+      "role": "inscription AVE MARIA on the hoist stripe"
+    }
+  ]
+}

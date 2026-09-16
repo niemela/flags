@@ -1,0 +1,83 @@
+{
+  "id": "ES-GU-corduente",
+  "name": "Corduente (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GU",
+  "codes": {
+    "wikidata": "Q1653755",
+    "ine": "19099"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A red hoist stripe bearing a white pomegranate, the fly of five horizontal stripes of green, white, blue, white and green in the proportions 4:1:4:1:4.",
+  "history": "Corduente adopted its arms and flag officially in 2005, published in the Diario Oficial de Castilla-La Mancha on 10 June 2005; the flag is a rectangular cloth of 2:3 composed of five horizontal stripes in the proportions 4-1-4-1-4, green, white, blue, white and green, with a red stripe at the hoist bearing a pomegranate.",
+  "periods": [
+    {
+      "start": "2005"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Corduente.svg",
+    "https://www.wikidata.org/wiki/Q1653755",
+    "https://es.wikipedia.org/wiki/Corduente"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        3
+      ]
+    },
+    {
+      "type": "fruit",
+      "color": "white",
+      "position": "hoist",
+      "role": "pomegranate"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "blue",
+        "white",
+        "green"
+      ],
+      "count": 5,
+      "widths": [
+        4,
+        1,
+        4,
+        1,
+        4
+      ],
+      "position": "fly",
+      "role": "five horizontal stripes at the fly"
+    }
+  ]
+}

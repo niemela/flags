@@ -1,0 +1,58 @@
+{
+  "id": "ES-GU-campisabalos",
+  "name": "Campisábalos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GU",
+  "codes": {
+    "wikidata": "Q281895",
+    "ine": "19061"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Red field with a white saltire, the upper triangle green and the lower triangle blue.",
+  "history": "Municipal flag of Campisábalos; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Campisábalos.svg",
+    "https://www.wikidata.org/wiki/Q281895",
+    "https://es.wikipedia.org/wiki/Campisábalos"
+  ],
+  "features": [
+    {
+      "type": "saltire",
+      "color": "white",
+      "position": "center",
+      "field": "red"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "top",
+      "role": "upper triangle between the arms of the saltire"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "bottom",
+      "role": "lower triangle between the arms of the saltire"
+    }
+  ]
+}
