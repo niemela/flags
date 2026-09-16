@@ -1,0 +1,59 @@
+{
+  "id": "ES-AL-viator",
+  "name": "Viator (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AL",
+  "codes": {
+    "wikidata": "Q1444040",
+    "ine": "04101"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally by a white stripe from the lower hoist to the upper fly, green below and light blue above, charged at the centre with the crowned municipal arms of Viator (a tree and a bridge on yellow).",
+  "history": "The flag was approved by decree of the Consejería de Administración Local y Relaciones Institucionales of the Junta de Andalucía in 2014, described as a rectangular flag of 25 by 15 units with green and blue fields arranged obliquely in two quarters.",
+  "periods": [
+    {
+      "start": "2014"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Viator_(Almería).svg",
+    "https://www.wikidata.org/wiki/Q1444040",
+    "https://es.wikipedia.org/wiki/Viator_(Almería)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "light-blue",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "white diagonal stripe"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Viator arms — tree and bridge"
+    }
+  ]
+}

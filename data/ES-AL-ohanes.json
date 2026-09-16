@@ -1,0 +1,54 @@
+{
+  "id": "ES-AL-ohanes",
+  "name": "Ohanes (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AL",
+  "codes": {
+    "wikidata": "Q1445206",
+    "ine": "04067"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "purple"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally by a narrow white stripe from the upper hoist to the lower fly, purple above and green below, charged at the centre with a scroll inscribed VILLA DE OHANES bearing the municipal arms.",
+  "history": "Municipal flag of Ohanes; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Ohanes_(Almería).svg",
+    "https://www.wikidata.org/wiki/Q1445206",
+    "https://es.wikipedia.org/wiki/Ohanes"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "purple",
+      "bend": "green",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "narrow white diagonal stripe"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Ohanes arms on a scroll inscribed VILLA DE OHANES"
+    }
+  ]
+}

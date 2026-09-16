@@ -1,0 +1,65 @@
+{
+  "id": "ES-AL-turrillas",
+  "name": "Turrillas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AL",
+  "codes": {
+    "wikidata": "Q1406739",
+    "ine": "04094"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A yellow hoist third bearing a green holm oak, the fly green with a white saltire.",
+  "history": "Turrillas was authorised by the Junta de Andalucía in May 2004 to adopt its symbols but did not do so until early 2007; the flag is a rectangular cloth of 2:3 with a yellow hoist third bearing a holm oak and a green fly with a white saltire.",
+  "periods": [
+    {
+      "start": "2007"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Turrillas_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1406739",
+    "https://es.wikipedia.org/wiki/Turrillas"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist",
+      "role": "holm oak"
+    },
+    {
+      "type": "saltire",
+      "color": "white",
+      "position": "fly"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "ES-AL-enix",
+  "name": "Enix (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AL",
+  "codes": {
+    "wikidata": "Q947285",
+    "ine": "04041"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Yellow field with a white canton bearing a red cross, separated from the field by a blue wavy stripe, charged in the fly with the crowned municipal arms of Enix (a castle and a lion).",
+  "history": "Municipal flag of Enix; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Enix_(Almería).svg",
+    "https://www.wikidata.org/wiki/Q947285",
+    "https://es.wikipedia.org/wiki/Enix_(Almería)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "hoist",
+      "role": "cross on the canton"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "hoist",
+      "role": "wavy stripe along the canton"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "fly",
+      "role": "Enix arms — castle and lion"
+    }
+  ]
+}

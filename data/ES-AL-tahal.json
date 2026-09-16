@@ -1,0 +1,71 @@
+{
+  "id": "ES-AL-tahal",
+  "name": "Tahal (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AL",
+  "codes": {
+    "wikidata": "Q1611746",
+    "ine": "04090"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertical tricolour of white, green and white with a broad green middle stripe, charged with a black cross pattée on the hoist, a yellow castle on the green and a green crescent on the fly.",
+  "history": "Municipal flag of Tahal; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Tahal.svg",
+    "https://www.wikidata.org/wiki/Q1611746",
+    "https://es.wikipedia.org/wiki/Tahal"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "white"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "hoist",
+      "role": "cross pattée"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle"
+    },
+    {
+      "type": "crescent",
+      "color": "green",
+      "position": "fly"
+    }
+  ]
+}

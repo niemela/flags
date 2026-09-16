@@ -1,0 +1,53 @@
+{
+  "id": "ES-AL-tabernas",
+  "name": "Tabernas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AL",
+  "codes": {
+    "wikidata": "Q1444062",
+    "ine": "04088"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertically divided green and yellow, with a yellow castle on the green and the crowned municipal arms of Tabernas (a castle and ears of wheat on green) on the yellow.",
+  "history": "Municipal flag of Tabernas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Tabernas.svg",
+    "https://www.wikidata.org/wiki/Q1444062",
+    "https://es.wikipedia.org/wiki/Tabernas"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "fly",
+      "role": "Tabernas arms — castle and ears of wheat"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "ES-AL-alcolea",
+  "name": "Alcolea (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AL",
+  "codes": {
+    "wikidata": "Q1444083",
+    "ine": "04007"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided by a wavy line, the upper part red with a yellow tower, the lower part four wavy stripes of white, green, white and blue.",
+  "history": "The flag, the arms, an anagram and a slogan were approved by the municipal council of Alcolea on 11 October 2004 and admitted to the Andalusian register of local symbols on 13 January 2005; the flag is a cloth of 2:3 divided by a wavy line, the upper part red with a yellow tower and the lower part four wavy stripes of equal width, white, green, white and blue.",
+  "periods": [
+    {
+      "start": "2004-10-11"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Alcolea.svg",
+    "https://www.wikidata.org/wiki/Q1444083",
+    "https://es.wikipedia.org/wiki/Alcolea_(Almería)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "green",
+        "white",
+        "blue"
+      ],
+      "count": 5,
+      "widths": [
+        4,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "top",
+      "role": "tower"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "bottom",
+      "role": "wavy stripes"
+    }
+  ]
+}

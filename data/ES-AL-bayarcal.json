@@ -1,0 +1,75 @@
+{
+  "id": "ES-AL-bayarcal",
+  "name": "Bayárcal (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AL",
+  "codes": {
+    "wikidata": "Q1358116",
+    "ine": "04020"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with a green triangle from the hoist to the centre of the fly, a blue crescent in the upper white and a blue cross in the lower white, with a white castle on the green and a white and blue wavy stripe at the foot.",
+  "history": "Bayárcal applied to the Junta de Andalucía on 29 August 2006 to register the arms and flag in use, receiving approval in February 2009; the flag is a cloth of 2:3, white with a green triangle based on the hoist and pointing to the centre of the fly, a blue crescent in the upper white triangle and a blue cross in the lower one, with two wavy stripes white and blue.",
+  "periods": [
+    {
+      "start": "2009-02"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Bayárcal_(Almería).svg",
+    "https://www.wikidata.org/wiki/Q1358116",
+    "https://es.wikipedia.org/wiki/Bayárcal"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "hoist",
+      "role": "triangle from the hoist to the centre of the fly"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "castle on the triangle"
+    },
+    {
+      "type": "crescent",
+      "color": "blue",
+      "position": "top"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "blue",
+      "position": "bottom",
+      "role": "cross in the lower white"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom",
+      "role": "white and blue wavy stripe"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ES-AL-roquetas-de-mar",
+  "name": "Roquetas de Mar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AL",
+  "codes": {
+    "wikidata": "Q499184",
+    "ine": "04079"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided by a wavy diagonal line from the lower hoist to the upper fly, blue above with a yellow sun in the hoist and white below, charged at the centre with the crowned municipal arms of Roquetas de Mar (a tower on blue and white).",
+  "history": "The flag of Roquetas de Mar is described as a rectangular silk or taffeta flag of 4:6, divided by a wavy line from the lower hoist to the upper fly, the upper part blue (sky) with a gold sun and the lower part silver (sea).",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Roquetas_de_Mar.svg",
+    "https://www.wikidata.org/wiki/Q499184",
+    "https://es.wikipedia.org/wiki/Roquetas_de_Mar"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "white",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "center",
+      "role": "wavy diagonal division"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "hoist"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Roquetas de Mar arms — tower on blue and white"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ES-AL-padules",
+  "name": "Padules (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AL",
+  "codes": {
+    "wikidata": "Q1447755",
+    "ine": "04071"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field with a blue diagonal band rising from the lower hoist to the upper fly, between two green discs.",
+  "history": "Municipal flag of Padules; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Padules.svg",
+    "https://www.wikidata.org/wiki/Q1447755",
+    "https://es.wikipedia.org/wiki/Padules"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "role": "band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "disc",
+      "color": "green",
+      "position": "hoist",
+      "count": 2,
+      "role": "green discs in the upper hoist and lower fly"
+    }
+  ]
+}

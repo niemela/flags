@@ -1,0 +1,54 @@
+{
+  "id": "ES-AL-berja",
+  "name": "Berja (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AL",
+  "codes": {
+    "wikidata": "Q491929",
+    "ine": "04029"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "purple"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally by a broad white stripe from the upper hoist to the lower fly, green above and magenta below.",
+  "history": "Berja adopted its arms officially on 22 September 2004 and its flag on 20 January 2000; the flag is divided diagonally by a white stripe a quarter of the width of the cloth running from the upper hoist corner to the lower fly corner.",
+  "periods": [
+    {
+      "start": "2000-01-20"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Berja.svg",
+    "https://www.wikidata.org/wiki/Q491929",
+    "https://es.wikipedia.org/wiki/Berja"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "purple",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "broad white diagonal stripe one quarter of the width"
+    }
+  ]
+}

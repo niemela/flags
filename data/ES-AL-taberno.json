@@ -1,0 +1,71 @@
+{
+  "id": "ES-AL-taberno",
+  "name": "Taberno (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AL",
+  "codes": {
+    "wikidata": "Q1611880",
+    "ine": "04089"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A white hoist third with a wavy edge bearing a green almond tree in its upper part, the fly green with the crowned municipal arms of Taberno (a sun and a tree on blue and white) in the lower fly.",
+  "history": "Taberno adopted its arms officially on 6 July 1987 and its flag on 9 February 2012; the flag is a cloth of 2:3 with a white indented and wavy hoist third bearing an almond tree in its upper canton, the fly green with the arms in its lower canton.",
+  "periods": [
+    {
+      "start": "2012-02-09"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Taberno_(Almería).svg",
+    "https://www.wikidata.org/wiki/Q1611880",
+    "https://es.wikipedia.org/wiki/Taberno"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "hoist",
+      "role": "wavy edge of the hoist third"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist",
+      "role": "almond tree in the upper hoist"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "fly",
+      "role": "Taberno arms — sun and tree"
+    }
+  ]
+}
