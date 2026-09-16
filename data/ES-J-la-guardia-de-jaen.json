@@ -1,0 +1,67 @@
+{
+  "id": "ES-J-la-guardia-de-jaen",
+  "name": "La Guardia de Jaén (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-J",
+  "codes": {
+    "wikidata": "Q1645543",
+    "ine": "23038"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with two yellow vertical stripes towards the hoist and the fly, charged at the centre with a yellow castle.",
+  "history": "The file for the new arms and flag of La Guardia de Jaén was approved by the municipal corporation on 16 May 2005 and, after approval, entered in the Registro Andaluz de Entidades Locales on 25 October 2005; research had shown that the arms and flag adopted earlier were badly formed according to heraldry and symbolism.",
+  "periods": [
+    {
+      "start": "2005-05-16"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_La_Guardia_de_Jaén.svg",
+    "https://www.wikidata.org/wiki/Q1645543",
+    "https://es.wikipedia.org/wiki/La_Guardia_de_Jaén"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "vertical stripe towards the hoist"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "vertical stripe towards the fly"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle"
+    }
+  ]
+}

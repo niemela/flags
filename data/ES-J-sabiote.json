@@ -1,0 +1,74 @@
+{
+  "id": "ES-J-sabiote",
+  "name": "Sabiote (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-J",
+  "codes": {
+    "wikidata": "Q1641690",
+    "ine": "23075"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, red at the lower hoist with a yellow castle and white at the upper fly with a red lion, charged at the centre with the crowned municipal arms of Sabiote (a black bend on yellow within a bordure of castles and lions).",
+  "history": "At the proposal of the town council, in December 2016 all inhabitants were invited to a competition of ideas for the creation of the flag of Sabiote, and in March 2017 the municipality inaugurated its flag; the winning design is white and garnet, representing the colours of Castile, with the municipal arms at the centre.",
+  "periods": [
+    {
+      "start": "2017-03"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Sabiote_(Jaén).svg",
+    "https://www.wikidata.org/wiki/Q1641690",
+    "https://es.wikipedia.org/wiki/Sabiote"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle at the lower hoist"
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "fly",
+      "role": "lion at the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Sabiote arms — black bend on yellow within a bordure of castles and lions"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "bend of the arms"
+    }
+  ]
+}

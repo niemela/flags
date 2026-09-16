@@ -1,0 +1,88 @@
+{
+  "id": "ES-J-beas-de-segura",
+  "name": "Beas de Segura (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-J",
+  "codes": {
+    "wikidata": "Q1313394",
+    "ine": "23012"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A hoist stripe of one sixth chequy of green and white, the fly divided horizontally, red above and below barry of white and blue.",
+  "history": "The flag of Beas de Segura is rectangular with a proportion between the width and the length of 2 to 3, parted vertically at 1/6 from the hoist and chequy in three columns; the arms bear the motto MUY NOBLE E MUY LEAL VILLA DE VEAS and were published in the BOJA on 21 September 2009.",
+  "periods": [
+    {
+      "start": "2009"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Beas_de_Segura_(Jaén).svg",
+    "https://www.wikidata.org/wiki/Q1313394",
+    "https://es.wikipedia.org/wiki/Beas_de_Segura"
+  ],
+  "features": [
+    {
+      "type": "chequy",
+      "field": "green",
+      "chequy": "white",
+      "position": "hoist",
+      "role": "chequy hoist stripe of one sixth in three columns"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        5
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "upper half of the fly red"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 6,
+      "position": "bottom",
+      "role": "lower half of the fly barry of white and blue"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ES-J-huelma",
+  "name": "Huelma (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-J",
+  "codes": {
+    "wikidata": "Q1641746",
+    "ine": "23044"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, orange-red at the lower hoist with a yellow castle and dark green at the upper fly with a yellow key.",
+  "history": "Municipal flag of Huelma; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Huelma_(Jaén).svg",
+    "https://www.wikidata.org/wiki/Q1641746",
+    "https://es.wikipedia.org/wiki/Huelma"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "red",
+      "direction": "bend"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle at the lower hoist"
+    },
+    {
+      "type": "key",
+      "color": "yellow",
+      "position": "fly",
+      "role": "key at the upper fly"
+    }
+  ]
+}

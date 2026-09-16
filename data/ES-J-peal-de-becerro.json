@@ -1,0 +1,75 @@
+{
+  "id": "ES-J-peal-de-becerro",
+  "name": "Peal de Becerro (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-J",
+  "codes": {
+    "wikidata": "Q1632828",
+    "ine": "23066"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "maroon"
+    }
+  ],
+  "description": "Horizontally divided light green over yellow with three blue wavy stripes along the hoist, charged with two red towers.",
+  "history": "Municipal flag of Peal de Becerro; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Peal_de_Becerro_(Jaén).svg",
+    "https://www.wikidata.org/wiki/Q1632828",
+    "https://es.wikipedia.org/wiki/Peal_de_Becerro"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "hoist",
+      "count": 3,
+      "role": "three wavy vertical stripes along the hoist"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "center",
+      "count": 2,
+      "role": "two towers"
+    },
+    {
+      "type": "glyph",
+      "color": "maroon",
+      "position": "center",
+      "role": "doors of the towers"
+    }
+  ]
+}

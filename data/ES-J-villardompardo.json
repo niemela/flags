@@ -1,0 +1,67 @@
+{
+  "id": "ES-J-villardompardo",
+  "name": "Villardompardo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-J",
+  "codes": {
+    "wikidata": "Q303564",
+    "ine": "23098"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided per saltire, white at the hoist and the fly with blue quinas and red above and below with yellow castles.",
+  "history": "Municipal flag of Villardompardo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villardompardo_(Jaén).svg",
+    "https://www.wikidata.org/wiki/Q303564",
+    "https://es.wikipedia.org/wiki/Villardompardo"
+  ],
+  "features": [
+    {
+      "type": "saltire",
+      "color": "red",
+      "position": "center",
+      "field": "white",
+      "role": "division per saltire, red above and below"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "groups of five escutcheons (quinas) in the white triangles"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "top",
+      "count": 3,
+      "role": "three castles in the upper triangle"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "bottom",
+      "count": 3,
+      "role": "three castles in the lower triangle"
+    }
+  ]
+}

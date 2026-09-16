@@ -1,0 +1,80 @@
+{
+  "id": "ES-J-pozo-alcon",
+  "name": "Pozo Alcón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-J",
+  "codes": {
+    "wikidata": "Q1641619",
+    "ine": "23070"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Horizontal tricolour of blue, red and green, the blue charged with three white stars and the red with a yellow oval bearing the arms of Pozo Alcón (a tower and an eagle).",
+  "history": "Municipal flag of Pozo Alcón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Pozo_Alcón_(Jaén).svg",
+    "https://www.wikidata.org/wiki/Q1641619",
+    "https://es.wikipedia.org/wiki/Pozo_Alcón"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "white",
+      "position": "top",
+      "role": "three stars on the blue"
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "position": "center",
+      "role": "oval on the red"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Pozo Alcón arms — tower and eagle, on the oval"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "eagle of the arms"
+    }
+  ]
+}
