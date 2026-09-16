@@ -1,0 +1,57 @@
+{
+  "id": "ES-NC-adios",
+  "name": "Adiós (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-NC",
+  "codes": {
+    "wikidata": "Q519017",
+    "ine": "31007"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Black field with a white central pale charged with a yellow lozenge edged white.",
+  "history": "Municipal flag of Adiós; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_adios.svg",
+    "https://www.wikidata.org/wiki/Q519017",
+    "https://es.wikipedia.org/wiki/Adiós_(Navarra)",
+    "https://eu.wikipedia.org/wiki/Adios"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "black"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "central pale"
+    },
+    {
+      "type": "lozenge",
+      "color": "yellow",
+      "position": "center",
+      "role": "lozenge edged white over the pale"
+    }
+  ]
+}
