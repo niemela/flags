@@ -1,0 +1,69 @@
+{
+  "id": "ES-RI-calahorra",
+  "name": "Calahorra (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-RI",
+  "codes": {
+    "wikidata": "Q642046",
+    "ine": "26036"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with a red cross throughout, charged at the crossing with the crowned arms of the city of Calahorra (a sword and the arms of Navarre and Castile, with the names SAN EMETERIO and SAN CELEDONIO).",
+  "history": "The flag or banner of Calahorra consists of a white ground with a red cross, in the middle of which is placed the arms of the city. The privilege of using a flag was granted to the city when it was reconquered from the Muslims by García Sánchez III of Pamplona in 1045; the oldest document describing the banner, however, is a minute of the town council of June 1550 ordering a flag to be made, which describes it as it is officially configured today, with a red cross and the arms at the midpoint.",
+  "periods": [
+    {
+      "start": "1550"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Calahorra_(La_Rioja).svg",
+    "https://www.wikidata.org/wiki/Q642046",
+    "https://es.wikipedia.org/wiki/Calahorra"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "center",
+      "field": "white",
+      "role": "cross throughout"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Calahorra arms — sword and the arms of Navarre and Castile, with the names of the patron saints"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "blue of the arms"
+    }
+  ]
+}

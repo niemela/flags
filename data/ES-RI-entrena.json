@@ -1,0 +1,53 @@
+{
+  "id": "ES-RI-entrena",
+  "name": "Entrena (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-RI",
+  "codes": {
+    "wikidata": "Q23535",
+    "ine": "26059"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Yellow field with a red rectangle at the centre bearing a smaller white rectangle.",
+  "history": "Municipal flag of Entrena; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:ESP_Entrena_Flag.svg",
+    "https://www.wikidata.org/wiki/Q23535",
+    "https://es.wikipedia.org/wiki/Entrena"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "square",
+      "color": "red",
+      "position": "center",
+      "role": "rectangle at the centre"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "smaller rectangle within the red"
+    }
+  ]
+}

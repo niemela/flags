@@ -1,0 +1,66 @@
+{
+  "id": "ES-RI-arrubal",
+  "name": "Arrúbal (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-RI",
+  "codes": {
+    "wikidata": "Q1647643",
+    "ine": "26019"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A hoist third divided red over white, the fly wavy of dark purple-blue and white vertical stripes.",
+  "history": "Municipal flag of Arrúbal; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Arrúbal.svg",
+    "https://www.wikidata.org/wiki/Q1647643",
+    "https://es.wikipedia.org/wiki/Arrúbal"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "navy"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "position": "hoist",
+      "role": "hoist third divided red over white"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "fly",
+      "count": 3,
+      "role": "wavy vertical stripes of white on the dark blue fly"
+    }
+  ]
+}

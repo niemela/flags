@@ -1,0 +1,82 @@
+{
+  "id": "ES-RI-gimileo",
+  "name": "Gimileo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-RI",
+  "codes": {
+    "wikidata": "Q1646942",
+    "ine": "26068"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A red hoist third bearing the crowned municipal arms of Gimileo (a saint on blue above waves), the fly divided horizontally green over yellow.",
+  "history": "Municipal flag of Gimileo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Gimileo.svg",
+    "https://www.wikidata.org/wiki/Q1646942",
+    "https://es.wikipedia.org/wiki/Gimileo"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "fly divided green over yellow"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Gimileo arms — saint on blue above waves"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "hoist",
+      "role": "blue field of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "white of the arms"
+    }
+  ]
+}

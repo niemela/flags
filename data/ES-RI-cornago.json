@@ -1,0 +1,74 @@
+{
+  "id": "ES-RI-cornago",
+  "name": "Cornago (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-RI",
+  "codes": {
+    "wikidata": "Q941048",
+    "ine": "26054"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Quartered red and blue, the red quarters charged with white crescents above white stripes and the blue quarters with yellow castles.",
+  "history": "The municipal arms and flag of Cornago were approved officially on 4 February 2011; the arms are quartered.",
+  "periods": [
+    {
+      "start": "2011-02-04"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cornago.svg",
+    "https://www.wikidata.org/wiki/Q941048",
+    "https://es.wikipedia.org/wiki/Cornago"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "red",
+        "blue",
+        "blue",
+        "red"
+      ]
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "center",
+      "count": 2,
+      "role": "crescents in the red quarters"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "stripes beneath the crescents"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "castles in the blue quarters"
+    }
+  ]
+}
