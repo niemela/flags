@@ -1,0 +1,62 @@
+{
+  "id": "ES-AS-aller",
+  "name": "Aller (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AS",
+  "codes": {
+    "wikidata": "Q537483",
+    "ine": "33002"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field with a green mountain range outlined in white rising from the base, bearing three yellow castles, with a yellow sun in the upper fly.",
+  "history": "Municipal flag of Aller; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Aller.svg",
+    "https://www.wikidata.org/wiki/Q537483",
+    "https://es.wikipedia.org/wiki/Aller"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "bottom",
+      "role": "mountain range outlined white"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "bottom",
+      "count": 3,
+      "role": "three castles"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "fly"
+    }
+  ]
+}

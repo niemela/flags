@@ -1,0 +1,65 @@
+{
+  "id": "ES-AS-nava",
+  "name": "Nava (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AS",
+  "codes": {
+    "wikidata": "Q946280",
+    "ine": "33040"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Vertically divided, the hoist third yellow with a chequy pattern of blue castles, the fly red with a ring of six white flowers.",
+  "history": "Municipal flag of Nava; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Nava,_Asturias.svg",
+    "https://www.wikidata.org/wiki/Q946280",
+    "https://es.wikipedia.org/wiki/Nava_(Asturias)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "building",
+      "color": "blue",
+      "position": "hoist",
+      "role": "chequy of blue castles on yellow"
+    },
+    {
+      "type": "flower",
+      "color": "white",
+      "position": "fly",
+      "count": 6,
+      "role": "ring of six flowers"
+    }
+  ]
+}

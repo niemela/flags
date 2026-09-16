@@ -1,0 +1,60 @@
+{
+  "id": "ES-AS-langreo",
+  "name": "Langreo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AS",
+  "codes": {
+    "wikidata": "Q493806",
+    "ine": "33031"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue upper half, the lower half divided green and white, charged at the centre with the crowned municipal arms of Langreo (a cross on green, a heart and a lamb).",
+  "history": "Municipal flag of Langreo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Langreo.svg",
+    "https://www.wikidata.org/wiki/Q493806",
+    "https://es.wikipedia.org/wiki/Langreo"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 2,
+      "position": "bottom",
+      "role": "lower half divided green and white"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Langreo arms — cross, heart and lamb"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ES-AS-cudillero",
+  "name": "Cudillero (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AS",
+  "codes": {
+    "wikidata": "Q818372",
+    "ine": "33021"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided by two diagonal lines into a blue hoist, a white central band and a green fly, charged at the centre with the crowned municipal arms of Cudillero (birds, a chequy bend and crossed tools on blue and white).",
+  "history": "Municipal flag of Cudillero; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cudillero.svg",
+    "https://www.wikidata.org/wiki/Q818372",
+    "https://es.wikipedia.org/wiki/Cudillero"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "broad white diagonal band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Cudillero arms — birds, bend and tools"
+    }
+  ]
+}

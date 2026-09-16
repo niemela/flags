@@ -1,0 +1,66 @@
+{
+  "id": "ES-AS-candamu",
+  "name": "Candamu (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-AS",
+  "codes": {
+    "wikidata": "Q737356",
+    "ine": "33010"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Yellow field with a blue hoist stripe bearing two columns of yellow stars, charged with a red horse outlined in black, after the cave paintings of Candamo.",
+  "history": "Municipal flag of Candamu; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Candamo_flag.svg",
+    "https://www.wikidata.org/wiki/Q737356",
+    "https://es.wikipedia.org/wiki/Candamo"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "blue hoist stripe with two columns of yellow stars"
+    },
+    {
+      "type": "star",
+      "count": 14,
+      "points": 5,
+      "color": "yellow",
+      "position": "hoist"
+    },
+    {
+      "type": "horse",
+      "color": "red",
+      "position": "center",
+      "role": "horse after the Candamo cave paintings"
+    }
+  ]
+}
