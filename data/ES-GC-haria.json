@@ -1,0 +1,65 @@
+{
+  "id": "ES-GC-haria",
+  "name": "Haría (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GC",
+  "codes": {
+    "wikidata": "Q1588135",
+    "ine": "35010"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "White field with a blue triangle at the hoist and yellow and green stripes across the lower middle, charged at the centre with the crowned municipal arms of Haría (a palm tree and a tower).",
+  "history": "Municipal flag of Haría; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Haria.svg",
+    "https://www.wikidata.org/wiki/Q1588135",
+    "https://es.wikipedia.org/wiki/Haría"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "triangle with its base along the hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2,
+      "position": "center",
+      "role": "yellow and green stripes below the centre"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Haría arms — palm tree and tower"
+    }
+  ]
+}

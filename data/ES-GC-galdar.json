@@ -1,0 +1,62 @@
+{
+  "id": "ES-GC-galdar",
+  "name": "Gáldar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GC",
+  "codes": {
+    "wikidata": "Q956757",
+    "ine": "35009"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Green field with three yellow horizontal stripes across the upper third, charged at the centre with a yellow crown between three white crescents.",
+  "history": "The flag of Gáldar is green with three yellow horizontal stripes across the upper third; the municipal arms were approved by decree of 26 July 1957.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Gáldar.svg",
+    "https://www.wikidata.org/wiki/Q956757",
+    "https://es.wikipedia.org/wiki/Gáldar"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 3,
+      "position": "top",
+      "role": "three thin stripes across the upper third"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "center",
+      "count": 3,
+      "role": "crescents at the sides and below the crown"
+    }
+  ]
+}

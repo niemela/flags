@@ -1,0 +1,41 @@
+{
+  "id": "ES-GC-vega-de-san-mateo",
+  "name": "Vega de San Mateo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-GC",
+  "codes": {
+    "wikidata": "Q986353",
+    "ine": "35033"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "status": "de-facto",
+  "colors": [
+    {
+      "color": "orange"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, orange at the hoist and blue at the fly.",
+  "history": "The flag used by the municipality shows orange and blue on two right triangles arranged diagonally, orange towards the hoist and blue towards the fly; the design is unofficial, adopting the colours worn by the municipality's Canarian wrestling team since the 1970s.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Vega_de_San_Mateo.svg",
+    "https://www.wikidata.org/wiki/Q986353",
+    "https://es.wikipedia.org/wiki/Vega_de_San_Mateo"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "orange",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    }
+  ]
+}
