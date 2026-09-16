@@ -1,0 +1,61 @@
+{
+  "id": "ES-ZA-villalpando",
+  "name": "Villalpando (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1646362",
+    "ine": "49250"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Yellow field with four blue horizontal stripes, within a border of yellow and vair (blue and white) panels.",
+  "history": "Municipal flag of Villalpando; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villalpando.svg",
+    "https://www.wikidata.org/wiki/Q1646362",
+    "https://es.wikipedia.org/wiki/Villalpando"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 4,
+      "position": "center",
+      "role": "four horizontal stripes on the central panel"
+    },
+    {
+      "type": "border",
+      "color": "blue",
+      "role": "border of alternating yellow and vair panels"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "white of the vair panels"
+    }
+  ]
+}

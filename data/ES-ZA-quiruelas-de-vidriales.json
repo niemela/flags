@@ -1,0 +1,57 @@
+{
+  "id": "ES-ZA-quiruelas-de-vidriales",
+  "name": "Quiruelas de Vidriales (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1766828",
+    "ine": "49171"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, green above with a yellow disc and yellow below with a green disc.",
+  "history": "The municipal arms and flag were officially approved on 31 October 2002; the flag is rectangular, of proportions 2:3, formed of two triangles by the diagonal from the lower hoist corner to the upper fly corner, that at the hoist green with a yellow circle and that at the fly yellow with a green circle.",
+  "periods": [
+    {
+      "start": "2002-10-31"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Quiruelas_de_Vidriales.svg",
+    "https://www.wikidata.org/wiki/Q1766828",
+    "https://es.wikipedia.org/wiki/Quiruelas_de_Vidriales"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "yellow",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "position": "canton",
+      "role": "disc on the green"
+    },
+    {
+      "type": "disc",
+      "color": "green",
+      "position": "fly",
+      "role": "disc on the yellow"
+    }
+  ]
+}

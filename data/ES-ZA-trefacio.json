@@ -1,0 +1,58 @@
+{
+  "id": "ES-ZA-trefacio",
+  "name": "Trefacio (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1752362",
+    "ine": "49224"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided by a blue diagonal band edged white from the lower hoist to the upper fly, green above and red below.",
+  "history": "Municipal flag of Trefacio; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Trefacio.svg",
+    "https://www.wikidata.org/wiki/Q1752362",
+    "https://es.wikipedia.org/wiki/Trefacio"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "role": "band edged white from the lower hoist to the upper fly"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "edges of the band"
+    }
+  ]
+}

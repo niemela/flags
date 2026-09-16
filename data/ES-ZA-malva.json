@@ -1,0 +1,72 @@
+{
+  "id": "ES-ZA-malva",
+  "name": "Malva (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1922240",
+    "ine": "49107"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "pink"
+    }
+  ],
+  "description": "Vertically divided red and white, charged with a white hermitage on the red and three green mallow leaves on the white.",
+  "history": "The heraldic arms and the flag were officially approved on 30 April 2007 and published in the Boletín Oficial de Castilla y León of 16 May 2007; the flag is rectangular, with the fly equal to 3/2 of the hoist, party per pale, the vertical stripe next to the hoist of half the fly red with a white hermitage, and the rest of equal width white with three green mallow leaves.",
+  "periods": [
+    {
+      "start": "2007-04-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Malva.svg",
+    "https://www.wikidata.org/wiki/Q1922240",
+    "https://es.wikipedia.org/wiki/Malva_(Zamora)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "hermitage"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "fly",
+      "count": 3,
+      "role": "three mallow leaves, two above and one below"
+    },
+    {
+      "type": "glyph",
+      "color": "pink",
+      "position": "hoist",
+      "role": "shading of the hermitage"
+    }
+  ]
+}

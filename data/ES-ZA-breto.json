@@ -1,0 +1,74 @@
+{
+  "id": "ES-ZA-breto",
+  "name": "Bretó (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1752375",
+    "ine": "49025"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "pink"
+    }
+  ],
+  "description": "Red field with a blue diagonal band edged white from the upper hoist to the lower fly, charged with a white scallop shell at the upper fly and a white cross at the lower hoist.",
+  "history": "Municipal flag of Bretó; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Bretó.svg",
+    "https://www.wikidata.org/wiki/Q1752375",
+    "https://es.wikipedia.org/wiki/Bretó"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "role": "band edged white from the upper hoist to the lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "edges of the band"
+    },
+    {
+      "type": "shell",
+      "color": "white",
+      "position": "fly",
+      "role": "scallop shell at the upper fly"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "hoist",
+      "role": "cross at the lower hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "pink",
+      "position": "fly",
+      "role": "shading of the shell"
+    }
+  ]
+}

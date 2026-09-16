@@ -1,0 +1,63 @@
+{
+  "id": "ES-ZA-castronuevo",
+  "name": "Castronuevo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1652935",
+    "ine": "49042"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided by a blue diagonal band edged yellow from the upper hoist to the lower fly, red at the upper fly and green at the lower hoist.",
+  "history": "The arms and municipal flag were approved by the full council of Castronuevo in its session of 20 June 2003 and published in the Boletín Oficial de Castilla y León of 7 August 2003; the flag is rectangular, of proportions 2:3, formed of a blue diagonal stripe fimbriated yellow from the upper hoist corner to the lower fly corner, the hoist triangle green and the fly triangle red.",
+  "periods": [
+    {
+      "start": "2003-06-20"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Castronuevo_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1652935",
+    "https://es.wikipedia.org/wiki/Castronuevo"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "role": "band edged yellow from the upper hoist to the lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "edges of the band"
+    }
+  ]
+}

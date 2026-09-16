@@ -1,0 +1,77 @@
+{
+  "id": "ES-ZA-zamora",
+  "name": "Zamora (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q15696",
+    "ine": "49275"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "shape": "complex",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "pink"
+    }
+  ],
+  "description": "Eight red horizontal stripes with pointed fly ends, separated by narrow white lines, surmounted by an emerald green stripe: the Seña Bermeja.",
+  "history": "The flag of the city of Zamora, known as the Seña Bermeja, is composed of eight red strips representing the eight victories won by Viriathus over various Roman praetors and consuls, and an emerald green band; a band which Ferdinand V of Castile wore over his shoulder and which he placed crowning the Seña Bermeja as a reward and recognition of the help given at the battle of Toro, fought in the plain of Toro near Peleagonzalo in March 1476.",
+  "periods": [
+    {
+      "start": "1476"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Zamora.svg",
+    "https://www.wikidata.org/wiki/Q15696",
+    "https://es.wikipedia.org/wiki/Zamora",
+    "https://es.wikipedia.org/wiki/Bandera_de_Zamora"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 8,
+      "position": "center",
+      "role": "eight red stripes with pointed (swallowtailed) fly ends separated by narrow white lines"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "narrow lines between the stripes"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "emerald green stripe along the upper edge"
+    },
+    {
+      "type": "glyph",
+      "color": "pink",
+      "position": "center",
+      "role": "shading of the stripes"
+    }
+  ]
+}

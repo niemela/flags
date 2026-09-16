@@ -1,0 +1,53 @@
+{
+  "id": "ES-ZA-guarrate",
+  "name": "Guarrate (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1777876",
+    "ine": "49093"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontal tricolour of blue, yellow and blue, the lower blue stripe charged with two white wavy stripes.",
+  "history": "The flag is rectangular, of proportions 2:3, formed of a cloth divided into three equal horizontal stripes, blue above, yellow in the centre and the lower one wavy blue with two white wavy stripes of four and a half crests, of thickness 1/20 of the height of the cloth.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Guarrate.svg",
+    "https://www.wikidata.org/wiki/Q1777876",
+    "https://es.wikipedia.org/wiki/Guarrate"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "bottom",
+      "count": 2,
+      "role": "two wavy stripes of four and a half crests on the lower blue stripe"
+    }
+  ]
+}

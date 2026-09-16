@@ -1,0 +1,57 @@
+{
+  "id": "ES-ZA-fresno-de-sayago",
+  "name": "Fresno de Sayago (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1769013",
+    "ine": "49077"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field with a red saltire and red stripes along the upper edge, above a green stripe along the lower edge.",
+  "history": "Municipal flag of Fresno de Sayago; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Fresno_de_Sayago_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1769013",
+    "https://es.wikipedia.org/wiki/Fresno_de_Sayago"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        8,
+        3
+      ]
+    },
+    {
+      "type": "saltire",
+      "color": "red",
+      "position": "center",
+      "role": "saltire on the white"
+    }
+  ]
+}

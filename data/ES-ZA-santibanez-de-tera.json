@@ -1,0 +1,53 @@
+{
+  "id": "ES-ZA-santibanez-de-tera",
+  "name": "Santibáñez de Tera (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1766501",
+    "ine": "49205"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with a blue diagonal band edged white from the lower hoist to the upper fly.",
+  "history": "The flag is red with a blue diagonal stripe with silver edges.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Santibáñez_de_Tera.svg",
+    "https://www.wikidata.org/wiki/Q1766501",
+    "https://es.wikipedia.org/wiki/Santibáñez_de_Tera"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "role": "band edged white from the lower hoist to the upper fly"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "edges of the band"
+    }
+  ]
+}

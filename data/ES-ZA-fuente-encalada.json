@@ -1,0 +1,64 @@
+{
+  "id": "ES-ZA-fuente-encalada",
+  "name": "Fuente Encalada (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1652946",
+    "ine": "49079"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field with a red diagonal band from the lower hoist to the upper fly, charged with a red Greek cross at the upper hoist and a green bunch of grapes at the lower fly.",
+  "history": "The full council of Fuente Encalada, in session on 22 June 2006, approved the heraldic arms and municipal flag; the flag is rectangular, of proportions 2:3, formed of a white cloth with a red diagonal stripe from the lower hoist corner to the upper fly corner, of a third of the width, accompanied by a red Greek cross in the hoist triangle and a green bunch of grapes in the fly triangle.",
+  "periods": [
+    {
+      "start": "2006-06-22"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Fuente_Encalada.svg",
+    "https://www.wikidata.org/wiki/Q1652946",
+    "https://es.wikipedia.org/wiki/Fuente_Encalada"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "role": "band from the lower hoist to the upper fly, a third of the width"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "canton",
+      "role": "Greek cross at the upper hoist"
+    },
+    {
+      "type": "fruit",
+      "color": "green",
+      "position": "fly",
+      "role": "bunch of grapes at the lower fly"
+    }
+  ]
+}

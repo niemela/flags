@@ -1,0 +1,49 @@
+{
+  "id": "ES-ZA-monfarracinos",
+  "name": "Monfarracinos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1652360",
+    "ine": "49122"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided by a blue diagonal band from the lower hoist to the upper fly, yellow above and white below.",
+  "history": "Municipal flag of Monfarracinos; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Monfarracinos.svg",
+    "https://www.wikidata.org/wiki/Q1652360",
+    "https://es.wikipedia.org/wiki/Monfarracinos"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "white",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "role": "band from the lower hoist to the upper fly"
+    }
+  ]
+}

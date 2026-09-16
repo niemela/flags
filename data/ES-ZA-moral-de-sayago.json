@@ -1,0 +1,74 @@
+{
+  "id": "ES-ZA-moral-de-sayago",
+  "name": "Moral de Sayago (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1769041",
+    "ine": "49124"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A hoist quarter chequered red and white in two columns, the fly of five horizontal stripes of dark blue and white.",
+  "history": "The municipal flag was approved on 17 December 1999 and published in the Boletín Oficial de Castilla y León of 18 January 2000: rectangular, of proportions 2:3, formed of two vertical stripes in proportions 1/4 and 3/4, that at the hoist formed of ten squares, five red and five white alternating in two columns, and that at the fly of three blue and two white equal horizontal stripes.",
+  "periods": [
+    {
+      "start": "1999-12-17"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Moral_de_Sayago.svg",
+    "https://www.wikidata.org/wiki/Q1769041",
+    "https://es.wikipedia.org/wiki/Moral_de_Sayago"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "navy"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        3
+      ]
+    },
+    {
+      "type": "chequy",
+      "field": "red",
+      "chequy": "white",
+      "position": "hoist",
+      "role": "ten squares, five red and five white, in two columns at the hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "white",
+        "navy",
+        "white",
+        "navy"
+      ],
+      "count": 5,
+      "position": "fly",
+      "role": "five equal stripes of blue and white on the fly"
+    }
+  ]
+}

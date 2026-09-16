@@ -1,0 +1,68 @@
+{
+  "id": "ES-ZA-santa-cristina-de-la-polvorosa",
+  "name": "Santa Cristina de la Polvorosa (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1646332",
+    "ine": "49200"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, yellow above with a green tree and a bird, and blue and white wavy stripes below.",
+  "history": "Municipal flag of Santa Cristina de la Polvorosa; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_Santa_Cristina_de_la_Polvorosa.svg",
+    "https://www.wikidata.org/wiki/Q1646332",
+    "https://es.wikipedia.org/wiki/Santa_Cristina_de_la_Polvorosa"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "blue",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "canton",
+      "role": "tree at the upper hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "canton",
+      "role": "bird on the tree"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "fly",
+      "count": 3,
+      "role": "wavy stripes of white on the blue lower fly"
+    }
+  ]
+}

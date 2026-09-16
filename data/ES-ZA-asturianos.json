@@ -1,0 +1,69 @@
+{
+  "id": "ES-ZA-asturianos",
+  "name": "Asturianos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1778061",
+    "ine": "49017"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with a chequered band of crimson and white from the upper hoist to the lower fly, charged with yellow fleurs-de-lis at the lower hoist and a yellow Victory Cross at the upper fly.",
+  "history": "Municipal flag of Asturianos; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Asturianos.svg",
+    "https://www.wikidata.org/wiki/Q1778061",
+    "https://es.wikipedia.org/wiki/Asturianos_(municipio)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "chequered band of crimson and white from the upper hoist to the lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "maroon",
+      "position": "center",
+      "role": "crimson squares of the band"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 6,
+      "role": "fleurs-de-lis strewn at the lower hoist"
+    },
+    {
+      "type": "latin-cross",
+      "color": "yellow",
+      "position": "fly",
+      "role": "Victory Cross at the upper fly"
+    }
+  ]
+}

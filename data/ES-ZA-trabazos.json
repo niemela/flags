@@ -1,0 +1,81 @@
+{
+  "id": "ES-ZA-trabazos",
+  "name": "Trabazos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q936798",
+    "ine": "49223"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "pink"
+    }
+  ],
+  "description": "Eleven horizontal stripes, green at the top and then alternating white and red.",
+  "history": "The full council of Trabazos, in session on 30 March 2007, agreed to approve the heraldic arms and flag of the municipality; the flag is rectangular, of proportions 2:3, formed of eleven horizontal stripes, the upper one green and the rest alternating five white and five red, the green and red ones of 1/9 and the white of 1/15 of the width.",
+  "periods": [
+    {
+      "start": "2007-03-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Trabazos_Spain.svg",
+    "https://www.wikidata.org/wiki/Q936798",
+    "https://es.wikipedia.org/wiki/Trabazos"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 11,
+      "widths": [
+        5,
+        3,
+        5,
+        3,
+        5,
+        3,
+        5,
+        3,
+        5,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "pink",
+      "position": "center",
+      "role": "shading of the stripes"
+    }
+  ]
+}

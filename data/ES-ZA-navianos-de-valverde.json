@@ -1,0 +1,53 @@
+{
+  "id": "ES-ZA-navianos-de-valverde",
+  "name": "Navianos de Valverde (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1769113",
+    "ine": "49137"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Green field with a white triangle at the hoist bearing a dark blue wavy stripe.",
+  "history": "The flag is rectangular, of proportions 2:3, formed of a green cloth with a white triangle bearing a blue wavy stripe, its vertices at the ends of the hoist and at the centre of the flag.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_navianos.svg",
+    "https://www.wikidata.org/wiki/Q1769113",
+    "https://es.wikipedia.org/wiki/Navianos_de_Valverde"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "triangle with its base at the hoist and its apex at the centre"
+    },
+    {
+      "type": "wave",
+      "color": "navy",
+      "position": "hoist",
+      "role": "wavy stripe across the triangle"
+    }
+  ]
+}

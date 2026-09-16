@@ -1,0 +1,66 @@
+{
+  "id": "ES-ZA-penausende",
+  "name": "Peñausende (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q907416",
+    "ine": "49149"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Three triangles from the lower hoist: white above with a red cross of Saint James, red in the centre and green below.",
+  "history": "The arms and municipal flag were approved by the full council of Peñausende in its session of 2 March 2005 and published in the Boletín Oficial de Castilla y León of 7 February 2007; the flag is rectangular, of proportions 2:3, formed of three triangles with a common vertex at the lower hoist corner and the others at the upper fly corner and the centre of the fly, the upper triangle white with a red cross of Saint James at a third of the hoist, the central red and the lower green.",
+  "periods": [
+    {
+      "start": "2005-03-02"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Peñausende.svg",
+    "https://www.wikidata.org/wiki/Q907416",
+    "https://es.wikipedia.org/wiki/Peñausende"
+  ],
+  "features": [
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "top",
+      "role": "upper triangle from the lower hoist to the upper fly"
+    },
+    {
+      "type": "latin-cross",
+      "color": "red",
+      "position": "canton",
+      "role": "cross of Saint James at a third of the length"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "center",
+      "role": "central triangle"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "bottom",
+      "role": "lower triangle"
+    }
+  ]
+}

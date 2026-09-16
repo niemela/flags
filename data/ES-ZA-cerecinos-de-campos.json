@@ -1,0 +1,63 @@
+{
+  "id": "ES-ZA-cerecinos-de-campos",
+  "name": "Cerecinos de Campos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1769002",
+    "ine": "49046"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided by a blue diagonal band from the lower hoist to the upper fly, white above and red below, charged towards the hoist with the crowned arms of Cerecinos de Campos.",
+  "history": "Municipal flag of Cerecinos de Campos; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cerecinos_de_Campos.svg",
+    "https://www.wikidata.org/wiki/Q1769002",
+    "https://es.wikipedia.org/wiki/Cerecinos_de_Campos"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "role": "narrow band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Cerecinos de Campos arms — Maltese cross on red and bezants on blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "crown and bezants of the arms"
+    }
+  ]
+}

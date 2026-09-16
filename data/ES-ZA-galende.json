@@ -1,0 +1,50 @@
+{
+  "id": "ES-ZA-galende",
+  "name": "Galende (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1646379",
+    "ine": "49085"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with a yellow cross edged red offset towards the hoist.",
+  "history": "Municipal flag of Galende; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Galende_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1646379",
+    "https://es.wikipedia.org/wiki/Galende"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "cross": "yellow",
+      "position": "hoist",
+      "field": "blue",
+      "role": "cross edged red with its vertical arm towards the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "edges of the cross"
+    }
+  ]
+}

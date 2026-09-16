@@ -1,0 +1,62 @@
+{
+  "id": "ES-ZA-benegiles",
+  "name": "Benegiles (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1650421",
+    "ine": "49022"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal tricolour of red, blue and red, the blue edged white and the red stripes each charged with five yellow ears of wheat.",
+  "history": "The flag is rectangular, of proportions 2:3, formed of three equal horizontal stripes, the outer ones red with five yellow ears of wheat and the central one blue fimbriated white.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Benegiles.svg",
+    "https://www.wikidata.org/wiki/Q1650421",
+    "https://es.wikipedia.org/wiki/Benegiles"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "edges of the blue stripe"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "top",
+      "count": 10,
+      "role": "five ears of wheat on each red stripe"
+    }
+  ]
+}

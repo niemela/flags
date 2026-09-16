@@ -1,0 +1,56 @@
+{
+  "id": "ES-ZA-robleda-cervantes",
+  "name": "Robleda-Cervantes (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1752418",
+    "ine": "49179"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, white above with two green oaks and red below with a white stag.",
+  "history": "Municipal flag of Robleda-Cervantes; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Robleda-Cervantes.svg",
+    "https://www.wikidata.org/wiki/Q1752418",
+    "https://es.wikipedia.org/wiki/Robleda-Cervantes"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "canton",
+      "count": 2,
+      "role": "two oaks at the upper hoist"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "fly",
+      "role": "stag at the lower fly"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ES-ZA-barcial-del-barco",
+  "name": "Barcial del Barco (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1766466",
+    "ine": "49019"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Green field with two broad blue wavy stripes edged yellow.",
+  "history": "Municipal flag of Barcial del Barco; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_Barcial_de_Barco.svg",
+    "https://www.wikidata.org/wiki/Q1766466",
+    "https://es.wikipedia.org/wiki/Barcial_del_Barco"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "count": 2,
+      "role": "two broad wavy stripes edged yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "edges of the wavy stripes"
+    }
+  ]
+}

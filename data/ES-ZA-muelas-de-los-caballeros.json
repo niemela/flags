@@ -1,0 +1,67 @@
+{
+  "id": "ES-ZA-muelas-de-los-caballeros",
+  "name": "Muelas de los Caballeros (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q1769056",
+    "ine": "49134"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field with a blue triangle from the lower hoist to the middle of the upper edge and a red triangle from the lower hoist to the middle of the fly, charged with a green cypress.",
+  "history": "The heraldic arms and the flag were officially approved on 23 September 2004 and published in the Boletín Oficial de Castilla y León of 21 October 2004; the flag is rectangular, of proportions 2:3, formed of a blue triangle with its vertices at the lower end of the hoist and the midpoint of the upper edge, a red triangle with its vertices at the lower end of the hoist and the midpoint of the fly, the rest white with a green tree.",
+  "periods": [
+    {
+      "start": "2004-09-23"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Muelas_de_los_Caballeros.svg",
+    "https://www.wikidata.org/wiki/Q1769056",
+    "https://es.wikipedia.org/wiki/Muelas_de_los_Caballeros"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "triangle from the lower hoist corner to the middle of the upper edge"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "bottom",
+      "role": "triangle from the lower hoist corner to the middle of the fly"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "cypress on the white"
+    }
+  ]
+}

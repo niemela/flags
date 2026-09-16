@@ -1,0 +1,69 @@
+{
+  "id": "ES-ZA-peleas-de-abajo",
+  "name": "Peleas de Abajo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q539343",
+    "ine": "49148"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A red triangle from the hoist to the middle of the fly bearing a white Maltese cross, with a yellow triangle above and a dark blue triangle below.",
+  "history": "The arms and municipal flag were approved by the full council of Peleas de Abajo in its session of 3 July 2002 and published in the Boletín Oficial de Castilla y León of 30 November 2004; the flag is rectangular, of proportions 2:3, formed of a red triangle with its vertices at the ends of the hoist and the midpoint of the fly, with a white cross of Saint John, the upper triangle yellow and the lower blue.",
+  "periods": [
+    {
+      "start": "2002-07-03"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Peleas_de_Abajo.svg",
+    "https://www.wikidata.org/wiki/Q539343",
+    "https://es.wikipedia.org/wiki/Peleas_de_Abajo"
+  ],
+  "features": [
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "triangle with its base at the hoist and its apex at the middle of the fly"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "hoist",
+      "role": "cross of Saint John on the red triangle"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "top",
+      "role": "upper triangle"
+    },
+    {
+      "type": "triangle",
+      "color": "navy",
+      "position": "bottom",
+      "role": "lower triangle"
+    }
+  ]
+}

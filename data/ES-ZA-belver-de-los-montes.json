@@ -1,0 +1,63 @@
+{
+  "id": "ES-ZA-belver-de-los-montes",
+  "name": "Belver de los Montes (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CL",
+  "codes": {
+    "wikidata": "Q766254",
+    "ine": "49020"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided by a blue diagonal band edged white from the lower hoist to the upper fly, green at the hoist and red at the fly.",
+  "history": "The governing committee of the Diputación of Zamora, in ordinary session on 28 January 1998, agreed to approve the heraldic arms and flag of the municipality of Belver de los Montes; the flag is rectangular, of proportions 2:3, formed of a diagonal stripe from the lower hoist corner to the upper fly corner, blue fimbriated white, the hoist triangle green and the fly triangle red.",
+  "periods": [
+    {
+      "start": "1998-01-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Belver_de_los_Montes_Spain.svg",
+    "https://www.wikidata.org/wiki/Q766254",
+    "https://es.wikipedia.org/wiki/Belver_de_los_Montes"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "role": "band edged white from the lower hoist to the upper fly"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "edges of the band"
+    }
+  ]
+}
