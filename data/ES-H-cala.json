@@ -1,0 +1,76 @@
+{
+  "id": "ES-H-cala",
+  "name": "Cala (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-H",
+  "codes": {
+    "wikidata": "Q913228",
+    "ine": "21016"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A blue hoist stripe and a fly of five horizontal stripes of yellow, white, yellow, white and yellow, charged at the centre with the crowned municipal arms of Cala (a castle, a fish and a jug on blue).",
+  "history": "Municipal flag of Cala; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Cala_Spain.svg",
+    "https://www.wikidata.org/wiki/Q913228",
+    "https://es.wikipedia.org/wiki/Cala_(Huelva)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        5
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "white",
+        "yellow",
+        "white",
+        "yellow"
+      ],
+      "count": 5,
+      "position": "fly",
+      "role": "five horizontal stripes at the fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Cala arms — castle, fish and jug on blue"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "cap of the crown of the arms"
+    }
+  ]
+}

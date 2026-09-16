@@ -1,0 +1,83 @@
+{
+  "id": "ES-H-cartaya",
+  "name": "Cartaya (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-H",
+  "codes": {
+    "wikidata": "Q846156",
+    "ine": "21021"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Red field with six stripes along the lower edge, three white and three blue, charged at the centre with the crowned municipal arms of Cartaya (a castle above waves between two mace-bearers).",
+  "history": "The arms of Cartaya were approved by decree on 21 July 1972; the flag was approved by the municipal council on 10 August 1998 and is red with six stripes at the bottom, three white and three blue.",
+  "periods": [
+    {
+      "start": "1998-08-10"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cartaya.svg",
+    "https://www.wikidata.org/wiki/Q846156",
+    "https://es.wikipedia.org/wiki/Cartaya"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 6,
+      "position": "bottom",
+      "role": "six stripes along the lower edge"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Cartaya arms — castle above waves between two mace-bearers"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle and crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "green of the arms"
+    }
+  ]
+}

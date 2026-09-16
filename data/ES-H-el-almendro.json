@@ -1,0 +1,72 @@
+{
+  "id": "ES-H-el-almendro",
+  "name": "El Almendro (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-H",
+  "codes": {
+    "wikidata": "Q1635937",
+    "ine": "21003"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Divided by a broad white band from the lower hoist to the upper fly, blue at the upper hoist and green at the lower fly, charged at the centre with the crowned municipal arms of El Almendro (an almond tree on white).",
+  "history": "Municipal flag of El Almendro; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_El_Almendro_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1635937",
+    "https://es.wikipedia.org/wiki/El_Almendro"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "broad band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "El Almendro arms — almond tree on white"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "ground of the arms"
+    }
+  ]
+}
