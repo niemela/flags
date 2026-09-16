@@ -1,0 +1,55 @@
+{
+  "id": "ES-CC-marchagaz",
+  "name": "Marchagaz (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CC",
+  "codes": {
+    "wikidata": "Q1643628",
+    "ine": "10117"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field with a red cross set towards the hoist and a green stripe along the lower edge.",
+  "history": "Municipal flag of Marchagaz; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Marchagaz_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1643628",
+    "https://es.wikipedia.org/wiki/Marchagaz"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        3,
+        1
+      ]
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "hoist",
+      "role": "cross throughout on the white, set towards the hoist"
+    }
+  ]
+}

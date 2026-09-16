@@ -1,0 +1,67 @@
+{
+  "id": "ES-CC-gata",
+  "name": "Gata (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CC",
+  "codes": {
+    "wikidata": "Q1645238",
+    "ine": "10084"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Divided by a red diagonal band inscribed MUY NOBLE · GATA · MUY LEAL from the upper hoist to the lower fly, yellow below with a brown cat and white above with a green cross of Alcántara.",
+  "history": "Municipal flag of Gata; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Gata_(Cáceres).svg",
+    "https://www.wikidata.org/wiki/Q1645238",
+    "https://es.wikipedia.org/wiki/Gata_(Cáceres)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "yellow",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "role": "band inscribed MUY NOBLE · GATA · MUY LEAL from the upper hoist to the lower fly"
+    },
+    {
+      "type": "animal-other",
+      "color": "orange",
+      "position": "hoist",
+      "role": "cat (gata), the canting figure"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "green",
+      "position": "fly",
+      "role": "cross of Alcántara"
+    }
+  ]
+}

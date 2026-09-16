@@ -1,0 +1,57 @@
+{
+  "id": "ES-CC-rosalejo",
+  "name": "Rosalejo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CC",
+  "codes": {
+    "wikidata": "Q866868",
+    "ine": "10901"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Horizontally divided white over green by blue and white wavy stripes, charged at the centre with the crowned municipal arms of Rosalejo (roses on white above waves).",
+  "history": "Municipal flag of Rosalejo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Rosalejo_(Cáceres).svg",
+    "https://www.wikidata.org/wiki/Q866868",
+    "https://es.wikipedia.org/wiki/Rosalejo"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "count": 2,
+      "role": "wavy stripes between the white and the green"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Rosalejo arms — roses above waves"
+    }
+  ]
+}

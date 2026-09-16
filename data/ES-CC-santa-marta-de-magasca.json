@@ -1,0 +1,61 @@
+{
+  "id": "ES-CC-santa-marta-de-magasca",
+  "name": "Santa Marta de Magasca (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CC",
+  "codes": {
+    "wikidata": "Q1658734",
+    "ine": "10168"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A white hoist part bearing the crowned municipal arms of Santa Marta de Magasca (crossed keys and a cross on red above waves), separated by a blue and white wavy line from a red fly.",
+  "history": "Municipal flag of Santa Marta de Magasca; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Santa_Marta_de_Magasca.svg",
+    "https://www.wikidata.org/wiki/Q1658734",
+    "https://es.wikipedia.org/wiki/Santa_Marta_de_Magasca"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ],
+      "role": "wavy division"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "hoist",
+      "role": "vertical wavy stripe along the division"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Santa Marta de Magasca arms — crossed keys and cross above waves"
+    }
+  ]
+}

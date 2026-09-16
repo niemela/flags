@@ -1,0 +1,66 @@
+{
+  "id": "ES-CC-huelaga",
+  "name": "Huélaga (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CC",
+  "codes": {
+    "wikidata": "Q1645042",
+    "ine": "10101"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Green field with two thin white stripes each charged with two black rectangles, charged at the centre with the crowned municipal arms of Huélaga (crossed keys and a cross of Alcántara above waves).",
+  "history": "Municipal flag of Huélaga; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Huélaga_(Cáceres).svg",
+    "https://www.wikidata.org/wiki/Q1645042",
+    "https://es.wikipedia.org/wiki/Huélaga"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 5,
+      "widths": [
+        1,
+        0.5,
+        4,
+        0.5,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "two black rectangles on each white stripe"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Huélaga arms — crossed keys and cross of Alcántara above waves"
+    }
+  ]
+}

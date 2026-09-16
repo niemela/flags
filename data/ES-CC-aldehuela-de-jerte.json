@@ -1,0 +1,55 @@
+{
+  "id": "ES-CC-aldehuela-de-jerte",
+  "name": "Aldehuela de Jerte (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CC",
+  "codes": {
+    "wikidata": "Q1646374",
+    "ine": "10016"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided diagonally by two blue wavy bands from the upper hoist to the lower fly, red below and white above, charged at the centre with the crowned municipal arms of Aldehuela de Jerte (a chequy field, a flower and waves).",
+  "history": "Municipal flag of Aldehuela de Jerte; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Aldehuela_del_Jerte.svg",
+    "https://www.wikidata.org/wiki/Q1646374",
+    "https://es.wikipedia.org/wiki/Aldehuela_del_Jerte"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "count": 2,
+      "role": "two wavy bands from the upper hoist to the lower fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Aldehuela de Jerte arms — chequy, flower and waves"
+    }
+  ]
+}

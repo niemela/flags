@@ -1,0 +1,61 @@
+{
+  "id": "ES-CC-valdecanas-de-tajo",
+  "name": "Valdecañas de Tajo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CC",
+  "codes": {
+    "wikidata": "Q1658788",
+    "ine": "10197"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Green field with a white wavy stripe along the lower edge, charged at the centre with the crowned municipal arms of Valdecañas de Tajo (reeds on green above waves).",
+  "history": "Municipal flag of Valdecañas de Tajo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Valdecañas_de_Tajo_(Cáceres).svg",
+    "https://www.wikidata.org/wiki/Q1658788",
+    "https://es.wikipedia.org/wiki/Valdecañas_de_Tajo"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        6,
+        1
+      ],
+      "role": "wavy division"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Valdecañas de Tajo arms — reeds above waves"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "waves of the arms"
+    }
+  ]
+}

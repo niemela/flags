@@ -1,0 +1,69 @@
+{
+  "id": "ES-CC-caceres",
+  "name": "Cáceres (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CC",
+  "codes": {
+    "wikidata": "Q15678",
+    "ine": "10037"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "purple"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Vertically divided red and white, the red charged with a yellow castle and the white with a crowned purple lion rampant, the figures of the arms of Cáceres.",
+  "history": "Municipal flag of Cáceres; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cáceres.svg",
+    "https://www.wikidata.org/wiki/Q15678",
+    "https://es.wikipedia.org/wiki/Cáceres"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle"
+    },
+    {
+      "type": "lion",
+      "color": "purple",
+      "position": "fly",
+      "role": "crowned lion rampant"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "hoist",
+      "role": "outlines of the castle"
+    }
+  ]
+}

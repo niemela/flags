@@ -1,0 +1,58 @@
+{
+  "id": "ES-CC-villa-del-campo",
+  "name": "Villa del Campo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CC",
+  "codes": {
+    "wikidata": "Q956050",
+    "ine": "10207"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Green field with two white horizontal stripes and a white triangle at the hoist bearing the crowned municipal arms of Villa del Campo (a cross of Alcántara and an ear of wheat on white and green).",
+  "history": "Municipal flag of Villa del Campo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villa_del_Campo_(Cáceres).svg",
+    "https://www.wikidata.org/wiki/Q956050",
+    "https://es.wikipedia.org/wiki/Villa_del_Campo"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 2,
+      "position": "center",
+      "role": "two horizontal stripes"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "triangle with its base along the hoist"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Villa del Campo arms — cross of Alcántara and ear of wheat"
+    }
+  ]
+}

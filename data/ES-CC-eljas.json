@@ -1,0 +1,54 @@
+{
+  "id": "ES-CC-eljas",
+  "name": "Eljas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CC",
+  "codes": {
+    "wikidata": "Q1613259",
+    "ine": "10072"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided by a broad white diagonal band from the lower hoist to the upper fly, red at the upper hoist and green at the lower fly, charged at the centre with the crowned municipal arms of Eljas (a cross of Alcántara, a lizard and a castle on green and white).",
+  "history": "Municipal flag of Eljas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Eljas_(Cáceres).svg",
+    "https://www.wikidata.org/wiki/Q1613259",
+    "https://es.wikipedia.org/wiki/Eljas"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "broad band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Eljas arms — cross of Alcántara, lizard and castle"
+    }
+  ]
+}
