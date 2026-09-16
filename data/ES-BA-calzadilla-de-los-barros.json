@@ -1,0 +1,64 @@
+{
+  "id": "ES-BA-calzadilla-de-los-barros",
+  "name": "Calzadilla de los Barros (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BA",
+  "codes": {
+    "wikidata": "Q1157668",
+    "ine": "06027"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field with a white diagonal band edged green from the upper hoist to the lower fly, a red cross of Saint James between two red scallops in the fly triangle and a red lion rampant in the hoist triangle.",
+  "history": "The flag was adopted officially by order of 26 November 1999 published in the Diario Oficial de Extremadura; it is a rectangular flag of 2:3 formed of a white cloth with a white diagonal band edged green from the upper hoist corner to the lower fly, with a red cross of Saint James between two red scallops in the fly triangle and a red lion rampant in the hoist triangle, reproducing the arms adopted on 23 October 1998.",
+  "periods": [
+    {
+      "start": "1999-11-26"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Calzadilla_de_los_Barros.svg",
+    "https://www.wikidata.org/wiki/Q1157668",
+    "https://es.wikipedia.org/wiki/Calzadilla_de_los_Barros"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "green",
+      "position": "center",
+      "role": "white bend edged green from the upper hoist to the lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "fly",
+      "role": "cross of Saint James between two scallops"
+    },
+    {
+      "type": "lion",
+      "color": "red",
+      "position": "hoist",
+      "role": "lion rampant"
+    }
+  ]
+}

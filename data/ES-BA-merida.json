@@ -1,0 +1,62 @@
+{
+  "id": "ES-BA-merida",
+  "name": "Mérida (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-BA",
+  "codes": {
+    "wikidata": "Q14323",
+    "ine": "06083"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Red field charged at the centre with the yellow Roman gate of the city from the arms of Mérida, a wall with two arched gates between two round towers beneath a crenellated arch.",
+  "history": "The symbols of the city of Mérida are the flag and the arms, blazoned as gules, the Roman gate of the city or: a wall with T-shaped merlons and two arched open gates between two tall round crenellated towers, behind which sits an arch crowned with seven merlons.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Mérida.svg",
+    "https://www.wikidata.org/wiki/Q14323",
+    "https://es.wikipedia.org/wiki/Mérida_(España)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "Roman gate of the city: wall with two arched gates between two round towers beneath a crenellated arch"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "openings of the gate"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "shading of the masonry"
+    }
+  ]
+}
