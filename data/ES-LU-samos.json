@@ -1,0 +1,68 @@
+{
+  "id": "ES-LU-samos",
+  "name": "Samos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LU",
+  "codes": {
+    "wikidata": "Q917876",
+    "ine": "27055"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertical tricolour of green, white and light blue, the white charged with a green disc bearing a yellow cross patty between four scallop shells.",
+  "history": "Municipal flag of Samos; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Samos,_Galicia.svg",
+    "https://www.wikidata.org/wiki/Q917876",
+    "https://es.wikipedia.org/wiki/Samos_(Lugo)",
+    "https://gl.wikipedia.org/wiki/Samos"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "disc",
+      "color": "green",
+      "position": "center"
+    },
+    {
+      "type": "greek-cross",
+      "color": "yellow",
+      "position": "center",
+      "role": "cross patty on the disc"
+    },
+    {
+      "type": "shell",
+      "color": "yellow",
+      "position": "center",
+      "count": 4,
+      "role": "four scallop shells around the cross"
+    }
+  ]
+}

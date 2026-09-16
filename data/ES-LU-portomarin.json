@@ -1,0 +1,57 @@
+{
+  "id": "ES-LU-portomarin",
+  "name": "Portomarín (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LU",
+  "codes": {
+    "wikidata": "Q849319",
+    "ine": "27049"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with a white Maltese cross towards the hoist and a yellow stripe at the fly with a dancetty (zigzag) edge.",
+  "history": "Municipal flag of Portomarín; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Portomarín.svg",
+    "https://www.wikidata.org/wiki/Q849319",
+    "https://es.wikipedia.org/wiki/Puertomarín",
+    "https://gl.wikipedia.org/wiki/Portomarín"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "hoist",
+      "role": "Maltese cross"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "stripe along the fly with a zigzag inner edge"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "ES-LU-baralla",
+  "name": "Baralla (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LU",
+  "codes": {
+    "wikidata": "Q1633465",
+    "ine": "27901"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Blue field charged at the centre with a yellow cauldron between four white towers, one in each corner.",
+  "history": "Municipal flag of Baralla; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Baralla.svg",
+    "https://www.wikidata.org/wiki/Q1633465",
+    "https://es.wikipedia.org/wiki/Baralla",
+    "https://gl.wikipedia.org/wiki/Baralla"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "cauldron at the centre"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "count": 4,
+      "role": "four towers, one in each corner"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "outlines of the charges"
+    }
+  ]
+}

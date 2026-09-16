@@ -1,0 +1,68 @@
+{
+  "id": "ES-LU-alfoz-do-castrodouro",
+  "name": "Alfoz do Castrodouro (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LU",
+  "codes": {
+    "wikidata": "Q1633648",
+    "ine": "27002"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "Vertically divided, the hoist chequy of yellow and vair (white and light blue) and the fly light green with a white castle.",
+  "history": "Municipal flag of Alfoz do Castrodouro; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Alfoz.svg",
+    "https://www.wikidata.org/wiki/Q1633648",
+    "https://es.wikipedia.org/wiki/Alfoz_(Lugo)",
+    "https://gl.wikipedia.org/wiki/Alfoz_do_Castrodouro"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "chequy",
+      "field": "yellow",
+      "chequy": "white",
+      "position": "hoist",
+      "role": "chequy of yellow and vair at the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "light-blue",
+      "position": "hoist",
+      "role": "vair pattern in the chequy"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "fly",
+      "role": "castle"
+    }
+  ]
+}

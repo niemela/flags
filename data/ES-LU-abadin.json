@@ -1,0 +1,52 @@
+{
+  "id": "ES-LU-abadin",
+  "name": "Abadín (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LU",
+  "codes": {
+    "wikidata": "Q304757",
+    "ine": "27001"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field charged at the centre with a yellow castle between two yellow fleurs-de-lis.",
+  "history": "Municipal flag of Abadín; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Abadín.svg",
+    "https://www.wikidata.org/wiki/Q304757",
+    "https://es.wikipedia.org/wiki/Abadín",
+    "https://gl.wikipedia.org/wiki/Abadín"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle with three towers"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "two fleurs-de-lis flanking the castle"
+    }
+  ]
+}

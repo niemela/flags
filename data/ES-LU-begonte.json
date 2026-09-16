@@ -1,0 +1,76 @@
+{
+  "id": "ES-LU-begonte",
+  "name": "Begonte (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LU",
+  "codes": {
+    "wikidata": "Q959803",
+    "ine": "27007"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "maroon"
+    }
+  ],
+  "description": "White field with a vertical stripe chequy of red and yellow at one third from the hoist, the fly charged with a yellow scallop shell between five red towers.",
+  "history": "The arms and flag of Begonte were approved in 2014, published in the Diario Oficial de Galicia on 20 October 2014; the flag is a white cloth with, at one third from the hoist, a vertical stripe chequy in four rows of red and yellow, and at the fly a shell between five towers.",
+  "periods": [
+    {
+      "start": "2014"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Begonte.svg",
+    "https://www.wikidata.org/wiki/Q959803",
+    "https://es.wikipedia.org/wiki/Begonte",
+    "https://gl.wikipedia.org/wiki/Begonte"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "chequy",
+      "field": "red",
+      "chequy": "yellow",
+      "position": "hoist",
+      "role": "chequy stripe of four rows at one third from the hoist"
+    },
+    {
+      "type": "shell",
+      "color": "yellow",
+      "position": "fly",
+      "role": "scallop shell"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "fly",
+      "count": 5,
+      "role": "five towers around the shell"
+    },
+    {
+      "type": "glyph",
+      "color": "maroon",
+      "position": "fly",
+      "role": "shading of the towers"
+    }
+  ]
+}

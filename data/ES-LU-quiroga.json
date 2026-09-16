@@ -1,0 +1,79 @@
+{
+  "id": "ES-LU-quiroga",
+  "name": "Quiroga (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LU",
+  "codes": {
+    "wikidata": "Q969128",
+    "ine": "27050"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Green field with two narrow white pales at the hoist and two at the fly, charged at the centre with a yellow tower.",
+  "history": "Municipal flag of Quiroga; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Quiroga.svg",
+    "https://www.wikidata.org/wiki/Q969128",
+    "https://es.wikipedia.org/wiki/Quiroga_(Lugo)",
+    "https://gl.wikipedia.org/wiki/Quiroga"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "white"
+      ],
+      "count": 3,
+      "position": "hoist",
+      "role": "two narrow pales at the hoist"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "white"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "two narrow pales at the fly"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "tower"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "outline of the tower"
+    }
+  ]
+}

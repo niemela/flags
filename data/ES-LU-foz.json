@@ -1,0 +1,58 @@
+{
+  "id": "ES-LU-foz",
+  "name": "Foz (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LU",
+  "codes": {
+    "wikidata": "Q917878",
+    "ine": "27019"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field with a blue stripe along the upper edge and a green stripe along the lower edge, charged at the centre with a blue sailing ship.",
+  "history": "Municipal flag of Foz; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Foz.svg",
+    "https://www.wikidata.org/wiki/Q917878",
+    "https://es.wikipedia.org/wiki/Foz",
+    "https://gl.wikipedia.org/wiki/Foz"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "type": "ship",
+      "color": "blue",
+      "position": "center",
+      "role": "three-masted sailing ship"
+    }
+  ]
+}

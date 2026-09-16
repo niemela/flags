@@ -1,0 +1,63 @@
+{
+  "id": "ES-LU-sarria",
+  "name": "Sarria (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LU",
+  "codes": {
+    "wikidata": "Q174833",
+    "ine": "27057"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field with a light blue vertical stripe towards the fly charged with a white tower with red door and windows.",
+  "history": "Municipal flag of Sarria; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Sarria.svg",
+    "https://www.wikidata.org/wiki/Q174833",
+    "https://es.wikipedia.org/wiki/Sarria",
+    "https://gl.wikipedia.org/wiki/Sarria"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "light-blue"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "vertical stripe towards the fly"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "fly",
+      "role": "tower"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "fly",
+      "role": "door and windows of the tower"
+    }
+  ]
+}

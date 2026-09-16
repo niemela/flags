@@ -1,0 +1,66 @@
+{
+  "id": "ES-LU-o-paramo",
+  "name": "O Páramo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LU",
+  "codes": {
+    "wikidata": "Q1617334",
+    "ine": "27043"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertically divided, the hoist blue with two yellow castles one above the other and the fly red with a white Maltese cross.",
+  "history": "Municipal flag of O Páramo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_O_Páramo.svg",
+    "https://www.wikidata.org/wiki/Q1617334",
+    "https://es.wikipedia.org/wiki/Páramo_(Lugo)",
+    "https://gl.wikipedia.org/wiki/O_Páramo"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 2,
+      "role": "two castles one above the other"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "fly",
+      "role": "Maltese cross"
+    }
+  ]
+}

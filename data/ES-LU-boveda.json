@@ -1,0 +1,70 @@
+{
+  "id": "ES-LU-boveda",
+  "name": "Bóveda (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LU",
+  "codes": {
+    "wikidata": "Q1606539",
+    "ine": "27008"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Vertically divided, the hoist blue with three white dice and the fly of wavy vertical stripes of blue and white.",
+  "history": "The arms of Bóveda were approved by the regional government by decree 106/1995 of 31 March, after the report of the Consello Heráldico de Galicia; the flag was approved by the Xunta de Galicia on 9 January 2003.",
+  "periods": [
+    {
+      "start": "2003-01-09"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Bóveda.svg",
+    "https://www.wikidata.org/wiki/Q1606539",
+    "https://es.wikipedia.org/wiki/Bóveda_(Lugo)",
+    "https://gl.wikipedia.org/wiki/Bóveda"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "three dice one above the other at the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "hoist",
+      "role": "pips of the dice"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "fly",
+      "count": 3,
+      "role": "three wavy vertical stripes at the fly"
+    }
+  ]
+}

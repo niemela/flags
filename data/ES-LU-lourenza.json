@@ -1,0 +1,84 @@
+{
+  "id": "ES-LU-lourenza",
+  "name": "Lourenzá (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LU",
+  "codes": {
+    "wikidata": "Q1447358",
+    "ine": "27027"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Green field with a yellow stripe along the fly, charged with a white abbot's crozier with its veil over two yellow ears of wheat in saltire, between two white scallop shells.",
+  "history": "The arms and flag of Lourenzá were approved in 2014, published in the Diario Oficial de Galicia on 20 October 2014; the flag is a green cloth with the crozier and abbatial veil over two yellow ears of wheat in saltire, flanked above by two shells.",
+  "periods": [
+    {
+      "start": "2014"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Lourenzá.svg",
+    "https://www.wikidata.org/wiki/Q1447358",
+    "https://es.wikipedia.org/wiki/Lorenzana_(Lugo)",
+    "https://gl.wikipedia.org/wiki/Lourenzá"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        4,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "abbot's crozier with its veil"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "two ears of wheat in saltire behind the crozier"
+    },
+    {
+      "type": "shell",
+      "color": "white",
+      "position": "top",
+      "count": 2,
+      "role": "two scallop shells flanking the crozier"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "shading of the crozier"
+    }
+  ]
+}

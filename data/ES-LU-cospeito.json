@@ -1,0 +1,80 @@
+{
+  "id": "ES-LU-cospeito",
+  "name": "Cospeito (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LU",
+  "codes": {
+    "wikidata": "Q1445401",
+    "ine": "27015"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Green field charged with two yellow towers with red doors and windows, above four wavy stripes of white and blue along the lower edge.",
+  "history": "The arms of Cospeito were approved officially on 16 June 1995 and the flag on 24 March 2011; the flag is a green cloth with two towers open in red and, in the lower part, four waves of white and blue.",
+  "periods": [
+    {
+      "start": "2011-03-24"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Cospeito.svg",
+    "https://www.wikidata.org/wiki/Q1445401",
+    "https://es.wikipedia.org/wiki/Cospeito",
+    "https://gl.wikipedia.org/wiki/Cospeito"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "two towers side by side"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "doors and windows of the towers"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "bottom",
+      "count": 2,
+      "role": "wavy stripes of white along the lower edge"
+    },
+    {
+      "type": "wave",
+      "color": "navy",
+      "position": "bottom",
+      "count": 2,
+      "role": "wavy stripes of blue along the lower edge"
+    }
+  ]
+}

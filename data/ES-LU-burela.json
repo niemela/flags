@@ -1,0 +1,67 @@
+{
+  "id": "ES-LU-burela",
+  "name": "Burela (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-LU",
+  "codes": {
+    "wikidata": "Q1619456",
+    "ine": "27902"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertically divided dark blue and light blue, the dark blue hoist third charged with a yellow lighthouse beneath a yellow torc.",
+  "history": "Burela adopted its arms and flag officially on 30 May 1996, published in the Diario Oficial de Galicia on 11 June 1996; the flag is parted dark blue and light blue, with the lighthouse and torc of the arms.",
+  "periods": [
+    {
+      "start": "1996-05-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Burela.svg",
+    "https://www.wikidata.org/wiki/Q1619456",
+    "https://es.wikipedia.org/wiki/Burela",
+    "https://gl.wikipedia.org/wiki/Burela"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "navy",
+        "light-blue"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "lighthouse"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "torc above the lighthouse"
+    }
+  ]
+}
