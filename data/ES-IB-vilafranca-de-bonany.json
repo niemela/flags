@@ -1,0 +1,90 @@
+{
+  "id": "ES-IB-vilafranca-de-bonany",
+  "name": "Vilafranca de Bonany (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-IB",
+  "codes": {
+    "wikidata": "Q975679",
+    "ine": "07065"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "purple"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "A dark purple hoist stripe bearing a white silhouette of the town, the fly of the four red bars of Aragon on yellow charged with the arms of Vilafranca de Bonany (a tower on blue above white).",
+  "history": "Municipal flag of Vilafranca de Bonany; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villafranca_de_Bonany_(Islas_Baleares).svg",
+    "https://www.wikidata.org/wiki/Q975679",
+    "https://es.wikipedia.org/wiki/Vilafranca_de_Bonany",
+    "https://ca.wikipedia.org/wiki/Vilafranca_de_Bonany"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "purple",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        3
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "role": "four red bars on yellow (Senyera)",
+      "position": "fly"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "silhouette of the town on the hoist stripe"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "fly",
+      "role": "Vilafranca de Bonany arms — tower on blue above white, inscribed Vilafranca"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "fly",
+      "role": "blue field of the arms"
+    }
+  ]
+}

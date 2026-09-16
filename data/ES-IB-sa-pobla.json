@@ -1,0 +1,73 @@
+{
+  "id": "ES-IB-sa-pobla",
+  "name": "Sa Pobla (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-IB",
+  "codes": {
+    "wikidata": "Q984493",
+    "ine": "07044"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "A hoist stripe of the four red bars of Aragon on yellow, the fly green with a yellow griffin.",
+  "history": "Municipal flag of Sa Pobla; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_La_Puebla_(Islas_Baleares).svg",
+    "https://www.wikidata.org/wiki/Q984493",
+    "https://es.wikipedia.org/wiki/Sa_Pobla",
+    "https://ca.wikipedia.org/wiki/Sa_Pobla"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "role": "four red bars on yellow (Senyera)",
+      "position": "hoist"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "mythical-creature",
+      "color": "yellow",
+      "position": "fly",
+      "role": "griffin rampant"
+    }
+  ]
+}

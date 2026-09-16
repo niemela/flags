@@ -1,0 +1,61 @@
+{
+  "id": "ES-IB-alaior",
+  "name": "Alaior (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-IB",
+  "codes": {
+    "wikidata": "Q847324",
+    "ine": "07002"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "Nine horizontal stripes alternating yellow and light blue, with a yellow saltire over all.",
+  "history": "The flag of Alaior, also called the flag of Barçola, was approved by agreement of the Government of the Balearic Islands of 8 October 1987 and defined as a square flag of eight horizontal stripes of equal width alternating in colour. It reproduces a flag in the possession of the town council since 1944, which is said to have been raised in 1644 by Miquel Barçola i Cardona in the events known as those of s'Olla de ses Coves, defending the town against Barbary pirates; these events have no contemporary historical support, but the resulting flag is in wide popular use in the municipality.",
+  "periods": [
+    {
+      "start": "1987-10-08"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Alayor_(Islas_Baleares).svg",
+    "https://www.wikidata.org/wiki/Q847324",
+    "https://es.wikipedia.org/wiki/Alayor",
+    "https://ca.wikipedia.org/wiki/Alaior"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "light-blue",
+        "yellow",
+        "light-blue",
+        "yellow",
+        "light-blue",
+        "yellow",
+        "light-blue",
+        "yellow"
+      ],
+      "count": 9
+    },
+    {
+      "type": "saltire",
+      "color": "yellow",
+      "position": "center",
+      "role": "saltire over the stripes"
+    }
+  ]
+}

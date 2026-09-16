@@ -1,0 +1,83 @@
+{
+  "id": "ES-IB-sencelles",
+  "name": "Sencelles (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-IB",
+  "codes": {
+    "wikidata": "Q987394",
+    "ine": "07047"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A red hoist stripe bearing the arms of Sencelles (a saint's figure on brown within a wreath), the fly of the four red bars of Aragon on yellow.",
+  "history": "Municipal flag of Sencelles; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Sancellas_(Islas_Baleares).svg",
+    "https://www.wikidata.org/wiki/Q987394",
+    "https://es.wikipedia.org/wiki/Sencelles",
+    "https://ca.wikipedia.org/wiki/Sencelles"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "role": "four red bars on yellow (Senyera)",
+      "position": "fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Sencelles arms — saint's figure on brown within a wreath"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "hoist",
+      "role": "brown field of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "hoist",
+      "role": "wreath of the arms"
+    }
+  ]
+}

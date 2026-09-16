@@ -1,0 +1,71 @@
+{
+  "id": "ES-IB-sant-joan",
+  "name": "Sant Joan (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-IB",
+  "codes": {
+    "wikidata": "Q692920",
+    "ine": "07049"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with a red horizontal stripe across the centre, charged with the arms of Sant Joan (a lamb with a banner on blue within a yellow cartouche).",
+  "history": "Municipal flag of Sant Joan; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_San_Juan_(Islas_Baleares).svg",
+    "https://www.wikidata.org/wiki/Q692920",
+    "https://es.wikipedia.org/wiki/San_Juan_(Baleares)",
+    "https://ca.wikipedia.org/wiki/Sant_Joan_(Mallorca)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "horizontal stripe across the centre"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Sant Joan arms — lamb with a banner on blue within a cartouche"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "cartouche of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "blue field of the arms"
+    }
+  ]
+}

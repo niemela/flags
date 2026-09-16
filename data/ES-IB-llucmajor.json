@@ -1,0 +1,91 @@
+{
+  "id": "ES-IB-llucmajor",
+  "name": "Llucmajor (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-IB",
+  "codes": {
+    "wikidata": "Q927498",
+    "ine": "07031"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "A white hoist stripe bearing an arm in a blue sleeve holding a burning torch, the fly of the four red bars of Aragon on yellow.",
+  "history": "Municipal flag of Llucmajor; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Lluchmayor_(Islas_Baleares).svg",
+    "https://www.wikidata.org/wiki/Q927498",
+    "https://es.wikipedia.org/wiki/Llucmajor",
+    "https://ca.wikipedia.org/wiki/Llucmajor"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "role": "four red bars on yellow (Senyera)",
+      "position": "fly"
+    },
+    {
+      "type": "human-figure",
+      "color": "blue",
+      "position": "hoist",
+      "role": "arm in a blue sleeve holding a burning torch"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "hoist",
+      "role": "torch"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "flame of the torch"
+    }
+  ]
+}

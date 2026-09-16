@@ -1,0 +1,76 @@
+{
+  "id": "ES-IB-palma",
+  "name": "Palma (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-IB",
+  "codes": {
+    "wikidata": "Q8826",
+    "ine": "07040"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "purple"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A dark purple hoist stripe bearing a white castle above the sea, the fly of the four red bars of Aragon on yellow.",
+  "history": "Municipal flag of Palma; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Mallorca.svg",
+    "https://www.wikidata.org/wiki/Q8826",
+    "https://es.wikipedia.org/wiki/Palma_de_Mallorca",
+    "https://ca.wikipedia.org/wiki/Palma"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "purple",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "role": "four red bars on yellow (Senyera)",
+      "position": "fly"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "castle on the sea"
+    }
+  ]
+}

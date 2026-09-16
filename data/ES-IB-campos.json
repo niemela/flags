@@ -1,0 +1,62 @@
+{
+  "id": "ES-IB-campos",
+  "name": "Campos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-IB",
+  "codes": {
+    "wikidata": "Q743716",
+    "ine": "07013"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "Quartered, the first and fourth of the four red bars of Aragon on yellow and the second and third dark red, charged at the centre with a grey shield bearing a dark red bear.",
+  "history": "The arms are used on the flag of the town without ornaments, showing only the bear on the grey ground; the flag is divided into quarters.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Campos.svg",
+    "https://www.wikidata.org/wiki/Q743716",
+    "https://es.wikipedia.org/wiki/Campos_(Baleares)",
+    "https://ca.wikipedia.org/wiki/Campos"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "yellow",
+        "maroon",
+        "maroon",
+        "yellow"
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "bars of Aragon in the first and fourth quarters"
+    },
+    {
+      "type": "shield",
+      "color": "grey",
+      "position": "center",
+      "role": "shield bearing a bear rampant"
+    }
+  ]
+}
