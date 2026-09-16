@@ -1,0 +1,61 @@
+{
+  "id": "ES-CO-iznajar",
+  "name": "Iznájar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CO",
+  "codes": {
+    "wikidata": "Q904793",
+    "ine": "14037"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with a green vertical stripe near the hoist and another near the fly, charged at the centre with a white tower.",
+  "history": "Municipal flag of Iznájar; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Iznájar_(Córdoba).svg",
+    "https://www.wikidata.org/wiki/Q904793",
+    "https://es.wikipedia.org/wiki/Iznájar"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "green",
+        "red",
+        "green",
+        "red"
+      ],
+      "count": 5,
+      "widths": [
+        1,
+        1,
+        6,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "tower"
+    }
+  ]
+}

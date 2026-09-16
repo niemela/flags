@@ -1,0 +1,75 @@
+{
+  "id": "ES-CO-montemayor",
+  "name": "Montemayor (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CO",
+  "codes": {
+    "wikidata": "Q1606495",
+    "ine": "14041"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "pink"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Red field with white and blue stripes along the lower edge, charged at the centre with a white castle bearing a shield of the four bars.",
+  "history": "Municipal flag of Montemayor; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Montemayor.svg",
+    "https://www.wikidata.org/wiki/Q1606495",
+    "https://es.wikipedia.org/wiki/Montemayor"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "count": 3,
+      "widths": [
+        5,
+        0.6,
+        0.6
+      ]
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "castle with a small shield of the four bars"
+    },
+    {
+      "type": "glyph",
+      "color": "pink",
+      "position": "center",
+      "role": "shading of the castle"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "openings of the castle"
+    }
+  ]
+}

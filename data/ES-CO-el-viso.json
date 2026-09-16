@@ -1,0 +1,74 @@
+{
+  "id": "ES-CO-el-viso",
+  "name": "El Viso (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CO",
+  "codes": {
+    "wikidata": "Q879483",
+    "ine": "14074"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "purple"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, light blue above and white below, charged with a white and red belfry, a yellow star and purple hills.",
+  "history": "Municipal flag of El Viso; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_El_Viso_(Córdoba).svg",
+    "https://www.wikidata.org/wiki/Q879483",
+    "https://es.wikipedia.org/wiki/El_Viso"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "light-blue",
+      "bend": "white",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "belfry outlined red"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "outlines of the belfry"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "mountain",
+      "color": "purple",
+      "position": "bottom",
+      "role": "stylised hills"
+    }
+  ]
+}

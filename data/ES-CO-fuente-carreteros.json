@@ -1,0 +1,56 @@
+{
+  "id": "ES-CO-fuente-carreteros",
+  "name": "Fuente Carreteros (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CO",
+  "codes": {
+    "wikidata": "Q576030",
+    "ine": "14901"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, green above with the crowned municipal arms of Fuente Carreteros (a saint and a cart on white) in the upper hoist and white below with five red stars in the lower fly.",
+  "history": "Municipal flag of Fuente Carreteros; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Fuente_Carreteros_(Córdoba).svg",
+    "https://www.wikidata.org/wiki/Q576030",
+    "https://es.wikipedia.org/wiki/Fuente_Carreteros"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "white",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Fuente Carreteros arms — saint and cart"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "red",
+      "position": "fly",
+      "role": "five stars in a ring"
+    }
+  ]
+}

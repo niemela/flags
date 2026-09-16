@@ -1,0 +1,72 @@
+{
+  "id": "ES-CO-pedroche",
+  "name": "Pedroche (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CO",
+  "codes": {
+    "wikidata": "Q1447333",
+    "ine": "14051"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Red field with a yellow embattled wall along the lower edge surmounted by a yellow castle, between six white eight-pointed stars.",
+  "history": "Municipal flag of Pedroche; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Pedroche.svg",
+    "https://www.wikidata.org/wiki/Q1447333",
+    "https://es.wikipedia.org/wiki/Pedroche"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle on an embattled wall along the lower edge"
+    },
+    {
+      "type": "star",
+      "count": 6,
+      "points": 8,
+      "color": "white",
+      "position": "top"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "shading of the masonry"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "outlines of the masonry"
+    }
+  ]
+}

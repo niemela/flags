@@ -1,0 +1,54 @@
+{
+  "id": "ES-CO-moriles",
+  "name": "Moriles (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CO",
+  "codes": {
+    "wikidata": "Q1406673",
+    "ine": "14045"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, yellow above and green below, charged at the centre with the crowned municipal arms of Moriles (a bunch of grapes on blue beneath the four bars, dated AÑO MCMXII).",
+  "history": "Municipal flag of Moriles; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Moriles_(Córdoba).svg",
+    "https://www.wikidata.org/wiki/Q1406673",
+    "https://es.wikipedia.org/wiki/Moriles"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "green",
+      "direction": "bend"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Moriles arms — bunch of grapes beneath the four bars, dated 1912"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "frame of the arms"
+    }
+  ]
+}

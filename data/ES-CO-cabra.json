@@ -1,0 +1,82 @@
+{
+  "id": "ES-CO-cabra",
+  "name": "Cabra (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CO",
+  "codes": {
+    "wikidata": "Q927931",
+    "ine": "14013"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Square flag, the hoist half a pattern of triangles of green, red, yellow and white, the fly half divided horizontally red over white and green, charged with the crowned arms of Cabra (a goat on red with the motto MUY ILUSTRE Y LEAL CIUDAD DE CABRA).",
+  "history": "The colours of the flag are taken from the arms; the arrangement in triangles is inspired by the flag used in the pilgrimages of the Virgen de la Sierra, patron of the town. Before and during the Second Spanish Republic the flag of Cabra was divided into three horizontal stripes, blue, purple and blue.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cabra_(Córdoba).svg",
+    "https://www.wikidata.org/wiki/Q927931",
+    "https://es.wikipedia.org/wiki/Cabra_(Córdoba)",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Cabra"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "hoist",
+      "role": "pattern of triangles in green, red, yellow and white on the hoist half"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "red triangles and upper fly stripe"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "position": "fly",
+      "widths": [
+        1,
+        2,
+        1
+      ],
+      "role": "fly divided red, white and green"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "fly",
+      "role": "Cabra arms — goat on red, inscribed"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ES-CO-villafranca-de-cordoba",
+  "name": "Villafranca de Córdoba (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-CO",
+  "codes": {
+    "wikidata": "Q546596",
+    "ine": "14067"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Vertically divided by an indented line, red at the hoist with three white roundels in pale and white at the fly with two red sickles in pale.",
+  "history": "Municipal flag of Villafranca de Córdoba; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Villafranca_de_Córdoba.svg",
+    "https://www.wikidata.org/wiki/Q546596",
+    "https://es.wikipedia.org/wiki/Villafranca_de_Córdoba"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "role": "indented division"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "hoist",
+      "count": 3,
+      "role": "three roundels in pale"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "fly",
+      "role": "two sickles in pale"
+    }
+  ]
+}
