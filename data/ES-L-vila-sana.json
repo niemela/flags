@@ -1,0 +1,76 @@
+{
+  "id": "ES-L-vila-sana",
+  "name": "Vila-sana (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-L",
+  "codes": {
+    "wikidata": "Q12145",
+    "ine": "25252"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A dark green hoist third bearing a white flaming sword point upward, the fly yellow with three black zigzag (dancetty) stripes.",
+  "history": "The official flag of Vila-sana is oblong, of proportions two high by three long, yellow, with three black viperate fesses, each of four points above and three below, and the first vertical third dark green with the white flaming sword with its point upward; approved on 13 September 2007 and published in the DOGC on 27 September 2007.",
+  "periods": [
+    {
+      "start": "2007-09-13"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Vila-sana.svg",
+    "https://www.wikidata.org/wiki/Q12145",
+    "https://es.wikipedia.org/wiki/Vilasana",
+    "https://ca.wikipedia.org/wiki/Vila-sana",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Vila-sana"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "flaming sword with its point upward on the green"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "black",
+        "black"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "three viperate (dancetty) stripes, each of four points above and three below"
+    }
+  ]
+}

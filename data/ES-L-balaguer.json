@@ -1,0 +1,60 @@
+{
+  "id": "ES-L-balaguer",
+  "name": "Balaguer (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-L",
+  "codes": {
+    "wikidata": "Q696797",
+    "ine": "25040"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided per saltire, the hoist and fly triangles chequy of white and black and the upper and lower triangles of the four red bars of Aragon on yellow.",
+  "history": "Municipal flag of Balaguer; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Balaguer.svg",
+    "https://www.wikidata.org/wiki/Q696797",
+    "https://es.wikipedia.org/wiki/Balaguer",
+    "https://ca.wikipedia.org/wiki/Balaguer"
+  ],
+  "features": [
+    {
+      "type": "chequy",
+      "field": "white",
+      "chequy": "black",
+      "position": "hoist",
+      "role": "chequy hoist and fly triangles"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "upper and lower triangles bearing the bars of Aragon"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "bars of Aragon in the upper and lower triangles"
+    }
+  ]
+}

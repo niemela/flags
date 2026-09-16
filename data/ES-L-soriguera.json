@@ -1,0 +1,57 @@
+{
+  "id": "ES-L-soriguera",
+  "name": "Soriguera (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-L",
+  "codes": {
+    "wikidata": "Q12687",
+    "ine": "25208"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided by a blue wavy band from the lower hoist to the upper fly, white above with a blue falcon and green below.",
+  "history": "The official flag of Soriguera is oblong, of proportions two high by three long, divided per bend sinister by a blue wavy bend sinister of three waves and width 1/6 of the height of the flag.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Soriguera.svg",
+    "https://www.wikidata.org/wiki/Q12687",
+    "https://es.wikipedia.org/wiki/Soriguera",
+    "https://ca.wikipedia.org/wiki/Soriguera",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Soriguera"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "role": "wavy band of three waves from the lower hoist to the upper fly"
+    },
+    {
+      "type": "bird",
+      "color": "blue",
+      "position": "canton",
+      "role": "falcon (soriguer) at the upper hoist"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 27 18"
+   version="1.0">
+  <title>Bandera de Sant Guim de la Plana</title>
+  <desc>Bandera apaïsada, de proporcions dos d'alt per tres de llarg, groga, amb vuit discs negres, cadascun de diàmetre 1/9 de l'alçària del drap, un al mig i els altres set equidistants l'un de l'altre al voltant del del mig, aquest situat a una distància d'1/9, de la mateixa alçària, de cadascun dels que l'envolten, tot el conjunt posat a 1/18 de la vora superior i a 1/27 de la de l'asta.</desc>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Bandera de Sant Guim de la Plana</dc:title>
+        <dc:date>2023-10-07</dc:date>
+        <dc:creator rdf:resource="http://commons.wikimedia.org/wiki/User:Glrx" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs>
+    <g id="sun">
+      <desc>The disks have a diameter of 1/9 the height</desc>
+      <circle r="1" fill="black" />
+    </g>
+    <g id="planet">
+      <desc>The disks are separated by 1/9 the height. That would make them touch. Make it 1/9 center to edge.</desc>
+      <circle cx="0" cy="-3" r="1" fill="black"/>
+    </g>
+    <g id="constellation">
+      <use xlink:href="#sun" />
+      <!-- there are 7 planets: 360/7 = 51.43 -->
+      <use xlink:href="#planet" transform="rotate(0)" />
+      <use xlink:href="#planet" transform="rotate(+51.43)" />
+      <use xlink:href="#planet" transform="rotate(+102.86)" />
+      <use xlink:href="#planet" transform="rotate(+154.29)" />
+      <use xlink:href="#planet" transform="rotate(-51.43)" />
+      <use xlink:href="#planet" transform="rotate(-102.86)" />
+      <use xlink:href="#planet" transform="rotate(-154.29)" />
+    </g>
+  </defs>
+
+  <rect fill="#fcdd09" width="100%" height="100%"/>
+  <!-- top of disks should be 1/18 height from top. Left edge should be 1/27 width, but ignore the cosine error of 12.86 degrees. -->
+  <use xlink:href="#constellation" x="5" y="5" />
+  <g display="none">
+    <line x1="0" x2="100%" y1="1" y2="1" stroke="blue" stroke-width="0.01" />
+    <line y1="0" y2="100%" x1="1" x2="1" stroke="blue" stroke-width="0.01" />
+  </g>
+</svg>

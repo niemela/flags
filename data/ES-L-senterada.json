@@ -1,0 +1,72 @@
+{
+  "id": "ES-L-senterada",
+  "name": "Senterada (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-L",
+  "codes": {
+    "wikidata": "Q18269",
+    "ine": "25202"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "Red field with a square yellow canton bearing a red ram rampant, and three yellow ragged bends sinister on the field.",
+  "history": "The official flag of Senterada is oblong, of proportions two high by three long, red, with a square yellow canton of height 1/2 of the cloth, charged with the red ram rampant collared, belled and hoofed in light blue of height 13/20 of the cloth; approved on 17 March 2006 and published in the DOGC on 3 April 2006. It is based on the heraldic arms of the town.",
+  "periods": [
+    {
+      "start": "2006-03-17"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Senterada.svg",
+    "https://www.wikidata.org/wiki/Q18269",
+    "https://es.wikipedia.org/wiki/Senterada",
+    "https://ca.wikipedia.org/wiki/Senterada",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Senterada"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "canton",
+      "color": "yellow",
+      "role": "square canton of 1/2 of the height"
+    },
+    {
+      "type": "animal-other",
+      "color": "red",
+      "position": "canton",
+      "role": "ram rampant collared, belled and hoofed in light blue on the canton"
+    },
+    {
+      "type": "glyph",
+      "color": "light-blue",
+      "position": "canton",
+      "role": "collar, bell and hooves of the ram"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "fly",
+      "count": 3,
+      "role": "three ragged (raguly) bends sinister"
+    }
+  ]
+}

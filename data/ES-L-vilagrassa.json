@@ -1,0 +1,77 @@
+{
+  "id": "ES-L-vilagrassa",
+  "name": "Vilagrassa (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-L",
+  "codes": {
+    "wikidata": "Q1902157",
+    "ine": "25244"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided per saltire, the upper and lower triangles blue each with five white discs in cross and the hoist and fly triangles of the four red bars of Aragon on yellow.",
+  "history": "The official flag of Vilagrassa is oblong, of proportions two high by three long, quartered per saltire, with the upper and lower triangles blue with five white discs placed in cross, each of diameter 1/12 of the height of the cloth; approved on 1 September 1999 and published in the DOGC on 23 September 1999.",
+  "periods": [
+    {
+      "start": "1999-09-01"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Vilagrassa.svg",
+    "https://www.wikidata.org/wiki/Q1902157",
+    "https://es.wikipedia.org/wiki/Vilagrasa",
+    "https://ca.wikipedia.org/wiki/Vilagrassa",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Vilagrassa"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "top",
+      "count": 5,
+      "role": "five discs in cross in the upper triangle"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "bottom",
+      "count": 5,
+      "role": "five discs in cross in the lower triangle"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "hoist and fly triangles bearing the bars of Aragon"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "bars of Aragon in the hoist and fly triangles"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "ES-L-lladurs",
+  "name": "Lladurs (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-L",
+  "codes": {
+    "wikidata": "Q1900792",
+    "ine": "25124"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with a yellow triangle rising from the lower edge, surmounted by a black castle between two yellow thistles of three flowers.",
+  "history": "The official flag of Lladurs is oblong, of proportions two high by three long, red, with the yellow mount of the arms converted into a triangle at whose upper vertex stands the black castle closed in white of the arms, accompanied by two yellow thistles of three flowers; approved on 16 April 2007 and published in the DOGC on 25 May 2007.",
+  "periods": [
+    {
+      "start": "2007-04-16"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Lladurs.svg",
+    "https://www.wikidata.org/wiki/Q1900792",
+    "https://es.wikipedia.org/wiki/Lladurs",
+    "https://ca.wikipedia.org/wiki/Lladurs",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Lladurs"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "mount converted into a triangle with its apex at the centre"
+    },
+    {
+      "type": "building",
+      "color": "black",
+      "position": "center",
+      "role": "castle at the apex of the triangle, open in white"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "door and windows of the castle"
+    },
+    {
+      "type": "flower",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "two thistles of three flowers flanking the castle"
+    }
+  ]
+}

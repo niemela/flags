@@ -1,0 +1,72 @@
+{
+  "id": "ES-L-el-palau-d-anglesola",
+  "name": "El Palau d'Anglesola (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-L",
+  "codes": {
+    "wikidata": "Q1769556",
+    "ine": "25158"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with a yellow stripe along the fly bearing three black wavy pales, charged towards the hoist with a white castle beneath a white Maltese cross.",
+  "history": "Municipal flag of El Palau d'Anglesola; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_El_Palau_de_Anglesola_(Lérida).svg",
+    "https://www.wikidata.org/wiki/Q1769556",
+    "https://es.wikipedia.org/wiki/Palau_de_Anglesola",
+    "https://ca.wikipedia.org/wiki/El_Palau_d'Anglesola"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "stripe along the fly bearing three black wavy pales"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "fly",
+      "role": "three wavy pales on the fly stripe"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "castle"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "hoist",
+      "role": "small Maltese cross above the castle"
+    }
+  ]
+}

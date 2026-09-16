@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="540" height="360">
+<defs>
+<g id="cross">
+<circle r="15" fill="#ffffff" id="dot" />
+<use xlink:href="#dot" x="40" />
+<use xlink:href="#dot" y="40" />
+<use xlink:href="#dot" x="-40" />
+<use xlink:href="#dot" y="-40" />
+</g>
+</defs>
+<path d="M0,0h540v360H0z" fill="#fcdd09" />
+<path d="M45,0v360m60,0V0m60,0v360m60,0V0m90,0v360m60,0V0m60,0v360m60,0V0" style="stroke:#da121a; stroke-width:30" />
+<path d="M0,0l540,360H0L540,0z" fill="#0f47af" />
+<use xlink:href="#cross" x="270" y="90" />
+<use xlink:href="#cross" x="270" y="270" />
+</svg>

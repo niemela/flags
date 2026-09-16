@@ -1,0 +1,70 @@
+{
+  "id": "ES-L-olius",
+  "name": "Olius (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-L",
+  "codes": {
+    "wikidata": "Q1901448",
+    "ine": "25151"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Vertical tricolour of red, chequy of yellow and black, and red, with a white crescent surmounted by a fleur-de-lis at the upper hoist.",
+  "history": "The official flag of Olius is oblong, of proportions two high by three long, divided vertically into three equal parts, red the first nearest the hoist, chequy of yellow and black in the centre, and red at the fly; in the upper corner, touching the hoist, the crescent and fleur-de-lis.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Olius_Spain.svg",
+    "https://www.wikidata.org/wiki/Q1901448",
+    "https://es.wikipedia.org/wiki/Olíus",
+    "https://ca.wikipedia.org/wiki/Olius",
+    "https://ca.wikipedia.org/wiki/Bandera_d'Olius"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "chequy",
+      "field": "yellow",
+      "chequy": "black",
+      "position": "center",
+      "role": "chequy middle third"
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "canton",
+      "role": "crescent at the upper hoist corner"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "position": "canton",
+      "role": "fleur-de-lis rising from the crescent"
+    }
+  ]
+}

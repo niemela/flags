@@ -1,0 +1,63 @@
+{
+  "id": "ES-L-almacelles",
+  "name": "Almacelles (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-L",
+  "codes": {
+    "wikidata": "Q1626921",
+    "ine": "25019"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "purple"
+    }
+  ],
+  "description": "Dark green field with a white horizontal stripe below the centre, charged towards the hoist with a purple five-pointed spike (pentadàctil).",
+  "history": "The official flag of Almacelles is oblong, of proportions two high by three long, dark green, with a white fess of width 7/38 of the height of the cloth set at 6/19 from the lower edge, and a purple pentadactyl of height 15/19 of the cloth; published in the DOGC on 17 June 2005.",
+  "periods": [
+    {
+      "start": "2005"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_d'Almacelles.svg",
+    "https://www.wikidata.org/wiki/Q1626921",
+    "https://es.wikipedia.org/wiki/Almacellas",
+    "https://ca.wikipedia.org/wiki/Almacelles",
+    "https://ca.wikipedia.org/wiki/Bandera_d'Almacelles"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "horizontal stripe of 7/38 of the height set at 6/19 from the lower edge"
+    },
+    {
+      "type": "glyph",
+      "color": "purple",
+      "position": "hoist",
+      "role": "pentadactyl (five-pronged spike) towards the hoist"
+    }
+  ]
+}

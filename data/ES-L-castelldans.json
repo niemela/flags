@@ -1,0 +1,71 @@
+{
+  "id": "ES-L-castelldans",
+  "name": "Castelldans (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-L",
+  "codes": {
+    "wikidata": "Q1770839",
+    "ine": "25067"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Light blue field with the middle vertical third yellow and a white pale at the centre of each outer third.",
+  "history": "The official flag of Castelldans is oblong, of proportions two high by three long, light blue, with the second vertical third yellow and a white pale of width 1/18 of the length of the cloth at the centre of the first and third thirds; approved on 16 November 2001 and published in the DOGC on 5 December 2001; it is based on the arms of the town.",
+  "periods": [
+    {
+      "start": "2001-11-16"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Castelldans.svg",
+    "https://www.wikidata.org/wiki/Q1770839",
+    "https://es.wikipedia.org/wiki/Castelldaséns",
+    "https://ca.wikipedia.org/wiki/Castelldans",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Castelldans"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "light-blue",
+        "yellow",
+        "light-blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "narrow pale at the centre of the hoist third"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "narrow pale at the centre of the fly third"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "ES-L-cervera",
+  "name": "Cervera (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-L",
+  "codes": {
+    "wikidata": "Q847011",
+    "ine": "25072"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided per saltire, the upper and lower triangles red each with a yellow stag and the hoist and fly triangles of the four red bars of Aragon on yellow.",
+  "history": "The official flag of Cervera is oblong, of proportions two high by three long, quartered per saltire, with the upper and lower triangles red, each with the yellow stag of the arms of height 1/3 of the cloth, and the hoist and fly triangles with the bars of Aragon; it was proposed that the flag be divided in an X rather than a cross, with the golden stags on a red ground. Approved on 14 May 2018 and published in the DOGC on 18 May 2018.",
+  "periods": [
+    {
+      "start": "2018-05-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cervera.svg",
+    "https://www.wikidata.org/wiki/Q847011",
+    "https://es.wikipedia.org/wiki/Cervera",
+    "https://ca.wikipedia.org/wiki/Cervera",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Cervera"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "top",
+      "role": "stag in the upper triangle"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "stag in the lower triangle"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "hoist and fly triangles bearing the bars of Aragon"
+    }
+  ]
+}

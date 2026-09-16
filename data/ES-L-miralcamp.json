@@ -1,0 +1,60 @@
+{
+  "id": "ES-L-miralcamp",
+  "name": "Miralcamp (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-L",
+  "codes": {
+    "wikidata": "Q1769676",
+    "ine": "25135"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Yellow field with three black zigzag (dancetty) horizontal stripes, charged at the centre with a white sword point downward.",
+  "history": "The official flag of Miralcamp is oblong, of proportions two high by three long, yellow, with three black viperate (dancetty) stripes perpendicular to the hoist and with nine complete angles; the distance between the stripes, and between them and the upper and lower edges, is always constant.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Miralcamp.svg",
+    "https://www.wikidata.org/wiki/Q1769676",
+    "https://es.wikipedia.org/wiki/Miralcamp",
+    "https://ca.wikipedia.org/wiki/Miralcamp",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Miralcamp"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "black",
+        "black",
+        "black"
+      ],
+      "count": 3,
+      "position": "center",
+      "role": "three dancetty (viperate) stripes with nine complete angles"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "sword with a wavy blade, point downward, at the centre"
+    }
+  ]
+}

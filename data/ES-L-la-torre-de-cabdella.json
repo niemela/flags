@@ -1,0 +1,50 @@
+{
+  "id": "ES-L-la-torre-de-cabdella",
+  "name": "La Torre de Cabdella (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-L",
+  "codes": {
+    "wikidata": "Q18271",
+    "ine": "25227"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, blue above and white below, with a black triangle at the lower fly.",
+  "history": "Municipal flag of La Torre de Cabdella; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_La_Torre_de_Cabdella.svg",
+    "https://www.wikidata.org/wiki/Q18271",
+    "https://es.wikipedia.org/wiki/Torre_de_Capdella",
+    "https://ca.wikipedia.org/wiki/La_Torre_de_Cabdella"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "white",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "triangle",
+      "color": "black",
+      "position": "fly",
+      "role": "triangle at the lower fly corner"
+    }
+  ]
+}

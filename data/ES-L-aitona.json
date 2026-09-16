@@ -1,0 +1,75 @@
+{
+  "id": "ES-L-aitona",
+  "name": "Aitona (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-L",
+  "codes": {
+    "wikidata": "Q1646588",
+    "ine": "25038"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Vertical tricolour of red with eight yellow roundels, dark green with a yellow cockerel, and the four red bars of Aragon on yellow.",
+  "history": "Municipal flag of Aitona; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_d'Aitona.svg",
+    "https://www.wikidata.org/wiki/Q1646588",
+    "https://es.wikipedia.org/wiki/Aitona",
+    "https://ca.wikipedia.org/wiki/Aitona"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "green",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 8,
+      "role": "eight roundels in two columns"
+    },
+    {
+      "type": "bird",
+      "color": "yellow",
+      "position": "center",
+      "role": "cockerel"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "outlines of the cockerel"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "four red bars on yellow at the fly"
+    }
+  ]
+}

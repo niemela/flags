@@ -1,0 +1,71 @@
+{
+  "id": "ES-L-les-borges-blanques",
+  "name": "Les Borges Blanques (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-L",
+  "codes": {
+    "wikidata": "Q928006",
+    "ine": "25058"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "The four red bars of Aragon on yellow at the hoist charged with a white bull, and a green fly third charged with a white fleur-de-lis between four smaller ones.",
+  "history": "Municipal flag of Les Borges Blanques; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_les_Borges_Blanques.svg",
+    "https://www.wikidata.org/wiki/Q928006",
+    "https://es.wikipedia.org/wiki/Borjas_Blancas",
+    "https://ca.wikipedia.org/wiki/Les_Borges_Blanques"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "four red pales on the yellow hoist part"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "hoist",
+      "role": "bull passant"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "white",
+      "position": "fly",
+      "role": "fleur-de-lis surrounded by four smaller fleurs-de-lis"
+    }
+  ]
+}

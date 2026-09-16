@@ -1,0 +1,52 @@
+{
+  "id": "ES-L-alcoletge",
+  "name": "Alcoletge (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-L",
+  "codes": {
+    "wikidata": "Q1772295",
+    "ine": "25012"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Yellow field charged at the centre with a black castle between two black eradicated trees.",
+  "history": "Municipal flag of Alcoletge; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_d'Alcoletge.svg",
+    "https://www.wikidata.org/wiki/Q1772295",
+    "https://es.wikipedia.org/wiki/Alcoletge",
+    "https://ca.wikipedia.org/wiki/Alcoletge"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "building",
+      "color": "black",
+      "position": "center",
+      "role": "castle with three towers"
+    },
+    {
+      "type": "tree",
+      "color": "black",
+      "position": "center",
+      "count": 2,
+      "role": "two eradicated trees flanking the castle"
+    }
+  ]
+}

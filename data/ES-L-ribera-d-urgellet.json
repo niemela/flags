@@ -1,0 +1,64 @@
+{
+  "id": "ES-L-ribera-d-urgellet",
+  "name": "Ribera d'Urgellet (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-L",
+  "codes": {
+    "wikidata": "Q1646576",
+    "ine": "25185"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Horizontally divided by a wavy white stripe, green above and chequy of yellow and black below.",
+  "history": "The official flag of Ribera d'Urgellet is divided horizontally into two equal parts, the upper green and the lower chequy of 12 pieces, the first and upper yellow and the second black, following the series alternately; it is a purely heraldic flag, with the same symbols and the same arrangement as the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Ribera_d'Urgellet.svg",
+    "https://www.wikidata.org/wiki/Q1646576",
+    "https://es.wikipedia.org/wiki/Ribera_de_Urgellet",
+    "https://ca.wikipedia.org/wiki/Ribera_d'Urgellet",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Ribera_d'Urgellet"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2,
+      "role": "division by a wavy line"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "center",
+      "role": "wavy stripe along the division"
+    },
+    {
+      "type": "chequy",
+      "field": "yellow",
+      "chequy": "black",
+      "position": "bottom",
+      "role": "chequy of twelve pieces in the lower half"
+    }
+  ]
+}

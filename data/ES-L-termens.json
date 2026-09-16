@@ -1,0 +1,65 @@
+{
+  "id": "ES-L-termens",
+  "name": "Térmens (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-L",
+  "codes": {
+    "wikidata": "Q1766633",
+    "ine": "25220"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly by a broad yellow band, dark blue at the upper hoist and red at the lower fly with a white cross.",
+  "history": "The arms of Térmens were approved on 10 December 1982; the four gold bezants on blue and the laurel branch are traditional elements of the arms of the town, and the cross represents the Hospitaller commandery of Térmens, created in 1283 after Ramon d'Anglesola gave the town to the Hospitallers in 1278. The flag was approved on 30 June 2004 and published in the DOGC.",
+  "periods": [
+    {
+      "start": "2004-06-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_termens.svg",
+    "https://www.wikidata.org/wiki/Q1766633",
+    "https://es.wikipedia.org/wiki/Termens",
+    "https://ca.wikipedia.org/wiki/Térmens",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Térmens"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "navy",
+      "bend": "red",
+      "direction": "bend"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "role": "broad band from the upper hoist to the lower fly"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "fly",
+      "role": "cross on the red at the lower fly"
+    }
+  ]
+}
