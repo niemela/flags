@@ -1,0 +1,63 @@
+{
+  "id": "ES-V-benissuera",
+  "name": "Benissuera (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1917939",
+    "ine": "46069"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Four horizontal stripes of red, blue, white and red, charged at the centre with a brown castle.",
+  "history": "The official flag of Benissuera is of proportions 2:3, quartered horizontally into four stripes, the first and fourth red, equivalent respectively to five tenths and three tenths of the total width of the flag, the second blue of one tenth and the third white of one tenth.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Benissuera.svg",
+    "https://www.wikidata.org/wiki/Q1917939",
+    "https://es.wikipedia.org/wiki/Benisuera",
+    "https://ca.wikipedia.org/wiki/Benissuera"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "blue",
+        "white",
+        "red"
+      ],
+      "count": 4,
+      "widths": [
+        5,
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "type": "building",
+      "color": "brown",
+      "position": "center",
+      "role": "castle"
+    }
+  ]
+}

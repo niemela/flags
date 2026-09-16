@@ -1,0 +1,71 @@
+{
+  "id": "ES-V-zarra",
+  "name": "Zarra (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q2302191",
+    "ine": "46263"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Vertically divided yellow and red, charged with a blue castle on the yellow and four white scallop shells on the red.",
+  "history": "Municipal flag of Zarra; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Zarra.svg",
+    "https://www.wikidata.org/wiki/Q2302191",
+    "https://es.wikipedia.org/wiki/Zarra_(Valencia)",
+    "https://ca.wikipedia.org/wiki/Zarra"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "blue",
+      "position": "hoist",
+      "role": "castle"
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "hoist",
+      "role": "shading of the castle"
+    },
+    {
+      "type": "shell",
+      "color": "white",
+      "position": "fly",
+      "count": 4,
+      "role": "four scallop shells in cross"
+    }
+  ]
+}

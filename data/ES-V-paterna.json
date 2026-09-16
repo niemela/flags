@@ -1,0 +1,85 @@
+{
+  "id": "ES-V-paterna",
+  "name": "Paterna (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q23042",
+    "ine": "46190"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "A hoist third chequered yellow and black and a red fly charged with a yellow tower above a chequered crescent.",
+  "history": "The official flag of Paterna is of proportions 2:3, tierced at the hoist; it was approved by resolution of 28 February 2003 of the Conseller of Justice and Public Administrations and published in the DOGV. The council had accepted the modifications of the Real Academia de la Historia to the arms on 26 June 1973.",
+  "periods": [
+    {
+      "start": "2003-02-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Paterna.svg",
+    "https://www.wikidata.org/wiki/Q23042",
+    "https://es.wikipedia.org/wiki/Paterna",
+    "https://ca.wikipedia.org/wiki/Paterna",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Paterna",
+    "https://ca.wikipedia.org/wiki/Escut_i_bandera_de_Paterna"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "chequy",
+      "field": "yellow",
+      "chequy": "black",
+      "position": "hoist",
+      "role": "chequy of yellow and black on the hoist third"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "role": "tower"
+    },
+    {
+      "type": "crescent",
+      "color": "yellow",
+      "position": "fly",
+      "role": "chequered crescent beneath the tower"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "fly",
+      "role": "shading of the tower"
+    }
+  ]
+}

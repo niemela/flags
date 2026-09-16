@@ -1,0 +1,62 @@
+{
+  "id": "ES-V-benirredra",
+  "name": "Benirredrà (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q549036",
+    "ine": "46066"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertically divided, the hoist blue with a white grid-iron, the fly red with two yellow plants.",
+  "history": "Municipal flag of Benirredrà; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Benirredrà.svg",
+    "https://www.wikidata.org/wiki/Q549036",
+    "https://es.wikipedia.org/wiki/Benirredrá",
+    "https://ca.wikipedia.org/wiki/Benirredrà",
+    "https://ca.wikipedia.org/wiki/Escut_i_bandera_de_Benirredrà"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "grid-iron on the blue hoist half"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "fly",
+      "role": "two flowering plants on the red fly half"
+    }
+  ]
+}

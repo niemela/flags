@@ -1,0 +1,61 @@
+{
+  "id": "ES-V-el-palomar",
+  "name": "El Palomar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q2264671",
+    "ine": "46189"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Blue field charged at the centre with a white tower between two white doves.",
+  "history": "Municipal flag of El Palomar; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_del_Palomar.svg",
+    "https://www.wikidata.org/wiki/Q2264671",
+    "https://es.wikipedia.org/wiki/Palomar_(Valencia)",
+    "https://ca.wikipedia.org/wiki/El_Palomar"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "tower"
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "position": "center",
+      "count": 2,
+      "role": "two doves flanking the tower"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "door of the tower"
+    }
+  ]
+}

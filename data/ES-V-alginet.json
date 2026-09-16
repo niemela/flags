@@ -1,0 +1,74 @@
+{
+  "id": "ES-V-alginet",
+  "name": "Alginet (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1917986",
+    "ine": "46031"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Vertically divided, the hoist blue with a white Agnus Dei on a yellow book, the fly red with a yellow tower.",
+  "history": "The official flag of Alginet is of proportions 2:3, party per pale, the hoist half blue with the Agnus Dei of the arms and the fly half red with a yellow tower masoned and pierced black; it was approved by resolution of 18 January 2016 of the Presidency of the Generalitat and published in the DOGV. The arms had been approved by resolution of 27 February 1995.",
+  "periods": [
+    {
+      "start": "2016-01-18"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_d'Alginet.svg",
+    "https://www.wikidata.org/wiki/Q1917986",
+    "https://es.wikipedia.org/wiki/Alginet",
+    "https://ca.wikipedia.org/wiki/Alginet",
+    "https://ca.wikipedia.org/wiki/Bandera_d'Alginet",
+    "https://ca.wikipedia.org/wiki/Escut_i_bandera_d'Alginet"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "hoist",
+      "role": "Agnus Dei with a banner lying on a book"
+    },
+    {
+      "type": "book",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "book beneath the lamb"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "role": "tower masoned and pierced black"
+    }
+  ]
+}

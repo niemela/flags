@@ -1,0 +1,79 @@
+{
+  "id": "ES-V-vallada",
+  "name": "Vallada (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q648740",
+    "ine": "46251"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "White field with a red cross of Saint George, charged at the upper hoist with a black cross fleury and at the lower fly with a white dragon outlined black.",
+  "history": "The official flag of Vallada is of proportions 2:3, white, a red cross of Saint George, and at the lower fly a winged dragon argent edged and detailed sable; it was approved by resolution of 26 October 2004 of the Conseller of Justice and Public Administrations and published in the DOGV of 15 November 2004. It was one of two alternatives approved on 27 January 2004 by the town council.",
+  "periods": [
+    {
+      "start": "2004-10-26"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Vallada.svg",
+    "https://www.wikidata.org/wiki/Q648740",
+    "https://es.wikipedia.org/wiki/Vallada",
+    "https://ca.wikipedia.org/wiki/Vallada",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Vallada",
+    "https://ca.wikipedia.org/wiki/Escut_i_bandera_de_Vallada"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "center",
+      "field": "white",
+      "role": "cross of Saint George off-centre towards the hoist"
+    },
+    {
+      "type": "greek-cross",
+      "color": "black",
+      "position": "canton",
+      "role": "cross fleury at the upper hoist"
+    },
+    {
+      "type": "mythical-creature",
+      "color": "white",
+      "position": "fly",
+      "role": "winged dragon at the lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "grey",
+      "position": "fly",
+      "role": "shading of the dragon"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "fly",
+      "role": "outline of the dragon"
+    }
+  ]
+}

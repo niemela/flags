@@ -1,0 +1,81 @@
+{
+  "id": "ES-V-valencia",
+  "name": "Valencia (Spain, city)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q8818",
+    "ine": "46250"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "The four red bars of Aragon on yellow with a blue stripe at the hoist bearing a crown and a jewelled band, the Real Senyera.",
+  "history": "Since the fourteenth century Valencia has used the royal arms as its device: King Peter the Ceremonious, in recognition of the resistance of Valencia to Peter the Cruel of Castile during the War of the Two Peters (1356–1365), granted the city the right to use the royal arms of Aragon and the royal crown on its arms and flag. The flag, called the Real Senyera, the crowned Senyera or the tricolour Senyera, is the same as that of the Valencian Community; it originated as a heraldic ensign that evolved into a flag with a crown above the bars of the kings of the Crown of Aragon. The flag of Valencia is defined as the traditional senyera of four red bars on a yellow field, crowned for holding the title of kingdom, with a blue stripe next to the hoist.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_the_Land_of_Valencia_(official).svg",
+    "https://www.wikidata.org/wiki/Q8818",
+    "https://es.wikipedia.org/wiki/Valencia",
+    "https://ca.wikipedia.org/wiki/València",
+    "https://es.wikipedia.org/wiki/Bandera_de_Valencia",
+    "https://ca.wikipedia.org/wiki/Bandera_de_València"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "role": "four red bars on yellow (Senyera)",
+      "position": "fly"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "blue stripe along the hoist bearing a crown and a jewelled band"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "hoist",
+      "role": "jewelled band between the blue stripe and the bars"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "crown on the blue stripe"
+    }
+  ]
+}

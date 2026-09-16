@@ -1,0 +1,89 @@
+{
+  "id": "ES-V-cofrentes",
+  "name": "Cofrentes (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q115313",
+    "ine": "46097"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Horizontal tricolour of white, red and white with a double-width red stripe and blue wavy stripes along the outer edges, charged at the centre with a yellow castle.",
+  "history": "The official flag of Cofrentes is of proportions 2:3, tierced per fess with the second third twice the width of the others; it was approved by resolution of 27 February 1995 of the Conseller of Public Administration and published in the DOGV of 10 March 1995. The arms had been published in the DOGV of 8 October 1982.",
+  "periods": [
+    {
+      "start": "1995-02-27"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Cofrents.svg",
+    "https://www.wikidata.org/wiki/Q115313",
+    "https://es.wikipedia.org/wiki/Cofrentes",
+    "https://ca.wikipedia.org/wiki/Cofrents",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Cofrents",
+    "https://ca.wikipedia.org/wiki/Escut_i_bandera_de_Cofrents"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "top",
+      "role": "wavy stripe along the upper edge"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom",
+      "role": "wavy stripe along the lower edge"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "door and windows of the castle"
+    }
+  ]
+}

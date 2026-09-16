@@ -1,0 +1,72 @@
+{
+  "id": "ES-V-alfara-de-la-baronia",
+  "name": "Alfara de la Baronia (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1918014",
+    "ine": "46024"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertically divided, the hoist blue with two yellow bendlets in chief and three fleurs-de-lis, the fly red with a yellow pitcher.",
+  "history": "The official flag of Alfara de la Baronia is of proportions 2:3, party per pale, the hoist half with the bendlets and fleurs-de-lis of the arms and the fly red with a pitcher of gold or yellow; it was approved by resolution of 30 August 2010 of the Conseller of Solidarity and Citizenship and published in the DOCV. The arms had been approved by resolution of 20 April 2004.",
+  "periods": [
+    {
+      "start": "2010-08-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_d'Alfara_de_la_Baronia.svg",
+    "https://www.wikidata.org/wiki/Q1918014",
+    "https://es.wikipedia.org/wiki/Alfara_de_la_Baronía",
+    "https://ca.wikipedia.org/wiki/Alfara_de_la_Baronia",
+    "https://ca.wikipedia.org/wiki/Bandera_d'Alfara_de_la_Baronia",
+    "https://ca.wikipedia.org/wiki/Escut_i_bandera_d'Alfara_de_la_Baronia"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "canton",
+      "role": "two bendlets in the upper part of the hoist half"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 3,
+      "role": "three fleurs-de-lis in the lower part of the hoist half"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "fly",
+      "role": "pitcher on the red fly half"
+    }
+  ]
+}

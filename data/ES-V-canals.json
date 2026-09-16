@@ -1,0 +1,72 @@
+{
+  "id": "ES-V-canals",
+  "name": "Canals (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q258722",
+    "ine": "46081"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "purple"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "White field charged at the centre with a green tau cross between a bunch of grapes and ears of wheat.",
+  "history": "Municipal flag of Canals; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Canals_(Valencia).svg",
+    "https://www.wikidata.org/wiki/Q258722",
+    "https://es.wikipedia.org/wiki/Canals_(Valencia)",
+    "https://ca.wikipedia.org/wiki/Canals"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "tau cross at the centre"
+    },
+    {
+      "type": "fruit",
+      "color": "purple",
+      "position": "hoist",
+      "role": "bunch of grapes"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "fly",
+      "role": "ears of wheat"
+    },
+    {
+      "type": "glyph",
+      "color": "grey",
+      "position": "center",
+      "role": "shading of the tau"
+    }
+  ]
+}

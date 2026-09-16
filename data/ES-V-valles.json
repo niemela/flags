@@ -1,0 +1,65 @@
+{
+  "id": "ES-V-valles",
+  "name": "Vallés (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q377446",
+    "ine": "46253"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, white above and red below, with a stripe of the bars of Aragon along the upper edge, charged with a red wing on the white and a white Agnus Dei on the red.",
+  "history": "Municipal flag of Vallés; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Vallés.svg",
+    "https://www.wikidata.org/wiki/Q377446",
+    "https://es.wikipedia.org/wiki/Vallés_(Valencia)",
+    "https://ca.wikipedia.org/wiki/Vallés"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "stripe along the upper edge bearing the red bars of Aragon"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "wing on the white and bars on the upper stripe"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "fly",
+      "role": "Agnus Dei bearing a banner on the red"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "ES-V-antella",
+  "name": "Antella (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1437249",
+    "ine": "46040"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "grey"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "pink"
+    }
+  ],
+  "description": "Vertically divided, the hoist yellow with a grey tower, the fly white with a grey weir above three blue and white waves.",
+  "history": "The official flag of Antella is of proportions 2:3, party per pale, the first with the tower of the arms and the second with the weir above three waves of blue and silver or pearl grey; it was approved by resolution of 18 November 2010 of the Conseller of Solidarity and Citizenship and published in the DOCV. The arms had been approved by resolution of 29 August 2006.",
+  "periods": [
+    {
+      "start": "2010-11-18"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_d'Antella.svg",
+    "https://www.wikidata.org/wiki/Q1437249",
+    "https://es.wikipedia.org/wiki/Antella",
+    "https://ca.wikipedia.org/wiki/Antella",
+    "https://ca.wikipedia.org/wiki/Bandera_d'Antella",
+    "https://ca.wikipedia.org/wiki/Escut_i_bandera_d'Antella"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "grey",
+      "position": "hoist",
+      "role": "tower"
+    },
+    {
+      "type": "building",
+      "color": "grey",
+      "position": "fly",
+      "role": "weir (assut) with arches"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "count": 3,
+      "role": "three waves of blue and white beneath the weir"
+    },
+    {
+      "type": "glyph",
+      "color": "pink",
+      "position": "center",
+      "role": "shading of the buildings"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "ES-V-la-llosa-de-ranes",
+  "name": "La Llosa de Ranes (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q524464",
+    "ine": "46157"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontally divided red over white, the red charged with a yellow farmstead between two shields of the bars of Aragon with a fish, the white with three blue wavy stripes.",
+  "history": "The official flag of La Llosa de Ranes is of proportions 2:3, party per fess.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Llosa_de_Ranes.svg",
+    "https://www.wikidata.org/wiki/Q524464",
+    "https://es.wikipedia.org/wiki/La_Llosa_de_Ranes",
+    "https://ca.wikipedia.org/wiki/La_Llosa_de_Ranes"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "top",
+      "role": "farmstead of houses with a tower"
+    },
+    {
+      "type": "shield",
+      "color": "yellow",
+      "position": "top",
+      "count": 2,
+      "role": "two shields of the bars of Aragon with a fish at the upper hoist and the upper fly"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom",
+      "count": 3,
+      "role": "three wavy stripes on the white"
+    }
+  ]
+}

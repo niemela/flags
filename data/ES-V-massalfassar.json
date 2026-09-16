@@ -1,0 +1,75 @@
+{
+  "id": "ES-V-massalfassar",
+  "name": "Massalfassar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1989342",
+    "ine": "46163"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "pink"
+    }
+  ],
+  "description": "Vertically divided, the hoist red with a white farmhouse, the fly white with two blue wavy stripes.",
+  "history": "The official flag of Massalfassar consists of the same arms of the shield spread over a cloth of twelve parts long by eight wide; the arms and flag were approved by resolution of 15 July 1991 of the Conseller of Public Administration and published in the DOGV of 12 August 1991. The house is a canting sign referring to the etymology of the place name, an old Islamic hamlet.",
+  "periods": [
+    {
+      "start": "1991-07-15"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Massalfassar.svg",
+    "https://www.wikidata.org/wiki/Q1989342",
+    "https://es.wikipedia.org/wiki/Masalfasar",
+    "https://ca.wikipedia.org/wiki/Massalfassar",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Massalfassar",
+    "https://ca.wikipedia.org/wiki/Escut_i_bandera_de_Massalfassar"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "farmhouse"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "count": 2,
+      "role": "two wavy stripes across the fly half"
+    },
+    {
+      "type": "glyph",
+      "color": "pink",
+      "position": "hoist",
+      "role": "shading of the farmhouse"
+    }
+  ]
+}

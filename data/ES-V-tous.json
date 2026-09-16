@@ -1,0 +1,66 @@
+{
+  "id": "ES-V-tous",
+  "name": "Tous (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q1993044",
+    "ine": "46246"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, red above and blue below, charged with a yellow Saint Michael on the red and a white castle on the blue.",
+  "history": "The flag of Tous is of proportions 2:3, party per bend, the first half blue with the castle of the arms and the second half red with the figure of the archangel Saint Michael; it was approved by resolution of 22 November 2016 and published in the DOGV. The arms had been approved by resolution of 9 December 2004, published in the DOGV of 12 January 2005.",
+  "periods": [
+    {
+      "start": "2016-11-22"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Tous.svg",
+    "https://www.wikidata.org/wiki/Q1993044",
+    "https://es.wikipedia.org/wiki/Tous",
+    "https://ca.wikipedia.org/wiki/Tous",
+    "https://ca.wikipedia.org/wiki/Bandera_de_Tous",
+    "https://ca.wikipedia.org/wiki/Escut_i_bandera_de_Tous"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "blue",
+      "direction": "bend"
+    },
+    {
+      "type": "human-figure",
+      "color": "yellow",
+      "position": "fly",
+      "role": "archangel Saint Michael slaying the dragon on the red"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "castle on the blue"
+    }
+  ]
+}

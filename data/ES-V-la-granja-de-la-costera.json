@@ -1,0 +1,64 @@
+{
+  "id": "ES-V-la-granja-de-la-costera",
+  "name": "La Granja de la Costera (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-VC",
+  "codes": {
+    "wikidata": "Q2269606",
+    "ine": "46137"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "Yellow field with four red bends from the upper hoist to the lower fly, charged at the centre with a white village with a church tower.",
+  "history": "Municipal flag of La Granja de la Costera; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Granja_de_la_Costera.svg",
+    "https://www.wikidata.org/wiki/Q2269606",
+    "https://es.wikipedia.org/wiki/La_Granja_de_la_Costera",
+    "https://ca.wikipedia.org/wiki/La_Granja_de_la_Costera"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "count": 4,
+      "role": "four bends from the upper hoist to the lower fly"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "village of houses with a church tower"
+    },
+    {
+      "type": "glyph",
+      "color": "grey",
+      "position": "center",
+      "role": "shading of the buildings"
+    }
+  ]
+}
