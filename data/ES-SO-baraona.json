@@ -1,0 +1,50 @@
+{
+  "id": "ES-SO-baraona",
+  "name": "Baraona (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SO",
+  "codes": {
+    "wikidata": "Q484115",
+    "ine": "42029"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with a white triangle with its vertices at the lower fly corner and the midpoints of the hoist and the upper edge, charged at the upper hoist with a red castle.",
+  "history": "The flag is rectangular, of proportions 2:3, formed of a red cloth with a white triangle whose vertices are at the lower fly corner and the midpoints of the hoist and the upper edge, with a red castle in the upper hoist canton.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Baraona.svg",
+    "https://www.wikidata.org/wiki/Q484115",
+    "https://es.wikipedia.org/wiki/Baraona"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "center",
+      "role": "triangle with its vertices at the lower fly corner and the midpoints of the hoist and upper edge"
+    },
+    {
+      "type": "building",
+      "color": "red",
+      "position": "canton",
+      "role": "castle at the upper hoist"
+    }
+  ]
+}
