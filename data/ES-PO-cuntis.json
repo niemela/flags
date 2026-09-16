@@ -1,0 +1,78 @@
+{
+  "id": "ES-PO-cuntis",
+  "name": "Cuntis (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-PO",
+  "codes": {
+    "wikidata": "Q1631860",
+    "ine": "36015"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field charged at the centre with a yellow castle beneath a yellow star, between two yellow serpents.",
+  "history": "Municipal flag of Cuntis; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Cuntis_Bandeira_oficial.svg",
+    "https://www.wikidata.org/wiki/Q1631860",
+    "https://es.wikipedia.org/wiki/Cuntis",
+    "https://gl.wikipedia.org/wiki/Cuntis"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "star above the castle"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "two serpents flanking the castle"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "outlines of the charges"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "tongues of the serpents"
+    }
+  ]
+}

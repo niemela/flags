@@ -1,0 +1,68 @@
+{
+  "id": "ES-PO-o-porrino",
+  "name": "O Porriño (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-PO",
+  "codes": {
+    "wikidata": "Q1616392",
+    "ine": "36039"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field charged with a yellow castle between two ears of wheat beneath a gearwheel and compasses, with two white wavy vertical stripes at the fly.",
+  "history": "Municipal flag of O Porriño; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_O_Porriño_2026.svg",
+    "https://www.wikidata.org/wiki/Q1616392",
+    "https://es.wikipedia.org/wiki/Porriño",
+    "https://gl.wikipedia.org/wiki/O_Porriño"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "two ears of wheat flanking the castle"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "gearwheel and compasses above the castle"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "fly",
+      "count": 2,
+      "role": "two wavy vertical stripes at the fly"
+    }
+  ]
+}

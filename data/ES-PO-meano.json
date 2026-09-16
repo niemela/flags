@@ -1,0 +1,73 @@
+{
+  "id": "ES-PO-meano",
+  "name": "Meaño (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-PO",
+  "codes": {
+    "wikidata": "Q1607447",
+    "ine": "36027"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Vertical tricolour of green, white and green with a broad white stripe charged with a pine tree between two vines with grapes.",
+  "history": "Municipal flag of Meaño; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Meaño.svg",
+    "https://www.wikidata.org/wiki/Q1607447",
+    "https://es.wikipedia.org/wiki/Meaño",
+    "https://gl.wikipedia.org/wiki/Meaño"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        4,
+        1
+      ]
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "pine tree"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "trunk of the pine and vine stems"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "outlines of the charges"
+    }
+  ]
+}

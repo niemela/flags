@@ -1,0 +1,55 @@
+{
+  "id": "ES-PO-a-estrada",
+  "name": "A Estrada (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-PO",
+  "codes": {
+    "wikidata": "Q1621191",
+    "ine": "36017"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided by a white band from the lower hoist to the upper fly, green at the hoist and red at the fly.",
+  "history": "The arms and flag of A Estrada were approved in 2014, published in the Diario Oficial de Galicia on 13 October 2014; the flag is divided by a white bend, green at the hoist and red at the fly.",
+  "periods": [
+    {
+      "start": "2014"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_A_Estrada.svg",
+    "https://www.wikidata.org/wiki/Q1621191",
+    "https://es.wikipedia.org/wiki/La_Estrada",
+    "https://gl.wikipedia.org/wiki/A_Estrada"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "band from the lower hoist to the upper fly"
+    }
+  ]
+}

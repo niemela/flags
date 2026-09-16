@@ -1,0 +1,75 @@
+{
+  "id": "ES-PO-gondomar",
+  "name": "Gondomar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-PO",
+  "codes": {
+    "wikidata": "Q1607596",
+    "ine": "36021"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "21:38",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Vertical tricolour of red, blue and yellow, the red charged with yellow roundels, the blue with crossed swords above a cannon and the yellow with blue vair.",
+  "history": "Municipal flag of Gondomar; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Gondomar.svg",
+    "https://www.wikidata.org/wiki/Q1607596",
+    "https://es.wikipedia.org/wiki/Gondomar",
+    "https://gl.wikipedia.org/wiki/Gondomar"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "blue",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 13,
+      "role": "thirteen roundels on the red hoist stripe"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "two crossed swords on the blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "cannon beneath the swords"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "fly",
+      "role": "vair pattern on the yellow fly stripe"
+    }
+  ]
+}

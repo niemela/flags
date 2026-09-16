@@ -1,0 +1,75 @@
+{
+  "id": "ES-PO-pontevedra",
+  "name": "Pontevedra (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-PO",
+  "codes": {
+    "wikidata": "Q12411",
+    "ine": "36038"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field with blue triangles at the hoist and the fly forming a diabolo, charged at the centre with the crowned arms of Pontevedra (a bridge above waves on blue).",
+  "history": "The flag is formed of a blue diabolo, the rest of the flag being white, with the arms of the city in the middle; it can be seen on all buildings of the municipal administration of the city.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Pontevedra.svg",
+    "https://www.wikidata.org/wiki/Q12411",
+    "https://es.wikipedia.org/wiki/Pontevedra",
+    "https://gl.wikipedia.org/wiki/Pontevedra",
+    "https://es.wikipedia.org/wiki/Bandera_de_Pontevedra"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "triangle with its base along the hoist and its apex at the centre"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "fly",
+      "role": "triangle with its base along the fly and its apex at the centre"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Pontevedra arms — bridge above waves on blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "bridge and crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "cap of the crown of the arms"
+    }
+  ]
+}

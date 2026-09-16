@@ -1,0 +1,63 @@
+{
+  "id": "ES-PO-valga",
+  "name": "Valga (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-PO",
+  "codes": {
+    "wikidata": "Q1628179",
+    "ine": "36056"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with a yellow stripe at the fly with a dancetty inner edge, charged at the centre with a white lamb between two yellow ropes.",
+  "history": "Municipal flag of Valga; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Valga.svg",
+    "https://www.wikidata.org/wiki/Q1628179",
+    "https://es.wikipedia.org/wiki/Valga",
+    "https://gl.wikipedia.org/wiki/Valga"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "fly",
+      "role": "stripe along the fly with a zigzag inner edge"
+    },
+    {
+      "type": "animal-other",
+      "color": "white",
+      "position": "center",
+      "role": "lamb"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "two coiled ropes flanking the lamb"
+    }
+  ]
+}

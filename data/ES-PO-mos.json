@@ -1,0 +1,86 @@
+{
+  "id": "ES-PO-mos",
+  "name": "Mos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-PO",
+  "codes": {
+    "wikidata": "Q1596023",
+    "ine": "36033"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Yellow field with a fly stripe of red and yellow chequy bars, charged with a red rose with a green stem at the hoist.",
+  "history": "Municipal flag of Mos; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Mos.svg",
+    "https://www.wikidata.org/wiki/Q1596023",
+    "https://es.wikipedia.org/wiki/Mos",
+    "https://gl.wikipedia.org/wiki/Mos"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        1
+      ]
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "fly",
+      "role": "bars of red and chequy at the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "fly",
+      "role": "stripes on the chequy bars"
+    },
+    {
+      "type": "flower",
+      "color": "red",
+      "position": "hoist",
+      "role": "rose with a long stem"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "hoist",
+      "role": "stem and leaves of the rose"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "fly",
+      "role": "white pieces of the chequy"
+    }
+  ]
+}
