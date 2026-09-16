@@ -1,0 +1,62 @@
+{
+  "id": "ES-HU-castiello-de-jaca",
+  "name": "Castiello de Jaca (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q784295",
+    "ine": "22086"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field with a blue triangle edged white with its base along the hoist and its apex at the fly, charged with a yellow church.",
+  "history": "Municipal flag of Castiello de Jaca; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Castiello_de_Jaca.svg",
+    "https://www.wikidata.org/wiki/Q784295",
+    "https://es.wikipedia.org/wiki/Castiello_de_Jaca"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "triangle edged white with concave sides, its base along the hoist and its apex at the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "edge of the triangle"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "church on the triangle"
+    }
+  ]
+}

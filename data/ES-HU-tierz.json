@@ -1,0 +1,64 @@
+{
+  "id": "ES-HU-tierz",
+  "name": "Tierz (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q2047626",
+    "ine": "22228"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally, white at the upper hoist with a red cross and green at the lower fly, separated by a band of yellow, red and yellow from the lower hoist to the upper fly.",
+  "history": "Municipal flag of Tierz; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Tierz.svg",
+    "https://www.wikidata.org/wiki/Q2047626",
+    "https://es.wikipedia.org/wiki/Tierz"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "green",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "role": "band of yellow, red and yellow from the lower hoist to the upper fly"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "red stripe in the band"
+    },
+    {
+      "type": "greek-cross",
+      "color": "red",
+      "position": "canton",
+      "role": "cross at the upper hoist"
+    }
+  ]
+}

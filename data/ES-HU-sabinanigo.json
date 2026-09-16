@@ -1,0 +1,76 @@
+{
+  "id": "ES-HU-sabinanigo",
+  "name": "Sabiñánigo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q1552975",
+    "ine": "22199"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Horizontally divided red over green with a central band of the four red bars of Aragon on yellow, charged at the centre with a white disc bearing the crowned municipal arms of Sabiñánigo within a ring of stars.",
+  "history": "Municipal flag of Sabiñánigo; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Samianigo.svg",
+    "https://www.wikidata.org/wiki/Q1552975",
+    "https://es.wikipedia.org/wiki/Sabiñánigo"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "central band bearing the four red bars of Aragon"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Sabiñánigo arms — bars of Aragon and a cross, within a ring of stars"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "shading of the crown of the arms"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "ES-HU-monesma-y-cajigar",
+  "name": "Monesma y Cajigar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q984593",
+    "ine": "22155"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Five horizontal stripes of white, blue, white, blue and white, charged at the centre with a red disc bearing a white castle between two yellow trees.",
+  "history": "Municipal flag of Monesma y Cajigar; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Monesma_y_Cajigar.svg",
+    "https://www.wikidata.org/wiki/Q984593",
+    "https://es.wikipedia.org/wiki/Monesma_y_Cajigar"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white"
+      ],
+      "count": 5
+    },
+    {
+      "type": "disc",
+      "color": "red",
+      "position": "center"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "center",
+      "role": "castle on a rock on the disc"
+    },
+    {
+      "type": "tree",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "two trees flanking the castle"
+    }
+  ]
+}

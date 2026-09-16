@@ -1,0 +1,59 @@
+{
+  "id": "ES-HU-ayerbe",
+  "name": "Ayerbe (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q189749",
+    "ine": "22039"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Yellow field with a large blue fleur-de-lis lying horizontally from the hoist, charged at the hoist with a yellow castle on the blue.",
+  "history": "The cloth is yellow, with a blue horizontal fleur-de-lis beginning at the hoist of the flag.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Ayerbe.svg",
+    "https://www.wikidata.org/wiki/Q189749",
+    "https://es.wikipedia.org/wiki/Ayerbe"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "blue",
+      "position": "hoist",
+      "role": "large fleur-de-lis lying horizontally and issuing from the hoist"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle on the fleur-de-lis"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "windows and door of the castle"
+    }
+  ]
+}

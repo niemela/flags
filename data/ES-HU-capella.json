@@ -1,0 +1,50 @@
+{
+  "id": "ES-HU-capella",
+  "name": "Capella (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q1020508",
+    "ine": "22080"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with a yellow band from the upper hoist to the lower fly, charged at the centre with a yellow bridge.",
+  "history": "The flag is a blue cloth of proportion 2:3 with a yellow diagonal stripe crossing it from the upper hoist corner to the lower fly, and at its centre a masoned bridge.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Capella.svg",
+    "https://www.wikidata.org/wiki/Q1020508",
+    "https://es.wikipedia.org/wiki/Capella_(Huesca)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "role": "band from the upper hoist to the lower fly"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "masoned bridge on the band"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "ES-HU-alcampell",
+  "name": "Alcampell (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q984400",
+    "ine": "22016"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A hoist stripe chequy of yellow and black bearing a white oval with a green holm oak between ears of wheat, the fly of the four red bars of Aragon on yellow.",
+  "history": "Municipal flag of Alcampell; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_del_Campell.svg",
+    "https://www.wikidata.org/wiki/Q984400",
+    "https://es.wikipedia.org/wiki/Alcampell"
+  ],
+  "features": [
+    {
+      "type": "chequy",
+      "field": "yellow",
+      "chequy": "black",
+      "position": "hoist",
+      "role": "chequy hoist stripe of one third"
+    },
+    {
+      "type": "lozenge",
+      "color": "white",
+      "position": "hoist",
+      "role": "white oval over the chequy"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist",
+      "role": "holm oak between ears of wheat on the oval"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "position": "fly",
+      "role": "four red bars on yellow at the fly"
+    }
+  ]
+}

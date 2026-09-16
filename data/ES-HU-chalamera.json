@@ -1,0 +1,75 @@
+{
+  "id": "ES-HU-chalamera",
+  "name": "Chalamera (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q732971",
+    "ine": "22094"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field with blue stripes along the upper and lower edges, charged towards the hoist with a white hermitage above two crossed yellow ears of wheat.",
+  "history": "Municipal flag of Chalamera; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Chalamera.svg",
+    "https://www.wikidata.org/wiki/Q732971",
+    "https://es.wikipedia.org/wiki/Chalamera"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "stripe near the upper edge"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "stripe near the lower edge"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "hermitage"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 2,
+      "role": "two crossed ears of wheat beneath the hermitage"
+    }
+  ]
+}

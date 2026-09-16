@@ -1,0 +1,70 @@
+{
+  "id": "ES-HU-senes-de-alcubierre",
+  "name": "Senés de Alcubierre (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q911046",
+    "ine": "22218"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Vertically divided yellow and red with a black zigzag stripe along the hoist, the red charged with two yellow sheaves of wheat.",
+  "history": "Municipal flag of Senés de Alcubierre; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Senés_de_Alcubierre.svg",
+    "https://www.wikidata.org/wiki/Q911046",
+    "https://es.wikipedia.org/wiki/Senés_de_Alcubierre"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "zigzag (dancetty) stripe along the hoist"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "fly",
+      "count": 2,
+      "role": "two sheaves of wheat"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "fly",
+      "role": "bands of the sheaves"
+    }
+  ]
+}

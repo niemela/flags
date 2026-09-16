@@ -1,0 +1,55 @@
+{
+  "id": "ES-HU-binaced",
+  "name": "Binaced (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q1906763",
+    "ine": "22060"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided diagonally from the upper fly to the lower hoist, red above with a white Maltese cross and white below with a green eradicated tree.",
+  "history": "The flag is represented on a cloth whose length is three halves of its width, parted diagonally from the upper fly corner to the lower hoist corner: the upper part red with a white eight-pointed cross, and the lower part white with a green eradicated tree.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Binaced.svg",
+    "https://www.wikidata.org/wiki/Q1906763",
+    "https://es.wikipedia.org/wiki/Binaced"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "white",
+      "direction": "bend-sinister"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "hoist",
+      "role": "Maltese cross on the red"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "fly",
+      "role": "eradicated tree on the white"
+    }
+  ]
+}

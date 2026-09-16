@@ -1,0 +1,62 @@
+{
+  "id": "ES-HU-olvena",
+  "name": "Olvena (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q1644091",
+    "ine": "22164"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with a broad yellow horizontal stripe edged red bulging into a disc at the centre, with a blue chevron pointing to the fly at the hoist.",
+  "history": "Municipal flag of Olvena; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Olvena.svg",
+    "https://www.wikidata.org/wiki/Q1644091",
+    "https://es.wikipedia.org/wiki/Olvena"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "broad horizontal stripe edged red, widening into a disc at the centre"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "edges of the stripe"
+    },
+    {
+      "type": "chevron",
+      "color": "blue",
+      "position": "hoist",
+      "role": "chevron on the stripe pointing to the fly"
+    }
+  ]
+}

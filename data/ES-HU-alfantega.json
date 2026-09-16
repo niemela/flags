@@ -1,0 +1,58 @@
+{
+  "id": "ES-HU-alfantega",
+  "name": "Alfántega (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q1906738",
+    "ine": "22020"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, blue above with a white Maltese cross at the upper fly and yellow below with a black scorpion at the lower hoist.",
+  "history": "Municipal flag of Alfántega; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Alfántega.svg",
+    "https://www.wikidata.org/wiki/Q1906738",
+    "https://es.wikipedia.org/wiki/Alfántega"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "yellow",
+      "direction": "bend"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "fly",
+      "role": "Maltese cross at the upper fly"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "position": "hoist",
+      "role": "scorpion at the lower hoist"
+    }
+  ]
+}

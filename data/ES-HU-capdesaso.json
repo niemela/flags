@@ -1,0 +1,78 @@
+{
+  "id": "ES-HU-capdesaso",
+  "name": "Capdesaso (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q939623",
+    "ine": "22079"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A red triangle with its base along the hoist bearing a white cross between a tree and a fish, the fly of three horizontal stripes of blue, white and green.",
+  "history": "Municipal flag of Capdesaso; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Capdesaso-Huesca.svg",
+    "https://www.wikidata.org/wiki/Q939623",
+    "https://es.wikipedia.org/wiki/Capdesaso"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        3,
+        1,
+        3
+      ]
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "triangle with its base along the hoist"
+    },
+    {
+      "type": "latin-cross",
+      "color": "white",
+      "position": "hoist",
+      "role": "cross on the triangle"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "hoist",
+      "role": "small tree beside the cross"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "hoist",
+      "role": "small fish beside the cross"
+    }
+  ]
+}

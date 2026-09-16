@@ -1,0 +1,82 @@
+{
+  "id": "ES-HU-salas-bajas",
+  "name": "Salas Bajas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q1651328",
+    "ine": "22202"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field with two bands of blue and white zigzag stripes across the upper and lower parts, charged with a yellow ear of wheat and a bunch of grapes above and crossed tools below.",
+  "history": "Municipal flag of Salas Bajas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Salas_Bajas.svg",
+    "https://www.wikidata.org/wiki/Q1651328",
+    "https://es.wikipedia.org/wiki/Salas_Bajas"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2,
+      "position": "top",
+      "role": "zigzag stripes of blue and white in the upper part"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2,
+      "position": "bottom",
+      "role": "zigzag stripes of blue and white in the lower part"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "ear of wheat"
+    },
+    {
+      "type": "fruit",
+      "color": "yellow",
+      "position": "fly",
+      "role": "bunch of grapes"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "crossed tools at the bottom"
+    }
+  ]
+}

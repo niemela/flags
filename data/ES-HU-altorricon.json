@@ -1,0 +1,70 @@
+{
+  "id": "ES-HU-altorricon",
+  "name": "Altorricón (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q444400",
+    "ine": "22025"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Red field with narrow yellow stripes along the upper and lower edges, charged at the centre with the arms of Altorricón (a tower with the bars of Aragon) between green stylised plants.",
+  "history": "Municipal flag of Altorricón; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_del_Torricó.svg",
+    "https://www.wikidata.org/wiki/Q444400",
+    "https://es.wikipedia.org/wiki/Altorricón"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "narrow stripe along the upper edge"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "narrow stripe along the lower edge"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Altorricón arms — tower bearing the bars of Aragon"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "stylised plants flanking the arms"
+    }
+  ]
+}

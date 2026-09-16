@@ -1,0 +1,89 @@
+{
+  "id": "ES-HU-osso-de-cinca",
+  "name": "Osso de Cinca (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q983639",
+    "ine": "22167"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Green field with stripes of the four red bars of Aragon along the upper and lower edges, charged at the centre with a white lozenge edged blue bearing a yellow bear.",
+  "history": "Municipal flag of Osso de Cinca; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Osso_de_Cinca.svg",
+    "https://www.wikidata.org/wiki/Q983639",
+    "https://es.wikipedia.org/wiki/Osso_de_Cinca"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "top",
+      "role": "stripe of the bars of Aragon along the upper edge"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "bottom",
+      "role": "stripe of the bars of Aragon along the lower edge"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "bars of the edge stripes"
+    },
+    {
+      "type": "lozenge",
+      "color": "white",
+      "position": "center",
+      "role": "lozenge edged blue"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "edge of the lozenge"
+    },
+    {
+      "type": "animal-other",
+      "color": "yellow",
+      "position": "center",
+      "role": "bear rampant on the lozenge"
+    }
+  ]
+}

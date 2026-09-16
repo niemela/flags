@@ -1,0 +1,73 @@
+{
+  "id": "ES-HU-aisa",
+  "name": "Aísa (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q650805",
+    "ine": "22006"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with a narrow stripe of the bars of Aragon along the hoist bearing a red oval with a white flower, from which a white chevron edged yellow points to the fly, and three yellow eight-pointed stars.",
+  "history": "Municipal flag of Aísa; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Aísa.svg",
+    "https://www.wikidata.org/wiki/Q650805",
+    "https://es.wikipedia.org/wiki/Aísa"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "hoist",
+      "role": "stripe of four red bars on yellow along the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "bars of Aragon and oval with a flower"
+    },
+    {
+      "type": "chevron",
+      "color": "white",
+      "position": "hoist",
+      "role": "chevron edged yellow pointing to the fly"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 8,
+      "color": "yellow",
+      "position": "fly",
+      "role": "three eight-pointed stars"
+    }
+  ]
+}

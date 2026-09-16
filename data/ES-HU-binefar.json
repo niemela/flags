@@ -1,0 +1,62 @@
+{
+  "id": "ES-HU-binefar",
+  "name": "Binéfar (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q864175",
+    "ine": "22061"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with a red band from the upper hoist to the lower fly, charged with a white Maltese cross at the upper hoist and a yellow tower at the lower hoist.",
+  "history": "Municipal flag of Binéfar; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Binéfar.svg",
+    "https://www.wikidata.org/wiki/Q864175",
+    "https://es.wikipedia.org/wiki/Binéfar"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "role": "band from the upper hoist to the lower fly"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "canton",
+      "role": "Maltese cross at the upper hoist"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "tower at the lower hoist"
+    }
+  ]
+}

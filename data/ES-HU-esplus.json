@@ -1,0 +1,77 @@
+{
+  "id": "ES-HU-esplus",
+  "name": "Esplús (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q984480",
+    "ine": "22099"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Red field with a white band from the upper hoist to the lower fly, charged with a blue castle bearing the bars of Aragon at the upper fly and a white millstone at the lower hoist.",
+  "history": "Municipal flag of Esplús; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Esplús.svg",
+    "https://www.wikidata.org/wiki/Q984480",
+    "https://es.wikipedia.org/wiki/Esplús"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "role": "band from the upper hoist to the lower fly"
+    },
+    {
+      "type": "building",
+      "color": "blue",
+      "position": "fly",
+      "role": "castle bearing a small shield of the bars of Aragon"
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "fly",
+      "role": "outline of the castle"
+    },
+    {
+      "type": "wheel",
+      "color": "white",
+      "position": "hoist",
+      "role": "millstone outlined black"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "hoist",
+      "role": "outline of the millstone"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "ES-HU-estadilla",
+  "name": "Estadilla (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q934991",
+    "ine": "22103"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A hoist half of the four red bars of Aragon on yellow and a white fly charged with a red eight-pointed star.",
+  "history": "Municipal flag of Estadilla; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Estadilla_(Huesca).svg",
+    "https://www.wikidata.org/wiki/Q934991",
+    "https://es.wikipedia.org/wiki/Estadilla"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "role": "four red bars on yellow (Senyera)",
+      "pos": "hoist"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "red",
+      "position": "fly",
+      "role": "eight-pointed star"
+    }
+  ]
+}

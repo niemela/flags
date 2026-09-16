@@ -1,0 +1,87 @@
+{
+  "id": "ES-HU-benabarre",
+  "name": "Benabarre (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q816666",
+    "ine": "22053"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "A hoist stripe of the four red bars of Aragon on yellow, the fly blue charged with a white castle between a yellow fleur-de-lis above and a yellow lion below.",
+  "history": "Municipal flag of Benabarre; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Benavarri.svg",
+    "https://www.wikidata.org/wiki/Q816666",
+    "https://es.wikipedia.org/wiki/Benabarre"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "role": "four red bars on yellow (Senyera)",
+      "pos": "hoist"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        3
+      ]
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "fly",
+      "role": "castle"
+    },
+    {
+      "type": "fleur-de-lis",
+      "color": "yellow",
+      "position": "fly",
+      "role": "fleur-de-lis above the castle"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "fly",
+      "role": "lion rampant below the castle"
+    }
+  ]
+}

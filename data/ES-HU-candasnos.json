@@ -1,0 +1,75 @@
+{
+  "id": "ES-HU-candasnos",
+  "name": "Candasnos (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q788796",
+    "ine": "22077"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Horizontally divided, the upper half yellow with a blue disc and the lower half divided vertically red and white, charged with a Maltese cross counterchanged.",
+  "history": "This flag was also published in 2006.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Candasnos.svg",
+    "https://www.wikidata.org/wiki/Q788796",
+    "https://es.wikipedia.org/wiki/Candasnos"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "disc",
+      "color": "blue",
+      "position": "top"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "position": "bottom",
+      "role": "lower half divided red and white"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "bottom",
+      "role": "Maltese cross counterchanged white and red over the lower division"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "bottom",
+      "role": "red half of the Maltese cross"
+    }
+  ]
+}

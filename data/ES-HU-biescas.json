@@ -1,0 +1,67 @@
+{
+  "id": "ES-HU-biescas",
+  "name": "Biescas (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q876742",
+    "ine": "22059"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal tricolour of green, red and green with a broad red stripe edged with white wavy lines, charged at the centre with a yellow castle.",
+  "history": "Municipal flag of Biescas; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Biescas.svg",
+    "https://www.wikidata.org/wiki/Q876742",
+    "https://es.wikipedia.org/wiki/Biescas"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "red",
+        "green"
+      ],
+      "count": 3,
+      "widths": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "center",
+      "count": 2,
+      "role": "wavy white edges of the red stripe"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "role": "castle"
+    }
+  ]
+}

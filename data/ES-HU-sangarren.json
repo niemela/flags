@@ -1,0 +1,70 @@
+{
+  "id": "ES-HU-sangarren",
+  "name": "Sangarrén (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q987403",
+    "ine": "22206"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Five horizontal stripes of green, yellow, red, yellow and green with a blue triangle with its base along the hoist bearing a yellow ear of wheat.",
+  "history": "Municipal flag of Sangarrén; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Sangarrén.svg",
+    "https://www.wikidata.org/wiki/Q987403",
+    "https://es.wikipedia.org/wiki/Sangarrén"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "red",
+        "yellow",
+        "green"
+      ],
+      "count": 5,
+      "widths": [
+        1,
+        1,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "triangle with its base along the hoist"
+    },
+    {
+      "type": "wheat",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "ear of wheat on the triangle"
+    }
+  ]
+}

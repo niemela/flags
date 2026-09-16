@@ -1,0 +1,91 @@
+{
+  "id": "ES-HU-alcolea-de-cinca",
+  "name": "Alcolea de Cinca (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q1770866",
+    "ine": "22017"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "A hoist stripe of the four red bars of Aragon on yellow, the fly green with blue wavy stripes along the upper and lower edges and a yellow castle at the centre.",
+  "history": "Municipal flag of Alcolea de Cinca; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Alcolea_del_Cinca.svg",
+    "https://www.wikidata.org/wiki/Q1770866",
+    "https://es.wikipedia.org/wiki/Alcolea_de_Cinca"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 9,
+      "role": "four red bars on yellow (Senyera)",
+      "pos": "hoist"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "fly",
+      "count": 2,
+      "role": "wavy stripes along the upper and lower edges of the fly"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "role": "castle"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "fly",
+      "role": "shading of the castle"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ES-HU-castigaleu",
+  "name": "Castigaleu (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q987456",
+    "ine": "22087"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, yellow above with a black gridiron and red below with a yellow castle.",
+  "history": "Municipal flag of Castigaleu; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Castigaleu.svg",
+    "https://www.wikidata.org/wiki/Q987456",
+    "https://es.wikipedia.org/wiki/Castigaleu"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "red",
+      "direction": "bend"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "fly",
+      "role": "gridiron of Saint Lawrence at the upper fly"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle at the lower hoist"
+    }
+  ]
+}

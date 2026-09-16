@@ -1,0 +1,57 @@
+{
+  "id": "ES-HU-pertusa",
+  "name": "Pertusa (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q1767809",
+    "ine": "22178"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Horizontally divided yellow over red, charged with a green letter P at the upper hoist and a yellow lion at the lower hoist.",
+  "history": "Municipal flag of Pertusa; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Pertusa.svg",
+    "https://www.wikidata.org/wiki/Q1767809",
+    "https://es.wikipedia.org/wiki/Pertusa"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "canton",
+      "role": "letter P at the upper hoist"
+    },
+    {
+      "type": "lion",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "lion rampant at the lower hoist"
+    }
+  ]
+}

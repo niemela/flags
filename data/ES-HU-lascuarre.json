@@ -1,0 +1,70 @@
+{
+  "id": "ES-HU-lascuarre",
+  "name": "Lascuarre (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q984631",
+    "ine": "22142"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with a central pale of the four red bars of Aragon on yellow, charged with four yellow castles, two on each side.",
+  "history": "Municipal flag of Lascuarre; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Lascuarre.svg",
+    "https://www.wikidata.org/wiki/Q984631",
+    "https://es.wikipedia.org/wiki/Lascuarre"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "central pale bearing the four red bars of Aragon"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "bars of the pale"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "count": 2,
+      "role": "two castles at the hoist"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "count": 2,
+      "role": "two castles at the fly"
+    }
+  ]
+}

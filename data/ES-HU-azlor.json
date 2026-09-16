@@ -1,0 +1,65 @@
+{
+  "id": "ES-HU-azlor",
+  "name": "Azlor (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q1651304",
+    "ine": "22042"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontally divided blue over white with a vertical stripe of yellow and red towards the hoist and a white stripe crossing the blue.",
+  "history": "Municipal flag of Azlor; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Azlor-Huesca.svg",
+    "https://www.wikidata.org/wiki/Q1651304",
+    "https://es.wikipedia.org/wiki/Azlor"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 3,
+      "position": "hoist",
+      "role": "narrow vertical stripe of yellow, red and yellow towards the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "horizontal white stripe across the blue"
+    }
+  ]
+}

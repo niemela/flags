@@ -1,0 +1,75 @@
+{
+  "id": "ES-HU-quicena",
+  "name": "Quicena (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q2000611",
+    "ine": "22195"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Red field with two yellow bends from the lower hoist to the upper fly, a white triangle at the upper hoist bearing a red cross of Saint James, and a yellow castle at the lower fly.",
+  "history": "Municipal flag of Quicena; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Quicena.svg",
+    "https://www.wikidata.org/wiki/Q2000611",
+    "https://es.wikipedia.org/wiki/Quicena"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "two bends from the lower hoist to the upper fly"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "canton",
+      "role": "triangle at the upper hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "canton",
+      "role": "cross of Saint James on the triangle"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "role": "castle at the lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "fly",
+      "role": "shading of the castle"
+    }
+  ]
+}

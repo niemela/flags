@@ -1,0 +1,60 @@
+{
+  "id": "ES-HU-labuerda",
+  "name": "Labuerda (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-HU",
+  "codes": {
+    "wikidata": "Q741910",
+    "ine": "22133"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontally divided blue over red, charged towards the hoist with a yellow tower between two white arrows.",
+  "history": "Municipal flag of Labuerda; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Labuerda.svg",
+    "https://www.wikidata.org/wiki/Q741910",
+    "https://es.wikipedia.org/wiki/Labuerda"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "tower"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "two arrows flanking the tower"
+    }
+  ]
+}
