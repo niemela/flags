@@ -1,0 +1,60 @@
+{
+  "id": "ES-SG-aldea-real",
+  "name": "Aldea Real (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SG",
+  "codes": {
+    "wikidata": "Q1776918",
+    "ine": "40012"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "purple"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal tricolour of red, white and purple with a broad red stripe charged with a yellow royal crown.",
+  "history": "Municipal flag of Aldea Real; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_Aldea_Real.svg",
+    "https://www.wikidata.org/wiki/Q1776918",
+    "https://es.wikipedia.org/wiki/Aldea_Real"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "purple"
+      ],
+      "count": 3,
+      "widths": [
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "top",
+      "role": "royal crown on the red stripe"
+    }
+  ]
+}

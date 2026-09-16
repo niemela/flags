@@ -1,0 +1,79 @@
+{
+  "id": "ES-SG-torre-val-de-san-pedro",
+  "name": "Torre Val de San Pedro (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SG",
+  "codes": {
+    "wikidata": "Q1938397",
+    "ine": "40206"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A light blue hoist stripe bearing the crowned municipal arms of Torre Val de San Pedro, the fly chequy of white and red.",
+  "history": "Municipal flag of Torre Val de San Pedro; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_torre_val_san_pedro.svg",
+    "https://www.wikidata.org/wiki/Q1938397",
+    "https://es.wikipedia.org/wiki/Torre_Val_de_San_Pedro"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "light-blue",
+        "white"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "chequy",
+      "field": "white",
+      "chequy": "red",
+      "position": "fly",
+      "role": "chequy fly part"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Torre Val de San Pedro arms — tower, keys and a tree on white and green"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "crown of the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "hoist",
+      "role": "green of the arms"
+    }
+  ]
+}

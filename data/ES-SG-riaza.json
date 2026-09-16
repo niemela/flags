@@ -1,0 +1,73 @@
+{
+  "id": "ES-SG-riaza",
+  "name": "Riaza (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SG",
+  "codes": {
+    "wikidata": "Q1905372",
+    "ine": "40170"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "Red field charged with yellow castles around the border and a blue rectangle at the centre bearing a grey trout above white wavy stripes.",
+  "history": "Municipal flag of Riaza; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Riaza.svg",
+    "https://www.wikidata.org/wiki/Q1905372",
+    "https://es.wikipedia.org/wiki/Riaza"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "count": 10,
+      "role": "castles around the edge of the field"
+    },
+    {
+      "type": "square",
+      "color": "blue",
+      "position": "center",
+      "role": "blue rectangle at the centre"
+    },
+    {
+      "type": "animal-other",
+      "color": "grey",
+      "position": "center",
+      "role": "trout on the blue"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "center",
+      "count": 2,
+      "role": "wavy stripes beneath the trout"
+    }
+  ]
+}

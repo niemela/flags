@@ -1,0 +1,72 @@
+{
+  "id": "ES-SG-fuentiduena",
+  "name": "Fuentidueña (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SG",
+  "codes": {
+    "wikidata": "Q1919353",
+    "ine": "40092"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Square flag vertically divided, the hoist red with a white crescent above a white lower third, the fly blue with a yellow wall with gate above a yellow fountain.",
+  "history": "Fuentidueña adopted its arms and flag officially on 25 September 2014, published in the Boletín Oficial de Castilla y León on 11 March 2015; the flag is a cloth of proportions 1/1, parted vertically, at the hoist on a red field a silver crescent and the lower third silver, at the fly on a blue field a wall with a gate.",
+  "periods": [
+    {
+      "start": "2014-09-25"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Fuentidueña.svg",
+    "https://www.wikidata.org/wiki/Q1919353",
+    "https://es.wikipedia.org/wiki/Fuentidueña",
+    "https://es.wikipedia.org/wiki/Bandera_de_Fuentidueña"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "crescent",
+      "color": "white",
+      "position": "hoist",
+      "role": "crescent with its horns downward on the red"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "lower third of the hoist half"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "fly",
+      "role": "wall with a gate above a fountain"
+    }
+  ]
+}

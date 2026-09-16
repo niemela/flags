@@ -1,0 +1,73 @@
+{
+  "id": "ES-SG-vallelado",
+  "name": "Vallelado (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SG",
+  "codes": {
+    "wikidata": "Q1938432",
+    "ine": "40219"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Square flag quartered red and white, the red quarters charged with yellow castles and the white with brown horses' heads, with a green inescutcheon bearing a yellow onion at the centre.",
+  "history": "Municipal flag of Vallelado; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Vallelado.svg",
+    "https://www.wikidata.org/wiki/Q1938432",
+    "https://es.wikipedia.org/wiki/Vallelado",
+    "https://es.wikipedia.org/wiki/Bandera_de_Vallelado"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "red",
+        "white",
+        "white",
+        "red"
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "count": 2,
+      "role": "castles in the red quarters"
+    },
+    {
+      "type": "horse",
+      "color": "brown",
+      "position": "center",
+      "count": 2,
+      "role": "horses' heads in the white quarters"
+    },
+    {
+      "type": "shield",
+      "color": "green",
+      "position": "center",
+      "role": "inescutcheon bearing a yellow onion"
+    }
+  ]
+}

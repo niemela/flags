@@ -1,0 +1,81 @@
+{
+  "id": "ES-SG-cabezuela",
+  "name": "Cabezuela (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SG",
+  "codes": {
+    "wikidata": "Q1776854",
+    "ine": "40036"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A red hoist third bearing a yellow castle between two white keys, the fly quartered yellow and white with three green trees.",
+  "history": "Municipal flag of Cabezuela; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Cabezuela_2026.svg",
+    "https://www.wikidata.org/wiki/Q1776854",
+    "https://es.wikipedia.org/wiki/Cabezuela"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "castle"
+    },
+    {
+      "type": "key",
+      "color": "white",
+      "position": "hoist",
+      "count": 2,
+      "role": "two keys above and below the castle"
+    },
+    {
+      "type": "quartered",
+      "quarters": [
+        "yellow",
+        "yellow",
+        "white",
+        "yellow"
+      ]
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "fly",
+      "count": 3,
+      "role": "three trees, two above and one below"
+    }
+  ]
+}

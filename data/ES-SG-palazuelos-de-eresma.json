@@ -1,0 +1,75 @@
+{
+  "id": "ES-SG-palazuelos-de-eresma",
+  "name": "Palazuelos de Eresma (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SG",
+  "codes": {
+    "wikidata": "Q263315",
+    "ine": "40155"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "The upper two thirds divided vertically dark teal blue and pale orange-yellow, the lower third of five stripes alternating teal blue and white.",
+  "history": "Municipal flag of Palazuelos de Eresma; Spanish municipal flags are approved by the municipal council and the autonomous community and published in the regional official gazette.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Palazuelos_de_Eresma.svg",
+    "https://www.wikidata.org/wiki/Q263315",
+    "https://es.wikipedia.org/wiki/Palazuelos_de_Eresma"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "blue"
+      ],
+      "count": 2,
+      "widths": [
+        2,
+        1
+      ]
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "navy",
+        "yellow"
+      ],
+      "count": 2,
+      "position": "top",
+      "role": "upper part divided dark blue at the hoist and pale orange at the fly"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 5,
+      "position": "bottom",
+      "role": "five narrow stripes of teal blue and white in the lower third"
+    }
+  ]
+}

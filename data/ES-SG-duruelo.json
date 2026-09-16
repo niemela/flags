@@ -1,0 +1,96 @@
+{
+  "id": "ES-SG-duruelo",
+  "name": "Duruelo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SG",
+  "codes": {
+    "wikidata": "Q534473",
+    "ine": "40070"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red hoist third bearing the crowned municipal arms of Duruelo, separated by a blue and white wavy pale from the fly, which is divided horizontally crimson over green.",
+  "history": "Duruelo adopted its arms and flag officially on 5 May 2014, published in the Boletín Oficial de Castilla y León on 25 August 2014; the flag is rectangular, of proportions 2:3, formed of two stripes in the proportions 1/3 and 2/3 separated by two blue wavy stripes.",
+  "periods": [
+    {
+      "start": "2014-05-05"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Duruelo.svg",
+    "https://www.wikidata.org/wiki/Q534473",
+    "https://es.wikipedia.org/wiki/Duruelo"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2,
+      "widths": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "center",
+      "role": "wavy vertical stripe of blue and white between the hoist and the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "white wavy stripe beside the blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "maroon",
+        "green"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "fly divided crimson over green"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "Duruelo arms — wavy pall on green with a sheaf, a tree and a saint"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "crown of the arms"
+    }
+  ]
+}

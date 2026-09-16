@@ -1,0 +1,76 @@
+{
+  "id": "ES-SG-lastras-del-pozo",
+  "name": "Lastras del Pozo (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SG",
+  "codes": {
+    "wikidata": "Q1919746",
+    "ine": "40111"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Square flag horizontally divided red over white within a yellow border, with a white Maltese cross in each corner and the crowned municipal arms of Lastras del Pozo at the centre (a bull on white and the aqueduct on red).",
+  "history": "The arms and flag of Lastras del Pozo were published in the Boletín Oficial de Castilla y León on 24 June 1998; the flag is square, of proportion 1:1, divided red over white, with a yellow bordure cantoned with four white Maltese crosses, and the arms over all.",
+  "periods": [
+    {
+      "start": "1998"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Lastras_del_Pozo.svg",
+    "https://www.wikidata.org/wiki/Q1919746",
+    "https://es.wikipedia.org/wiki/Lastras_del_Pozo"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "border",
+      "color": "yellow",
+      "role": "broad border"
+    },
+    {
+      "type": "greek-cross",
+      "color": "white",
+      "position": "center",
+      "count": 4,
+      "role": "Maltese crosses in the corners of the border"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Lastras del Pozo arms — bull on white and the aqueduct on red"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "bull of the arms"
+    }
+  ]
+}

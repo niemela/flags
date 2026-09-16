@@ -1,0 +1,85 @@
+{
+  "id": "ES-SG-bercimuel",
+  "name": "Bercimuel (Spain)",
+  "type": [
+    "city"
+  ],
+  "parent": "ES-SG",
+  "codes": {
+    "wikidata": "Q1650159",
+    "ine": "40029"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Horizontally divided blue over white within a red border charged with yellow castles and white keys, with the crowned municipal arms of Bercimuel at the centre (a bunch of reeds beneath a crown).",
+  "history": "Bercimuel adopted its arms and flag officially on 17 August 2021, published in the Boletín Oficial de Castilla y León; the flag is of dimensions 2:3, divided horizontally through the middle, with a bordure.",
+  "periods": [
+    {
+      "start": "2021-08-17"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Bercimuel.svg",
+    "https://www.wikidata.org/wiki/Q1650159",
+    "https://es.wikipedia.org/wiki/Bercimuel"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "border",
+      "color": "red",
+      "role": "border charged with castles and keys"
+    },
+    {
+      "type": "building",
+      "color": "yellow",
+      "position": "center",
+      "count": 8,
+      "role": "castles on the border"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "keys on the border"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Bercimuel arms — bunch of reeds beneath a crown"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "reeds of the arms"
+    }
+  ]
+}
