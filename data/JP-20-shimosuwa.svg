@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600">
+<clipPath id="a"><path d="M-50-50H50V50H3V0H-3V50H-50z"/></clipPath>
+<clipPath id="b"><path d="M-36-36H-8V0H0V-36H36V36H-36z"/></clipPath>
+<path d="M0 0H900V600H0z" fill="#fff"/>
+<g transform="translate(450 300) scale(3.6)">
+<g stroke="#ed1b24" fill="none">
+<circle r="45.5" stroke-width="9"  clip-path="url(#a)"/>
+<circle r="33" stroke-width="6"  clip-path="url(#b)"/>
+</g>
+<path d="M-5-45H5v25H-5z" fill="#ed1b24"/>
+</g>
+</svg>
