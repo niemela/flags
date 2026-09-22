@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="-175 -100 300 200" fill="#fff">
+<clipPath id="a"><path d="M-85-50H0v45H-85z"/></clipPath>
+<clipPath id="b"><path d="M-70-70h45V70H-70z"/></clipPath>
+<clipPath id="c"><circle r="35" cx="25" cy="5"/></clipPath>
+<path d="M-175-100h300v200h-300z" fill="#008000"/>
+<circle r="85" clip-path="url(#a)" />
+<circle r="70" clip-path="url(#b)" />
+<circle r="35" cx="-25" cy="5" clip-path="url(#c)" />
+<path d="M10-70V5h-20V-70zM0 46A25 25 0 0 0 0-4 25 25 0 0 0 0 46zm0 4A50 50 0 0 1 0-50 50 50 0 0 1 0 50z"/>
+</svg>
