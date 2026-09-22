@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="400">
+ <rect width="600" height="400" fill="#0d8659"/>
+ <g fill="#ffffff">
+  <path d="m300 168.7-12.8 7.4 10.1 5.8-20.9 104.6h47.1z"/>
+  <path id="a" d="m367.8 180.1a70.7 70.7 0 0 0 -135.6 0h27.2a45.2 45.2 0 0 1 81.2 0z"/>
+  <use xlink:href="#a" transform="scale(1,-1)" y="-400"/>
+  <path id="b" d="m216.9 214h40.2a45.2 45.2 0 0 1 0 -28.3h-57.2z"/>
+  <use xlink:href="#b" transform="scale(-1,1)" x="-600"/>
+  <path id="c" d="m242.2 126.3a60.8 60.8 0 0 1 51 -41.6c4.9-0.5 6.9 1.9 6.9 3.6 0-1.7 2-4.1 6.9-3.6a60.8 60.8 0 0 1 51 41.6l3-4.2a65 65 0 0 0 -121.7 0z"/>
+  <use xlink:href="#c" transform="rotate(72 300 205.8)"/>
+  <use xlink:href="#c" transform="rotate(144 300 205.8)"/>
+  <use xlink:href="#c" transform="rotate(216 300 205.8)"/>
+  <use xlink:href="#c" transform="rotate(288 300 205.8)"/>
+ </g>
+</svg>
