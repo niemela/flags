@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1140" height="760" viewBox="-570 -380 1140 760" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+  <desc>Flag of Ashiya, Hyogo</desc>
+  <defs>
+    <clipPath id="m1">
+      <rect x="-300" y="-300" width="600" height="288" />
+    </clipPath>
+    <clipPath id="m2">
+      <circle r="228" />
+    </clipPath>
+  </defs>
+  <rect x="-600" y="-400" width="1200" height="800" fill="#3a5f0b" />
+  <g stroke="#ffd700">
+    <g clip-path="url(#m1)">
+      <circle r="201" fill="none" stroke-width="54" />
+    </g>
+    <g clip-path="url(#m2)" stroke-width="48">
+      <g id="l2">
+        <line id="l1" x1="-300" x2="300" y1="24" y2="24" />
+        <use xlink:href="#l1" transform="translate(0,60)" />
+      </g>
+      <use xlink:href="#l2" transform="translate(0,120)" />
+    </g>
+  </g>
+</svg>
