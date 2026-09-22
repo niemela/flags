@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600">
+<mask id="c">
+<circle r="12" fill="#fff"/>
+<g id="b">
+<circle id="a" cy="30" r="10" fill="#000" transform="rotate(120 0 10)"/>
+<use xlink:href="#a" transform="rotate(60)"/>
+<use xlink:href="#a" transform="rotate(120)"/>
+</g>
+<use xlink:href="#b" transform="rotate(180)"/>
+<circle r="4.5" fill="none" stroke="#000"/>
+<path d="M-4.4-.5h8.8v1h-8.8z" fill="#000"/>
+</mask>
+<path d="M0 0H900V600H0z" fill="#5a004a"/>
+<circle r="10" mask="url(#c)" fill="#fff" transform="translate(450 300) scale(18)"/>
+</svg>

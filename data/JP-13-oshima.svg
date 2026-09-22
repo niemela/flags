@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600">
+<mask id="a">
+<circle r="7.5" fill="#000" stroke="#fff"/>
+<circle r="3.75" fill="#000" stroke="#fff" stroke-width=".5"/>
+<circle r="1.6" fill="#000" stroke="#fff" stroke-width=".8"/>
+<path d="M-2.5-5.9L0 0M2.5-5.9L0 0" stroke="#000" stroke-width=".4"/>
+<path d="M-2.5-5.9h5L0 0z" fill="#fff"/>
+<path d="M-1.7-5.4h3.4L0-1.4z" fill="#000"/>
+</mask>
+<path d="M0 0h900v600H0z" fill="#007524"/>
+<circle r="8" mask="url(#a)" fill="#fff" transform="translate(450 300) scale(22.5)"/>
+</svg>
