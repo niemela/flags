@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600" viewBox="-102.031915 -72.487894 204.063829 136.042553">
+<path d="M-102.031915-72.487894h204.063829v136.042553h-204.063829z" fill="#fff"/>
+<circle r="13" fill="#f00"/>
+<path id="a" d="M0-24a15 8 0 0 1 15-8 15 8 0 0 0 15-8v24a15 8 0 0 1-15 8 15 8 0 0 0-15 8z" transform="rotate(14) rotate(34 0-14) translate(0-14)" fill="#ff8000"/>
+<g id="b">
+<use transform="rotate(72)" xlink:href="#a"/>
+<use transform="rotate(216)" xlink:href="#a"/>
+</g>
+<use transform="rotate(72)" xlink:href="#b"/>
+</svg>
