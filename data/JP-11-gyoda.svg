@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="400" width="600">
+ <rect fill="#ffffff" height="400" width="600" y="0" x="0"/>
+ <g fill="#ff0000">
+  <path d="m300 144-13.1 42.7-43.5 13.3 43.5 13.3 13.1 42.7 13.1-42.7 43.5-13.3-43.5-13.3z"/>
+  <path id="a" d="m338.6 80.2-25.1 51.1c27.93 5.4 49.8 27.4 55.3 55.3l51.2-24.7h-32.7c-9.5-21.6-27-39.1-48.6-48.8z"/>
+  <use xlink:href="#a" transform="rotate(90 300 200)"/>
+  <use xlink:href="#a" transform="rotate(180 300 200)"/>
+  <use xlink:href="#a" transform="rotate(270 300 200)"/>
+ </g>
+</svg>
