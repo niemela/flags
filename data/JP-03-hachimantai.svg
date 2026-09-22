@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600">
+<mask id="m">
+<circle r="50" fill="#fff"/>
+<g fill="#000">
+<circle r="26.03933" fill="#000"/>
+<path d="M-2.5-55h5V20h-5zM-50 29.3H50v2H-50zm0 4H50v3H-50zm0 6.7H50v4H-50z"/>
+<path d="M20-2.25h35v4.5h-35z" transform="rotate(25)"/>
+<path d="M20-2.25h35v4.5h-35z" transform="rotate(155)"/>
+</g>
+<path d="M0 0 28 28H-28z" fill="#fff"/>
+</mask>
+<path d="M0 0H900V600H0z" fill="#fff"/>
+<g transform="translate(450 300) scale(3.6)">
+<path d="M0-2 50 25V50H-50L-50 25z" mask="url(#m)" fill="#23b24b"/>
+<path d="M-50-50h100V25L0 0L-50 25z" mask="url(#m)" fill="#007ac0"/>
+</g>
+</svg>
