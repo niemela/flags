@@ -1,0 +1,14 @@
+<svg width="900" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<clipPath id="c"><path d="M-160-160H160V-8H-160zM-160 160H160V 8H-160z"/></clipPath>
+<path d="M0 0H900V600H0z" fill="#880016"/>
+<g transform="translate(450 300) scale(1.125)">
+<circle r="115" stroke="#fff" stroke-width="90" fill="none" clip-path="url(#c)"/>
+<g id="t">
+<path id="a" d="M0-200v80h60z" fill="#fff" transform="rotate(30 0 -200)" />
+<use xlink:href="#a" transform="scale(-1,1)" />
+</g>
+<use xlink:href="#t" transform="rotate(120)" />
+<use xlink:href="#t" transform="rotate(240)" />
+<use xlink:href="#t" transform="rotate(180 0 -115)" />
+</g>
+</svg>
