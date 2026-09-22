@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="775" height="520">
+<mask id="m" stroke="none">
+<circle r="55" fill="#fff"/>
+<path d="M-9.5 -50h5v12h-5zM-20 0A55 55 0 0 1-75 55L-35 30z" fill="#000"/>
+</mask>
+<mask id="m2" stroke="none">
+<circle r="55" fill="#fff"/>
+</mask>
+<path d="M0 0 H775V520H0z" fill="#880016"/>
+<g transform="translate(387.5 260) scale(2.6)">
+<g fill="none" stroke="#fff" stroke-width="9">
+<g mask="url(#m)">
+<circle r="15.5"/>
+<circle r="45.5"/>
+<circle cx="75" r="45.5"/>
+</g>
+<circle cx="-75" r="45.5" mask="url(#m2)"/>
+</g>
+<path d="M-4.5-42h9V42h-9z"  fill="#fff"/>
+<path d="M-36-2.5h15v5h-15z" fill="#880016"/>
+</g>
+</svg>
