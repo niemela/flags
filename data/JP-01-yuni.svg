@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="-150 -100 300 200" fill="#fff">
+<mask id="m">
+<path d="M-50-50H50V50H-50z" fill="#fff"/>
+<path d="M25-10a10 10 0 0 1 0 20h-50a10 10 0 0 1 0-20zM-60-20h35v13H-60z" fill="#000"/>
+</mask>
+<path d="M-150-100h300v200h-300z" fill="#37003c"/>
+<circle r="50" mask="url(#m)"/>
+<path d="M-50-50H0L-25-10H-70zM50 50H0L25 10H 70z"/>
+</svg>

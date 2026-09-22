@@ -1,0 +1,70 @@
+{
+  "id": "JP-01-shikaoi",
+  "name": "Shikaoi (Japan)",
+  "type": [
+    "city"
+  ],
+  "parent": "JP-01",
+  "codes": {
+    "wikidata": "Q1357679",
+    "jis": "016349"
+  },
+  "region": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Horizontal tricolour of green, white and blue, the white charged with the Shikaoi town emblem: a red disc between brown deer antlers.",
+  "history": "Municipal flag of Shikaoi, a town in Hokkaido; like most Japanese municipal flags it shows the municipal emblem on a plain field. Flag and emblem were adopted on 10 July 1949.",
+  "periods": [
+    {
+      "start": "1949-07-10"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Shikaoi,_Hokkaido.svg",
+    "https://www.wikidata.org/wiki/Q1357679",
+    "https://en.wikipedia.org/wiki/Shikaoi,_Hokkaido",
+    "https://ja.wikipedia.org/wiki/%E9%B9%BF%E8%BF%BD%E7%94%BA"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "disc at the centre"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "deer antlers flanking the disc"
+    }
+  ]
+}

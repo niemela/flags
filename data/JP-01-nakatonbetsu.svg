@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600" fill="#fff">
+<mask id="m">
+<path d="M-120-120h240v240h-240z" fill="#fff"/>
+<circle r="110" fill="#000"/>
+<g id="b">
+<g id="a">
+<circle cx="111.847284" r="34.603962" fill="#fff"/>
+<circle cx="111.847284" r="24.603962" fill="#000"/>
+</g>
+<use xlink:href="#a" transform="rotate(60)"/>
+<use xlink:href="#a" transform="rotate(-60)"/>
+</g>
+<use xlink:href="#b" transform="scale(-1 1)"/>
+</mask>
+<path d="M0 0H900V600H0z" fill="#000080"/>
+<g transform="translate(450 300) scale(1.5)">
+<circle r="120" mask="url(#m)" />
+<circle r="47.5" fill="none" stroke="#fff" stroke-width="25" />
+<g id="d">
+<path id="c" d="M0-100v60L40-60" transform="rotate(22.5 0-100)"/>
+<use xlink:href="#c" transform="rotate(60)"/>
+<use xlink:href="#c" transform="rotate(-60)"/>
+</g>
+<use xlink:href="#d" transform="scale(1-1)"/>
+<path d="M-5-40h10v80h-10z"/>
+</g>
+</svg>
