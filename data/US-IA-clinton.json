@@ -1,0 +1,62 @@
+{
+  "id": "US-IA-clinton",
+  "name": "Clinton (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-IA",
+  "codes": {
+    "wikidata": "Q676421"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "9:16",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontal tricolour of green, blue and green, charged at the centre with a white disc bearing a red compass rose, from the city seal.",
+  "history": "Clinton is a city in and the county seat of Clinton County, Iowa.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Clinton,_Iowa.svg",
+    "https://www.wikidata.org/wiki/Q676421",
+    "https://en.wikipedia.org/wiki/Clinton,_Iowa",
+    "https://www.crwflags.com/fotw/flags/us-ia-cn.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "blue",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center",
+      "role": "disc with a red compass rose"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "compass rose from the city seal"
+    }
+  ]
+}
