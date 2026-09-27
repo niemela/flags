@@ -1,0 +1,57 @@
+{
+  "id": "CO-QUI-genova",
+  "name": "Génova (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-QUI",
+  "codes": {
+    "wikidata": "Q968063",
+    "dane": "63302"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Six horizontal stripes of green and white with a yellow triangle at the hoist.",
+  "history": "Municipal flag of Génova, a municipality in the department of Quindío, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Génova_(Quindío).svg",
+    "https://www.wikidata.org/wiki/Q968063",
+    "https://en.wikipedia.org/wiki/G%C3%A9nova,_Quind%C3%ADo",
+    "https://es.wikipedia.org/wiki/G%C3%A9nova_(Quind%C3%ADo)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green",
+        "white",
+        "green",
+        "white"
+      ],
+      "count": 6
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "triangle at the hoist"
+    }
+  ]
+}
