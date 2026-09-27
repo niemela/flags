@@ -1,0 +1,53 @@
+{
+  "id": "US-AR-faulkner-county",
+  "name": "Faulkner County, Arkansas (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-AR",
+  "codes": {
+    "wikidata": "Q61468"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Navy blue field charged with a white lozenge bordered in red and set with red stars, bearing a red map of the county with the words FAULKNER COUNTY EST. 1873, after the Arkansas state flag.",
+  "history": "Faulkner County is a county located in the Central Arkansas region of Arkansas.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Faulkner_County,_Arkansas.svg",
+    "https://www.wikidata.org/wiki/Q61468",
+    "https://en.wikipedia.org/wiki/Faulkner_County,_Arkansas"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "lozenge",
+      "color": "white",
+      "position": "center",
+      "role": "lozenge bordered in red, after the Arkansas flag"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "map of Faulkner County and stars on the lozenge"
+    }
+  ]
+}
