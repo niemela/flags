@@ -1,0 +1,61 @@
+{
+  "id": "CO-PUT-mocoa",
+  "name": "Mocoa (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-PUT",
+  "codes": {
+    "wikidata": "Q579803",
+    "dane": "86001"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal tricolour of blue, white and green within a yellow border, the white charged with a yellow sun.",
+  "history": "Municipal flag of Mocoa, a municipality in the department of Putumayo, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Mocoa_(Putumayo).svg",
+    "https://www.wikidata.org/wiki/Q579803",
+    "https://en.wikipedia.org/wiki/Mocoa",
+    "https://es.wikipedia.org/wiki/Mocoa"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "border",
+      "color": "yellow"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "center",
+      "role": "sun of many rays"
+    }
+  ]
+}
