@@ -1,0 +1,63 @@
+{
+  "id": "PL-26-kluczewsko-gmina",
+  "name": "Gmina Kluczewsko (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-26",
+  "codes": {
+    "wikidata": "Q553418",
+    "teryt": "2613012"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field charged at the centre with a yellow key above a white horseshoe with crosses, the charge from the gmina arms.",
+  "history": "Established by the gmina council on 29 June 2012.",
+  "periods": [
+    {
+      "start": "2012-06-29"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Kluczewsko_flag.svg",
+    "https://www.wikidata.org/wiki/Q553418",
+    "https://pl.wikipedia.org/wiki/Kluczewsko_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_świętokrzyskim",
+    "http://edziennik.kielce.uw.gov.pl/legalact/2012/2083",
+    "http://ugklucze.vdl.pl/gmina/herb-i-flaga"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "key from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "horseshoe with crosses below the key"
+    }
+  ]
+}

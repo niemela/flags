@@ -1,0 +1,75 @@
+{
+  "id": "PL-26-secemin-gmina",
+  "name": "Gmina Secemin (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-26",
+  "codes": {
+    "wikidata": "Q553345",
+    "teryt": "2613052"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal bicolour of blue and red, the blue charged with a white eagle over the motto IN PRINCIPIO and the red with a white horse with a black girth, the charges from the gmina arms, set towards the fly.",
+  "history": "Established by resolution No. XL/172/02 of the gmina council of 5 June 2002.",
+  "periods": [
+    {
+      "start": "2002-06-05"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Secemin_flag.svg",
+    "https://www.wikidata.org/wiki/Q553345",
+    "https://pl.wikipedia.org/wiki/Secemin_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_świętokrzyskim",
+    "https://secemin.eobip.pl/bip_secemin/index.jsp?place=Lead07&news_cat_id=173&news_id=1844&layout=1&page=text"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "upper-fly",
+      "role": "eagle from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "upper-fly",
+      "role": "motto IN PRINCIPIO"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "lower-fly",
+      "role": "horse from the gmina arms"
+    }
+  ]
+}

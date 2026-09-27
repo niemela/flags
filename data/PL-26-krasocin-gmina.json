@@ -1,0 +1,76 @@
+{
+  "id": "PL-26-krasocin-gmina",
+  "name": "Gmina Krasocin (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-26",
+  "codes": {
+    "wikidata": "Q555583",
+    "teryt": "2613022"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Horizontal bicolour of light blue and red, the light blue charged with three white fleurs-de-lis and the red with a white horse with a black girth, the charges from the gmina arms.",
+  "history": "Established by resolution No. XXIV/185/12 of the gmina council of 28 December 2012, designed by Jerzy Michta.",
+  "periods": [
+    {
+      "start": "2012-12-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Krasocin_flag.svg",
+    "https://www.wikidata.org/wiki/Q555583",
+    "https://pl.wikipedia.org/wiki/Krasocin_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_świętokrzyskim",
+    "http://edziennik.kielce.uw.gov.pl/legalact/2013/503",
+    "https://echodnia.eu/swietokrzyskie/lilie-zamiast-korony-gmina-krasocin-zmienila-swoj-herb-i-flage/ar/8576498"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "top",
+      "role": "three fleurs-de-lis from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "bottom",
+      "role": "horse from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "bottom",
+      "role": "girth of the horse"
+    }
+  ]
+}

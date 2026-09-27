@@ -1,0 +1,56 @@
+{
+  "id": "PL-26-opatowiec-gmina",
+  "name": "Gmina Opatowiec (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-26",
+  "codes": {
+    "wikidata": "Q553741",
+    "teryt": "2603043"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Yellow field crossed by a blue diagonal band from the lower hoist to the upper fly.",
+  "history": "Established by resolution No. XLI/273/2014 of the gmina council of 30 April 2014.",
+  "periods": [
+    {
+      "start": "2014-04-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Gmina_Opatowiec_flaga.svg",
+    "https://www.wikidata.org/wiki/Q553741",
+    "https://pl.wikipedia.org/wiki/Opatowiec_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_świętokrzyskim",
+    "http://edziennik.kielce.uw.gov.pl/legalact/2014/1574",
+    "http://old.opatowiec.pl/2014/05/30/nowy-herb-flaga-i-pieczeci-gminy-opatowiec/"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band from the lower hoist to the upper fly"
+    }
+  ]
+}

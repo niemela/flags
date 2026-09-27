@@ -1,0 +1,67 @@
+{
+  "id": "PL-26-skarzysko-koscielne-gmina",
+  "name": "Gmina Skarżysko Kościelne (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-26",
+  "codes": {
+    "wikidata": "Q554735",
+    "teryt": "2610042"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal bicolour of white and red with a yellow triangle at the hoist charged with a red cross.",
+  "history": "Established by the gmina council on 26 August 1999.",
+  "periods": [
+    {
+      "start": "1999-08-26"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Skarżysko_Kościelne_flag.svg",
+    "https://www.wikidata.org/wiki/Q554735",
+    "https://pl.wikipedia.org/wiki/Skarżysko_Kościelne_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_świętokrzyskim",
+    "https://www.ugskarzysko.bip.doc.pl/index.php?wiad=44351",
+    "http://arch.skarzysko.com.pl/ng_czerwiec2010.pdf"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "triangle at the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "cross on the triangle"
+    }
+  ]
+}
