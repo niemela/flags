@@ -1,0 +1,69 @@
+{
+  "id": "PL-06-belzec-gmina",
+  "name": "Gmina Bełżec (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q2179399",
+    "teryt": "3060818022"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Five vertical stripes of red, yellow, red, yellow and red in the ratio 1:1:4:1:1, the central red charged with a yellow tree with a white snake and a rake, the charge from the gmina arms.",
+  "history": "Established by resolution No. XVI/85/12 of the gmina council of 28 June 2012, designed by Henryk Seroka and Paweł Dudziński.",
+  "periods": [
+    {
+      "start": "2012-06-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Bełżec_flag.svg",
+    "https://www.wikidata.org/wiki/Q2179399",
+    "https://pl.wikipedia.org/wiki/Bełżec_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_lubelskim",
+    "https://edziennik.lublin.uw.gov.pl/legalact/2012/2285"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 5
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "tree from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "snake and rake beside the tree"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "PL-06-krasnik",
+  "name": "Kraśnik (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q983723",
+    "teryt": "0607011"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Yellow field with a red triangle from the hoist reaching the fly, charged with the charge from the city arms: crossed yellow arrows and a sword.",
+  "history": "Established by resolution No. XI/71/2015 of the city council of 25 June 2015.",
+  "periods": [
+    {
+      "start": "2015-06-25"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Kraśnik_flag.svg",
+    "https://www.wikidata.org/wiki/Q983723",
+    "https://pl.wikipedia.org/wiki/Kraśnik",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_lubelskim",
+    "https://edziennik.lublin.uw.gov.pl/legalact/2015/2396/",
+    "https://www.krasnik.eu/symbole-miasta"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "triangle from the hoist reaching towards the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "crossed arrows and sword from the city arms"
+    }
+  ]
+}

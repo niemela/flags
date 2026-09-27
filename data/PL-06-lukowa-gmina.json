@@ -1,0 +1,67 @@
+{
+  "id": "PL-06-lukowa-gmina",
+  "name": "Gmina Łukowa (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q2460478",
+    "teryt": "0602092"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertical bicolour of red and white, the red charged with the charge from the gmina arms: two white fleurs-de-lis above crossed yellow arrows.",
+  "history": "Established by resolution No. X/89/2016 of the gmina council of 26 August 2016, designed by Kamil Wójcikowski and Robert Fidura.",
+  "periods": [
+    {
+      "start": "2016-08-26"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Łukowa_flag.svg",
+    "https://www.wikidata.org/wiki/Q2460478",
+    "https://pl.wikipedia.org/wiki/Łukowa_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_lubelskim",
+    "https://edziennik.lublin.uw.gov.pl/legalact/2016/3822",
+    "https://gazetabilgoraj.pl/gmina-%c5%82ukowa-ma-herb/"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "two fleurs-de-lis from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "crossed arrows from the gmina arms"
+    }
+  ]
+}

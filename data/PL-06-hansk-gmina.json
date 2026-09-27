@@ -1,0 +1,62 @@
+{
+  "id": "PL-06-hansk-gmina",
+  "name": "Gmina Hańsk (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q2349027",
+    "teryt": "0619032"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field charged at the centre with three white bars above a yellow oak tree, the charge from the gmina arms.",
+  "history": "Established by resolution No. XXI/150/09 of the gmina council of 30 June 2009.",
+  "periods": [
+    {
+      "start": "2009-06-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Hańsk_flag.svg",
+    "https://www.wikidata.org/wiki/Q2349027",
+    "https://pl.wikipedia.org/wiki/Hańsk_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_lubelskim",
+    "https://ughansk.bip.lubelskie.pl/index.php?id=55&id_dokumentu=334625&akcja=szczegoly&p2=334625"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "top",
+      "role": "three bars from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "oak tree from the gmina arms"
+    }
+  ]
+}

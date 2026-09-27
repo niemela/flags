@@ -1,0 +1,70 @@
+{
+  "id": "PL-06-jastkow-gmina",
+  "name": "Gmina Jastków (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q2461112",
+    "teryt": "0609072"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Five horizontal stripes of white, red, white, red and white in the ratio 1:1:12:1:1, the central red charged towards the hoist with the charge from the gmina arms: two yellow lions' heads above a white horseshoe.",
+  "history": "Established by resolution No. XXX/220/2017 of the gmina council of 17 February 2017, designed by Wojciech Tutak.",
+  "periods": [
+    {
+      "start": "2017-02-17"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Jastków_flag.svg",
+    "https://www.wikidata.org/wiki/Q2461112",
+    "https://pl.wikipedia.org/wiki/Jastków_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_lubelskim",
+    "http://edziennik.lublin.uw.gov.pl/WDU_L/2017/927/akt.pdf",
+    "https://www.jastkow.pl/herb-gminy-jastkow-w-gmina/historia-ustanowienia-oficjalnych-symboli-gminy-jastkow.htm"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 5
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "two lions' heads from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "horseshoe from the gmina arms"
+    }
+  ]
+}

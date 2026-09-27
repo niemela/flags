@@ -1,0 +1,68 @@
+{
+  "id": "PL-06-batorz-gmina",
+  "name": "Gmina Batorz (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q2467398",
+    "teryt": "3060905012"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertical tricolour of white, red and yellow in the ratio 1:3:1, the red charged with two crossed white sabres and a yellow arrow, the charge from the gmina arms.",
+  "history": "Established by resolution No. XII/96/2016 of the gmina council of 12 July 2016, designed by Robert Szydlik.",
+  "periods": [
+    {
+      "start": "2016-07-12"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Batorz_flag.svg",
+    "https://www.wikidata.org/wiki/Q2467398",
+    "https://pl.wikipedia.org/wiki/Batorz_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_lubelskim",
+    "https://edziennik.lublin.uw.gov.pl/legalact/2016/3463",
+    "http://ias24.eu/aktualnosci,batorz-nowe-insygnia-zatwierdzone,15614.html"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "crossed sabres from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "arrow between the sabres"
+    }
+  ]
+}

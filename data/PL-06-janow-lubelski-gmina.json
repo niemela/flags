@@ -1,0 +1,68 @@
+{
+  "id": "PL-06-janow-lubelski-gmina",
+  "name": "Gmina Janów Lubelski (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q2461321",
+    "teryt": "0605053"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontal tricolour of blue, white and blue in the ratio 10:1:1, the white for the river Biała, charged at the centre with the charge from the gmina arms: Saint Barbara in white and red robes.",
+  "history": "Established by resolution No. LV/481/23 of the gmina council of 20 January 2023, designed by Henryk Seroka.",
+  "periods": [
+    {
+      "start": "2023-01-20"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Janów_Lubelski_flag.svg",
+    "https://www.wikidata.org/wiki/Q2461321",
+    "https://pl.wikipedia.org/wiki/Janów_Lubelski_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_lubelskim",
+    "https://edziennik.lublin.uw.gov.pl/legalact/2023/695/",
+    "https://www.eska.pl/lublin/janow-lubelski-ma-nowy-herb-poprzedni-byl-niezgodny-z-zasadami-aa-VSKy-kfQK-JtAz.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "figure of a saint from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "robe of the figure"
+    }
+  ]
+}

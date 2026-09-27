@@ -1,0 +1,62 @@
+{
+  "id": "PL-06-wlodawa",
+  "name": "Włodawa (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q751076",
+    "teryt": "0619011"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green hoist panel charged with crossed yellow torch and swords from the Jelita arms, and a white fly panel with two green triangles pointing to the hoist.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Włodawa_flag.svg",
+    "https://www.wikidata.org/wiki/Q751076",
+    "https://pl.wikipedia.org/wiki/Włodawa",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_lubelskim",
+    "https://umwlodawa.bip.lubelskie.pl/index.php?id=52",
+    "https://umwlodawa.bip.lubelskie.pl/index.php?id=115&p1=szczegoly&p2=494766"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "crossed torch and swords from the city arms"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "fly",
+      "role": "two triangles pointing to the hoist"
+    }
+  ]
+}

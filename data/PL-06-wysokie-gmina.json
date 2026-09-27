@@ -1,0 +1,58 @@
+{
+  "id": "PL-06-wysokie-gmina",
+  "name": "Gmina Wysokie (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q2182583",
+    "teryt": "0609152"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Vertical bicolour of white and red, the white charged with a red castle, the charge from the gmina arms.",
+  "history": "Established by resolution No. XX/139/2017 of the gmina council of 30 January 2017, designed by Henryk Seroka.",
+  "periods": [
+    {
+      "start": "2017-01-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Wysokie_flag.svg",
+    "https://www.wikidata.org/wiki/Q2182583",
+    "https://pl.wikipedia.org/wiki/Wysokie_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_lubelskim",
+    "https://edziennik.lublin.uw.gov.pl/legalact/2017/800",
+    "http://www.wysokie.pl/aktualnosci/nowy-herb-i-symbole-gminy-wysokie.html"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "castle from the gmina arms"
+    }
+  ]
+}

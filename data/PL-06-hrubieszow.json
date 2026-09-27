@@ -1,0 +1,54 @@
+{
+  "id": "PL-06-hrubieszow",
+  "name": "Hrubieszów (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q924103",
+    "teryt": "0604011"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, red above and green below, with a white stag's head from the city arms and the date 1400 in the upper hoist.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flaga_Hrubieszów.svg",
+    "https://www.wikidata.org/wiki/Q924103",
+    "https://pl.wikipedia.org/wiki/Hrubieszów",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_lubelskim",
+    "https://umhrubieszow.bip.lubelskie.pl/upload/pliki//2akt.pdf"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend",
+      "role": "divided diagonally red over green"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "stag's head from the city arms above the date 1400"
+    }
+  ]
+}

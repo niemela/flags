@@ -1,0 +1,67 @@
+{
+  "id": "PL-06-abramow-gmina",
+  "name": "Gmina Abramów (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q2277800",
+    "teryt": "3060908022"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertical bicolour of white and blue, the white charged with a blue columbine flower with a yellow centre, the charge from the gmina arms.",
+  "history": "Established by resolution No. XLV/207/2018 of the gmina council of 17 August 2018, designed by Henryk Seroka.",
+  "periods": [
+    {
+      "start": "2018-08-17"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Abramów_flag.svg",
+    "https://www.wikidata.org/wiki/Q2277800",
+    "https://pl.wikipedia.org/wiki/Abramów_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_lubelskim",
+    "https://edziennik.lublin.uw.gov.pl/legalact/2018/4087",
+    "https://www.abramow.pl/aktualnosci/n,46849,uchwala-nr-xlv-207-2018-rady-gminy-abramow-z-dnia-17-sierpnia-2018-r.html"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "hoist",
+      "role": "columbine flower from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "centre of the flower"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "PL-06-krasnystaw-gmina",
+  "name": "Gmina Krasnystaw (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q2158080",
+    "teryt": "0606052"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Green field charged at the centre with a yellow carp within a white wreath of hop leaves, the charge from the gmina arms.",
+  "history": "Established by resolution No. X/73/2003 of the gmina council of 28 October 2003.",
+  "periods": [
+    {
+      "start": "2003-10-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Krasnystaw_flag.svg",
+    "https://www.wikidata.org/wiki/Q2158080",
+    "https://pl.wikipedia.org/wiki/Krasnystaw_(gmina_wiejska)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_lubelskim",
+    "https://ugkrasnystaw.bip.e-zeto.eu/index.php?type=4&name=bt41&func=selectsite&value%255B0%255D=mnu16&value%255B1%255D=13"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "carp from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "wreath of hop leaves around the carp"
+    }
+  ]
+}

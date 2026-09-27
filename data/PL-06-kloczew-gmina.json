@@ -1,0 +1,68 @@
+{
+  "id": "PL-06-kloczew-gmina",
+  "name": "Gmina Kłoczew (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q2193958",
+    "teryt": "0616022"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field charged with a black bear from the gmina arms above two red horizontal stripes.",
+  "history": "Established by resolution No. XXIV/175/2016 of the gmina council of 22 July 2016.",
+  "periods": [
+    {
+      "start": "2016-07-22"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Kłoczew_flag.svg",
+    "https://www.wikidata.org/wiki/Q2193958",
+    "https://pl.wikipedia.org/wiki/Kłoczew_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_lubelskim",
+    "https://edziennik.lublin.uw.gov.pl/legalact/2016/3468",
+    "http://podlasie24.pl//ryki/region/gmina-kloczew-ma-herb-1d4b7.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "walking bear from the gmina arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "position": "bottom",
+      "role": "two red stripes along the bottom"
+    }
+  ]
+}

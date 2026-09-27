@@ -1,0 +1,67 @@
+{
+  "id": "PL-06-baranow-gmina",
+  "name": "Gmina Baranów (Lublin, Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-06",
+  "codes": {
+    "wikidata": "Q521282",
+    "teryt": "3060914022"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red hoist half charged with a yellow crowned lion from the gmina arms, and a fly half of five horizontal stripes, three yellow and two red.",
+  "history": "Established by resolution No. XXXV/299/2009 of the gmina council of 16 April 2009.",
+  "periods": [
+    {
+      "start": "2009-04-16"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Baranów_(powiat_puławski)_flag.svg",
+    "https://www.wikidata.org/wiki/Q521282",
+    "https://pl.wikipedia.org/wiki/Baranów_(gmina_w_województwie_lubelskim)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_lubelskim",
+    "https://www.gminabaranow.pl/index.php/herb-i-flaga-gminy",
+    "http://bip.gminabaranow.pl/prawo-miejscowe/uchwaly-rady-gminy/uchwaly-rady-gminy-v-kadencji-lata-2006-2010/482-xxxv-sesja-rady-gminy"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "crowned lion from the gmina arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 5,
+      "position": "fly",
+      "role": "five stripes in the fly half"
+    }
+  ]
+}
