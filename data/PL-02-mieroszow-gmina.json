@@ -1,0 +1,55 @@
+{
+  "id": "PL-02-mieroszow-gmina",
+  "name": "Gmina Mieroszów (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-02",
+  "codes": {
+    "wikidata": "Q668847",
+    "teryt": "0221063"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, white above with the gmina arms towards the hoist and red below; this is the official (urzędowa) flag, the public flag omits the arms.",
+  "history": "Established by the gmina council in 1997, designed by Alfred Znamierowski.",
+  "periods": [
+    {
+      "start": "1997"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Mieroszów_flag_official.svg",
+    "https://www.wikidata.org/wiki/Q668847",
+    "https://pl.wikipedia.org/wiki/Mieroszów_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_dolnośląskim",
+    "https://bip.mieroszow.pl/statut-gminy-mieroszow.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend-sinister",
+      "role": "divided diagonally white over red"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "upper-hoist",
+      "role": "gmina coat of arms"
+    }
+  ]
+}

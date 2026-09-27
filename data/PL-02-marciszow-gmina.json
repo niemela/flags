@@ -1,0 +1,45 @@
+{
+  "id": "PL-02-marciszow-gmina",
+  "name": "Gmina Marciszów (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-02",
+  "codes": {
+    "wikidata": "Q2460489",
+    "teryt": "0207042"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, white above and blue below.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Marciszów_flag.svg",
+    "https://www.wikidata.org/wiki/Q2460489",
+    "https://pl.wikipedia.org/wiki/Marciszów_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_dolnośląskim",
+    "https://bip.marciszow.pl/?bip=2&cid=199&id=712"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "blue",
+      "direction": "bend-sinister",
+      "role": "divided diagonally white over blue"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "PL-02-marcinowice-gmina",
+  "name": "Gmina Marcinowice (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-02",
+  "codes": {
+    "wikidata": "Q2326602",
+    "teryt": "0219052"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Green field charged at the centre with a yellow monogram of two mirrored letters R above a white cross, the charge from the gmina arms.",
+  "history": "Established by resolution No. XXVII/182/16 of the gmina council of 16 December 2016, designed by Kamil Wójcikowski and Robert Fidura.",
+  "periods": [
+    {
+      "start": "2016-12-16"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Marcinowice_flag.svg",
+    "https://www.wikidata.org/wiki/Q2326602",
+    "https://pl.wikipedia.org/wiki/Marcinowice_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_dolnośląskim",
+    "https://edzienniki.duw.pl/legalact/2016/5950",
+    "https://www.marcinowice.pl/gmina/herb-gminy-marcinowice"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "mirrored R monogram from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "cross below the monogram"
+    }
+  ]
+}

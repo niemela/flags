@@ -1,0 +1,65 @@
+{
+  "id": "PL-02-sycow-gmina",
+  "name": "Gmina Syców (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-02",
+  "codes": {
+    "wikidata": "Q2288246",
+    "teryt": "0214073"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Horizontal tricolour of white, red and yellow with a black triangle at the hoist.",
+  "history": "Established by the gmina council on 7 March 1996.",
+  "periods": [
+    {
+      "start": "1996-03-07"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Syców_flag.svg",
+    "https://www.wikidata.org/wiki/Q2288246",
+    "https://pl.wikipedia.org/wiki/Syców_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_dolnośląskim",
+    "http://sycow.eu/pl/224/0/herb-flaga-hejnal.html",
+    "https://bip.sycow.pl/podstawa-prawna-dzialania/statut"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "color": "black",
+      "position": "hoist",
+      "role": "triangle at the hoist"
+    }
+  ]
+}

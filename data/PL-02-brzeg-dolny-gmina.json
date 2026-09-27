@@ -1,0 +1,64 @@
+{
+  "id": "PL-02-brzeg-dolny-gmina",
+  "name": "Gmina Brzeg Dolny (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-02",
+  "codes": {
+    "wikidata": "Q2462934",
+    "teryt": "5020222013"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Red field divided by a white diagonal band from the lower hoist to the upper fly, charged with three red heraldic roses outlined in black, from the arms of the von Dyhrn family.",
+  "history": "Established by the gmina council on 2 June 1993.",
+  "periods": [
+    {
+      "start": "1993-06-02"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Brzeg_Dolny_Flag.svg",
+    "https://www.wikidata.org/wiki/Q2462934",
+    "https://pl.wikipedia.org/wiki/Brzeg_Dolny_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_dolnośląskim",
+    "https://www.weksylologia.pl/biuletyn-PTW/Flaga-nr-23-24-wrzesien-grudzien-2002.pdf"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "three heraldic roses on the band"
+    }
+  ]
+}

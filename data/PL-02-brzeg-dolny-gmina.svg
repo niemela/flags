@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/)
+	 and Kate :P -->
+<svg
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	version="1.0"
+	width="450"
+	height="300"
+	viewBox="0 0 450 300"
+	>
+	<defs></defs>
+	<g id="tlo" style="stroke:black;stroke-width:1px;">
+		<rect
+			x="0"
+			y="0"
+			width="450"
+			height="300"
+			style="fill:#d62000;"
+			id="czerwien" />
+		<rect
+			width="570"
+			height="175"
+			x="-175"
+			y="166"
+			transform="matrix(0.8314,-0.5555,0.5555,0.8314,0,0)"
+			style="fill:white;stroke:black;stroke-width:1px;"
+			id="szarfa" />
+	</g>
+	<g id="kwiat" style="fill:black;stroke:black;stroke-width:4px;">
+		<circle cx="225" cy="150" r="58" style="fill:#d62000;"/>
+		<circle cx="225" cy="150" r="20" style="fill:none;"/>
+		<path
+			d="M 223.5,130.4 C 223.5,130.8 227,130.5 
+				227,130.4 C 227.5,89.3 226,107.4 235,93 L 225,80 L 215,93 C 224,107.4 223,89.3 223,130.4 z "
+			style="stroke:none"
+			id="strzala" />
+		<use xlink:href="#strzala" transform="translate(225,150) rotate(72) translate(-225,-150)" />
+		<use xlink:href="#strzala" transform="translate(225,150) rotate(144) translate(-225,-150)" />
+		<use xlink:href="#strzala" transform="translate(225,150) rotate(216) translate(-225,-150)" />
+		<use xlink:href="#strzala" transform="translate(225,150) rotate(288) translate(-225,-150)" />
+	</g>
+	<use xlink:href="#kwiat" transform="translate(-118,78)" />
+	<use xlink:href="#kwiat" transform="translate(118,-78)" />
+</svg>

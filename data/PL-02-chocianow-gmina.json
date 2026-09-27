@@ -1,0 +1,56 @@
+{
+  "id": "PL-02-chocianow-gmina",
+  "name": "Gmina Chocianów (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-02",
+  "codes": {
+    "wikidata": "Q1994813",
+    "teryt": "5020216013"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Divided diagonally by a white band from the lower hoist to the upper fly, red below at the hoist and navy blue above at the fly.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Chocianow_flaga.svg",
+    "https://www.wikidata.org/wiki/Q1994813",
+    "https://pl.wikipedia.org/wiki/Chocianów_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_dolnośląskim",
+    "http://chocianow.bip.pbox.pl/public/get_file_contents.php?id=196638"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "navy",
+      "direction": "bend-sinister",
+      "role": "divided diagonally red and navy"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band along the division"
+    }
+  ]
+}

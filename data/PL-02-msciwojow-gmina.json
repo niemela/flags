@@ -1,0 +1,56 @@
+{
+  "id": "PL-02-msciwojow-gmina",
+  "name": "Gmina Mściwojów (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-02",
+  "codes": {
+    "wikidata": "Q2460455",
+    "teryt": "0205042"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontal bicolour of green and a chequy of white and red in two rows of eleven squares.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Mściwojów_flag.SVG",
+    "https://www.wikidata.org/wiki/Q2460455",
+    "https://pl.wikipedia.org/wiki/Mściwojów_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_dolnośląskim",
+    "http://bip.msciwojow.pl/?c=567",
+    "http://bip.msciwojow.pl/?a=5947"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "chequy",
+      "field": "white",
+      "chequy": "red",
+      "position": "bottom",
+      "role": "two rows of white and red squares"
+    }
+  ]
+}
