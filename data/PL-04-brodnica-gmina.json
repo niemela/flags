@@ -1,0 +1,59 @@
+{
+  "id": "PL-04-brodnica-gmina",
+  "name": "Gmina Brodnica (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-04",
+  "codes": {
+    "wikidata": "Q2108657",
+    "teryt": "6040602032"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with two white wavy horizontal lines in the upper half and a white open hand from the gmina arms in the lower hoist.",
+  "history": "Established by resolution No. XXVII/171/2001 of the gmina council of 28 November 2001.",
+  "periods": [
+    {
+      "start": "2001-11-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Brodnica_flag.svg",
+    "https://www.wikidata.org/wiki/Q2108657",
+    "https://pl.wikipedia.org/wiki/Brodnica_(gmina_wiejska_w_województwie_kujawsko-pomorskim)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_kujawsko-pomorskim",
+    "http://arch.bip.bydgoszcz.uw.gov.pl/index.php?option=com_journal&Itemid=76&rok=2002&nr=63"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "top",
+      "role": "two wavy lines across the upper half"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "lower-hoist",
+      "role": "open hand from the gmina arms"
+    }
+  ]
+}

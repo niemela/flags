@@ -1,0 +1,73 @@
+{
+  "id": "PL-04-czernikowo-gmina",
+  "name": "Gmina Czernikowo (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-04",
+  "codes": {
+    "wikidata": "Q2151271",
+    "teryt": "6040615032"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally by a black and yellow band from the lower hoist to the upper fly, white above with the gmina arms at the hoist and red below.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Czernikowo_flag.svg",
+    "https://www.wikidata.org/wiki/Q2151271",
+    "https://pl.wikipedia.org/wiki/Czernikowo_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_kujawsko-pomorskim",
+    "https://www.czernikowo.pl/5551,informator",
+    "https://www.bip.czernikowo.pl/839,statut-gminy"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend-sinister",
+      "role": "divided diagonally white over red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "black",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "black and yellow band along the division"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "yellow half of the band"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "upper-hoist",
+      "role": "gmina coat of arms"
+    }
+  ]
+}

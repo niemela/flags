@@ -1,0 +1,71 @@
+{
+  "id": "PL-04-brzozie-gmina",
+  "name": "Gmina Brzozie (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-04",
+  "codes": {
+    "wikidata": "Q618176",
+    "teryt": "6040602042"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Horizontal tricolour of white, black and red with narrow outer stripes, the black charged with a red stag's head above a white log with green leaves, the charge from the gmina arms.",
+  "history": "Established by resolution No. X/60/2015 of the gmina council of 8 December 2015, designed by Krzysztof Mikulski and Lech-Tadeusz Karczewski.",
+  "periods": [
+    {
+      "start": "2015-12-08"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Brzozie_flag.svg",
+    "https://www.wikidata.org/wiki/Q618176",
+    "https://pl.wikipedia.org/wiki/Brzozie_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_kujawsko-pomorskim",
+    "https://www.brzozie.pl/gmina-brzozie/informacje-o-gminie/herb-gminy/",
+    "http://edzienniki.bydgoszcz.uw.gov.pl/legalact/2015/4491/"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "black",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "stag's head from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "log with green leaves below the head"
+    }
+  ]
+}

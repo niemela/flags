@@ -1,0 +1,64 @@
+{
+  "id": "PL-04-mogilno-gmina",
+  "name": "Gmina Mogilno (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-04",
+  "codes": {
+    "wikidata": "Q2182076",
+    "teryt": "0409033"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Light blue hoist panel charged with three yellow crosses from the gmina arms, and a fly panel of seven horizontal stripes, four light blue and three yellow, in the ratio 5:3.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Mogilno_flag.svg",
+    "https://www.wikidata.org/wiki/Q2182076",
+    "https://pl.wikipedia.org/wiki/Mogilno_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_kujawsko-pomorskim",
+    "http://edzienniki.bydgoszcz.uw.gov.pl/legalact/2016/4822/",
+    "https://www.mogilno.pl/asp/flaga,15,,1,0,14"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "three crosses from the gmina arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "yellow",
+        "light-blue",
+        "yellow",
+        "light-blue",
+        "yellow",
+        "light-blue"
+      ],
+      "count": 7,
+      "position": "fly",
+      "role": "seven stripes in the fly panel"
+    }
+  ]
+}

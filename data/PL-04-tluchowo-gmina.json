@@ -1,0 +1,70 @@
+{
+  "id": "PL-04-tluchowo-gmina",
+  "name": "Gmina Tłuchowo (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-04",
+  "codes": {
+    "wikidata": "Q618404",
+    "teryt": "0408082"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Light blue hoist half charged with two crossed white sabres between the letters I and I from the gmina arms, and a fly half of five horizontal stripes, three light blue and two yellow.",
+  "history": "Established by resolution No. XXIX/183/2010 of the gmina council of 15 June 2010.",
+  "periods": [
+    {
+      "start": "2010-06-15"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Tłuchowo_flag.svg",
+    "https://www.wikidata.org/wiki/Q618404",
+    "https://pl.wikipedia.org/wiki/Tłuchowo_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_kujawsko-pomorskim",
+    "http://edzienniki.bydgoszcz.uw.gov.pl/legalact/2010/126/1610/",
+    "http://www.tluchowo.com.pl/herb-gminy-tluchowo.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "crossed sabres from the gmina arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "yellow",
+        "light-blue",
+        "yellow",
+        "light-blue"
+      ],
+      "count": 5,
+      "position": "fly",
+      "role": "five stripes in the fly half"
+    }
+  ]
+}

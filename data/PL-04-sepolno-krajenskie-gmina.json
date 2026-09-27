@@ -1,0 +1,56 @@
+{
+  "id": "PL-04-sepolno-krajenskie-gmina",
+  "name": "Gmina Sępólno Krajeńskie (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-04",
+  "codes": {
+    "wikidata": "Q1880150",
+    "teryt": "0413023"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, blue above with the charge from the gmina arms in the canton and yellow below.",
+  "history": "Established by resolution No. XXXI/271/05 of the gmina council of 25 May 2005.",
+  "periods": [
+    {
+      "start": "2005-05-25"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Sępólno_Krajeńskie_flag.svg",
+    "https://www.wikidata.org/wiki/Q1880150",
+    "https://pl.wikipedia.org/wiki/Sępólno_Krajeńskie_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_kujawsko-pomorskim",
+    "https://bip.gmina-sepolno.pl/?cid=360&bip_id=1302"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "yellow",
+      "direction": "bend-sinister",
+      "role": "divided diagonally blue over yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "canton",
+      "role": "bishop with a gridiron, the charge from the gmina arms"
+    }
+  ]
+}

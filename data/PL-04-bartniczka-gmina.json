@@ -1,0 +1,62 @@
+{
+  "id": "PL-04-bartniczka-gmina",
+  "name": "Gmina Bartniczka (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-04",
+  "codes": {
+    "wikidata": "Q2606237",
+    "teryt": "6040602062"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field charged at the centre with a brown tree-trunk beehive between four yellow bees, the charge from the gmina arms.",
+  "history": "Established by resolution No. XXIV/115/09 of the gmina council of 20 June 2009.",
+  "periods": [
+    {
+      "start": "2009-06-20"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Bartniczka_flag.svg",
+    "https://www.wikidata.org/wiki/Q2606237",
+    "https://pl.wikipedia.org/wiki/Bartniczka_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_kujawsko-pomorskim",
+    "http://edzienniki.bydgoszcz.uw.gov.pl/legalact/2009/71/1343/"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "tree-trunk beehive from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "four bees around the beehive"
+    }
+  ]
+}

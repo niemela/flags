@@ -1,0 +1,67 @@
+{
+  "id": "PL-04-szubin-gmina",
+  "name": "Gmina Szubin (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-04",
+  "codes": {
+    "wikidata": "Q2458791",
+    "teryt": "0410053"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided diagonally by a white band from the lower hoist to the upper fly, red above and green below, charged at the centre with the gmina arms.",
+  "history": "Established by resolution No. XXIII/211/05 of the gmina council of 10 February 2005.",
+  "periods": [
+    {
+      "start": "2005-02-10"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Szubin_flag.svg",
+    "https://www.wikidata.org/wiki/Q2458791",
+    "https://pl.wikipedia.org/wiki/Szubin_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_kujawsko-pomorskim",
+    "https://szubin.pl/symbole-gminy.html",
+    "http://arch.bip.bydgoszcz.uw.gov.pl/index.php?option=com_journal&rok=2005&nr=29"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend-sinister",
+      "role": "divided diagonally red over green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band along the division"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "gmina coat of arms"
+    }
+  ]
+}

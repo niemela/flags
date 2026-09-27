@@ -1,0 +1,63 @@
+{
+  "id": "PL-04-kesowo-gmina",
+  "name": "Gmina Kęsowo (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-04",
+  "codes": {
+    "wikidata": "Q1857685",
+    "teryt": "0416032"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "grey"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field charged at the centre with a silver-grey pelican holding a white rose, the charge from the gmina arms.",
+  "history": "Established by resolution No. XXXVI/210/2010 of the gmina council of 11 March 2010, designed by Krzysztof Mikulski and Lech-Tadeusz Karczewski.",
+  "periods": [
+    {
+      "start": "2010-03-11"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Kęsowo_flag.svg",
+    "https://www.wikidata.org/wiki/Q1857685",
+    "https://pl.wikipedia.org/wiki/Kęsowo_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_kujawsko-pomorskim",
+    "https://weekendfm.pl/?n=26677",
+    "https://edzienniki.bydgoszcz.uw.gov.pl/WDU_C/2010/80/942/Akt.pdf"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "grey",
+      "position": "center",
+      "role": "pelican from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "rose held by the pelican"
+    }
+  ]
+}

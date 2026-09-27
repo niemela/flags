@@ -1,0 +1,57 @@
+{
+  "id": "PL-04-gniewkowo-gmina",
+  "name": "Gmina Gniewkowo (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-04",
+  "codes": {
+    "wikidata": "Q2491528",
+    "teryt": "0407033"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field charged at the centre with a white castle wall with two towers and a yellow crowned eagle, the charge from the gmina arms.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Gniewkowo_flag.svg",
+    "https://www.wikidata.org/wiki/Q2491528",
+    "https://pl.wikipedia.org/wiki/Gniewkowo_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_kujawsko-pomorskim",
+    "https://bip-v1-files.idcom-jst.pl/sites/3082/wiadomosci/352216/files/uchwala_nr_xxxi_150_2016.pdf"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "castle wall with two towers from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crowned eagle between the towers"
+    }
+  ]
+}

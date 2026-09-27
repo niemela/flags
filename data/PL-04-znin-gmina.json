@@ -1,0 +1,71 @@
+{
+  "id": "PL-04-znin-gmina",
+  "name": "Gmina Żnin (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-04",
+  "codes": {
+    "wikidata": "Q2204247",
+    "teryt": "0419063"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field charged at the centre with a white castle with two red-roofed towers and yellow gates, the charge from the gmina arms.",
+  "history": "Established by resolution No. V/37/2003 of the gmina council of 28 March 2003.",
+  "periods": [
+    {
+      "start": "2003-03-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Żnin_flag.svg",
+    "https://www.wikidata.org/wiki/Q2204247",
+    "https://pl.wikipedia.org/wiki/Żnin_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_kujawsko-pomorskim",
+    "https://gminaznin.pl/cms/20558/herb_flaga_i_hejnal"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "castle from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "tower roofs"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "gates of the castle"
+    }
+  ]
+}

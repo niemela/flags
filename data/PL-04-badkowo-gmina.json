@@ -1,0 +1,70 @@
+{
+  "id": "PL-04-badkowo-gmina",
+  "name": "Gmina Bądkowo (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-04",
+  "codes": {
+    "wikidata": "Q2461287",
+    "teryt": "6040601052"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontal bicolour of yellow and red in the ratio 1:3, the red charged with two addorsed half-eagles, black and white, the charge from the gmina arms.",
+  "history": "Established by resolution No. XXII-135/2009 of the gmina council of 22 April 2009, designed by Krzysztof Dorcz.",
+  "periods": [
+    {
+      "start": "2009-04-22"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Bądkowo_flag.svg",
+    "https://www.wikidata.org/wiki/Q2461287",
+    "https://pl.wikipedia.org/wiki/Bądkowo_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_kujawsko-pomorskim",
+    "http://edzienniki.bydgoszcz.uw.gov.pl/legalact/2009/49/1039/",
+    "https://www.badkowo.gmina.pl/378,herb"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "black half-eagle from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "white half-eagle from the gmina arms"
+    }
+  ]
+}

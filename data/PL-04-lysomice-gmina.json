@@ -1,0 +1,70 @@
+{
+  "id": "PL-04-lysomice-gmina",
+  "name": "Gmina Łysomice (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-04",
+  "codes": {
+    "wikidata": "Q2086362",
+    "teryt": "0415062"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal bicolour of white and green in the ratio 4:1, the white charged with a red leaping stag between two yellow six-pointed stars, the charge from the gmina arms.",
+  "history": "Established by resolution No. XXII/132/2012 of the gmina council of 27 August 2012, designed by Jan Wroniszewski and Krzysztof Mikulski.",
+  "periods": [
+    {
+      "start": "2012-08-27"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Łysomice_flag.svg",
+    "https://www.wikidata.org/wiki/Q2086362",
+    "https://pl.wikipedia.org/wiki/Łysomice_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_kujawsko-pomorskim",
+    "https://webcache.googleusercontent.com/search?q=cache:5Foc4Hu3GvUJ:archiwum.lysomice.pl/plik%252C21001%252Cuchwa-a-nr-xxii-132-2012-doc.doc&cd=1&hl=pl&ct=clnk&gl=pl",
+    "https://stary.lysomice.pl/STRONA_42_SYMBOLE.HTM"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "leaping stag from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "two six-pointed stars flanking the stag"
+    }
+  ]
+}
