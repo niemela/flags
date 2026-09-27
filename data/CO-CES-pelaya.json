@@ -1,0 +1,59 @@
+{
+  "id": "CO-CES-pelaya",
+  "name": "Pelaya (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CES",
+  "codes": {
+    "wikidata": "Q962740",
+    "dane": "20550"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontal bicolour of yellow and green with a white triangle at the hoist bearing an ear of maize.",
+  "history": "Municipal flag of Pelaya, a municipality in the department of Cesar, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Pelaya_(Cesar).svg",
+    "https://www.wikidata.org/wiki/Q962740",
+    "https://en.wikipedia.org/wiki/Pelaya",
+    "https://es.wikipedia.org/wiki/Pelaya"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "triangle at the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "ear of maize on the triangle"
+    }
+  ]
+}

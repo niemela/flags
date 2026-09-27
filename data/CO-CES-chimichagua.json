@@ -1,0 +1,61 @@
+{
+  "id": "CO-CES-chimichagua",
+  "name": "Chimichagua (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CES",
+  "codes": {
+    "wikidata": "Q509339",
+    "dane": "20175"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, blue above and red below, charged at the centre with a white disc bearing the motto PAZ UNION Y TRABAJO in black.",
+  "history": "Municipal flag of Chimichagua, a municipality in the department of Cesar, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Chimichagua_(Cesar).svg",
+    "https://www.wikidata.org/wiki/Q509339",
+    "https://en.wikipedia.org/wiki/Chimichagua",
+    "https://es.wikipedia.org/wiki/Chimichagua"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "red",
+      "direction": "bend",
+      "role": "divided diagonally blue over red"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center",
+      "role": "disc"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "motto PAZ UNION Y TRABAJO on the disc"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "CO-CES-los-robles-la-paz",
+  "name": "La Paz (Cesar, Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CES",
+  "codes": {
+    "wikidata": "Q1442342",
+    "dane": "20621"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontal bicolour of green and red, charged at the centre with the white outline map of the municipality and a row of six red five-pointed stars on a white stripe along the top.",
+  "history": "Municipal flag of Los Robles La Paz, a municipality in the department of Cesar, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_La_Paz_Robles_(Cesar).svg",
+    "https://www.wikidata.org/wiki/Q1442342",
+    "https://en.wikipedia.org/wiki/Los_Robles_La_Paz",
+    "https://es.wikipedia.org/wiki/La_Paz_(Cesar)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "map outline of the municipality"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white"
+      ],
+      "count": 1,
+      "pos": "top",
+      "role": "thin white stripe along the top"
+    },
+    {
+      "type": "star",
+      "count": 6,
+      "points": 5,
+      "color": "red",
+      "position": "top",
+      "role": "six stars along the top stripe"
+    }
+  ]
+}

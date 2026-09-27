@@ -1,0 +1,55 @@
+{
+  "id": "CO-CES-gonzalez",
+  "name": "González (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CES",
+  "codes": {
+    "wikidata": "Q1577059",
+    "dane": "20310"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Green lower half, the upper half divided diagonally from the lower hoist to the upper fly, white above and blue below.",
+  "history": "Municipal flag of González, a municipality in the department of Cesar, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_González_(Cesar).svg",
+    "https://www.wikidata.org/wiki/Q1577059",
+    "https://en.wikipedia.org/wiki/Gonz%C3%A1lez,_Cesar",
+    "https://es.wikipedia.org/wiki/Gonz%C3%A1lez_(Cesar)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2,
+      "role": "lower half green"
+    },
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "blue",
+      "direction": "bend-sinister",
+      "role": "upper half divided diagonally white over blue"
+    }
+  ]
+}
