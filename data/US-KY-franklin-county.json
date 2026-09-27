@@ -1,0 +1,58 @@
+{
+  "id": "US-KY-franklin-county",
+  "name": "Franklin County, Kentucky (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-KY",
+  "codes": {
+    "wikidata": "Q491919"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "10:19",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Deep yellow field with a dark blue canton bearing a ring of eighteen small yellow stars, and FRANKLIN COUNTY in dark blue and 1795 in green in the fly.",
+  "history": "Franklin County is a county located in Kentucky.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Franklin_County,_Kentucky.svg",
+    "https://www.wikidata.org/wiki/Q491919",
+    "https://en.wikipedia.org/wiki/Franklin_County,_Kentucky",
+    "https://www.crwflags.com/fotw/flags/us-ky-fr.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "canton",
+      "color": "black",
+      "role": "dark blue canton"
+    },
+    {
+      "type": "star",
+      "count": 18,
+      "points": 5,
+      "color": "yellow",
+      "position": "canton",
+      "role": "ring of eighteen stars"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "fly",
+      "role": "words FRANKLIN COUNTY and 1795"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "US-KY-union",
+  "name": "Union (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-KY",
+  "codes": {
+    "wikidata": "Q2569123"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "4:7",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided horizontally white over navy blue, with a large red triangle from the hoist to the fly bearing a white triangle within, charged with three red stars of diminishing size.",
+  "history": "Union is a home-rule-class city in Boone County, Kentucky.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Union,_Kentucky.svg",
+    "https://www.wikidata.org/wiki/Q2569123",
+    "https://en.wikipedia.org/wiki/Union,_Kentucky",
+    "https://www.crwflags.com/fotw/flags/us-ky-un.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "navy"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "role": "triangle from the hoist to the fly with a white triangle within"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "red",
+      "position": "center",
+      "role": "three stars of diminishing size"
+    }
+  ]
+}
