@@ -1,0 +1,54 @@
+{
+  "id": "US-IN-clark-county",
+  "name": "Clark County, Indiana (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-IN",
+  "codes": {
+    "wikidata": "Q504441"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "White field bearing a dark blue map of the county overlaid with the torch and stars of the Indiana state flag and two early settlers in white, with CLARK COUNTY INDIANA in blue and green beside it.",
+  "history": "Clark County is a county in Indiana, located directly across the Ohio River from Louisville, Kentucky.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Clark_County,_IN.svg",
+    "https://www.wikidata.org/wiki/Q504441",
+    "https://en.wikipedia.org/wiki/Clark_County,_Indiana",
+    "https://www.crwflags.com/fotw/flags/us-in-ck.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "map",
+      "color": "navy",
+      "position": "hoist",
+      "role": "map of the county with the torch and stars of the state flag and two settlers in white"
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "fly",
+      "role": "words CLARK COUNTY INDIANA"
+    }
+  ]
+}

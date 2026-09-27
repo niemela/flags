@@ -1,0 +1,59 @@
+{
+  "id": "US-IN-danville",
+  "name": "Danville (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-IN",
+  "codes": {
+    "wikidata": "Q1022769"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "grey"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field with a grey horizontal stripe through the centre, charged with the town seal in a white ring, between the words DANVILLE and INDIANA in white.",
+  "history": "Danville is a town in and the county seat of Hendricks County, Indiana.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Danville,_Indiana.svg",
+    "https://www.wikidata.org/wiki/Q1022769",
+    "https://en.wikipedia.org/wiki/Danville,_Indiana",
+    "https://www.crwflags.com/fotw/flags/us-indan.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "grey",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "town seal in white, green and blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "words DANVILLE and INDIANA"
+    }
+  ]
+}

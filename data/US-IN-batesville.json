@@ -1,0 +1,63 @@
+{
+  "id": "US-IN-batesville",
+  "name": "Batesville (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-IN",
+  "codes": {
+    "wikidata": "Q2788730"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "Blue field with a light blue map of Indiana bearing a yellow star for Batesville over a yellow ribbon reading Est. 1852, the name Batesville in black above and Indiana in black below.",
+  "history": "Batesville is a city in Ripley and Franklin counties in Indiana.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Batesville,_Indiana.svg",
+    "https://www.wikidata.org/wiki/Q2788730",
+    "https://en.wikipedia.org/wiki/Batesville,_Indiana",
+    "https://www.crwflags.com/fotw/flags/us-inbat.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "light-blue",
+      "position": "center",
+      "role": "map of Indiana"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "ribbon reading Est. 1852 and the star for Batesville"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "words Batesville and Indiana"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "US-IN-fishers",
+  "name": "Fishers (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-IN",
+  "codes": {
+    "wikidata": "Q2284046"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a white band rising to the right, Kelly green above and Holland blue below, with a yellow triangle on each side of the band.",
+  "history": "Fishers is a city in Hamilton County, Indiana. According to the town's description on Flags of the World, the green stands for its fields, the blue for the sky, the White River and Geist Reservoir, the white band for the crossroads of 116th Street and Interstate 69, its upward angle for growth, and the two gold triangles for balances.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Fishers,_Indiana.svg",
+    "https://www.wikidata.org/wiki/Q2284046",
+    "https://en.wikipedia.org/wiki/Fishers,_Indiana",
+    "https://www.crwflags.com/fotw/flags/us-in-fi.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "navy",
+      "direction": "bend",
+      "role": "divided diagonally green over blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "white band for the town's crossroads"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "role": "two gold triangles symbolising balance"
+    }
+  ]
+}

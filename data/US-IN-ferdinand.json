@@ -1,0 +1,59 @@
+{
+  "id": "US-IN-ferdinand",
+  "name": "Ferdinand (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-IN",
+  "codes": {
+    "wikidata": "Q2112845"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A hilltop silhouette: dark blue land with the town's skyline against a yellow sky, a partial ring of stars in counterchanged colours, and the name Ferdinand in yellow Gothic letters on the blue.",
+  "history": "Ferdinand is a town in Ferdinand Township, Dubois County, in Indiana.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Ferdinand,_Indiana.svg",
+    "https://www.wikidata.org/wiki/Q2112845",
+    "https://en.wikipedia.org/wiki/Ferdinand,_Indiana",
+    "https://www.crwflags.com/fotw/flags/us-in-fe.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "bottom",
+      "role": "silhouette of the hilltop town"
+    },
+    {
+      "type": "star",
+      "count": 9,
+      "points": 5,
+      "color": "navy",
+      "position": "upper-hoist",
+      "role": "partial ring of stars, blue on the yellow sky and yellow on the blue land"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "name Ferdinand"
+    }
+  ]
+}

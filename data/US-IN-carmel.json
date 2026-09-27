@@ -1,0 +1,74 @@
+{
+  "id": "US-IN-carmel",
+  "name": "Carmel (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-IN",
+  "codes": {
+    "wikidata": "Q537853"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with a white rising diagonal band bearing the name CARMEL in blue, a large yellow star above the date 1837 in the upper hoist, and the city seal below the date 1976 in the lower fly.",
+  "history": "Carmel is a suburban city in Hamilton County, Indiana, immediately north of Indianapolis. The flag was adopted in 1976 (designed in 1976 by the former clerk-treasurer Peggy Lou Smith, according to Flags of the World).",
+  "periods": [
+    {
+      "start": "1976"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Carmel,_Indiana.svg",
+    "https://www.wikidata.org/wiki/Q537853",
+    "https://en.wikipedia.org/wiki/Carmel,_Indiana",
+    "https://www.crwflags.com/fotw/flags/us-incrm.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "rising diagonal band bearing the name CARMEL"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "date 1837"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "lower-fly",
+      "role": "city seal in yellow with the date 1976"
+    }
+  ]
+}

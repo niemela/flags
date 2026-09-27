@@ -1,0 +1,72 @@
+{
+  "id": "US-IN-tell-city",
+  "name": "Tell City (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-IN",
+  "codes": {
+    "wikidata": "Q2738191"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided in a V: red at the hoist, white in the centre and navy blue at the fly, with TELL CITY-INDIANA in red across the top, a red apple pierced by a yellow arrow — the apple of William Tell — in the white, and the date 1858 split between the red and blue.",
+  "history": "Tell City is a city in and the county seat of Perry County, Indiana, along the Ohio River.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Tell_City,_Indiana.svg",
+    "https://www.wikidata.org/wiki/Q2738191",
+    "https://en.wikipedia.org/wiki/Tell_City,_Indiana",
+    "https://www.crwflags.com/fotw/flags/us-intel.html"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "navy"
+      ],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "role": "white V between the red hoist and blue fly"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "top",
+      "role": "words TELL CITY-INDIANA"
+    },
+    {
+      "type": "fruit",
+      "color": "red",
+      "role": "apple pierced by a yellow arrow, for William Tell"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "date 1858 and the arrow"
+    }
+  ]
+}

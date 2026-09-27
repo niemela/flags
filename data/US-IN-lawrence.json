@@ -1,0 +1,71 @@
+{
+  "id": "US-IN-lawrence",
+  "name": "Lawrence (Indiana, United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-IN",
+  "codes": {
+    "wikidata": "Q1806779"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red upper part with five white stars and a white outline of the historic Fort Benjamin Harrison flag, over a navy blue lower part divided by a curved white line, charged with a white star flanked by wings.",
+  "history": "Lawrence is a city in Lawrence Township, Marion County, Indiana. The flag was adopted on 6 December 2019 (according to the Wikidata statement on the flag).",
+  "periods": [
+    {
+      "start": "2019-12-06"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Lawrence,_Indiana.svg",
+    "https://www.wikidata.org/wiki/Q1806779",
+    "https://en.wikipedia.org/wiki/Lawrence,_Indiana"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "navy"
+      ],
+      "count": 2
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "position": "top"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "role": "star flanked by wings"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "curved line dividing the field and the outline of a flag"
+    }
+  ]
+}

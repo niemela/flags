@@ -1,0 +1,84 @@
+{
+  "id": "US-IN-hancock-county",
+  "name": "Hancock County, Indiana (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-IN",
+  "codes": {
+    "wikidata": "Q506172"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Divided diagonally green over yellow by a white band rising to the fly bearing HANCOCK COUNTY in black, charged with a yellow star in a white disc surrounded by twelve yellow stars, a black silhouette of the county courthouse tower in the upper hoist and the date 1828 in the lower fly.",
+  "history": "Hancock County is a county in Indiana. The flag was adopted on 29 March 2004, according to Flags of the World.",
+  "periods": [
+    {
+      "start": "2004-03-29"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hancock_County,_Indiana.svg",
+    "https://www.wikidata.org/wiki/Q506172",
+    "https://en.wikipedia.org/wiki/Hancock_County,_Indiana",
+    "https://www.crwflags.com/fotw/flags/us-in-hk.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "yellow",
+      "direction": "bend",
+      "role": "divided diagonally green over yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "white band bearing HANCOCK COUNTY"
+    },
+    {
+      "type": "star",
+      "count": 13,
+      "points": 5,
+      "color": "orange",
+      "position": "center",
+      "role": "central star in a white disc with a ring of twelve stars"
+    },
+    {
+      "type": "building",
+      "color": "black",
+      "position": "upper-hoist",
+      "role": "silhouette of the courthouse tower"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "lower-fly",
+      "role": "date 1828"
+    }
+  ]
+}
