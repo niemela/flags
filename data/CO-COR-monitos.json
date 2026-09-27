@@ -1,0 +1,60 @@
+{
+  "id": "CO-COR-monitos",
+  "name": "Moñitos (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-COR",
+  "codes": {
+    "wikidata": "Q1441218",
+    "dane": "23500"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly by a broad navy blue band bearing a white anchor, white above and yellow-green below.",
+  "history": "Municipal flag of Moñitos, a municipality in the department of Córdoba, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Moñitos_(Córdoba).svg",
+    "https://www.wikidata.org/wiki/Q1441218",
+    "https://en.wikipedia.org/wiki/Mo%C3%B1itos",
+    "https://es.wikipedia.org/wiki/Mo%C3%B1itos"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "green",
+      "direction": "bend",
+      "role": "divided diagonally white over green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "navy",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "broad diagonal band along the division"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "anchor on the band"
+    }
+  ]
+}

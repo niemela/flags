@@ -1,0 +1,64 @@
+{
+  "id": "CO-COR-valencia",
+  "name": "Valencia (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-COR",
+  "codes": {
+    "wikidata": "Q1983488",
+    "dane": "23855"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Horizontal tricolour of yellow, white and green with a blue triangle at the hoist bearing a yellow five-pointed star.",
+  "history": "Municipal flag of Valencia, a municipality in the department of Córdoba, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Valencia_(Córdoba).svg",
+    "https://www.wikidata.org/wiki/Q1983488",
+    "https://en.wikipedia.org/wiki/Valencia,_Cordoba",
+    "https://es.wikipedia.org/wiki/Valencia_(Colombia)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "hoist",
+      "role": "triangle at the hoist"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "hoist"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "CO-COR-sahagun",
+  "name": "Sahagún (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-COR",
+  "codes": {
+    "wikidata": "Q591547",
+    "dane": "23660"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided by a green diagonal band from the lower hoist to the upper fly, white above and yellow below.",
+  "history": "Municipal flag of Sahagún, a municipality in the department of Córdoba, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Sahagún_(Córdoba).svg",
+    "https://www.wikidata.org/wiki/Q591547",
+    "https://en.wikipedia.org/wiki/Sahag%C3%BAn,_C%C3%B3rdoba",
+    "https://es.wikipedia.org/wiki/Sahag%C3%BAn_(Colombia)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "yellow",
+      "direction": "bend-sinister",
+      "role": "divided diagonally white over yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "green",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "broad diagonal band along the division"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "CO-COR-san-pelayo",
+  "name": "San Pelayo (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-COR",
+  "codes": {
+    "wikidata": "Q2314281",
+    "dane": "23686"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontal bicolour of yellow and green with a white triangle at the hoist bearing a drum and a trumpet.",
+  "history": "Municipal flag of San Pelayo, a municipality in the department of Córdoba, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_San_Pelayo_(Córdoba).svg",
+    "https://www.wikidata.org/wiki/Q2314281",
+    "https://en.wikipedia.org/wiki/San_Pelayo,_C%C3%B3rdoba",
+    "https://es.wikipedia.org/wiki/San_Pelayo_(C%C3%B3rdoba)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "triangle at the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "hoist",
+      "role": "drum on the triangle"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "trumpet on the triangle"
+    }
+  ]
+}
