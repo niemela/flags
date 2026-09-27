@@ -1,0 +1,79 @@
+{
+  "id": "CO-SAN-galan",
+  "name": "Galán (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-SAN",
+  "codes": {
+    "wikidata": "Q1492832",
+    "dane": "68296"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Blue vertical stripe at the hoist strewn with yellow five-pointed stars, the fly with horizontal stripes of white, yellow and red, and green.",
+  "history": "Municipal flag of Galán, a municipality in the department of Santander, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Galán_(Santander).svg",
+    "https://www.wikidata.org/wiki/Q1492832",
+    "https://en.wikipedia.org/wiki/Gal%C3%A1n,_Santander",
+    "https://es.wikipedia.org/wiki/Gal%C3%A1n_(Santander)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2,
+      "role": "blue hoist stripe"
+    },
+    {
+      "type": "star",
+      "count": 15,
+      "points": 5,
+      "color": "yellow",
+      "position": "hoist",
+      "role": "stars on the hoist stripe"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "yellow",
+        "green"
+      ],
+      "count": 3,
+      "pos": "fly",
+      "role": "fly of white, yellow and red, and green"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "fly",
+      "role": "red panel beside the yellow at the fly"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "CO-SAN-la-paz",
+  "name": "La Paz (Santander, Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-SAN",
+  "codes": {
+    "wikidata": "Q2432181",
+    "dane": "68397"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontal bicolour of white and green with a narrow diagonal band in the Colombian yellow, blue and red at the upper hoist corner.",
+  "history": "Municipal flag of La Paz, a municipality in the department of Santander, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_La_Paz_(Santander).svg",
+    "https://www.wikidata.org/wiki/Q2432181",
+    "https://en.wikipedia.org/wiki/La_Paz,_Santander",
+    "https://es.wikipedia.org/wiki/La_Paz_(Santander)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "count": 1,
+      "direction": "bend",
+      "role": "narrow tricolour band in yellow, blue and red at the upper hoist corner"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "upper-hoist",
+      "role": "diagonal band"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "diagonal band"
+    }
+  ]
+}

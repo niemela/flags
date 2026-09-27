@@ -1,0 +1,63 @@
+{
+  "id": "CO-SAN-el-carmen-de-chucuri",
+  "name": "El Carmen de Chucurí (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-SAN",
+  "codes": {
+    "wikidata": "Q515182",
+    "dane": "68235"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "5:12",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by bands of green, white and green, red above and yellow below.",
+  "history": "Municipal flag of El Carmen de Chucurí, a municipality in the department of Santander, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_El_Carmen_(Santander).svg",
+    "https://www.wikidata.org/wiki/Q515182",
+    "https://en.wikipedia.org/wiki/El_Carmen_de_Chucur%C3%AD",
+    "https://es.wikipedia.org/wiki/El_Carmen_de_Chucur%C3%AD"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "yellow",
+      "direction": "bend-sinister",
+      "role": "divided diagonally red over yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "green",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal bands of green, white and green along the division"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "central diagonal band"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "CO-SAN-simacota",
+  "name": "Simacota (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-SAN",
+  "codes": {
+    "wikidata": "Q1578171",
+    "dane": "68745"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, yellow above and green below, within a white border, charged at the centre with a white four-pointed star.",
+  "history": "Municipal flag of Simacota, a municipality in the department of Santander, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Simacota_(Santander).svg",
+    "https://www.wikidata.org/wiki/Q1578171",
+    "https://en.wikipedia.org/wiki/Simacota",
+    "https://es.wikipedia.org/wiki/Simacota"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "green",
+      "direction": "bend",
+      "role": "divided diagonally yellow over green"
+    },
+    {
+      "type": "border",
+      "color": "white",
+      "role": "thin border"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 4,
+      "color": "white",
+      "position": "center"
+    }
+  ]
+}

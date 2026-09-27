@@ -1,0 +1,64 @@
+{
+  "id": "CO-SAN-barichara",
+  "name": "Barichara (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-SAN",
+  "codes": {
+    "wikidata": "Q1576773",
+    "dane": "68079"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided by a broad yellow diagonal band from the lower hoist to the upper fly, blue above and green below, charged at the centre with a white five-pointed star.",
+  "history": "Municipal flag of Barichara, a municipality in the department of Santander, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Barichara_(Santander).svg",
+    "https://www.wikidata.org/wiki/Q1576773",
+    "https://en.wikipedia.org/wiki/Barichara",
+    "https://es.wikipedia.org/wiki/Barichara"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "green",
+      "direction": "bend-sinister",
+      "role": "divided diagonally blue over green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "broad diagonal band along the division"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center"
+    }
+  ]
+}

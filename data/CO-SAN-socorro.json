@@ -1,0 +1,62 @@
+{
+  "id": "CO-SAN-socorro",
+  "name": "Socorro (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-SAN",
+  "codes": {
+    "wikidata": "Q979980",
+    "dane": "68755"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Light blue upper half, the middle divided vertically red and yellow, and a dark green stripe along the bottom.",
+  "history": "Municipal flag of Socorro, a municipality in the department of Santander, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_El_Socorro_(Santander).svg",
+    "https://www.wikidata.org/wiki/Q979980",
+    "https://en.wikipedia.org/wiki/Socorro,_Santander",
+    "https://es.wikipedia.org/wiki/El_Socorro_(Santander)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "red",
+        "green"
+      ],
+      "count": 3,
+      "role": "light blue upper half, red-and-yellow middle band, dark green base"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2,
+      "pos": "center",
+      "role": "middle band divided red and yellow"
+    }
+  ]
+}

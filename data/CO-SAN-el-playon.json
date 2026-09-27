@@ -1,0 +1,81 @@
+{
+  "id": "CO-SAN-el-playon",
+  "name": "El Playón (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-SAN",
+  "codes": {
+    "wikidata": "Q1525443",
+    "dane": "68255"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Green field bearing a white rectangle with a blue horizontal stripe, a yellow five-pointed star above and a black one below.",
+  "history": "Municipal flag of El Playón, a municipality in the department of Santander, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_El_Playón_(Santander).svg",
+    "https://www.wikidata.org/wiki/Q1525443",
+    "https://en.wikipedia.org/wiki/El_Play%C3%B3n,_Santander",
+    "https://es.wikipedia.org/wiki/El_Play%C3%B3n_(Santander)"
+  ],
+  "features": [
+    {
+      "type": "border",
+      "color": "green",
+      "role": "broad green border"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "central rectangular panel"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "pos": "center",
+      "role": "horizontal stripe across the panel"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "top",
+      "role": "star above the stripe"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "black",
+      "position": "bottom",
+      "role": "star below the stripe"
+    }
+  ]
+}

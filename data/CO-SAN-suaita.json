@@ -1,0 +1,68 @@
+{
+  "id": "CO-SAN-suaita",
+  "name": "Suaita (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-SAN",
+  "codes": {
+    "wikidata": "Q2434325",
+    "dane": "68770"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green vertical stripe at the hoist bearing a yellow sun, the fly with horizontal stripes of red and yellow.",
+  "history": "Municipal flag of Suaita, a municipality in the department of Santander, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Suaita_(Santander).svg",
+    "https://www.wikidata.org/wiki/Q2434325",
+    "https://es.wikipedia.org/wiki/Suaita"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "red"
+      ],
+      "count": 2,
+      "role": "green hoist stripe"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 7,
+      "pos": "fly",
+      "role": "fly of seven horizontal stripes"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "sun with a face"
+    }
+  ]
+}

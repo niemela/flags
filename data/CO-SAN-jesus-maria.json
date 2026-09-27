@@ -1,0 +1,72 @@
+{
+  "id": "CO-SAN-jesus-maria",
+  "name": "Jesús María (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-SAN",
+  "codes": {
+    "wikidata": "Q731893",
+    "dane": "68368"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly by bands of green and blue, white above and yellow below, the white bearing thin brown stripes.",
+  "history": "Municipal flag of Jesus María, a municipality in the department of Santander, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Jesús_María_(Santander).svg",
+    "https://www.wikidata.org/wiki/Q731893",
+    "https://en.wikipedia.org/wiki/Jes%C3%BAs_Mar%C3%ADa,_Santander",
+    "https://es.wikipedia.org/wiki/Jes%C3%BAs_Mar%C3%ADa_(Santander)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "yellow",
+      "direction": "bend",
+      "role": "divided diagonally white over yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "green",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "diagonal bands of green and blue along the division"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "diagonal band"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "upper-fly",
+      "role": "thin horizontal stripes on the white"
+    }
+  ]
+}
