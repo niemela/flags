@@ -1,0 +1,53 @@
+{
+  "id": "IT-42-casanova-lerrone",
+  "name": "Casanova Lerrone (Italy)",
+  "type": [
+    "city"
+  ],
+  "parent": "IT-42",
+  "codes": {
+    "wikidata": "Q270586",
+    "istat": "009019"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly by a broad blue band, white at the hoist and yellow at the fly.",
+  "history": "Municipal flag of Casanova Lerrone, a comune in Liguria; Italian municipal arms, gonfaloni and flags are granted by decree of the President of the Republic on the advice of the Government's heraldry office.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Casanova_Lerrone-Bandiera.svg",
+    "https://www.wikidata.org/wiki/Q270586",
+    "https://en.wikipedia.org/wiki/Casanova_Lerrone",
+    "https://it.wikipedia.org/wiki/Casanova_Lerrone"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "yellow",
+      "direction": "bend",
+      "role": "divided diagonally, white at the hoist and yellow at the fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "broad diagonal band from the upper hoist to the lower fly"
+    }
+  ]
+}

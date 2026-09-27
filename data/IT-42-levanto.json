@@ -1,0 +1,58 @@
+{
+  "id": "IT-42-levanto",
+  "name": "Levanto (Italy)",
+  "type": [
+    "city"
+  ],
+  "parent": "IT-42",
+  "codes": {
+    "wikidata": "Q254139",
+    "istat": "011017"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with a yellow horizontal stripe across the centre of the fly, and a white panel with a red Greek cross throughout at the hoist.",
+  "history": "Municipal flag of Levanto, a comune in Liguria; Italian municipal arms, gonfaloni and flags are granted by decree of the President of the Republic on the advice of the Government's heraldry office.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Levanto-Bandiera_(Variante).svg",
+    "https://www.wikidata.org/wiki/Q254139",
+    "https://en.wikipedia.org/wiki/Levanto,_Liguria",
+    "https://it.wikipedia.org/wiki/Levanto"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "fly",
+      "role": "horizontal stripe across the fly"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "hoist",
+      "field": "white",
+      "role": "white panel with a red cross throughout at the hoist"
+    }
+  ]
+}
