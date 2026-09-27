@@ -1,0 +1,80 @@
+{
+  "id": "US-LA-ascension-parish",
+  "name": "Ascension Parish, Louisiana (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-LA",
+  "codes": {
+    "wikidata": "Q51733"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided by a white S-shaped band from the lower hoist to the upper fly, green at the hoist bearing a white sugar cane and navy blue at the fly bearing a white chemical plant, the band charged with three red stars.",
+  "history": "Ascension Parish is a parish located in Louisiana. The flag was adopted on 4 October 2018 (according to Flags of the World citing The Advocate; the designer chose the sugar cane and the chemical complex as the parish's agricultural and industrial symbols).",
+  "periods": [
+    {
+      "start": "2018-10-04"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Ascension_Parish,_Louisiana.svg",
+    "https://www.wikidata.org/wiki/Q51733",
+    "https://en.wikipedia.org/wiki/Ascension_Parish,_Louisiana",
+    "https://www.crwflags.com/fotw/flags/us-la-as.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "navy",
+      "direction": "bend",
+      "role": "divided by a white S-curve, green at the hoist and navy blue at the fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "S-shaped band for the Mississippi River"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "sugar cane"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "fly",
+      "role": "chemical plant"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "red",
+      "position": "center"
+    }
+  ]
+}

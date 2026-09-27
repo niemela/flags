@@ -1,0 +1,72 @@
+{
+  "id": "US-LA-east-baton-rouge-parish",
+  "name": "East Baton Rouge Parish, Louisiana (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-LA",
+  "codes": {
+    "wikidata": "Q491949"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Red field with a white and red vertical stripe near the hoist for the \"red stick\", a blue wavy stripe fimbriated in white for the Mississippi River, and a white shield with a fleur-de-lis, a castle and the British flag for the three countries that ruled Baton Rouge.",
+  "history": "East Baton Rouge Parish is the most populous parish in Louisiana. The flag was adopted on 25 June 2025 (approved by the Metro Council on 25 June 2025 and first raised outside city hall the next morning, designed by public-works employee Mark LeBlanc, according to Flags of the World citing WBRZ).",
+  "periods": [
+    {
+      "start": "2025-06-25"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_East_Baton_Rouge_Parish,_Louisiana.svg",
+    "https://www.wikidata.org/wiki/Q491949",
+    "https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",
+    "https://www.crwflags.com/fotw/flags/us-la-eb.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 3,
+      "role": "vertical stripe near the hoist for the red stick",
+      "position": "hoist"
+    },
+    {
+      "type": "wave",
+      "color": "navy",
+      "role": "wavy stripe fimbriated in white for the Mississippi River",
+      "fimbriation": {
+        "color": "white"
+      }
+    },
+    {
+      "type": "shield",
+      "color": "white",
+      "position": "hoist",
+      "role": "shield with a fleur-de-lis, a castle and the British flag"
+    }
+  ]
+}
