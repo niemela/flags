@@ -1,0 +1,65 @@
+{
+  "id": "US-NM-otero-county",
+  "name": "Otero County, New Mexico (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-NM",
+  "codes": {
+    "wikidata": "Q489756"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided diagonally into yellow at the hoist and base, light blue above and white at the fly, with a red Zia sun symbol in the lower hoist.",
+  "history": "Otero County is a county located in New Mexico. The flag was adopted on 13 December 2018 (designated by an ordinance passed 2–0 by the Otero County Commission on 13 December 2018, according to Flags of the World citing the Alamogordo Daily News).",
+  "periods": [
+    {
+      "start": "2018-12-13"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Otero_County,_New_Mexico.svg",
+    "https://www.wikidata.org/wiki/Q489756",
+    "https://en.wikipedia.org/wiki/Otero_County,_New_Mexico",
+    "https://www.crwflags.com/fotw/flags/us-nm-ot.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "light-blue",
+      "direction": "bend-sinister",
+      "role": "diagonal division of yellow, light blue and white"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "fly",
+      "role": "white triangle at the fly"
+    },
+    {
+      "type": "sun",
+      "color": "red",
+      "position": "lower-hoist",
+      "role": "Zia sun symbol"
+    }
+  ]
+}

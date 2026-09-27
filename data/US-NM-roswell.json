@@ -1,0 +1,81 @@
+{
+  "id": "US-NM-roswell",
+  "name": "Roswell (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-NM",
+  "codes": {
+    "wikidata": "Q33561"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:4",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field for the sky charged with a yellow sun within a red Zia symbol rising behind a blue Capitan mountain, over stripes of yellow, green, blue and red for the plains, the crops, the Pecos River and the earth, with a small white moon in the upper hoist.",
+  "history": "Roswell is a city in and the county seat of Chaves County, New Mexico. The flag was adopted on 13 June 1997 (designed by Stephen Fleming and raised over city hall on 13 June 1997, when Mayor Tomes E. Jennings read a proclamation dedicating the city flag, according to Flags of the World).",
+  "periods": [
+    {
+      "start": "1997-06-13"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Roswell,_New_Mexico.svg",
+    "https://www.wikidata.org/wiki/Q33561",
+    "https://en.wikipedia.org/wiki/Roswell,_New_Mexico",
+    "https://www.crwflags.com/fotw/flags/us-nm-rw.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "role": "sun within a red Zia symbol"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "red Zia rays and the red stripe"
+    },
+    {
+      "type": "mountain",
+      "color": "blue",
+      "role": "Capitan mountain"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green",
+        "blue",
+        "orange"
+      ],
+      "count": 4,
+      "position": "bottom",
+      "role": "stripes for the plains, crops, river and earth"
+    }
+  ]
+}
