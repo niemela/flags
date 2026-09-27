@@ -1,0 +1,63 @@
+{
+  "id": "CO-TOL-flandes",
+  "name": "Flandes (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-TOL",
+  "codes": {
+    "wikidata": "Q764821",
+    "dane": "73275"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal tricolour of green, white and green, the white charged with a yellow sun outlined orange.",
+  "history": "Municipal flag of Flandes, a municipality in the department of Tolima, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Flandes_(Tolima).svg",
+    "https://www.wikidata.org/wiki/Q764821",
+    "https://en.wikipedia.org/wiki/Flandes",
+    "https://es.wikipedia.org/wiki/Flandes_(Colombia)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "center",
+      "role": "sun outlined orange"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "outline of the sun"
+    }
+  ]
+}
