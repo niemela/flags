@@ -1,0 +1,79 @@
+{
+  "id": "IT-45-terre-del-reno",
+  "name": "Terre del Reno (Italy)",
+  "type": [
+    "city"
+  ],
+  "parent": "IT-45",
+  "codes": {
+    "wikidata": "Q28091309",
+    "istat": "038028"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field with a white horizontal band bearing three navy blue wavy lines across the centre, a yellow star above and a white star below, and yellow and white poplar branches in the corners.",
+  "history": "Municipal flag of Terre del Reno, a comune in Emilia-Romagna; Italian municipal arms, gonfaloni and flags are granted by decree of the President of the Republic on the advice of the Government's heraldry office.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Terre_del_Reno.svg",
+    "https://www.wikidata.org/wiki/Q28091309",
+    "https://en.wikipedia.org/wiki/Terre_del_Reno",
+    "https://it.wikipedia.org/wiki/Terre_del_Reno"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "horizontal band with three navy wavy lines"
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "center",
+      "role": "three wavy lines on the band"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "yellow",
+      "position": "top",
+      "role": "eight-pointed star above the band"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "white",
+      "position": "bottom",
+      "role": "eight-pointed star below the band"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "poplar branches in the corners"
+    }
+  ]
+}
