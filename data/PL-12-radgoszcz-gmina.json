@@ -1,0 +1,68 @@
+{
+  "id": "PL-12-radgoszcz-gmina",
+  "name": "Gmina Radgoszcz (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-12",
+  "codes": {
+    "wikidata": "Q2020715",
+    "teryt": "1204062"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Vertical tricolour of yellow, light blue and yellow in the ratio 1:2:1, the light blue charged with a white figure with yellow wings, the charge from the gmina arms.",
+  "history": "Established by resolution No. XLVII/275/14 of the gmina council of 25 September 2014.",
+  "periods": [
+    {
+      "start": "2014-09-25"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Radgoszcz_flag.svg",
+    "https://www.wikidata.org/wiki/Q2020715",
+    "https://pl.wikipedia.org/wiki/Radgoszcz_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_małopolskim",
+    "https://edziennik.malopolska.uw.gov.pl/legalact/2014/5890",
+    "https://radgoszcz.pl/symbole/flaga/"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "light-blue",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "winged figure from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "body of the figure"
+    }
+  ]
+}

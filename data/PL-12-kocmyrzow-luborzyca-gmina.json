@@ -1,0 +1,70 @@
+{
+  "id": "PL-12-kocmyrzow-luborzyca-gmina",
+  "name": "Gmina Kocmyrzów-Luborzyca (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-12",
+  "codes": {
+    "wikidata": "Q2296261",
+    "teryt": "1206052"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Five horizontal stripes of red, yellow, red, yellow and red in the ratio 1:1:6:1:1, the central red charged with a white cross on a crescent between the letters K and L, the charge from the gmina arms.",
+  "history": "Established by resolution No. XLII/268/02 of the gmina council of 29 May 2002, designed by Włodzimierz Chorązki and Alfred Znamierowski.",
+  "periods": [
+    {
+      "start": "2002-05-29"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Kocmyrzów-Luborzyca_flag.svg",
+    "https://www.wikidata.org/wiki/Q2296261",
+    "https://pl.wikipedia.org/wiki/Kocmyrzów-Luborzyca",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_małopolskim",
+    "https://bip.malopolska.pl/muw,a,1735667,2002-dzienniki-urzedowe-od-nr-126-do-nr-150.html",
+    "https://www.kocmyrzow-luborzyca.ug.gov.pl/o-gminie/barwy-herb-i-logo/"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 5
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "cross on a crescent from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "letters K and L"
+    }
+  ]
+}

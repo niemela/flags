@@ -1,0 +1,56 @@
+{
+  "id": "PL-12-proszowice-gmina",
+  "name": "Gmina Proszowice (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-12",
+  "codes": {
+    "wikidata": "Q723352",
+    "teryt": "1214053"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally by a yellow band from the upper hoist to the lower fly, red below at the hoist and white above at the fly.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Proszowice_flag.svg",
+    "https://www.wikidata.org/wiki/Q723352",
+    "https://pl.wikipedia.org/wiki/Proszowice_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_małopolskim",
+    "https://www.proszowice.pl/strona-300-statut_gminy.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "white",
+      "direction": "bend",
+      "role": "divided diagonally red and white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "diagonal band along the division"
+    }
+  ]
+}

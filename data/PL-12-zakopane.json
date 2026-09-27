@@ -1,0 +1,52 @@
+{
+  "id": "PL-12-zakopane",
+  "name": "Zakopane (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-12",
+  "codes": {
+    "wikidata": "Q144786",
+    "teryt": "1217011"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided horizontally blue over white by a jagged line in the outline of Mount Giewont, with the city arms on the summit towards the fly.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Zakopane_flag.svg",
+    "https://www.wikidata.org/wiki/Q144786",
+    "https://pl.wikipedia.org/wiki/Zakopane",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_małopolskim",
+    "https://bip.zakopane.eu/statut-miasta-zakopane"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white"
+      ],
+      "count": 2,
+      "role": "division shaped as the outline of Giewont"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center-fly",
+      "role": "city arms"
+    }
+  ]
+}

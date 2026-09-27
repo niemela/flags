@@ -1,0 +1,67 @@
+{
+  "id": "PL-12-zabno-gmina",
+  "name": "Gmina Żabno (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-12",
+  "codes": {
+    "wikidata": "Q678631",
+    "teryt": "1216153"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided diagonally by a white band from the lower hoist to the upper fly, yellow above with the gmina arms at the hoist and blue below.",
+  "history": "Established by resolution No. XLII/454/06 of the gmina council of 16 October 2006.",
+  "periods": [
+    {
+      "start": "2006-10-16"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Żabno_flag.svg",
+    "https://www.wikidata.org/wiki/Q678631",
+    "https://pl.wikipedia.org/wiki/Żabno_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_małopolskim",
+    "https://bip.malopolska.pl/muw,a,14734,2006-dzienniki-urzedowe-od-nr-811-do-nr-840.html",
+    "https://zabno.pl/pl/00381,barwy_i_symbole_zabna"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "blue",
+      "direction": "bend-sinister",
+      "role": "divided diagonally yellow and blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band along the division"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "upper-hoist",
+      "role": "gmina coat of arms"
+    }
+  ]
+}

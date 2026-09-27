@@ -1,0 +1,68 @@
+{
+  "id": "PL-12-koniusza-gmina",
+  "name": "Gmina Koniusza (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-12",
+  "codes": {
+    "wikidata": "Q387500",
+    "teryt": "1214012"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue hoist half charged with a white rearing horse from the gmina arms, and a fly half of three horizontal stripes, yellow, blue and yellow.",
+  "history": "Established by resolution No. VII/55/2007 of the gmina council of 24 July 2007, designed by Włodzimierz Chorązki.",
+  "periods": [
+    {
+      "start": "2007-07-24"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Koniusza_flag.svg",
+    "https://www.wikidata.org/wiki/Q387500",
+    "https://pl.wikipedia.org/wiki/Koniusza_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_małopolskim",
+    "http://1794szlak.mec.edu.pl/gmina-koniusza/",
+    "https://bip.malopolska.pl/ugkoniusza,a,492441,uchwala-nr-vii552007-z-dnia-24072007-r-w-sprawie-ustanowienia-herbu-flagi-banneru-i-pieczeci-gminy-k.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "rearing horse from the gmina arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue",
+        "yellow"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "three stripes in the fly half"
+    }
+  ]
+}

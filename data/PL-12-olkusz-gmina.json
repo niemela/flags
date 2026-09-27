@@ -1,0 +1,63 @@
+{
+  "id": "PL-12-olkusz-gmina",
+  "name": "Gmina Olkusz (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-12",
+  "codes": {
+    "wikidata": "Q2619170",
+    "teryt": "1212053"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Yellow field charged at the centre with a red castle with a black miner's pick, the charge from the gmina arms.",
+  "history": "Established by resolution No. LXIII/752/2002 of the gmina council of 20 September 2002.",
+  "periods": [
+    {
+      "start": "2002-09-20"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Olkusz_flag.svg",
+    "https://www.wikidata.org/wiki/Q2619170",
+    "https://pl.wikipedia.org/wiki/Olkusz_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_małopolskim",
+    "https://bip.malopolska.pl/muw,a,1749845,2002-dzienniki-urzedowe-od-nr-226-do-nr-250.html",
+    "https://bip.malopolska.pl/umigolkusz,a,1506009,uchwala-nr-xlv6632018-rady-miejskiej-w-olkuszu-z-dnia-2-pazdziernika-2018-r-w-sprawie-uchwalenia-sta.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "castle from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "miner's pick above the gate"
+    }
+  ]
+}
