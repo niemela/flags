@@ -1,0 +1,60 @@
+{
+  "id": "IT-55-foligno",
+  "name": "Foligno (Italy)",
+  "type": [
+    "city"
+  ],
+  "parent": "IT-55",
+  "codes": {
+    "wikidata": "Q20436",
+    "istat": "054018"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field charged at the centre with a yellow fleur-de-lis, with a white canton bearing a red cross pattée.",
+  "history": "Municipal flag of Foligno, a comune in Umbria; Italian municipal arms, gonfaloni and flags are granted by decree of the President of the Republic on the advice of the Government's heraldry office.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Foligno-Bandiera.svg",
+    "https://www.wikidata.org/wiki/Q20436",
+    "https://en.wikipedia.org/wiki/Foligno",
+    "https://it.wikipedia.org/wiki/Foligno"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "fleur-de-lis"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "canton",
+      "role": "canton"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "canton",
+      "role": "cross pattée on the canton"
+    }
+  ]
+}
