@@ -1,0 +1,57 @@
+{
+  "id": "CO-RIS-dosquebradas",
+  "name": "Dosquebradas (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-RIS",
+  "codes": {
+    "wikidata": "Q1093584",
+    "dane": "66170"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, yellow above and green below, charged at the centre with a black cog wheel.",
+  "history": "Municipal flag of Dosquebradas, a municipality in the department of Risaralda, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor. Spanish Wikipedia records the flag as adopted on 5 April 1983 (acuerdo n.º 5).",
+  "periods": [
+    {
+      "start": "1983-04-05"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Dosquebradas_(Risaralda).svg",
+    "https://www.wikidata.org/wiki/Q1093584",
+    "https://en.wikipedia.org/wiki/Dosquebradas",
+    "https://es.wikipedia.org/wiki/Dosquebradas"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "green",
+      "direction": "bend",
+      "role": "divided diagonally yellow over green"
+    },
+    {
+      "type": "wheel",
+      "color": "black",
+      "position": "center",
+      "role": "cog wheel of fourteen teeth"
+    }
+  ]
+}
