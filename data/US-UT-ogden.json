@@ -1,0 +1,56 @@
+{
+  "id": "US-UT-ogden",
+  "name": "Ogden (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-UT",
+  "codes": {
+    "wikidata": "Q52471"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Light blue field with a white horizontal stripe, charged at the centre with a dark blue disc bearing a white mountain silhouette for the Wasatch Range.",
+  "history": "Ogden is a city in and the county seat of Weber County, Utah, located approximately east of the Great Salt Lake and north of Salt Lake City.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Ogden,_Utah.svg",
+    "https://www.wikidata.org/wiki/Q52471",
+    "https://en.wikipedia.org/wiki/Ogden,_Utah"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "disc",
+      "color": "navy",
+      "position": "center",
+      "role": "disc with a white mountain silhouette"
+    },
+    {
+      "type": "mountain",
+      "color": "white"
+    }
+  ]
+}
