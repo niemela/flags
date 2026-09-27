@@ -1,0 +1,69 @@
+{
+  "id": "US-AZ-maricopa-county",
+  "name": "Maricopa County, Arizona (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-AZ",
+  "codes": {
+    "wikidata": "Q58691"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Vertical tricolour of navy blue, yellow and dark red in the ratio 1:0.5:4, the navy bearing a column of five white stars and the dark red charged with the county seal.",
+  "history": "Maricopa County is a county in the south-central part of Arizona. The flag was adopted on 1 February 1999 (approved by the county board of supervisors, according to Flags of the World).",
+  "periods": [
+    {
+      "start": "1999-02-01"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Maricopa_County.svg",
+    "https://www.wikidata.org/wiki/Q58691",
+    "https://en.wikipedia.org/wiki/Maricopa_County,_Arizona",
+    "https://www.crwflags.com/fotw/flags/us-az-mr.html"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "navy",
+        "yellow",
+        "maroon"
+      ],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "position": "hoist",
+      "role": "column of five stars"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "county seal"
+    }
+  ]
+}

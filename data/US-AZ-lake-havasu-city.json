@@ -1,0 +1,66 @@
+{
+  "id": "US-AZ-lake-havasu-city",
+  "name": "Lake Havasu City (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-AZ",
+  "codes": {
+    "wikidata": "Q79435"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field bearing the city logo, a yellow sun over orange and light blue waves, above the name LAKE HAVASU CITY in blue.",
+  "history": "Lake Havasu City (, ) is a city in Mohave County, Arizona.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Lake_Havasu_City,_Arizona.svg",
+    "https://www.wikidata.org/wiki/Q79435",
+    "https://en.wikipedia.org/wiki/Lake_Havasu_City,_Arizona",
+    "https://www.crwflags.com/fotw/flags/us-azlhv.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "sun of the city logo"
+    },
+    {
+      "type": "glyph",
+      "color": "light-blue",
+      "position": "center",
+      "role": "waves of the city logo"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "bottom",
+      "role": "name LAKE HAVASU CITY"
+    }
+  ]
+}

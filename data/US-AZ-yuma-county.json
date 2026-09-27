@@ -1,0 +1,54 @@
+{
+  "id": "US-AZ-yuma-county",
+  "name": "Yuma County, Arizona (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-AZ",
+  "codes": {
+    "wikidata": "Q58698"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "White field charged at the centre with the county logo, a navy blue outline of Arizona with an orange mesa and the words YUMA COUNTY ARIZONA.",
+  "history": "Yuma County is a county in the southwestern corner of Arizona, one of 15 counties in the state.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Yuma_County,_Arizona.svg",
+    "https://www.wikidata.org/wiki/Q58698",
+    "https://en.wikipedia.org/wiki/Yuma_County,_Arizona",
+    "https://www.crwflags.com/fotw/flags/us-az-yu.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "center",
+      "role": "outline of Arizona with the words YUMA COUNTY ARIZONA"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "mesa within the outline"
+    }
+  ]
+}
