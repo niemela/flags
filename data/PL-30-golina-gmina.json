@@ -1,0 +1,60 @@
+{
+  "id": "PL-30-golina-gmina",
+  "name": "Gmina Golina (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q556348",
+    "teryt": "3010013"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Vertical bicolour of light blue and red, charged at the centre with the gmina arms below the name GOLINA in black.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Golina_flag.svg",
+    "https://www.wikidata.org/wiki/Q556348",
+    "https://pl.wikipedia.org/wiki/Golina_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_wielkopolskim",
+    "http://bip.golina.pl/golina/zasoby/files/uchwaly_2014-2018/2018/lxii_338_2018.pdf"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "light-blue",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "gmina coat of arms"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "top",
+      "role": "name GOLINA above the arms"
+    }
+  ]
+}

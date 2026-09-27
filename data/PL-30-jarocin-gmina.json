@@ -1,0 +1,57 @@
+{
+  "id": "PL-30-jarocin-gmina",
+  "name": "Gmina Jarocin (Greater Poland, Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q556369",
+    "teryt": "3006023"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Yellow field charged at the centre with a red castle with three dark blue roofs, the charge from the gmina arms.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Jarocin_flag.svg",
+    "https://www.wikidata.org/wiki/Q556369",
+    "https://pl.wikipedia.org/wiki/Jarocin_(gmina_w_województwie_wielkopolskim)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_wielkopolskim",
+    "http://archiwum.jarocin.pl/pl/Flaga-139.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "castle from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "center",
+      "role": "roofs of the castle towers"
+    }
+  ]
+}

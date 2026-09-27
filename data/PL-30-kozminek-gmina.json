@@ -1,0 +1,80 @@
+{
+  "id": "PL-30-kozminek-gmina",
+  "name": "Gmina Koźminek (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q555103",
+    "teryt": "3007053"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field charged at the centre with the charge from the gmina arms: a white embattled wall with a black lion above red and black lozenges on yellow.",
+  "history": "Established by resolution No. LII/327/2022 of the gmina council of 9 June 2022.",
+  "periods": [
+    {
+      "start": "2022-06-09"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Koźminek_flag.svg",
+    "https://www.wikidata.org/wiki/Q555103",
+    "https://pl.wikipedia.org/wiki/Koźminek_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_wielkopolskim",
+    "https://edziennik.poznan.uw.gov.pl/legalact/2022/4729"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "embattled wall from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "lion on the wall"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "lower part with lozenges"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "lozenges"
+    }
+  ]
+}

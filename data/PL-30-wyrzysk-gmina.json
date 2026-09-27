@@ -1,0 +1,60 @@
+{
+  "id": "PL-30-wyrzysk-gmina",
+  "name": "Gmina Wyrzysk (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q554588",
+    "teryt": "3019083"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Horizontal tricolour of red, white and green in the ratio 1:2:1, the white charged with a red stag with a cross from the gmina arms.",
+  "history": "The current version was established by resolution No. L/420/2018 of the gmina council of 24 August 2018, designed by Alfred Znamierowski.",
+  "periods": [
+    {
+      "start": "2018-08-24"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Wyrzysk_flag.svg",
+    "https://www.wikidata.org/wiki/Q554588",
+    "https://pl.wikipedia.org/wiki/Wyrzysk_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_wielkopolskim"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "stag with a cross between its antlers, from the gmina arms"
+    }
+  ]
+}

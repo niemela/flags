@@ -1,0 +1,70 @@
+{
+  "id": "PL-30-gniezno-gmina",
+  "name": "Gmina Gniezno (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q555805",
+    "teryt": "3003032"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Five vertical stripes of red, yellow, red, white and red in the ratio 1:1:2:1:1, the central red charged with a yellow crosier and a white cross fleury, the charge from the gmina arms.",
+  "history": "Established by resolution No. LII/354/2014 of the gmina council of 19 February 2014.",
+  "periods": [
+    {
+      "start": "2014-02-19"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Gniezno_flag.svg",
+    "https://www.wikidata.org/wiki/Q555805",
+    "https://pl.wikipedia.org/wiki/Gniezno_(gmina_wiejska)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_wielkopolskim",
+    "https://edziennik.poznan.uw.gov.pl/legalact/2014/1365",
+    "https://gniezno.naszemiasto.pl/gmina-gniezno-bedzie-od-teraz-lepiej-oznaczona/ar/c8-2170899"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 5
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crosier from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "cross fleury from the gmina arms"
+    }
+  ]
+}

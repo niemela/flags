@@ -1,0 +1,61 @@
+{
+  "id": "PL-30-kuslin-gmina",
+  "name": "Gmina Kuślin (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q557047",
+    "teryt": "3015012"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Five vertical stripes of red, yellow, red, yellow and red in the ratio 1:1:12:1:1, the central red charged with a yellow wheel with a cross above a wall, the charge from the gmina arms.",
+  "history": "Established by resolution No. XXX/163/2017 of the gmina council of 2 March 2017, designed by Gerard Kucharski.",
+  "periods": [
+    {
+      "start": "2017-03-02"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Kuślin_flag.svg",
+    "https://www.wikidata.org/wiki/Q557047",
+    "https://pl.wikipedia.org/wiki/Kuślin_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_wielkopolskim",
+    "https://edziennik.poznan.uw.gov.pl/legalact/2017/8146",
+    "http://archiwum.kuslin.pl/wiadomosci/1/wiadomosc/124517/nowe_symbole_gminy_kuslin"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 5
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "wheel with a cross and wall from the gmina arms"
+    }
+  ]
+}

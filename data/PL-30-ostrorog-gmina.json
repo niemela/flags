@@ -1,0 +1,70 @@
+{
+  "id": "PL-30-ostrorog-gmina",
+  "name": "Gmina Ostroróg (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q554021",
+    "teryt": "3024053"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "4:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Vertical tricolour, the outer thirds chequy of white and red and the central third green charged with the gmina arms.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Ostroróg_flag.svg",
+    "https://www.wikidata.org/wiki/Q554021",
+    "https://pl.wikipedia.org/wiki/Ostroróg_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_wielkopolskim",
+    "https://ostrorog.pl/asp/zabytki,175,,1",
+    "http://www.biuletyn.net/nt-bin/_private/ostrorog/314.doc"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "white"
+      ],
+      "count": 3
+    },
+    {
+      "type": "chequy",
+      "field": "white",
+      "chequy": "red",
+      "position": "hoist",
+      "role": "chequy hoist panel"
+    },
+    {
+      "type": "chequy",
+      "field": "white",
+      "chequy": "red",
+      "position": "fly",
+      "role": "chequy fly panel"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "gmina coat of arms"
+    }
+  ]
+}

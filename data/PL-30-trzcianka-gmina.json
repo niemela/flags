@@ -1,0 +1,70 @@
+{
+  "id": "PL-30-trzcianka-gmina",
+  "name": "Gmina Trzcianka (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q555785",
+    "teryt": "3002073"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontal bicolour of yellow and green with a red triangle at the hoist charged with a white crown.",
+  "history": "Established in 1994, designed by Ewa Żylińska-Baran, Maria Król and Bogdan Szelmetka.",
+  "periods": [
+    {
+      "start": "1994"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Trzcianka_flag.svg",
+    "https://www.wikidata.org/wiki/Q555785",
+    "https://pl.wikipedia.org/wiki/Trzcianka_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_wielkopolskim",
+    "https://trzcianka.pl/dla-mieszkanca/o-miescie-i-gminie/elementy-tozsamosci-symbole-gminy/",
+    "https://bip.trzcianka.pl/statut-gminy-trzcianka.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "triangle at the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "crown on the triangle"
+    }
+  ]
+}

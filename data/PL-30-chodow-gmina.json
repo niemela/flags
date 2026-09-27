@@ -1,0 +1,62 @@
+{
+  "id": "PL-30-chodow-gmina",
+  "name": "Gmina Chodów (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q555369",
+    "teryt": "4304109032"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Green field charged at the centre with a yellow oak tree bearing a white cross, the charge from the gmina arms.",
+  "history": "Established by resolution No. XXXI/177/09 of the gmina council of 28 May 2009.",
+  "periods": [
+    {
+      "start": "2009-05-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Chodów_flag.svg",
+    "https://www.wikidata.org/wiki/Q555369",
+    "https://pl.wikipedia.org/wiki/Chodów_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_wielkopolskim",
+    "https://www.poznan.uw.gov.pl/dzienniki-urzedowe/dziennik-nr-137-2009"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "oak tree from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "cross in the tree"
+    }
+  ]
+}

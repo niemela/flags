@@ -1,0 +1,68 @@
+{
+  "id": "PL-30-lubon",
+  "name": "Luboń (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q50973",
+    "teryt": "3021011"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally by a yellow and white band from the lower hoist to the upper fly, red below at the hoist and green above at the fly.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Luboń_flag.svg",
+    "https://www.wikidata.org/wiki/Q50973",
+    "https://pl.wikipedia.org/wiki/Luboń",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_wielkopolskim",
+    "http://www.bip.lubon.pl/content.php?cms_id=257",
+    "https://web.archive.org/web/20160405125233/http://bip.lubon.pl/content.php?cms_id=257"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "red",
+      "direction": "bend-sinister",
+      "role": "divided diagonally green and red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "yellow and white band along the division"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "white half of the band"
+    }
+  ]
+}

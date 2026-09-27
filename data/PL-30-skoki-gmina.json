@@ -1,0 +1,63 @@
+{
+  "id": "PL-30-skoki-gmina",
+  "name": "Gmina Skoki (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q556772",
+    "teryt": "3028053"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field charged at the centre with a white horseshoe enclosing a yellow sword, the charge from the gmina arms.",
+  "history": "Established by resolution No. XV/122/2020 of the gmina council of 14 February 2020.",
+  "periods": [
+    {
+      "start": "2020-02-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Skoki_flag.svg",
+    "https://www.wikidata.org/wiki/Q556772",
+    "https://pl.wikipedia.org/wiki/Skoki_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_wielkopolskim",
+    "https://edziennik.poznan.uw.gov.pl/legalact/2020/1780",
+    "https://wagrowiec.naszemiasto.pl/miasto-i-gminy-skoki-zmienily-herb-zniknal-z-niego-krzyz/ar/c1-7657317"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "horseshoe from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "sword within the horseshoe"
+    }
+  ]
+}

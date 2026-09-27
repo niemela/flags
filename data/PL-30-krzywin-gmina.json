@@ -1,0 +1,67 @@
+{
+  "id": "PL-30-krzywin-gmina",
+  "name": "Gmina Krzywiń (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q510875",
+    "teryt": "3011043"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field within a thin yellow border, charged at the centre with a mitre between two crosiers within a ring of small crosses, the charge from the gmina arms, in yellow and white.",
+  "history": "Established by resolution No. XLI/311/2022 of the gmina council of 19 September 2022.",
+  "periods": [
+    {
+      "start": "2022-09-19"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Krzywiń_flag.svg",
+    "https://www.wikidata.org/wiki/Q510875",
+    "https://pl.wikipedia.org/wiki/Krzywiń_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_wielkopolskim",
+    "https://edziennik.poznan.uw.gov.pl/legalact/2022/7149"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "border",
+      "color": "yellow",
+      "role": "thin border"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crosiers and ring of crosses from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "mitre from the gmina arms"
+    }
+  ]
+}

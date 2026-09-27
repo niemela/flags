@@ -1,0 +1,83 @@
+{
+  "id": "PL-30-koscian-gmina",
+  "name": "Gmina Kościan (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q556749",
+    "teryt": "3011032"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "grey"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided diagonally by a grey-green band from the lower hoist to the upper fly, yellow above with three ears of wheat and green below with a horseshoe, crossed by a blue wavy line, the charges from the gmina arms.",
+  "history": "Established by resolution No. XXI/165/04 of the gmina council of 1 December 2004.",
+  "periods": [
+    {
+      "start": "2004-12-01"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Kościan_flag.svg",
+    "https://www.wikidata.org/wiki/Q556749",
+    "https://pl.wikipedia.org/wiki/Kościan_(gmina_wiejska)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_wielkopolskim",
+    "https://www.poznan.uw.gov.pl/dzienniki-urzedowe/dziennik-nr-189-2004",
+    "https://www.gminakoscian.pl/o-gminie-herb-flaga.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "green",
+      "direction": "bend-sinister",
+      "role": "divided diagonally yellow and green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "grey",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "grey-green band along the division"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "three ears of wheat from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "grey",
+      "position": "lower-fly",
+      "role": "horseshoe from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "wavy line across the field"
+    }
+  ]
+}

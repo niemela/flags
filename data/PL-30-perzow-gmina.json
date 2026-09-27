@@ -1,0 +1,68 @@
+{
+  "id": "PL-30-perzow-gmina",
+  "name": "Gmina Perzów (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q555429",
+    "teryt": "3008052"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Four equal horizontal stripes of green, black, white and yellow with a red triangle at the hoist.",
+  "history": "Established by resolution No. XII/68/91 of the gmina council of 23 July 1991, designed by Zygmunt Piasecki.",
+  "periods": [
+    {
+      "start": "1991-07-23"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Perzów_flag.svg",
+    "https://www.wikidata.org/wiki/Q555429",
+    "https://pl.wikipedia.org/wiki/Perzów_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_wielkopolskim",
+    "http://perzow.com.pl/index.php/rada-gminy/"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "black",
+        "white",
+        "yellow"
+      ],
+      "count": 4
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "triangle at the hoist"
+    }
+  ]
+}

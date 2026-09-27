@@ -1,0 +1,56 @@
+{
+  "id": "PL-30-trzcinica-gmina",
+  "name": "Gmina Trzcinica (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q555446",
+    "teryt": "3008072"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "grey"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally by a yellow band from the lower hoist to the upper fly, silver grey above and red below.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Trzcinica_flag.svg",
+    "https://www.wikidata.org/wiki/Q555446",
+    "https://pl.wikipedia.org/wiki/Trzcinica_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_wielkopolskim",
+    "http://trzcinica.nowoczesnagmina.pl/?a=184"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "grey",
+      "bend": "red",
+      "direction": "bend-sinister",
+      "role": "divided diagonally silver over red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band along the division"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "PL-30-kazimierz-biskupi-gmina",
+  "name": "Gmina Kazimierz Biskupi (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-30",
+  "codes": {
+    "wikidata": "Q554217",
+    "teryt": "3010032"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Five vertical stripes of blue, white, blue, white and blue in the ratio 1:1:4:1:1, the central blue charged with the five martyred brothers in white from the gmina arms.",
+  "history": "Established by resolution No. XII/72/11 of the gmina council of 21 July 2011.",
+  "periods": [
+    {
+      "start": "2011-07-21"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Kazimierz_Biskupi_flag.svg",
+    "https://www.wikidata.org/wiki/Q554217",
+    "https://pl.wikipedia.org/wiki/Kazimierz_Biskupi_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_wielkopolskim",
+    "https://edziennik.poznan.uw.gov.pl/legalact/2011/238/3837"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 5
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "five martyred brothers from the gmina arms"
+    }
+  ]
+}
