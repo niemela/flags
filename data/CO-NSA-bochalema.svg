@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="750" height="500">
+ <rect fill="#fcdd09" width="750" height="500"/>
+ <rect fill="#da121a" width="750" height="166.666" y="166.666"/>
+<g id="star" fill="#ffffff" transform="translate(250,250) scale(50)">
+<g id="cone">
+<polygon id="w" points="0,0 0,1 .5,1" transform="translate(0,-1) rotate(18)"/>
+<use xlink:href="#w" transform="scale(-1,1)"/>
+</g>
+<use xlink:href="#cone" transform="rotate(72)"/>
+<use xlink:href="#cone" transform="rotate(-72)"/>
+<use xlink:href="#cone" transform="rotate(144)"/>
+<use xlink:href="#cone" transform="rotate(-144)"/>
+</g>
+<use xlink:href="#star" transform="translate(250,0)"/>
+</svg>

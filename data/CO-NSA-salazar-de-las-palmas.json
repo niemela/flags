@@ -1,0 +1,65 @@
+{
+  "id": "CO-NSA-salazar-de-las-palmas",
+  "name": "Salazar de las Palmas (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-NSA",
+  "codes": {
+    "wikidata": "Q776636",
+    "dane": "54660"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal tricolour of green, light blue and brown, the light blue charged with four palm trees beneath four yellow five-pointed stars.",
+  "history": "Municipal flag of Salazar de las Palmas, a municipality in the department of Norte de Santander, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Salazar_de_Las_Palmas_(Norte_de_Santander).svg",
+    "https://www.wikidata.org/wiki/Q776636",
+    "https://en.wikipedia.org/wiki/Salazar_de_las_Palmas",
+    "https://es.wikipedia.org/wiki/Salazar_de_Las_Palmas"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "light-blue",
+        "brown"
+      ],
+      "count": 3
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "four palm trees"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "four stars above the palms"
+    }
+  ]
+}
