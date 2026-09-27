@@ -1,0 +1,59 @@
+{
+  "id": "PL-14-zabrodzie-gmina",
+  "name": "Gmina Zabrodzie (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q2324326",
+    "teryt": "1435062"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field divided by a white wavy horizontal band in the lower part, with a white cross wreathed in thorns and a feather from the gmina arms in the upper hoist.",
+  "history": "Established by resolution No. XIX/88/2004 of the gmina council of 30 June 2004, designed by Robert Szydlik.",
+  "periods": [
+    {
+      "start": "2004-06-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Zabrodzie_flag.svg",
+    "https://www.wikidata.org/wiki/Q2324326",
+    "https://pl.wikipedia.org/wiki/Zabrodzie_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_mazowieckim",
+    "https://www.gov.pl/web/gmina-zabrodzie/herb-i-flaga"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "cross with thorns and feather from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "bottom",
+      "role": "wavy band across the lower part"
+    }
+  ]
+}

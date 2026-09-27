@@ -1,0 +1,71 @@
+{
+  "id": "PL-14-malkinia-gorna-gmina",
+  "name": "Gmina Małkinia Górna (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q2395823",
+    "teryt": "1416053"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Green hoist half charged with a brown pine tree from the gmina arms, and a fly half of three horizontal stripes, orange, white and orange.",
+  "history": "Established by resolution No. 194/XXXVII/2002 of the gmina council of 31 August 2002.",
+  "periods": [
+    {
+      "start": "2002-08-31"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Małkinia_Górna_flag.svg",
+    "https://www.wikidata.org/wiki/Q2395823",
+    "https://pl.wikipedia.org/wiki/Małkinia_Górna_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_mazowieckim",
+    "https://edziennik.mazowieckie.pl/legalact/2016/930/",
+    "http://www.ostrowmaz.com/aktualnosci/362"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "hoist",
+      "role": "pine tree from the gmina arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "orange",
+        "white",
+        "orange"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "three stripes in the fly half"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "PL-14-przasnysz",
+  "name": "Przasnysz (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q672964",
+    "teryt": "1422011"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:9",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "White field crossed by a red diagonal band edged in black from the lower hoist to the upper fly, with the city arms in the upper hoist.",
+  "history": "Established by the city council on 5 April 1995.",
+  "periods": [
+    {
+      "start": "1995-04-05"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Przasnysz_flag.svg",
+    "https://www.wikidata.org/wiki/Q672964",
+    "https://pl.wikipedia.org/wiki/Przasnysz",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_mazowieckim",
+    "https://przasnysz.um.gov.pl/asp/herb-flaga,89,,1"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band edged in black",
+      "fimbriation": {
+        "color": "black"
+      }
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "upper-hoist",
+      "role": "city arms"
+    }
+  ]
+}

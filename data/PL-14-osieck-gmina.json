@@ -1,0 +1,54 @@
+{
+  "id": "PL-14-osieck-gmina",
+  "name": "Gmina Osieck (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q2325794",
+    "teryt": "1417063"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Red field with a green base, charged with a white stag from the gmina arms.",
+  "history": "Polish Wikipedia describes the flag established by resolution No. XIV/119/16 of 18 July 2016 as yellow over light blue with the charge from the arms; this file shows the armorial design of a white stag on red.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Osieck_flag.svg",
+    "https://www.wikidata.org/wiki/Q2325794",
+    "https://pl.wikipedia.org/wiki/Osieck_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_mazowieckim"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "stag from the gmina arms"
+    }
+  ]
+}

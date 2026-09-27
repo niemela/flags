@@ -1,0 +1,71 @@
+{
+  "id": "PL-14-wiskitki-gmina",
+  "name": "Gmina Wiskitki (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q2104526",
+    "teryt": "1438055"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field charged at the centre with a black bull's head with a white sickle within a yellow wreath under a crown, the charge from the gmina arms.",
+  "history": "Established by resolution No. 44/XIX/04 of the gmina council of 22 October 2004.",
+  "periods": [
+    {
+      "start": "2004-10-22"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Wiskitki_flag.svg",
+    "https://www.wikidata.org/wiki/Q2104526",
+    "https://pl.wikipedia.org/wiki/Wiskitki_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_mazowieckim",
+    "https://wiskitki.bip.net.pl/?a=249"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "bull's head from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "sickle above the head"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "wreath and crown around the charge"
+    }
+  ]
+}

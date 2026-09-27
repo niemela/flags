@@ -1,0 +1,62 @@
+{
+  "id": "PL-14-szelkow-gmina",
+  "name": "Gmina Szelków (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q2324499",
+    "teryt": "1411102"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field charged towards the hoist with three saints in white robes above a yellow lion, the charge from the gmina arms.",
+  "history": "Established by resolution No. XXIX/148/2013 of the gmina council of 8 May 2013, designed by Kamil Wójcikowski and Robert Fidura.",
+  "periods": [
+    {
+      "start": "2013-05-08"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Szelków_flag.svg",
+    "https://www.wikidata.org/wiki/Q2324499",
+    "https://pl.wikipedia.org/wiki/Szelków_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_mazowieckim",
+    "https://edziennik.mazowieckie.pl/legalact/2013/6021/"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "three saints from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "lion below the saints"
+    }
+  ]
+}

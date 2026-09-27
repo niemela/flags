@@ -1,0 +1,72 @@
+{
+  "id": "PL-14-gorzno-gmina",
+  "name": "Gmina Górzno (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q1936748",
+    "teryt": "1403052"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Yellow hoist half charged with a brown wooden manor house above a green oak branch from the gmina arms, and a fly half of three horizontal stripes, green, yellow and green, in the ratio 3:1:3.",
+  "history": "Established by resolution No. XXXI/162/05 of the gmina council of 30 December 2005.",
+  "periods": [
+    {
+      "start": "2005-12-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Górzno_flag.svg",
+    "https://www.wikidata.org/wiki/Q1936748",
+    "https://pl.wikipedia.org/wiki/Górzno_(gmina_w_województwie_mazowieckim)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_mazowieckim"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "hoist",
+      "role": "wooden manor house from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "hoist",
+      "role": "oak branch below the house"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "green"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "three stripes in the fly half"
+    }
+  ]
+}

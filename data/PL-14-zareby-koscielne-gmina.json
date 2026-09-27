@@ -1,0 +1,72 @@
+{
+  "id": "PL-14-zareby-koscielne-gmina",
+  "name": "Gmina Zaręby Kościelne (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q2458145",
+    "teryt": "1416112"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal tricolour of red, white and red, the lower red with an embattled upper edge, charged at the centre with a yellow church and a black lion, the charge from the gmina arms.",
+  "history": "Established by resolution No. XXIV/133/05 of the gmina council of 26 April 2005.",
+  "periods": [
+    {
+      "start": "2005-04-26"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Zaręby_Kościelne_flag.svg",
+    "https://www.wikidata.org/wiki/Q2458145",
+    "https://pl.wikipedia.org/wiki/Zaręby_Kościelne_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_mazowieckim",
+    "http://www.zareby-kosc.pl/herb-i-flaga.html",
+    "https://edziennik.mazowieckie.pl/legalact/2018/11287/"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "role": "lower stripe embattled"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "church from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "lion beside the church"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "PL-14-sobolew-gmina",
+  "name": "Gmina Sobolew (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q2180796",
+    "teryt": "1403112"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red hoist half charged with a yellow tree below a white sabre from the gmina arms, and a fly half of three horizontal stripes, yellow, red and yellow.",
+  "history": "Established by resolution No. XXXII/176/2006 of the gmina council of 12 January 2006.",
+  "periods": [
+    {
+      "start": "2006-01-12"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Sobolew_flag.svg",
+    "https://www.wikidata.org/wiki/Q2180796",
+    "https://pl.wikipedia.org/wiki/Sobolew_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_mazowieckim",
+    "https://www.sobolew.pl/art,112,herb.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "tree from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "sabre above the tree"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "three stripes in the fly half"
+    }
+  ]
+}

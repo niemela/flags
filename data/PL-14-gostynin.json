@@ -1,0 +1,67 @@
+{
+  "id": "PL-14-gostynin",
+  "name": "Gostynin (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q983735",
+    "teryt": "1404011"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Light blue field charged at the centre with a white castle from the city arms flanked by white over red horizontal bars reaching the edges.",
+  "history": "Established by the city council on 23 October 1995.",
+  "periods": [
+    {
+      "start": "1995-10-23"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Gostynin_flag.svg",
+    "https://www.wikidata.org/wiki/Q983735",
+    "https://pl.wikipedia.org/wiki/Gostynin",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_mazowieckim",
+    "https://www.weksylologia.pl/biuletyn-PTW/Flaga-nr-06-listopad-grudzien-1999.pdf",
+    "http://umgostynin.bip.org.pl/?tree=207"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "castle from the city arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "position": "center",
+      "role": "white over red bars either side of the castle"
+    }
+  ]
+}

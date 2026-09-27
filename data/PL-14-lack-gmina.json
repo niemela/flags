@@ -1,0 +1,65 @@
+{
+  "id": "PL-14-lack-gmina",
+  "name": "Gmina Łąck (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q762388",
+    "teryt": "1419072"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red hoist half charged with a white rearing horse between two fleurs-de-lis from the gmina arms, and a fly half of three horizontal stripes, white, red and white.",
+  "history": "Established by resolution No. XIX/225/05 of the gmina council of 14 December 2005, designed by Robert Szydlik.",
+  "periods": [
+    {
+      "start": "2005-12-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Łąck_flag.svg",
+    "https://www.wikidata.org/wiki/Q762388",
+    "https://pl.wikipedia.org/wiki/Łąck_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_mazowieckim",
+    "https://uglack.bip.org.pl/id/462",
+    "https://uglack.bip.org.pl/id/460"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "rearing horse and two fleurs-de-lis from the gmina arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "three stripes in the fly half"
+    }
+  ]
+}

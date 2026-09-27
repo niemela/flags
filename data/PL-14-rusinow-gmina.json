@@ -1,0 +1,68 @@
+{
+  "id": "PL-14-rusinow-gmina",
+  "name": "Gmina Rusinów (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q2176459",
+    "teryt": "1423072"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertical tricolour of red, white and yellow in the ratio 3:1:1, the red charged with a white swan below two crossed yellow bars, the charge from the gmina arms.",
+  "history": "Established by resolution No. XXVIII/154/13 of the gmina council of 18 November 2013.",
+  "periods": [
+    {
+      "start": "2013-11-18"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Rusinów_flag.svg",
+    "https://www.wikidata.org/wiki/Q2176459",
+    "https://pl.wikipedia.org/wiki/Rusinów_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_mazowieckim",
+    "https://edziennik.mazowieckie.pl/legalact/2013/12269/",
+    "http://rusinow.pl/index.php/news/view/142"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "swan from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "crossed bars above the swan"
+    }
+  ]
+}

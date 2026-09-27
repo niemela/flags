@@ -1,0 +1,80 @@
+{
+  "id": "PL-14-siedlce-gmina",
+  "name": "Gmina Siedlce (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q2194215",
+    "teryt": "1426082"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field charged with the charge from the gmina arms — a crowned figure in red riding a black bear above two crossed white sabres — with a white wavy line extended across the field.",
+  "history": "Established by resolution No. XIX/133/2008 of the gmina council of 23 February 2008.",
+  "periods": [
+    {
+      "start": "2008-02-23"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Siedlce_flag.svg",
+    "https://www.wikidata.org/wiki/Q2194215",
+    "https://pl.wikipedia.org/wiki/Siedlce_(gmina_wiejska)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_mazowieckim",
+    "https://samorzad.gov.pl/web/gmina-siedlce/znaki"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "bear from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "crowned rider on the bear"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "wavy line across the field and crossed sabres"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "hilts of the sabres"
+    }
+  ]
+}

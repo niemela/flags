@@ -1,0 +1,76 @@
+{
+  "id": "PL-14-slubice-gmina",
+  "name": "Gmina Słubice (Masovian, Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q1949723",
+    "teryt": "1419112"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided by a white wavy diagonal band from the lower hoist to the upper fly, red above at the hoist charged with a yellow sword between two crescents and blue below at the fly charged with yellow ears of grain, the charges from the gmina arms.",
+  "history": "Established by resolution No. XVI/110/2004 of the gmina council of 29 June 2004.",
+  "periods": [
+    {
+      "start": "2004-06-29"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Gmina_Słubice_(województwo_mazowieckie)_flag.svg",
+    "https://www.wikidata.org/wiki/Q1949723",
+    "https://pl.wikipedia.org/wiki/Słubice_(gmina_w_województwie_mazowieckim)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_mazowieckim",
+    "https://ugslubice.bip.org.pl/index/index/id/107"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "blue",
+      "direction": "bend-sinister",
+      "role": "divided diagonally red and blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "wavy band along the division"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "sword between two crescents from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "lower-fly",
+      "role": "ears of grain from the gmina arms"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "PL-14-mlynarze-gmina",
+  "name": "Gmina Młynarze (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q2187429",
+    "teryt": "1411052"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red hoist two-thirds charged with three white mill wheels and a yellow crown from the gmina arms, and a fly third of five horizontal stripes, yellow, white, red, white and yellow.",
+  "history": "Established by resolution No. XIV/68/2012 of the gmina council of 30 March 2012, designed by Kamil Wójcikowski and Robert Fidura.",
+  "periods": [
+    {
+      "start": "2012-03-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Młynarze_flag.svg",
+    "https://www.wikidata.org/wiki/Q2187429",
+    "https://pl.wikipedia.org/wiki/Młynarze_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_mazowieckim",
+    "https://www.edziennik.mazowieckie.pl/legalact/2012/4021",
+    "https://archiwum.moja-ostroleka.pl/gmina-mlynarze-ma-swoje-insygnia-zdjecia,1340015126,2.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "three mill wheels from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "crown between the wheels"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "white",
+        "red",
+        "white",
+        "yellow"
+      ],
+      "count": 5,
+      "position": "fly",
+      "role": "five stripes in the fly panel"
+    }
+  ]
+}

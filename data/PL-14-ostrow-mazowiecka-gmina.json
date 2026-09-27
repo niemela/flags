@@ -1,0 +1,67 @@
+{
+  "id": "PL-14-ostrow-mazowiecka-gmina",
+  "name": "Gmina Ostrów Mazowiecka (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-14",
+  "codes": {
+    "wikidata": "Q2124484",
+    "teryt": "1416072"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Vertical tricolour of yellow, green and yellow in the ratio 1:3:1, the green charged with a white eagle on a yellow tree, the charge from the gmina arms; the file renders the colours in muted tan and grey-green shades.",
+  "history": "Established by resolution No. XXI/199/05 of the gmina council of 31 May 2005.",
+  "periods": [
+    {
+      "start": "2005-05-31"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Ostrów_Mazowiecka_flag.svg",
+    "https://www.wikidata.org/wiki/Q2124484",
+    "https://pl.wikipedia.org/wiki/Ostrów_Mazowiecka_(gmina_wiejska)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_mazowieckim",
+    "https://gminaostrowmazowiecka.pl/cms/3447/prezentacja_gminy"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "green",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "eagle from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "tree beneath the eagle"
+    }
+  ]
+}
