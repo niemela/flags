@@ -1,0 +1,56 @@
+{
+  "id": "PL-20-suprasl-gmina",
+  "name": "Gmina Supraśl (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-20",
+  "codes": {
+    "wikidata": "Q1857009",
+    "teryt": "2002093"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field divided by a white diagonal band from the lower hoist to the upper fly, charged at the centre with the gmina arms.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Supraśl_flag.svg",
+    "https://www.wikidata.org/wiki/Q1857009",
+    "https://pl.wikipedia.org/wiki/Supraśl_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_podlaskim",
+    "https://www.suprasl.pl/index.php/wiecej-urzad-miejski/831-pozegnanie-grzegorza-losia-artysty-z-suprasla",
+    "https://www.suprasl.pl/index.php/statut-gminy"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "gmina coat of arms"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "PL-20-czyzew-gmina",
+  "name": "Gmina Czyżew (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-20",
+  "codes": {
+    "wikidata": "Q1953165",
+    "teryt": "3202713032"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field charged towards the hoist with a white fleur-de-lis above a crossed yellow key and white sword, the charge from the gmina arms, with two white diagonal stripes in the lower fly.",
+  "history": "Established by resolution No. XVIII/124/12 of the gmina council of 3 May 2012, designed by Paweł Dudziński and Wojciech Tutak.",
+  "periods": [
+    {
+      "start": "2012-05-03"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Czyżew_flag.svg",
+    "https://www.wikidata.org/wiki/Q1953165",
+    "https://pl.wikipedia.org/wiki/Czyżew_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_podlaskim",
+    "https://edziennik.bialystok.uw.gov.pl/legalact/2012/1510",
+    "http://www.umczyzew.pl/asp/pl_start.asp?typ=14&menu=224&strona=1"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "fleur-de-lis and sword from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "key from the gmina arms"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "lower-fly",
+      "count": 2,
+      "direction": "bend-sinister",
+      "role": "two diagonal stripes in the lower fly"
+    }
+  ]
+}

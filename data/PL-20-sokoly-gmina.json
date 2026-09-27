@@ -1,0 +1,67 @@
+{
+  "id": "PL-20-sokoly-gmina",
+  "name": "Gmina Sokoły (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-20",
+  "codes": {
+    "wikidata": "Q2327590",
+    "teryt": "2013082"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Vertical tricolour of yellow, blue and yellow, the outer stripes narrow, the blue charged with a white falcon on a yellow crown, the charge from the gmina arms.",
+  "history": "Established by resolution No. VI/30/03 of the gmina council of 4 March 2003.",
+  "periods": [
+    {
+      "start": "2003-03-04"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Sokoły_flag.svg",
+    "https://www.wikidata.org/wiki/Q2327590",
+    "https://pl.wikipedia.org/wiki/Sokoły_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_podlaskim",
+    "https://web.archive.org/web/20210412165832/https://www.sokoly.pl/index.php/gmina/insygnia"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "blue",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "falcon from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crown below the falcon"
+    }
+  ]
+}

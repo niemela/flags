@@ -1,0 +1,68 @@
+{
+  "id": "PL-20-wysokie-mazowieckie",
+  "name": "Wysokie Mazowieckie (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-20",
+  "codes": {
+    "wikidata": "Q335580",
+    "teryt": "2013011"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally by a white band from the lower hoist to the upper fly, blue above with a white swan from the city arms at the hoist and green below.",
+  "history": "Established by the city council on 10 October 2002.",
+  "periods": [
+    {
+      "start": "2002-10-10"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Wysokie_Mazowieckie_flag.svg",
+    "https://www.wikidata.org/wiki/Q335580",
+    "https://pl.wikipedia.org/wiki/Wysokie_Mazowieckie",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_podlaskim",
+    "https://edziennik.bialystok.uw.gov.pl/WDU_B/2024/1939/akt.pdf",
+    "https://web.archive.org/web/20250715224638/https://edziennik.bialystok.uw.gov.pl/WDU_B/2024/1939/akt.pdf"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "green",
+      "direction": "bend-sinister",
+      "role": "divided diagonally blue and green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band along the division"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "swan from the city arms"
+    }
+  ]
+}
