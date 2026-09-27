@@ -1,0 +1,54 @@
+{
+  "id": "CO-ANT-anori",
+  "name": "Anorí (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-ANT",
+  "codes": {
+    "wikidata": "Q1526012",
+    "dane": "05040"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a thin white line, yellow above and green below.",
+  "history": "Municipal flag of Anorí, a municipality in the department of Antioquia, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Anorí.svg",
+    "https://www.wikidata.org/wiki/Q1526012",
+    "https://en.wikipedia.org/wiki/Anor%C3%AD",
+    "https://es.wikipedia.org/wiki/Anor%C3%AD"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "green",
+      "direction": "bend-sinister",
+      "role": "divided diagonally yellow over green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "thin diagonal line along the division"
+    }
+  ]
+}

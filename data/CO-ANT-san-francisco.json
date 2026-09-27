@@ -1,0 +1,70 @@
+{
+  "id": "CO-ANT-san-francisco",
+  "name": "San Francisco (Antioquia, Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-ANT",
+  "codes": {
+    "wikidata": "Q975641",
+    "dane": "05652"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, blue above and green below, charged at the centre with a yellow disc bearing a black ant, surrounded by four white doves.",
+  "history": "Municipal flag of San Francisco, a municipality in the department of Antioquia, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_San_Francisco_(Antioquia).svg",
+    "https://www.wikidata.org/wiki/Q975641",
+    "https://en.wikipedia.org/wiki/San_Francisco,_Antioquia",
+    "https://es.wikipedia.org/wiki/San_Francisco_(Antioquia)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "green",
+      "direction": "bend",
+      "role": "divided diagonally blue over green"
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "position": "center",
+      "role": "disc"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "ant on the disc"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "four doves around the disc"
+    }
+  ]
+}

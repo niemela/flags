@@ -1,0 +1,54 @@
+{
+  "id": "CO-ANT-campamento",
+  "name": "Campamento (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-ANT",
+  "codes": {
+    "wikidata": "Q546011",
+    "dane": "05134"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a white band, yellow above and green below.",
+  "history": "Municipal flag of Campamento, a municipality in the department of Antioquia, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Campamento.svg",
+    "https://www.wikidata.org/wiki/Q546011",
+    "https://en.wikipedia.org/wiki/Campamento,_Antioquia",
+    "https://es.wikipedia.org/wiki/Campamento_(Antioquia)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "green",
+      "direction": "bend-sinister",
+      "role": "divided diagonally yellow over green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band along the division"
+    }
+  ]
+}

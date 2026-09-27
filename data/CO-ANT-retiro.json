@@ -1,0 +1,54 @@
+{
+  "id": "CO-ANT-retiro",
+  "name": "El Retiro (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-ANT",
+  "codes": {
+    "wikidata": "Q1525690",
+    "dane": "05607"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field charged with a green triangle from the hoist reaching the fly, bordered by a row of small white stars.",
+  "history": "Municipal flag of Retiro, a municipality in the department of Antioquia, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_El_Retiro.svg",
+    "https://www.wikidata.org/wiki/Q1525690",
+    "https://en.wikipedia.org/wiki/Retiro,_Antioquia",
+    "https://es.wikipedia.org/wiki/El_Retiro_(Antioquia)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "hoist",
+      "role": "large triangle from the hoist to the fly, edged with small white stars"
+    },
+    {
+      "type": "star",
+      "count": 24,
+      "points": 5,
+      "color": "white",
+      "position": "hoist",
+      "role": "row of small stars along the edges of the triangle"
+    }
+  ]
+}
