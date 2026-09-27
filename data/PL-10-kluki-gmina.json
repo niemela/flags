@@ -1,0 +1,63 @@
+{
+  "id": "PL-10-kluki-gmina",
+  "name": "Gmina Kluki (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-10",
+  "codes": {
+    "wikidata": "Q613782",
+    "teryt": "1001052"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field charged towards the hoist with a yellow oak tree between a white fleur-de-lis and a white horseshoe, the charge from the gmina arms.",
+  "history": "Established by resolution No. 40/XXIV/05 of the gmina council of 17 November 2005.",
+  "periods": [
+    {
+      "start": "2005-11-17"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Kluki_flag.svg",
+    "https://www.wikidata.org/wiki/Q613782",
+    "https://pl.wikipedia.org/wiki/Kluki_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_łódzkim",
+    "http://kluki.biuletyn.net/?bip=2&cid=1085&id=2448",
+    "http://kluki.biuletyn.net/?bip=1&cid=1043"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "oak tree from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "fleur-de-lis and horseshoe at the foot of the tree"
+    }
+  ]
+}

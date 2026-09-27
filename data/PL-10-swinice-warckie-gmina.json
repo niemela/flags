@@ -1,0 +1,64 @@
+{
+  "id": "PL-10-swinice-warckie-gmina",
+  "name": "Gmina Świnice Warckie (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-10",
+  "codes": {
+    "wikidata": "Q2458745",
+    "teryt": "1004072"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Red field charged at the centre with a black boar's head with white tusks above a blue wavy line, the charge from the gmina arms.",
+  "history": "Established by resolution No. XXI/164/2005 of the gmina council of 25 August 2005.",
+  "periods": [
+    {
+      "start": "2005-08-25"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Świnice_Warckie_flag.svg",
+    "https://www.wikidata.org/wiki/Q2458745",
+    "https://pl.wikipedia.org/wiki/Świnice_Warckie_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_łódzkim"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "boar's head from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "bottom",
+      "role": "wavy line below the head"
+    }
+  ]
+}

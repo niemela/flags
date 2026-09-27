@@ -1,0 +1,72 @@
+{
+  "id": "PL-10-reczno-gmina",
+  "name": "Gmina Ręczno (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-10",
+  "codes": {
+    "wikidata": "Q2459713",
+    "teryt": "1010072"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Five horizontal stripes of blue, red, yellow, red and blue in the ratio 21:2:2:2:3, with the charge from the gmina arms in the upper hoist: four white eagles' heads around a red mitre.",
+  "history": "Established by resolution No. XIX/127/09 of the gmina council of 3 July 2009.",
+  "periods": [
+    {
+      "start": "2009-07-03"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Ręczno_flag.svg",
+    "https://www.wikidata.org/wiki/Q2459713",
+    "https://pl.wikipedia.org/wiki/Ręczno_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_łódzkim",
+    "http://dziennik.lodzkie.eu/legalact/2009/236/2139"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red",
+        "yellow",
+        "red",
+        "blue"
+      ],
+      "count": 5
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "four eagles' heads from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "mitre between the eagles' heads"
+    }
+  ]
+}

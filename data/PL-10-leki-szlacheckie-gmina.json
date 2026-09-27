@@ -1,0 +1,62 @@
+{
+  "id": "PL-10-leki-szlacheckie-gmina",
+  "name": "Gmina Łęki Szlacheckie (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-10",
+  "codes": {
+    "wikidata": "Q2406345",
+    "teryt": "1010052"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field charged at the centre with a white fleur-de-lis on three yellow hills, the charge from the gmina arms.",
+  "history": "Established by resolution No. XXXIV/162/09 of the gmina council of 29 December 2009.",
+  "periods": [
+    {
+      "start": "2009-12-29"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Łęki_Szlacheckie_flag.svg",
+    "https://www.wikidata.org/wiki/Q2406345",
+    "https://pl.wikipedia.org/wiki/Łęki_Szlacheckie_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_łódzkim",
+    "http://dziennik.lodzkie.eu/legalact/2010/37/296"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "fleur-de-lis from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "three hills below the fleur-de-lis"
+    }
+  ]
+}

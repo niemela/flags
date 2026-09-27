@@ -1,0 +1,60 @@
+{
+  "id": "PL-10-wielun-gmina",
+  "name": "Gmina Wieluń (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-10",
+  "codes": {
+    "wikidata": "Q2149743",
+    "teryt": "1017093"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field divided by a white diagonal band from the upper hoist to the lower fly, charged at the centre with the gmina arms.",
+  "history": "Established by resolution No. XI/87/2015 of the gmina council of 7 December 2015.",
+  "periods": [
+    {
+      "start": "2015-12-07"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Wieluń_flag.svg",
+    "https://www.wikidata.org/wiki/Q2149743",
+    "https://pl.wikipedia.org/wiki/Wieluń_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_łódzkim",
+    "https://eurzad.finn.pl/gmwielun/#!/rejestr/208176"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "diagonal band from the upper hoist to the lower fly"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "gmina coat of arms"
+    }
+  ]
+}

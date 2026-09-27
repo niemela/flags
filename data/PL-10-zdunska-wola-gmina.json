@@ -1,0 +1,64 @@
+{
+  "id": "PL-10-zdunska-wola-gmina",
+  "name": "Gmina Zduńska Wola (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-10",
+  "codes": {
+    "wikidata": "Q2023951",
+    "teryt": "1019042"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "orange"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertical tricolour of orange, blue and orange, the blue charged with three yellow bees above a white horseshoe with a cross, the charge from the gmina arms.",
+  "history": "The gmina flag was established by resolution No. 59/2001 of the gmina council of 20 June 2001; Polish Wikipedia describes the version in force since 24 June 2021 as a plain blue field with the charge from the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Zduńska_Wola_flag.svg",
+    "https://www.wikidata.org/wiki/Q2023951",
+    "https://pl.wikipedia.org/wiki/Zduńska_Wola_(gmina_wiejska)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_łódzkim"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "orange",
+        "blue",
+        "orange"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "three bees from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "horseshoe with a cross below the bees"
+    }
+  ]
+}

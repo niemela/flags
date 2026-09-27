@@ -1,0 +1,59 @@
+{
+  "id": "PL-10-zapolice-gmina",
+  "name": "Gmina Zapolice (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-10",
+  "codes": {
+    "wikidata": "Q2458160",
+    "teryt": "1019032"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field charged with a white dragon above three white wavy lines along the bottom, the charge from the gmina arms.",
+  "history": "Established by resolution No. XLVII/324/14 of the gmina council of 15 September 2014.",
+  "periods": [
+    {
+      "start": "2014-09-15"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Zapolice_flag.svg",
+    "https://www.wikidata.org/wiki/Q2458160",
+    "https://pl.wikipedia.org/wiki/Zapolice_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_łódzkim",
+    "http://dziennik.lodzkie.eu/legalact/2014/3486"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "dragon from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "bottom",
+      "role": "three wavy lines along the bottom"
+    }
+  ]
+}

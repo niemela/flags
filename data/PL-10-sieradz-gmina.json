@@ -1,0 +1,63 @@
+{
+  "id": "PL-10-sieradz-gmina",
+  "name": "Gmina Sieradz (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-10",
+  "codes": {
+    "wikidata": "Q2369766",
+    "teryt": "1014082"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field charged at the centre with a yellow crown above a white fleur-de-lis, the charge from the gmina arms.",
+  "history": "Established by resolution No. XI/87/2015 of the gmina council of 7 December 2015.",
+  "periods": [
+    {
+      "start": "2015-12-07"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Sieradz_flag.svg",
+    "https://www.wikidata.org/wiki/Q2369766",
+    "https://pl.wikipedia.org/wiki/Sieradz_(gmina_wiejska)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_łódzkim",
+    "http://dziennik.lodzkie.eu/legalact/2016/214",
+    "https://www.ugsieradz.pl/asp/herb-flaga-i-pieczec,82,artykul,1,84"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crown from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "fleur-de-lis below the crown"
+    }
+  ]
+}

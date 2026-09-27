@@ -1,0 +1,61 @@
+{
+  "id": "PL-10-zdunska-wola",
+  "name": "Zduńska Wola (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-10",
+  "codes": {
+    "wikidata": "Q169237",
+    "teryt": "1019011"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Green field divided by three equal diagonal bands of white, yellow and red running from the upper fly to the lower hoist.",
+  "history": "Established by the city council on 30 March 1995.",
+  "periods": [
+    {
+      "start": "1995-03-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Zduńska_Wola_flag.svg",
+    "https://www.wikidata.org/wiki/Q169237",
+    "https://pl.wikipedia.org/wiki/Zduńska_Wola",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_łódzkim",
+    "https://zdunskawola.pl/o-miescie/informacje/barwy-i-herb/"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 3,
+      "direction": "bend-sinister",
+      "role": "three diagonal bands of white, yellow and red"
+    }
+  ]
+}

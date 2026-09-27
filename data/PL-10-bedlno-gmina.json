@@ -1,0 +1,67 @@
+{
+  "id": "PL-10-bedlno-gmina",
+  "name": "Gmina Bedlno (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-10",
+  "codes": {
+    "wikidata": "Q610732",
+    "teryt": "1101202022"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Vertical tricolour of red, white and red in the ratio 1:2:1, the white charged with three red towers above a black bull's head, the charge from the gmina arms.",
+  "history": "Established by resolution No. XXIX/203/2006 of the gmina council of 21 April 2006.",
+  "periods": [
+    {
+      "start": "2006-04-21"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Bedlno_flag.svg",
+    "https://www.wikidata.org/wiki/Q610732",
+    "https://pl.wikipedia.org/wiki/Bedlno_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_łódzkim",
+    "http://ugbedlno.bip.org.pl/id/228"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "three towers from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "bull's head below the towers"
+    }
+  ]
+}

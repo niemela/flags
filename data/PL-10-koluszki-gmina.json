@@ -1,0 +1,55 @@
+{
+  "id": "PL-10-koluszki-gmina",
+  "name": "Gmina Koluszki (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-10",
+  "codes": {
+    "wikidata": "Q2433211",
+    "teryt": "1006073"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal tricolour of blue, red and blue in the ratio 1:2:1, the red charged towards the hoist with the charge from the gmina arms.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Koluszki_flag.svg",
+    "https://www.wikidata.org/wiki/Q2433211",
+    "https://pl.wikipedia.org/wiki/Koluszki_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_łódzkim",
+    "https://www.infor.pl/akt-prawny/U72.2013.202.0004570,uchwala-nr-xxxv1202013-rady-miejskiej-w-koluszkach-w-sprawie-uchwalenia-statutu-gminy-koluszki.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "red",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "charge from the gmina arms"
+    }
+  ]
+}
