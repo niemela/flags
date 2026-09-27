@@ -1,0 +1,60 @@
+{
+  "id": "PL-28-reszel-gmina",
+  "name": "Gmina Reszel (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-28",
+  "codes": {
+    "wikidata": "Q554637",
+    "teryt": "2808053"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Vertical bicolour of green, for the forests and farmland, and yellow, for the history of the town, the green charged with a brown bear with a crosier from the gmina arms.",
+  "history": "Established by resolution No. XVII/101/08 of the gmina council of 24 April 2008.",
+  "periods": [
+    {
+      "start": "2008-04-24"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Reszel_flag.svg",
+    "https://www.wikidata.org/wiki/Q554637",
+    "https://pl.wikipedia.org/wiki/Reszel_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_warmińsko-mazurskim",
+    "http://www.reszel.pl/Flaga_Gminy_Reszel,41,756.html"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "hoist",
+      "role": "bear with a crosier from the gmina arms"
+    }
+  ]
+}

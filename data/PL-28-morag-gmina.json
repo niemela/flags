@@ -1,0 +1,69 @@
+{
+  "id": "PL-28-morag-gmina",
+  "name": "Gmina Morąg (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-28",
+  "codes": {
+    "wikidata": "Q555199",
+    "teryt": "2815083"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Vertical bicolour of yellow and green, charged at the centre with a white scallop shell and a red pilgrim's staff, the symbols of Saint James.",
+  "history": "Established by resolution No. XVI/201/03 of the gmina council of 19 November 2003.",
+  "periods": [
+    {
+      "start": "2003-11-19"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Morąg_flag.svg",
+    "https://www.wikidata.org/wiki/Q555199",
+    "https://pl.wikipedia.org/wiki/Morąg_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_warmińsko-mazurskim",
+    "http://morag.pl/pl/blog-artykul/28"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "scallop shell of Saint James"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "pilgrim's staff"
+    }
+  ]
+}

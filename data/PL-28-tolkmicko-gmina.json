@@ -1,0 +1,65 @@
+{
+  "id": "PL-28-tolkmicko-gmina",
+  "name": "Gmina Tolkmicko (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-28",
+  "codes": {
+    "wikidata": "Q554180",
+    "teryt": "2804093"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Horizontal tricolour of green, yellow and blue in the ratio 1:8:1, the yellow charged towards the hoist with a green oak branch below a black cross, the charge from the gmina arms.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Tolkmicko_flag.svg",
+    "https://www.wikidata.org/wiki/Q554180",
+    "https://pl.wikipedia.org/wiki/Tolkmicko_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_warmińsko-mazurskim",
+    "https://tolkmicko-umig.bip-wm.pl/public/getFile?id=331187"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "hoist",
+      "role": "oak branch from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "hoist",
+      "role": "cross above the branch"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "PL-28-nowe-miasto-lubawskie",
+  "name": "Nowe Miasto Lubawskie (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-28",
+  "codes": {
+    "wikidata": "Q176229",
+    "teryt": "2812011"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal bicolour of red and yellow, charged towards the hoist with a yellow lion on the red and a red rose on the yellow, the charges from the city arms.",
+  "history": "Established by resolution No. XIX/142/2012 of the city council of 24 April 2012.",
+  "periods": [
+    {
+      "start": "2012-04-24"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Nowe_Miasto_Lubawskie_flag.svg",
+    "https://www.wikidata.org/wiki/Q176229",
+    "https://pl.wikipedia.org/wiki/Nowe_Miasto_Lubawskie",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_warmińsko-mazurskim",
+    "https://www.infor.pl/akt-prawny/U82.2012.100.0001803,uchwala-nr-xix1422012-rady-miejskiej-w-nowym-miescie-lubawskim-w-sprawie-statutu-miasta-nowe-miasto-lubawskie.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "lion from the city arms"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "lower-hoist",
+      "role": "rose from the city arms"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "PL-28-olecko-gmina",
+  "name": "Gmina Olecko (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-28",
+  "codes": {
+    "wikidata": "Q554714",
+    "teryt": "2813043"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Horizontal tricolour of red, white and red in the ratio 1:5:1, the white charged with a red castle with black windows, the charge from the gmina arms.",
+  "history": "Established by resolution No. XXIX/214/2005 of the gmina council of 23 September 2005.",
+  "periods": [
+    {
+      "start": "2005-09-23"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Olecko_flag.svg",
+    "https://www.wikidata.org/wiki/Q554714",
+    "https://pl.wikipedia.org/wiki/Olecko_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_warmińsko-mazurskim",
+    "https://um.olecko.pl/strona-397-symbole_gminy_olecko.html",
+    "https://www.umolecko.bip.doc.pl/index.php?dz=4&id=38666"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "castle from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "windows of the castle"
+    }
+  ]
+}
