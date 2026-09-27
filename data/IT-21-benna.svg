@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="800" viewBox="0 0 30 20" xmlns="http://www.w3.org/2000/svg">
+	<rect style="fill:#ffce00" width="30" height="20" x="0" y="0"/><!-- bordure/field -->
+	<rect style="fill:#fff" width="26" height="16" x="2" y="2"/><!-- cross -->
+
+	<path style="fill:#004ac3" d="M 2,5 v -3 h 11 v 6 H 2 Z"/><!-- top-left: blue -->
+	<path style="fill:#008000" d="M 2,15 v -3 h 11 v 6 H 2 Z"/><!-- bottom-left: green -->
+	<path style="fill:#004ac3" d="M 17,5 v -3 h 11 v 6 h -11 Z"/><!-- top-right: blue -->
+	<path style="fill:#008000" d="M 17,15 v -3 h 11 v 6 h -11 Z"/><!-- bottom-right: green -->
+</svg>

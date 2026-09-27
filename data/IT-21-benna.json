@@ -1,0 +1,61 @@
+{
+  "id": "IT-21-benna",
+  "name": "Benna (Italy)",
+  "type": [
+    "city"
+  ],
+  "parent": "IT-21",
+  "codes": {
+    "wikidata": "Q18018",
+    "istat": "096003"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Yellow field bearing a rectangle divided blue above green by a white cross throughout, like the municipal arms.",
+  "history": "Municipal flag of Benna, a comune in Piedmont; Italian municipal arms, gonfaloni and flags are granted by decree of the President of the Republic on the advice of the Government's heraldry office. The arms and gonfalone were granted by decree of the President of the Republic on 14 April 1992.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Benna.svg",
+    "https://www.wikidata.org/wiki/Q18018",
+    "https://en.wikipedia.org/wiki/Benna,_Piedmont",
+    "https://it.wikipedia.org/wiki/Benna_(Italia)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green"
+      ],
+      "count": 2,
+      "role": "central panel divided blue over green"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "white",
+      "position": "center",
+      "field": "blue",
+      "role": "cross throughout the central panel"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "IT-21-acqui-terme",
+  "name": "Acqui Terme (Italy)",
+  "type": [
+    "city"
+  ],
+  "parent": "IT-21",
+  "codes": {
+    "wikidata": "Q17244",
+    "istat": "006001"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "9:16",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Yellow field bearing a black eagle above a brown hare, within a red border of white triangles (a dancetty bordure).",
+  "history": "Municipal flag of Acqui Terme, a comune in Piedmont; Italian municipal arms, gonfaloni and flags are granted by decree of the President of the Republic on the advice of the Government's heraldry office.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Acqui_Terme-Bandiera.svg",
+    "https://www.wikidata.org/wiki/Q17244",
+    "https://en.wikipedia.org/wiki/Acqui_Terme",
+    "https://it.wikipedia.org/wiki/Acqui_Terme"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "border",
+      "color": "red",
+      "role": "broad border charged with white triangles"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "row of triangles along the border"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "eagle displayed"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "hare beneath the eagle"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "IT-21-domodossola",
+  "name": "Domodossola (Italy)",
+  "type": [
+    "city"
+  ],
+  "parent": "IT-21",
+  "codes": {
+    "wikidata": "Q23325",
+    "istat": "103028"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field with a white Greek cross throughout, a yellow star at the centre and a white star in each quarter.",
+  "history": "Municipal flag of Domodossola, a comune in Piedmont; Italian municipal arms, gonfaloni and flags are granted by decree of the President of the Republic on the advice of the Government's heraldry office.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Domodossola-Bandiera.svg",
+    "https://www.wikidata.org/wiki/Q23325",
+    "https://en.wikipedia.org/wiki/Domodossola",
+    "https://it.wikipedia.org/wiki/Domodossola"
+  ],
+  "features": [
+    {
+      "type": "greek-cross",
+      "cross": "white",
+      "position": "center",
+      "field": "red",
+      "role": "cross throughout"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "star at the centre of the cross"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "white",
+      "position": "canton",
+      "role": "one star in each quarter"
+    }
+  ]
+}

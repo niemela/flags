@@ -1,0 +1,83 @@
+{
+  "id": "IT-21-biella",
+  "name": "Biella (Italy)",
+  "type": [
+    "city"
+  ],
+  "parent": "IT-21",
+  "codes": {
+    "wikidata": "Q18021",
+    "istat": "096004"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Red field with yellow vertical bars at the hoist (the bars of Aragon) and a bear beneath an oak tree on a blue base at the fly, after the municipal arms.",
+  "history": "Municipal flag of Biella, a comune in Piedmont; Italian municipal arms, gonfaloni and flags are granted by decree of the President of the Republic on the advice of the Government's heraldry office.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Biella-Bandiera.svg",
+    "https://www.wikidata.org/wiki/Q18021",
+    "https://en.wikipedia.org/wiki/Biella",
+    "https://it.wikipedia.org/wiki/Biella"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 9,
+      "pos": "hoist",
+      "role": "yellow bars on red at the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "fly",
+      "role": "bear passant at the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "fly",
+      "role": "oak tree above the bear"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "bottom",
+      "role": "narrow blue base under the bear"
+    }
+  ]
+}

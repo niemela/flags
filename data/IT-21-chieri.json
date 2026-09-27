@@ -1,0 +1,60 @@
+{
+  "id": "IT-21-chieri",
+  "name": "Chieri (Italy)",
+  "type": [
+    "city"
+  ],
+  "parent": "IT-21",
+  "codes": {
+    "wikidata": "Q9269",
+    "istat": "001078"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Quartered: the first and fourth white with a red Greek cross throughout, the second and third red with a yellow lion rampant.",
+  "history": "Municipal flag of Chieri, a comune in Piedmont; Italian municipal arms, gonfaloni and flags are granted by decree of the President of the Republic on the advice of the Government's heraldry office.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Chieri-Bandiera.svg",
+    "https://www.wikidata.org/wiki/Q9269",
+    "https://en.wikipedia.org/wiki/Chieri",
+    "https://it.wikipedia.org/wiki/Chieri"
+  ],
+  "features": [
+    {
+      "type": "quartered",
+      "quarters": [
+        "white",
+        "red",
+        "red",
+        "white"
+      ]
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "canton",
+      "field": "white",
+      "role": "cross in the first and fourth quarters"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "lion rampant in the second and third quarters"
+    }
+  ]
+}

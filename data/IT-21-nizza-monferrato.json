@@ -1,0 +1,48 @@
+{
+  "id": "IT-21-nizza-monferrato",
+  "name": "Nizza Monferrato (Italy)",
+  "type": [
+    "city"
+  ],
+  "parent": "IT-21",
+  "codes": {
+    "wikidata": "Q17839",
+    "istat": "005080"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the upper fly to the lower hoist, red above and yellow below, charged at the centre with a crowned yellow lion rampant holding a cross.",
+  "history": "Municipal flag of Nizza Monferrato, a comune in Piedmont; Italian municipal arms, gonfaloni and flags are granted by decree of the President of the Republic on the advice of the Government's heraldry office.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Nizza_Monferrato-Bandiera.svg",
+    "https://www.wikidata.org/wiki/Q17839",
+    "https://en.wikipedia.org/wiki/Nizza_Monferrato",
+    "https://it.wikipedia.org/wiki/Nizza_Monferrato"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "yellow",
+      "direction": "bend-sinister",
+      "role": "divided diagonally red over yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crowned lion rampant holding a cross"
+    }
+  ]
+}
