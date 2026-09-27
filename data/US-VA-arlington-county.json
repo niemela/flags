@@ -1,0 +1,64 @@
+{
+  "id": "US-VA-arlington-county",
+  "name": "Arlington County, Virginia (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-VA",
+  "codes": {
+    "wikidata": "Q107126"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "White field with thin dark blue horizontal bands along the top and bottom, charged with the county logo, a stylised A of dark and light blue shapes.",
+  "history": "Arlington County, or simply Arlington, is a county in Virginia. The flag was adopted on 22 January 2022 (adopted on 22 January 2022 after a year-and-a-half process with a county logo review panel, replacing the 1983 flag with the county seal, according to Flags of the World).",
+  "periods": [
+    {
+      "start": "2022-01-22"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Arlington_County,_Virginia.svg",
+    "https://www.wikidata.org/wiki/Q107126",
+    "https://en.wikipedia.org/wiki/Arlington_County,_Virginia",
+    "https://www.crwflags.com/fotw/flags/us-va-ar.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "white",
+        "navy"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "center",
+      "role": "stylised A logo in dark and light blue"
+    },
+    {
+      "type": "glyph",
+      "color": "light-blue",
+      "position": "center",
+      "role": "light blue element of the logo"
+    }
+  ]
+}

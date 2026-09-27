@@ -1,0 +1,65 @@
+{
+  "id": "US-VA-tangier",
+  "name": "Tangier (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-VA",
+  "codes": {
+    "wikidata": "Q1373391"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Blue field with a canton bearing a white cross on black, a black horizontal stripe across the middle and a green disc in the lower fly.",
+  "history": "Tangier is a town in Accomack County, Virginia, on Tangier Island in the Chesapeake Bay.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Tangier,_Virginia.svg",
+    "https://www.wikidata.org/wiki/Q1373391",
+    "https://en.wikipedia.org/wiki/Tangier,_Virginia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "canton",
+      "color": "black",
+      "role": "canton with a white cross"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "white",
+      "position": "canton"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "horizontal black stripe"
+    },
+    {
+      "type": "disc",
+      "color": "green",
+      "position": "lower-fly",
+      "role": "disc"
+    }
+  ]
+}
