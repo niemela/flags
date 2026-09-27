@@ -1,0 +1,69 @@
+{
+  "id": "US-ME-washington",
+  "name": "Washington (Maine, United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-ME",
+  "codes": {
+    "wikidata": "Q3448011"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "A red panel at the hoist with a zigzag edge in navy blue, and a fly of white with two red horizontal stripes and three red stars, after the flag of Washington, D.C.",
+  "history": "Washington is a town in Knox County, Maine. Its official town flag adapts the flag of Washington, D.C.; English Wikipedia notes that the red panel at the hoist refers to the town's early settlers.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Washington,_Maine.svg",
+    "https://www.wikidata.org/wiki/Q3448011",
+    "https://en.wikipedia.org/wiki/Washington,_Maine"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "hoist",
+      "role": "zigzag edge of the hoist panel"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "two red stripes on the white fly"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "red",
+      "position": "upper-fly"
+    }
+  ]
+}
