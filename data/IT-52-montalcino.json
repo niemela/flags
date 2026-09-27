@@ -1,0 +1,63 @@
+{
+  "id": "IT-52-montalcino",
+  "name": "Montalcino (Italy)",
+  "type": [
+    "city"
+  ],
+  "parent": "IT-52",
+  "codes": {
+    "wikidata": "Q91208",
+    "istat": "052037"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "White field charged at the centre with a green holm oak tree rising from a red mount of six hillocks (the arms of Montalcino), with the name MONTALCINO in black beneath.",
+  "history": "Municipal flag of Montalcino, a comune in Tuscany; Italian municipal arms, gonfaloni and flags are granted by decree of the President of the Republic on the advice of the Government's heraldry office.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Montalcino-Bandiera.svg",
+    "https://www.wikidata.org/wiki/Q91208",
+    "https://en.wikipedia.org/wiki/Montalcino",
+    "https://it.wikipedia.org/wiki/Montalcino"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "holm oak tree"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "mount of six hillocks beneath the tree"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "bottom",
+      "role": "inscription MONTALCINO"
+    }
+  ]
+}
