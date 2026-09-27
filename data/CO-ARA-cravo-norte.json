@@ -1,0 +1,54 @@
+{
+  "id": "CO-ARA-cravo-norte",
+  "name": "Cravo Norte (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-ARA",
+  "codes": {
+    "wikidata": "Q593491",
+    "dane": "81220"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a broad white band, red above and green below.",
+  "history": "Municipal flag of Cravo Norte, a municipality in the department of Arauca, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Cravo_Norte_(Arauca).svg",
+    "https://www.wikidata.org/wiki/Q593491",
+    "https://en.wikipedia.org/wiki/Cravo_Norte",
+    "https://es.wikipedia.org/wiki/Cravo_Norte"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend-sinister",
+      "role": "divided diagonally red over green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "broad diagonal band along the division"
+    }
+  ]
+}
