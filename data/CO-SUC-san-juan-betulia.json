@@ -1,0 +1,69 @@
+{
+  "id": "CO-SUC-san-juan-betulia",
+  "name": "San Juan de Betulia (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-SUC",
+  "codes": {
+    "wikidata": "Q1526281",
+    "dane": "70702"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Horizontal bicolour of white and green, the white with a white disc at the hoist bearing two clasped hands, the green charged with a yellow eight-pointed star at the fly.",
+  "history": "Municipal flag of San Juan Betulia, a municipality in the department of Sucre, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_San_Juan_de_Betulia_(Sucre).svg",
+    "https://www.wikidata.org/wiki/Q1526281",
+    "https://en.wikipedia.org/wiki/San_Juan_Betulia",
+    "https://es.wikipedia.org/wiki/San_Juan_de_Betulia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "disc outlined brown with two clasped hands"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "upper-hoist",
+      "role": "outline of the disc and one of the hands"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "yellow",
+      "position": "lower-fly"
+    }
+  ]
+}

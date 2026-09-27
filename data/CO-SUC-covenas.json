@@ -1,0 +1,63 @@
+{
+  "id": "CO-SUC-covenas",
+  "name": "Coveñas (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-SUC",
+  "codes": {
+    "wikidata": "Q952231",
+    "dane": "70221"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Blue field with a diagonal band of yellow and green from the lower hoist to the upper fly and a yellow sun at the upper hoist.",
+  "history": "Municipal flag of Coveñas, a municipality in the department of Sucre, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Coveñas_(Sucre).svg",
+    "https://www.wikidata.org/wiki/Q952231",
+    "https://en.wikipedia.org/wiki/Cove%C3%B1as",
+    "https://es.wikipedia.org/wiki/Cove%C3%B1as"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band of yellow and green from the lower hoist to the upper fly"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "diagonal band"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "sun of pointed rays"
+    }
+  ]
+}
