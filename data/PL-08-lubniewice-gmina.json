@@ -1,0 +1,68 @@
+{
+  "id": "PL-08-lubniewice-gmina",
+  "name": "Gmina Lubniewice (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-08",
+  "codes": {
+    "wikidata": "Q2460579",
+    "teryt": "0807023"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertical tricolour of light blue, white and light blue, the white charged with a crowned woman in a light blue gown holding two apples, the charge from the gmina arms.",
+  "history": "Established by resolution No. XXXIII/243/2013 of the gmina council of 16 August 2013.",
+  "periods": [
+    {
+      "start": "2013-08-16"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Lubniewice_flag.svg",
+    "https://www.wikidata.org/wiki/Q2460579",
+    "https://pl.wikipedia.org/wiki/Lubniewice_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_lubuskim",
+    "http://dzienniki.luw.pl/legalact/2013/1849",
+    "http://lubniewice.pl/symbole-gminy/"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "light-blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "light-blue",
+      "position": "center",
+      "role": "crowned woman from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crown and apples of the figure"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "PL-08-drezdenko-gmina",
+  "name": "Gmina Drezdenko (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-08",
+  "codes": {
+    "wikidata": "Q2491540",
+    "teryt": "4081006023"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, red above with the gmina arms at the hoist and white below.",
+  "history": "Established by the gmina council on 30 May 1995; re-established on 30 December 1996.",
+  "periods": [
+    {
+      "start": "1995-05-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Drezdenko_flag.svg",
+    "https://www.wikidata.org/wiki/Q2491540",
+    "https://pl.wikipedia.org/wiki/Drezdenko_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_lubuskim",
+    "https://www.weksylologia.pl/biuletyn-PTW/Flaga-nr-23-24-wrzesien-grudzien-2002.pdf",
+    "https://www.bip.drezdenko.pl/694,statut"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "white",
+      "direction": "bend-sinister",
+      "role": "divided diagonally red over white"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "upper-hoist",
+      "role": "gmina coat of arms"
+    }
+  ]
+}

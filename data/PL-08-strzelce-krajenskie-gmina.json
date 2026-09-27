@@ -1,0 +1,64 @@
+{
+  "id": "PL-08-strzelce-krajenskie-gmina",
+  "name": "Gmina Strzelce Krajeńskie (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-08",
+  "codes": {
+    "wikidata": "Q1885219",
+    "teryt": "0806043"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Five horizontal stripes of red, white, red, white and red, the central red the widest, charged at the centre with a white castle with blue roofs, the charge from the gmina arms.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Strzelce_Krajeńskie_flag.svg",
+    "https://www.wikidata.org/wiki/Q1885219",
+    "https://pl.wikipedia.org/wiki/Strzelce_Krajeńskie_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_lubuskim",
+    "https://bip.strzelce.pl/151/Flaga/"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 5
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "castle from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "roofs of the castle towers"
+    }
+  ]
+}
