@@ -1,0 +1,66 @@
+{
+  "id": "US-PA-erie",
+  "name": "Erie (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-PA",
+  "codes": {
+    "wikidata": "Q234061"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "pink"
+    }
+  ],
+  "description": "Dark blue field with a red stripe fimbriated in white near the top and bottom, charged with the city seal in white reading CITY OF ERIE PENNSYLVANIA ESTABLISHED 1795 INCORPORATED APRIL 14, 1851.",
+  "history": "Erie is a city on the south shore of Lake Erie and the county seat of Erie County, Pennsylvania.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Erie,_Pennsylvania.svg",
+    "https://www.wikidata.org/wiki/Q234061",
+    "https://en.wikipedia.org/wiki/Erie,_Pennsylvania"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "navy",
+        "red"
+      ],
+      "count": 3,
+      "role": "red stripes fimbriated in white near the top and bottom"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "fimbriations of the stripes"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "city seal in white with the Pennsylvania arms"
+    }
+  ]
+}

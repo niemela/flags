@@ -1,0 +1,71 @@
+{
+  "id": "US-PA-easton",
+  "name": "Easton (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-PA",
+  "codes": {
+    "wikidata": "Q1056542"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "The Easton Flag: a dark blue field with thirteen white eight-pointed stars in a ring around a single star, and a canton of thirteen red and white stripes.",
+  "history": "Easton is the county seat of Northampton County, Pennsylvania. The Easton Flag is an early American flag said to have been flown at the reading of the Declaration of Independence in Easton in 1776 and carried by a militia in the War of 1812; the original survives at the Easton Public Library. Flags of the World cites a report that the city adopted a copy as its municipal flag in 1908.",
+  "periods": [
+    {
+      "start": "1908"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Easton,_Pennsylvania.svg",
+    "https://www.wikidata.org/wiki/Q1056542",
+    "https://en.wikipedia.org/wiki/Easton,_Pennsylvania",
+    "https://en.wikipedia.org/wiki/Flag_of_Easton",
+    "https://www.crwflags.com/fotw/flags/us-east.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "star",
+      "count": 13,
+      "points": 8,
+      "color": "white",
+      "position": "center",
+      "role": "ring of thirteen stars around a central star"
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "role": "canton of thirteen red and white stripes"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2,
+      "position": "canton",
+      "role": "thirteen stripes in the canton"
+    }
+  ]
+}
