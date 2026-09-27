@@ -1,0 +1,69 @@
+{
+  "id": "US-NY-amherst",
+  "name": "Amherst (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-NY",
+  "codes": {
+    "wikidata": "Q470592"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Red field with a light blue stripe near the bottom, a large yellow letter A from top to bottom near the hoist, the town seal with a wreath and the date 1818 in the upper fly and AMHERST N.Y. in yellow.",
+  "history": "Amherst is a town in Erie County, New York. Flags of the World records that the flag was chosen in a contest held at the initiative of a former town executive, Daniel Ward.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Amherst,_New_York.svg",
+    "https://www.wikidata.org/wiki/Q470592",
+    "https://en.wikipedia.org/wiki/Amherst,_New_York",
+    "https://www.crwflags.com/fotw/flags/us-nyamh.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "bottom",
+      "role": "light blue stripe near the bottom"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "large letter A"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "upper-fly",
+      "role": "town seal in yellow with a wreath and the date 1818"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "fly",
+      "role": "words AMHERST N.Y."
+    }
+  ]
+}

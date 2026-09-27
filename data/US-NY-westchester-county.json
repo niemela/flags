@@ -1,0 +1,72 @@
+{
+  "id": "US-NY-westchester-county",
+  "name": "Westchester County, New York (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-NY",
+  "codes": {
+    "wikidata": "Q54066"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "5:9",
+  "colors": [
+    {
+      "color": "orange"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "Divided horizontally orange over blue, with a large white triangle whose base takes up the whole hoist, bearing the county emblem in blue within a ring of stars, and Westchester County, New York in white on the blue.",
+  "history": "Westchester County is a suburban county north of New York City. The original flag was adopted on 1 May 1939 by the county's Committee on Budget and Appropriations after a citizens' committee selected the design; the colours recall the Dutch tricolour. Wikidata dates the present version, with the county's name added, from 1985.",
+  "periods": [
+    {
+      "start": "1985"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Westchester_County,_New_York.svg",
+    "https://www.wikidata.org/wiki/Q54066",
+    "https://en.wikipedia.org/wiki/Westchester_County,_New_York",
+    "https://www.crwflags.com/fotw/flags/us-ny-we.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "orange",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "triangle at the hoist"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "hoist",
+      "role": "county emblem in blue within a ring of stars"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "bottom",
+      "role": "words Westchester County, New York"
+    }
+  ]
+}
