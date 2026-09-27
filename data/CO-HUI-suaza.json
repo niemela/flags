@@ -1,0 +1,54 @@
+{
+  "id": "CO-HUI-suaza",
+  "name": "Suaza (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-HUI",
+  "codes": {
+    "wikidata": "Q1526187",
+    "dane": "41770"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field with a yellow diagonal band from the lower hoist to the upper fly and a yellow ring with an orchid at the upper hoist.",
+  "history": "Municipal flag of Suaza, a municipality in the department of Huila, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Suaza_(Huila).svg",
+    "https://www.wikidata.org/wiki/Q1526187",
+    "https://en.wikipedia.org/wiki/Suaza",
+    "https://es.wikipedia.org/wiki/Suaza"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "ring with an orchid"
+    }
+  ]
+}

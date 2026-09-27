@@ -1,0 +1,73 @@
+{
+  "id": "CO-HUI-rivera",
+  "name": "Rivera (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-HUI",
+  "codes": {
+    "wikidata": "Q1526269",
+    "dane": "41615"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontal bicolour of white and green, overlaid by a diagonal band in the Colombian yellow, blue and red from the upper hoist to the lower fly.",
+  "history": "Municipal flag of Rivera, a municipality in the department of Huila, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Rivera_(Huila).svg",
+    "https://www.wikidata.org/wiki/Q1526269",
+    "https://en.wikipedia.org/wiki/Rivera,_Huila",
+    "https://es.wikipedia.org/wiki/Rivera_(Huila)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "diagonal tricolour band in yellow, blue and red"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "diagonal band"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "diagonal band"
+    }
+  ]
+}

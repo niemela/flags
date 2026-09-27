@@ -1,0 +1,73 @@
+{
+  "id": "CO-HUI-colombia",
+  "name": "Colombia (Huila, Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-HUI",
+  "codes": {
+    "wikidata": "Q1576192",
+    "dane": "41206"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontal bicolour of green and white, overlaid by a diagonal band in the Colombian yellow, blue and red from the lower hoist to the upper fly.",
+  "history": "Municipal flag of Colombia, a municipality in the department of Huila, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Colombia_(Huila).svg",
+    "https://www.wikidata.org/wiki/Q1576192",
+    "https://en.wikipedia.org/wiki/Colombia,_Huila",
+    "https://es.wikipedia.org/wiki/Colombia_(Huila)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "broad diagonal tricolour band in yellow, blue and red"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "diagonal band"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "diagonal band"
+    }
+  ]
+}

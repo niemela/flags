@@ -1,0 +1,54 @@
+{
+  "id": "CO-HUI-iquira",
+  "name": "Íquira (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-HUI",
+  "codes": {
+    "wikidata": "Q1574768",
+    "dane": "41357"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a broad navy blue band, green above and yellow below.",
+  "history": "Municipal flag of Iquira, a municipality in the department of Huila, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Íquira_(Huila).svg",
+    "https://www.wikidata.org/wiki/Q1574768",
+    "https://en.wikipedia.org/wiki/Iquira",
+    "https://es.wikipedia.org/wiki/%C3%8Dquira"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "yellow",
+      "direction": "bend-sinister",
+      "role": "divided diagonally green over yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "navy",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "broad diagonal band along the division"
+    }
+  ]
+}

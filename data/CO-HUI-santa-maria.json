@@ -1,0 +1,68 @@
+{
+  "id": "CO-HUI-santa-maria",
+  "name": "Santa María (Huila, Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-HUI",
+  "codes": {
+    "wikidata": "Q1575656",
+    "dane": "41676"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Yellow vertical stripe at the hoist bearing a black Greek letter tau, the fly green with a blue central stripe.",
+  "history": "Municipal flag of Santa María, a municipality in the department of Huila, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Santa_María_(Huila).svg",
+    "https://www.wikidata.org/wiki/Q1575656",
+    "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa,_Huila",
+    "https://es.wikipedia.org/wiki/Santa_Mar%C3%ADa_(Huila)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2,
+      "role": "yellow hoist stripe"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "blue",
+        "green"
+      ],
+      "count": 3,
+      "pos": "fly",
+      "role": "fly of green, blue and green"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "hoist",
+      "role": "Greek letter tau on the hoist stripe"
+    }
+  ]
+}
