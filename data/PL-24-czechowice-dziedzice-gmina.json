@@ -1,0 +1,67 @@
+{
+  "id": "PL-24-czechowice-dziedzice-gmina",
+  "name": "Gmina Czechowice-Dziedzice (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-24",
+  "codes": {
+    "wikidata": "Q554754",
+    "teryt": "2243202043"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Light blue field with a black stripe along the bottom, charged at the centre with a yellow Upper Silesian half-eagle and the figure of Saint Andrew Bobola in black, the charges from the gmina arms.",
+  "history": "Established by resolution No. XXXVIII/316/01 of the gmina council of 21 June 2001.",
+  "periods": [
+    {
+      "start": "2001-06-21"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Czechowice-Dziedzice_flag.svg",
+    "https://www.wikidata.org/wiki/Q554754",
+    "https://pl.wikipedia.org/wiki/Czechowice-Dziedzice_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_śląskim",
+    "https://www.czechowice-dziedzice.pl/insygnia-miejskie/flaga",
+    "https://www.bip.czechowice-dziedzice.pl/bipkod/071"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "black"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "Upper Silesian half-eagle from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "figure of Saint Andrew Bobola"
+    }
+  ]
+}

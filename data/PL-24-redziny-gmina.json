@@ -1,0 +1,67 @@
+{
+  "id": "PL-24-redziny-gmina",
+  "name": "Gmina Rędziny (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-24",
+  "codes": {
+    "wikidata": "Q554717",
+    "teryt": "2404152"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "11:18",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertical tricolour of blue, white and blue, the white the widest, charged at the centre with a red headless eagle with a yellow six-pointed star, the charge from the gmina arms.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Rędziny_flag.svg",
+    "https://www.wikidata.org/wiki/Q554717",
+    "https://pl.wikipedia.org/wiki/Rędziny_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_śląskim",
+    "https://web.archive.org/web/20060220094719/http://www.redziny.pl/index.php?kat_id=2"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "headless eagle from the gmina arms"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 6,
+      "color": "yellow",
+      "position": "center",
+      "role": "six-pointed star above the eagle"
+    }
+  ]
+}

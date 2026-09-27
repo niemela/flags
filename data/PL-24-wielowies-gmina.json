@@ -1,0 +1,61 @@
+{
+  "id": "PL-24-wielowies-gmina",
+  "name": "Gmina Wielowieś (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-24",
+  "codes": {
+    "wikidata": "Q553468",
+    "teryt": "2405082"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal tricolour of white, light blue and yellow in the ratio 3:14:3, the light blue charged with a yellow scythe and rake from the gmina arms.",
+  "history": "Established by resolution No. XXVIII/281/2013 of the gmina council of 14 November 2013.",
+  "periods": [
+    {
+      "start": "2013-11-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Wielowieś_flag.svg",
+    "https://www.wikidata.org/wiki/Q553468",
+    "https://pl.wikipedia.org/wiki/Wielowieś_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_śląskim",
+    "http://dzienniki.slask.eu/legalact/2013/6779/"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "light-blue",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "scythe and rake from the gmina arms"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "PL-24-koniecpol-gmina",
+  "name": "Gmina Koniecpol (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-24",
+  "codes": {
+    "wikidata": "Q553755",
+    "teryt": "2404063"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red hoist panel, one third of the length, charged with the charge from the Koniecpol arms — a white tower and a bishop's crosier — and a fly panel of seven equal horizontal stripes, four red and three white.",
+  "history": "Established by the gmina council on 27 April 2011.",
+  "periods": [
+    {
+      "start": "2011-04-27"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Koniecpol_flag.svg",
+    "https://www.wikidata.org/wiki/Q553755",
+    "https://pl.wikipedia.org/wiki/Koniecpol_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_śląskim",
+    "http://dzienniki.slask.eu/legalact/2011/148/2754/",
+    "https://bip.koniecpol.pl/userfiles/file/uchwaly/2018_LX/428.pdf"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "tower and crosier from the gmina arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 7,
+      "position": "fly",
+      "role": "seven stripes in the fly panel"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "PL-24-dabrowa-zielona-gmina",
+  "name": "Gmina Dąbrowa Zielona (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-24",
+  "codes": {
+    "wikidata": "Q554285",
+    "teryt": "2243104022"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field with narrow stripes of white, green, yellow and green along the bottom, charged towards the hoist with a white rose above two yellow oak leaves, the charge from the gmina arms.",
+  "history": "Established by resolution No. LIII/305/2014 of the gmina council of 12 October 2014, designed by Kamil Wójcikowski and Robert Fidura.",
+  "periods": [
+    {
+      "start": "2014-10-12"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Dąbrowa_Zielona_flag.svg",
+    "https://www.wikidata.org/wiki/Q554285",
+    "https://pl.wikipedia.org/wiki/Dąbrowa_Zielona_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_śląskim",
+    "http://dzienniki.slask.eu/legalact/2014/5245/",
+    "https://www.dabrowazielona.pl/asp/pl_start.asp?typ=14&sub=3&subsub=246&menu=157&strona=1"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green",
+        "yellow",
+        "green"
+      ],
+      "count": 5
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "rose from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "two oak leaves below the rose"
+    }
+  ]
+}

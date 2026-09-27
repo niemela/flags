@@ -1,0 +1,68 @@
+{
+  "id": "PL-24-myszkow",
+  "name": "Myszków (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-24",
+  "codes": {
+    "wikidata": "Q731079",
+    "teryt": "2409011"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "White field with a blue wavy line across the upper half bearing the city arms towards the hoist, and yellow and black stripes across the lower part.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Myszków_flag_2.svg",
+    "https://www.wikidata.org/wiki/Q731079",
+    "https://pl.wikipedia.org/wiki/Myszków",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_śląskim"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "wavy line across the field"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "city arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "black"
+      ],
+      "count": 2,
+      "position": "bottom",
+      "role": "yellow and black stripes across the lower part"
+    }
+  ]
+}

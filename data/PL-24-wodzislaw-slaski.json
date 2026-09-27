@@ -1,0 +1,70 @@
+{
+  "id": "PL-24-wodzislaw-slaski",
+  "name": "Wodzisław Śląski (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-24",
+  "codes": {
+    "wikidata": "Q500260",
+    "teryt": "2415041"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Vertical bicolour of blue and red, the blue charged with a yellow half-eagle and the red with a yellow heraldic rose with green leaves, the charges from the city arms.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Wodzisław_Śląski_flag.svg",
+    "https://www.wikidata.org/wiki/Q500260",
+    "https://pl.wikipedia.org/wiki/Wodzisław_Śląski",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_śląskim",
+    "https://bip.wodzislaw-slaski.pl/bipkod/004/009"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "half-eagle from the city arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "fly",
+      "role": "heraldic rose from the city arms"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "fly",
+      "role": "leaves of the rose"
+    }
+  ]
+}

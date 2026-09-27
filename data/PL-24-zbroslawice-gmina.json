@@ -1,0 +1,66 @@
+{
+  "id": "PL-24-zbroslawice-gmina",
+  "name": "Gmina Zbrosławice (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-24",
+  "codes": {
+    "wikidata": "Q553389",
+    "teryt": "2413092"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "purple"
+    }
+  ],
+  "description": "Horizontal bicolour of yellow and green in the ratio 4:1, the yellow charged towards the hoist with a green vine with purple grapes, the charge from the gmina arms.",
+  "history": "Established by resolution No. XLI/519/14 of the gmina council of 24 September 2014.",
+  "periods": [
+    {
+      "start": "2014-09-24"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Zbrosławice_flag.svg",
+    "https://www.wikidata.org/wiki/Q553389",
+    "https://pl.wikipedia.org/wiki/Zbrosławice_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_śląskim",
+    "http://dzienniki.slask.eu/legalact/2014/5037/"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "hoist",
+      "role": "vine from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "purple",
+      "position": "hoist",
+      "role": "grapes on the vine"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "PL-24-poreba",
+  "name": "Poręba (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-24",
+  "codes": {
+    "wikidata": "Q149009",
+    "teryt": "2416011"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Red field charged at the centre with a white furnace tower on a cogwheel, the charge from the city arms.",
+  "history": "Established by resolution No. X/79/25 of the city council of 24 February 2025, designed by Kamil Wójcikowski and Robert Fidura.",
+  "periods": [
+    {
+      "start": "2025-02-24"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Poręba_flag.svg",
+    "https://www.wikidata.org/wiki/Q149009",
+    "https://pl.wikipedia.org/wiki/Poręba",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_śląskim",
+    "https://herby.manifo.com/newsy/nowy-herb-poreb",
+    "https://dzienniki.slask.eu/WDU_S/2025/1386/akt.pdf"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "furnace tower on a cogwheel, from the city arms"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "roof and windows of the tower"
+    }
+  ]
+}

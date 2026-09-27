@@ -1,0 +1,62 @@
+{
+  "id": "PL-24-panki-gmina",
+  "name": "Gmina Panki (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-24",
+  "codes": {
+    "wikidata": "Q554133",
+    "teryt": "2406062"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontal tricolour of yellow, light blue and yellow in the ratio 4:1:1, the upper yellow charged with a red furnace with flames, the charge from the gmina arms.",
+  "history": "Established by resolution No. XXXIV/261/10 of the gmina council of 10 November 2010.",
+  "periods": [
+    {
+      "start": "2010-11-10"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Panki_flag.svg",
+    "https://www.wikidata.org/wiki/Q554133",
+    "https://pl.wikipedia.org/wiki/Panki_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_śląskim",
+    "http://dzienniki.slask.eu/legalact/2011/14/277/",
+    "http://www.bip.panki.pl/index.php?idg=3&id=13&x=48"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "light-blue",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "top",
+      "role": "furnace with flames from the gmina arms"
+    }
+  ]
+}
