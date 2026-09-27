@@ -1,0 +1,61 @@
+{
+  "id": "CO-CAL-anserma",
+  "name": "Anserma (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CAL",
+  "codes": {
+    "wikidata": "Q547678",
+    "dane": "17042"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White upper half, the lower half divided into five vertical stripes of yellow and red.",
+  "history": "Municipal flag of Anserma, a municipality in the department of Caldas, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Anserma_Caldas.svg",
+    "https://www.wikidata.org/wiki/Q547678",
+    "https://en.wikipedia.org/wiki/Anserma,_Caldas",
+    "https://es.wikipedia.org/wiki/Anserma"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "yellow"
+      ],
+      "count": 2,
+      "role": "upper half white"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 5,
+      "pos": "bottom",
+      "role": "lower half of five vertical stripes"
+    }
+  ]
+}

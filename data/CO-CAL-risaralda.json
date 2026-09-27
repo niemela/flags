@@ -1,0 +1,61 @@
+{
+  "id": "CO-CAL-risaralda",
+  "name": "Risaralda (Caldas, Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CAL",
+  "codes": {
+    "wikidata": "Q536797",
+    "dane": "17616"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, yellow at the hoist and green at the fly, charged at the centre with a red disc bearing two clasped hands in white.",
+  "history": "Municipal flag of Risaralda, a municipality in the department of Caldas, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Risaralda_Caldas.svg",
+    "https://www.wikidata.org/wiki/Q536797",
+    "https://en.wikipedia.org/wiki/Risaralda,_Caldas",
+    "https://es.wikipedia.org/wiki/Risaralda_(Caldas)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "green",
+      "direction": "bend-sinister",
+      "role": "divided diagonally yellow over green"
+    },
+    {
+      "type": "disc",
+      "color": "red",
+      "position": "center",
+      "role": "disc"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "two clasped hands on the disc"
+    }
+  ]
+}

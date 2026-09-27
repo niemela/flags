@@ -1,0 +1,68 @@
+{
+  "id": "CO-CAL-marquetalia",
+  "name": "Marquetalia (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CAL",
+  "codes": {
+    "wikidata": "Q925735",
+    "dane": "17444"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field with a white border, charged at the centre with a white torch with a red and yellow flame.",
+  "history": "Municipal flag of Marquetalia, a municipality in the department of Caldas, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Marquetalia_Caldas.svg",
+    "https://www.wikidata.org/wiki/Q925735",
+    "https://en.wikipedia.org/wiki/Marquetalia,_Caldas",
+    "https://es.wikipedia.org/wiki/Marquetalia_(Caldas)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "border",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "torch"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "flame of the torch"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "flame of the torch"
+    }
+  ]
+}

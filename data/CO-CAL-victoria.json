@@ -1,0 +1,62 @@
+{
+  "id": "CO-CAL-victoria",
+  "name": "Victoria (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CAL",
+  "codes": {
+    "wikidata": "Q586109",
+    "dane": "17867"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Horizontal bicolour of green and red, the green with a white canton bearing a blue five-pointed star.",
+  "history": "Municipal flag of Victoria, a municipality in the department of Caldas, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Victoria_Caldas.svg",
+    "https://www.wikidata.org/wiki/Q586109",
+    "https://en.wikipedia.org/wiki/Victoria,_Colombia",
+    "https://es.wikipedia.org/wiki/Victoria_(Caldas)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "position": "canton"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "blue",
+      "position": "canton"
+    }
+  ]
+}
