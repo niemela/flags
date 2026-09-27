@@ -1,0 +1,72 @@
+{
+  "id": "US-MN-duluth",
+  "name": "Duluth (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-MN",
+  "codes": {
+    "wikidata": "Q485708"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Light blue upper half, a dark green band and a darker blue base separated by two white wavy lines for the hills and Lake Superior, with a yellow star towards the hoist.",
+  "history": "Duluth is a port city on Lake Superior and the county seat of St. Louis County, Minnesota. The design by Blane Tetreault was chosen from 195 submissions in a contest arising from the Imagine Duluth 2035 process and adopted by council resolution on 19 August 2019, replacing a flag adopted in 1979.",
+  "periods": [
+    {
+      "start": "2019-08-19"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Duluth,_Minnesota.svg",
+    "https://www.wikidata.org/wiki/Q485708",
+    "https://en.wikipedia.org/wiki/Duluth,_Minnesota",
+    "https://en.wikipedia.org/wiki/Flag_of_Duluth",
+    "https://www.crwflags.com/fotw/flags/us-mndul.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "green",
+        "navy"
+      ],
+      "count": 3
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "role": "two parallel wavy white lines"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "eight-pointed star for the North Star"
+    }
+  ]
+}
