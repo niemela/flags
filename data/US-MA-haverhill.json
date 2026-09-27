@@ -1,0 +1,61 @@
+{
+  "id": "US-MA-haverhill",
+  "name": "Haverhill (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-MA",
+  "codes": {
+    "wikidata": "Q54132"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "Dark green field with a canton of the St George's cross fimbriated in green, charged in the fly with the city seal in white reading HAVERHILL SETTLED 1640 INSTITUTED A CITY 1870.",
+  "history": "Haverhill is a city in Essex County, Massachusetts.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Haverhill,_Massachusetts.svg",
+    "https://www.wikidata.org/wiki/Q54132",
+    "https://en.wikipedia.org/wiki/Haverhill,_Massachusetts",
+    "https://www.crwflags.com/fotw/flags/us-mahvh.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "black"
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "role": "canton bearing a red St George's cross"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "red",
+      "position": "canton"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "fly",
+      "role": "city seal in white and green"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "US-MA-northampton",
+  "name": "Northampton (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-MA",
+  "codes": {
+    "wikidata": "Q49186"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "9:16",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Dark green field with a golden feather in the upper hoist and a blue swirl fimbriated in white representing the Oxbow of the Connecticut River.",
+  "history": "Northampton is a city in and the county seat of Hampshire County, Massachusetts. The flag was adopted in 1988, according to English Wikipedia.",
+  "periods": [
+    {
+      "start": "1988"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Northampton,_Massachusetts.svg",
+    "https://www.wikidata.org/wiki/Q49186",
+    "https://en.wikipedia.org/wiki/Northampton,_Massachusetts",
+    "https://www.crwflags.com/fotw/flags/us-manht.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "black"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "upper-hoist",
+      "role": "golden feather"
+    },
+    {
+      "type": "wave",
+      "color": "navy",
+      "role": "swirl for the Oxbow, fimbriated in white",
+      "fimbriation": {
+        "color": "white"
+      }
+    }
+  ]
+}
