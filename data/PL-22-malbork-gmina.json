@@ -1,0 +1,62 @@
+{
+  "id": "PL-22-malbork-gmina",
+  "name": "Gmina Malbork (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-22",
+  "codes": {
+    "wikidata": "Q551734",
+    "teryt": "2209042"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Yellow field charged with a green willow tree above a blue wavy band for the river Nogat, the charges from the gmina arms.",
+  "history": "Established by resolution No. X/72/07 of the gmina council of 13 June 2007.",
+  "periods": [
+    {
+      "start": "2007-06-13"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Malbork_flag.svg",
+    "https://www.wikidata.org/wiki/Q551734",
+    "https://pl.wikipedia.org/wiki/Malbork_(gmina_wiejska)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_pomorskim",
+    "https://ugmalbork.mojbip.pl/590.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "willow tree from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "bottom",
+      "role": "wavy band for the river Nogat"
+    }
+  ]
+}

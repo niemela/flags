@@ -1,0 +1,67 @@
+{
+  "id": "PL-22-miastko-gmina",
+  "name": "Gmina Miastko (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-22",
+  "codes": {
+    "wikidata": "Q565341",
+    "teryt": "2201063"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally by a yellow band from the lower hoist to the upper fly, bright green above for the forests and light blue below for the lakes, charged at the centre with the gmina arms.",
+  "history": "Established by resolution No. 81/V/2010 of the gmina council of 29 October 2010.",
+  "periods": [
+    {
+      "start": "2010-10-29"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Miastko_flag.svg",
+    "https://www.wikidata.org/wiki/Q565341",
+    "https://pl.wikipedia.org/wiki/Miastko_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_pomorskim",
+    "https://miastko24.pl/pl/11_wiadomosci/1376_nowy-herb-flaga-hejnal-oraz-logo.html",
+    "https://edziennik.gdansk.uw.gov.pl/WDU_G/2013/2732/Zalacznik.pdf"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "light-blue",
+      "direction": "bend-sinister",
+      "role": "divided diagonally green and light blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band along the division"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "gmina coat of arms"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "PL-22-hel",
+  "name": "Hel (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-22",
+  "codes": {
+    "wikidata": "Q848973",
+    "teryt": "2211011"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "9:16",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with a yellow key between two yellow stars in the upper hoist and three narrow yellow vertical stripes towards the fly.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Hel_flag.svg",
+    "https://www.wikidata.org/wiki/Q848973",
+    "https://pl.wikipedia.org/wiki/Hel_(miasto)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_pomorskim",
+    "https://old.bip.hel.eu/bip.hel.eu/dokumenty/menu/30.html",
+    "https://bip.hel.eu/?wyswietl=413"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "key between two stars, from the city arms"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "blue",
+        "yellow",
+        "blue",
+        "yellow"
+      ],
+      "count": 5,
+      "position": "fly",
+      "role": "three narrow yellow stripes near the fly"
+    }
+  ]
+}

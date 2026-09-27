@@ -1,0 +1,67 @@
+{
+  "id": "PL-22-bytow-gmina",
+  "name": "Gmina Bytów (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-22",
+  "codes": {
+    "wikidata": "Q565355",
+    "teryt": "6222801023"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with a white and red horizontal stripe along the bottom, charged in the upper hoist with a white castle from the gmina arms.",
+  "history": "Established by resolution No. XLIX/337/02 of the gmina council of 11 October 2002.",
+  "periods": [
+    {
+      "start": "2002-10-11"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Bytów_flag.svg",
+    "https://www.wikidata.org/wiki/Q565355",
+    "https://pl.wikipedia.org/wiki/Bytów_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_pomorskim",
+    "https://bip.bytow.com.pl/Download/get/id,20372.html",
+    "https://www.bytow.com.pl/index.php?id=63"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2,
+      "position": "bottom",
+      "role": "white and red stripe along the bottom"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "castle from the gmina arms"
+    }
+  ]
+}

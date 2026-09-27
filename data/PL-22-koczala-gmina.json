@@ -1,0 +1,63 @@
+{
+  "id": "PL-22-koczala-gmina",
+  "name": "Gmina Koczała (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-22",
+  "codes": {
+    "wikidata": "Q551454",
+    "teryt": "2203052"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field charged at the centre with a white fleur-de-lis for the Virgin Mary and a yellow balsam jar for Mary Magdalene, the charges from the gmina arms.",
+  "history": "Established by the gmina council on 29 May 2018.",
+  "periods": [
+    {
+      "start": "2018-05-29"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Koczała_flag.svg",
+    "https://www.wikidata.org/wiki/Q551454",
+    "https://pl.wikipedia.org/wiki/Koczała_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_pomorskim",
+    "https://koczala.pl/herb-i-symbole-gminy/",
+    "https://edziennik.gdansk.uw.gov.pl/WDU_G/2018/2521/akt.pdf"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "fleur-de-lis from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "balsam jar from the gmina arms"
+    }
+  ]
+}

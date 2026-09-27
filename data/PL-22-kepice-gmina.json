@@ -1,0 +1,62 @@
+{
+  "id": "PL-22-kepice-gmina",
+  "name": "Gmina Kępice (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-22",
+  "codes": {
+    "wikidata": "Q551469",
+    "teryt": "2212053"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "White field charged at the centre with a red griffin holding a yellow scroll above a red cogwheel, the charge from the gmina arms without its black border.",
+  "history": "Established by resolution No. XXIV/217/2017 of the gmina council of 30 March 2017.",
+  "periods": [
+    {
+      "start": "2017-03-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Kępice_flag.svg",
+    "https://www.wikidata.org/wiki/Q551469",
+    "https://pl.wikipedia.org/wiki/Kępice_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_pomorskim",
+    "https://bip.kepice.pl/strony/menu/74.dhtml"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "griffin and cogwheel from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "scroll held by the griffin"
+    }
+  ]
+}
