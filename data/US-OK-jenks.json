@@ -1,0 +1,77 @@
+{
+  "id": "US-OK-jenks",
+  "name": "Jenks (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-OK",
+  "codes": {
+    "wikidata": "Q2237107"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "White field with two dark red horizontal stripes bearing five dark red stars between them, crossed near the fly by a vertical stripe of yellow and navy blue.",
+  "history": "Jenks is a city in Tulsa County, Oklahoma, and a suburb of Tulsa, in the northeastern part of the state. The flag was adopted on 3 September 2019, according to Flags of the World.",
+  "periods": [
+    {
+      "start": "2019-09-03"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Jenks,_Oklahoma.svg",
+    "https://www.wikidata.org/wiki/Q2237107",
+    "https://en.wikipedia.org/wiki/Jenks,_Oklahoma",
+    "https://www.crwflags.com/fotw/flags/us-okjnk.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "maroon",
+        "white",
+        "maroon"
+      ],
+      "count": 3,
+      "position": "center",
+      "role": "two dark red stripes with five stars between them"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "maroon",
+      "position": "center"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "navy"
+      ],
+      "count": 2,
+      "position": "fly",
+      "role": "vertical stripe of yellow and navy blue near the fly"
+    }
+  ]
+}
