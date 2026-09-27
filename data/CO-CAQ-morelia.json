@@ -1,0 +1,80 @@
+{
+  "id": "CO-CAQ-morelia",
+  "name": "Morelia (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CAQ",
+  "codes": {
+    "wikidata": "Q1654632",
+    "dane": "18479"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "White field with a blue diagonal band from the upper hoist to the lower fly, charged at the centre with a green tree bearing a yellow disc with a white dove.",
+  "history": "Municipal flag of Morelia, a municipality in the department of Caquetá, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor. Spanish Wikipedia records the flag as adopted on 10 June 1999 (acuerdo N.º 015).",
+  "periods": [
+    {
+      "start": "1999-06-10"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Morelia_(Caquetá).svg",
+    "https://www.wikidata.org/wiki/Q1654632",
+    "https://en.wikipedia.org/wiki/Morelia,_Colombia",
+    "https://es.wikipedia.org/wiki/Morelia_(Caquet%C3%A1)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "blue",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "diagonal band from the upper hoist to the lower fly"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "tree with a brown trunk"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "trunk of the tree"
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "position": "center",
+      "role": "disc on the tree with a white dove"
+    }
+  ]
+}

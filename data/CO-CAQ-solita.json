@@ -1,0 +1,78 @@
+{
+  "id": "CO-CAQ-solita",
+  "name": "Solita (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CAQ",
+  "codes": {
+    "wikidata": "Q1575560",
+    "dane": "18785"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Light blue vertical stripe at the hoist bearing a yellow sun rising over a black half-disc, the fly with horizontal stripes of white and green.",
+  "history": "Municipal flag of Solita, a municipality in the department of Caquetá, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Solita_(Caquetá).svg",
+    "https://www.wikidata.org/wiki/Q1575560",
+    "https://en.wikipedia.org/wiki/Solita,_Caquet%C3%A1",
+    "https://es.wikipedia.org/wiki/Solita"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "light-blue",
+        "white"
+      ],
+      "count": 2,
+      "role": "light blue hoist stripe"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 4,
+      "pos": "fly",
+      "role": "fly of four horizontal stripes"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "rising sun"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "hoist",
+      "role": "half disc beneath the sun"
+    }
+  ]
+}
