@@ -1,0 +1,66 @@
+{
+  "id": "IT-72-alvignano",
+  "name": "Alvignano (Italy)",
+  "type": [
+    "city"
+  ],
+  "parent": "IT-72",
+  "codes": {
+    "wikidata": "Q58435",
+    "istat": "061003"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with a white diagonal band from the lower hoist to the upper fly, two white stars at the upper hoist and a white crescent at the lower fly (the arms of Alvignano).",
+  "history": "The flag was granted by decree of the President of the Republic on 22 September 2009.",
+  "periods": [
+    {
+      "start": "2009-09-22"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandiera_Alvignano.svg",
+    "https://www.wikidata.org/wiki/Q58435",
+    "https://en.wikipedia.org/wiki/Alvignano",
+    "https://it.wikipedia.org/wiki/Alvignano"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "two stars above the band"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "lower-fly",
+      "role": "crescent below the band"
+    }
+  ]
+}
