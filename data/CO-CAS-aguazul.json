@@ -1,0 +1,71 @@
+{
+  "id": "CO-CAS-aguazul",
+  "name": "Aguazul (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CAS",
+  "codes": {
+    "wikidata": "Q13663",
+    "dane": "85010"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Horizontal bicolour of red and green, charged at the centre with a yellow disc bearing the white outline of the municipality with a black bull's head.",
+  "history": "Municipal flag of Aguazul, a municipality in the department of Casanare, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Aguazul_(Casanare).svg",
+    "https://www.wikidata.org/wiki/Q13663",
+    "https://en.wikipedia.org/wiki/Aguazul",
+    "https://es.wikipedia.org/wiki/Aguazul"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "position": "center",
+      "role": "disc"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "map outline of the municipality on the disc"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "bull's head on the map"
+    }
+  ]
+}

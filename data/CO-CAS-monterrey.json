@@ -1,0 +1,62 @@
+{
+  "id": "CO-CAS-monterrey",
+  "name": "Monterrey (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CAS",
+  "codes": {
+    "wikidata": "Q1525276",
+    "dane": "85162"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal tricolour of red, white and dark green, with a yellow canton bearing a white open book.",
+  "history": "Municipal flag of Monterrey, a municipality in the department of Casanare, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Monterrey_(Casanare).svg",
+    "https://www.wikidata.org/wiki/Q1525276",
+    "https://en.wikipedia.org/wiki/Monterrey,_Casanare",
+    "https://es.wikipedia.org/wiki/Monterrey_(Casanare)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "canton",
+      "color": "yellow",
+      "position": "canton"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "canton",
+      "role": "open book on the canton"
+    }
+  ]
+}

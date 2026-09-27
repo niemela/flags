@@ -1,0 +1,64 @@
+{
+  "id": "CO-CAS-tauramena",
+  "name": "Tauramena (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CAS",
+  "codes": {
+    "wikidata": "Q281554",
+    "dane": "85410"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontal bicolour of light blue and green with a white diagonal band from the lower hoist to the upper fly, charged at the centre with a red ring.",
+  "history": "Municipal flag of Tauramena, a municipality in the department of Casanare, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Tauramena,_Casanare.svg",
+    "https://www.wikidata.org/wiki/Q281554",
+    "https://en.wikipedia.org/wiki/Tauramena",
+    "https://es.wikipedia.org/wiki/Tauramena"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "double ring"
+    }
+  ]
+}
