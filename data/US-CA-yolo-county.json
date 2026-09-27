@@ -1,0 +1,62 @@
+{
+  "id": "US-CA-yolo-county",
+  "name": "Yolo County, California (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-CA",
+  "codes": {
+    "wikidata": "Q109709"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Tan field with a dark blue stripe along the top bearing the words YOLO COUNTY and a brown stripe along the bottom bearing the date 1850, charged at the centre with a woman in white holding a sheaf of wheat.",
+  "history": "Yolo County is a county in the northern portion of California; Flags of the World records the flag in use by 2001, with a brighter version in use by 2015.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Yolo_County,_California.svg",
+    "https://www.wikidata.org/wiki/Q109709",
+    "https://en.wikipedia.org/wiki/Yolo_County,_California",
+    "https://www.crwflags.com/fotw/flags/us-ca-yo.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "brown",
+        "brown"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "words YOLO COUNTY and date 1850"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "female figure with a sheaf of wheat"
+    }
+  ]
+}

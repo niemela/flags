@@ -1,0 +1,55 @@
+{
+  "id": "US-CA-folsom",
+  "name": "Folsom (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-CA",
+  "codes": {
+    "wikidata": "Q984155"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the upper fly to the lower hoist, blue above and black below, crossed by a horizontal yellow-edged blue band — a stylised railway track and river.",
+  "history": "Folsom is a city in northeastern Sacramento County, California. Flags of the World records that the previous city flag, from 1997, bore a train; the current design replaced it.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Folsom,_California.svg",
+    "https://www.wikidata.org/wiki/Q984155",
+    "https://en.wikipedia.org/wiki/Folsom,_California",
+    "https://www.crwflags.com/fotw/flags/us-cafol.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "black",
+      "direction": "bend-sinister",
+      "role": "divided diagonally blue over black"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "blue",
+        "yellow"
+      ],
+      "count": 3,
+      "position": "center",
+      "role": "horizontal band edged in yellow"
+    }
+  ]
+}

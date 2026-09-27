@@ -1,0 +1,66 @@
+{
+  "id": "US-CA-woodland",
+  "name": "Woodland (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-CA",
+  "codes": {
+    "wikidata": "Q837129"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:4",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field charged with a green valley oak dated 1861 and a red star in the upper hoist, above a red stripe along the bottom bearing the name WOODLAND in white.",
+  "history": "Woodland is the county seat of Yolo County, California; Flags of the World notes that the star marks its status as county seat and 1861 the year the city took the name Woodland.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Woodland,_California.svg",
+    "https://www.wikidata.org/wiki/Q837129",
+    "https://en.wikipedia.org/wiki/Woodland,_California",
+    "https://www.crwflags.com/fotw/flags/us-ca-wo.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "center",
+      "role": "valley oak"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "star for the county seat"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "bottom",
+      "role": "name WOODLAND on the red stripe"
+    }
+  ]
+}

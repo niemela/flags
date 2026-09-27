@@ -1,0 +1,66 @@
+{
+  "id": "US-CA-alameda",
+  "name": "Alameda (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-CA",
+  "codes": {
+    "wikidata": "Q490744"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field charged with a red anchor entwined with a rope, a red star in the upper hoist, a blue swallow-tailed panel with a white star at the fly and a blue and white chequered stripe along the bottom.",
+  "history": "Alameda ( ; ; Spanish for \"tree-lined path\") is a city in Alameda County, California, United States, located in the East Bay region of the Bay Area.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Alameda,_California.svg",
+    "https://www.wikidata.org/wiki/Q490744",
+    "https://en.wikipedia.org/wiki/Alameda,_California"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "anchor",
+      "color": "red",
+      "position": "center",
+      "role": "anchor with rope"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "fly",
+      "role": "swallow-tailed panel with a white star"
+    },
+    {
+      "type": "chequy",
+      "field": "blue",
+      "chequy": "white",
+      "position": "bottom",
+      "role": "chequered stripe along the bottom"
+    }
+  ]
+}

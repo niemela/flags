@@ -1,0 +1,60 @@
+{
+  "id": "US-CA-alpine-county",
+  "name": "Alpine County, California (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-CA",
+  "codes": {
+    "wikidata": "Q108077"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Light blue field charged at the centre with a yellow map of the county bearing the county seal, between the words ALPINE COUNTY and EST. 1864 in black.",
+  "history": "Alpine County is a county in the eastern part of California located within the Sierra Nevada on the state border with Nevada.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Alpine_County,_California.svg",
+    "https://www.wikidata.org/wiki/Q108077",
+    "https://en.wikipedia.org/wiki/Alpine_County,_California",
+    "https://www.crwflags.com/fotw/flags/us-ca-ap.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "map of Alpine County"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "county seal on the map"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "words ALPINE COUNTY and EST. 1864"
+    }
+  ]
+}

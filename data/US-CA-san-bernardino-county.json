@@ -1,0 +1,72 @@
+{
+  "id": "US-CA-san-bernardino-county",
+  "name": "San Bernardino County, California (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-CA",
+  "codes": {
+    "wikidata": "Q108053"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Navy blue upper half with five yellow stars over a silhouette of white mountains, and a white lower half bearing a yellow arrowhead logo dated 1853 above the words SAN BERNARDINO COUNTY on a navy band.",
+  "history": "San Bernardino County is the largest county in the contiguous United States by area. Flags of the World records that the Board of Supervisors adopted this flag on 3 December 2024, the third in the county's history and the first since 1984; the five stars stand for the supervisorial districts and 1853 is the year the county was established.",
+  "periods": [
+    {
+      "start": "2024-12-03"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_San_Bernardino_County,_California_(2024–present).svg",
+    "https://www.wikidata.org/wiki/Q108053",
+    "https://en.wikipedia.org/wiki/San_Bernardino_County,_California",
+    "https://www.crwflags.com/fotw/flags/us-casbo.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "white",
+        "navy"
+      ],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "yellow",
+      "position": "top",
+      "role": "five stars for the supervisorial districts"
+    },
+    {
+      "type": "mountain",
+      "color": "white",
+      "position": "center",
+      "role": "silhouette of the San Bernardino Mountains"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "arrowhead logo dated 1853 and the county name"
+    }
+  ]
+}
