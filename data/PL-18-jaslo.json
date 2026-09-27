@@ -1,0 +1,53 @@
+{
+  "id": "PL-18-jaslo",
+  "name": "Jasło (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-18",
+  "codes": {
+    "wikidata": "Q848983",
+    "teryt": "1805011"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal bicolour of red and yellow in the ratio 3:1, the red charged with a yellow crowned monogram from the city arms.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Jasło_flag.svg",
+    "https://www.wikidata.org/wiki/Q848983",
+    "https://pl.wikipedia.org/wiki/Jasło",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_podkarpackim",
+    "https://um.jaslo.pl/wp-content/uploads/2021/08/Statut-Miasta-Jasla.pdf",
+    "https://um.jaslo.pl/pl/nasze-miasto/"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "top",
+      "role": "crowned monogram from the city arms"
+    }
+  ]
+}

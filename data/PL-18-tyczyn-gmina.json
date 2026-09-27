@@ -1,0 +1,70 @@
+{
+  "id": "PL-18-tyczyn-gmina",
+  "name": "Gmina Tyczyn (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-18",
+  "codes": {
+    "wikidata": "Q978824",
+    "teryt": "1816143"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertical tricolour of blue, white and red in the ratio 2:1:1, the blue charged with a crowned saint in white and red holding a sword and a palm, the charge from the gmina arms.",
+  "history": "Established by resolution No. LIV/386/10 of the gmina council of 10 November 2010.",
+  "periods": [
+    {
+      "start": "2010-11-10"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Tyczyn_flag.svg",
+    "https://www.wikidata.org/wiki/Q978824",
+    "https://pl.wikipedia.org/wiki/Tyczyn_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_podkarpackim",
+    "http://edziennik.rzeszow.uw.gov.pl/WDU_R/2010/125/dziennik_125.pdf"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "figure of a saint from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "crown and palm of the saint"
+    }
+  ]
+}

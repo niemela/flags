@@ -1,0 +1,63 @@
+{
+  "id": "PL-18-debica",
+  "name": "Dębica (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-18",
+  "codes": {
+    "wikidata": "Q947404",
+    "teryt": "1803011"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field charged at the centre with a white griffin with yellow claws and beak, the charge from the city arms.",
+  "history": "Established by resolution No. XXXVII/491/06 of the city council of 28 April 2006.",
+  "periods": [
+    {
+      "start": "2006-04-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Dębica_flag.svg",
+    "https://www.wikidata.org/wiki/Q947404",
+    "https://pl.wikipedia.org/wiki/Dębica",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_podkarpackim",
+    "https://debica.pl/wp-content/uploads/2020/12/statut-miasta-debica.pdf",
+    "http://bip.umdebica.pl/images/file/bip/2010_51_631.pdf"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "griffin from the city arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "claws and beak of the griffin"
+    }
+  ]
+}

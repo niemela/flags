@@ -1,0 +1,59 @@
+{
+  "id": "PL-18-czudec-gmina",
+  "name": "Gmina Czudec (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-18",
+  "codes": {
+    "wikidata": "Q2332071",
+    "teryt": "3182519012"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red hoist half charged with a white castle from the gmina arms, and a fly half of three horizontal stripes, white, red and white.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Czudec_flag.svg",
+    "https://www.wikidata.org/wiki/Q2332071",
+    "https://pl.wikipedia.org/wiki/Czudec_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_podkarpackim",
+    "https://www.czudec.pl/heraldyka"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "castle from the gmina arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "three stripes in the fly half"
+    }
+  ]
+}

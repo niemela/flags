@@ -1,0 +1,58 @@
+{
+  "id": "PL-18-grebow-gmina",
+  "name": "Gmina Grębów (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-18",
+  "codes": {
+    "wikidata": "Q2326461",
+    "teryt": "1820032"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertical bicolour of red and yellow, the red charged with a yellow boat with a tower and crossed oars, the charge from the gmina arms.",
+  "history": "Established by resolution No. XXIII/187/09 of the gmina council of 28 April 2009.",
+  "periods": [
+    {
+      "start": "2009-04-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Grębów_flag.svg",
+    "https://www.wikidata.org/wiki/Q2326461",
+    "https://pl.wikipedia.org/wiki/Grębów_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_podkarpackim",
+    "https://edziennik.rzeszow.uw.gov.pl/legalact/2009/32/886",
+    "https://www.grebow.com.pl/symbole-gminy"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "boat with a tower and crossed oars, from the gmina arms"
+    }
+  ]
+}

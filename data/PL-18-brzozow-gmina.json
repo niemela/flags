@@ -1,0 +1,87 @@
+{
+  "id": "PL-18-brzozow-gmina",
+  "name": "Gmina Brzozów (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-18",
+  "codes": {
+    "wikidata": "Q769298",
+    "teryt": "3182502013"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Blue hoist half charged with the head of Christ in black and white on a yellow disc from the gmina arms, and a fly half of seven equal horizontal stripes, four blue and three white.",
+  "history": "Established by resolution No. XXIX/191/09 of the gmina council of 3 April 2009.",
+  "periods": [
+    {
+      "start": "2009-04-03"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Brzozów_flag.svg",
+    "https://www.wikidata.org/wiki/Q769298",
+    "https://pl.wikipedia.org/wiki/Brzozów_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_podkarpackim",
+    "https://edziennik.rzeszow.uw.gov.pl/legalact/2009/29/806",
+    "http://archiwum2.brzozow.pl/index.php/nowy-herb-gminy-brzozow/"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "disc",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "disc bearing the head of Christ"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "hoist",
+      "role": "head of Christ from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "head of Christ from the gmina arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 7,
+      "position": "fly",
+      "role": "seven stripes in the fly half"
+    }
+  ]
+}

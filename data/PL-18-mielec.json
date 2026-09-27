@@ -1,0 +1,65 @@
+{
+  "id": "PL-18-mielec",
+  "name": "Mielec (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-18",
+  "codes": {
+    "wikidata": "Q658861",
+    "teryt": "1811011"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "orange"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal tricolour of orange-yellow, blue and red, charged at the centre with a yellow uncial letter M from the city arms.",
+  "history": "Established by resolution No. XVII/103/91 of the city council of 11 September 1991, designed by Mirosław Maciąga.",
+  "periods": [
+    {
+      "start": "1991-09-11"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Mielec_flag.svg",
+    "https://www.wikidata.org/wiki/Q658861",
+    "https://pl.wikipedia.org/wiki/Mielec",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_podkarpackim",
+    "http://edziennik.rzeszow.uw.gov.pl/WDU_R/2018/2175/akt.pdf",
+    "https://www.mielec.pl/herb-miasta?pagename=herb-miasta"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "orange",
+        "blue",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "uncial letter M from the city arms"
+    }
+  ]
+}

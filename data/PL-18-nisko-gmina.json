@@ -1,0 +1,78 @@
+{
+  "id": "PL-18-nisko-gmina",
+  "name": "Gmina Nisko (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-18",
+  "codes": {
+    "wikidata": "Q2195305",
+    "teryt": "1812053"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided by a blue S-shaped band from the hoist to the fly into an upper hoist part of red and white stripes and a lower fly part of light green charged with a green fir tree.",
+  "history": "Established by resolution No. XXVIIII/277/93 of the gmina council of 18 November 1993.",
+  "periods": [
+    {
+      "start": "1993-11-18"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Nisko_flag.svg",
+    "https://www.wikidata.org/wiki/Q2195305",
+    "https://pl.wikipedia.org/wiki/Nisko_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_podkarpackim",
+    "https://webcache.googleusercontent.com/search?q=cache:3Re4QM6m10EJ:https://edziennik.rzeszow.uw.gov.pl/GetActPdf.ashx%3Fyear%3D2019%26book%3D0%26position%3D3470&cd=1&hl=pl&ct=clnk&gl=pl",
+    "https://www.nisko.pl/miasto/poznaj-miasto/herb-niska"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "S-shaped band from the hoist to the fly"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 4,
+      "position": "upper-hoist",
+      "role": "red and white stripes in the upper hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "lower-fly",
+      "role": "fir tree in the lower fly"
+    }
+  ]
+}
