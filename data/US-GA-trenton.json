@@ -1,0 +1,83 @@
+{
+  "id": "US-GA-trenton",
+  "name": "Trenton (Georgia, United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-GA",
+  "codes": {
+    "wikidata": "Q2856209"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "The pre-2001 Georgia state flag adopted as a city flag: a navy blue hoist panel bearing the city seal and the words CITY OF TRENTON INCORPORATED 1854 in yellow, and a fly of the Confederate battle flag.",
+  "history": "Trenton is the only incorporated municipality and county seat of Dade County, Georgia. English Wikipedia records that in 2001, when Georgia replaced its state flag because it incorporated the Confederate battle flag, Trenton city officials adopted the old state flag as the city flag in protest; the flag remains controversial.",
+  "periods": [
+    {
+      "start": "2001"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Trenton,_Georgia.svg",
+    "https://www.wikidata.org/wiki/Q2856209",
+    "https://en.wikipedia.org/wiki/Trenton,_Georgia",
+    "https://en.wikipedia.org/wiki/Flag_of_Trenton",
+    "https://www.crwflags.com/fotw/flags/us-ga-tr.html"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "navy",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "hoist",
+      "role": "city seal"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "words CITY OF TRENTON INCORPORATED 1854"
+    },
+    {
+      "type": "saltire",
+      "color": "navy",
+      "position": "fly",
+      "role": "Confederate battle flag saltire with white stars",
+      "fimbriation": {
+        "color": "white"
+      }
+    },
+    {
+      "type": "star",
+      "count": 13,
+      "points": 5,
+      "color": "white",
+      "position": "fly"
+    }
+  ]
+}

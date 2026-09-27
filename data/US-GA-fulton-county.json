@@ -1,0 +1,65 @@
+{
+  "id": "US-GA-fulton-county",
+  "name": "Fulton County, Georgia (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-GA",
+  "codes": {
+    "wikidata": "Q486633"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Navy blue field with a white band across the centre edged in orange, charged with the county logo of a tree in a ring, above the words FULTON COUNTY in white.",
+  "history": "Fulton County is the principal county of the Atlanta metropolitan area; Flags of the World notes the county now uses a different tree logo.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Fulton_County,_Georgia.svg",
+    "https://www.wikidata.org/wiki/Q486633",
+    "https://en.wikipedia.org/wiki/Fulton_County,_Georgia",
+    "https://www.crwflags.com/fotw/flags/us-ga-fu.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "white",
+        "navy"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "edges of the central band"
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "center",
+      "role": "tree-in-a-ring logo"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "bottom",
+      "role": "words FULTON COUNTY"
+    }
+  ]
+}

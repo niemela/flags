@@ -1,0 +1,68 @@
+{
+  "id": "US-GA-walton-county",
+  "name": "Walton County, Georgia (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-GA",
+  "codes": {
+    "wikidata": "Q498312"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Horizontal tricolour of red, white and red, the white charged with a light blue map of the county bearing the date 1818 in black, with the words WALTON and COUNTY in white on the red stripes.",
+  "history": "Walton County is a county located in the East Central region of the U.S. - State of Georgia.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Walton_County,_Georgia.svg",
+    "https://www.wikidata.org/wiki/Q498312",
+    "https://en.wikipedia.org/wiki/Walton_County,_Georgia",
+    "https://www.crwflags.com/fotw/flags/us-ga-wl.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "light-blue",
+      "position": "center",
+      "role": "map of Walton County"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "date 1818 on the map"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "words WALTON and COUNTY on the red stripes"
+    }
+  ]
+}

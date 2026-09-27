@@ -1,0 +1,61 @@
+{
+  "id": "US-GA-madison",
+  "name": "Madison (Georgia, United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-GA",
+  "codes": {
+    "wikidata": "Q580412"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a white band, light blue above and navy blue below, charged at the centre with a yellow lozenge.",
+  "history": "Madison is a city in Morgan County, Georgia.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Madison,_Georgia.svg",
+    "https://www.wikidata.org/wiki/Q580412",
+    "https://en.wikipedia.org/wiki/Madison,_Georgia",
+    "https://www.crwflags.com/fotw/flags/us-ga-md.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "light-blue",
+      "bend": "navy",
+      "direction": "bend-sinister",
+      "role": "divided diagonally light blue and navy"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band along the division"
+    },
+    {
+      "type": "lozenge",
+      "color": "yellow",
+      "position": "center"
+    }
+  ]
+}
