@@ -1,0 +1,60 @@
+{
+  "id": "CO-MAG-concordia",
+  "name": "Concordia (Magdalena, Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-MAG",
+  "codes": {
+    "wikidata": "Q2311966",
+    "dane": "47205"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Four horizontal stripes of blue, yellow, green and blue, each charged with a white five-pointed star towards the fly.",
+  "history": "Municipal flag of Concordia, a municipality in the department of Magdalena, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Concordia_(Magdalena).svg",
+    "https://www.wikidata.org/wiki/Q2311966",
+    "https://en.wikipedia.org/wiki/Concordia,_Magdalena",
+    "https://es.wikipedia.org/wiki/Concordia_(Magdalena)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "green",
+        "blue"
+      ],
+      "count": 4
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "white",
+      "position": "fly",
+      "role": "one star on each stripe towards the fly"
+    }
+  ]
+}

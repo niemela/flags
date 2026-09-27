@@ -1,0 +1,66 @@
+{
+  "id": "CO-MAG-tenerife",
+  "name": "Tenerife (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-MAG",
+  "codes": {
+    "wikidata": "Q1525827",
+    "dane": "47798"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field bearing a yellow rectangle and a dark green rectangle within it, charged with a white eight-pointed star (the cuadrilonga of Cartagena).",
+  "history": "Municipal flag of Tenerife, a municipality in the department of Magdalena, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Tenerife_(Magdalena).svg",
+    "https://www.wikidata.org/wiki/Q1525827",
+    "https://en.wikipedia.org/wiki/Tenerife,_Magdalena",
+    "https://es.wikipedia.org/wiki/Tenerife_(Colombia)"
+  ],
+  "features": [
+    {
+      "type": "border",
+      "color": "red",
+      "role": "outer red border"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "middle rectangle"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "inner rectangle"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "white",
+      "position": "center"
+    }
+  ]
+}
