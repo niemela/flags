@@ -1,0 +1,57 @@
+{
+  "id": "US-MD-ocean-city",
+  "name": "Ocean City (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-MD",
+  "codes": {
+    "wikidata": "Q687905"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "White upper part and light blue lower part divided by a breaking wave curling towards the hoist, with a white disc in the curl of the wave.",
+  "history": "Ocean City is an Atlantic resort city in Worcester County, Maryland, along the East Coast of the United States.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Ocean_City,_Maryland.svg",
+    "https://www.wikidata.org/wiki/Q687905",
+    "https://en.wikipedia.org/wiki/Ocean_City,_Maryland",
+    "https://www.crwflags.com/fotw/flags/us-md-oc.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "role": "breaking wave curling towards the hoist"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center",
+      "role": "disc in the curl of the wave"
+    }
+  ]
+}
