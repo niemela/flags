@@ -1,0 +1,51 @@
+{
+  "id": "PR-san-sebastian",
+  "name": "San Sebastián (Puerto Rico, United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "PR",
+  "codes": {
+    "wikidata": "Q2413209"
+  },
+  "region": [
+    "Americas",
+    "Caribbean",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally by a white wavy band from the upper hoist to the lower fly, red above for the patron Saint Sebastian the Martyr and the events of 1868, green below.",
+  "history": "San Sebastián is a town and municipality in northwestern Puerto Rico, formerly Pepino, where the Grito de Lares rebels were defeated on 24 September 1868; the red stands for the patron Saint Sebastian the Martyr and for the blood shed that day.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_San_Sebastián,_Puerto_Rico.svg",
+    "https://www.wikidata.org/wiki/Q2413209",
+    "https://en.wikipedia.org/wiki/San_Sebasti%C3%A1n,_Puerto_Rico",
+    "https://www.crwflags.com/fotw/flags/pr-ss.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend-sinister",
+      "role": "divided diagonally red over green"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "role": "wavy diagonal band"
+    }
+  ]
+}

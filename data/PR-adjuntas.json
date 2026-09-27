@@ -1,0 +1,61 @@
+{
+  "id": "PR-adjuntas",
+  "name": "Adjuntas (Puerto Rico, United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "PR",
+  "codes": {
+    "wikidata": "Q1864884"
+  },
+  "region": [
+    "Americas",
+    "Caribbean",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "purple"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally by a white stripe from the lower hoist to the upper fly, purple above and green below, each triangle charged with a white cross fleury for Saint Joachim and Saint Anne.",
+  "history": "Adjuntas is a mountain town and municipality of Puerto Rico. The flag takes its colours from the arms: white for purity, purple for the robe of Saint Joachim and green for the vegetation; the crosses stand for Saint Joachim and Saint Anne.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Adjuntas,_Puerto_Rico.svg",
+    "https://www.wikidata.org/wiki/Q1864884",
+    "https://en.wikipedia.org/wiki/Adjuntas,_Puerto_Rico",
+    "https://en.wikipedia.org/wiki/Flag_of_Adjuntas",
+    "https://www.crwflags.com/fotw/flags/pr-aj.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "purple",
+      "bend": "green",
+      "direction": "bend",
+      "role": "divided diagonally purple over green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "white diagonal stripe"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "cross fleury in each triangle"
+    }
+  ]
+}

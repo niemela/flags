@@ -1,0 +1,77 @@
+{
+  "id": "PR-aguada",
+  "name": "Aguada (Puerto Rico, United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "PR",
+  "codes": {
+    "wikidata": "Q397789"
+  },
+  "region": [
+    "Americas",
+    "Caribbean",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided diagonally into yellow, red and white: a white star on the yellow hoist, a black cross under the name AGUADA on the red, and a blue triangle with a white dove on the white fly.",
+  "history": "Aguada is a town and municipality on the northwestern coast of Puerto Rico. Its flag was designed by Pedro Vélez Adróvar: the white stands for purity and the Culebrinas River, the red for the martyrdom of the Franciscan friars of Espinal, the black cross for the birth of Christianity in Puerto Rico, the yellow for the happiness and hospitality of the residents and the star for hope.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Aguada_(PR).svg",
+    "https://www.wikidata.org/wiki/Q397789",
+    "https://en.wikipedia.org/wiki/Aguada,_Puerto_Rico",
+    "https://www.crwflags.com/fotw/flags/pr-ad.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "red",
+      "direction": "bend",
+      "role": "diagonal bands of yellow, red and white"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "fly",
+      "role": "white fly band with a blue triangle"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "greek-cross",
+      "cross": "black",
+      "position": "center",
+      "role": "black cross for the birth of Christianity in Puerto Rico"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "lower-fly",
+      "role": "blue triangle with a white dove of peace"
+    }
+  ]
+}

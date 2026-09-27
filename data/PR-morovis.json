@@ -1,0 +1,68 @@
+{
+  "id": "PR-morovis",
+  "name": "Morovis (Puerto Rico, United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "PR",
+  "codes": {
+    "wikidata": "Q2623982"
+  },
+  "region": [
+    "Americas",
+    "Caribbean",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided vertically: the yellow hoist charged with the black eagle of the coat of arms with its head turned towards the flagpole, the fly of seven vertical stripes of red and yellow.",
+  "history": "Morovis is a town and municipality in central Puerto Rico. In an unusual arrangement, the eagle of the arms is shown on the flag with its head turned towards the flagpole.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandera_de_Morovis,_Puerto_Rico.svg",
+    "https://www.wikidata.org/wiki/Q2623982",
+    "https://en.wikipedia.org/wiki/Morovis,_Puerto_Rico",
+    "https://www.crwflags.com/fotw/flags/pr-mv.html"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "red"
+      ],
+      "count": 2
+    },
+    {
+      "type": "eagle",
+      "color": "black",
+      "position": "hoist",
+      "role": "eagle of the arms with its head turned to the hoist"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 7,
+      "position": "fly",
+      "role": "seven stripes of red and yellow"
+    }
+  ]
+}

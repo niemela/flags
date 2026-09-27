@@ -1,0 +1,59 @@
+{
+  "id": "PR-rio-grande",
+  "name": "Río Grande (Puerto Rico, United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "PR",
+  "codes": {
+    "wikidata": "Q979996"
+  },
+  "region": [
+    "Americas",
+    "Caribbean",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided horizontally green over blue with a white triangle at the hoist bearing a Puerto Rican parrot.",
+  "history": "Río Grande is a town and municipality in northeastern Puerto Rico at the foot of El Yunque, home of the endangered Puerto Rican parrot shown on the flag.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Rio_Grande,_Puerto_Rico.svg",
+    "https://www.wikidata.org/wiki/Q979996",
+    "https://en.wikipedia.org/wiki/R%C3%ADo_Grande,_Puerto_Rico",
+    "https://www.crwflags.com/fotw/flags/pr-rg.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "triangle at the hoist"
+    },
+    {
+      "type": "bird",
+      "color": "green",
+      "position": "hoist",
+      "role": "Puerto Rican parrot"
+    }
+  ]
+}

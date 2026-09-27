@@ -1,0 +1,57 @@
+{
+  "id": "PR-maunabo",
+  "name": "Maunabo (Puerto Rico, United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "PR",
+  "codes": {
+    "wikidata": "Q967149"
+  },
+  "region": [
+    "Americas",
+    "Caribbean",
+    "Latin America",
+    "Hispanic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field crossed diagonally from the upper hoist to the lower fly by a white stripe, with two yellow ox yokes in the green triangles.",
+  "history": "Maunabo is a town and municipality of Puerto Rico located in the Maunabo Valley on the southeastern coast, northeast of Patillas and south of Yabucoa.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Maunabo,_Puerto_Rico.svg",
+    "https://www.wikidata.org/wiki/Q967149",
+    "https://en.wikipedia.org/wiki/Maunabo,_Puerto_Rico",
+    "https://www.crwflags.com/fotw/flags/pr-mb.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal white stripe"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "two ox yokes"
+    }
+  ]
+}
