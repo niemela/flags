@@ -1,0 +1,66 @@
+{
+  "id": "CO-BOL-el-carmen-de-bolivar",
+  "name": "El Carmen de Bolívar (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-BOL",
+  "codes": {
+    "wikidata": "Q1323930",
+    "dane": "13244"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field bearing a yellow rectangle and a green rectangle within it, charged with a white eight-pointed star (the cuadrilonga of Cartagena).",
+  "history": "Municipal flag of El Carmen de Bolívar, a municipality in the department of Bolívar, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_El_Carmen_de_Bolívar_(Bolívar).svg",
+    "https://www.wikidata.org/wiki/Q1323930",
+    "https://en.wikipedia.org/wiki/El_Carmen_de_Bol%C3%ADvar",
+    "https://es.wikipedia.org/wiki/El_Carmen_de_Bol%C3%ADvar"
+  ],
+  "features": [
+    {
+      "type": "border",
+      "color": "red",
+      "role": "outer red border"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "middle rectangle"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "inner rectangle"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "white",
+      "position": "center"
+    }
+  ]
+}

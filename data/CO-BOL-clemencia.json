@@ -1,0 +1,63 @@
+{
+  "id": "CO-BOL-clemencia",
+  "name": "Clemencia (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-BOL",
+  "codes": {
+    "wikidata": "Q1524792",
+    "dane": "13222"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Seven horizontal stripes of green and white with a white canton bearing a yellow sun.",
+  "history": "Municipal flag of Clemencia, a municipality in the department of Bolívar, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Clemencia_(Bolívar).svg",
+    "https://www.wikidata.org/wiki/Q1524792",
+    "https://en.wikipedia.org/wiki/Clemencia,_Bol%C3%ADvar",
+    "https://es.wikipedia.org/wiki/Clemencia_(Bol%C3%ADvar)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green",
+        "white",
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 7
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "position": "canton"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "canton",
+      "role": "sun on the canton"
+    }
+  ]
+}

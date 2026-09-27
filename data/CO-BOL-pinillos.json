@@ -1,0 +1,61 @@
+{
+  "id": "CO-BOL-pinillos",
+  "name": "Pinillos (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-BOL",
+  "codes": {
+    "wikidata": "Q1442317",
+    "dane": "13549"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Light blue field with a green lower-fly corner separated by a white curved band, and a green disc at the upper hoist.",
+  "history": "Municipal flag of Pinillos, a municipality in the department of Bolívar, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Pinillos_(Bolívar).svg",
+    "https://www.wikidata.org/wiki/Q1442317",
+    "https://en.wikipedia.org/wiki/Pinillos",
+    "https://es.wikipedia.org/wiki/Pinillos_(Bol%C3%ADvar)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "curved band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "lower-fly",
+      "role": "curved segment at the lower fly"
+    },
+    {
+      "type": "disc",
+      "color": "green",
+      "position": "upper-hoist",
+      "role": "disc"
+    }
+  ]
+}
