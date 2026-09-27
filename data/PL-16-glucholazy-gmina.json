@@ -1,0 +1,64 @@
+{
+  "id": "PL-16-glucholazy-gmina",
+  "name": "Gmina Głuchołazy (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-16",
+  "codes": {
+    "wikidata": "Q2270163",
+    "teryt": "1607013"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, white above with a black goat's head with yellow horns from the gmina arms, and light blue below.",
+  "history": "Polish gmina flags are established by resolution of the gmina council under the Act on Badges and Uniforms, normally after an opinion of the Heraldic Commission; the flag takes the colours of the arms.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Głuchołazy_flag.svg",
+    "https://www.wikidata.org/wiki/Q2270163",
+    "https://pl.wikipedia.org/wiki/Głuchołazy_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_opolskim",
+    "http://glucholazy.pl/1235/symbole.html",
+    "https://bip.glucholazy.pl/64/42/statut-jednostki-samorzadu-terytorialnego.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "light-blue",
+      "direction": "bend-sinister",
+      "role": "divided diagonally white over light blue"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "upper-hoist",
+      "role": "goat's head from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "horns of the goat"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "PL-16-krapkowice-gmina",
+  "name": "Gmina Krapkowice (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-16",
+  "codes": {
+    "wikidata": "Q2570955",
+    "teryt": "1605023"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field charged towards the hoist with a yellow half-eagle and a white half-wheel, the charge from the gmina arms.",
+  "history": "Established by resolution No. XVII/205/2016 of the gmina council of 28 April 2016.",
+  "periods": [
+    {
+      "start": "2016-04-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Krapkowice_flag.svg",
+    "https://www.wikidata.org/wiki/Q2570955",
+    "https://pl.wikipedia.org/wiki/Krapkowice_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_opolskim",
+    "https://krapkowice.pl/53/herb-i-flaga-oraz-logo-krapkowic.html",
+    "https://duwo.opole.uw.gov.pl/legalact/2016/1044"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "half-eagle from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "half-wheel from the gmina arms"
+    }
+  ]
+}
