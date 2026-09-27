@@ -1,0 +1,58 @@
+{
+  "id": "US-NC-new-bern",
+  "name": "New Bern (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-NC",
+  "codes": {
+    "wikidata": "Q1002490"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "1:1",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "The flag of Bern in Switzerland: a red field with a yellow diagonal band bearing a black bear with red tongue and claws walking upwards to the fly.",
+  "history": "New Bern is the county seat of Craven County, North Carolina, founded in 1710 by Swiss and Palatine settlers and named after Bern. The city flag reproduces the flag of Bern; the original, a gift from the residents of Bern in 1896, is displayed in the courtroom of City Hall.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_New_Bern,_North_Carolina.svg",
+    "https://www.wikidata.org/wiki/Q1002490",
+    "https://en.wikipedia.org/wiki/New_Bern,_North_Carolina",
+    "https://www.crwflags.com/fotw/flags/us-nc-nb.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "yellow",
+      "direction": "bend",
+      "role": "yellow bend on red, after the arms of Bern"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "diagonal band"
+    },
+    {
+      "type": "animal-other",
+      "color": "black",
+      "role": "black bear walking upwards, with red tongue and claws"
+    }
+  ]
+}
