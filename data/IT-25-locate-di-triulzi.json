@@ -1,0 +1,52 @@
+{
+  "id": "IT-25-locate-di-triulzi",
+  "name": "Locate di Triulzi (Italy)",
+  "type": [
+    "city"
+  ],
+  "parent": "IT-25",
+  "codes": {
+    "wikidata": "Q43008",
+    "istat": "015125"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, white above and red below, charged at the centre with the municipal arms of Locate di Triulzi with helm, crest and motto scroll.",
+  "history": "The flag was granted by decree of the President of the Republic on 4 August 2023.",
+  "periods": [
+    {
+      "start": "2023-08-04"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Locate_di_Triulzi-Bandiera.svg",
+    "https://www.wikidata.org/wiki/Q43008",
+    "https://en.wikipedia.org/wiki/Locate_di_Triulzi",
+    "https://it.wikipedia.org/wiki/Locate_di_Triulzi"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend",
+      "role": "divided diagonally white over red"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "Locate di Triulzi arms — green and yellow bars with helm, crest and motto NE TE SMAI"
+    }
+  ]
+}

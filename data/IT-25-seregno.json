@@ -1,0 +1,58 @@
+{
+  "id": "IT-25-seregno",
+  "name": "Seregno (Italy)",
+  "type": [
+    "city"
+  ],
+  "parent": "IT-25",
+  "codes": {
+    "wikidata": "Q40813",
+    "istat": "108039"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Light blue field with a white diagonal band from the upper hoist to the lower fly charged with three yellow eight-pointed stars.",
+  "history": "Municipal flag of Seregno, a comune in Lombardy; Italian municipal arms, gonfaloni and flags are granted by decree of the President of the Republic on the advice of the Government's heraldry office. The arms were recognised by decree of the Head of Government on 16 May 1931.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Seregno-Bandiera.svg",
+    "https://www.wikidata.org/wiki/Q40813",
+    "https://en.wikipedia.org/wiki/Seregno",
+    "https://it.wikipedia.org/wiki/Seregno"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "light-blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "diagonal band from the upper hoist to the lower fly"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 8,
+      "color": "yellow",
+      "position": "center",
+      "role": "three eight-pointed stars on the band"
+    }
+  ]
+}

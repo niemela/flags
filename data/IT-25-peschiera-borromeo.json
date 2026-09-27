@@ -1,0 +1,61 @@
+{
+  "id": "IT-25-peschiera-borromeo",
+  "name": "Peschiera Borromeo (Italy)",
+  "type": [
+    "city"
+  ],
+  "parent": "IT-25",
+  "codes": {
+    "wikidata": "Q43028",
+    "istat": "015171"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Yellow field with a light blue diagonal band from the lower hoist to the upper fly fimbriated white, the lower fly triangle white, and the crowned municipal arms of Peschiera Borromeo with the inscription CITTÀ DI PESCHIERA BORROMEO at the upper hoist.",
+  "history": "Municipal flag of Peschiera Borromeo, a comune in Lombardy; Italian municipal arms, gonfaloni and flags are granted by decree of the President of the Republic on the advice of the Government's heraldry office.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Peschiera_Borromeo-Bandiera.svg",
+    "https://www.wikidata.org/wiki/Q43028",
+    "https://en.wikipedia.org/wiki/Peschiera_Borromeo",
+    "https://it.wikipedia.org/wiki/Peschiera_Borromeo"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "light-blue",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band from the lower hoist to the upper fly, fimbriated white"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "lower-fly",
+      "role": "fimbriation of the band and lower fly triangle"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "upper-hoist",
+      "role": "Peschiera Borromeo arms — crowned, within branches, with the inscription CITTÀ DI PESCHIERA BORROMEO arched above"
+    }
+  ]
+}

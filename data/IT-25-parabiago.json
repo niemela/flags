@@ -1,0 +1,71 @@
+{
+  "id": "IT-25-parabiago",
+  "name": "Parabiago (Italy)",
+  "type": [
+    "city"
+  ],
+  "parent": "IT-25",
+  "codes": {
+    "wikidata": "Q42629",
+    "istat": "015168"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, yellow above and blue below, with a row of blue squares along the upper hoist and the municipal arms of Parabiago (a tree and a cockerel on white) at the lower fly.",
+  "history": "Municipal flag of Parabiago, a comune in Lombardy; Italian municipal arms, gonfaloni and flags are granted by decree of the President of the Republic on the advice of the Government's heraldry office. The arms were recognised by decree of the Head of Government on 2 March 1942.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Parabiago-Bandiera.svg",
+    "https://www.wikidata.org/wiki/Q42629",
+    "https://en.wikipedia.org/wiki/Parabiago",
+    "https://it.wikipedia.org/wiki/Parabiago"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "blue",
+      "direction": "bend-sinister",
+      "role": "divided diagonally yellow over blue"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "upper-hoist",
+      "role": "row of four squares along the upper hoist"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "lower-fly",
+      "role": "Parabiago arms — tree above a cockerel on white"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "lower-fly",
+      "role": "tree in the arms"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "lower-fly",
+      "role": "field of the arms"
+    }
+  ]
+}
