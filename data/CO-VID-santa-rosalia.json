@@ -1,0 +1,54 @@
+{
+  "id": "CO-VID-santa-rosalia",
+  "name": "Santa Rosalía (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-VID",
+  "codes": {
+    "wikidata": "Q1655146",
+    "dane": "99624"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a white band, yellow above and green below.",
+  "history": "Municipal flag of Santa Rosalía, a municipality in the department of Vichada, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Santa_Rosalía_(Vichada).svg",
+    "https://www.wikidata.org/wiki/Q1655146",
+    "https://en.wikipedia.org/wiki/Santa_Rosal%C3%ADa,_Vichada",
+    "https://es.wikipedia.org/wiki/Santa_Rosal%C3%ADa_(Vichada)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "green",
+      "direction": "bend-sinister",
+      "role": "divided diagonally yellow over green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band along the division"
+    }
+  ]
+}
