@@ -1,0 +1,58 @@
+{
+  "id": "CO-CAU-bolivar",
+  "name": "Bolívar (Cauca, Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CAU",
+  "codes": {
+    "wikidata": "Q1936249",
+    "dane": "19100"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Yellow vertical stripe at the hoist, the fly divided horizontally green over red.",
+  "history": "Municipal flag of Bolívar, a municipality in the department of Cauca, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Bolívar_(Cauca).svg",
+    "https://www.wikidata.org/wiki/Q1936249",
+    "https://en.wikipedia.org/wiki/Bol%C3%ADvar,_Cauca",
+    "https://es.wikipedia.org/wiki/Bol%C3%ADvar_(Cauca)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "green"
+      ],
+      "count": 2,
+      "role": "yellow hoist stripe"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "red"
+      ],
+      "count": 2,
+      "pos": "fly",
+      "role": "fly divided green over red"
+    }
+  ]
+}

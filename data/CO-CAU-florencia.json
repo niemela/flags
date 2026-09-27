@@ -1,0 +1,66 @@
+{
+  "id": "CO-CAU-florencia",
+  "name": "Florencia (Cauca, Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CAU",
+  "codes": {
+    "wikidata": "Q2308980",
+    "dane": "19290"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field with three thin diagonal lines of red, yellow and green from the lower hoist to the upper fly.",
+  "history": "Municipal flag of Florencia, a municipality in the department of Cauca, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Florencia_(Cauca).svg",
+    "https://www.wikidata.org/wiki/Q2308980",
+    "https://en.wikipedia.org/wiki/Florencia,_Cauca",
+    "https://es.wikipedia.org/wiki/Florencia_(Cauca)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "three thin diagonal lines in red, yellow and green"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "diagonal line"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "diagonal line"
+    }
+  ]
+}

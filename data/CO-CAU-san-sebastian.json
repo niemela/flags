@@ -1,0 +1,76 @@
+{
+  "id": "CO-CAU-san-sebastian",
+  "name": "San Sebastián (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CAU",
+  "codes": {
+    "wikidata": "Q2434304",
+    "dane": "19693"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Seven horizontal stripes of green and white, charged at the centre with a disc showing a yellow sun rising over brown hills beneath a light blue sky.",
+  "history": "Municipal flag of San Sebastián, a municipality in the department of Cauca, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_San_Sebastián_(Cauca).svg",
+    "https://www.wikidata.org/wiki/Q2434304",
+    "https://en.wikipedia.org/wiki/San_Sebasti%C3%A1n,_Cauca",
+    "https://es.wikipedia.org/wiki/San_Sebasti%C3%A1n_(Cauca)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green",
+        "white",
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 7
+    },
+    {
+      "type": "disc",
+      "color": "light-blue",
+      "position": "center",
+      "role": "disc showing a sunrise over hills"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "center",
+      "role": "hills on the disc"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "center",
+      "role": "rising sun on the disc"
+    }
+  ]
+}
