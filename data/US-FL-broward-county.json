@@ -1,0 +1,66 @@
+{
+  "id": "US-FL-broward-county",
+  "name": "Broward County, Florida (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-FL",
+  "codes": {
+    "wikidata": "Q494624"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "White field bearing the county wordmark BROWARD COUNTY FLORIDA in blue and orange, the O formed by a yellow sun over light blue water.",
+  "history": "Broward County is one of the three counties that make up the Miami metropolitan area, which was home to 6.14 million people in 2020.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Broward_County,_Florida.svg",
+    "https://www.wikidata.org/wiki/Q494624",
+    "https://en.wikipedia.org/wiki/Broward_County,_Florida",
+    "https://www.crwflags.com/fotw/flags/us-fl-bw.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "wordmark BROWARD COUNTY FLORIDA"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "word COUNTY and sun rays"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "sun forming the letter O"
+    }
+  ]
+}

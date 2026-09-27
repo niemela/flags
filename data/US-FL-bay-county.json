@@ -1,0 +1,54 @@
+{
+  "id": "US-FL-bay-county",
+  "name": "Bay County, Florida (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-FL",
+  "codes": {
+    "wikidata": "Q488865"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "White field charged at the centre with the county logo, an orange sun with dark blue gulls within a ring reading BAY COUNTY FLORIDA.",
+  "history": "Bay County is a county on the Emerald Coast in Northwest Florida.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Bay_County,_Florida.svg",
+    "https://www.wikidata.org/wiki/Q488865",
+    "https://en.wikipedia.org/wiki/Bay_County,_Florida",
+    "https://www.crwflags.com/fotw/flags/us-fl-by.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "sun of the county logo"
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "center",
+      "role": "gulls and the ring of lettering BAY COUNTY FLORIDA"
+    }
+  ]
+}

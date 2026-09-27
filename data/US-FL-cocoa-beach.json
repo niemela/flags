@@ -1,0 +1,58 @@
+{
+  "id": "US-FL-cocoa-beach",
+  "name": "Cocoa Beach (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-FL",
+  "codes": {
+    "wikidata": "Q852653"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "11:18",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Red upper half charged with a white leaping dolphin, over a lower half of white and navy blue wavy stripes.",
+  "history": "Cocoa Beach is a city in Brevard County, Florida.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Cocoa_Beach,_Florida.svg",
+    "https://www.wikidata.org/wiki/Q852653",
+    "https://en.wikipedia.org/wiki/Cocoa_Beach,_Florida",
+    "https://www.crwflags.com/fotw/flags/us-flccb.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "navy"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "top",
+      "role": "leaping dolphin"
+    },
+    {
+      "type": "wave",
+      "color": "white",
+      "position": "bottom",
+      "role": "wavy stripes of white and navy blue"
+    }
+  ]
+}

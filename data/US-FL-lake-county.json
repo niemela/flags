@@ -1,0 +1,51 @@
+{
+  "id": "US-FL-lake-county",
+  "name": "Lake County, Florida (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-FL",
+  "codes": {
+    "wikidata": "Q501029"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Navy blue field with the words LAKE COUNTY FLORIDA in white at the hoist and a white map of Florida marking the county at the fly.",
+  "history": "Lake County is a county in central Florida. Flags of the World records that the county flag was designed by Karl Lehmann of Montverde, leader of the county chamber of commerce, for the county's 50th anniversary.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Lake_County,_Florida.svg",
+    "https://www.wikidata.org/wiki/Q501029",
+    "https://en.wikipedia.org/wiki/Lake_County,_Florida",
+    "https://www.crwflags.com/fotw/flags/us-fllak.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "words LAKE COUNTY FLORIDA"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "fly",
+      "role": "map of Florida with the county marked"
+    }
+  ]
+}

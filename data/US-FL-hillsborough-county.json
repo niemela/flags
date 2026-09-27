@@ -1,0 +1,66 @@
+{
+  "id": "US-FL-hillsborough-county",
+  "name": "Hillsborough County, Florida (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-FL",
+  "codes": {
+    "wikidata": "Q488874"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "pink"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Upper half of pink and orange wave-like bands bearing a white ring with the county courthouse dome and EST 1834, over a navy blue lower half with the words Hillsborough County Florida in white and orange.",
+  "history": "Hillsborough County is located in the west-central portion of Florida. The flag was adopted in 2016 (according to the Wikidata statement on the flag).",
+  "periods": [
+    {
+      "start": "2016"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hillsborough_County,_Florida.svg",
+    "https://www.wikidata.org/wiki/Q488874",
+    "https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",
+    "https://www.crwflags.com/fotw/flags/us-fl-hi.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "pink",
+        "navy"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "ring with the courthouse dome, EST 1834, and the county name"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "wave bands and the word Florida"
+    }
+  ]
+}

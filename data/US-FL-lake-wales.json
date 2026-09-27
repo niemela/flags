@@ -1,0 +1,77 @@
+{
+  "id": "US-FL-lake-wales",
+  "name": "Lake Wales (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-FL",
+  "codes": {
+    "wikidata": "Q1647959"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "A yellow vertical stripe at the hoist bearing the words City of Lake Wales, and a field of light blue sky with a yellow sun, a white bird in flight and a green base.",
+  "history": "Lake Wales is a city in Polk County, Florida. The flag was adopted in 2018 (first seen in April 2018, according to Flags of the World).",
+  "periods": [
+    {
+      "start": "2018"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Lake_Wales,_Florida.svg",
+    "https://www.wikidata.org/wiki/Q1647959",
+    "https://en.wikipedia.org/wiki/Lake_Wales,_Florida",
+    "https://www.crwflags.com/fotw/flags/us-fllkw.html"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "yellow",
+        "light-blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "words City of Lake Wales"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "bird in flight"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "upper-fly"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "bottom",
+      "role": "green base"
+    }
+  ]
+}
