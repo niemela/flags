@@ -1,0 +1,75 @@
+{
+  "id": "US-IL-centralia",
+  "name": "Centralia (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-IL",
+  "codes": {
+    "wikidata": "Q575126"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "White field with a navy blue triangle at the hoist bearing a yellow head of Tutankhamun, a dark red stripe running from the triangle to the fly, and a yellow star in each white quarter of the fly.",
+  "history": "Centralia is a city in Marion, Clinton, Jefferson and Washington counties in southern Illinois. Its flag was designed in 1924 by Wendell Bauer, whose design won first prize in a community-wide competition; the red stripe represents the railroads to which the city owes its existence.",
+  "periods": [
+    {
+      "start": "1924"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Centralia,_Illinois.svg",
+    "https://www.wikidata.org/wiki/Q575126",
+    "https://en.wikipedia.org/wiki/Centralia,_Illinois",
+    "https://www.crwflags.com/fotw/flags/us-ilcen.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "navy",
+      "position": "hoist",
+      "role": "triangle at the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "head of Tutankhamun"
+    },
+    {
+      "type": "glyph",
+      "color": "maroon",
+      "position": "center",
+      "role": "horizontal stripe from the triangle to the fly"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "yellow",
+      "position": "fly"
+    }
+  ]
+}

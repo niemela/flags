@@ -1,0 +1,65 @@
+{
+  "id": "US-IL-east-st-louis",
+  "name": "East St. Louis (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-IL",
+  "codes": {
+    "wikidata": "Q577891"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "black"
+    },
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Divided per saltire black and dark red, a yellow star in each red quarter, orange scrolls in the black quarters reading EAST ST. LOUIS INCORPORATED 1865 and ILLINOIS, and the city seal at the centre.",
+  "history": "East St. Louis or East Saint Louis, also known as ESTL, is a city in St. Clair County, Illinois.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_East_St._Louis,_Illinois.svg",
+    "https://www.wikidata.org/wiki/Q577891",
+    "https://en.wikipedia.org/wiki/East_St._Louis,_Illinois",
+    "https://www.crwflags.com/fotw/flags/us-ilesl.html"
+  ],
+  "features": [
+    {
+      "type": "per-saltire",
+      "hoist": "maroon",
+      "top": "black",
+      "fly": "maroon",
+      "bottom": "black"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "orange",
+      "position": "center",
+      "role": "star in each red quarter"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "center",
+      "role": "scrolls reading EAST ST. LOUIS INCORPORATED 1865 and ILLINOIS"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "city seal"
+    }
+  ]
+}

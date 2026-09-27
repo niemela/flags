@@ -1,0 +1,62 @@
+{
+  "id": "US-IL-franklin-county",
+  "name": "Franklin County, Illinois (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-IL",
+  "codes": {
+    "wikidata": "Q486491"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "26:33",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field bearing a navy blue map of the county with 18 ★ 18 and a four-by-four array of white stars, between the words FRANKLIN COUNTY and ILLINOIS in white.",
+  "history": "Franklin County is a county in Southern Illinois.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Franklin_County,_Illinois.svg",
+    "https://www.wikidata.org/wiki/Q486491",
+    "https://en.wikipedia.org/wiki/Franklin_County,_Illinois",
+    "https://www.crwflags.com/fotw/flags/us-il-fr.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "center",
+      "role": "map of the county with the date 1818"
+    },
+    {
+      "type": "star",
+      "count": 16,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "role": "four-by-four array of stars on the map"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "words FRANKLIN COUNTY and ILLINOIS"
+    }
+  ]
+}

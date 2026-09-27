@@ -1,0 +1,73 @@
+{
+  "id": "US-IL-des-plaines",
+  "name": "Des Plaines (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-IL",
+  "codes": {
+    "wikidata": "Q386961"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "11:18",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "White field with a green stripe along the bottom bearing the name DES PLAINES in white, charged at the centre with the city emblem — an eagle over a map of Illinois within a yellow ring reading DIGNITY, DETERMINATION and DECENCY, the date 1835 split by the emblem — and a yellow star in each upper corner.",
+  "history": "Des Plaines is a city in Cook County, Illinois. The flag was adopted on 27 August 1960, according to English Wikipedia.",
+  "periods": [
+    {
+      "start": "1960-08-27"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Des_Plaines,_Illinois.svg",
+    "https://www.wikidata.org/wiki/Q386961",
+    "https://en.wikipedia.org/wiki/Des_Plaines,_Illinois",
+    "https://www.crwflags.com/fotw/flags/us-il-dp.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "bottom",
+      "role": "name DES PLAINES"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "center",
+      "role": "city emblem with an eagle and the date 1835"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "yellow",
+      "position": "top"
+    }
+  ]
+}

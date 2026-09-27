@@ -1,0 +1,59 @@
+{
+  "id": "US-IL-oak-forest",
+  "name": "Oak Forest (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-IL",
+  "codes": {
+    "wikidata": "Q578535"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field with a descending diagonal of two narrow dark green stripes enclosing a white stripe bearing the name OAK FOREST in green, a green oak leaf in the lower hoist and the city seal in the upper fly.",
+  "history": "Oak Forest is a city in Cook County, Illinois.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Oak_Forest,_Illinois.svg",
+    "https://www.wikidata.org/wiki/Q578535",
+    "https://en.wikipedia.org/wiki/Oak_Forest,_Illinois",
+    "https://www.crwflags.com/fotw/flags/us-ilokf.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "green",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal of two narrow green stripes with the name OAK FOREST between them"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "lower-hoist",
+      "role": "oak leaf"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "upper-fly",
+      "role": "city seal in green"
+    }
+  ]
+}

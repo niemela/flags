@@ -1,0 +1,70 @@
+{
+  "id": "US-IL-cook-county",
+  "name": "Cook County, Illinois (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-IL",
+  "codes": {
+    "wikidata": "Q108418"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field with a light blue pall edged in green issuing from the hoist, and a ring of six red seven-pointed stars at the hoist.",
+  "history": "Cook County is the most populous county in Illinois, seated at Chicago. The flag, nicknamed \"I Will\", was designed by Drew Duffy, a high-school student, in a county-wide contest and adopted on 14 June 2022 (Flag Day), replacing the 1961 seal flag; the six seven-pointed stars echo the Chicago city flag.",
+  "periods": [
+    {
+      "start": "2022-06-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Cook_County,_Illinois.svg",
+    "https://www.wikidata.org/wiki/Q108418",
+    "https://en.wikipedia.org/wiki/Cook_County,_Illinois",
+    "https://en.wikipedia.org/wiki/Flag_of_Cook_County",
+    "https://www.crwflags.com/fotw/flags/us-il-ck.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "pall",
+      "color": "light-blue",
+      "role": "pall edged in green"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "edges of the pall"
+    },
+    {
+      "type": "star",
+      "count": 6,
+      "points": 7,
+      "color": "red",
+      "position": "hoist",
+      "role": "ring of six seven-pointed stars"
+    }
+  ]
+}

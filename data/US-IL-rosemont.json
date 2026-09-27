@@ -1,0 +1,63 @@
+{
+  "id": "US-IL-rosemont",
+  "name": "Rosemont (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-IL",
+  "codes": {
+    "wikidata": "Q1191401"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "White field charged with a red rose encircled by green garlands, with the name Rosemont above and the date 1956 below in black Fraktur, and VILLAGE OF ROSEMONT in black at the bottom.",
+  "history": "Rosemont is a village in Cook County, Illinois, located immediately northwest of Chicago.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Rosemont,_Illinois.svg",
+    "https://www.wikidata.org/wiki/Q1191401",
+    "https://en.wikipedia.org/wiki/Rosemont,_Illinois",
+    "https://www.crwflags.com/fotw/flags/us-ilrmt.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "rose"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "garlands around the rose"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "name Rosemont, the date 1956 and the words VILLAGE OF ROSEMONT"
+    }
+  ]
+}
