@@ -1,0 +1,59 @@
+{
+  "id": "US-CO-arvada",
+  "name": "Arvada (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-CO",
+  "codes": {
+    "wikidata": "Q590849"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "4:7",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field within a red-and-navy border, charged at the centre with the city logo, a hexagon in red and navy blue, above the words CITY OF ARVADA.",
+  "history": "Arvada is a home rule city located in Jefferson and Adams counties, Colorado.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Arvada,_Colorado.svg",
+    "https://www.wikidata.org/wiki/Q590849",
+    "https://en.wikipedia.org/wiki/Arvada,_Colorado",
+    "https://www.crwflags.com/fotw/flags/us-coarv.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "border",
+      "color": "red",
+      "role": "border of red and navy"
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "center",
+      "role": "hexagonal logo and the words CITY OF ARVADA"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "outline of the hexagonal logo"
+    }
+  ]
+}
