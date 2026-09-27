@@ -1,0 +1,65 @@
+{
+  "id": "US-OH-loveland_2025",
+  "name": "Loveland (Ohio, United States)",
+  "type": [
+    "historical",
+    "city"
+  ],
+  "parent": "US-OH",
+  "codes": {
+    "wikidata": "Q843993"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided diagonally white over blue from the upper hoist to the lower fly, charged with a red heart bearing 1796 in yellow, topped by green leaves, over a red scroll reading LOVELAND.",
+  "history": "Loveland is a city in Hamilton, Clermont and Warren counties in southwestern Ohio. Wikidata dates the heart flag from 27 August 1974 to 1 December 2025, when the city announced its successor, \"The Heart Land\" by local artist Arianna Wilson, to be unveiled at the sesquicentennial celebrations in 2026.",
+  "periods": [
+    {
+      "start": "1974-08-27",
+      "end": "2025-12-01"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Loveland,_Ohio.svg",
+    "https://www.wikidata.org/wiki/Q843993",
+    "https://en.wikipedia.org/wiki/Loveland,_Ohio",
+    "https://en.wikipedia.org/wiki/Flag_of_Loveland",
+    "https://www.crwflags.com/fotw/flags/us-ohlvl.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "blue",
+      "direction": "bend-sinister",
+      "role": "divided diagonally white over blue"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "heart bearing 1796 with green leaves"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "bottom",
+      "role": "scroll reading LOVELAND"
+    }
+  ]
+}

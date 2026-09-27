@@ -1,0 +1,70 @@
+{
+  "id": "US-OH-madison-county",
+  "name": "Madison County, Ohio (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-OH",
+  "codes": {
+    "wikidata": "Q485526"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Nine slightly curving horizontal stripes of red and white, charged at the centre with a light blue ring of fourteen dark blue stars for the townships around a light blue map of the county with a dot for London, the county seat.",
+  "history": "Madison County is a county in central Ohio, seated at London. Flags of the World records that the original flag, made by Mabel Johnson, hangs in the Madison County Historical Society Museum.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Madison_County,_Ohio.svg",
+    "https://www.wikidata.org/wiki/Q485526",
+    "https://en.wikipedia.org/wiki/Madison_County,_Ohio",
+    "https://www.crwflags.com/fotw/flags/us-oh-mn.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 9
+    },
+    {
+      "type": "disc",
+      "color": "light-blue",
+      "position": "center",
+      "role": "ring with fourteen stars around a map of the county"
+    },
+    {
+      "type": "star",
+      "count": 14,
+      "points": 5,
+      "color": "navy",
+      "position": "center",
+      "role": "fourteen stars for the townships"
+    }
+  ]
+}

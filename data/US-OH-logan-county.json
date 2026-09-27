@@ -1,0 +1,63 @@
+{
+  "id": "US-OH-logan-county",
+  "name": "Logan County, Ohio (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-OH",
+  "codes": {
+    "wikidata": "Q490190"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "Blue field with a narrow white stripe along the top and bottom, charged with a white outline map of Ohio bearing the words Logan County in white, surrounded by seventeen red stars.",
+  "history": "Logan County is a county in the west central portion of Ohio.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Logan_County,_Ohio.svg",
+    "https://www.wikidata.org/wiki/Q490190",
+    "https://en.wikipedia.org/wiki/Logan_County,_Ohio",
+    "https://www.crwflags.com/fotw/flags/us-oh-lo.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "white"
+      ],
+      "count": 3
+    },
+    {
+      "type": "map",
+      "color": "white",
+      "role": "outline map of Ohio with the words Logan County"
+    },
+    {
+      "type": "star",
+      "count": 17,
+      "points": 5,
+      "color": "maroon",
+      "position": "center",
+      "role": "seventeen red stars"
+    }
+  ]
+}

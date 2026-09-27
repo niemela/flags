@@ -1,0 +1,70 @@
+{
+  "id": "US-OH-marion-county",
+  "name": "Marion County, Ohio (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-OH",
+  "codes": {
+    "wikidata": "Q489553"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Divided horizontally red over white with a blue triangle at the hoist bearing the Harding Memorial in white, MARION COUNTY in white on the red and OHIO in red on the white.",
+  "history": "Marion County is a county in central Ohio, home of President Warren G. Harding, whose tomb appears on the flag. The design closely resembles the flag of the city of Marion.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Marion_County,_Ohio.svg",
+    "https://www.wikidata.org/wiki/Q489553",
+    "https://en.wikipedia.org/wiki/Marion_County,_Ohio",
+    "https://www.crwflags.com/fotw/flags/us-oh-ma.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "navy",
+      "position": "hoist",
+      "role": "triangle at the hoist"
+    },
+    {
+      "type": "building",
+      "color": "white",
+      "position": "hoist",
+      "role": "Harding Memorial"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "top",
+      "role": "words MARION COUNTY"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "bottom",
+      "role": "word OHIO"
+    }
+  ]
+}

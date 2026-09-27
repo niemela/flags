@@ -1,0 +1,70 @@
+{
+  "id": "US-OH-ottawa-county",
+  "name": "Ottawa County, Ohio (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-OH",
+  "codes": {
+    "wikidata": "Q485596"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with a red map of the county bearing a white star, the name OTTAWA in white below it, and stripes of white and red along the bottom with the date 1840.",
+  "history": "Ottawa County is a county located in the northwestern part of Ohio. The flag was adopted on 14 May 2002, according to Flags of the World.",
+  "periods": [
+    {
+      "start": "2002-05-14"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Ottawa_County,_Ohio.svg",
+    "https://www.wikidata.org/wiki/Q485596",
+    "https://en.wikipedia.org/wiki/Ottawa_County,_Ohio",
+    "https://www.crwflags.com/fotw/flags/us-oh-ot.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "map",
+      "color": "red",
+      "role": "map of the county with a white star"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "name OTTAWA"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 4,
+      "position": "bottom",
+      "role": "stripes along the bottom with the date 1840"
+    }
+  ]
+}

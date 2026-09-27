@@ -1,0 +1,71 @@
+{
+  "id": "US-OH-stow",
+  "name": "Stow (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-OH",
+  "codes": {
+    "wikidata": "Q1007079"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Yellow field with a white diagonal band rising to the fly bearing CITY OF STOW, OHIO in blue, a blue canton with the Liberty Bell and seventeen stars, and the city seal in orange in the lower fly.",
+  "history": "Stow is a city in Summit County, Ohio. Flags of the World records, from a 1999 issue of FlagWaver, that the seal on the flag was changed that year from a cross to a bible with \"In God We Trust\" after a court ruling; the seventeen stars in the canton stand for Ohio as the seventeenth state.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Stow,_Ohio.svg",
+    "https://www.wikidata.org/wiki/Q1007079",
+    "https://en.wikipedia.org/wiki/Stow,_Ohio",
+    "https://www.crwflags.com/fotw/flags/us-ohstw.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "diagonal band bearing CITY OF STOW, OHIO"
+    },
+    {
+      "type": "canton",
+      "color": "navy",
+      "role": "canton with the Liberty Bell and seventeen stars"
+    },
+    {
+      "type": "star",
+      "count": 17,
+      "points": 5,
+      "color": "white",
+      "position": "canton"
+    },
+    {
+      "type": "seal",
+      "count": 1,
+      "position": "lower-fly",
+      "role": "city seal in orange"
+    }
+  ]
+}
