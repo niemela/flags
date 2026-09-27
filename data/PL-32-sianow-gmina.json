@@ -1,0 +1,76 @@
+{
+  "id": "PL-32-sianow-gmina",
+  "name": "Gmina Sianów (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-32",
+  "codes": {
+    "wikidata": "Q557807",
+    "teryt": "4324409073"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertical tricolour of white, red and white in the ratio 1:2:1, the red charged with a white griffin with yellow claws from the gmina arms above a light blue wavy stripe.",
+  "history": "Established by resolution No. XLVI/254/2001 of the gmina council of 28 December 2001.",
+  "periods": [
+    {
+      "start": "2001-12-28"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Sianów_flag.svg",
+    "https://www.wikidata.org/wiki/Q557807",
+    "https://pl.wikipedia.org/wiki/Sianów_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_zachodniopomorskim",
+    "https://web.archive.org/web/20220302021429/https://sianow.pl/pl/page/flaga-i-herb"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "griffin from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "claws and crown of the griffin"
+    },
+    {
+      "type": "glyph",
+      "color": "light-blue",
+      "position": "bottom",
+      "role": "wavy stripe below the griffin"
+    }
+  ]
+}

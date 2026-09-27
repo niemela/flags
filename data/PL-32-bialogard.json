@@ -1,0 +1,68 @@
+{
+  "id": "PL-32-bialogard",
+  "name": "Białogard (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-32",
+  "codes": {
+    "wikidata": "Q161919",
+    "teryt": "3201011"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontal tricolour of white, blue and white in the ratio 2:1:2 within a thin blue border, the blue for the river Parsęta, with two red lozenges at the hoist for the city's Pomeranian past.",
+  "history": "Established by resolution No. XVI/147/04 of the city council of 3 March 2004.",
+  "periods": [
+    {
+      "start": "2004-03-03"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Białogard_flag.svg",
+    "https://www.wikidata.org/wiki/Q161919",
+    "https://pl.wikipedia.org/wiki/Białogard",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_zachodniopomorskim",
+    "https://web.archive.org/web/20071113125140/http://bip.bialogard.info/index.php?objectid=1742",
+    "https://bialogard.info/8,53,flaga"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "white"
+      ],
+      "count": 3
+    },
+    {
+      "type": "border",
+      "color": "blue",
+      "role": "thin border"
+    },
+    {
+      "type": "lozenge",
+      "color": "red",
+      "position": "hoist",
+      "role": "two lozenges at the hoist",
+      "count": 2
+    }
+  ]
+}

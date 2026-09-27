@@ -1,0 +1,67 @@
+{
+  "id": "PL-32-bielice-gmina",
+  "name": "Gmina Bielice (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-32",
+  "codes": {
+    "wikidata": "Q557530",
+    "teryt": "4324312012"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertical tricolour of red, white and red in the ratio 1:2:1, the white charged with a red griffin holding a yellow crosier, the charge from the gmina arms.",
+  "history": "Established by resolution No. XXVIII/158/09 of the gmina council of 16 September 2009.",
+  "periods": [
+    {
+      "start": "2009-09-16"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Bielice_flag_(do_2009).svg",
+    "https://www.wikidata.org/wiki/Q557530",
+    "https://pl.wikipedia.org/wiki/Bielice_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_zachodniopomorskim",
+    "https://bip.bielice.com.pl/artykul/uchwala-nr-xxviii-158-2009-rady-gminy-bielice-z-dnia-16-wrzesnia-2009r-w-sprawie-herbu-i-flagi"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "griffin from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "crosier held by the griffin"
+    }
+  ]
+}

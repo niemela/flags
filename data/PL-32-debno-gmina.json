@@ -1,0 +1,68 @@
+{
+  "id": "PL-32-debno-gmina",
+  "name": "Gmina Dębno (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-32",
+  "codes": {
+    "wikidata": "Q558833",
+    "teryt": "4324310033"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Horizontal tricolour of yellow, red and yellow in the ratio 1:2:1, the red charged with a yellow lion with blue claws, the charge from the gmina arms.",
+  "history": "Established by resolution No. XIII/83/99 of the gmina council of 29 July 1999.",
+  "periods": [
+    {
+      "start": "1999-07-29"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Dębno_flag_urzędowa.svg",
+    "https://www.wikidata.org/wiki/Q558833",
+    "https://pl.wikipedia.org/wiki/Dębno_(gmina_w_województwie_zachodniopomorskim)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_zachodniopomorskim",
+    "https://www.weksylologia.pl/biuletyn-PTW/Flaga-nr-16-17-lipiec-pazdziernik-2001.pdf",
+    "https://web.archive.org/web/20220703141423/https://debno.pl/strona/menu/107_symbole_urzedowe"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "red",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "lion from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "claws and tongue of the lion"
+    }
+  ]
+}

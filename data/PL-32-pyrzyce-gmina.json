@@ -1,0 +1,63 @@
+{
+  "id": "PL-32-pyrzyce-gmina",
+  "name": "Gmina Pyrzyce (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-32",
+  "codes": {
+    "wikidata": "Q557594",
+    "teryt": "3212053"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "shape": "swallowtail",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Swallow-tailed flag of white, red and blue horizontal stripes in the ratio 2:1:1, the white charged with a red griffin from the gmina arms.",
+  "history": "Confirmed by resolution No. XXVII/201/20 of the gmina council of 24 September 2020.",
+  "periods": [
+    {
+      "start": "2020-09-24"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Pyrzyce_flag.svg",
+    "https://www.wikidata.org/wiki/Q557594",
+    "https://pl.wikipedia.org/wiki/Pyrzyce_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_zachodniopomorskim",
+    "https://pyrzyce.um.gov.pl/strona/menu/115_symbole",
+    "https://bip.pyrzyce.um.gov.pl/dokumenty/17727"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "top",
+      "role": "griffin from the gmina arms"
+    }
+  ]
+}

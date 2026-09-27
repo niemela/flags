@@ -1,0 +1,70 @@
+{
+  "id": "PL-32-golczewo-gmina",
+  "name": "Gmina Golczewo (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-32",
+  "codes": {
+    "wikidata": "Q557354",
+    "teryt": "3207023"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Vertical tricolour of green, white and green in the ratio 3:10:3, the white charged with a red griffin with a mitre and a cross, the charge from the gmina arms.",
+  "history": "Established by resolution No. XXXIII/282/10 of the gmina council of 26 March 2010.",
+  "periods": [
+    {
+      "start": "2010-03-26"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_Golczewo_flag.svg",
+    "https://www.wikidata.org/wiki/Q557354",
+    "https://pl.wikipedia.org/wiki/Golczewo_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_zachodniopomorskim",
+    "http://e-dziennik.szczecin.uw.gov.pl/legalact/2010/46/977"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "griffin with a cross from the gmina arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "mitre held by the griffin"
+    }
+  ]
+}

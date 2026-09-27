@@ -1,0 +1,68 @@
+{
+  "id": "PL-32-warnice-gmina",
+  "name": "Gmina Warnice (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-32",
+  "codes": {
+    "wikidata": "Q557568",
+    "teryt": "4324312062"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Light blue hoist half and a fly half of three horizontal stripes of red, yellow and violet-blue.",
+  "history": "Established by resolution No. XVII/107/2012 of the gmina council of 27 April 2012.",
+  "periods": [
+    {
+      "start": "2012-04-27"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Warnice_flag.svg",
+    "https://www.wikidata.org/wiki/Q557568",
+    "https://pl.wikipedia.org/wiki/Warnice_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_zachodniopomorskim",
+    "http://e-dziennik.szczecin.uw.gov.pl/legalact/2012/1267"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "light-blue",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "blue"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "three stripes in the fly half"
+    }
+  ]
+}

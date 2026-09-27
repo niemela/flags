@@ -1,0 +1,68 @@
+{
+  "id": "PL-32-brzezno-gmina",
+  "name": "Gmina Brzeżno (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-32",
+  "codes": {
+    "wikidata": "Q557271",
+    "teryt": "4324416022"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue hoist half charged with a white birch tree from the gmina arms, and a fly half of seven equal horizontal stripes, four blue and three white.",
+  "history": "Established by resolution No. XIII/68/2016 of the gmina council of 29 January 2016.",
+  "periods": [
+    {
+      "start": "2016-01-29"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Brzeżno_flag.svg",
+    "https://www.wikidata.org/wiki/Q557271",
+    "https://pl.wikipedia.org/wiki/Brzeżno_(gmina)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_zachodniopomorskim",
+    "http://e-dziennik.szczecin.uw.gov.pl/legalact/2016/945"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "birch tree from the gmina arms"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 7,
+      "position": "fly",
+      "role": "seven stripes in the fly half"
+    }
+  ]
+}

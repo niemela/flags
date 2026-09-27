@@ -1,0 +1,61 @@
+{
+  "id": "PL-32-szczecinek-gmina",
+  "name": "Gmina Szczecinek (Poland)",
+  "type": [
+    "city"
+  ],
+  "parent": "PL-32",
+  "codes": {
+    "wikidata": "Q557524",
+    "teryt": "4324415062"
+  },
+  "region": [
+    "Europe",
+    "Eastern Europe",
+    "European Union",
+    "Slavic"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Divided diagonally by a yellow band from the lower hoist to the upper fly, green above and dark blue below.",
+  "history": "Established by resolution No. VII/50/2003 of the gmina council of 31 March 2003.",
+  "periods": [
+    {
+      "start": "2003-03-31"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:POL_gmina_Szczecinek_flag.svg",
+    "https://www.wikidata.org/wiki/Q557524",
+    "https://pl.wikipedia.org/wiki/Szczecinek_(gmina_wiejska)",
+    "https://pl.wikipedia.org/wiki/Flagi_gmin_w_województwie_zachodniopomorskim",
+    "https://web.archive.org/web/20221016135909/http://bip.gminaszczecinek.pl/index.php?id=68284"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "navy",
+      "direction": "bend-sinister",
+      "role": "divided diagonally green and dark blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band along the division"
+    }
+  ]
+}
