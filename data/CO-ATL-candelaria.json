@@ -1,0 +1,71 @@
+{
+  "id": "CO-ATL-candelaria",
+  "name": "Candelaria (Atlántico, Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-ATL",
+  "codes": {
+    "wikidata": "Q1023776",
+    "dane": "08141"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "Vertical bicolour of red and green, charged at the centre with a white rectangle bearing a yellow sun with a light blue crescent.",
+  "history": "Municipal flag of Candelaria, a municipality in the department of Atlántico, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Candelaria_(Atlántico).svg",
+    "https://www.wikidata.org/wiki/Q1023776",
+    "https://en.wikipedia.org/wiki/Candelaria,_Atl%C3%A1ntico",
+    "https://es.wikipedia.org/wiki/Candelaria_(Atl%C3%A1ntico)"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "central rectangular panel"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "center",
+      "role": "sun of pointed rays"
+    },
+    {
+      "type": "crescent",
+      "color": "light-blue",
+      "position": "center",
+      "role": "crescent on the sun"
+    }
+  ]
+}

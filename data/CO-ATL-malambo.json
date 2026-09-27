@@ -1,0 +1,66 @@
+{
+  "id": "CO-ATL-malambo",
+  "name": "Malambo (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-ATL",
+  "codes": {
+    "wikidata": "Q568597",
+    "dane": "08433"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field bearing a yellow rectangle and a green rectangle within it, charged with a white eight-pointed star (after the flag of Cartagena).",
+  "history": "Municipal flag of Malambo, a municipality in the department of Atlántico, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Malambo_(Atlántico).svg",
+    "https://www.wikidata.org/wiki/Q568597",
+    "https://en.wikipedia.org/wiki/Malambo,_Atl%C3%A1ntico",
+    "https://es.wikipedia.org/wiki/Malambo_(Atl%C3%A1ntico)"
+  ],
+  "features": [
+    {
+      "type": "border",
+      "color": "red",
+      "role": "outer red border"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "middle rectangle"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "inner rectangle"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "white",
+      "position": "center"
+    }
+  ]
+}
