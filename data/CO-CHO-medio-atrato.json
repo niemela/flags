@@ -1,0 +1,67 @@
+{
+  "id": "CO-CHO-medio-atrato",
+  "name": "Medio Atrato (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CHO",
+  "codes": {
+    "wikidata": "Q1442444",
+    "dane": "27425"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field with a central horizontal band of blue fimbriated white, charged at the centre with a yellow sun.",
+  "history": "Municipal flag of Medio Atrato, a municipality in the department of Chocó, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Medio_Atrato_(Chocó).svg",
+    "https://www.wikidata.org/wiki/Q1442444",
+    "https://en.wikipedia.org/wiki/Medio_Atrato",
+    "https://es.wikipedia.org/wiki/Medio_Atrato"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue"
+      ],
+      "count": 1,
+      "pos": "center",
+      "role": "central horizontal band, fimbriated white"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "fimbriation of the band"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "center",
+      "role": "sun of twelve rays"
+    }
+  ]
+}
