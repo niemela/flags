@@ -1,0 +1,61 @@
+{
+  "id": "US-MI-wyoming",
+  "name": "Wyoming (Michigan, United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-MI",
+  "codes": {
+    "wikidata": "Q1022953"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "White field with a red bar along the base bearing WYOMING 1959 MICHIGAN, four dark blue rays radiating from a white star at the centre, THE CITY OF above and VISION AND PROGRESS below in blue.",
+  "history": "Wyoming is a city in Kent County in Michigan.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Wyoming,_Michigan.svg",
+    "https://www.wikidata.org/wiki/Q1022953",
+    "https://en.wikipedia.org/wiki/Wyoming,_Michigan",
+    "https://www.crwflags.com/fotw/flags/us-miwyo.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "bottom",
+      "role": "red bar bearing WYOMING 1959 MICHIGAN"
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "center",
+      "role": "four rays radiating from the star and the words THE CITY OF and VISION AND PROGRESS"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center"
+    }
+  ]
+}
