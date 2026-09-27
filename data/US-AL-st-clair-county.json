@@ -1,0 +1,62 @@
+{
+  "id": "US-AL-st-clair-county",
+  "name": "St. Clair County, Alabama (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-AL",
+  "codes": {
+    "wikidata": "Q503451"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Red field charged at the centre with a white disc bearing a navy blue map of the county, within a ring of white stars.",
+  "history": "St. Clair County is a county in the central portion of Alabama; English Wikipedia notes it was the seventh county in Alabama to adopt its own flag.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_St._Clair_County,_Alabama.svg",
+    "https://www.wikidata.org/wiki/Q503451",
+    "https://en.wikipedia.org/wiki/St._Clair_County,_Alabama",
+    "https://www.crwflags.com/fotw/flags/us-al-sc.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center",
+      "role": "disc bearing the county map"
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "center",
+      "role": "map of St. Clair County"
+    },
+    {
+      "type": "star",
+      "count": 12,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "role": "ring of stars around the disc"
+    }
+  ]
+}
