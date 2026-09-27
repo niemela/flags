@@ -1,0 +1,63 @@
+{
+  "id": "CO-VAC-yumbo",
+  "name": "Yumbo (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-VAC",
+  "codes": {
+    "wikidata": "Q735378",
+    "dane": "76892"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field with a white diagonal band from the lower hoist to the upper fly bearing the motto PAZ Y TRABAJO in yellow, and a yellow sun at the upper hoist.",
+  "history": "Municipal flag of Yumbo, a municipality in the department of Valle del Cauca, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Yumbo_(Valle_del_Cauca).svg",
+    "https://www.wikidata.org/wiki/Q735378",
+    "https://en.wikipedia.org/wiki/Yumbo",
+    "https://es.wikipedia.org/wiki/Yumbo"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band from the lower hoist to the upper fly"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "motto PAZ Y TRABAJO on the band"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "sun of eight rays"
+    }
+  ]
+}
