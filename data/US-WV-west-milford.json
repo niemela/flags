@@ -1,0 +1,65 @@
+{
+  "id": "US-WV-west-milford",
+  "name": "West Milford (United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-WV",
+  "codes": {
+    "wikidata": "Q2334106"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "10:19",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "A black hoist with a red triangle bearing the white monogram WM and two red stars, and a white fly bordered in red bearing a black wheel.",
+  "history": "West Milford is a town in Harrison County, West Virginia. Flags of the World records the flag as in use since the town's bicentennial and notes that the town uses no seal.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_West_Milford,_West_Virginia.svg",
+    "https://www.wikidata.org/wiki/Q2334106",
+    "https://en.wikipedia.org/wiki/West_Milford,_West_Virginia",
+    "https://www.crwflags.com/fotw/flags/us-wvwmf.html"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "black",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "red triangle at the hoist with a white WM monogram"
+    },
+    {
+      "type": "star",
+      "count": 2,
+      "points": 5,
+      "color": "red",
+      "position": "hoist"
+    },
+    {
+      "type": "wheel",
+      "color": "black",
+      "position": "fly",
+      "role": "wheel on the white fly bordered in red"
+    }
+  ]
+}
