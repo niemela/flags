@@ -1,0 +1,59 @@
+{
+  "id": "CO-CUN-topaipi",
+  "name": "Topaipí (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CUN",
+  "codes": {
+    "wikidata": "Q1656355",
+    "dane": "25823"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontal tricolour of red, yellow and red, the yellow fimbriated white and charged with a yellow sun at the fly.",
+  "history": "Municipal flag of Topaipí, a municipality in the department of Cundinamarca, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Topaipí_(Cundinamarca).svg",
+    "https://www.wikidata.org/wiki/Q1656355",
+    "https://en.wikipedia.org/wiki/Topaip%C3%AD",
+    "https://es.wikipedia.org/wiki/Topaip%C3%AD"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "fimbriation of the yellow stripe"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "fly"
+    }
+  ]
+}

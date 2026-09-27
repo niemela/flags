@@ -1,0 +1,54 @@
+{
+  "id": "CO-CUN-medina",
+  "name": "Medina (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CUN",
+  "codes": {
+    "wikidata": "Q1579406",
+    "dane": "25438"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly by a yellow band, white above and green below.",
+  "history": "Municipal flag of Medina, a municipality in the department of Cundinamarca, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Medina_(Cundinamarca).svg",
+    "https://www.wikidata.org/wiki/Q1579406",
+    "https://en.wikipedia.org/wiki/Medina,_Cundinamarca",
+    "https://es.wikipedia.org/wiki/Medina_(Cundinamarca)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "green",
+      "direction": "bend",
+      "role": "divided diagonally white over green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "diagonal band along the division"
+    }
+  ]
+}

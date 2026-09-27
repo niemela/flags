@@ -1,0 +1,54 @@
+{
+  "id": "CO-CUN-simijaca",
+  "name": "Simijaca (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-CUN",
+  "codes": {
+    "wikidata": "Q1576943",
+    "dane": "25745"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly by a white band, light blue above and green below.",
+  "history": "Municipal flag of Simijaca, a municipality in the department of Cundinamarca, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Simijaca_(Cundinamarca).svg",
+    "https://www.wikidata.org/wiki/Q1576943",
+    "https://en.wikipedia.org/wiki/Simijaca",
+    "https://es.wikipedia.org/wiki/Simijaca"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "light-blue",
+      "bend": "green",
+      "direction": "bend",
+      "role": "divided diagonally light blue over green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "diagonal band along the division"
+    }
+  ]
+}

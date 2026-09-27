@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="750" height="500">
+<rect fill="#89c5e3" width="750" height="166.66"/>
+<rect fill="#000000" width="750" height="166.66" y="166.66"/>
+<rect fill="#078930" width="750" height="166.66" y="333.33"/>
+<g id="star" fill="#ffffff" transform="translate(39.47,250) scale(15)">
+  <g id="cone">
+    <polygon id="triangle" points="0,0 0,1 .5,1" transform="translate(0,-1) rotate(18)"/>
+    <use xlink:href="#triangle" transform="scale(-1,1)"/>
+  </g>
+  <use xlink:href="#cone" transform="rotate(72)"/>
+  <use xlink:href="#cone" transform="rotate(-72)"/>
+  <use xlink:href="#cone" transform="rotate(144)"/>
+  <use xlink:href="#cone" transform="rotate(-144)"/>
+</g>
+<use xlink:href="#star" transform="translate(39.47,0)"/>
+<use xlink:href="#star" transform="translate(78.94,0)"/>
+<use xlink:href="#star" transform="translate(118.41,0)"/>
+<use xlink:href="#star" transform="translate(157.88)"/>
+<use xlink:href="#star" transform="translate(197.35,0)"/>
+<use xlink:href="#star" transform="translate(236.82,0)"/>
+<use xlink:href="#star" transform="translate(276.29,0)"/>
+<use xlink:href="#star" transform="translate(315.76,0)"/>
+<use xlink:href="#star" transform="translate(355.23,0)"/>
+<use xlink:href="#star" transform="translate(394.7,0)"/>
+<use xlink:href="#star" transform="translate(434.17,0)"/>
+<use xlink:href="#star" transform="translate(473.64,0)"/>
+<use xlink:href="#star" transform="translate(513.11,0)"/>
+<use xlink:href="#star" transform="translate(552.58,0)"/>
+<use xlink:href="#star" transform="translate(592.05,0)"/>
+<use xlink:href="#star" transform="translate(631.52,0)"/>
+<use xlink:href="#star" transform="translate(671.75,0)"/>
+</svg>
