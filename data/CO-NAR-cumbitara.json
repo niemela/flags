@@ -1,0 +1,67 @@
+{
+  "id": "CO-NAR-cumbitara",
+  "name": "Cumbitara (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-NAR",
+  "codes": {
+    "wikidata": "Q927628",
+    "dane": "52233"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Five horizontal stripes of green and white with a yellow canton bearing a sun over three green mountains.",
+  "history": "Municipal flag of Cumbitara, a municipality in the department of Nariño, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Cumbitara_(Nariño).svg",
+    "https://www.wikidata.org/wiki/Q927628",
+    "https://en.wikipedia.org/wiki/Cumbitara",
+    "https://es.wikipedia.org/wiki/Cumbitara"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 5
+    },
+    {
+      "type": "canton",
+      "color": "yellow",
+      "position": "canton"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "canton",
+      "role": "sun on the canton"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "canton",
+      "role": "three mountains on the canton"
+    }
+  ]
+}

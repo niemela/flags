@@ -1,0 +1,68 @@
+{
+  "id": "CO-NAR-leiva",
+  "name": "Leiva (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-NAR",
+  "codes": {
+    "wikidata": "Q1526208",
+    "dane": "52405"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Horizontal tricolour of light blue, red and green, charged with a ring of white five-pointed stars above an open hand.",
+  "history": "Municipal flag of Leiva, a municipality in the department of Nariño, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Leiva_(Nariño).svg",
+    "https://www.wikidata.org/wiki/Q1526208",
+    "https://en.wikipedia.org/wiki/Leiva,_Nari%C3%B1o",
+    "https://es.wikipedia.org/wiki/Leiva_(Nari%C3%B1o)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "red",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "count": 9,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "role": "ring of stars"
+    },
+    {
+      "type": "glyph",
+      "color": "orange",
+      "position": "bottom",
+      "role": "open hand"
+    }
+  ]
+}

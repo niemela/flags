@@ -1,0 +1,63 @@
+{
+  "id": "CO-NAR-belen",
+  "name": "Belén (Nariño, Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-NAR",
+  "codes": {
+    "wikidata": "Q2359099",
+    "dane": "52083"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "maroon"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, yellow above and green below, charged at the centre with a white disc bearing a maroon star.",
+  "history": "Municipal flag of Belén, a municipality in the department of Nariño, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Belén_(Nariño).svg",
+    "https://www.wikidata.org/wiki/Q2359099",
+    "https://en.wikipedia.org/wiki/Bel%C3%A9n,_Nari%C3%B1o",
+    "https://es.wikipedia.org/wiki/Bel%C3%A9n_(Nari%C3%B1o)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "green",
+      "direction": "bend-sinister",
+      "role": "divided diagonally yellow over green"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center",
+      "role": "disc"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "maroon",
+      "position": "center",
+      "role": "curved five-pointed star on the disc"
+    }
+  ]
+}

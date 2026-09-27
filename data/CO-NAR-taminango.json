@@ -1,0 +1,63 @@
+{
+  "id": "CO-NAR-taminango",
+  "name": "Taminango (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-NAR",
+  "codes": {
+    "wikidata": "Q1525858",
+    "dane": "52786"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a yellow band, green above and red below, with a white pre-Columbian emblem at the upper hoist.",
+  "history": "Municipal flag of Taminango, a municipality in the department of Nariño, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Taminango_(Nariño).svg",
+    "https://www.wikidata.org/wiki/Q1525858",
+    "https://en.wikipedia.org/wiki/Taminango",
+    "https://es.wikipedia.org/wiki/Taminango"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "red",
+      "direction": "bend-sinister",
+      "role": "divided diagonally green over red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band along the division"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "pre-Columbian figure in a square frame"
+    }
+  ]
+}

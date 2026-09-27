@@ -1,0 +1,64 @@
+{
+  "id": "CO-NAR-el-penol",
+  "name": "El Peñol (Nariño, Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-NAR",
+  "codes": {
+    "wikidata": "Q1577562",
+    "dane": "52254"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Yellow field with a green triangle at the hoist and a black torch with a red flame at the fly.",
+  "history": "Municipal flag of El Peñol, a municipality in the department of Nariño, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_El_Peñol_(Nariño).svg",
+    "https://www.wikidata.org/wiki/Q1577562",
+    "https://en.wikipedia.org/wiki/El_Pe%C3%B1ol,_Nari%C3%B1o",
+    "https://es.wikipedia.org/wiki/El_Pe%C3%B1ol_(Nari%C3%B1o)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "yellow"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "hoist",
+      "role": "triangle at the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "fly",
+      "role": "torch"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "fly",
+      "role": "flame of the torch"
+    }
+  ]
+}

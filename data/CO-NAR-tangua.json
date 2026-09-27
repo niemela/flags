@@ -1,0 +1,74 @@
+{
+  "id": "CO-NAR-tangua",
+  "name": "Tangua (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-NAR",
+  "codes": {
+    "wikidata": "Q1574964",
+    "dane": "52788"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontal tricolour of green, yellow and blue, the yellow fimbriated red and charged with a white disc bearing a ring of red stars.",
+  "history": "Municipal flag of Tangua, a municipality in the department of Nariño, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Tangua_(Narino).svg",
+    "https://www.wikidata.org/wiki/Q1574964",
+    "https://en.wikipedia.org/wiki/Tangua,_Nari%C3%B1o",
+    "https://es.wikipedia.org/wiki/Tangua"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "fimbriation of the yellow stripe"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center",
+      "role": "disc"
+    },
+    {
+      "type": "star",
+      "count": 9,
+      "points": 5,
+      "color": "red",
+      "position": "center",
+      "role": "ring of stars on the disc"
+    }
+  ]
+}

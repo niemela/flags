@@ -1,0 +1,56 @@
+{
+  "id": "CO-NAR-cordoba",
+  "name": "Córdoba (Nariño, Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-NAR",
+  "codes": {
+    "wikidata": "Q1524850",
+    "dane": "52215"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Green field with a white canton bearing five rows of orange five-pointed stars.",
+  "history": "Municipal flag of Córdoba, a municipality in the department of Nariño, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Córdoba_(Nariño).svg",
+    "https://www.wikidata.org/wiki/Q1524850",
+    "https://en.wikipedia.org/wiki/C%C3%B3rdoba,_Nari%C3%B1o",
+    "https://es.wikipedia.org/wiki/C%C3%B3rdoba_(Nari%C3%B1o)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "position": "canton"
+    },
+    {
+      "type": "star",
+      "count": 35,
+      "points": 5,
+      "color": "orange",
+      "position": "canton",
+      "role": "five rows of stars on the canton"
+    }
+  ]
+}

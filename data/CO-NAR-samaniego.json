@@ -1,0 +1,65 @@
+{
+  "id": "CO-NAR-samaniego",
+  "name": "Samaniego (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-NAR",
+  "codes": {
+    "wikidata": "Q2195228",
+    "dane": "52678"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontal tricolour of blue, yellow and green with a red triangle at the hoist, the yellow charged with three five-pointed stars in yellow, blue and red.",
+  "history": "Municipal flag of Samaniego, a municipality in the department of Nariño, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Samaniego_(Nariño).svg",
+    "https://www.wikidata.org/wiki/Q2195228",
+    "https://en.wikipedia.org/wiki/Samaniego,_Nari%C3%B1o",
+    "https://es.wikipedia.org/wiki/Samaniego_(Nari%C3%B1o)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "triangle at the hoist"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "three stars in yellow, blue and red"
+    }
+  ]
+}

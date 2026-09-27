@@ -1,0 +1,73 @@
+{
+  "id": "CO-NAR-santa-barbara",
+  "name": "Santa Bárbara (Nariño, Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-NAR",
+  "codes": {
+    "wikidata": "Q1991926",
+    "dane": "52696"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "White field charged with a green rectangle beneath a yellow half sun, over blue and light blue waves.",
+  "history": "Municipal flag of Santa Barbara, a municipality in the department of Nariño, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Santa_Bárbara_(Nariño).svg",
+    "https://www.wikidata.org/wiki/Q1991926",
+    "https://en.wikipedia.org/wiki/Santa_B%C3%A1rbara,_Nari%C3%B1o",
+    "https://es.wikipedia.org/wiki/Santa_B%C3%A1rbara_(Nari%C3%B1o)"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "rectangle at the centre"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "top",
+      "role": "half sun above the rectangle"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom",
+      "role": "wavy lines of blue and light blue"
+    },
+    {
+      "type": "glyph",
+      "color": "light-blue",
+      "position": "bottom",
+      "role": "wavy lines"
+    }
+  ]
+}

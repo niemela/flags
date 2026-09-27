@@ -1,0 +1,64 @@
+{
+  "id": "CO-NAR-providencia",
+  "name": "Providencia (Nariño, Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-NAR",
+  "codes": {
+    "wikidata": "Q681111",
+    "dane": "52565"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "grey"
+    }
+  ],
+  "description": "Horizontal tricolour of light blue, yellow and blue with a grey triangle at the hoist bearing a yellow five-pointed star.",
+  "history": "Municipal flag of Providencia, a municipality in the department of Nariño, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Providencia_(Nariño).svg",
+    "https://www.wikidata.org/wiki/Q681111",
+    "https://en.wikipedia.org/wiki/Providencia,_Nari%C3%B1o",
+    "https://es.wikipedia.org/wiki/Providencia_(Nari%C3%B1o)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "yellow",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "color": "grey",
+      "position": "hoist",
+      "role": "triangle at the hoist"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "hoist"
+    }
+  ]
+}
