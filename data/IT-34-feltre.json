@@ -1,0 +1,51 @@
+{
+  "id": "IT-34-feltre",
+  "name": "Feltre (Italy)",
+  "type": [
+    "city"
+  ],
+  "parent": "IT-34",
+  "codes": {
+    "wikidata": "Q1465",
+    "istat": "025021"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Red field charged at the centre with a crowned white castle (the arms of Feltre), with the motto NEC SPE NEC METV on a white scroll beneath.",
+  "history": "Municipal flag of Feltre, a comune in Veneto; Italian municipal arms, gonfaloni and flags are granted by decree of the President of the Republic on the advice of the Government's heraldry office.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Feltre-Bandiera.svg",
+    "https://www.wikidata.org/wiki/Q1465",
+    "https://en.wikipedia.org/wiki/Feltre",
+    "https://it.wikipedia.org/wiki/Feltre"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "crowned castle"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "bottom",
+      "role": "scroll with motto NEC SPE NEC METV"
+    }
+  ]
+}
