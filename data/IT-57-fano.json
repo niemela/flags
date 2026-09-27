@@ -1,0 +1,52 @@
+{
+  "id": "IT-57-fano",
+  "name": "Fano (Italy)",
+  "type": [
+    "city"
+  ],
+  "parent": "IT-57",
+  "codes": {
+    "wikidata": "Q13142",
+    "istat": "041013"
+  },
+  "region": [
+    "Europe",
+    "Southern Europe"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "White field with three red horizontal bars in the hoist half (the arms of Fano).",
+  "history": "Municipal flag of Fano, a comune in Marche; Italian municipal arms, gonfaloni and flags are granted by decree of the President of the Republic on the advice of the Government's heraldry office. The arms and gonfalone were granted by decree of the President of the Republic on 25 June 1992.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Fano-Bandiera_(ufficiale).svg",
+    "https://www.wikidata.org/wiki/Q13142",
+    "https://en.wikipedia.org/wiki/Fano",
+    "https://it.wikipedia.org/wiki/Fano"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 5,
+      "pos": "hoist",
+      "role": "three red bars on white at the hoist"
+    }
+  ]
+}
