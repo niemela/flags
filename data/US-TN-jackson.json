@@ -1,0 +1,61 @@
+{
+  "id": "US-TN-jackson",
+  "name": "Jackson (Tennessee, United States)",
+  "type": [
+    "city"
+  ],
+  "parent": "US-TN",
+  "codes": {
+    "wikidata": "Q985409"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "grey"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Navy blue field with a green triangle at the hoist edged in white, its point extending in white lines to the fly, charged with a white star in a white ring.",
+  "history": "Jackson is a city in and the county seat of Madison County, Tennessee.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Jackson,_Tennessee.svg",
+    "https://www.wikidata.org/wiki/Q985409",
+    "https://en.wikipedia.org/wiki/Jackson,_Tennessee"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "triangle",
+      "color": "grey",
+      "position": "hoist",
+      "role": "green triangle edged in white"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "lines extending from the triangle to the fly"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "center",
+      "role": "star in a ring"
+    }
+  ]
+}
