@@ -1,0 +1,74 @@
+{
+  "id": "US-TX-hidalgo-county",
+  "name": "Hidalgo County, Texas (United States)",
+  "type": [
+    "subdivision"
+  ],
+  "parent": "US-TX",
+  "codes": {
+    "wikidata": "Q26519"
+  },
+  "region": [
+    "Americas",
+    "Northern America",
+    "Anglosphere"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "The standard Texas county flag: blue with a large white lone star within two concentric white rings near the hoist, surrounded by gold, red and blue stars for the counties of Texas, with HIDALGO COUNTY 1852 and a red star at the fly.",
+  "history": "It is located in the Rio Grande Valley of South Texas and is one of the fastest-growing counties in the United States. The flag was adopted on 24 November 1984 (on the recommendation of its Sesquicentennial Committee the county accepted on 24 November 1984 the Falls County design that the Texas legislature adopted as the official county flag on 18 February 1985, according to Flags of the World).",
+  "periods": [
+    {
+      "start": "1984-11-24"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Hidalgo_County,_Texas.svg",
+    "https://www.wikidata.org/wiki/Q26519",
+    "https://en.wikipedia.org/wiki/Hidalgo_County,_Texas",
+    "https://www.crwflags.com/fotw/flags/us-tx-hi.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "hoist",
+      "role": "lone star within two concentric rings"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "hoist",
+      "role": "rings of small stars for the counties of Texas"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "fly",
+      "role": "words HIDALGO COUNTY 1852"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "fly"
+    }
+  ]
+}
