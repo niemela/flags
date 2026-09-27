@@ -1,0 +1,54 @@
+{
+  "id": "CO-MET-puerto-rico",
+  "name": "Puerto Rico (Meta, Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-MET",
+  "codes": {
+    "wikidata": "Q1956919",
+    "dane": "50590"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal tricolour of bright green, blue and bright green, the blue fimbriated yellow.",
+  "history": "Municipal flag of Puerto Rico, a municipality in the department of Meta, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Puerto_Rico_(Meta).svg",
+    "https://www.wikidata.org/wiki/Q1956919",
+    "https://en.wikipedia.org/wiki/Puerto_Rico,_Meta",
+    "https://es.wikipedia.org/wiki/Puerto_Rico_(Meta)"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "blue",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "fimbriation of the blue stripe"
+    }
+  ]
+}

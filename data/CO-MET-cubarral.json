@@ -1,0 +1,63 @@
+{
+  "id": "CO-MET-cubarral",
+  "name": "Cubarral (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-MET",
+  "codes": {
+    "wikidata": "Q1655116",
+    "dane": "50223"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by narrow yellow and white bands, green above and blue below.",
+  "history": "Municipal flag of Cubarral, a municipality in the department of Meta, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Cubarral_(Meta).svg",
+    "https://www.wikidata.org/wiki/Q1655116",
+    "https://en.wikipedia.org/wiki/Cubarral",
+    "https://es.wikipedia.org/wiki/Cubarral"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "blue",
+      "direction": "bend-sinister",
+      "role": "divided diagonally green over blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "narrow diagonal bands of yellow and white along the division"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "diagonal band"
+    }
+  ]
+}

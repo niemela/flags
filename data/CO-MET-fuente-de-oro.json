@@ -1,0 +1,86 @@
+{
+  "id": "CO-MET-fuente-de-oro",
+  "name": "Fuente de Oro (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-MET",
+  "codes": {
+    "wikidata": "Q1576131",
+    "dane": "50287"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Green and orange stripes with a white canton bearing an orange disc and a palm tree.",
+  "history": "Municipal flag of Fuente de Oro, a municipality in the department of Meta, Colombia; Spanish Wikipedia records it as adopted by Acuerdo No. 006 of 20 September 1980.",
+  "periods": [
+    {
+      "start": "1980-09-20"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Fuente_de_Oro_(Meta).svg",
+    "https://www.wikidata.org/wiki/Q1576131",
+    "https://en.wikipedia.org/wiki/Fuente_de_Oro",
+    "https://es.wikipedia.org/wiki/Fuente_de_Oro"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "orange",
+        "green",
+        "orange",
+        "green",
+        "orange",
+        "green",
+        "orange",
+        "green"
+      ],
+      "count": 9,
+      "role": "nine stripes of green and orange"
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "position": "canton"
+    },
+    {
+      "type": "disc",
+      "color": "orange",
+      "position": "canton",
+      "role": "disc"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "canton",
+      "role": "palm tree with a brown trunk on the disc"
+    },
+    {
+      "type": "glyph",
+      "color": "brown",
+      "position": "canton",
+      "role": "trunk of the palm"
+    }
+  ]
+}
