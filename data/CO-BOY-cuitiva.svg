@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="750" height="500">
+<rect fill="#0f47af" width="750" height="500"/>
+<rect fill="#ffffff" width="750" height="166.66" y="166.66"/>
+<rect fill="#078930" width="750" height="166.66" y="333.33"/>
+ <g id="sol" transform="translate(500.5,105) scale(1.5)">
+  <g id="rayo">
+  <path id="luz" style="fill:#fcdd09;stroke:black;stroke-width:.3"
+   d="M -102.3,99.7 L -98.6,109 C -104.1,108.8 -109.1,109.7 -113.3,112.7 C -118.6,118.2 -125.2,116.5 -131.4,117.2 C -125.8,114.5 -119.6,114 -115.3,107.5 C -111,103.1 -107.1,101.5 -102.3,99.7"/>
+   <use xlink:href="#luz" transform="rotate(180) translate(168,-195)"/>
+  </g>
+<use xlink:href="#rayo" transform="rotate(90) translate(181,-14)"/>
+<use xlink:href="#rayo" transform="rotate(45) translate(93,30)"/>
+<use xlink:href="#rayo" transform="rotate(-45) translate(-44,-87)"/>
+ <g id="rayos" transform="matrix(0,-1,1,0,-206,56.5)">
+ <path id="forma" style="fill:#fcdd09;stroke:black;stroke-width:.3"
+  d="M -34.4,61.8 L -53.7,61.7 L -44,45 L -34.4,61.8" transform="matrix(0.5,0,0,2,-17.1,-18)"/>
+ <use xlink:href="#forma" transform="rotate(180) translate(78.3,-244)"/>
+ </g>
+<use xlink:href="#rayos" transform="rotate(90) translate(181,-12)"/>
+<use xlink:href="#rayos" transform="rotate(45) translate(93,32)"/>
+<use xlink:href="#rayos" transform="rotate(-45) translate(-44,-87)"/>
+ <circle r="20" fill="#fcdd09" transform="translate(-84.5,97)"/>
+ </g>
+</svg>

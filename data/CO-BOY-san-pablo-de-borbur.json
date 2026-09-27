@@ -1,0 +1,54 @@
+{
+  "id": "CO-BOY-san-pablo-de-borbur",
+  "name": "San Pablo de Borbur (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-BOY",
+  "codes": {
+    "wikidata": "Q1575910",
+    "dane": "15681"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a broad yellow band, green above and red below.",
+  "history": "Municipal flag of San Pablo de Borbur, a municipality in the department of Boyacá, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_San_Pablo_de_Borbur.svg",
+    "https://www.wikidata.org/wiki/Q1575910",
+    "https://en.wikipedia.org/wiki/San_Pablo_de_Borbur",
+    "https://es.wikipedia.org/wiki/San_Pablo_de_Borbur"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "red",
+      "direction": "bend-sinister",
+      "role": "divided diagonally green over red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "broad diagonal band along the division"
+    }
+  ]
+}

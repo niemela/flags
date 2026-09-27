@@ -1,0 +1,61 @@
+{
+  "id": "CO-BOY-tibana",
+  "name": "Tibaná (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-BOY",
+  "codes": {
+    "wikidata": "Q1579430",
+    "dane": "15804"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, white above and red below, with the inscription MUNICIPIO DE TIBANA in black and a green clover leaf.",
+  "history": "Municipal flag of Tibaná, a municipality in the department of Boyacá, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Tibaná_(Boyacá).svg",
+    "https://www.wikidata.org/wiki/Q1579430",
+    "https://en.wikipedia.org/wiki/Tiban%C3%A1",
+    "https://es.wikipedia.org/wiki/Tiban%C3%A1"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend",
+      "role": "divided diagonally white over red"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "upper-fly",
+      "role": "inscription MUNICIPIO DE TIBANA along the diagonal"
+    },
+    {
+      "type": "leaf",
+      "color": "green",
+      "position": "center",
+      "role": "clover leaf"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "CO-BOY-soraca",
+  "name": "Soracá (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-BOY",
+  "codes": {
+    "wikidata": "Q1576242",
+    "dane": "15764"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "1:2",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Dark green field with a diagonal band of white, red and white from the upper hoist to the lower fly, and a yellow sun at the upper fly.",
+  "history": "Municipal flag of Soracá, a municipality in the department of Boyacá, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Soracá_(Boyacá).svg",
+    "https://www.wikidata.org/wiki/Q1576242",
+    "https://en.wikipedia.org/wiki/Sorac%C3%A1",
+    "https://es.wikipedia.org/wiki/Sorac%C3%A1"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "diagonal band of white, red and white"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "centre of the diagonal band"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "upper-fly"
+    }
+  ]
+}

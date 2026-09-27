@@ -1,0 +1,54 @@
+{
+  "id": "CO-BOY-la-capilla",
+  "name": "La Capilla (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-BOY",
+  "codes": {
+    "wikidata": "Q1654986",
+    "dane": "15380"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly, yellow above and green below, separated by a white diagonal band.",
+  "history": "Municipal flag of La Capilla, a municipality in the department of Boyacá, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_La_Capilla_(Boyacá).svg",
+    "https://www.wikidata.org/wiki/Q1654986",
+    "https://en.wikipedia.org/wiki/La_Capilla",
+    "https://es.wikipedia.org/wiki/La_Capilla_(Boyac%C3%A1)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "green",
+      "direction": "bend-sinister",
+      "role": "divided diagonally yellow over green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band along the division"
+    }
+  ]
+}

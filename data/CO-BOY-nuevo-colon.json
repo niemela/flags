@@ -1,0 +1,75 @@
+{
+  "id": "CO-BOY-nuevo-colon",
+  "name": "Nuevo Colón (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-BOY",
+  "codes": {
+    "wikidata": "Q1577145",
+    "dane": "15494"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Green field with a white triangle from the top edge to the bottom, edged with yellow, blue and red stars and bearing a red apple.",
+  "history": "Municipal flag of Nuevo Colón, a municipality in the department of Boyacá, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Nuevo_Colón_(Boyacá).svg",
+    "https://www.wikidata.org/wiki/Q1577145",
+    "https://en.wikipedia.org/wiki/Nuevo_Col%C3%B3n",
+    "https://es.wikipedia.org/wiki/Nuevo_Col%C3%B3n"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "center",
+      "role": "triangle pointing down from the top edge"
+    },
+    {
+      "type": "star",
+      "count": 12,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "stars along the edges of the triangle in yellow, blue and red"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "stars along the triangle"
+    },
+    {
+      "type": "fruit",
+      "color": "red",
+      "position": "center",
+      "role": "apple"
+    }
+  ]
+}

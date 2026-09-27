@@ -1,0 +1,53 @@
+{
+  "id": "CO-BOY-almeida",
+  "name": "Almeida (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-BOY",
+  "codes": {
+    "wikidata": "Q1656170",
+    "dane": "15022"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "purple"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly, white above and green below, with three purple five-pointed stars at the upper fly.",
+  "history": "Municipal flag of Almeida, a municipality in the department of Boyacá, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Almeida_(Boyacá).svg",
+    "https://www.wikidata.org/wiki/Q1656170",
+    "https://en.wikipedia.org/wiki/Almeida,_Boyac%C3%A1",
+    "https://es.wikipedia.org/wiki/Almeida_(Boyac%C3%A1)"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "green",
+      "direction": "bend",
+      "role": "divided diagonally white over green"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "purple",
+      "position": "upper-fly"
+    }
+  ]
+}

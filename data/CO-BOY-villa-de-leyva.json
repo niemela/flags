@@ -1,0 +1,54 @@
+{
+  "id": "CO-BOY-villa-de-leyva",
+  "name": "Villa de Leyva (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-BOY",
+  "codes": {
+    "wikidata": "Q1409503",
+    "dane": "15407"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a black band, red above and green below.",
+  "history": "Municipal flag of Villa de Leyva, a municipality in the department of Boyacá, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Villa_de_Leyva.svg",
+    "https://www.wikidata.org/wiki/Q1409503",
+    "https://en.wikipedia.org/wiki/Villa_de_Leyva",
+    "https://es.wikipedia.org/wiki/Villa_de_Leyva"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend-sinister",
+      "role": "divided diagonally red over green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "black",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band along the division"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "CO-BOY-san-luis-de-gaceno",
+  "name": "San Luis de Gaceno (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-BOY",
+  "codes": {
+    "wikidata": "Q1577001",
+    "dane": "15667"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Green upper half, the lower half divided diagonally from the lower hoist to the upper fly, white above and red below.",
+  "history": "Municipal flag of San Luis de Gaceno, a municipality in the department of Boyacá, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_San_Luís_de_Gaceno.svg",
+    "https://www.wikidata.org/wiki/Q1577001",
+    "https://en.wikipedia.org/wiki/San_Luis_de_Gaceno",
+    "https://es.wikipedia.org/wiki/San_Luis_de_Gaceno"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white"
+      ],
+      "count": 2,
+      "role": "upper half green"
+    },
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "red",
+      "direction": "bend-sinister",
+      "role": "lower half divided diagonally white over red"
+    }
+  ]
+}

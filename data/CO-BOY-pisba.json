@@ -1,0 +1,71 @@
+{
+  "id": "CO-BOY-pisba",
+  "name": "Pisba (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-BOY",
+  "codes": {
+    "wikidata": "Q1656260",
+    "dane": "15550"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "5:9",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontal tricolour of blue, white and green, charged at the centre with a yellow lozenge bearing a disc divided green and red.",
+  "history": "Municipal flag of Pisba, a municipality in the department of Boyacá, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Pisba_(Boyacá).svg",
+    "https://www.wikidata.org/wiki/Q1656260",
+    "https://en.wikipedia.org/wiki/Pisba",
+    "https://es.wikipedia.org/wiki/Pisba"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "lozenge",
+      "color": "yellow",
+      "position": "center"
+    },
+    {
+      "type": "disc",
+      "color": "green",
+      "position": "center",
+      "role": "disc divided green and red on the lozenge"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "half of the disc"
+    }
+  ]
+}

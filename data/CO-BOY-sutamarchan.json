@@ -1,0 +1,54 @@
+{
+  "id": "CO-BOY-sutamarchan",
+  "name": "Sutamarchán (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-BOY",
+  "codes": {
+    "wikidata": "Q1576393",
+    "dane": "15776"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly by a white band, yellow above and green below.",
+  "history": "Municipal flag of Sutamarchán, a municipality in the department of Boyacá, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Sutamarchán_(Boyacá).svg",
+    "https://www.wikidata.org/wiki/Q1576393",
+    "https://en.wikipedia.org/wiki/Sutamarch%C3%A1n",
+    "https://es.wikipedia.org/wiki/Sutamarch%C3%A1n"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "green",
+      "direction": "bend",
+      "role": "divided diagonally yellow over green"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "diagonal band along the division"
+    }
+  ]
+}

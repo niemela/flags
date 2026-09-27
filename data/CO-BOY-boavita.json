@@ -1,0 +1,65 @@
+{
+  "id": "CO-BOY-boavita",
+  "name": "Boavita (Colombia)",
+  "type": [
+    "city"
+  ],
+  "parent": "CO-BOY",
+  "codes": {
+    "wikidata": "Q1576227",
+    "dane": "15097"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly by a white band bearing a row of yellow five-pointed stars, blue above and black below.",
+  "history": "Municipal flag of Boavita, a municipality in the department of Boyacá, Colombia; Colombian municipal flags are adopted by agreement (acuerdo) of the municipal council or by decree of the mayor.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Boavita_(Boyacá).svg",
+    "https://www.wikidata.org/wiki/Q1576227",
+    "https://en.wikipedia.org/wiki/Boavita",
+    "https://es.wikipedia.org/wiki/Boavita"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "black",
+      "direction": "bend-sinister",
+      "role": "divided diagonally blue over black"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band along the division"
+    },
+    {
+      "type": "star",
+      "count": 13,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "row of stars along the diagonal band"
+    }
+  ]
+}
