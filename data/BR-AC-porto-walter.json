@@ -1,0 +1,66 @@
+{
+  "id": "BR-AC-porto-walter",
+  "name": "Porto Walter (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-AC",
+  "codes": {
+    "wikidata": "Q1772588"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "light-blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided by a white rising diagonal stripe into a light blue upper hoist and a green lower fly, charged at the centre with a small yellow star edged in black.",
+  "history": "Porto Walter is a municipality in the state of Acre, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Porto_Walter_AC.svg",
+    "https://www.wikidata.org/wiki/Q1772588",
+    "https://pt.wikipedia.org/wiki/Porto_Walter",
+    "https://en.wikipedia.org/wiki/Porto_Walter",
+    "https://www.crwflags.com/fotw/flags/br-acptw.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "light-blue",
+      "bend": "green",
+      "direction": "bend",
+      "role": "light blue upper hoist and green lower fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "rising diagonal stripe"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "star edged in black"
+    }
+  ]
+}
