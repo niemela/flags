@@ -1,0 +1,67 @@
+{
+  "id": "BR-RR-sao-joao-da-baliza",
+  "name": "São João da Baliza (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-RR",
+  "codes": {
+    "wikidata": "Q1646960"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontal tricolour of blue and green, yellow and brown, the upper stripe divided vertically blue and green with a flying white dove on the blue.",
+  "history": "São João da Baliza is a municipality in the state of Roraima, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_São_João_da_Baliza_-_RR.svg",
+    "https://www.wikidata.org/wiki/Q1646960",
+    "https://pt.wikipedia.org/wiki/São_João_da_Baliza",
+    "https://en.wikipedia.org/wiki/São_João_da_Baliza",
+    "https://www.crwflags.com/fotw/flags/br-rr014.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow",
+        "brown"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "upper-fly",
+      "role": "green fly half of the upper stripe"
+    },
+    {
+      "type": "bird",
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "flying dove"
+    }
+  ]
+}

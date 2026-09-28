@@ -1,0 +1,76 @@
+{
+  "id": "BR-RR-rorainopolis",
+  "name": "Rorainópolis (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-RR",
+  "codes": {
+    "wikidata": "Q1646932"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal tricolour of blue, white and green with a small yellow star on the blue, a large yellow star on the white and four small yellow stars on the green.",
+  "history": "Rorainópolis is a municipality in the state of Roraima, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Rorainopolis.svg",
+    "https://www.wikidata.org/wiki/Q1646932",
+    "https://pt.wikipedia.org/wiki/Rorainópolis",
+    "https://en.wikipedia.org/wiki/Rorainópolis",
+    "https://www.crwflags.com/fotw/flags/br-rr013.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "top",
+      "role": "small star"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "large star"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "yellow",
+      "position": "bottom",
+      "role": "four small stars, two towards the hoist and two towards the fly"
+    }
+  ]
+}

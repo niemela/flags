@@ -1,0 +1,80 @@
+{
+  "id": "BR-RR-uiramuta",
+  "name": "Uiramutã (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-RR",
+  "codes": {
+    "wikidata": "Q1637434"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided per bend blue over green by three diagonal stripes of yellow, white and red, with a yellow star in the upper fly.",
+  "history": "Uiramutã is a municipality in the state of Roraima, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_Uiramuta.svg",
+    "https://www.wikidata.org/wiki/Q1637434",
+    "https://pt.wikipedia.org/wiki/Uiramutã",
+    "https://en.wikipedia.org/wiki/Uiramutã",
+    "https://www.crwflags.com/fotw/flags/br-rr008.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "green",
+      "direction": "bend",
+      "role": "blue upper fly and green lower hoist"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "diagonal stripes of yellow, white and red"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "yellow stripe of the band"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "red stripe of the band"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "upper-fly"
+    }
+  ]
+}
