@@ -1,0 +1,66 @@
+{
+  "id": "BR-SE-pirambu",
+  "name": "Pirambu (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SE",
+  "codes": {
+    "wikidata": "Q1809608"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Horizontal tricolour of dark blue, yellow and green, charged at the centre with a white disc bearing palm trees, a lobster, a sea turtle and a boat, over a scroll reading PIRAMBU.",
+  "history": "Pirambu is a municipality in the state of Sergipe, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_PIRAMBU.svg",
+    "https://www.wikidata.org/wiki/Q1809608",
+    "https://pt.wikipedia.org/wiki/Pirambu",
+    "https://en.wikipedia.org/wiki/Pirambu"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "yellow",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center",
+      "role": "disc bearing palm trees, a lobster, a sea turtle and a boat"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "bottom",
+      "role": "scroll reading PIRAMBU"
+    }
+  ]
+}

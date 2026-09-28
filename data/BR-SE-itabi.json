@@ -1,0 +1,67 @@
+{
+  "id": "BR-SE-itabi",
+  "name": "Itabi (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SE",
+  "codes": {
+    "wikidata": "Q1929327"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided per bend green over yellow, charged at the centre with a blue disc bearing the name ITABI over white stones, between maize and cotton, over a scroll reading 25 DE NOVEMBRO DE 1953.",
+  "history": "Itabi is a municipality in the state of Sergipe, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_itabi.svg",
+    "https://www.wikidata.org/wiki/Q1929327",
+    "https://pt.wikipedia.org/wiki/Itabi",
+    "https://en.wikipedia.org/wiki/Itabi"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "yellow",
+      "direction": "bend",
+      "role": "green upper fly and yellow lower hoist"
+    },
+    {
+      "type": "disc",
+      "color": "blue",
+      "position": "center",
+      "role": "disc reading ITABI over white stones"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "maize and cotton flanking the disc"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "scroll reading 25 DE NOVEMBRO DE 1953"
+    }
+  ]
+}

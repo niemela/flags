@@ -1,0 +1,60 @@
+{
+  "id": "BR-SE-frei-paulo",
+  "name": "Frei Paulo (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SE",
+  "codes": {
+    "wikidata": "Q588822"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided by a yellow chevron issuing from the hoist into a green upper part and a dark blue lower part, charged at the centre with a white shield reading FREI PAULO 23-10-1920 with a bull and cotton.",
+  "history": "Frei Paulo is a municipality in the state of Sergipe, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_frei_paulo.svg",
+    "https://www.wikidata.org/wiki/Q588822",
+    "https://pt.wikipedia.org/wiki/Frei_Paulo",
+    "https://en.wikipedia.org/wiki/Frei_Paulo"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "navy",
+      "direction": "bend",
+      "role": "green upper part and dark blue lower part"
+    },
+    {
+      "type": "chevron",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "chevron issuing from the hoist"
+    },
+    {
+      "type": "shield",
+      "color": "white",
+      "role": "shield reading FREI PAULO 23-10-1920 with a bull's head and cotton"
+    }
+  ]
+}

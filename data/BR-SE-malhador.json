@@ -1,0 +1,65 @@
+{
+  "id": "BR-SE-malhador",
+  "name": "Malhador (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SE",
+  "codes": {
+    "wikidata": "Q2013198"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided by lines from the top centre into a dark blue hoist, a yellow upper fly and a green lower part, charged at the centre with the municipal shield reading MALHADOR with a bull and a tree, over the date 25.11.1953.",
+  "history": "Malhador is a municipality in the state of Sergipe, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_malhador.svg",
+    "https://www.wikidata.org/wiki/Q2013198",
+    "https://pt.wikipedia.org/wiki/Malhador",
+    "https://en.wikipedia.org/wiki/Malhador"
+  ],
+  "features": [
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "hoist",
+      "role": "dark blue triangular hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "top",
+      "role": "yellow triangle at the top"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "lower-fly",
+      "role": "green lower fly"
+    },
+    {
+      "type": "shield",
+      "color": "white",
+      "role": "shield reading MALHADOR with a bull and a tree, over the date 25.11.1953"
+    }
+  ]
+}
