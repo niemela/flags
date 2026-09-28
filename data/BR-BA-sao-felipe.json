@@ -1,0 +1,68 @@
+{
+  "id": "BR-BA-sao-felipe",
+  "name": "São Felipe (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-BA",
+  "codes": {
+    "wikidata": "Q1794400"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A red hoist panel bearing a yellow monogram of a cross with hooks, and a fly of white, dark blue and white horizontal stripes.",
+  "history": "São Felipe is a municipality in the state of Bahia, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_São_Felipe_-_BA.svg",
+    "https://www.wikidata.org/wiki/Q1794400",
+    "https://pt.wikipedia.org/wiki/São_Felipe_(Bahia)",
+    "https://en.wikipedia.org/wiki/São_Felipe",
+    "https://www.crwflags.com/fotw/flags/br-ba-sf.html"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red",
+        "white"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "monogram of a cross with hooks"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "navy",
+        "white"
+      ],
+      "count": 3,
+      "position": "fly",
+      "role": "horizontal stripes in the fly"
+    }
+  ]
+}

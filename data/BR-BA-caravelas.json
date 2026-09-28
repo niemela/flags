@@ -1,0 +1,66 @@
+{
+  "id": "BR-BA-caravelas",
+  "name": "Caravelas (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-BA",
+  "codes": {
+    "wikidata": "Q985956"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Green field with a yellow triangle at the hoist bearing the municipal arms, extending into a yellow stripe with a red arrow-shaped band pointing to the fly.",
+  "history": "Caravelas is a municipality in the state of Bahia, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Caravelas_-_BA.svg",
+    "https://www.wikidata.org/wiki/Q985956",
+    "https://pt.wikipedia.org/wiki/Caravelas_(Bahia)",
+    "https://en.wikipedia.org/wiki/Caravelas"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "position": "hoist",
+      "role": "triangle at the hoist"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "municipal arms"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "yellow stripe from the triangle to the fly"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "red arrow-shaped band"
+    }
+  ]
+}

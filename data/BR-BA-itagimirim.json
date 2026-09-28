@@ -1,0 +1,62 @@
+{
+  "id": "BR-BA-itagimirim",
+  "name": "Itagimirim (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-BA",
+  "codes": {
+    "wikidata": "Q1795765"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Green field with a canton divided white and red, the white bearing a blue triangle.",
+  "history": "Itagimirim is a municipality in the state of Bahia, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_Itagimirim,_Bahia,_Brasil.svg",
+    "https://www.wikidata.org/wiki/Q1795765",
+    "https://pt.wikipedia.org/wiki/Itagimirim",
+    "https://en.wikipedia.org/wiki/Itagimirim"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "role": "canton divided white and red"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "canton",
+      "role": "red fly half of the canton"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "position": "canton"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "BR-BA-mascote",
+  "name": "Mascote (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-BA",
+  "codes": {
+    "wikidata": "Q956401"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally by a blue band fimbriated in white rising from the lower hoist to the upper fly: a red upper hoist with five yellow stars and a fly of red and white stripes.",
+  "history": "Mascote is a municipality in the state of Bahia, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_Mascote_-_BA.svg",
+    "https://www.wikidata.org/wiki/Q956401",
+    "https://pt.wikipedia.org/wiki/Mascote_(Bahia)",
+    "https://en.wikipedia.org/wiki/Mascote"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "navy",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "diagonal band fimbriated in white"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "yellow",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 5,
+      "position": "fly",
+      "role": "red and white stripes in the lower fly"
+    }
+  ]
+}

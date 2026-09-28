@@ -1,0 +1,63 @@
+{
+  "id": "BR-BA-uibai",
+  "name": "Uibaí (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-BA",
+  "codes": {
+    "wikidata": "Q1761773"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Horizontal tricolour of dark blue, green and yellow with a red triangle at the hoist reaching the fly along the bottom, the name UIBAÍ in red on the yellow.",
+  "history": "Uibaí is a municipality in the state of Bahia, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Uibaí.svg",
+    "https://www.wikidata.org/wiki/Q1761773",
+    "https://pt.wikipedia.org/wiki/Uibaí",
+    "https://en.wikipedia.org/wiki/Uibaí"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "green",
+        "yellow"
+      ],
+      "count": 3
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "position": "hoist",
+      "role": "red triangle from the hoist along the bottom"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "lower-fly",
+      "role": "name UIBAÍ"
+    }
+  ]
+}

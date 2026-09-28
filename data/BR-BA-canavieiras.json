@@ -1,0 +1,72 @@
+{
+  "id": "BR-BA-canavieiras",
+  "name": "Canavieiras (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-BA",
+  "codes": {
+    "wikidata": "Q1772515"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Vertical stripes of white and green crossed by a red diagonal band from the upper hoist to the lower fly bearing three white shells.",
+  "history": "Canavieiras is a municipality on the coast of the state of Bahia, Brazil. Portuguese Wikipedia records that the flag was chosen in a 1967 contest promoted by the Lions Club and won by Jorge Silva Souza: the green stands for the cane fields and forests, the white for the beaches and the red for the robe of the patron, Saint Bonaventure; the three emblems on the band are read as crab claws or shells.",
+  "periods": [
+    {
+      "start": "1967"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_Canavieiras_-_BA.svg",
+    "https://www.wikidata.org/wiki/Q1772515",
+    "https://pt.wikipedia.org/wiki/Canavieiras",
+    "https://en.wikipedia.org/wiki/Canavieiras"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "white",
+        "green",
+        "white",
+        "green",
+        "white",
+        "green",
+        "white"
+      ],
+      "count": 9
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band bearing three white shells"
+    },
+    {
+      "type": "shell",
+      "color": "white",
+      "role": "three shells"
+    }
+  ]
+}

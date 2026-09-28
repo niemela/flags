@@ -1,0 +1,67 @@
+{
+  "id": "BR-BA-senhor-do-bonfim",
+  "name": "Senhor do Bonfim (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-BA",
+  "codes": {
+    "wikidata": "Q1808316"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Horizontal tricolour of red, white and red crossed by a diagonal stripe of green, yellow, blue, white and red rising to the fly, charged at the centre with a yellow sunburst bearing the letters SB.",
+  "history": "Senhor do Bonfim is a municipality in the state of Bahia, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_Senhor_do_Bonfim_-_BA.svg",
+    "https://www.wikidata.org/wiki/Q1808316",
+    "https://pt.wikipedia.org/wiki/Senhor_do_Bonfim_(Bahia)",
+    "https://en.wikipedia.org/wiki/Senhor_do_Bonfim"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "green",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "diagonal stripe of green, yellow, blue, white and red"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "role": "sunburst bearing the letters SB"
+    }
+  ]
+}

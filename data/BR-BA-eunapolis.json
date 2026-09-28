@@ -1,0 +1,74 @@
+{
+  "id": "BR-BA-eunapolis",
+  "name": "Eunápolis (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-BA",
+  "codes": {
+    "wikidata": "Q1796277"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "5:7",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontal tricolour: a yellow upper stripe with a white star at the hoist and a dark blue fly, a white middle stripe bearing the name EUNÁPOLIS in red, and a green lower stripe.",
+  "history": "Eunápolis is a municipality in the state of Bahia, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_eunapolis.svg",
+    "https://www.wikidata.org/wiki/Q1796277",
+    "https://pt.wikipedia.org/wiki/Eunápolis",
+    "https://en.wikipedia.org/wiki/Eunápolis",
+    "https://www.crwflags.com/fotw/flags/br-ba127.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "yellow",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "upper-fly",
+      "role": "dark blue fly of the upper stripe"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "name EUNÁPOLIS"
+    }
+  ]
+}

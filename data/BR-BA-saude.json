@@ -1,0 +1,71 @@
+{
+  "id": "BR-BA-saude",
+  "name": "Saúde (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-BA",
+  "codes": {
+    "wikidata": "Q2247752"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "White field with blue horizontal stripes in the lower part and a green triangle at the lower hoist bearing a yellow cluster, charged with a yellow crown in the upper part.",
+  "history": "Saúde is a municipality in the state of Bahia, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Saúde_BA.svg",
+    "https://www.wikidata.org/wiki/Q2247752",
+    "https://pt.wikipedia.org/wiki/Saúde_(Bahia)",
+    "https://en.wikipedia.org/wiki/Saúde,_Bahia"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 6
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "lower-hoist",
+      "role": "green triangle at the lower hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "lower-hoist",
+      "role": "cluster in the triangle"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "top"
+    }
+  ]
+}
