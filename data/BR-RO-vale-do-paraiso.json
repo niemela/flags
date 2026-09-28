@@ -1,0 +1,65 @@
+{
+  "id": "BR-RO-vale-do-paraiso",
+  "name": "Vale do Paraíso (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-RO",
+  "codes": {
+    "wikidata": "Q2013187"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "grey"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided per bend sinister, the upper hoist pale grey-white with a golden many-rayed sun partly shown in the upper hoist corner, the lower fly divided per bend green over blue.",
+  "history": "Vale do Paraíso is a municipality in the state of Rondônia, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Vale_do_Paraíso.svg",
+    "https://www.wikidata.org/wiki/Q2013187",
+    "https://pt.wikipedia.org/wiki/Vale_do_Paraíso_(Rondônia)",
+    "https://en.wikipedia.org/wiki/Vale_do_Paraíso,_Rondônia",
+    "https://www.crwflags.com/fotw/flags/br-ro051.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "blue",
+      "direction": "bend-sinister",
+      "role": "pale upper hoist and blue lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "upper-fly",
+      "role": "green upper part of the lower fly"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "many-rayed sun partly shown"
+    }
+  ]
+}

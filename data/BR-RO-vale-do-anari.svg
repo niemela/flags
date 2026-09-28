@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio='none' viewBox='0 0 150 96' width="1250" height="800" version="1.0">
+<defs>
+	<clipPath id='l'><path id='l1' d='M0,0 L 11,0 75,40 0,88z'/></clipPath>
+	<clipPath id='r'><path id='r1' d='M150,96 L 139,96 75,56 150,8z'/></clipPath>
+</defs>
+<rect fill="#0F47AF" width="100%" height="100%"/>
+<g clip-path='url(#l)'>
+	<use xlink:href='#l1' fill='#078930'/>
+	<polygon fill='#FCDD09' points='0,0 75,48 75,56 0,8'/>
+</g>
+<g clip-path='url(#r)'>
+	<use xlink:href='#r1' fill='#078930'/>
+	<polygon fill='#FCDD09' points='150,96 150,88 75,40 75,48'/>
+</g>
+<polygon fill='#FCDD09' points='150,0 139,0 75,40 75,48'/>
+<polygon fill='#FCDD09' points='0,96 11,96 75,56 75,48'/>
+<polygon fill='#fff' points='75,23 93,68 47,41 103,41 57,68'/>
+</svg>

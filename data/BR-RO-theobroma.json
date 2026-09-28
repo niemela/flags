@@ -1,0 +1,65 @@
+{
+  "id": "BR-RO-theobroma",
+  "name": "Theobroma (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-RO",
+  "codes": {
+    "wikidata": "Q647208"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided per bend sinister blue over green by a white band narrowing from the lower hoist towards the upper fly, with a yellow star in the upper hoist.",
+  "history": "Theobroma is a municipality in the state of Rondônia, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_Theobroma.svg",
+    "https://www.wikidata.org/wiki/Q647208",
+    "https://pt.wikipedia.org/wiki/Theobroma",
+    "https://en.wikipedia.org/wiki/Theobroma,_Rondônia",
+    "https://www.crwflags.com/fotw/flags/br-ro048.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "navy",
+      "bend": "green",
+      "direction": "bend",
+      "role": "blue upper hoist and green lower fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "band narrowing towards the upper fly"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "upper-hoist"
+    }
+  ]
+}
