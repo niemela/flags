@@ -1,0 +1,64 @@
+{
+  "id": "BR-MG-belmiro-braga",
+  "name": "Belmiro Braga (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-MG",
+  "codes": {
+    "wikidata": "Q1793075"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Horizontal tricolour of green, dark red and blue, with three white stars on the green and a white lyre on the lower stripes.",
+  "history": "Belmiro Braga is a municipality in the state of Minas Gerais, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Belmiro_Braga.svg",
+    "https://www.wikidata.org/wiki/Q1793075",
+    "https://pt.wikipedia.org/wiki/Belmiro_Braga",
+    "https://en.wikipedia.org/wiki/Belmiro_Braga"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "maroon",
+        "blue"
+      ],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "white",
+      "position": "top"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "lyre"
+    }
+  ]
+}

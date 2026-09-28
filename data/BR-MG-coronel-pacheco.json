@@ -1,0 +1,72 @@
+{
+  "id": "BR-MG-coronel-pacheco",
+  "name": "Coronel Pacheco (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-MG",
+  "codes": {
+    "wikidata": "Q1791759"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue lower half and an upper half divided into a green hoist bearing four white stars and a fly of black over red.",
+  "history": "Coronel Pacheco is a municipality in the state of Minas Gerais, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Coronel_Pacheco.svg",
+    "https://www.wikidata.org/wiki/Q1791759",
+    "https://pt.wikipedia.org/wiki/Coronel_Pacheco",
+    "https://en.wikipedia.org/wiki/Coronel_Pacheco"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "blue"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "upper-fly",
+      "role": "black upper fly"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "upper-fly",
+      "role": "red stripe below the black"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "white",
+      "position": "upper-hoist"
+    }
+  ]
+}

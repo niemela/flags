@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="525" height="330" viewBox="0 0 175 110">
+<defs> 
+    <polygon id="triangle" fill="#29166F" points="-0.8660254037844386,0.5 0.8660254037844386,0.5 0,-1"/>
+    <g id="star" transform="scale(15)">
+        <use xlink:href="#triangle" />
+        <use xlink:href="#triangle" transform="rotate(180)" />
+    </g>
+</defs>
+<rect fill="#29166F" width="175" height="110" />
+<path fill="#FFFFFF" d="M175,0 v20 L0,55 175,90 v20 L0,75 v-40z" />
+<path fill="#DB261B" d="M175,20 v70 L0,55z" />
+<circle cx="107" cy="55" r="18.5" fill="#FFFFFF" />
+<use xlink:href="#star" x="107" y="55" /> 
+</svg>
