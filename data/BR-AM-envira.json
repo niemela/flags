@@ -1,0 +1,59 @@
+{
+  "id": "BR-AM-envira",
+  "name": "Envira (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-AM",
+  "codes": {
+    "wikidata": "Q1750090"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "9:16",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Divided diagonally into a dark blue upper hoist, a white band bearing ENVIRA-AM in blue and a red lower fly, with a white canton bearing rows of blue stars and a figure.",
+  "history": "Envira is a municipality in the state of Amazonas, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Envira.svg",
+    "https://www.wikidata.org/wiki/Q1750090",
+    "https://pt.wikipedia.org/wiki/Envira",
+    "https://en.wikipedia.org/wiki/Envira"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "navy",
+      "bend": "red",
+      "direction": "bend",
+      "role": "dark blue upper hoist and red lower fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "white band bearing ENVIRA-AM"
+    },
+    {
+      "type": "canton",
+      "color": "white",
+      "role": "canton with rows of blue stars and a figure"
+    }
+  ]
+}

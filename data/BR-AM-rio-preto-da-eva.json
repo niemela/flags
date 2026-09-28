@@ -1,0 +1,62 @@
+{
+  "id": "BR-AM-rio-preto-da-eva",
+  "name": "Rio Preto da Eva (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-AM",
+  "codes": {
+    "wikidata": "Q1793560"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "White upper part bearing a yellow rising sun and the motto INTEGRAÇÃO E PROGRESSO in black, over stripes of green and black.",
+  "history": "Rio Preto da Eva is a municipality in the state of Amazonas, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Rio_Preto_da_Eva.svg",
+    "https://www.wikidata.org/wiki/Q1793560",
+    "https://pt.wikipedia.org/wiki/Rio_Preto_da_Eva",
+    "https://en.wikipedia.org/wiki/Rio_Preto_da_Eva"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green",
+        "black"
+      ],
+      "count": 3
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "role": "rising sun"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "top",
+      "role": "motto INTEGRAÇÃO E PROGRESSO"
+    }
+  ]
+}

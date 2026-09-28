@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1350 900" width="600" height="400" >
+<defs>
+	<g id="star" transform="scale(50) rotate(-20)">
+		<g id="cone">
+			<polygon id="triangle" fill="#FFF000" points="0,0 0,1 .5,1" transform="translate(0,-1) rotate(18)"/>
+			<use xlink:href="#triangle" transform="scale(-1,1)"/>
+		</g>
+		<use xlink:href="#cone" transform="rotate(72)"/>
+		<use xlink:href="#cone" transform="rotate(-72)"/>
+		<use xlink:href="#cone" transform="rotate(144)"/>
+		<use xlink:href="#cone" transform="rotate(-144)"/>
+	</g>
+</defs>
+<rect fill="#557E7A" width="100%" height="150" />
+<rect fill="#FDF9B9" width="100%" height="150" y="150" />
+<rect fill="#CE0000" width="100%" height="300" y="300" />
+<rect fill="#FDF9B9" width="100%" height="150" y="600" />
+<rect fill="#557E7A" width="100%" height="150" y="750" />
+<path fill="#000068" d="M0,900 a450,450 0 0,0 0,-900 z" />
+<use xlink:href="#star" transform="translate(112.5,180) " />
+<use xlink:href="#star" transform="translate(112.5,360)" />
+<use xlink:href="#star" transform="translate(112.5,540)" />
+<use xlink:href="#star" transform="translate(112.5,720)" />
+<use xlink:href="#star" transform="translate(225,270)" />
+<use xlink:href="#star" transform="translate(225,450) scale(1.5)" />
+<use xlink:href="#star" transform="translate(225,630)" />
+<use xlink:href="#star" transform="translate(337.5,360)" />
+<use xlink:href="#star" transform="translate(337.5,540)" />
+</svg>

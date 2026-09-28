@@ -1,0 +1,59 @@
+{
+  "id": "BR-AM-guajara",
+  "name": "Guajará (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-AM",
+  "codes": {
+    "wikidata": "Q1808440"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Green field with a broad dark blue vertical stripe through the centre bearing a yellow crescent and star.",
+  "history": "Guajará is a municipality in the state of Amazonas, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Guajará_AM.svg",
+    "https://www.wikidata.org/wiki/Q1808440",
+    "https://pt.wikipedia.org/wiki/Guajará_(Amazonas)",
+    "https://en.wikipedia.org/wiki/Guajará"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "navy",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "crescent",
+      "color": "yellow"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "center"
+    }
+  ]
+}

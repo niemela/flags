@@ -1,0 +1,62 @@
+{
+  "id": "BR-AM-fonte-boa",
+  "name": "Fonte Boa (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-AM",
+  "codes": {
+    "wikidata": "Q1793768"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Horizontal tricolour of white, red and green with a dark blue canton bearing five white stars.",
+  "history": "Fonte Boa is a municipality in the state of Amazonas, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Fonte_Boa_AM.svg",
+    "https://www.wikidata.org/wiki/Q1793768",
+    "https://pt.wikipedia.org/wiki/Fonte_Boa_(Amazonas)",
+    "https://en.wikipedia.org/wiki/Fonte_Boa,_Amazonas"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "canton",
+      "color": "navy"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "position": "canton"
+    }
+  ]
+}
