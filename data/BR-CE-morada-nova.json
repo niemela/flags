@@ -1,0 +1,69 @@
+{
+  "id": "BR-CE-morada-nova",
+  "name": "Morada Nova (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-CE",
+  "codes": {
+    "wikidata": "Q1807869"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Stripes of green and yellow with a dark blue canton bearing a large white star surrounded by eight smaller stars.",
+  "history": "Morada Nova is a municipality in the state of Ceará, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Morada_Nova_CE.svg",
+    "https://www.wikidata.org/wiki/Q1807869",
+    "https://pt.wikipedia.org/wiki/Morada_Nova",
+    "https://en.wikipedia.org/wiki/Morada_Nova"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "green",
+        "yellow",
+        "green",
+        "yellow",
+        "green",
+        "yellow",
+        "green"
+      ],
+      "count": 9
+    },
+    {
+      "type": "canton",
+      "color": "navy"
+    },
+    {
+      "type": "star",
+      "count": 9,
+      "points": 5,
+      "color": "white",
+      "position": "canton",
+      "role": "large star surrounded by eight smaller stars"
+    }
+  ]
+}

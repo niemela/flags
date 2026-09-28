@@ -1,0 +1,71 @@
+{
+  "id": "BR-CE-sao-goncalo-do-amarante",
+  "name": "São Gonçalo do Amarante (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-CE",
+  "codes": {
+    "wikidata": "Q1999934"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "5:7",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally by a white band from the lower hoist to the upper fly into a blue upper hoist and a green lower fly, charged with seven yellow stars for the districts.",
+  "history": "São Gonçalo do Amarante is a coastal municipality in the state of Ceará, Brazil, near Fortaleza. The flag is prescribed by Municipal Law No. 146 of 15 July 1975: blue for the sky, green for the sea, yellow for the sun and white for peace, with seven stars placed according to the geographic position of the seven districts.",
+  "periods": [
+    {
+      "start": "1975-07-15"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_São_Gonçalo_do_Amarante_(Ceará).svg",
+    "https://www.wikidata.org/wiki/Q1999934",
+    "https://pt.wikipedia.org/wiki/São_Gonçalo_do_Amarante_(Ceará)",
+    "https://en.wikipedia.org/wiki/São_Gonçalo_do_Amarante,_Ceará",
+    "https://www.crwflags.com/fotw/flags/br-ce162.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "green",
+      "direction": "bend",
+      "role": "blue upper hoist and green lower fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "white band separating the triangles"
+    },
+    {
+      "type": "star",
+      "count": 7,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "seven stars for the seven districts"
+    }
+  ]
+}

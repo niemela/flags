@@ -1,0 +1,61 @@
+{
+  "id": "BR-CE-penaforte",
+  "name": "Penaforte (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-CE",
+  "codes": {
+    "wikidata": "Q2028236"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Dark blue field charged with a white lozenge bearing a red map of the municipality between cotton and cashew branches.",
+  "history": "Penaforte is a municipality in the state of Ceará, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Penaforte_-_CE.svg",
+    "https://www.wikidata.org/wiki/Q2028236",
+    "https://pt.wikipedia.org/wiki/Penaforte",
+    "https://en.wikipedia.org/wiki/Penaforte"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "lozenge",
+      "color": "white"
+    },
+    {
+      "type": "map",
+      "color": "red",
+      "role": "map of the municipality"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "cotton and cashew branches"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "BR-CE-palmacia",
+  "name": "Palmácia (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-CE",
+  "codes": {
+    "wikidata": "Q2013452"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "5:7",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field crossed by a diagonal band of yellow and green from the upper hoist to the lower fly.",
+  "history": "Palmácia is a municipality in the state of Ceará, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_Palmácia.svg",
+    "https://www.wikidata.org/wiki/Q2013452",
+    "https://pt.wikipedia.org/wiki/Palmácia",
+    "https://en.wikipedia.org/wiki/Palmácia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band of yellow and green"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "green half of the band"
+    }
+  ]
+}

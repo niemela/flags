@@ -1,0 +1,54 @@
+{
+  "id": "BR-CE-alcantaras",
+  "name": "Alcântaras (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-CE",
+  "codes": {
+    "wikidata": "Q2027670"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Horizontal tricolour of red, yellow and red in the proportions 1:2:1, charged at the centre with a green knot of four loops.",
+  "history": "Alcântaras is a municipality in the state of Ceará, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Alcântaras_CE.svg",
+    "https://www.wikidata.org/wiki/Q2027670",
+    "https://pt.wikipedia.org/wiki/Alcântaras",
+    "https://en.wikipedia.org/wiki/Alcântaras"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "yellow",
+        "red"
+      ],
+      "count": 3
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "knot of four loops"
+    }
+  ]
+}
