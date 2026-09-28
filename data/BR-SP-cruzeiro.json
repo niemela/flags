@@ -1,0 +1,90 @@
+{
+  "id": "BR-SP-cruzeiro",
+  "name": "Cruzeiro (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SP",
+  "codes": {
+    "wikidata": "Q1003429"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Thirteen horizontal stripes of light blue and white with a red canton bearing a white disc with a blue map of São Paulo state, surrounded by the five yellow stars of the Southern Cross.",
+  "history": "Cruzeiro is a municipality in the state of São Paulo, Brazil, named after the Southern Cross. Portuguese Wikipedia records that the flag was officially adopted by a decree of 19 November 1979 under Mayor Jorge Santiago; Flags of the World notes that it derives from the state flag, with the black stripes recoloured blue, the map of Brazil replaced by the map of the state and a fifth star added for Cruzeiro.",
+  "periods": [
+    {
+      "start": "1979-11-19"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Cruzeiro_(SP).svg",
+    "https://www.wikidata.org/wiki/Q1003429",
+    "https://pt.wikipedia.org/wiki/Cruzeiro_(São_Paulo)",
+    "https://en.wikipedia.org/wiki/Cruzeiro,_São_Paulo",
+    "https://www.crwflags.com/fotw/flags/br-sp150.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 13
+    },
+    {
+      "type": "canton",
+      "color": "red"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "canton",
+      "role": "disc bearing a blue map of São Paulo state"
+    },
+    {
+      "type": "map",
+      "color": "blue",
+      "position": "canton"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "yellow",
+      "position": "canton",
+      "role": "Southern Cross, the fifth star marking Cruzeiro"
+    }
+  ]
+}

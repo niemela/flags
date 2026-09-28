@@ -1,0 +1,82 @@
+{
+  "id": "BR-SP-salesopolis",
+  "name": "Salesópolis (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SP",
+  "codes": {
+    "wikidata": "Q1645107"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "9:16",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Four horizontal stripes of green, yellow, white and red, the white bearing two rows of thirteen blue stars, with a dark blue canton bearing a red map of Brazil with a yellow star.",
+  "history": "Salesópolis is a municipality in the state of São Paulo, Brazil, home to the sources of the Tietê river. Flags of the World records that the flag was prescribed by Municipal Law No. 116 of 30 December 1952: green for the forests and pastures, yellow for the economic resources, red for the blood of the people.",
+  "periods": [
+    {
+      "start": "1952-12-30"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_Salesopolis_SaoPaulo_Brasil.svg",
+    "https://www.wikidata.org/wiki/Q1645107",
+    "https://pt.wikipedia.org/wiki/Salesópolis",
+    "https://en.wikipedia.org/wiki/Salesópolis",
+    "https://www.crwflags.com/fotw/flags/br-sp507.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "white",
+        "red"
+      ],
+      "count": 4
+    },
+    {
+      "type": "star",
+      "count": 26,
+      "points": 5,
+      "color": "blue",
+      "position": "center",
+      "role": "two rows of thirteen stars on the white"
+    },
+    {
+      "type": "canton",
+      "color": "navy"
+    },
+    {
+      "type": "map",
+      "color": "red",
+      "position": "canton",
+      "role": "map of Brazil with a yellow star"
+    }
+  ]
+}

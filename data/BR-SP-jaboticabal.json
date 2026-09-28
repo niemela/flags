@@ -1,0 +1,60 @@
+{
+  "id": "BR-SP-jaboticabal",
+  "name": "Jaboticabal (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SP",
+  "codes": {
+    "wikidata": "Q938162"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Rising diagonal tricolour of blue, white and red, charged at the centre with the municipal arms.",
+  "history": "Jaboticabal is a municipality in the state of São Paulo, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:BandeiraJaboticabal.svg",
+    "https://www.wikidata.org/wiki/Q938162",
+    "https://pt.wikipedia.org/wiki/Jaboticabal",
+    "https://en.wikipedia.org/wiki/Jaboticabal",
+    "https://www.crwflags.com/fotw/flags/br-sp279.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "red",
+      "direction": "bend",
+      "role": "blue upper hoist and red lower fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "broad white diagonal band"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "municipal arms with a mural crown, a landscape and branches"
+    }
+  ]
+}

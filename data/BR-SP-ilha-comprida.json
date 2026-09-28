@@ -1,0 +1,80 @@
+{
+  "id": "BR-SP-ilha-comprida",
+  "name": "Ilha Comprida (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SP",
+  "codes": {
+    "wikidata": "Q1645056"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "purple"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Four horizontal stripes of purple-blue, green, white and purple-blue, the lowest wavy, charged with an orange disc bearing a green palm tree on an island under four stars of the Southern Cross.",
+  "history": "Ilha Comprida is an island municipality on the coast of the state of São Paulo, Brazil, established in 1992 after a plebiscite in October 1991.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_IlhaComprida_SaoPaulo_Brasil.svg",
+    "https://www.wikidata.org/wiki/Q1645056",
+    "https://pt.wikipedia.org/wiki/Ilha_Comprida",
+    "https://en.wikipedia.org/wiki/Ilha_Comprida",
+    "https://www.crwflags.com/fotw/flags/br-sp235.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "purple",
+        "green",
+        "white",
+        "purple"
+      ],
+      "count": 4
+    },
+    {
+      "type": "wave",
+      "color": "purple",
+      "position": "bottom",
+      "role": "wavy lowest stripe"
+    },
+    {
+      "type": "disc",
+      "color": "orange",
+      "position": "center",
+      "role": "disc bearing a palm tree on an island"
+    },
+    {
+      "type": "palm",
+      "color": "green"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "four stars of the Southern Cross"
+    }
+  ]
+}

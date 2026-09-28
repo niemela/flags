@@ -1,0 +1,72 @@
+{
+  "id": "BR-SP-ubatuba",
+  "name": "Ubatuba (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SP",
+  "codes": {
+    "wikidata": "Q596931"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Seven horizontal stripes of blue and white with a red canton bearing a white cross on a yellow sunburst.",
+  "history": "Ubatuba is a municipality in the state of São Paulo, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Ubatuba.svg",
+    "https://www.wikidata.org/wiki/Q596931",
+    "https://pt.wikipedia.org/wiki/Ubatuba",
+    "https://en.wikipedia.org/wiki/Ubatuba",
+    "https://www.crwflags.com/fotw/flags/br-sp-ub.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 7
+    },
+    {
+      "type": "canton",
+      "color": "red"
+    },
+    {
+      "type": "latin-cross",
+      "color": "white",
+      "position": "canton",
+      "role": "cross on a yellow sunburst"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "canton",
+      "role": "sunburst behind the cross"
+    }
+  ]
+}
