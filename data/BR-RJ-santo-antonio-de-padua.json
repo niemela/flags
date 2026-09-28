@@ -1,0 +1,94 @@
+{
+  "id": "BR-RJ-santo-antonio-de-padua",
+  "name": "Santo Antônio de Pádua (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-RJ",
+  "codes": {
+    "wikidata": "Q1788412"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "5:9",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "purple"
+    },
+    {
+      "color": "orange"
+    }
+  ],
+  "description": "Divided per bend sinister by a white band reading SANTO ANTÔNIO DE PÁDUA into a light blue hoist bearing nine white stars and a fly of stripes of orange, purple, red, white, green and yellow.",
+  "history": "Santo Antônio de Pádua is a municipality in the state of Rio de Janeiro, Brazil. Flags of the World records that the colours recall the origins of the inhabitants — Portugal, Italy, Syria and Lebanon, Spain and Africa — and the nine stars the districts of the municipality, the largest for the seat.",
+  "periods": [
+    {
+      "start": "1964-11-03"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Santo_Antônio_de_Pádua.svg",
+    "https://www.wikidata.org/wiki/Q1788412",
+    "https://pt.wikipedia.org/wiki/Santo_Antônio_de_Pádua_(Rio_de_Janeiro)",
+    "https://en.wikipedia.org/wiki/Santo_Antônio_de_Pádua",
+    "https://www.crwflags.com/fotw/flags/br-rj070.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "white",
+      "direction": "bend-sinister",
+      "role": "light blue hoist and striped fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "band reading SANTO ANTÔNIO DE PÁDUA"
+    },
+    {
+      "type": "star",
+      "count": 9,
+      "points": 5,
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "nine stars for the districts, the larger one for the seat"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "orange",
+        "purple",
+        "red",
+        "white",
+        "green",
+        "yellow"
+      ],
+      "count": 6,
+      "position": "fly",
+      "role": "stripes in the fly"
+    }
+  ]
+}
