@@ -1,0 +1,67 @@
+{
+  "id": "BR-GO-formosa",
+  "name": "Formosa (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-GO",
+  "codes": {
+    "wikidata": "Q1003392"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Blue field with a horizontal band of green over yellow through the centre, charged with a golden crown and three white rays below it.",
+  "history": "Formosa is a municipality in the state of Goiás, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Formosa_-_GO.svg",
+    "https://www.wikidata.org/wiki/Q1003392",
+    "https://pt.wikipedia.org/wiki/Formosa_(Goiás)",
+    "https://en.wikipedia.org/wiki/Formosa,_Goiás",
+    "https://www.crwflags.com/fotw/flags/br-go089.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow"
+      ],
+      "count": 2,
+      "position": "center",
+      "role": "horizontal band of green over yellow"
+    },
+    {
+      "type": "crown",
+      "color": "yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "bottom",
+      "role": "three rays below the crown"
+    }
+  ]
+}

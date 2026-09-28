@@ -1,0 +1,61 @@
+{
+  "id": "BR-GO-montividiu",
+  "name": "Montividiu (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-GO",
+  "codes": {
+    "wikidata": "Q937082"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Divided diagonally yellow over green, with a white and a dark blue triangle spreading from the hoist to the lower fly.",
+  "history": "Montividiu is a municipality in the state of Goiás, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Montividiu_GO.svg",
+    "https://www.wikidata.org/wiki/Q937082",
+    "https://pt.wikipedia.org/wiki/Montividiu",
+    "https://en.wikipedia.org/wiki/Montividiu"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "green",
+      "direction": "bend",
+      "role": "yellow upper fly and green lower hoist"
+    },
+    {
+      "type": "triangle",
+      "color": "navy",
+      "position": "hoist",
+      "role": "dark blue triangle spreading from the hoist to the lower fly"
+    },
+    {
+      "type": "triangle",
+      "color": "white",
+      "position": "hoist",
+      "role": "white triangle above the blue one"
+    }
+  ]
+}
