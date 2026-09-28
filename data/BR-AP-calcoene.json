@@ -1,0 +1,61 @@
+{
+  "id": "BR-AP-calcoene",
+  "name": "Calçoene (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-AP",
+  "codes": {
+    "wikidata": "Q1754431"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided diagonally yellow and green from the upper hoist to the lower fly, charged at the centre with a black oval bearing a white fish.",
+  "history": "Calçoene is a municipality in the state of Amapá, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Calçoene_AP.svg",
+    "https://www.wikidata.org/wiki/Q1754431",
+    "https://pt.wikipedia.org/wiki/Calçoene",
+    "https://en.wikipedia.org/wiki/Calçoene"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "green",
+      "direction": "bend-sinister",
+      "role": "yellow upper hoist and green lower fly"
+    },
+    {
+      "type": "disc",
+      "color": "black",
+      "position": "center",
+      "role": "oval bearing a fish"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "fish"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "BR-AP-tartarugalzinho",
+  "name": "Tartarugalzinho (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-AP",
+  "codes": {
+    "wikidata": "Q1800762"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Blue field with a yellow stripe along the bottom from which rise three green hills, charged with a large yellow star and an arc of five smaller stars.",
+  "history": "Tartarugalzinho is a municipality in the state of Amapá, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Tartarugalzinho_AP.svg",
+    "https://www.wikidata.org/wiki/Q1800762",
+    "https://pt.wikipedia.org/wiki/Tartarugalzinho",
+    "https://en.wikipedia.org/wiki/Tartarugalzinho",
+    "https://www.crwflags.com/fotw/flags/br-ap015.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "yellow stripe along the bottom"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "position": "bottom",
+      "role": "three green hills"
+    },
+    {
+      "type": "star",
+      "count": 6,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "large star with five smaller stars arched above"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "BR-AP-oiapoque",
+  "name": "Oiapoque (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-AP",
+  "codes": {
+    "wikidata": "Q906717"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "10:19",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Blue field with a green descending diagonal band bordered in yellow, bearing a red boundary marker and a white stepped monument.",
+  "history": "Oiapoque is a municipality in the state of Amapá, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Oiapoque_AP.svg",
+    "https://www.wikidata.org/wiki/Q906717",
+    "https://pt.wikipedia.org/wiki/Oiapoque",
+    "https://en.wikipedia.org/wiki/Oiapoque",
+    "https://www.crwflags.com/fotw/flags/br-ap009.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "green",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band bordered in yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "upper-hoist",
+      "role": "boundary marker"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "stepped monument"
+    }
+  ]
+}
