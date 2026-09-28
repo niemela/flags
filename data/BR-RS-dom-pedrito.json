@@ -1,0 +1,57 @@
+{
+  "id": "BR-RS-dom-pedrito",
+  "name": "Dom Pedrito (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-RS",
+  "codes": {
+    "wikidata": "Q1749875"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Rising diagonal triband of green, white and green, charged at the centre with the municipal arms.",
+  "history": "Dom Pedrito is a municipality in the state of Rio Grande do Sul, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Dom_Pedrito_RS.svg",
+    "https://www.wikidata.org/wiki/Q1749875",
+    "https://pt.wikipedia.org/wiki/Dom_Pedrito",
+    "https://en.wikipedia.org/wiki/Dom_Pedrito",
+    "https://www.crwflags.com/fotw/flags/br-rs136.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "green",
+      "direction": "bend",
+      "role": "green upper hoist and lower fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "white diagonal band"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "municipal arms with a mural crown and a cross"
+    }
+  ]
+}

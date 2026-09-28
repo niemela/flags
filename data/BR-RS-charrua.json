@@ -1,0 +1,73 @@
+{
+  "id": "BR-RS-charrua",
+  "name": "Charrua (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-RS",
+  "codes": {
+    "wikidata": "Q1803097"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "5:7",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided diagonally green over white by a bend sinister of yellow, red and light blue from the upper fly to the lower hoist.",
+  "history": "Charrua is a municipality in the state of Rio Grande do Sul, Brazil. Flags of the World describes the flag with the municipal arms in a white oval at the centre; the Wikimedia Commons drawing omits them.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_Charrua.svg",
+    "https://www.wikidata.org/wiki/Q1803097",
+    "https://pt.wikipedia.org/wiki/Charrua_(Rio_Grande_do_Sul)",
+    "https://en.wikipedia.org/wiki/Charrua,_Rio_Grande_do_Sul",
+    "https://www.crwflags.com/fotw/flags/br-rs105.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "white",
+      "direction": "bend-sinister",
+      "role": "green upper hoist and white lower fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "band of yellow, red and light blue"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "yellow stripe of the band"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "light blue stripe of the band"
+    }
+  ]
+}

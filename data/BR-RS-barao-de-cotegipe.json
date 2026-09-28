@@ -1,0 +1,73 @@
+{
+  "id": "BR-RS-barao-de-cotegipe",
+  "name": "Barão de Cotegipe (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-RS",
+  "codes": {
+    "wikidata": "Q1786792"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "5:7",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Descending diagonal band of green, red and deep yellow between a white triangle in the upper fly and a light blue triangle in the lower hoist.",
+  "history": "Barão de Cotegipe is a municipality in the state of Rio Grande do Sul, Brazil. Flags of the World describes the flag with the municipal arms at the centre; the Wikimedia Commons drawing omits them.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_Barão_de_Cotegipe.svg",
+    "https://www.wikidata.org/wiki/Q1786792",
+    "https://pt.wikipedia.org/wiki/Barão_de_Cotegipe",
+    "https://en.wikipedia.org/wiki/Barão_de_Cotegipe",
+    "https://www.crwflags.com/fotw/flags/br-rs033.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "white",
+      "bend": "blue",
+      "direction": "bend-sinister",
+      "role": "white upper fly and light blue lower hoist"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "band of green, red and yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "green stripe of the band"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "yellow stripe of the band"
+    }
+  ]
+}

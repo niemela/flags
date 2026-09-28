@@ -1,0 +1,69 @@
+{
+  "id": "BR-RS-farroupilha",
+  "name": "Farroupilha (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-RS",
+  "codes": {
+    "wikidata": "Q535531"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided by a descending diagonal red band into a green upper fly and a yellow lower hoist, charged at the centre with a white disc bearing the municipal arms.",
+  "history": "Farroupilha is a municipality in the state of Rio Grande do Sul, Brazil, settled by Italian immigrants. According to Flags of the World the colours stand for faith (green), strong-mindedness (red), commitment to work (yellow) and purity of mind (white); the arms, designed by Valter Spaldi, are prescribed by Municipal Law No. 655 of 20 December 1963.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Farroupilha.svg",
+    "https://www.wikidata.org/wiki/Q535531",
+    "https://pt.wikipedia.org/wiki/Farroupilha",
+    "https://en.wikipedia.org/wiki/Farroupilha",
+    "https://www.crwflags.com/fotw/flags/br-rs162.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "yellow",
+      "direction": "bend-sinister",
+      "role": "green upper fly and yellow lower hoist"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "red",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center",
+      "role": "disc bearing the municipal arms"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "municipal arms with a mural crown, an Italian shield with a wavy bend, the Farroupilha shield and grapes"
+    }
+  ]
+}

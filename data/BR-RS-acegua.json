@@ -1,0 +1,73 @@
+{
+  "id": "BR-RS-acegua",
+  "name": "Aceguá (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-RS",
+  "codes": {
+    "wikidata": "Q913259"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "brown"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Field divided diagonally into yellow, green and brown areas, charged with a white outline map of the municipality bearing the municipal logomark — the border milestone before a green hill and a rising sun — over the words Município de Aceguá.",
+  "history": "Aceguá is a municipality in the state of Rio Grande do Sul, Brazil, on the Uruguayan border. Flags of the World records that the symbols were prescribed by Municipal Law No. 88 of 15 February 2002: the logomark shows the milestone marking the Brazil–Uruguay border in the foreground, a green hill for the Cerro de Aceguá and a sun for municipal progress.",
+  "periods": [
+    {
+      "start": "2002-02-15"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Aceguá.svg",
+    "https://www.wikidata.org/wiki/Q913259",
+    "https://pt.wikipedia.org/wiki/Aceguá",
+    "https://en.wikipedia.org/wiki/Aceguá,_Brazil",
+    "https://www.crwflags.com/fotw/flags/br-rs001.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "brown",
+      "direction": "bend",
+      "role": "yellow lower hoist and brown upper fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "green",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "green diagonal area"
+    },
+    {
+      "type": "map",
+      "color": "white",
+      "role": "outline map of the municipality bearing the logomark"
+    },
+    {
+      "type": "building",
+      "color": "brown",
+      "role": "Brazil–Uruguay border milestone before a hill and a sun"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "BR-RS-coronel-bicaco",
+  "name": "Coronel Bicaco (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-RS",
+  "codes": {
+    "wikidata": "Q600830"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Rising diagonal tricolour of yellow, white and green, charged at the centre with the municipal arms.",
+  "history": "Coronel Bicaco is a municipality in the state of Rio Grande do Sul, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Coronel_Bicaco_-_RS.svg",
+    "https://www.wikidata.org/wiki/Q600830",
+    "https://pt.wikipedia.org/wiki/Coronel_Bicaco",
+    "https://en.wikipedia.org/wiki/Coronel_Bicaco",
+    "https://www.crwflags.com/fotw/flags/br-rs118.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "yellow",
+      "bend": "green",
+      "direction": "bend",
+      "role": "yellow upper hoist and green lower fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "white diagonal band"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "municipal arms with a mural crown, a barn, a tractor and wheat, reading 14-4 CORONEL BICACO 1964"
+    }
+  ]
+}
