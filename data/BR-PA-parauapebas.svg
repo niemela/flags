@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="700" viewBox="0 0 2000 1400">
+<defs>
+	<g id="star" transform="scale(125)">
+		<g id="cone">
+			<polygon id="triangle" fill="#0000FF" points="0,0 0,1 .5,1" transform="translate(0,-1) rotate(18)"/>
+			<use xlink:href="#triangle" transform="scale(-1,1)"/>
+		</g>
+		<use xlink:href="#cone" transform="rotate(72)"/>
+		<use xlink:href="#cone" transform="rotate(-72)"/>
+		<use xlink:href="#cone" transform="rotate(144)"/>
+		<use xlink:href="#cone" transform="rotate(-144)"/>
+	</g>
+</defs>
+<rect fill="#006600" width="2000" height="1400" />
+<path fill="#FFF000" d="M0,0 h200 L2000,900 v500 h-800 L0,200z" />
+<path fill="#663300" d="M0,200 L1400,1400 0,1400z" />
+<path fill="#FFFFFF" d="M0,0 h500 a500,500 0 0,1 -500,500z" />
+<use xlink:href="#star" x="200" y="200"/>
+</svg>

@@ -1,0 +1,76 @@
+{
+  "id": "BR-PA-marituba",
+  "name": "Marituba (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PA",
+  "codes": {
+    "wikidata": "Q1805166"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "purple"
+    }
+  ],
+  "description": "Red and white horizontal stripes with a purple-blue triangle at the hoist bearing three white stars, from which a white band reading MARITUBA - PARÁ in green extends into the fly.",
+  "history": "Marituba is a municipality in the Belém metropolitan area of Pará, Brazil. Portuguese Wikipedia records that the flag was created by municipal law No. 12 of September 1997 under the first constitutional mayor, Fernando de Souza Corrêa: the sky blue stands for the sky, the green of the name for the forests, the white band for the Amazon, the two white stripes for the Guamá and Mocajatuba rivers and the red stripes for the three attempts at emancipation.",
+  "periods": [
+    {
+      "start": "1997"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Marituba.svg",
+    "https://www.wikidata.org/wiki/Q1805166",
+    "https://pt.wikipedia.org/wiki/Marituba",
+    "https://en.wikipedia.org/wiki/Marituba"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "red",
+        "white",
+        "red",
+        "white",
+        "red",
+        "white",
+        "red"
+      ],
+      "count": 7
+    },
+    {
+      "type": "triangle",
+      "color": "purple",
+      "position": "hoist",
+      "role": "blue triangle at the hoist"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "white",
+      "position": "hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "band reading MARITUBA - PARÁ in green"
+    }
+  ]
+}

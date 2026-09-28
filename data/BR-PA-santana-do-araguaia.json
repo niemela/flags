@@ -1,0 +1,75 @@
+{
+  "id": "BR-PA-santana-do-araguaia",
+  "name": "Santana do Araguaia (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PA",
+  "codes": {
+    "wikidata": "Q2008589"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided by a broad buff rising diagonal band tapering towards the upper fly, green in the upper hoist and blue in the lower fly, with a white star in the lower hoist and a red star in the upper fly.",
+  "history": "Santana do Araguaia is a municipality in the state of Pará, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_Santana_do_Araguaia.svg",
+    "https://www.wikidata.org/wiki/Q2008589",
+    "https://pt.wikipedia.org/wiki/Santana_do_Araguaia",
+    "https://en.wikipedia.org/wiki/Santana_do_Araguaia",
+    "https://www.crwflags.com/fotw/flags/br-pa112.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "blue",
+      "direction": "bend",
+      "role": "green upper hoist and blue lower fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "broad buff band"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "lower-hoist"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "red",
+      "position": "upper-fly"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "BR-PA-alenquer",
+  "name": "Alenquer (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PA",
+  "codes": {
+    "wikidata": "Q2289869"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided per bend red over green, with a curved white band extending from a yellow star near the hoist towards the lower fly.",
+  "history": "Alenquer is a municipality in the state of Pará, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Alenquer.svg",
+    "https://www.wikidata.org/wiki/Q2289869",
+    "https://pt.wikipedia.org/wiki/Alenquer_(Pará)",
+    "https://en.wikipedia.org/wiki/Alenquer,_Pará",
+    "https://www.crwflags.com/fotw/flags/br-pa006.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "green",
+      "direction": "bend-sinister",
+      "role": "red upper hoist and green lower fly"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "curved band from the star"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "hoist"
+    }
+  ]
+}

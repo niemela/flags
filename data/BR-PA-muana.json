@@ -1,0 +1,68 @@
+{
+  "id": "BR-PA-muana",
+  "name": "Muaná (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PA",
+  "codes": {
+    "wikidata": "Q1804369"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "5:8",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with a diagonal band of yellow over green from the upper hoist to the lower fly, charged at the centre with a blue star.",
+  "history": "Muaná is a municipality in the state of Pará, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Flag_of_Muana.svg",
+    "https://www.wikidata.org/wiki/Q1804369",
+    "https://pt.wikipedia.org/wiki/Muaná",
+    "https://en.wikipedia.org/wiki/Muaná",
+    "https://www.crwflags.com/fotw/flags/br-pa075.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "diagonal band of yellow over green"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "green lower half of the band"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "blue",
+      "position": "center"
+    }
+  ]
+}

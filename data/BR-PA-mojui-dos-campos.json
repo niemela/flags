@@ -1,0 +1,62 @@
+{
+  "id": "BR-PA-mojui-dos-campos",
+  "name": "Mojuí dos Campos (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PA",
+  "codes": {
+    "wikidata": "Q22074332"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally by a white band from the lower hoist to the upper fly into a dark blue upper hoist and a green lower fly, charged with a yellow sun with many rays.",
+  "history": "Mojuí dos Campos is a municipality in the state of Pará, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_Mojuí_dos_Campos_-_PA.svg",
+    "https://www.wikidata.org/wiki/Q22074332",
+    "https://pt.wikipedia.org/wiki/Mojuí_dos_Campos",
+    "https://en.wikipedia.org/wiki/Mojuí_dos_Campos"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "navy",
+      "bend": "green",
+      "direction": "bend",
+      "role": "dark blue upper hoist and green lower fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "diagonal band"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "role": "sun with many rays"
+    }
+  ]
+}
