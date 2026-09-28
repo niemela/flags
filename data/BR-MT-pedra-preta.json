@@ -1,0 +1,67 @@
+{
+  "id": "BR-MT-pedra-preta",
+  "name": "Pedra Preta (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-MT",
+  "codes": {
+    "wikidata": "Q1857809"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Green field with a horizontal band of blue and yellow through the centre, charged with a white disc bearing the municipal arms.",
+  "history": "Pedra Preta is a municipality in the state of Mato Grosso, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Pedra_Preta_-_MT.svg",
+    "https://www.wikidata.org/wiki/Q1857809",
+    "https://pt.wikipedia.org/wiki/Pedra_Preta_(Mato_Grosso)",
+    "https://en.wikipedia.org/wiki/Pedra_Preta"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "yellow"
+      ],
+      "count": 2,
+      "position": "center",
+      "role": "band of blue at the hoist and yellow at the fly"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center",
+      "role": "disc bearing the municipal arms"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "municipal arms"
+    }
+  ]
+}

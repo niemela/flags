@@ -1,0 +1,56 @@
+{
+  "id": "BR-MT-ribeiraozinho",
+  "name": "Ribeirãozinho (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-MT",
+  "codes": {
+    "wikidata": "Q1806514"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "White field with a dark blue triangle rising from the lower fly to a yellow star near the upper hoist.",
+  "history": "Ribeirãozinho is a municipality in the state of Mato Grosso, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Ribeirãozinho.svg",
+    "https://www.wikidata.org/wiki/Q1806514",
+    "https://pt.wikipedia.org/wiki/Ribeirãozinho",
+    "https://en.wikipedia.org/wiki/Ribeirãozinho"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "navy",
+      "position": "lower-fly",
+      "role": "triangle rising from the lower fly"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "upper-hoist"
+    }
+  ]
+}
