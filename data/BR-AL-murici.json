@@ -1,0 +1,58 @@
+{
+  "id": "BR-AL-murici",
+  "name": "Murici (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-AL",
+  "codes": {
+    "wikidata": "Q1795628"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Divided diagonally green and white by a white band rising to the fly, charged at the centre with a blue disc bearing the name MURICI and a ring of yellow stars, flanked by a sugar-cane plant and a coconut palm.",
+  "history": "Murici is a municipality in the state of Alagoas, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:BANDEIRAMURICI.svg",
+    "https://www.wikidata.org/wiki/Q1795628",
+    "https://pt.wikipedia.org/wiki/Murici_(Alagoas)",
+    "https://en.wikipedia.org/wiki/Murici"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "white",
+      "direction": "bend",
+      "role": "green and white divided diagonally"
+    },
+    {
+      "type": "disc",
+      "color": "blue",
+      "position": "center",
+      "role": "disc bearing the name MURICI with a white band and yellow stars"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "sugar cane and coconut palm flanking the disc"
+    }
+  ]
+}
