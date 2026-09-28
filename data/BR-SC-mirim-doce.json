@@ -1,0 +1,77 @@
+{
+  "id": "BR-SC-mirim-doce",
+  "name": "Mirim Doce (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SC",
+  "codes": {
+    "wikidata": "Q1799318"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Falling diagonal triband of green, orange and green overlaid by a central vertical red bar one third of the length, charged at the centre with the municipal arms.",
+  "history": "Mirim Doce is a municipality in the state of Santa Catarina, Brazil. The flag was adopted on 3 June 1993 (prescribed by Municipal Law No. 46 of 3 June 1993, according to Flags of the World).",
+  "periods": [
+    {
+      "start": "1993-06-03"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_do_município_de_Mirim_Doce_(SC).svg",
+    "https://www.wikidata.org/wiki/Q1799318",
+    "https://pt.wikipedia.org/wiki/Mirim_Doce",
+    "https://en.wikipedia.org/wiki/Mirim_Doce",
+    "https://www.crwflags.com/fotw/flags/br-sc162.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "green",
+      "bend": "green",
+      "direction": "bend-sinister",
+      "role": "green upper hoist and lower fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "orange",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "orange diagonal band"
+    },
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "red"
+      ],
+      "count": 1,
+      "position": "center",
+      "role": "central vertical red bar"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "municipal arms with a mural crown, a landscape and a bee, reading MIRIM DOCE"
+    }
+  ]
+}

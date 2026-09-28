@@ -1,0 +1,69 @@
+{
+  "id": "BR-SC-modelo",
+  "name": "Modelo (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-SC",
+  "codes": {
+    "wikidata": "Q1796806"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Red field with a dark blue triangle based on the fly edge, bordered in white and yellow, charged towards the hoist with a white disc bearing the municipal arms.",
+  "history": "Modelo is a municipality in the state of Santa Catarina, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_do_município_de_Modelo_(SC).svg",
+    "https://www.wikidata.org/wiki/Q1796806",
+    "https://pt.wikipedia.org/wiki/Modelo_(Santa_Catarina)",
+    "https://en.wikipedia.org/wiki/Modelo,_Santa_Catarina"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "red"
+    },
+    {
+      "type": "triangle",
+      "color": "navy",
+      "position": "fly",
+      "role": "triangle based on the fly edge, bordered in white and yellow"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "yellow border of the triangle"
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "hoist",
+      "role": "disc bearing the municipal arms"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "hoist",
+      "role": "municipal arms with a mural crown, reading MODELO"
+    }
+  ]
+}
