@@ -1,0 +1,67 @@
+{
+  "id": "BR-PE-agrestina",
+  "name": "Agrestina (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PE",
+  "codes": {
+    "wikidata": "Q1787629"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "purple"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Purple-blue field with a narrow white bend sinister rising from the lower hoist to the upper fly, three white stars above it and a white well below.",
+  "history": "Agrestina is a municipality in the state of Pernambuco, Brazil. Portuguese Wikipedia records that for the fiftieth anniversary of political emancipation on 11 September 1980 the municipality held a contest among the town's schoolchildren, won by Nicodemos José Torres, a seventh-grade pupil: the white band stands for the firmness and integrity of the people, the well for the town's origin and the stars for its districts.",
+  "periods": [
+    {
+      "start": "1980"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_agrestina.svg",
+    "https://www.wikidata.org/wiki/Q1787629",
+    "https://pt.wikipedia.org/wiki/Agrestina",
+    "https://en.wikipedia.org/wiki/Agrestina",
+    "https://www.crwflags.com/fotw/flags/br-pe004.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "purple"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "narrow diagonal band"
+    },
+    {
+      "type": "star",
+      "count": 3,
+      "points": 5,
+      "color": "white",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "lower-fly",
+      "role": "well"
+    }
+  ]
+}

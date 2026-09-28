@@ -1,0 +1,56 @@
+{
+  "id": "BR-PE-bodoco",
+  "name": "Bodocó (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PE",
+  "codes": {
+    "wikidata": "Q524487"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "White field with a green pall issuing from the hoist, a rainbow with a red cross in the upper fly and the municipal shield in the lower fly.",
+  "history": "Bodocó is a municipality in the state of Pernambuco, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Bodocó.svg",
+    "https://www.wikidata.org/wiki/Q524487",
+    "https://pt.wikipedia.org/wiki/Bodocó",
+    "https://en.wikipedia.org/wiki/Bodocó"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "pall",
+      "color": "green",
+      "role": "pall issuing from the hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "upper-fly",
+      "role": "rainbow with a sun and a red cross"
+    },
+    {
+      "type": "shield",
+      "color": "green",
+      "position": "lower-fly"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "BR-PE-altinho",
+  "name": "Altinho (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PE",
+  "codes": {
+    "wikidata": "Q1844246"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Dark green field with narrow white stripes across the lower part, a red Latin cross in the upper part and seven yellow stars in the upper fly.",
+  "history": "Altinho is a municipality in the state of Pernambuco, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_Altinho.svg",
+    "https://www.wikidata.org/wiki/Q1844246",
+    "https://pt.wikipedia.org/wiki/Altinho",
+    "https://en.wikipedia.org/wiki/Altinho,_Pernambuco",
+    "https://www.crwflags.com/fotw/flags/br-pe009.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green",
+        "white",
+        "green",
+        "white",
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 9
+    },
+    {
+      "type": "latin-cross",
+      "color": "red",
+      "position": "top"
+    },
+    {
+      "type": "star",
+      "count": 7,
+      "points": 5,
+      "color": "yellow",
+      "position": "upper-fly"
+    }
+  ]
+}

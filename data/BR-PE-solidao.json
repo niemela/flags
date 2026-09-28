@@ -1,0 +1,74 @@
+{
+  "id": "BR-PE-solidao",
+  "name": "Solidão (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PE",
+  "codes": {
+    "wikidata": "Q2064859"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "brown"
+    }
+  ],
+  "description": "Landscape flag: a dark blue sky with a yellow sun rising behind green hills, a green tree and a cactus, over a green field and blue water along the bottom.",
+  "history": "Solidão is a municipality in the state of Pernambuco, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Solidão.svg",
+    "https://www.wikidata.org/wiki/Q2064859",
+    "https://pt.wikipedia.org/wiki/Solidão_(Pernambuco)",
+    "https://en.wikipedia.org/wiki/Solidão"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "role": "sun rising behind the hills"
+    },
+    {
+      "type": "mountain",
+      "color": "green",
+      "role": "green hills"
+    },
+    {
+      "type": "tree",
+      "color": "green",
+      "position": "hoist"
+    },
+    {
+      "type": "cactus",
+      "color": "green"
+    },
+    {
+      "type": "wave",
+      "color": "blue",
+      "position": "bottom",
+      "role": "water along the bottom"
+    }
+  ]
+}

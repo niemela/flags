@@ -1,0 +1,64 @@
+{
+  "id": "BR-PE-angelim",
+  "name": "Angelim (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PE",
+  "codes": {
+    "wikidata": "Q1987808"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "3:4",
+  "colors": [
+    {
+      "color": "maroon"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Divided horizontally dark green over dark red with a dark blue triangle at the hoist bearing a white eight-pointed star between small stars.",
+  "history": "Angelim is a municipality in the state of Pernambuco, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Band_Angelim_PE.svg",
+    "https://www.wikidata.org/wiki/Q1987808",
+    "https://pt.wikipedia.org/wiki/Angelim",
+    "https://en.wikipedia.org/wiki/Angelim"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "maroon"
+      ],
+      "count": 2
+    },
+    {
+      "type": "triangle",
+      "color": "navy",
+      "position": "hoist",
+      "role": "triangle at the hoist"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 8,
+      "color": "white",
+      "position": "hoist",
+      "role": "eight-pointed star between small stars"
+    }
+  ]
+}
