@@ -1,0 +1,83 @@
+{
+  "id": "BR-PR-bom-sucesso-do-sul",
+  "name": "Bom Sucesso do Sul (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PR",
+  "codes": {
+    "wikidata": "Q2004481"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "green"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into a dark blue upper hoist bearing the Southern Cross in white and a white lower fly reading Bom Sucesso do Sul in blue, separated by yellow and green diagonal bands.",
+  "history": "Bom Sucesso do Sul is a municipality in the state of Paraná, Brazil. The flag was adopted in 1971 (designed under the coordination of the Enciclopédia Simbológica Municipalista Paranaense and prescribed by Law No. 5,700 of 1971, according to Flags of the World).",
+  "periods": [
+    {
+      "start": "1971"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Bom_Sucesso_do_Sul_PR.svg",
+    "https://www.wikidata.org/wiki/Q2004481",
+    "https://pt.wikipedia.org/wiki/Bom_Sucesso_do_Sul",
+    "https://en.wikipedia.org/wiki/Bom_Sucesso_do_Sul",
+    "https://www.crwflags.com/fotw/flags/br-pr043.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "navy",
+      "bend": "white",
+      "direction": "bend",
+      "role": "dark blue upper hoist and white lower fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "diagonal bands of yellow and green"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "green band of the diagonal"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "white",
+      "position": "upper-hoist",
+      "role": "Southern Cross"
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "lower-fly",
+      "role": "name Bom Sucesso do Sul"
+    }
+  ]
+}

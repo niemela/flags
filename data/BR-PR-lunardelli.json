@@ -1,0 +1,91 @@
+{
+  "id": "BR-PR-lunardelli",
+  "name": "Lunardelli (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PR",
+  "codes": {
+    "wikidata": "Q1804254"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Divided diagonally from the upper hoist to the lower fly by a broad yellow band edged in white into a dark blue upper fly and a green lower hoist, charged at the centre with a blue star outlined in red between four small red star outlines.",
+  "history": "Lunardelli is a municipality in the state of Paraná, Brazil. The flag was adopted on 16 July 1998 (designed by municipal civil servants and prescribed with the arms by Municipal Law No. 544 of 16 July 1998, according to Flags of the World).",
+  "periods": [
+    {
+      "start": "1998-07-16"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Lunardelli_PR.svg",
+    "https://www.wikidata.org/wiki/Q1804254",
+    "https://pt.wikipedia.org/wiki/Lunardelli",
+    "https://en.wikipedia.org/wiki/Lunardelli",
+    "https://www.crwflags.com/fotw/flags/br-pr195.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "navy",
+      "bend": "green",
+      "direction": "bend-sinister",
+      "role": "dark blue upper fly and green lower hoist"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "broad diagonal band"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "white bands on either side of the yellow"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "blue",
+      "position": "center",
+      "role": "star outlined in red"
+    },
+    {
+      "type": "star",
+      "count": 4,
+      "points": 5,
+      "color": "red",
+      "position": "center",
+      "role": "four small star outlines"
+    }
+  ]
+}

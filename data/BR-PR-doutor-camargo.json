@@ -1,0 +1,62 @@
+{
+  "id": "BR-PR-doutor-camargo",
+  "name": "Doutor Camargo (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PR",
+  "codes": {
+    "wikidata": "Q1773318"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    }
+  ],
+  "description": "Divided diagonally from the lower hoist to the upper fly into a red upper hoist and a dark blue lower fly, separated by a white band bearing a dark blue star.",
+  "history": "Doutor Camargo is a municipality in the state of Paraná, Brazil, named after the surgeon Antônio Cândido Camargo. Flags of the World records that the coat of arms was designed in 1973 by Miguel Requena Filho; the flag's date is not given.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Doutor_Camargo_PR.svg",
+    "https://www.wikidata.org/wiki/Q1773318",
+    "https://pt.wikipedia.org/wiki/Doutor_Camargo",
+    "https://en.wikipedia.org/wiki/Doutor_Camargo",
+    "https://www.crwflags.com/fotw/flags/br-pr102.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "navy",
+      "direction": "bend",
+      "role": "red upper hoist and dark blue lower fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "diagonal band"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "navy",
+      "position": "center"
+    }
+  ]
+}

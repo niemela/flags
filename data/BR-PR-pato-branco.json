@@ -1,0 +1,76 @@
+{
+  "id": "BR-PR-pato-branco",
+  "name": "Pato Branco (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PR",
+  "codes": {
+    "wikidata": "Q1772650"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "White field with a green right triangle in the upper hoist bearing a white star, a yellow diagonal stripe parallel to its hypotenuse and a green disc in the lower fly bearing clasped hands.",
+  "history": "Pato Branco is a municipality in the state of Paraná, Brazil. Portuguese Wikipedia gives the meaning of the colours from the municipal law: the green of the triangle for nature and hope, the white for peace.",
+  "periods": [
+    {
+      "start": "1986-05-13"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Pato_Branco.svg",
+    "https://www.wikidata.org/wiki/Q1772650",
+    "https://pt.wikipedia.org/wiki/Pato_Branco",
+    "https://en.wikipedia.org/wiki/Pato_Branco",
+    "https://www.crwflags.com/fotw/flags/br-pr-pb.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "upper-hoist",
+      "role": "right triangle filling the upper hoist"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "stripe parallel to the triangle"
+    },
+    {
+      "type": "disc",
+      "color": "green",
+      "position": "lower-fly",
+      "role": "disc bearing clasped hands"
+    }
+  ]
+}

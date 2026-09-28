@@ -1,0 +1,89 @@
+{
+  "id": "BR-PR-palmeira",
+  "name": "Palmeira (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PR",
+  "codes": {
+    "wikidata": "Q2039438"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "Lower half green with a white oil lamp in the lower fly; upper half divided into a white hoist bearing a green palm tree and the Southern Cross in light blue, and a fly of nine light blue and white stripes.",
+  "history": "Palmeira is a municipality in the state of Paraná, Brazil. Flags of the World quotes the law: the green stands for plant resources, the white stripes for the people's peaceful spirit and the blue ones for the sky.",
+  "periods": [
+    {
+      "start": "1955-02-24"
+    }
+  ],
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_Palmeira_-_PR.svg",
+    "https://www.wikidata.org/wiki/Q2039438",
+    "https://pt.wikipedia.org/wiki/Palmeira_(Paraná)",
+    "https://en.wikipedia.org/wiki/Palmeira,_Paraná",
+    "https://www.crwflags.com/fotw/flags/br-pr-pl.html"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "white",
+        "light-blue",
+        "white",
+        "light-blue",
+        "white",
+        "light-blue",
+        "white",
+        "light-blue"
+      ],
+      "count": 9,
+      "position": "upper-fly",
+      "role": "nine stripes in the upper fly"
+    },
+    {
+      "type": "palm",
+      "color": "green",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "star",
+      "count": 5,
+      "points": 5,
+      "color": "light-blue",
+      "position": "upper-hoist",
+      "role": "Southern Cross"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "lower-fly",
+      "role": "oil lamp"
+    }
+  ]
+}

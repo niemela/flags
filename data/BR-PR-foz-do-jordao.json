@@ -1,0 +1,68 @@
+{
+  "id": "BR-PR-foz-do-jordao",
+  "name": "Foz do Jordão (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PR",
+  "codes": {
+    "wikidata": "Q1804288"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "red"
+    }
+  ],
+  "description": "Horizontal tricolour of dark blue, white and green, the blue bearing a large yellow star with smaller stars and the white a rainbow.",
+  "history": "Foz do Jordão is a municipality in the state of Paraná, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Foz_do_Jordão_PR.svg",
+    "https://www.wikidata.org/wiki/Q1804288",
+    "https://pt.wikipedia.org/wiki/Foz_do_Jordão",
+    "https://en.wikipedia.org/wiki/Foz_do_Jordão"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "navy",
+        "white",
+        "green"
+      ],
+      "count": 3
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "large star with four smaller stars"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "rainbow"
+    }
+  ]
+}
