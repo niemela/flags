@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="310"
+   height="216">
+  <defs>
+   <path id="star"
+    style="fill:white;"
+    d="M 19.657715,52.3622 L 12.148944,47.1278 L 4.631458,52.3496 L 7.289289,43.5909 L 0,38.055 L 9.151401,37.8761 L 12.163858,29.2329 L 15.161903,37.8811 L 24.312994,38.0752 L 17.014487,43.599 L 19.657715,52.3622 z" />
+   </defs>
+  <rect
+     width="310"
+     height="216"
+     x="0"
+     y="0"
+     style="fill:#0fa1c7;" />
+  <rect
+     width="20"
+     height="216"
+     x="116"
+     y="0"
+     style="fill:#ffffff;" />
+  <rect
+     width="310"
+     height="20"
+     x="0"
+     y="98"
+     style="fill:#ffffff;" />
+
+  <use xlink:href="#star" transform="translate(45 8)" />
+  <use xlink:href="#star" transform="translate(10 -15)" />
+  <use xlink:href="#star" transform="translate(10 28)" />
+  <use xlink:href="#star" transform="translate(80 28)" />
+  <use xlink:href="#star" transform="translate(80 -15)" />
+</svg>

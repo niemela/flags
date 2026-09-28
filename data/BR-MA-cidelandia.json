@@ -1,0 +1,63 @@
+{
+  "id": "BR-MA-cidelandia",
+  "name": "Cidelândia (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-MA",
+  "codes": {
+    "wikidata": "Q924546"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "7:10",
+  "colors": [
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Dark blue field divided by a rising diagonal band of yellow and white from the lower hoist to the upper fly, with a yellow sunburst in the upper hoist.",
+  "history": "Cidelândia is a municipality in the state of Maranhão, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Cidelândia.svg",
+    "https://www.wikidata.org/wiki/Q924546",
+    "https://pt.wikipedia.org/wiki/Cidelândia",
+    "https://en.wikipedia.org/wiki/Cidelândia"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "navy"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "yellow",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "diagonal band of yellow and white"
+    },
+    {
+      "type": "glyph",
+      "color": "white",
+      "position": "center",
+      "role": "white lower edge of the band"
+    },
+    {
+      "type": "sun",
+      "color": "yellow",
+      "position": "upper-hoist",
+      "role": "sunburst"
+    }
+  ]
+}

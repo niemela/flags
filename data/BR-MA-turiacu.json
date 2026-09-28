@@ -1,0 +1,79 @@
+{
+  "id": "BR-MA-turiacu",
+  "name": "Turiaçu (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-MA",
+  "codes": {
+    "wikidata": "Q634717"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "Horizontal stripes of green and yellow in the fly and of white, red and black in the hoist, with a blue canton bearing the municipal arms.",
+  "history": "Turiaçu is a municipality in the state of Maranhão, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Turiaçu_-_MA.svg",
+    "https://www.wikidata.org/wiki/Q634717",
+    "https://pt.wikipedia.org/wiki/Turiaçu",
+    "https://en.wikipedia.org/wiki/Turiaçu"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "yellow",
+        "green",
+        "yellow",
+        "green"
+      ],
+      "count": 5
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "red",
+        "white",
+        "black",
+        "white",
+        "red",
+        "white"
+      ],
+      "count": 7,
+      "position": "hoist",
+      "role": "stripes of white, red and black at the hoist"
+    },
+    {
+      "type": "canton",
+      "color": "blue",
+      "role": "canton bearing the municipal arms"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "BR-MA-conceicao-do-lago-acu",
+  "name": "Conceição do Lago-Açu (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-MA",
+  "codes": {
+    "wikidata": "Q2012506"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "grey"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Light blue field with a grey-green upper part crossed by yellow rays spreading from a yellow star at the hoist, with a white star below it.",
+  "history": "Conceição do Lago-Açu is a municipality in the state of Maranhão, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_Conceição_do_Lago_Açu.svg",
+    "https://www.wikidata.org/wiki/Q2012506",
+    "https://pt.wikipedia.org/wiki/Conceição_do_Lago_Açu",
+    "https://en.wikipedia.org/wiki/Conceição_do_Lago-Açu"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "blue"
+    },
+    {
+      "type": "glyph",
+      "color": "grey",
+      "position": "top",
+      "role": "grey-green upper field"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "center",
+      "role": "rays spreading from a star at the hoist"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "hoist"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "lower-hoist"
+    }
+  ]
+}

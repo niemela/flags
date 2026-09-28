@@ -1,0 +1,82 @@
+{
+  "id": "BR-MA-central-do-maranhao",
+  "name": "Central do Maranhão (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-MA",
+  "codes": {
+    "wikidata": "Q2068312"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "black"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Divided diagonally dark blue over green by a band of white, red and black from the lower hoist to the upper fly, with a yellow star in the upper hoist.",
+  "history": "Central do Maranhão is a municipality in the state of Maranhão, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Central_do_Maranhão_MA.svg",
+    "https://www.wikidata.org/wiki/Q2068312",
+    "https://pt.wikipedia.org/wiki/Central_do_Maranhão",
+    "https://en.wikipedia.org/wiki/Central_do_Maranhão"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "navy",
+      "bend": "green",
+      "direction": "bend",
+      "role": "dark blue upper hoist and green lower fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "diagonal band of white, red and black"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "red stripe of the band"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "black stripe of the band"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "upper-hoist"
+    }
+  ]
+}

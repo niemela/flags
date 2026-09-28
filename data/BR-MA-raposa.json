@@ -1,0 +1,68 @@
+{
+  "id": "BR-MA-raposa",
+  "name": "Raposa (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-MA",
+  "codes": {
+    "wikidata": "Q2065202"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "White field with a dark blue stripe along the bottom bearing a yellow scroll with the date 10-11-1995, charged with the municipal shield — a sail on blue in a red-edged shield — between green branches under a yellow star.",
+  "history": "Raposa is a municipality in the state of Maranhão, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Raposa.svg",
+    "https://www.wikidata.org/wiki/Q2065202",
+    "https://pt.wikipedia.org/wiki/Raposa_(Maranhão)",
+    "https://en.wikipedia.org/wiki/Raposa"
+  ],
+  "features": [
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "white",
+        "navy"
+      ],
+      "count": 2
+    },
+    {
+      "type": "shield",
+      "color": "navy",
+      "role": "shield with a sail, edged in red, between green branches"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "top"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "bottom",
+      "role": "scroll reading 10-11-1995"
+    }
+  ]
+}
