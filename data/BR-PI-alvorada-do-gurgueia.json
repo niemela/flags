@@ -1,0 +1,85 @@
+{
+  "id": "BR-PI-alvorada-do-gurgueia",
+  "name": "Alvorada do Gurgueia (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PI",
+  "codes": {
+    "wikidata": "Q1940535"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "3:5",
+  "colors": [
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "orange"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "light-blue"
+    }
+  ],
+  "description": "Green field with a yellow off-centred cross, the upper fly quarter filled yellow with an orange setting sun, a white star in the upper hoist and light blue stripes across the lower hoist.",
+  "history": "Alvorada do Gurguéia is a municipality in the state of Piauí, Brazil. Flags of the World describes a different design, a white field with a curved green-yellow-green swath below a sunset in a blue panel, with the name and motto in black.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira-de-Alvorada-de-Gurguéia-PI.svg",
+    "https://www.wikidata.org/wiki/Q1940535",
+    "https://pt.wikipedia.org/wiki/Alvorada_do_Gurgueia",
+    "https://en.wikipedia.org/wiki/Alvorada_do_Gurguéia",
+    "https://www.crwflags.com/fotw/flags/br-pi008.html"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "green"
+    },
+    {
+      "type": "nordic-cross",
+      "color": "yellow",
+      "role": "off-centred cross"
+    },
+    {
+      "type": "glyph",
+      "color": "yellow",
+      "position": "upper-fly",
+      "role": "yellow upper fly quarter"
+    },
+    {
+      "type": "sun",
+      "color": "orange",
+      "position": "upper-fly",
+      "role": "setting sun"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "white",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "light-blue",
+        "green",
+        "light-blue"
+      ],
+      "count": 3,
+      "position": "lower-hoist",
+      "role": "light blue stripes across the lower hoist"
+    }
+  ]
+}
