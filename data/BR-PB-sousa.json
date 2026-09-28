@@ -1,0 +1,73 @@
+{
+  "id": "BR-PB-sousa",
+  "name": "Sousa (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PB",
+  "codes": {
+    "wikidata": "Q2011653"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "black"
+    }
+  ],
+  "description": "Vertical tricolour of green, red and white in the proportions 4:1:1, charged at the centre with the municipal emblem, a black spiral overlaid by a blue stroke on a white disc.",
+  "history": "Sousa is a municipality in the state of Paraíba, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Sousa.svg",
+    "https://www.wikidata.org/wiki/Q2011653",
+    "https://pt.wikipedia.org/wiki/Sousa_(Paraíba)",
+    "https://en.wikipedia.org/wiki/Sousa,_Paraíba",
+    "https://www.crwflags.com/fotw/flags/br-pb211.html"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "green",
+        "red",
+        "white"
+      ],
+      "count": 3
+    },
+    {
+      "type": "disc",
+      "color": "white",
+      "position": "center",
+      "role": "disc bearing a black spiral and a blue stroke"
+    },
+    {
+      "type": "glyph",
+      "color": "black",
+      "position": "center",
+      "role": "spiral"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "blue stroke"
+    }
+  ]
+}

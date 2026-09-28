@@ -1,0 +1,74 @@
+{
+  "id": "BR-PB-riachao-do-poco",
+  "name": "Riachão do Poço (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PB",
+  "codes": {
+    "wikidata": "Q969630"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "purple"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "pink"
+    }
+  ],
+  "description": "White field with blue stripes along the top and purple wavy stripes in the lower fly, and a green triangle at the hoist bearing 5 - MAIO - 1994 in white.",
+  "history": "Riachão do Poço is a municipality in the state of Paraíba, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Riachão_do_Poço-PB.svg",
+    "https://www.wikidata.org/wiki/Q969630",
+    "https://pt.wikipedia.org/wiki/Riachão_do_Poço",
+    "https://en.wikipedia.org/wiki/Riachão_do_Poço"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "blue",
+        "white",
+        "blue",
+        "white",
+        "blue"
+      ],
+      "count": 5,
+      "position": "top",
+      "role": "blue stripes along the top"
+    },
+    {
+      "type": "wave",
+      "color": "purple",
+      "position": "lower-fly",
+      "role": "purple wavy stripes"
+    },
+    {
+      "type": "triangle",
+      "color": "green",
+      "position": "hoist",
+      "role": "triangle bearing 5 - MAIO - 1994"
+    }
+  ]
+}

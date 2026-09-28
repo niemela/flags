@@ -1,0 +1,63 @@
+{
+  "id": "BR-PB-algodao-de-jandaira",
+  "name": "Algodão de Jandaíra (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PB",
+  "codes": {
+    "wikidata": "Q1759357"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "Descending diagonal triband of red, white and red, charged at the centre with a yellow star bearing the municipal seal reading ALGODÃO DE JANDAÍRA 29 DE ABRIL DE 1994.",
+  "history": "Algodão de Jandaíra is a municipality in the state of Paraíba, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Algodão_de_Jandaíra-PB.svg",
+    "https://www.wikidata.org/wiki/Q1759357",
+    "https://pt.wikipedia.org/wiki/Algodão_de_Jandaíra",
+    "https://en.wikipedia.org/wiki/Algodão_de_Jandaíra",
+    "https://www.crwflags.com/fotw/flags/br-pb007.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "red",
+      "bend": "red",
+      "direction": "bend-sinister",
+      "role": "red upper hoist and lower fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend-sinister",
+      "role": "white diagonal band"
+    },
+    {
+      "type": "star",
+      "count": 1,
+      "points": 5,
+      "color": "yellow",
+      "position": "center",
+      "role": "star bearing the municipal seal"
+    }
+  ]
+}

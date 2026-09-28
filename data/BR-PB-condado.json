@@ -1,0 +1,76 @@
+{
+  "id": "BR-PB-condado",
+  "name": "Condado (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PB",
+  "codes": {
+    "wikidata": "Q635267"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "navy"
+    },
+    {
+      "color": "yellow"
+    }
+  ],
+  "description": "A hoist divided white over dark blue, the white bearing a yellow crown, and a fly of green and white horizontal stripes.",
+  "history": "Condado is a municipality in the state of Paraíba, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Condado-PB.svg",
+    "https://www.wikidata.org/wiki/Q635267",
+    "https://pt.wikipedia.org/wiki/Condado_(Paraíba)",
+    "https://en.wikipedia.org/wiki/Condado,_Paraíba"
+  ],
+  "features": [
+    {
+      "type": "vertical-stripes",
+      "stripes": [
+        "white",
+        "green"
+      ],
+      "count": 2
+    },
+    {
+      "type": "glyph",
+      "color": "navy",
+      "position": "lower-hoist",
+      "role": "dark blue lower hoist"
+    },
+    {
+      "type": "crown",
+      "color": "yellow",
+      "position": "upper-hoist"
+    },
+    {
+      "type": "horizontal-stripes",
+      "stripes": [
+        "green",
+        "white",
+        "green",
+        "white",
+        "green",
+        "white",
+        "green"
+      ],
+      "count": 7,
+      "position": "fly",
+      "role": "green and white stripes in the fly"
+    }
+  ]
+}

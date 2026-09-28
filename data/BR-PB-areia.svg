@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2376" height="1346" fill="#E5322C">
+<rect width="2376" height="1346" fill="#F9DD32" />
+<g id="first-row">
+<circle id="circle" cx="396.5" cy="262.6" r="160.8" />
+<path id="star" d="M1188.2,80 l57.8,94.5 h114 l-57,95.5 l57,95.5 h-114 l-57.8,94.5 l-57.8,-94.5 h-114 l57,-95.5 l-57,-95.5 h114" />
+<use xlink:href="#circle" x="1584" />
+</g>
+<use xlink:href="#star" x="-792" y="402" />
+<use xlink:href="#circle" x="792" y="410" />
+<use xlink:href="#star" x="792" y="402" />
+<use xlink:href="#first-row" y="819.8" />
+</svg>

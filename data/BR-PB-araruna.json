@@ -1,0 +1,57 @@
+{
+  "id": "BR-PB-araruna",
+  "name": "Araruna (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-PB",
+  "codes": {
+    "wikidata": "Q2065337"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "2:3",
+  "colors": [
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    }
+  ],
+  "description": "Rising diagonal triband of blue, white and blue, charged at the centre with the municipal arms reading 1876 ARARUNA-PB.",
+  "history": "Araruna is a municipality in the state of Paraíba, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_de_Araruna-PB.svg",
+    "https://www.wikidata.org/wiki/Q2065337",
+    "https://pt.wikipedia.org/wiki/Araruna_(Paraíba)",
+    "https://en.wikipedia.org/wiki/Araruna,_Paraíba",
+    "https://www.crwflags.com/fotw/flags/br-pb013.html"
+  ],
+  "features": [
+    {
+      "type": "per-bend",
+      "field": "blue",
+      "bend": "blue",
+      "direction": "bend",
+      "role": "blue upper hoist and lower fly"
+    },
+    {
+      "type": "diagonal-stripes",
+      "color": "white",
+      "position": "center",
+      "count": 1,
+      "direction": "bend",
+      "role": "white diagonal band"
+    },
+    {
+      "type": "coat-of-arms",
+      "position": "center",
+      "role": "municipal arms with a macaw between branches, reading 1876 ARARUNA-PB"
+    }
+  ]
+}
