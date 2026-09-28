@@ -1,0 +1,64 @@
+{
+  "id": "BR-ES-governador-lindenberg",
+  "name": "Governador Lindenberg (Brazil)",
+  "type": [
+    "city"
+  ],
+  "parent": "BR-ES",
+  "codes": {
+    "wikidata": "Q1985082"
+  },
+  "region": [
+    "Americas",
+    "South America",
+    "Latin America",
+    "Lusophone"
+  ],
+  "aspect_ratio": "3:4",
+  "colors": [
+    {
+      "color": "white"
+    },
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "blue"
+    }
+  ],
+  "description": "White field with three rays of blue, red and green spreading from the lower hoist corner to the top edge and upper fly.",
+  "history": "Governador Lindenberg is a municipality in the state of Espírito Santo, Brazil.",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Bandeira_Governador_Lindenberg.svg",
+    "https://www.wikidata.org/wiki/Q1985082",
+    "https://pt.wikipedia.org/wiki/Governador_Lindenberg",
+    "https://en.wikipedia.org/wiki/Governador_Lindenberg"
+  ],
+  "features": [
+    {
+      "type": "solid",
+      "color": "white"
+    },
+    {
+      "type": "glyph",
+      "color": "blue",
+      "position": "center",
+      "role": "blue ray from the lower hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "red",
+      "position": "center",
+      "role": "red ray from the lower hoist"
+    },
+    {
+      "type": "glyph",
+      "color": "green",
+      "position": "center",
+      "role": "green ray from the lower hoist"
+    }
+  ]
+}
